@@ -1,6 +1,8 @@
 ---
 title: "Esophageal Perforations"
-format: revealjs
+format: 
+  revealjs:
+    theme: [moon]
 editor: visual
 ---
 
