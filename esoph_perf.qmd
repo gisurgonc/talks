@@ -67,7 +67,7 @@ Upper GI with gastrograffin (?)
 # Nonoperative Management
 
 -   Clinical stability, with minimal signs of sepsis or systemic inflammatory response on presentation. Patients must remain this way; they should have a reliable examination and constant monitoring for any changes in clinical status.
--   Instrumental perforations in which patients have been nil per os (NPO; nothing by mouth) and in which the perforation is detected early or “tolerance” develops to the perforation without the need for surgery
+-   Instrumental perforations in which patients have been nil per os (NPO; nothing by mouth) and in which the perforation is detected early or "tolerance" develops to the perforation without the need for surgery
 -   Perforation contained within the neck or mediastinum with no extravasation and no signs of crepitus, pneumothorax, or pneumoperitoneum
 
 # Non-operative management
