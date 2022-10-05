@@ -1,0 +1,78 @@
+---
+title: "Esophagectomy ERAS"
+editor: visual
+bibliography: zotero.bib
+---
+
+# Early Recovery after Esophagectomy
+
+ERAS society guidelines  [@low299]. 
+
+Systmatic review 2014  [@findlay413]
+
+Meta-analysis [@pisarskae0174382], included 2042 patients (1058 in an ERAS group vs 984 in a traditional group), revealed a significantly shorter hospital stay and fewer non-surgical and pulmonary complications in the ERAS group, but no effect on overall morbidity, mortality or readmission rates. 
+
+Meta-analysis of critical factors  [@markar1] 
+
+## Nutritional Assessment
+
+## Preoperative enteral nutrition
+
+## Smoking Cessation
+
+Randomized trial of smoking cessation [@lindstrom739]
+
+## Preoperative counseling
+
+## Preoperative pulmonary function testing
+
+Society for Thoracic Surgery database dictates pulmonary function testing on all patients prior to esophagectomy
+
+## VTE Prophylaxis
+
+American College of Chest Physicians guidelines[@goulde227S]
+
+*Should we administer preoperative heparin routinely?*
+
+*Duration of prophylactic anticoagulation after hospital discharge?*
+
+*Resumption of anticoagulation in the chronically-anticoagulated patient?*
+
+## Carbohydrate loading
+
+Bilku DK, Dennison AR, Hall TC, Metcalfe MS, Garcea G. Role of preoperative carbohydrate loading: a systematic review. Ann R Coll Surg Engl. 2014;96:15
+
+# Intraoperative Care
+
+## Lung-protective anesthesia
+
+## Early extubation
+
+## Intraoperative fluid management
+
+## Regional analgesia
+
+## Avoidance of hypothermia
+
+
+# Postoperative Care
+
+## NG decompression
+
+The ERAS society guidelines recommend routine nasogastric decompression post-esophagectomy, but with early removal, on day 2, when clinically appropriate [10].
+
+## Chest drainage
+
+## Atrial fibrillation prophylaxix
+
+## Proton pump inhibitors
+
+## Evaluation for anastomotic leak
+
+### Drain amylase
+
+### Markers of systemic inflammation
+
+### CT Esophagram
+
+

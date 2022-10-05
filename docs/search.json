@@ -26,5 +26,103 @@
     "title": "GI Surgical Oncology Talks",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "todo.html",
+    "href": "todo.html",
+    "title": "To Do",
+    "section": "",
+    "text": "Add catchment area to LOI\nChange timing to end of radiation\n\nSend to Dr White when done\n\n\n\n\nEmail Sachdev about research Email Kevin about research resident Upload race information Plan REDCap - Need mapping from STS Database - Need mapping from NSQIP - Need mapping to consortium complications\n\n\n\nWhat information is available from cancer registry? - What software vendor is used for cancer registry? info from data warehouse?\nReilly - make document for protocols: - LCI_Multi_NUTR_001 - LIC_GI_GASTRO_DB001R"
+  },
+  {
+    "objectID": "todo.html#clinic",
+    "href": "todo.html#clinic",
+    "title": "To Do",
+    "section": "Clinic",
+    "text": "Clinic\n\nCounselling form Add orders\n\nAnnetta - shared calendar\n\nwhen work on CRT+S patient starting from oldest first email about resident research and student research Make missing data reports upload race information DUA -> Wake Adddresses to Mike Inman Tickets for MPLS Email Hart and Josh about pilot Clinical FU CT with renal protocol for FU of PET findings - with Kayla Terry Hyman Memorial service music"
+  },
+  {
+    "objectID": "sarcopenia_lit.html",
+    "href": "sarcopenia_lit.html",
+    "title": "To Do",
+    "section": "",
+    "text": "References\n\nAmini, Behrang, Sean P. Boyle, Robert D. Boutin, and Leon Lenchik. 2019. “Approaches to Assessment of Muscle Mass and Myosteatosis on Computed Tomography: A Systematic Review.” The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences 74 (10): 1671–78. https://doi.org/10.1093/gerona/glz034.\n\n\nBae, Kyongtae T. 2010. “Intravenous Contrast Medium Administration and Scan Timing at CT: Considerations and Approaches.” Radiology 256 (1): 32–61. https://doi.org/10.1148/radiol.10090908.\n\n\nBarnard, Ryan, Josh Tan, Brandon Roller, Caroline Chiles, Ashley A. Weaver, Robert D. Boutin, Stephen B. Kritchevsky, and Leon Lenchik. 2019. “Machine Learning for Automatic Paraspinous Muscle Area and Attenuation Measures on Low-Dose Chest CT Scans.” Academic Radiology 26 (12): 1686–94. https://doi.org/10.1016/j.acra.2019.06.017.\n\n\nBedenne, Laurent, Pierre Michel, Olivier Bouché, Chantal Milan, Christophe Mariette, Thierry Conroy, Denis Pezet, et al. 2007. “Chemoradiation Followed by Surgery Compared with Chemoradiation Alone in Squamous Cancer of the Esophagus: FFCD 9102.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 25 (10): 1160–68. https://doi.org/10.1200/JCO.2005.04.7118.\n\n\nBoutin, Robert D., Justin M. Kaptuch, Cyrus P. Bateni, James S. Chalfant, and Lawrence Yao. 2016. “Influence of IV Contrast Administration on CT Measures of Muscle and Bone Attenuation: Implications for Sarcopenia and Osteoporosis Evaluation.” AJR. American Journal of Roentgenology 207 (5): 1046–54. https://doi.org/10.2214/AJR.16.16387.\n\n\nCastoro, Carlo, Marco Scarpa, Matteo Cagol, Rita Alfieri, Alberto Ruol, Francesco Cavallin, Silvia Michieletto, et al. 2013. “Complete Clinical Response After Neoadjuvant Chemoradiotherapy for Squamous Cell Cancer of the Thoracic Oesophagus: Is Surgery Always Necessary?” Journal of Gastrointestinal Surgery: Official Journal of the Society for Surgery of the Alimentary Tract 17 (8): 1375–81. https://doi.org/10.1007/s11605-013-2269-3.\n\n\nFaiz, Z., M. van Putten, R. H. A. Verhoeven, J. W. van Sandick, G. a. P. Nieuwenhuijzen, M. J. C. van der Sangen, V. E. P. P. Lemmens, B. P. L. Wijnhoven, and J. T. M. Plukker. 2019. “Impact of Age and Comorbidity on Choice and Outcome of Two Different Treatment Options for Patients with Potentially Curable Esophageal Cancer.” Annals of Surgical Oncology 26 (4): 986–95. https://doi.org/10.1245/s10434-019-07181-6.\n\n\nFarrow, Norma E., Vignesh Raman, Oliver K. Jawitz, Soraya L. Voigt, Betty C. Tong, David H. Harpole, and Thomas A. D’Amico. 2021. “Impact of Age on Surgical Outcomes for Locally Advanced Esophageal Cancer.” The Annals of Thoracic Surgery 111 (3): 996–1003. https://doi.org/10.1016/j.athoracsur.2020.06.055.\n\n\nFuchs, Georg, Yves R. Chretien, Julia Mario, Synho Do, Matthias Eikermann, Bob Liu, Kai Yang, and Florian J. Fintelmann. 2018. “Quantifying the Effect of Slice Thickness, Intravenous Contrast and Tube Current on Muscle Segmentation: Implications for Body Composition Analysis.” European Radiology 28 (6): 2455–63. https://doi.org/10.1007/s00330-017-5191-3.\n\n\nGraffy, Peter M., Jiamin Liu, Perry J. Pickhardt, Joseph E. Burns, Jianhua Yao, and Ronald M. Summers. 2019. “Deep Learning-Based Muscle Segmentation and Quantification at Abdominal CT: Application to a Longitudinal Adult Screening Cohort for Sarcopenia Assessment.” The British Journal of Radiology 92 (1100): 20190327. https://doi.org/10.1259/bjr.20190327.\n\n\nHategan, M., N. Cook, S. Prewett, A. Hindmarsh, W. Qian, and D. Gilligan. 2015. “Trimodality Therapy and Definitive Chemoradiotherapy for Esophageal Cancer: A Single-Center Experience and Review of the Literature.” Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus 28 (7): 612–18. https://doi.org/10.1111/dote.12242.\n\n\nHemke, Robert, Colleen G. Buckless, Andrew Tsao, Benjamin Wang, and Martin Torriani. 2020. “Deep Learning for Automated Segmentation of Pelvic Muscles, Fat, and Bone from CT Studies for Body Composition Assessment.” Skeletal Radiology 49 (3): 387–95. https://doi.org/10.1007/s00256-019-03289-8.\n\n\nHopkins, Jessica J., Daniel Skubleny, David L. Bigam, Vickie E. Baracos, Dean T. Eurich, and Michael B. Sawyer. 2018. “Barriers to the Interpretation of Body Composition in Colorectal Cancer: A Review of the Methodological Inconsistency and Complexity of the CT-Defined Body Habitus.” Annals of Surgical Oncology 25 (5): 1381–94. https://doi.org/10.1245/s10434-018-6395-8.\n\n\nIslam, S., F. Kanavati, Z. Arain, O. Fadeeva Da Costa, W. Crum, E. O. Aboagye, and A. G. Rockall. 2022. “Fully Automated Deep-Learning Section-Based Muscle Segmentation from CT Images for Sarcopenia Assessment.” Clinical Radiology 77 (5): e363–71. https://doi.org/10.1016/j.crad.2022.01.036.\n\n\nJang, Samuel, Peter M. Graffy, Timothy J. Ziemlewicz, Scott J. Lee, Ronald M. Summers, and Perry J. Pickhardt. 2019. “Opportunistic Osteoporosis Screening at Routine Abdominal and Thoracic CT: Normative L1 Trabecular Attenuation Values in More Than 20 000 Adults.” Radiology 291 (2): 360–67. https://doi.org/10.1148/radiol.2019181648.\n\n\nJensen, Garrett L., Kendall P. Hammonds, and Waqar Haque. 2022. “Neoadjuvant Versus Definitive Chemoradiation in Locally Advanced Esophageal Cancer for Patients of Advanced Age or Significant Comorbidities.” Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus, July, doac050. https://doi.org/10.1093/dote/doac050.\n\n\nKöster, Johannes, and Sven Rahmann. 2012. “Snakemake–a Scalable Bioinformatics Workflow Engine.” Bioinformatics (Oxford, England) 28 (19): 2520–22. https://doi.org/10.1093/bioinformatics/bts480.\n\n\nKullberg, Joel, Anders Hedström, John Brandberg, Robin Strand, Lars Johansson, Göran Bergström, and Håkan Ahlström. 2017. “Automated Analysis of Liver Fat, Muscle and Adipose Tissue Distribution from CT Suitable for Large-Scale Studies.” Scientific Reports 7 (1): 10425. https://doi.org/10.1038/s41598-017-08925-8.\n\n\nLee, Hyunkwang, Fabian M. Troschel, Shahein Tajmir, Georg Fuchs, Julia Mario, Florian J. Fintelmann, and Synho Do. 2017. “Pixel-Level Deep Segmentation: Artificial Intelligence Quantifies Muscle on Computed Tomography for Body Morphometric Analysis.” Journal of Digital Imaging 30 (4): 487–98. https://doi.org/10.1007/s10278-017-9988-z.\n\n\nLenchik, Leon, Laura Heacock, Ashley A. Weaver, Robert D. Boutin, Tessa S. Cook, Jason Itri, Christopher G. Filippi, et al. 2019. “Automated Segmentation of Tissues Using CT and MRI: A Systematic Review.” Academic Radiology 26 (12): 1695–1706. https://doi.org/10.1016/j.acra.2019.07.006.\n\n\nLv, Hao, Ce Chao, Bin Wang, Zhigang Wang, Yongxiang Qian, and Xiaoying Zhang. 2021. “The Effect of Surgery Plus Chemoradiotherapy on Survival of Elderly Patients with Stage II-III Esophageal Cancer: A SEER-based Demographic Analysis.” Cancer Medicine 10 (23): 8483–96. https://doi.org/10.1002/cam4.4352.\n\n\nMartin, Lisa, Ioannis Gioulbasanis, Pierre Senesse, and Vickie E. Baracos. 2020. “Cancer-Associated Malnutrition and CT-Defined Sarcopenia and Myosteatosis Are Endemic in Overweight and Obese Patients.” JPEN. Journal of Parenteral and Enteral Nutrition 44 (2): 227–38. https://doi.org/10.1002/jpen.1597.\n\n\nMorsbach, Fabian, Yi-Hua Zhang, Lena Martin, Catarina Lindqvist, and Torkel Brismar. 2019. “Body Composition Evaluation with Computed Tomography: Contrast Media and Slice Thickness Cause Methodological Errors.” Nutrition (Burbank, Los Angeles County, Calif.) 59 (March): 50–55. https://doi.org/10.1016/j.nut.2018.08.001.\n\n\nNoordman, Bo Jan, Manon C. W. Spaander, Roelf Valkema, Bas P. L. Wijnhoven, Mark I. van Berge Henegouwen, Joël Shapiro, Katharina Biermann, et al. 2018. “Detection of Residual Disease After Neoadjuvant Chemoradiotherapy for Oesophageal Cancer (preSANO): A Prospective Multicentre, Diagnostic Cohort Study.” The Lancet. Oncology 19 (7): 965–74. https://doi.org/10.1016/S1470-2045(18)30201-8.\n\n\nNoordman, Bo Jan, Bas P. L. Wijnhoven, Sjoerd M. Lagarde, Jurjen J. Boonstra, Peter Paul L. O. Coene, Jan Willem T. Dekker, Michael Doukas, et al. 2018. “Neoadjuvant Chemoradiotherapy Plus Surgery Versus Active Surveillance for Oesophageal Cancer: A Stepped-Wedge Cluster Randomised Trial.” BMC Cancer 18 (1): 142. https://doi.org/10.1186/s12885-018-4034-1.\n\n\nPerthen, Joanna E., Tamir Ali, David McCulloch, Maziar Navidi, Alexander W. Phillips, Rhona C. F. Sinclair, S. Michael Griffin, Alastair Greystoke, and George Petrides. 2018. “Intra- and Interobserver Variability in Skeletal Muscle Measurements Using Computed Tomography Images.” European Journal of Radiology 109 (December): 142–46. https://doi.org/10.1016/j.ejrad.2018.10.031.\n\n\nPopuri, Karteek, Dana Cobzas, Nina Esfandiari, Vickie Baracos, and Martin Jägersand. 2016. “Body Composition Assessment in Axial CT Images Using FEM-Based Automatic Segmentation of Skeletal Muscle.” IEEE Transactions on Medical Imaging 35 (2): 512–20. https://doi.org/10.1109/TMI.2015.2479252.\n\n\nStahl, Michael, Martin Stuschke, Nils Lehmann, Hans-Joachim Meyer, Martin K. Walz, Siegfried Seeber, Bodo Klump, et al. 2005. “Chemoradiation with and Without Surgery in Patients with Locally Advanced Squamous Cell Carcinoma of the Esophagus.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 23 (10): 2310–17. https://doi.org/10.1200/JCO.2005.00.034.\n\n\nTaketa, Takashi, Lianchun Xiao, Kazuki Sudo, Akihiro Suzuki, Roopma Wadhwa, Mariela A. Blum, Jeffrey H. Lee, et al. 2013. “Propensity-Based Matching Between Esophagogastric Cancer Patients Who Had Surgery and Who Declined Surgery After Preoperative Chemoradiation.” Oncology 85 (2): 95–99. https://doi.org/10.1159/000351999.\n\n\nTaketa, T., A. M. Correa, A. Suzuki, M. A. Blum, P. Chien, J. H. Lee, J. Welsh, et al. 2012. “Outcome of Trimodality-Eligible Esophagogastric Cancer Patients Who Declined Surgery After Preoperative Chemoradiation.” Journal {{Article}}. Oncology 83 (5): 300–304. https://doi.org/10.1159/000341353.\n\n\nvan der Werf, Anne, Ingeborg M. Dekker, Martijn R. Meijerink, Nicolette J. Wierdsma, Marian A. E. de van der Schueren, and Jacqueline A. E. Langius. 2018. “Skeletal Muscle Analyses: Agreement Between Non-Contrast and Contrast CT Scan Measurements of Skeletal Muscle Area and Mean Muscle Attenuation.” Clinical Physiology and Functional Imaging 38 (3): 366–72. https://doi.org/10.1111/cpf.12422.\n\n\nvan der Wilk, Berend Jan, Ben M. Eyck, Manon C. W. Spaander, Roelf Valkema, Sjoerd M. Lagarde, Bas P. L. Wijnhoven, and J. Jan B. van Lanschot. 2019. “Towards an Organ-Sparing Approach for Locally Advanced Esophageal Cancer.” Digestive Surgery 36 (6): 462–69. https://doi.org/10.1159/000493435.\n\n\nvan Vugt, Jeroen L. A., Robert R. J. Coebergh van den Braak, Henk J. W. Schippers, Kevin M. Veen, Stef Levolger, Ron W. F. de Bruin, Marcel Koek, Wiro J. Niessen, Jan N. M. IJzermans, and François E. J. A. Willemsen. 2018. “Contrast-Enhancement Influences Skeletal Muscle Density, but Not Skeletal Muscle Mass, Measurements on Computed Tomography.” Clinical Nutrition (Edinburgh, Scotland) 37 (5): 1707–14. https://doi.org/10.1016/j.clnu.2017.07.007.\n\n\nVellayappan, Balamurugan A., Yu Yang Soon, Geoffrey Y. Ku, Cheng Nang Leong, Jiade J. Lu, and Jeremy Cs Tey. 2017. “Chemoradiotherapy Versus Chemoradiotherapy Plus Surgery for Esophageal Cancer.” The Cochrane Database of Systematic Reviews 8 (August): CD010511. https://doi.org/10.1002/14651858.CD010511.pub2.\n\n\nVoeten, Daan M., Chantal M. den Bakker, David J. Heineman, Johannes C. F. Ket, Freek Daams, and Donald L. van der Peet. 2019. “Definitive Chemoradiotherapy Versus Trimodality Therapy for Resectable Oesophageal Carcinoma: Meta-analyses and Systematic Review of Literature.” World Journal of Surgery 43 (5): 1271–85. https://doi.org/10.1007/s00268-018-04901-z.\n\n\nWang, B.-Y., S.-C. Wu, H.-C. Chen, W.-H. Hung, C.-H. Lin, C.-L. Huang, and H.-S. Chen. 2019. “Survival After Neoadjuvant Chemoradiotherapy and Oesophagectomy Versus Definitive Chemoradiotherapy for Patients with Oesophageal Squamous Cell Carcinoma.” The British Journal of Surgery 106 (3): 255–62. https://doi.org/10.1002/bjs.11004.\n\n\nZhou, N., K. G. Mitchell, E. M. Corsini, V. T. T. Truong, M. B. Antonoff, R. J. Mehran, R. Rajaram, et al. 2021. “Analysis of Trimodal and Bimodal Therapy in a Selective-Surgery Paradigm for Locally Advanced Oesophageal Squamous Cell Carcinoma.” The British Journal of Surgery 108 (10): 1207–15. https://doi.org/10.1093/bjs/znab162."
+  },
+  {
+    "objectID": "eso_eras.html",
+    "href": "eso_eras.html",
+    "title": "Esophagectomy ERAS",
+    "section": "",
+    "text": "ERAS society guidelines (Low et al. 2019).\nSystmatic review 2014 (Findlay et al. 2014)\nMeta-analysis (Pisarska et al. 2017), included 2042 patients (1058 in an ERAS group vs 984 in a traditional group), revealed a significantly shorter hospital stay and fewer non-surgical and pulmonary complications in the ERAS group, but no effect on overall morbidity, mortality or readmission rates.\nMeta-analysis of critical factors (markar1?)\n\n\n\n\n\n\n\n\nRandomized trial of smoking cessation (Lindström et al. 2008)\n\n\n\n\n\n\nSociety for Thoracic Surgery database dictates pulmonary function testing on all patients prior to esophagectomy\n\n\n\nAmerican College of Chest Physicians guidelines(Gould et al. 2012)\nShould we administer preoperative heparin routinely?\nDuration of prophylactic anticoagulation after hospital discharge?\nResumption of anticoagulation in the chronically-anticoagulated patient?\n\n\n\nBilku DK, Dennison AR, Hall TC, Metcalfe MS, Garcea G. Role of preoperative carbohydrate loading: a systematic review. Ann R Coll Surg Engl. 2014;96:15"
+  },
+  {
+    "objectID": "eso_eras.html#lung-protective-anesthesia",
+    "href": "eso_eras.html#lung-protective-anesthesia",
+    "title": "Esophagectomy ERAS",
+    "section": "Lung-protective anesthesia",
+    "text": "Lung-protective anesthesia"
+  },
+  {
+    "objectID": "eso_eras.html#early-extubation",
+    "href": "eso_eras.html#early-extubation",
+    "title": "Esophagectomy ERAS",
+    "section": "Early extubation",
+    "text": "Early extubation"
+  },
+  {
+    "objectID": "eso_eras.html#intraoperative-fluid-management",
+    "href": "eso_eras.html#intraoperative-fluid-management",
+    "title": "Esophagectomy ERAS",
+    "section": "Intraoperative fluid management",
+    "text": "Intraoperative fluid management"
+  },
+  {
+    "objectID": "eso_eras.html#regional-analgesia",
+    "href": "eso_eras.html#regional-analgesia",
+    "title": "Esophagectomy ERAS",
+    "section": "Regional analgesia",
+    "text": "Regional analgesia"
+  },
+  {
+    "objectID": "eso_eras.html#avoidance-of-hypothermia",
+    "href": "eso_eras.html#avoidance-of-hypothermia",
+    "title": "Esophagectomy ERAS",
+    "section": "Avoidance of hypothermia",
+    "text": "Avoidance of hypothermia"
+  },
+  {
+    "objectID": "eso_eras.html#ng-decompression",
+    "href": "eso_eras.html#ng-decompression",
+    "title": "Esophagectomy ERAS",
+    "section": "NG decompression",
+    "text": "NG decompression\nThe ERAS society guidelines recommend routine nasogastric decompression post-esophagectomy, but with early removal, on day 2, when clinically appropriate [10]."
+  },
+  {
+    "objectID": "eso_eras.html#chest-drainage",
+    "href": "eso_eras.html#chest-drainage",
+    "title": "Esophagectomy ERAS",
+    "section": "Chest drainage",
+    "text": "Chest drainage"
+  },
+  {
+    "objectID": "eso_eras.html#atrial-fibrillation-prophylaxix",
+    "href": "eso_eras.html#atrial-fibrillation-prophylaxix",
+    "title": "Esophagectomy ERAS",
+    "section": "Atrial fibrillation prophylaxix",
+    "text": "Atrial fibrillation prophylaxix"
+  },
+  {
+    "objectID": "eso_eras.html#proton-pump-inhibitors",
+    "href": "eso_eras.html#proton-pump-inhibitors",
+    "title": "Esophagectomy ERAS",
+    "section": "Proton pump inhibitors",
+    "text": "Proton pump inhibitors"
+  },
+  {
+    "objectID": "eso_eras.html#evaluation-for-anastomotic-leak",
+    "href": "eso_eras.html#evaluation-for-anastomotic-leak",
+    "title": "Esophagectomy ERAS",
+    "section": "Evaluation for anastomotic leak",
+    "text": "Evaluation for anastomotic leak\n\nDrain amylase\n\n\nMarkers of systemic inflammation"
   }
 ]
