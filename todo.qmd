@@ -1,0 +1,40 @@
+---
+title: "To Do"
+editor: visual
+---
+
+
+## Research  
+
+### LOI
+
+- Add catchment area to LOI 
+- Change timing to end of radiation  
+- Send to Dr White when done
+
+### Body composition and esophageal cancer
+
+Email Sachdev about research
+Email Kevin about research resident
+Upload race information
+Plan REDCap
+- Need mapping from STS Database
+- Need mapping from NSQIP
+- Need mapping to consortium complications
+
+### Questions for Wake Surgical Oncology
+
+What information is available from cancer registry?
+ - What software vendor is used for cancer registry?
+ info from data warehouse?
+
+Reilly - make document for protocols:
+- LCI_Multi_NUTR_001 
+- LIC_GI_GASTRO_DB001R  
+
+## Clinic
+
+- Counselling form Add orders   
+- Annetta - shared calendar   
+
+when work on CRT+S patient starting from oldest first   email about resident research and student research   Make missing data reports  upload race information   DUA -\> Wake  Adddresses to Mike Inman  Tickets for MPLS  Email Hart and Josh about pilot  Clinical FU CT with renal protocol for FU of PET findings - with Kayla Terry Hyman   Memorial service music
