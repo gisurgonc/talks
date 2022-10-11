@@ -13,6 +13,14 @@ NCDB [@farrow996] Compared survival of stage II or III esophageal cancer in 17,4
 \
 SEER [@lv8483] 1596 Elderly patients with esophageal cancer: 278 had surgery.  Longer survival with trimodality therapy.\
 \
+he perioperative period is when patients are at most risk of developing cardiopulmonary complications with an operative mortality rate of 13.4% in those who are between 70–79 years old and 19.9% in those over the age of 80 (7,8).
+
+Operative moratality after esophagectomy in those over age 80 is 19.9% (vs 8.8% under age 90) from National Inpatient Sample data [@finlayson729]
+
+# Frailty and outcomes after esophagectomy
+
+Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy.  Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
+
 \# Retrospective Trimodality vs dCRT\
 Italy [@castoro1375] Squamous cell 77 patients over 16 years. Comparable survival with dCRT vs Trimodality even after correcting for propensity score\
 \

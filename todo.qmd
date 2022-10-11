@@ -2,9 +2,48 @@
 title: "To Do"
 editor: visual
 ---
+## This week
 
+- Annual Professional evaluation
+  - email Richard APR form (save in correct format)
+  - email Richard CV
+  - Wednesday afternoon
+  - Other topics to discuss with Richard
+    - Re-funding Matigan and Katelyn
+    - Paying for manuscripts
+  - Include IASume data in APR
+- Sign and return promotion letter
+- Student research projects
+- RSVP for alumni weekend:
+  - Friday 6pm legion brewery
+  - Saturday 8-11:30am CME symposium
+  - Saturday 6:30 dinner at Mimosa
+
+- prep work for Katelyn and Matigan (check Matigan vacation)
+
+- Set up meeting with Kyle Campbell
+- CPA citizenship
+- Find out size of MySQL database for Rupali
+- email Declan Walsh about prehabilitation
+- Set up blood management program meeting
+- Meet with Meredith about J tubes EnFit
+- Prep meeting with Armie Perla-Metz
+- 20 year appreciation gift -order
+
+## Clinical
+
+Leonnox Anderson 8976492
 
 ## Research  
+
+Create new agenda document and email/text Reilly prior to 4:30 meeting
+
+Confirm renewal of Dr White's umbrella protocol
+
+Sparate document for protocols:
+- LCI_Multi_NUTR_001 
+- LIC_GI_GASTRO_DB001R  
+
 
 ### LOI
 
@@ -14,27 +53,103 @@ editor: visual
 
 ### Body composition and esophageal cancer
 
-Email Sachdev about research
-Email Kevin about research resident
-Upload race information
-Plan REDCap
-- Need mapping from STS Database
-- Need mapping from NSQIP
-- Need mapping to consortium complications
+- Email Sachdev about research
+- Email Kevin about research resident
+- Upload race information 
+  -(with Katelyn/Matigan to fill in missing)
+- Plan REDCap
+  - Prepare prototype REDCap
+    - Add options to existing fields (eg Race)
+    - Correct fields:
+      - Atrium facilities
+      - Race
+      - Re-staging PET and CT information
+      - Add restaging CT scan (in addition to PET)
+      - Add multi-check box for restaging scans
+  - Mappings from NCDB (look at ACS FORDS dictionary)
+  - Need mapping from STS Database
+  - Need mapping from NSQIP ()
+  - Need mapping to consortium complications
+  - Add data definitions to REDCap data dictionary
+- Push Cancer Nutrition amendment through
+  - Need Bio info from Ed Levine?
+- Meet with Stats regarding sample size
+- Atrium Health Gives
 
-### Questions for Wake Surgical Oncology
+#### Dialog with SurgOnc and RadOnc at Wake
 
-What information is available from cancer registry?
- - What software vendor is used for cancer registry?
- info from data warehouse?
+- What data is available (for what time periods)?
+- Harmonize data definitions
+- Can we leverage other existing data sources?
+  - NSQIP (COPD, CHF, HTN, Diabetes)
+  - Cancer registry (case-finding, staging, recurrence status, vital staus)
+  - Data warehouse (Race, Ethnicity, Vital Status, postop length of stay )
+  
+### T1 esophageal cancer
 
-Reilly - make document for protocols:
-- LCI_Multi_NUTR_001 
-- LIC_GI_GASTRO_DB001R  
+Look at whether SES or Race plays a role in failure to followup after EMR for early stage esophageal cancer
 
 ## Clinic
 
 - Counselling form Add orders   
 - Annetta - shared calendar   
+- Connect with Shelby via LinkedIn
+- email to Josh and Hart about colorectal template
 
-when work on CRT+S patient starting from oldest first   email about resident research and student research   Make missing data reports  upload race information   DUA -\> Wake  Adddresses to Mike Inman  Tickets for MPLS  Email Hart and Josh about pilot  Clinical FU CT with renal protocol for FU of PET findings - with Kayla Terry Hyman   Memorial service music
+# Other Tasks
+
+- email Matigan/Katelyn: when work on CRT+S patient starting from oldest first  
+- Make missing data reports  
+- email Hart and Josh about pilot     
+- Memorial service music
+
+**Ignition and Pilot Grants**
+
+Scholarly activity to Shelly
+Sign up for interviews
+Cogito 170 certification
+
+# Home
+
+- Get Daniel 30th on calendar
+- Submit receipts for CMDA trip to Indianapolis
+- Plan ahead for book purchases by end of year
+- FU with Jen and Mario
+- Dinner with Terry and Heidi - think about dates
+- Plan for DEIP - NOvember 11th
+- Plan for White Christmas party Friday December 2nd
+- Trip to Minneapolis
+  - Bring camera and light holders
+  - Wait on sending wardrobe box
+  - Correspond with Tim and Cindy
+    - What else can I do to help?
+  - ? Stay over onto Monday 10/17
+  - Birthday celebration for Tim and Cindy
+  - Notify Tim/Cindy regarding Mom/Dad's silver
+  - Notify Tim/Cindy regarding grandfather clock
+  - Book hotel romm
+  - $15K check
+  
+## CDMA
+
+- Get final count for dinner
+- Read up on burnout/ moral injury
+- Cancel Zoom subscription
+
+## Planning
+
+- November 13th? streaming setup -> Yes -> RSVP
+- Letters to bless pastors
+- Watch Sermon from 10/3 and 10/10
+- Connect with Caleb and plan ?trip out
+
+# Random
+
+- Summer students 2023: Prepare practice dataset with RStudio
+- Review old cases and send followup letters
+
+# Amazon
+
+- UCSF 
+- Kindle??
+- 
