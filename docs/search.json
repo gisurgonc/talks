@@ -130,7 +130,7 @@
     "href": "todo.html",
     "title": "To Do",
     "section": "",
-    "text": "Annual Professional evaluation\n\nemail Richard APR form (save in correct format)\nemail Richard CV\nWednesday afternoon\nOther topics to discuss with Richard\n\nRe-funding Matigan and Katelyn\nPaying for manuscripts\n\nInclude IASume data in APR\n\nSign and return promotion letter\nStudent research projects\nRSVP for alumni weekend:\n\nFriday 6pm legion brewery\nSaturday 8-11:30am CME symposium\nSaturday 6:30 dinner at Mimosa\n\nprep work for Katelyn and Matigan (check Matigan vacation)\nSet up meeting with Kyle Campbell\nCPA citizenship\nFind out size of MySQL database for Rupali\nemail Declan Walsh about prehabilitation\nSet up blood management program meeting\nMeet with Meredith about J tubes EnFit\nPrep meeting with Armie Perla-Metz\n20 year appreciation gift -order"
+    "text": "Annual Professional evaluation\n\nEdit APR and send to Richard (by Friday)\nemail Richard CV\nOther topics to discuss with Richard\n\nRe-funding Matigan and Katelyn\nPaying for manuscripts\n\n\nSign and return promotion letter\nStudent research projects\nRSVP for alumni weekend:\n\nFriday 6pm legion brewery\nSaturday 8-11:30am CME symposium\nSaturday 6:30 dinner at Mimosa\n\nprep work for Katelyn and Matigan (check Matigan vacation)\nSet up meeting with Kyle Campbell\nCPA citizenship\nFind out size of MySQL database for Rupali\nemail Declan Walsh about prehabilitation\nSet up blood management program meeting\nMeet with Meredith about J tubes EnFit\n20 year appreciation gift -order"
   },
   {
     "objectID": "todo.html#clinical",
@@ -144,27 +144,27 @@
     "href": "todo.html#research",
     "title": "To Do",
     "section": "Research",
-    "text": "Research\nCreate new agenda document and email/text Reilly prior to 4:30 meeting\nConfirm renewal of Dr White’s umbrella protocol\nSparate document for protocols: - LCI_Multi_NUTR_001 - LIC_GI_GASTRO_DB001R\n\nLOI\n\nAdd catchment area to LOI\nChange timing to end of radiation\n\nSend to Dr White when done\n\n\n\nBody composition and esophageal cancer\n\nEmail Sachdev about research\nEmail Kevin about research resident\nUpload race information -(with Katelyn/Matigan to fill in missing)\nPlan REDCap\n\nPrepare prototype REDCap\n\nAdd options to existing fields (eg Race)\nCorrect fields:\n\nAtrium facilities\nRace\nRe-staging PET and CT information\nAdd restaging CT scan (in addition to PET)\nAdd multi-check box for restaging scans\n\n\nMappings from NCDB (look at ACS FORDS dictionary)\nNeed mapping from STS Database\nNeed mapping from NSQIP ()\nNeed mapping to consortium complications\nAdd data definitions to REDCap data dictionary\n\nPush Cancer Nutrition amendment through\n\nNeed Bio info from Ed Levine?\n\nMeet with Stats regarding sample size\nAtrium Health Gives\n\n\nDialog with SurgOnc and RadOnc at Wake\n\nWhat data is available (for what time periods)?\nHarmonize data definitions\nCan we leverage other existing data sources?\n\nNSQIP (COPD, CHF, HTN, Diabetes)\nCancer registry (case-finding, staging, recurrence status, vital staus)\nData warehouse (Race, Ethnicity, Vital Status, postop length of stay )\n\n\n\n\n\nT1 esophageal cancer\nLook at whether SES or Race plays a role in failure to followup after EMR for early stage esophageal cancer"
+    "text": "Research\nConfirm renewal of Dr White’s umbrella protocol\nSeparate document for protocols: - LCI_Multi_NUTR_001 - LIC_GI_GASTRO_DB001R\n\nLOI\n\nAdd catchment area to LOI\nAdd Ed Levine’s comments to LOI\nChange timing to end of radiation\nSend to Dr White when done\n\n\n\nBody composition and esophageal cancer\n\nEmail Sachdev about research\nEmail Kevin about research resident\nUpload race information -(with Katelyn/Matigan to fill in missing)\nPlan REDCap\n\nPrepare prototype REDCap\n\nAdd options to existing fields (eg Race)\nCorrect fields:\n\nAtrium facilities\nRace\nRe-staging PET and CT information\nAdd restaging CT scan (in addition to PET)\nAdd multi-check box for restaging scans\n\n\nMappings from NCDB (look at ACS FORDS dictionary)\nNeed mapping from STS Database\nNeed mapping from NSQIP ()\nNeed mapping to consortium complications\nAdd data definitions to REDCap data dictionary\n\nPush Cancer Nutrition amendment through\n\nNeed Bio info from Ed Levine?\n\nAtrium Health Gives\n\n\nDialog with SurgOnc and RadOnc at Wake\n\nWhat data is available (for what time periods)?\nHarmonize data definitions\nCan we leverage other existing data sources?\n\nNSQIP (COPD, CHF, HTN, Diabetes)\nCancer registry (case-finding, staging, recurrence status, vital staus)\nData warehouse (Race, Ethnicity, Vital Status, postop length of stay )\n\n\n\n\n\nT1 esophageal cancer\nLook at whether SES or Race plays a role in failure to followup after EMR for early stage esophageal cancer"
   },
   {
     "objectID": "todo.html#clinic",
     "href": "todo.html#clinic",
     "title": "To Do",
     "section": "Clinic",
-    "text": "Clinic\n\nCounselling form Add orders\n\nAnnetta - shared calendar\n\nConnect with Shelby via LinkedIn\nemail to Josh and Hart about colorectal template"
+    "text": "Clinic\n\nCounselling form Add orders\nAnnetta - shared calendar\nConnect with Shelby via LinkedIn\nemail to Josh and Hart about colorectal template"
   },
   {
     "objectID": "todo.html#cdma",
     "href": "todo.html#cdma",
     "title": "To Do",
     "section": "CDMA",
-    "text": "CDMA\n\nGet final count for dinner\nRead up on burnout/ moral injury\nCancel Zoom subscription"
+    "text": "CDMA\n\nCancel Zoom subscription"
   },
   {
     "objectID": "todo.html#planning",
     "href": "todo.html#planning",
     "title": "To Do",
     "section": "Planning",
-    "text": "Planning\n\nNovember 13th? streaming setup -> Yes -> RSVP\nLetters to bless pastors\nWatch Sermon from 10/3 and 10/10\nConnect with Caleb and plan ?trip out"
+    "text": "Planning\n\nNovember 13th? streaming setup -> Yes -> RSVP\nNovember 11th for Supportive Oncology Research Meeging\nLetters to bless pastors\nWatch Sermon from 10/3 and 10/10\nConnect with Caleb and plan ?trip out"
   }
 ]
