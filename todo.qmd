@@ -7,9 +7,7 @@ editor: visual
 
 -   Annual Professional evaluation
 
-    -   Edit APR and send to Richard (by Friday)
-    -   email Richard CV
-    -   Other topics to discuss with Richard
+-   Other topics to discuss with Richard
         -   Re-funding Matigan and Katelyn
         -   Paying for manuscripts
 
@@ -72,7 +70,7 @@ Separate document for protocols: - LCI_Multi_NUTR_001 - LIC_GI_GASTRO_DB001R
             -   Add multi-check box for restaging scans
     -   Mappings from NCDB (look at ACS FORDS dictionary)
     -   Need mapping from STS Database
-    -   Need mapping from NSQIP ()
+    -   Need mapping from NSQIP (CHF, HTN, DM)
     -   Need mapping to consortium complications
     -   Add data definitions to REDCap data dictionary
 -   Push Cancer Nutrition amendment through
@@ -104,8 +102,6 @@ Look at whether SES or Race plays a role in failure to followup after EMR for ea
 -   email Matigan/Katelyn: when work on CRT+S patient starting from oldest first
 -   Make missing data reports
 
-**Ignition and Pilot Grants**
-
 Scholarly activity to Shelly Sign up for interviews Cogito 170 certification
 
 # Home
@@ -123,16 +119,17 @@ Scholarly activity to Shelly Sign up for interviews Cogito 170 certification
     -   Notify Tim/Cindy regarding Mom/Dad's silver
     -   Notify Tim/Cindy regarding grandfather clock
     -   Book hotel room
-    -   \$15K check
+    -   $15K check
 
 ## CDMA
 
--   Cancel Zoom subscription
+-   Follow up from Kinghorn Dinner
 
 ## Planning
 
--   November 13th? streaming setup -\> Yes -\> RSVP
--   November 11th for Supportive Oncology Research Meeging
+-   Life Church November 13th? streaming setup -\> Yes -\> RSVP
+-   November 11th for Supportive Oncology Research Meeting
+-   VKS Surgery November 18th first case
 -   Letters to bless pastors
 -   Watch Sermon from 10/3 and 10/10
 -   Connect with Caleb and plan ?trip out
@@ -146,4 +143,7 @@ Scholarly activity to Shelly Sign up for interviews Cogito 170 certification
 
 -   UCSF
 -   Kindle??
--   
+
+# Github
+
+-   Make private JCS repo
