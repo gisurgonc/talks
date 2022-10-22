@@ -18,18 +18,14 @@ Meta-analysis of critical factors  [@markar1] "Component analysis" - not in Zote
 
 ## Nutritional Assessment
 
-Patients presenting for 
-
-ESPN guidelines [@arends11]  baracos, bertz 2017
-
-RDs in esophagectomy outcomes [@ligthartmelis587] weijs, verheul
+Patients presenting with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer. Preoperative evaluation should include history of  weight loss, dysphagia, odynophagia.  Nutrition support from has been suggested to improve outcomes after esophagectomy in retrospective studies.[@ligthart-melis587] ESPN guidelines suggest strategies for nutritional support in cancer patients.[@arends11]
 
 
 ## Preoperative enteral nutrition
 
-Feeding jejunostomy is the traditional approach to enteral tube placement in patients who may undergo surgery in the future.  Gastrostomy placement, particularly via the endoscopic approach (PEG) runs the risk of damage to the right gastroepiploic vascular arcade, which might devascularize a future gastric conduit.
+Feeding jejunostomy is the traditional approach to enteral tube placement in patients who may undergo surgery in the future.  Gastrostomy placement, particularly via the endoscopic approach (PEG) runs the risk of damage to the right gastroepiploic vascular arcade, which might devascularize a future gastric conduit, although small series suggest that this risk is low [@margolis1694]
 
-Anecdotal data suggests that esophagectommy with gastric conduit can safely be performed after gastrostomy, particularly if placement is done via laparoscopy and if the tube can be removed prior to esophagectomy to allow the tract to heal. PEG placement (via endoscopy) runs a small but finite risk of seeding of the gastrostomy tract with tumor. **Need reference here**
+Anecdotal data suggests that esophagectommy with gastric conduit can safely be performed after gastrostomy, particularly if placement is done via laparoscopy and if the tube can be removed prior to esophagectomy to allow the tract to heal. PEG placement (via endoscopy) runs a small but finite risk of seeding of the gastrostomy tract with tumor.[@ellrichmann526] 
 
 ## Preoperative functional testing
 
@@ -132,7 +128,9 @@ Cochrane review of paravertebral block vs epidural in patients undergoing thorac
 
 ## Avoidance of hypothermia
 
+## Jejunostomy
 
+Retrospective analysis suggests a benefit from jejunostomy placed at the time of esophagectomy.[@watson421]
 
 
 # Postoperative Care
@@ -163,6 +161,8 @@ The ERAS society guidelines recommend routine nasogastric decompression post-eso
 
 Tang H, Xue L, Hong J, Tao X, Xu Z, Wu B. A method for early diagnosis and treatment of intrathoracic esophageal anastomotic leakage: prophylactic placement of a drainage tube adjacent to the anastomosis. J Gastrointest Surg. 2012;16:722–727. [PubMed] [Google Scholar]
 
+
+[@hanna]
 
 
 ### Markers of systemic inflammation
