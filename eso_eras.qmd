@@ -16,6 +16,7 @@ Meta-analysis of critical factors  [@markar1]
 
 [@schmidt931] low, markar, lakis
 
+
 ## Nutritional Assessment
 
 Patients with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer and the effects of neoadjuvant therapy. Preoperative evaluation should include history of  weight loss, dysphagia, odynophagia.  Nutrition support from has been suggested to improve outcomes after esophagectomy in retrospective studies.[@ligthart-melis587] ESPN (ASPEN?) guidelines suggest strategies for nutritional support in cancer patients.[@arends11]
@@ -26,7 +27,19 @@ Patients with esophageal cancer frequently suffer from undernutrition due to GI 
 
 3 - 10% weight loss and severe dysphagia
 
-Dysphagia score
+Dysphagia score [@knyrim1302] - scale used for esophageal stent paper
+
+
+**Questions:**
+
+  1 - Standardized Nutritional assessment
+  
+  2 - Standardized Dysphagia score
+  
+  3 - Categorize weight loss with respect to BMI (Martin, JCO)
+  
+  4 - Who needs a preoperative feeding tube?
+
 
 ## Preoperative enteral nutrition
 
@@ -34,6 +47,9 @@ Feeding jejunostomy is the traditional approach to enteral tube placement in pat
 
 Anecdotal data suggests that esophagectommy with gastric conduit can safely be performed after gastrostomy, particularly if placement is done via laparoscopy and if the tube can be removed prior to esophagectomy to allow the tract to heal. PEG placement (via endoscopy) runs a small but finite risk of seeding of the gastrostomy tract with tumor.[@ellrichmann526] 
 
+\newpage
+
+## Frailty
 
 Frailty [@fried255]
 Clinical Frailty Score (7-point) predicts death and need for institutional care at 5 years from Canadian Health study [@rockwood489]
@@ -54,6 +70,14 @@ Shuttle walk and cardiopulmonary testing in esophagectomy [@whibley594]
 Routine pre- and post-neoadjuvant chemotherapy fitness testing is not indicated for oesophagogastric cancer surgery. [@drummond515]
 
 Does VO2peak Provide a Prognostic Value in Esophagectomy and Gastrectomy for Post-operative Outcomes?[@niels1812]
+
+## Nutritional Repletion
+
+**Question:**
+
+1 - What criteria should be used to guide nutritional repletion in the context of weight loss?
+
+2 - Which patient who don't receive a feeding tube prior to chemoRT need one postop?
 
 ## Treatment of anemia 
 
@@ -162,9 +186,21 @@ Pain management [@visser1]
 
 ## Avoidance of hypothermia
 
+\newpage
+
 ## Jejunostomy
 
-Retrospective analysis suggests a benefit from jejunostomy placed at the time of esophagectomy.[@watson421]
+Retrospective analysis suggests a benefit from jejunostomy placed at the time of esophagectomy.[@watson421]*
+
+**Question:**
+
+1 - What is a reasonable approach to starting tube feeds in a postoperative patient?
+
+2 - Tube feed formulae for the morbidly obese patient?
+
+3 - What criteria (diarrhea/bloating) should be used to change in tube feed formula?
+
+4 - Feeding plan after esophagectomy (ie transition from tube feeds to oral nutrition)
 
 ### Hazards of feeding jejunostomy
 
@@ -172,7 +208,11 @@ Jejunal necrosis
 
 Jejunostomy infection
 
-(Who might not need a jejunostomy)
+(Who might not need a jejunostomy at the time of espohagectomy?)
+
+### Early feeding after esophagectomy
+
+### Diabetic management with feeding jejunostomy
 
 
 # Postoperative Care
