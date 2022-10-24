@@ -1,9 +1,12 @@
 ---
-title: "GI Surgical Oncology Talks"
+title: "GI Surgical Oncology"
 ---
 
-This is a Quarto website.
+# General Surgery Residency Didactics
 
-```{r}
-1 + 1
-```
+[Esophageal Perforation SCORE Lecture](esoph_perf.html)
+
+
+# Esophagectomy Working Group
+
+[Esophagectomy Early Recovery Literature Review](eso_eras.html)
