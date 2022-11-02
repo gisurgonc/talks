@@ -6,20 +6,19 @@ bibliography: zotero.bib
 
 # Early Recovery after Esophagectomy
 
-ERAS society guidelines  [@low299]. 
+ERAS society guidelines [@low299].
 
 Systmatic review of enhanced recovery for esophagectomy [@findlay413]
 
-Meta-analysis [@pisarskae0174382], included 2042 patients (1058 in an ERAS group vs 984 in a traditional group), revealed a significantly shorter hospital stay and fewer non-surgical and pulmonary complications in the ERAS group, but no effect on overall morbidity, mortality or readmission rates. 
+Meta-analysis [@pisarskae0174382], included 2042 patients (1058 in an ERAS group vs 984 in a traditional group), revealed a significantly shorter hospital stay and fewer non-surgical and pulmonary complications in the ERAS group, but no effect on overall morbidity, mortality or readmission rates.
 
-Meta-analysis of critical factors  [@markar1] 
+Meta-analysis of critical factors [@markar1]
 
-[@schmidt931] low, markar, lakis
-
+Virginia Mason ERAS [@schmidt931]
 
 ## Nutritional Assessment
 
-Patients with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer and the effects of neoadjuvant therapy. Preoperative evaluation should include history of  weight loss, dysphagia, odynophagia.  Nutrition support from has been suggested to improve outcomes after esophagectomy in retrospective studies.[@ligthart-melis587] ESPN (ASPEN?) guidelines suggest strategies for nutritional support in cancer patients.[@arends11]
+Patients with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer and the effects of neoadjuvant therapy. Preoperative evaluation should include history of weight loss, dysphagia, odynophagia. Nutrition support from has been suggested to improve outcomes after esophagectomy in retrospective studies.[@ligthart-melis587] ESPN (ASPEN?) guidelines suggest strategies for nutritional support in cancer patients.[@arends11]
 
 1 - No weight loss
 
@@ -27,45 +26,67 @@ Patients with esophageal cancer frequently suffer from undernutrition due to GI 
 
 3 - 10% weight loss and severe dysphagia
 
-Dysphagia score [@knyrim1302] - scale used for esophageal stent paper
+The Global Leadership Initiative on Malnutrition (GLIM) criteria [@jensen32] (see also [@cederholm1])
 
++--------------------+-----------------------------+----------------------------------+--------------------------+
+| Malnutrition Grade | Weight Loss                 | BMI                              | Muslcle Mass             |
++====================+=============================+==================================+==========================+
+| Moderate           | 5-10% in past 6 months\     | \<20 if \<70 yr \<22 if \>70yr   | Mild to moderate deficit |
+|                    | or 10-20% beyond 6 months   |                                  |                          |
++--------------------+-----------------------------+----------------------------------+--------------------------+
+| Severe             | \>10% within past 6 months\ | \<18.5 if \<70yr, \<20 if \>70yr | Severe deficit           |
+|                    | or \>20% -beyond 6 months   |                                  |                          |
++--------------------+-----------------------------+----------------------------------+--------------------------+
+
+European consensus on sarcopenia defines sarcopenia based upon grip strength as \<30kg in men and \<20kg in women[@lauretani1851] or uses a categorization based upon BMI: [@friedM146]
+
++----------------+----------------+---+----------------+----------------+
+| Men - BMI      | Grip Strength  |   | Women - BMI    | Grip Strength  |
++================+================+===+================+================+
+| \<24           | \<29kg         |   | \<23           | \<17kg         |
++----------------+----------------+---+----------------+----------------+
+| 24-26          | \<30kg         |   | 23-26          | \<17kg         |
++----------------+----------------+---+----------------+----------------+
+| 26-28          | \<30kg         |   | 26-29          | \<18kg         |
++----------------+----------------+---+----------------+----------------+
+| \>28           | \<32kg         |   | \>29           | 21kg           |
++----------------+----------------+---+----------------+----------------+
+
+Dysphagia score [@knyrim1302] - scale used for esophageal stent paper
 
 **Questions:**
 
-  1 - Standardized Nutritional assessment
-  
-  2 - Standardized Dysphagia score
-  
-  3 - Categorize weight loss with respect to BMI (Martin, JCO)
-  
-  4 - Who needs a preoperative feeding tube?
+1 - Standardized Nutritional assessment
 
+2 - Standardized Dysphagia score
+
+3 - Categorize weight loss with respect to BMI (Martin, JCO)
+
+4 - Who needs a preoperative feeding tube?
 
 ## Preoperative enteral nutrition
 
-Feeding jejunostomy is the traditional approach to enteral tube placement in patients who may undergo surgery in the future.  Gastrostomy placement, particularly via the endoscopic approach (PEG) runs the risk of damage to the right gastroepiploic vascular arcade, which might devascularize a future gastric conduit, although small series suggest that this risk is low [@margolis1694]
+Feeding jejunostomy is the traditional approach to enteral tube placement in patients who may undergo surgery in the future. Gastrostomy placement, particularly via the endoscopic approach (PEG) runs the risk of damage to the right gastroepiploic vascular arcade, which might devascularize a future gastric conduit, although small series suggest that this risk is low [@margolis1694]
 
-Anecdotal data suggests that esophagectommy with gastric conduit can safely be performed after gastrostomy, particularly if placement is done via laparoscopy and if the tube can be removed prior to esophagectomy to allow the tract to heal. PEG placement (via endoscopy) runs a small but finite risk of seeding of the gastrostomy tract with tumor.[@ellrichmann526] 
+Anecdotal data suggests that esophagectommy with gastric conduit can safely be performed after gastrostomy, particularly if placement is done via laparoscopy and if the tube can be removed prior to esophagectomy to allow the tract to heal. PEG placement (via endoscopy) runs a small but finite risk of seeding of the gastrostomy tract with tumor.[@ellrichmann526]
 
 \newpage
 
 ## Frailty
 
-Frailty [@fried255]
-Clinical Frailty Score (7-point) predicts death and need for institutional care at 5 years from Canadian Health study [@rockwood489]
-Frailty and major surgery [@mcisaac538]  [@mosquera272]
+Frailty [@fried255] Clinical Frailty Score (7-point) predicts death and need for institutional care at 5 years from Canadian Health study [@rockwood489]
 
+Frailty and major surgery [@mcisaac538] [@mosquera272]
 
 ## Preoperative functional testing
 
 Cardiopulmonary testing has not been shown to be of proven value in peroperative assement of surgical fitness prior to esophagectomy [@drummond515]
 
-6minute walk test predicts outcome after esophagectomy [@inouedoz050] 
+6minute walk test predicts outcome after esophagectomy [@inouedoz050]
 
-review of cardiopulmonary testing: [@older355]  
+review of cardiopulmonary testing: [@older355]
 
 Shuttle walk and cardiopulmonary testing in esophagectomy [@whibley594]
-
 
 Routine pre- and post-neoadjuvant chemotherapy fitness testing is not indicated for oesophagogastric cancer surgery. [@drummond515]
 
@@ -79,10 +100,9 @@ Does VO2peak Provide a Prognostic Value in Esophagectomy and Gastrectomy for Pos
 
 2 - Which patient who don't receive a feeding tube prior to chemoRT need one postop?
 
-## Treatment of anemia 
+## Treatment of anemia
 
-Anemia prior to esophagectomy [@melis114] 
-
+Anemia prior to esophagectomy [@melis114]
 
 ## Smoking Cessation
 
@@ -100,33 +120,21 @@ General references in abdominal and cancer surgery - at least 4 weeks of rehabil
 
 Prehabilitation review by expert panel [@carli49]
 
+Implementation of a respiratory care intervention consisting of incentive spirometry, coughing, oral care, patient education, ambulation, and head of bed elevation for general and vascular surgery patients was associated with a significant decrease in rates of pneumonia and re-intubation[@cassidy740]
 
-Implementation of a respiratory care intervention consisting of incentive spirometry, coughing, oral care, patient education, ambulation, and head of bed elevation for general and vascular surgery patients was associated with a significant decrease in rates of pneumonia and re-intubation[@cassidy740] 
+McGill University study [@minnella1081] of 51 patients undergoing esophageal surgery randomized to preoperative prehabilitation vs none. Improvement seen in six-minute walk test, but no difference in complications or operative mortality.
 
-
-
-McGill University study [@minnella1081] of 51 patients undergoing esophageal surgery randomized to preoperative prehabilitation vs none.  Improvement seen in six-minute walk test, but no difference in complications or operative mortality.
-
-on the return of functional activity after a major surgical procedure. Hence, efforts to optimize functional capacity prior to surgery have shown improved outcomes for some abdominal and oncologic surgeries [20]. A multimodal approach termed as ‘prehabilitation’ comprising nutritional supplementation, psychological counselling, medical optimization, and a structured exercise program involving both aerobic and strengthening activity has been proposed to improve outcomes [21]. Respiratory optimization with deep breathing exercises, spirometry, and inspiratory muscle training decreases pulmonary complications [22]. Studies have shown that prehabilitation reduces anxiety, depression and fatigue, and improves the quality of life [23]. Preliminary results from a recently concluded study [24] on prehabilitation for esophageal surgery demonstrated improvement in functional capacity; however, the impact on postoperative outcomes needs to be evaluated by further ongoing studies [25]. Extrapolation from studies on other abdominal surgeries [20] suggests that at least 4 weeks of preoperative prehabilitation is better than postoperative rehabilitation to influence outcomes. As most patients with operable esophageal cancer would receive neoadjuvant treatment, it would be opportunistic to use this preoperative window to initiate prehabilitation.
-
+on the return of functional activity after a major surgical procedure. Hence, efforts to optimize functional capacity prior to surgery have shown improved outcomes for some abdominal and oncologic surgeries \[20\]. A multimodal approach termed as 'prehabilitation' comprising nutritional supplementation, psychological counselling, medical optimization, and a structured exercise program involving both aerobic and strengthening activity has been proposed to improve outcomes \[21\]. Respiratory optimization with deep breathing exercises, spirometry, and inspiratory muscle training decreases pulmonary complications \[22\]. Studies have shown that prehabilitation reduces anxiety, depression and fatigue, and improves the quality of life \[23\]. Preliminary results from a recently concluded study \[24\] on prehabilitation for esophageal surgery demonstrated improvement in functional capacity; however, the impact on postoperative outcomes needs to be evaluated by further ongoing studies \[25\]. Extrapolation from studies on other abdominal surgeries \[20\] suggests that at least 4 weeks of preoperative prehabilitation is better than postoperative rehabilitation to influence outcomes. As most patients with operable esophageal cancer would receive neoadjuvant treatment, it would be opportunistic to use this preoperative window to initiate prehabilitation.
 
 A feasibility trial of prehabilitation before oesophagogastric cancer surgery using a multi-component home-based exercise programme: the ChemoFit study.[@chmelo173]
 
 The Role of Prehabilitation in Modern Esophagogastric Cancer Surgery: A Comprehensive Review.[@bausys2096]
 
-
 Prehab [@gillis391]
-
 
 # Minimally-invasive techniques
 
-[@kauppila1131] 
-[@lv6751] 
-[@nagpal1621] 
-[@sgourakis3031]
-TIME trial [@straatman232]
-MIRO trial [@briez310]
-MiRO trial[@nuytens232] 
+[@kauppila1131] [@lv6751] [@nagpal1621] [@sgourakis3031] TIME trial [@straatman232] MIRO trial [@briez310] MiRO trial[@nuytens232]
 
 ## VTE
 
@@ -142,37 +150,29 @@ Survey of VTE esohpagectomy - [@zwischenberger489] tzeng ward martin
 
 ## Carbohydrate loading
 
-Bilku DK, Dennison AR, Hall TC, Metcalfe MS, Garcea G. Role of preoperative carbohydrate loading: a systematic review. Ann R Coll Surg Engl. 2014;96:15
+Systematic review [@bilku15]
 
 # Intraoperative Care
 
 ## Lung-protective anesthesia
 
-Low tidal volume in abdominal surgery [@futier428]
-Low tidal volume in MIE [@shen1267]--- zhong, wu,wang,fent JTCVS
+Low tidal volume in abdominal surgery [@futier428] Low tidal volume in MIE [@shen1267]--- zhong, wu,wang,fent JTCVS
 
-[@neto272]
-[@michelet911]
+[@neto272] [@michelet911]
 
 ## Early extubation
 
 ## Intraoperative fluid management
 
-[@taniguci184]
-[@varadhan488]
+[@taniguci184] [@varadhan488]
 
-Standardized hemodynamic protocols
-[@klevebroS692]
+Standardized hemodynamic protocols [@klevebroS692]
 
 ## Regional analgesia
 
-
 PROSPECT pain management after VATS: [@feray311]
 
-
-
 Review of paravertebral vs epidural analgesia for thoracotomy [@dinge96233]
-
 
 Reiew of paravertebral and epidural analgesia for thoracic surgery [@baidya626]
 
@@ -190,7 +190,7 @@ Pain management [@visser1]
 
 ## Jejunostomy
 
-Retrospective analysis suggests a benefit from jejunostomy placed at the time of esophagectomy.[@watson421]*
+Retrospective analysis suggests a benefit from jejunostomy placed at the time of esophagectomy.[@watson421]\*
 
 **Question:**
 
@@ -214,12 +214,11 @@ Jejunostomy infection
 
 ### Diabetic management with feeding jejunostomy
 
-
 # Postoperative Care
 
 ## NG decompression
 
-The ERAS society guidelines recommend routine nasogastric decompression post-esophagectomy, but with early removal, on day 2, when clinically appropriate [10].
+The ERAS society guidelines recommend routine nasogastric decompression post-esophagectomy, but with early removal, on day 2, when clinically appropriate \[10\].
 
 [@weijs1]
 
@@ -233,7 +232,7 @@ Diltiazem
 
 Beta Blockade
 
-Amiodarone - Tisdale randomized trial 
+Amiodarone - Tisdale randomized trial
 
 Magnesium
 
@@ -243,9 +242,7 @@ Magnesium
 
 ## Pyloric drainage
 
-[@akkerman1512]
-[@urschel160]
-
+The benefit of the method of pyloric drainage is controversial[@akkerman1512] Pyloric drainage appears to reduce the risk of early postoperative delayed gastric emptying but does not appear to affect other outcomes [@urschel160]
 
 ## Removal of urinary cather
 
@@ -253,17 +250,11 @@ Magnesium
 
 ### Drain amylase
 
-Tang H, Xue L, Hong J, Tao X, Xu Z, Wu B. A method for early diagnosis and treatment of intrathoracic esophageal anastomotic leakage: prophylactic placement of a drainage tube adjacent to the anastomosis. J Gastrointest Surg. 2012;16:722–727. [PubMed] [Google Scholar]
-
-
-[@hanna]
-
+Monitoring of drain amylase is a cost-effective a sensitive method of detection of anastomotic leak [@linden1794] [@baker181]
 
 ### Markers of systemic inflammation
 
 #### WBC
-
-#### CRP
 
 ### CT Esophagram
 
@@ -271,9 +262,6 @@ Tang H, Xue L, Hong J, Tao X, Xu Z, Wu B. A method for early diagnosis and treat
 
 ## ERAS in other disease sites
 
-Colorectal ERAS
-Canarian impact multisite [@thahn415]--wasylak, faris
+Colorectal ERAS Canarian impact multisite [@thahn415]--wasylak, faris
 
 CanadianN[@nelson1092]
-
-
