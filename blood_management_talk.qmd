@@ -1,0 +1,84 @@
+---
+title: "Blood Management in Surgical Oncology"
+editor: visual
+bibliography: zotero.bib
+---
+
+## Trials of Transfusion Thresholds in Surgery
+
+Review [@holsth1354]
+
+FOCUS trial in hip surgery [@carson2453]
+
+Liberal transfusion improves survival in periop but not ICU patients Meta-analysis [@fominskiy511]
+
+Meta-analysis [@hovaguimian46]
+
+Cardiac/Vascular - restrictive increases risk
+
+Elderly orthopedic - restrictive increases risk
+
+Meta-analysis Transfusion strategies surgery vs critical care [@chong252]
+
+### Gynecologic oncology
+
+Restrictive transfusion policy safe (change in practice) [@mojdehbakhsh101059]
+
+### Surgical Oncology
+
+RCT Surgical Oncology [@dealmeida29] Comments [@waters966] [@xue967] [@hall970] [@vonheymann971]
+
+Proposed Surgical Oncology Trial :ARCA-1 [@catae043453]
+
+Dangers of guidelines based upon RCT [@vincent714]
+
+Transfusion Thresholds Review [@carsonCD002042]
+
+### Oncology
+
+Iron replacement in Cancer Patients [@bustiE94]
+
+>This latter point is illustrated well by a recent study by Bergamin [@bergamin766] The authors randomized 300 adult patients with cancer and septic shock at ICU admission to a liberal (n=149) or a restrictive transfusion strategy (n=151), using the now usual thresholds of 9 *vs.* 7 g/dL, respectively. Patients in the liberal group received a median of 1 \[0--3\] red blood cell (RBC) unit and the restrictive group a median of 0
+\[0--2\] units. The patients were very ill, with a mean Simplified Acute Physiology Score (SAPS) II of about 57, a sequential organ failure assessment (SOFA) score of around 7 and an overall mortality rate close to 50%. The 28-day mortality rate in the liberal group was 45% (67 patients) *vs.* 56% (84 patients) in the restrictive group. At 90 days after randomization, the mortality rate was lower in the liberal than in the restrictive group (59% *vs.* 70%, P=0.03).
+
+Review of 6 trials of restrictive transfusion in oncology (3 surgical and 3 oncol) [@prescott1]
+
+### Preoperative Iron Infusion
+
+Impact of periopertive iron on PRBC in GI Surgery [@hallet205]
+
+Review [@elhenawy29]
+
+Review [@lin221]
+
+### Preop Iron Infusion in Colon Cancer Surgery
+
+Helsinki [@kangaspunta449] retrospective comparing intravenous iron vs none in anemia patients: fewer complicatoins and less anemia at 1 month in those getting IV iron preop.
+
+### Preop Iron prior to open abdominal surgery
+
+PREVENTT trial - IV iron prior to elective open abdominal surgery [@richards1353] 487 preop patients prior to abdominal surgery who were anemic (Hb\<13 in men and \<12 in women) were randomized to a single dose of IV iron. No differences in blood transfusion rate. Preop anemia corrected in 21% IV iron group and 10% of placeba. Increase in 0.4mg/dL with IV iron
+
+IVICA trial from Nottinhban 116 pts with colorectal cancer: IV iron had no effect on transfusion use [@keeler214]
+
+Review: Iron therapy for preop anemia Ng Cochrane 2019 [@ngCD011588]
+
+Carson - Cochrane [@carsonCD002042]
+
+Recommend screening for anemia 2 weeks prior to surgery with EBL \>500mL and treat with IV iron [@mueller983] (Frankfurt Consensus 2018) [@munoz233]
+
+Observational study: Preop iron and elderly patients [@blum293]
+
+## Iron + Erythropoeitin for treatment of anemia
+
+Iron in addition to EPO in cancer patients [@mhaskarCD009624]
+
+Iron + B12 + Epo in preop cardiac surgery [@spahn2201]
+
+Review: Iron + Epo in non-cardiac surgery [@kaufnerCD012451]
+
+Review: Adverse effects of Iron + Epo in preop patients [@laermans224]
+
+Review: Iron +/- Epo in preop patients: [@vanremoortel103]
+
+\[NICE Guidelines for Blood Transfusion\](https://www.nice.org.uk/guidance/NG24)
