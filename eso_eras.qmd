@@ -18,7 +18,46 @@ Virginia Mason ERAS [@schmidt931]
 
 ## Nutritional Assessment
 
+<<<<<<< Updated upstream
 Patients with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer and the effects of neoadjuvant therapy. Preoperative evaluation should include history of weight loss, dysphagia, odynophagia. Nutrition support from has been suggested to improve outcomes after esophagectomy in retrospective studies.[@ligthart-melis587] ESPN (ASPEN?) guidelines suggest strategies for nutritional support in cancer patients.[@arends11]
+=======
+Patients with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer and the effects of neoadjuvant therapy. Preoperative evaluation should include history of  weight loss, dysphagia, odynophagia. 
+
+Malnutrition Screening Tool is a simple two-question screening tool which can triage patients for more detailed nutritional evaluation.[@skipper709] [@shaw47]
+
+Malnutrition can be graded as mild, moderate, or severe [@white730]
+
+Moderate malnutrition is characterized by weight loss of 5% in 1 month, 7.5% in 3 months, or 10% in 6 months. Severe malnutrition is characterized by weight loss >7.5% in 3 months, and >10% in 6 months, or >20% in 1 year.
+ 
+Nutrition support from has been suggested to improve outcomes after esophagectomy in retrospective studies.[@ligthart-melis587] ESPN (ASPEN?) guidelines suggest strategies for nutritional support in cancer patients.[@arends11]
+
+See Bower and Martin  19373870
+
+Criteria for utility of feeding tubes with esophageal cancer[@huerter948]
+
+J tubes; 
+46
+
+Ben-David
+K
+, Kim
+T
+, Caban
+A M
+, Rossidis
+G
+, Rodriguez
+S S
+, Hochwald
+S N
+. Pre-therapy laparoscopic feeding jejunostomy is safe and effective in patients undergoing minimally invasive esophagectomy for cancer
+. J Gastrointest Surg
+2013
+; 17
+: 1352
+–8
+.
+>>>>>>> Stashed changes
 
 1 - No weight loss
 
