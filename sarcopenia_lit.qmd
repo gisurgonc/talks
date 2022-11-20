@@ -1,11 +1,10 @@
 ---
-title: "sarcopenia_lit"
+title: "Sarcopenia Literature"
 editor: visual
 bibliography: zotero.bib
 ---
 
 ## Effect of age on additional benefit of surgery after ChemoRT
-
 
 NCDB [@jensendoac050] compared survival with chemoradiation+Surgery vs chemoradiation alone and found a survival benefit to surgery, except for patients over age 80 with adenocarcinoma and patients with squamous cell carcinoma with Charson/Deyo 2 or 3+, in whom there was no survival advantage or detriment to surgery
 
@@ -13,19 +12,43 @@ NCDB [@farrow996] Compared survival of stage II or III esophageal cancer in 17,4
 
 SEER [@lv8483] 1596 Elderly patients with esophageal cancer: 278 had surgery.  Longer survival with trimodality therapy.
 
-he perioperative period is when patients are at most risk of developing cardiopulmonary complications with an operative mortality rate of 13.4% in those who are between 70--79 years old and 19.9% in those over the age of 80 (7,8).
+The perioperative period is when patients are at most risk of developing cardiopulmonary complications with an operative mortality rate of 13.4% in those who are between 70--79 years old and 19.9% in those over the age of 80 (7,8).
 
-Operative moratality after esophagectomy in those over age 80 is 19.9% (vs 8.8% under age 90) from National Inpatient Sample data [@finlayson729]
+Operative mortality after esophagectomy in those over age 80 is 19.9% (vs 8.8% under age 90) from National Inpatient Sample data [@finlayson729]
 
-# Frailty and outcomes after esophagectomy
+# Frailty and complicatons after esophagectomy
 
 Dublin [@elliott822b] Sarcopenia present in XX % and was associated with increased risk of perioperative complications. Sarcopenia was not associated with hospital mortality, which was 1%.  Sarcopenia was associated with reduced 5-year survival, as was loss of muscle mass during neoadjuvant therapy.
 
-Review of sarcopenia and outcomes after GI cancer surgery [@su82] Sarcopenia associated with increased risk of postoperative complications and decreased survival after 
+Review of sarcopenia and outcomes after GI cancer surgery [@su82] Sarcopenia associated with increased risk of postoperative complications and decreased survival after esophagectomy. 
 
-Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
+Negative impact of muscle wasting after chemotherapy followed by surgery  [@Mayanagi3741]  66 pts 
+
+
+Sarcopenia as a predictor of pulmonary complications after esophagectomy for thoracic esophageal cancer [@nishigori678]
+
+# Frailty and survival after esophagectomy
+
+Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100] sarcopenia predicted short term outcome and survival, but only in patients over age 65
+
+Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72)
+
+200 patients with esophageal cancer of whom 130 (65%) had sarcopenia [@tamandl1359] patients with sarcopenia had decreased survival.
+
+Sarcopenia associated with decreased survival (p=0.035) in node-negative esophageal cancer patients after surgery (but not with node-positive).[@harada7] 
+
+CROSS: Sarcopenia/Muscle Mass is not a Prognostic Factor for Short- and Long-Term Outcome After Esophagectomy for Cancer [@grotenhuis2698]
+
+# Muscle loss during neoadjuvant therapy
+
+Nottingham: 89 patients with esophageal cancer undergoing neoadjuvant chemotherapy. Sarcopenia associated with dose-limiting toxiciy and shortened survival after esopahgectomy [@tan333]
+
+72 pts getting neoadjuvant chemotherapy. Sarcopenic obesity associated with dose-limiting toxicity.[@anandavadivelan724]
+
+47 patients getting neoadjuvant chemotherapy . Chemotherapy increased rate of sarcopenia. [@awad74]
 
 # Retrospective Trimodality vs dCRT
+
 Italy [@castoro1375] Squamous cell 77 patients over 16 years. Comparable survival with dCRT vs Trimodality even after correcting for propensity score
 
 Dutch[@faiz986] Factors accounting for choice of dCRT vs Trimodality: age >75, hypertension+diabetes, CV+pulmonary. Adenocarcinoma: better survival with Trimodality. SCCA: Age >75 or >2 comorbidities overall survival was comparable between groups.
@@ -111,4 +134,8 @@ Machine learning
 
 L3 slice selection
 [@islame363]
+
+
+Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
+
 ---
