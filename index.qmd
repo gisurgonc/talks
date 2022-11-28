@@ -12,7 +12,7 @@ title: "GI Surgical Oncology"
 
 # Sarcopenia in GI Cancers
 
-[Literature Revdiew](docs/sarcopenia_lit.html)
+[Literature Review](sarcopenia_lit.html)
 
 # Blood Management Program
 
