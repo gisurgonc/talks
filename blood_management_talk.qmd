@@ -43,6 +43,8 @@ Iron replacement in Cancer Patients [@bustiE94]
 
 Review of 6 trials of restrictive transfusion in oncology (3 surgical and 3 oncol) [@prescott1]
 
+NCCN Guidelines recommend IV iron for absolute iron deficiency (ferrition <30ng/mL and transferrin saturation <20%) and for patients receiving EPO with ferritin between 30 and 800ng/mL and 
+
 ### Preoperative Iron Infusion
 
 Impact of periopertive iron on PRBC in GI Surgery [@hallet205]
@@ -81,4 +83,20 @@ Review: Adverse effects of Iron + Epo in preop patients [@laermans224]
 
 Review: Iron +/- Epo in preop patients: [@vanremoortel103]
 
-\[NICE Guidelines for Blood Transfusion\](https://www.nice.org.uk/guidance/NG24)
+[NICE Guidelines for Blood Transfusion](https://www.nice.org.uk/guidance/NG24)
+
+## Diagnosis of Iron Deficiency Anemia
+
+Functional iron deficiency can occur in cancer patients due to chronic inflammation.
+
+In cancer patients, IL-6 reduces availability of iron.
+
+In cancer patients, functional iron deficiency (ferritin >30ng/mL and transferrin saturation <20%). Among GI cancer patients, half will be iron deficient as defined by transferrin saturation <20%, but 80% of them will have ferritin >30ng/mL [@ludwig1886]
+
+Cancer patients with anemia are best treated with a combination of iron infusion and EPO as opposed to EPO alone[@auerbach1301] [@bastit1611]. Treatment with IV iron in addition to erythrocyte-stimulating agents (ESAs) results in cost savings, due primarily to lower requirement for ESAs[@luporsi225]
+
+Meta-analysis of addition of iron infusion to ESAs[@petrelli179]
+
+## Chronic renal failure
+
+Switching from oral to IV iron reduces need for ESAs in patients with renal failure [@tobllie0125528]

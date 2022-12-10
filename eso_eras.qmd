@@ -79,17 +79,12 @@ The Global Leadership Initiative on Malnutrition (GLIM) criteria [@jensen32] (se
 
 European consensus on sarcopenia defines sarcopenia based upon grip strength as \<30kg in men and \<20kg in women[@lauretani1851] or uses a categorization based upon BMI: [@friedM146]
 
-+----------------+----------------+---+----------------+----------------+
-| Men - BMI      | Grip Strength  |   | Women - BMI    | Grip Strength  |
-+================+================+===+================+================+
-| \<24           | \<29kg         |   | \<23           | \<17kg         |
-+----------------+----------------+---+----------------+----------------+
-| 24-26          | \<30kg         |   | 23-26          | \<17kg         |
-+----------------+----------------+---+----------------+----------------+
-| 26-28          | \<30kg         |   | 26-29          | \<18kg         |
-+----------------+----------------+---+----------------+----------------+
-| \>28           | \<32kg         |   | \>29           | 21kg           |
-+----------------+----------------+---+----------------+----------------+
+| Men - BMI | Grip Strength |     | Women - BMI | Grip Strength |
+|-----------|---------------|-----|-------------|---------------|
+| \<24      | \<29kg        |     | \<23        | \<17kg        |
+| 24-26     | \<30kg        |     | 23-26       | \<17kg        |
+| 26-28     | \<30kg        |     | 26-29       | \<18kg        |
+| \>28      | \<32kg        |     | \>29        | 21kg          |
 
 Dysphagia score [@knyrim1302] - scale used for esophageal stent paper
 
