@@ -162,7 +162,7 @@ Ann. Palliat. Med., 5 (2016), pp. 83-92
 All-cause mortality risk prediction in geriatric oncology [@perez-de-acha1377]
 Predicting life expectancy in older adults with cancer [@verduzco-aguirre68]
 
-Functional vs chronological age[@soto-perez-de-celis305]
+Functional vs chronological age[@soto-perez-de-celise305]
 
 # Age and receipt of chemotherapy
 
@@ -174,7 +174,7 @@ Older adults >70 are less likely to be enrolled in 2nd line trials for
 
 # Platelet Neutrophil Leukocytes
 
-[@mercier478}]
+[@mercier478]
 
 Tan D, Fu Y, Su Q, et al. Prognostic role of platelet-lymphocyte ratio in colorectal cancer: A systematic review and meta-analysis. Medicine (Baltimore) 2016;95:e3837.
 

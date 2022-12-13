@@ -12,7 +12,7 @@ title: "GI Surgical Oncology"
 
 # Sarcopenia in Esophageal Cancers
 
-[Literature Review](eos_sarcopenia_lit.html)
+[Literature Review](eso_sarcopenia_lit.html)
 
 # Sarcopenia in GI Cancers
 
