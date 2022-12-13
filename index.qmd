@@ -10,6 +10,10 @@ title: "GI Surgical Oncology"
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
 
+# Sarcopenia in Esophageal Cancers
+
+[Literature Review](eos_sarcopenia_lit.html)
+
 # Sarcopenia in GI Cancers
 
 [Literature Review](sarcopenia_lit.html)
