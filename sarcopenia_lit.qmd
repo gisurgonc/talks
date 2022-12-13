@@ -4,138 +4,229 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Effect of age on additional benefit of surgery after ChemoRT
+# Body Composition Measurement by CT
 
-NCDB [@jensendoac050] compared survival with chemoradiation+Surgery vs chemoradiation alone and found a survival benefit to surgery, except for patients over age 80 with adenocarcinoma and patients with squamous cell carcinoma with Charson/Deyo 2 or 3+, in whom there was no survival advantage or detriment to surgery
+## Lenchik Papers
 
-NCDB [@farrow996] Compared survival of stage II or III esophageal cancer in 17,495 patients, of whom 11,680 underwent esophagectomy and 5815 received chemoradiation. Survival after esophagectomy worsened with increasing age and decreased considerably after age 73. More use of dCRT after age 73. Survival benefit of surgery over chemoradiation in all ages, including octogenarians.
+IV Contrast Tube current - [@fuchs2455] Slice Thickness [@morsbach50] Contrasst challenges [@bae32] Muscle L4 contrast [@boutin1046] IV contrast and muscle size [@vanderwerf366] [@vanvugt1707] kV[@morsbach9]
 
-SEER [@lv8483] 1596 Elderly patients with esophageal cancer: 278 had surgery.  Longer survival with trimodality therapy.
+ICC 24/35/42 [@fuchs2455] [@vanderwerf366] [@barnard1686] [@perthen142]
 
-The perioperative period is when patients are at most risk of developing cardiopulmonary complications with an operative mortality rate of 13.4% in those who are between 70--79 years old and 19.9% in those over the age of 80 (7,8).
+Machine learning 43-46 [@jang360] ML methods from Lung Cancer Screening Trial. CNN with U-NET. Left paraspinous muscle at T12. CSA and MA.  Dice scores of 0.94 r\^2 0.86 for CSA and 0.2 for MA. Manual segmentation with Mimics. In the input pipeline, the ground truth image was extracted from the Mimics-exportedDigital Imaging and Communications in Medicine (DICOM) using a simple R \[69\] procedure, with the oro.nifti \[70\] library providing input and output functionality. The mask was cleaned using a custom Python script built with NiBabel \[71\] for I/O, SciPy \[72\] for spatial calculations, and NumPy \[73\] for general numeric operations. Additional preparation of ground truth data used the ImageMath and fslstats programs of the Advanced Normalization Tools \[74\] and FMRIB Software Library \[75\] respectively. Preparation of the 3-channel input images used scikit-image's \[76\] rescale_intensity and equalize_adapthist functions for clipping and equalization. Overlap measures were implemented as functions of the confusion matrix provided by scikit-learn's \[77\] confusion_matrix function and assembled into easily-analyzed tabular representations using Pandas \[78\]. Subsequent correlation analyses of the muscle CSA and MA were performed with R's cor.test function. Algorithm can't select L3 [Working with DICOM and IIfTI in R](http://www.jstatsoft.org/v44/i06/) Snakemake[@koster2520]
 
-Operative mortality after esophagectomy in those over age 80 is 19.9% (vs 8.8% under age 90) from National Inpatient Sample data [@finlayson729]
+NLST and mortality [@lenchik277] Increased SMA and SMD associated with longer survival
 
-# Frailty and complicatons after esophagectomy
-
-Dublin [@elliott822b] Sarcopenia present in XX % and was associated with increased risk of perioperative complications. Sarcopenia was not associated with hospital mortality, which was 1%.  Sarcopenia was associated with reduced 5-year survival, as was loss of muscle mass during neoadjuvant therapy.
-
-Review of sarcopenia and outcomes after GI cancer surgery [@su82] Sarcopenia associated with increased risk of postoperative complications and decreased survival after esophagectomy. 
-
-Negative impact of muscle wasting after chemotherapy followed by surgery  [@Mayanagi3741]  66 pts 
-
-
-Sarcopenia as a predictor of pulmonary complications after esophagectomy for thoracic esophageal cancer [@nishigori678]
-
-# Frailty and survival after esophagectomy
-
-Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100] sarcopenia predicted short term outcome and survival, but only in patients over age 65
-
-Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72)
-
-200 patients with esophageal cancer of whom 130 (65%) had sarcopenia [@tamandl1359] patients with sarcopenia had decreased survival.
-
-Sarcopenia associated with decreased survival (p=0.035) in node-negative esophageal cancer patients after surgery (but not with node-positive).[@harada7] 
-
-CROSS: Sarcopenia/Muscle Mass is not a Prognostic Factor for Short- and Long-Term Outcome After Esophagectomy for Cancer [@grotenhuis2698]
-
-# Muscle loss during neoadjuvant therapy
-
-Nottingham: 89 patients with esophageal cancer undergoing neoadjuvant chemotherapy. Sarcopenia associated with dose-limiting toxiciy and shortened survival after esopahgectomy [@tan333]
-
-72 pts getting neoadjuvant chemotherapy. Sarcopenic obesity associated with dose-limiting toxicity.[@anandavadivelan724]
-
-47 patients getting neoadjuvant chemotherapy . Chemotherapy increased rate of sarcopenia. [@awad74]
-
-# Retrospective Trimodality vs dCRT
-
-Italy [@castoro1375] Squamous cell 77 patients over 16 years. Comparable survival with dCRT vs Trimodality even after correcting for propensity score
-
-Dutch[@faiz986] Factors accounting for choice of dCRT vs Trimodality: age >75, hypertension+diabetes, CV+pulmonary. Adenocarcinoma: better survival with Trimodality. SCCA: Age >75 or >2 comorbidities overall survival was comparable between groups.
-
-Taiwan [@wang255] 5832 patients with SCC: Trimodality in 1754 and dCRT in 4078. Survival at 3 years 41% with trimodality vs 17% with dCRT
-
-MDACC [@zhou1207] Squamous cell: 143 Trimodality-eligible patients: 60 had trimodality therapy and 83 had chemoRT. Longer survival in trimodality group (77 vs 33 months). For those with a complete clinical response, trimodality resulted in 123 moths survival vs 55 months with dCRT. Trimodality therapy was not associated with longer overall survival but predicted recurrence-free survival.
-
-UK [@hategan612] 102 patients with esophageal cancer: 55 trimodality and 47 dCRT. Longer survival with trimodality
-
-# ChemoRT in Trimodality-eligible patients
-
-MDACC [@taketa300a] 662 patient eligible for trimodality therapy received chemoradiation. 61 patients (9.8%) refused surgery.  5-year overall survival 58% and relapse-free survival 35%. 13 patients developed localized recurrences, of whom 12 underwent salvage esophagectomy.
-
-MDCAA [@taketa95]
-
-# Active Surveillance
-Dutch preSano [@noordman965]
-
-SANO randomized trial [@noordman142]
-
-Editorial [@vanderwilk462]
-
-# Randomized trials of Trimodality vs dCRT
-FFCD 9012 [@bedenne1160]
-German Trial [@stahl2310]
-
-# Reviews - Trimodality vs dCRT
-
-[@vellayappanCD010511] Addition of surgery to dCRT adds little or benefit for patients with squamous cell carcinoma. Authors could not determine whether there was benefit of the addition of surgery for adenocarcinoma and GE junction cancers.
-
-[@voeten1271] No clear advantage of trimodality therapy over dCRT
-
-
-# Lenchik Papers
-
-
-IV Contrast
-Tube current - [@fuchs2455]
-Slice Thickness [@morsbach50]
-Contrasst challenges [@bae32]
-Muscle L4 contrast [@boutin1046]
-IV contrast and muscle size [@vanderwerf366] [@vanvugt1707]
-kV[@morsbach9]
-
-ICC 24/35/42
-[@fuchs2455]
-[@vanderwerf366]
-[@barnard1686]
-[@perthen142]
-
-Machine learning 43-46
-[@jang360]
-ML methods from Lung Cancer Screening Trial. CNN with U-NET. Left paraspinous muscle at T12. CSA and MA.  Dice scores of 0.94 r^2 0.86 for CSA and 0.2 for MA. Manual segmentation with Mimics.
-In the input pipeline, the ground truth image was extracted from the Mimics-exportedDigital Imaging and Communications in Medicine (DICOM) using a simple R [69] procedure, with the oro.nifti [70] library providing input and output functionality. The mask was cleaned using a custom Python script built with NiBabel [71] for I/O, SciPy [72] for spatial calculations, and NumPy [73] for general numeric operations. Additional preparation of ground truth data used the ImageMath and fslstats programs of the Advanced Normalization Tools [74] and FMRIB Software Library [75] respectively.
-Preparation of the 3-channel input images used scikit-image's [76] rescale_intensity and equalize_adapthist functions for clipping and equalization. Overlap measures were implemented as functions of the confusion matrix provided by scikit-learn's [77] confusion_matrix function and assembled into easily-analyzed tabular representations using Pandas [78]. Subsequent correlation analyses of the muscle CSA and MA were performed with R's cor.test function. Algorithm can't select L3 [Working with DICOM and IIfTI in R](http://www.jstatsoft.org/v44/i06/) Snakemake[@koster2520]
-
-NLST and mortality [@lenchik1] Increased SMA and SMD associated with longer survival
-
-[@barnard1686]
-[@lenchik1695]
+[@barnard1686] [@lenchik1695]
 
 [@kullberg10425]
 
-Sarcopenia methods - varies 19/92
-[@amini1671]
-Review of challenges in methods inconsistency
-[@hopkins1381]
+Sarcopenia methods - varies 19/92 [@amini1671] Review of challenges in methods inconsistency [@hopkins1381]
 
-myosteatosis adds value 93
-[@martin227]
+myosteatosis adds value 93 [@martin227]
 
-Fully automated tools 94-96
-[@graffy20190327]
-[@burns]
-[@hemke387]
+Fully automated tools 94-96 [@graffy20190327] [@burns311] [@hemke387]
 
-Machine learning
-[@lee487]
-[@popuri512]
+Machine learning [@lee487] [@popuri512]
 
-
-
-L3 slice selection
-[@islame363]
-
+L3 slice selection [@islame363]
 
 Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
 
----
+# Frailty and Chemotherapy
+
+Chemotherapy in frail patients:
+
+Choosing Wisely [@schnipper10]
+
+ASCO statement [@hurria3826]
+
+Cancer patients in the UK have worse survival likely due to undertreatment after age 65 - editorial [@chanda]
+
+# Comrehensive Geriatric Assessment
+
+CGA recommended by ASCO [@mohile2326] buy screening is resource-intensive
+
+-   Instrumental ADLs
+
+-   Assessment of comorbidities
+
+-   Falls
+
+-   Depression - Geriatic Depression Scale, Mini-Cog, Blessed Oreientati-Memory-Concentration
+
+-   Nutrition-
+
+-   Measures of chemotherapy toxicity:
+
+    -   CRASH = Chemotherapy Risk Assessment Scale for High-Age Patients
+
+    -   CARG (Cancer and Aging Research Group)
+
+-   Mortality Estimates -
+
+    -   Geriatric-8
+
+    -   Vulnerable Elders Survey-13
+
+    -   Non-Cancer Mortality - ePrognosis (life expectancy \>4years)
+
+CGA - [@extermann1824]
+
+[@extermann241]
+
+Randomized trial of CGA intervention in colorectal cancer treatment in Sweden. [@Normann948]. Trial will utilize CFS-9 score (Clinical Frailty Score-9). (In the US - median age of dx for colon cancer is 66 in men and 69 in women). Median age has shifted from median age of 72 in the early 2000s to 66 in 2020 ( Ries LAG, Eisner MP, Kosary CL, et al., eds. SEER Cancer Statistics Review, 1973-1999. Bethesda, MD: National Cancer Institute; 2002.)
+
+CGA appears to add information to performance status alone (L. Repetto, L. Fratino, R. A. Audisio et al., \"Comprehensive geriatric assessment adds information to Eastern Cooperative Oncology Group performance status in elderly cancer patients: an Italian Group for Geriatric Oncology Study,\" *Journal of Clinical Oncology*, vol. 20, no. 2, pp. 494--502, 2002.)
+
+CGA affects cancer treatment in 50% (M. T. E. Puts, J. Hardt, J. Monette, V. Girre, E. Springall, and S. M. H. Alibhai, \"Use of geriatric assessment for older adults in the oncology setting: a systematic review,\" *Journal of the National Cancer Institute*, vol. 104, no. 15, pp. 1133--1163, 2012
+
+CARG - superior to KPS in predicting chemotherapy toxicity (A. Hurria, K. Togawa, S. G. Mohile et al., \"Predicting chemotherapy toxicity in older adults with cancer: a prospective multicenter study,\" *Journal of Clinical Oncology*, vol. 29, no. 25, pp. 3457--3465, 2011.)
+
+CRASH (M. Extermann, I. Boler, R. R. Reich et al., \"Predicting the risk of chemotherapy toxicity in older patients: the chemotherapy risk assessment scale for high-age patients (CRASH) score,\" *Cancer*, vol. 118, no. 13, pp. 3377--3386, 2012)
+
+Exercise behavior in METS (E. Ruden, D. A. Reardon, A. D. Coan et al., \"Exercise behavior, functional capacity, and survival in adults with malignant recurrent glioma,\" *Journal of Clinical Oncology*, vol. 29, no. 21, pp. 2918--2923, 2011.) [@ruden2918] used Godin Leisure-Time Exercise Questionare
+
+Godin questionnaire: Godin G, Shephard RJ: A simple method to assess exercise behavior in the community. Can J Appl Sport Sci 10:141-146, 1985
+
+6MWT Gibbons WJ, Fruchter N, Sloan S, et al: Reference values for a multiple repetition 6-minute walk
+test in healthy adults older than 20 years. J Cardiopulm Rehabil 21:87-93, 2001
+
+## Geriatric-8 Screening
+
+Bellera CA, Rainfray M, Mathoulin‐Pelissier S, et al. Screening older cancer patients: first evaluation of the G‐8 geriatric screening tool. Ann Oncol. 2012;23:2166‐2172.
+
+Stokoe JM, Pearce J, Sinha R, Ring A. G8 and VES‐13 scores predict chemotherapy toxicity in older patients with cancer. J Geriatr Oncol. 2012;3(suppl 1):S81.
+
+
+
+
+
+# Colorectal Cancer
+
+Colorectal cancer. Estimated cases in US: 148,000 cases per year, of whom 80,000 are over age 65
+
+NCDB of colon cancer: less adherence to treatment guidelines in elderly patients [@chen3395]
+
+Stage IV colon cancer over age 75: Equivalent response rates in patients older than 75  and younger. [@rosati578]
+
+Meta-analysis of 13 trials of palliative chemotherapy in advanced colorectal cancer showed that chemotherapy for colorectal cancer improves survival by 3.7months and results in improvement of survival of 16% at both 6 and 12 months. ECOG 3/4 only comprise \<10% of the total sample of trial participants.[@simmonds531]
+
+PS2 patients with stage IV CRC have survival less than half that of those with PS of 0 at presentation [@lavin1536] [@kemeny786]
+
+ECOG2 patients receiving first-line chemotherapy for CRC had 12% 60-day morality [@sargent1948]
+
+Kohorana Score for CRC early death: (primary site, baseline hemoglobin, leukocyte and platelet counts, BMI) [@khorana4902]
+
+Stage IV CRC prognostic model: \[chibaudel1228\] = f(performance status, LDH,number of metastatic sites). Serum LDH most prognostic factor, followed by PS
+
+Kohne model: PS, WBC, ALP, number of metastatic sites [@kohne308]
+
+# Undertreatment of cancer in the elderly
+
+1.  Foster JA, Salinas GD, Mansell D, Williamson JC, Casebeer LL. How does older age influence oncologists' cancer management? Oncologist. 2010;15(6):584--92. <https://doi.org/10.1634/theoncologist.2009-0198> . - [DOI](https://doi.org/10.1634/theoncologist.2009-0198)- [PubMed](https://pubmed.ncbi.nlm.nih.gov/20495217/)- [PMC](http://www.ncbi.nlm.nih.gov/pmc/articles/3227998/)
+
+Age and comorbidity affect recommendations for chemotherapy in stage III colon cancer - more variability of recommendation for older patients[@keating2532]
+
+# Gastric Cancer
+
+Non-cancer prognosis after gastrectomy in Japan: Male sex, neutrophil-lymphocyte ratio, skeletal muscel index [@iida753]
+
+# Resources
+
+Dalane Kitzman - https://www.wakehealth.edu/providers/k/dalane-w-kitzman dkitzman\@wakehealth.edu
+
+# BMI and survival in stage IV cancer
+
+Low BMI may be associated with high cancer-specific mortality (Renfro LA, Loupakis F, Adams RA. et al. Body mass index is prognostic in metastatic colorectal cancer: Pooled analysis of patients from first-line clinical trials in the ARCAD database. J Clin Oncol. 2016;34(2):144--150. 10.1200/JCO.2015.61.6441) High BMI may be an indicator of co-morbidities and may be associated with high non-cancer mortality ( Lee J, Meyerhardt JA, Giovannucci E, Jeon JY.. Association between body mass index and prognosis of colorectal cancer: A meta-analysis of prospective cohort studies. PLoS One. 2015;10:e0120706.) Visceral adiposity is associated with higher mortality in patients undergoing adjuvant chemotherapy (Lee CS, Murphy DJ, McMahon C, et al. Visceral adiposity is a risk factor for poor prognosis in colorectal cancer patients receiving adjuvant chemotherapy. J Gastrointest Cancer. 2015;46(3):243--250. 10.1007/s12029-015-9709-0)
+
+# Performance status and chemotherapy
+
+Clinical trials typically enroll less than 10% of patients with PS of 2
+
+ECOG may be less accurate in the low end of the scale (E. Verger, M. Salamero, and C. Conill, "Can Karnofsky performance status be transformed to the Eastern Cooperative Oncology Group scoring scale and vice versa?" European Journal of Cancer A, vol. 28, no. 8-9, pp. 1328--1330, 1992.)
+
+Low inter-observer agreement (J. Myers, K. Gardiner, K. Harris et al., "Evaluating correlation and interrater reliability for four performance scales in the palliative care setting," Journal of Pain and Symptom Management, vol. 39, no. 2, pp. 250--258, 2010.)
+
+Poor inter-observer agreement of ECOG, with oncolgist and nurses recording higher values than patients (M. Ando, Y. Ando, Y. Hasegawa et al., "Prognostic value of performance status assessed by patients themselves, nurses, and oncologists in advanced non-small cell lung cancer," British Journal of Cancer, vol. 85, no. 11, pp. 1634--1639, 2001)
+
+Interobserver agreement between patient and oncologist 50% in lung cancer (S. P. Blagden, S. C. Charman, L. D. Sharples, L. R. A. Magee, and D. Gilligan, "Performance status score: do patients and their oncologists agree?" British Journal of Cancer, vol. 89, no. 6, pp. 1022--1027, 2003.)
+
+M.M. Oken, R.H. Creech, D.C. Tormey, et al.
+Toxicity and response criteria of the eastern cooperative oncology group
+Am. J. Clin. Oncol., 5 (1982), pp. 649-655
+
+R. Chow, N. Chiu, E. Bruera, et al.
+Inter-rater reliability in performance status assessment among health care professionals: a systematic review
+Ann. Palliat. Med., 5 (2016), pp. 83-92
+
+All-cause mortality risk prediction in geriatric oncology [@perez-de-acha1377]
+Predicting life expectancy in older adults with cancer [@verduzco-aguirre68]
+
+Functional vs chronological age[@soto-perez-de-celis305]
+
+# Age and receipt of chemotherapy
+
+H. K. Sanoff, W. R. Carpenter, T. Sturmer et al. et al., "Effect of adjuvant chemotherapy on survival of patients with stage III colon cancer diagnosed after age 75 years," Journal of Clinical Oncology, vol. 30, no. 21, pp. 2624--2634, 2012 D. Schrag, L. D. Cramer, P. B. Bach, and C. B. Begg, "Age and adjuvant chemotherapy use after surgery for stage III colon cancer," Journal of the National Cancer Institute, vol. 93, no. 11, pp. 850--857, 2001.
+
+Older patients do derive benefit from chemotherapy H. B. Muss, S. Woolf, D. Berry et al., "Adjuvant chemotherapy in older and younger women with lymph node-positive breast cancer," The Journal of the American Medical Association, vol. 293, no. 9, pp. 1073--1081, 2005.
+
+Older adults >70 are less likely to be enrolled in 2nd line trials for 
+
+# Platelet Neutrophil Leukocytes
+
+[@mercier478}]
+
+Tan D, Fu Y, Su Q, et al. Prognostic role of platelet-lymphocyte ratio in colorectal cancer: A systematic review and meta-analysis. Medicine (Baltimore) 2016;95:e3837.
+
+Li MX, Liu XM, Zhang XF, et al. Prognostic role of neutrophil-to-lymphocyte ratio in colorectal cancer: A systematic review and meta-analysis. Int J Cancer 2014;134:2403-13.
+
+# Immunotherapy in Frail patients
+
+Creighton: [@krishnane175] 257 patients with advanced solid tumor receiving immune checkpoint inhibitors. 182 were ECOG 0-1 and 75 were ECOG >=2. Median overall survival was 12.6 months for the ECOG PS 0-1 group compared with 3.1 months for the ECOG PS ≥ 2 group (P < .001). The overall response rate for patients with ECOG PS 0-1 was 23% compared with 8% for those with poor PS (P = .005). Patients with poor PS treated with ICI had similar hospice referral rates (67% for ECOG PS ≥ 2 v 61.9% for ECOG PS 0-1, P = .50) but were more likely to have in-hospital death as compared with the good PS group (28.6% v 15.1%, P = .035).
+
+India: [@kapoore25115] 155 patients receiving ICIs. ECOG 0-1 had median survival 9.1 months vs 2.9months in ECOG 2-4. Median OS for ECOG2 was 3.7months vs 1.8 months with ECOG 3-4
+
+Meta-analysis of IC trials: No difference in benefit for ECOG 0 vs ECOG >=1 [@yange2012534]
+
+Melanoma PS2-3 treated with ICI had median survival of 18 months vs 19.5 months for ECOG 0-1 [@wong385]
+
+Lung cancer with ECOG 2+ had worse prognosis than ECOG 0-1 in NSCLC treated with pembro [@sehgale2037120]
+
+NSCLC treated with ICI: shorter survival in ECOG 2+ compared with PS 0-1 [@petrillo2288]
+
+NSCLC meta-analysis of ECOG 2: [@tomasik97] Patients with impaired PS are twice as likely to achieve a response compared with ECOG 0-1
+
+France [@facchinetti155] 153 patients ECOG 2.  Patients who were ECOG 2 due to comorbidities (n=41) had much better prognosis (median survival 11.8 vs 2.8 months) than those ECOG 2 due to disease burden(n=112)
+
+Checkpoint inhibitor dose in the last 30 days of life associated with poor PS and dying in hospital [@glish179]
+
+# Reporting
+
+Benchimol EI, Smeeth L, Guttmann A, et al. The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement. PLoS Med. 2015;12(10):e1001885. https://doi.org/10.1371/journal.pmed.1001885 . - DOI - PubMed - PMC
+
+# Mortality after GI Cancer Surgery
+
+Eindhoven cancer registry.  Esohpagectomy  90=day mortality 7.1% for <65 years, 8.7% for 65-74 years, and 15.4% for 75+ 
+
+Mortality should be reported at 90 days 
+Mayo SC, Shore AD, Nathan H, Edil BH, Hirose K, Anders RA, et al. Refining the definition of perioperative mortality following hepatectomy using death within 90 days as the standard criterion. HPB (Oxford). 2011;13:473–82
+Venkat R, Puhan MA, Schulick RD, Cameron JL, Eckhauser FE, Choti MA, et al. Predicting the risk of perioperative mortality in patients undergoing pancreaticoduodenectomy: a novel scoring system. Arch Surg. 2011;146:1277–84
+Bryant AS, Rudemiller K, Cerfolio RJ. The 30- versus 90-day operative mortality after pulmonary resection. Ann Thorac Surg. 2010;89: 1717–22; discussion 1722–3
+
+Preoperative Assessment of Cancer in the Elderly (PACE): 
+Audisio RA, Pope D, Ramesh HS, Gennari R, van Leeuwen BL, West C, et al. Shall we operate? Preoperative assessment in elderly cancer patients (PACE) can help. A SIOG surgical task force prospective study. Crit Rev Oncol Hematol. 2008;65:156–63
+Heriot AG, Tekkis PP, Smith JJ, Cohen CR, Montgomery A, Audisio RA, et al. Prediction of postoperative mortality in elderly patients with colorectal cancer. Dis Colon Rectum. 2006;49:816–24
+Pope D, Ramesh H, Gennari R, Corsini G, Maffezzini M, Hoekstra HJ, et al. Pre-operative assessment of cancer in the elderly (PACE): a comprehensive assessment of underlying characteristics of elderly cancer patients prior to elective surgery. Surg Oncol. 2006;15:189–97
+
+
+Prognostic scales for cancer:
+France: [@canout-poitrine2236] 510 patients with cancer evaluated with multiple prognostic scales including CCI and Elixhauser. Only Cumulative Illness Rating Scale for Geriatics (CIR-G) was predictive of one-year mortality.
+
+# Palliative Care consultations
+
+VA System: [@sullivan1702]  Lung Cancer - palliative care consultation 31-365 days after dx led to increased survival
+
+# Enteral nutrition in cancer patients
+
+ In 347 stage IV gastric cancer patients at high nutrition risk and receiving palliative CT, nutritional support was associated with a survival benefit 39.Qiu M, ZhouYX, Jin Y, Nutrition support can bring survival benefit to high nutrition risk gastric cancer patients who received chemotherapy. Support Care Cancer. 2015: 23; 1933. -9
+ Esophageal cancer patients RCT enteral therapy vs oral nutrition [@lyu839516]

@@ -1,0 +1,8 @@
+---
+title: "COVID-19 Literature"
+editor: visual
+---
+
+# Cancer Stage at Presentation
+
+Barcelona: Increased interval from onset of symptoms to diagnosis during Covid-19 pandemic [@bosch]
