@@ -10,13 +10,27 @@ title: "GI Surgical Oncology"
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
 
+# Esophagectomy Decision-making
+
+Role of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery
+
+[Surgical Decision Making](es_cancertx.html)
+
 # Sarcopenia in Esophageal Cancers
 
 [Literature Review](eso_sarcopenia_lit.html)
 
 # Sarcopenia in GI Cancers
 
-[Literature Review](sarcopenia_lit.html)
+[Literature Review](gi_sarcopenia_lit.html)
+
+# Sarcopenia and Chemotherapy
+
+[Literature Review](chemo_sarcopenia_lit.html)
+
+# Sarcopenia Methods
+
+[CT determination of muscle and adipose tissue compartments](sarcopenia_lit.html)
 
 # Blood Management Program
 
