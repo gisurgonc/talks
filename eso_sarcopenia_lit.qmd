@@ -4,41 +4,28 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Effect of age on additional benefit of surgery after ChemoRT
+## Sarcopenia in esophageal cancer
 
-NCDB [@jensendoac050] compared survival with chemoradiation+Surgery vs chemoradiation alone and found a survival benefit to surgery, except for patients over age 80 with adenocarcinoma and patients with squamous cell carcinoma with Charson/Deyo 2 or 3+, in whom there was no survival advantage or detriment to surgery
+The patient with esophageal cancer faces multiple challenges in changes in body composition related to both muscle mass and adipose tissue. Patients frequently present with loss of adipose tissue and muscle from dysphaghia due to the primary tumor. Neoadjuvant chemoradiation can improve oral intake due to tumor shrinkage, but can also decrease oral nutrition due to esophagitis and the catabolic effects of cytotoxic therapy.  In addition, patients undergoing esophagectomy frequently lose weight due to limited oral intake and the catabolic effects of the stress of surgery.
 
-NCDB [@farrow996] Compared survival of stage II or III esophageal cancer in 17,495 patients, of whom 11,680 underwent esophagectomy and 5815 received chemoradiation. Survival after esophagectomy worsened with increasing age and decreased considerably after age 73. More use of dCRT after age 73. Survival benefit of surgery over chemoradiation in all ages, including octogenarians.
+For patients treated with neoadjuvant therapy, the chemoradiation treatment prior to surgery can be seen as a 'stress test\\' which can further assist in evaluating a patient's resilience to the stress of surgery.
 
-SEER [@lv8483] 1596 Elderly patients with esophageal cancer: 278 had surgery.  Longer survival with trimodality therapy.
+The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI >30kg/m^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.{prado, 629; martin}
 
-The perioperative period is when patients are at most risk of developing cardiopulmonary complications with an operative mortality rate of 13.4% in those who are between 70--79 years old and 19.9% in those over the age of 80 (7,8).
 
-Operative mortality after esophagectomy in those over age 80 is 19.9% (vs 8.8% under age 90) from National Inpatient Sample data [@finlayson729]
+## Skeletal muscle loss in esophagectomy patients
 
-# Frailty and complicatons after esophagectomy
+A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).{Nishigori, 2016 #1996} Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group {Ida, 2015 #1995} found similar association
+between sarcopenia and pulmonary complications after esophagectomy.
 
-Dublin [@elliott822b] Sarcopenia present in XX % and was associated with increased risk of perioperative complications. Sarcopenia was not associated with hospital mortality, which was 1%. Sarcopenia was associated with reduced 5-year survival, as was loss of muscle mass during neoadjuvant therapy.
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy {Tamandl, 2016 #2006}. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality.
 
-Review of sarcopenia and outcomes after GI cancer surgery [@su82] Sarcopenia associated with increased risk of postoperative complications and decreased survival after esophagectomy.
+Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Among these patients the 90-day readmission rate was 42.9% vs 16% in those without sarcopenia.{Makiura, 2018 #2007}. In addition, sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
 
-Negative impact of muscle wasting after chemotherapy followed by surgery [@Mayanagi3741] 66 pts
+Irish study {Elliott,822}
 
-Sarcopenia as a predictor of pulmonary complications after esophagectomy for thoracic esophageal cancer [@nishigori678]
+# Skeletal Muscle Loss during Esophageal ChemoRT
 
-# Frailty and survival after esophagectomy
-
-Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100] sarcopenia predicted short term outcome and survival, but only in patients over age 65
-
-Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72)
-
-200 patients with esophageal cancer of whom 130 (65%) had sarcopenia [@tamandl1359] patients with sarcopenia had decreased survival.
-
-Sarcopenia associated with decreased survival (p=0.035) in node-negative esophageal cancer patients after surgery (but not with node-positive).[@harada7]
-
-CROSS: Sarcopenia/Muscle Mass is not a Prognostic Factor for Short- and Long-Term Outcome After Esophagectomy for Cancer [@grotenhuis2698]
-
-# Muscle loss during neoadjuvant therapy
 
 Nottingham: 89 patients with esophageal cancer undergoing neoadjuvant chemotherapy. Sarcopenia associated with dose-limiting toxiciy and shortened survival after esopahgectomy [@tan333]
 
@@ -46,46 +33,35 @@ Nottingham: 89 patients with esophageal cancer undergoing neoadjuvant chemothera
 
 47 patients getting neoadjuvant chemotherapy . Chemotherapy increased rate of sarcopenia. [@awad74]
 
-# Retrospective Trimodality vs dCRT
+A small group of patients (n=35) with esophageal cancer undergoing neoadjuvant chemoradiation showed an increase in the percentage rated as sarcopenic as a result of chemoradiation {Yip, 2014 #2001}.
+Investigators in the UK noted similar changes in muscle mass among 14 patients
+as a result of neoadjuvant chemotherapy{Awad, 2012 #1990}. Neither study showed differences between loss of muscle mass and length of stay or survival, although neither study included a power analysis of these outcomes. A larger study from the Netherlands (n=123) {Reisinger, 2015 #1993} showed no association between muscle mass loss in mortality in the overall group, but did find a significant difference in mortality in 62 patients with stage III or IV disease.
 
-Italy [@castoro1375] Squamous cell 77 patients over 16 years. Comparable survival with dCRT vs Trimodality even after correcting for propensity score
+Among 123 patients undergoing neoadjuvant chemoradiation,the loss of muscle mass during chemoradiation (as measured by skeletal muscle CSA) was predictive of postoperative mortality {Reisinger, #1993}. Muscle loss was 13.5% in patients with complication-related mortality, and 8% in those without.
 
-Dutch[@faiz986] Factors accounting for choice of dCRT vs Trimodality: age \>75, hypertension+diabetes, CV+pulmonary. Adenocarcinoma: better survival with Trimodality. SCCA: Age \>75 or \>2 comorbidities overall survival was comparable between groups.
 
-Taiwan [@wang255] 5832 patients with SCC: Trimodality in 1754 and dCRT in 4078. Survival at 3 years 41% with trimodality vs 17% with dCRT
+## Skeletal muscle loss and survival after esophagectomy
 
-MDACC [@zhou1207] Squamous cell: 143 Trimodality-eligible patients: 60 had trimodality therapy and 83 had chemoRT. Longer survival in trimodality group (77 vs 33 months). For those with a complete clinical response, trimodality resulted in 123 moths survival vs 55 months with dCRT. Trimodality therapy was not associated with longer overall survival but predicted recurrence-free survival.
+Among 130 Austrian patients, sarcopenia was noted in 80 (62%). Median survival was longer in patients without sarcopenia (52months) compared with those with sarcopenia (21 months).{Paireder, 2017 #2003}
 
-UK [@hategan612] 102 patients with esophageal cancer: 55 trimodality and 47 dCRT. Longer survival with trimodality
+Among 131 Korean patients undergoing esophagectomy for esophageal cancer, psoas muscle area was associated with survival.{Park, 2017,13}  Among patients with higher psoas muscle area, 3-year survival was 64.9% and 37% in patients with lower psoas muscle area.
 
-# ChemoRT in Trimodality-eligible patients
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak and overall survival after esophagectomy {Tamandl, 2016 #2006}. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with decreased overall survival.
 
-MDACC [@taketa300] 662 patient eligible for trimodality therapy received chemoradiation. 61 patients (9.8%) refused surgery.  5-year overall survival 58% and relapse-free survival 35%. 13 patients developed localized recurrences, of whom 12 underwent salvage esophagectomy.
+Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Among these patients.{Makiura, 2018 #2007} sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
 
-MDCAA [@taketa95]
+A meta-analysis of 4 studies totaling 649 patients showed that sarcopenia was associated with a survival hazard ratio of 1.5 compared with non-sarcopenia patients {Shachar, 2017 #2122}.
 
-# Active Surveillance
+Patients undergoing transhiatal esophagectomy showed that among 230 patients, psoas muscle area was associated with post-operative survival among 64 patient who did not undergo neoadjuvant therapy, but was not a significant predictor on multivariable analysis among patients who received neoadjuvant therapy.{Sheetz, 2013 #1999}
 
-Dutch preSano [@noordman965]
+Meta-analysis of 11 studies found that sarcopenia was associated with decreased survival after esophagectomy for esophageal cancer [@dengdoy115]
 
-SANO randomized trial [@noordman142]
+Sarcopenia and survival and unplanned admissions after esophagectomy [@makiura456]
 
-Editorial [@vanderwilk462]
+Sarcopenia and postop pulmonary complications after esophagectomy [@makiura430]
 
-# Randomized trials of Trimodality vs dCRT
+# Risk Stratification for esohagectomy
 
-FFCD 9012 [@bedenne1160] German Trial [@stahl2310]
+## V02max
 
-# Reviews - Trimodality vs dCRT
-
-[@vellayappanCD010511] Addition of surgery to dCRT adds little or benefit for patients with squamous cell carcinoma. Authors could not determine whether there was benefit of the addition of surgery for adenocarcinoma and GE junction cancers.
-
-[@voeten1271] No clear advantage of trimodality therapy over dCRT
-
-# Esophagectomy in the Elderly
-
-Meta-analysis of studies [@baranov131]: 90-day mortality 9% for those 75+ vs 3.9% in those \<75
-
-Groningen: [@faiz986] Esophageal SCCA: Age and co-morbidity wre associated with higher probability of cCRT
-
-Metaanalysis of age and esophageal cancer treatment [@mantziari2104]
+Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy

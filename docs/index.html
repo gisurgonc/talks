@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.0.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,15 +11,10 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-  width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
-  vertical-align: middle;
-}
 </style>
 
 
@@ -69,11 +64,9 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
-    <a class="navbar-brand" href="./index.html">
+      <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">talks</span>
-    </a>
-  </div>
+  </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -95,14 +88,17 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
+        <nav id="TOC" role="doc-toc">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
   <li><a href="#general-surgery-residency-didactics" id="toc-general-surgery-residency-didactics" class="nav-link active" data-scroll-target="#general-surgery-residency-didactics">General Surgery Residency Didactics</a></li>
   <li><a href="#esophagectomy-working-group" id="toc-esophagectomy-working-group" class="nav-link" data-scroll-target="#esophagectomy-working-group">Esophagectomy Working Group</a></li>
+  <li><a href="#esophagectomy-decision-making" id="toc-esophagectomy-decision-making" class="nav-link" data-scroll-target="#esophagectomy-decision-making">Esophagectomy Decision-making</a></li>
   <li><a href="#sarcopenia-in-esophageal-cancers" id="toc-sarcopenia-in-esophageal-cancers" class="nav-link" data-scroll-target="#sarcopenia-in-esophageal-cancers">Sarcopenia in Esophageal Cancers</a></li>
   <li><a href="#sarcopenia-in-gi-cancers" id="toc-sarcopenia-in-gi-cancers" class="nav-link" data-scroll-target="#sarcopenia-in-gi-cancers">Sarcopenia in GI Cancers</a></li>
+  <li><a href="#sarcopenia-and-chemotherapy" id="toc-sarcopenia-and-chemotherapy" class="nav-link" data-scroll-target="#sarcopenia-and-chemotherapy">Sarcopenia and Chemotherapy</a></li>
+  <li><a href="#sarcopenia-methods" id="toc-sarcopenia-methods" class="nav-link" data-scroll-target="#sarcopenia-methods">Sarcopenia Methods</a></li>
   <li><a href="#blood-management-program" id="toc-blood-management-program" class="nav-link" data-scroll-target="#blood-management-program">Blood Management Program</a></li>
   </ul>
 </nav>
@@ -134,13 +130,26 @@ ul.task-list li input[type="checkbox"] {
 <h1>Esophagectomy Working Group</h1>
 <p><a href="eso_eras.html">Esophagectomy Early Recovery Literature Review</a></p>
 </section>
+<section id="esophagectomy-decision-making" class="level1">
+<h1>Esophagectomy Decision-making</h1>
+<p>Role of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery</p>
+<p><a href="es_cancertx.html">Surgical Decision Making</a></p>
+</section>
 <section id="sarcopenia-in-esophageal-cancers" class="level1">
 <h1>Sarcopenia in Esophageal Cancers</h1>
 <p><a href="eso_sarcopenia_lit.html">Literature Review</a></p>
 </section>
 <section id="sarcopenia-in-gi-cancers" class="level1">
 <h1>Sarcopenia in GI Cancers</h1>
-<p><a href="sarcopenia_lit.html">Literature Review</a></p>
+<p><a href="gi_sarcopenia_lit.html">Literature Review</a></p>
+</section>
+<section id="sarcopenia-and-chemotherapy" class="level1">
+<h1>Sarcopenia and Chemotherapy</h1>
+<p><a href="chemo_sarcopenia_lit.html">Literature Review</a></p>
+</section>
+<section id="sarcopenia-methods" class="level1">
+<h1>Sarcopenia Methods</h1>
+<p><a href="sarcopenia_lit.html">CT determination of muscle and adipose tissue compartments</a></p>
 </section>
 <section id="blood-management-program" class="level1">
 <h1>Blood Management Program</h1>
@@ -219,8 +228,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      let href = ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
