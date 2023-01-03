@@ -16,21 +16,19 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Surgical Decision Making](es_cancertx.html)
 
-# Sarcopenia in Esophageal Cancers
+# Sarcopenia
 
-[Literature Review](eso_sarcopenia_lit.html)
+[Esophageal Cancer and Sarcopenia](eso_sarcopenia_lit.html)
 
-# Sarcopenia in GI Cancers
+[GI Cancers and Sarcopenia](gi_sarcopenia_lit.html)
 
-[Literature Review](gi_sarcopenia_lit.html)
+[Sarcopenia and Chemotherapy](chemo_sarcopenia_lit.html)
 
-# Sarcopenia and Chemotherapy
+[CT methods for Sarcopenia](sarcopenia_lit.html)
 
-[Literature Review](chemo_sarcopenia_lit.html)
+[Frailty Index](frailtyindex_lit.html)
 
-# Sarcopenia Methods
-
-[CT determination of muscle and adipose tissue compartments](sarcopenia_lit.html)
+[Cachexia](cachexia_lit.html)
 
 # Blood Management Program
 

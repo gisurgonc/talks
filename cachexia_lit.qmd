@@ -1,0 +1,33 @@
+---
+title: "Cachexia Literature"
+editor: visual
+bibliography: zotero.bib
+---
+
+# Cachexia
+
+Cancer cachexia is characterized by significant weight loss and muscle wasting. It is often accompanied by weakness, fatigue, and a loss of appetite. Cancer cachexia is a complex and multifactorial syndrome that is thought to be caused by a combination of factors, including the cancer itself, the cancer treatment, and the body's response to the cancer. Cancer cachexia can have a significant impact on a person's quality of life and is associated with a poor prognosis.
+
+International consensus [@fearon489] defined cancer cachexia as being characterized by a progressive loss of skeletal muscle mass,with or without loss of adipose mass. This cachexia cannotbe fully supported by conventional nutritional support and gradually leads to functional impairment. It has been described as a continuum with three stages of diagnosis: pre‐cachexia, cachexia, and refractory cachexia.
+
+Fearon: Three-factor model with weight loss \>10%, low food intake (\<1500kcal/day) and systemic inflammation (C-reactive protein \>10mg/l) [@fearon]. All three factors required.
+
+Validation of cachexia definition: [@blum1635]. Proposed a four-group classification model, which required use of CRP. PS-SGA and Edmonton Symptom Assessment System. Four group classification did not distinguish better than two group.
+
+Review: Cachexia and sarcopenia [@dolly1413]
+
+Cachexia Score (CASCO): body weight and lean body mass loss; anorexia; infmallation, immunologic and metabolic disturbances; physical performance and quality of life
+
+## Etiology of Cachexia:
+
+-   The cancer itself: Some types of cancer, such as pancreatic cancer, are more likely to cause cachexia than others. The presence of certain types of cancer cells, such as tumor-associated macrophages, may also contribute to the development of cachexia.
+
+-   The body's response to the cancer: The body's immune system may produce certain hormones and cytokines in response to the cancer, which can lead to inflammation and weight loss.
+
+-   Cancer treatment: Some cancer treatments, such as chemotherapy and radiation therapy, can cause side effects that lead to weight loss and muscle wasting.
+
+-   Nutritional factors: People with cancer may have difficulty getting enough nutrients due to a lack of appetite, difficulty swallowing, or other factors.
+
+-   Psychological factors: Depression, anxiety, and other mental health conditions that are common in people with cancer may contribute to weight loss and muscle wasting, particularly through inactivity
+
+# 

@@ -4,15 +4,22 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-# Chemotherapy and Elderly - Adjuvant
+# Sarcopenia and Chemotherapy Toxicity
+
+Kazemi-Bajestani SM, Mazurak VC, Baracos V. Computed tomography-defined muscle and fat wasting are associated with cancer clinical outcomes. Semin Cell Dev Biol. 2016;54:2-10. 
+
+Rier HN, Jager A, Sleijfer S, Maier AB, Levin MD. The prevalence and prognostic value of low muscle mass in cancer patients: a review of the literature. Oncologist. 2016;21:1396-1409. 
+
+Brown JC, Cespedes Feliciano EM, Caan BJ. The evolution of body composition in oncology—epidemiology, clinical trials, and the future of patient care: facts and numbers. J Cachexia Sarcopenia Muscle. 2018;9:1200-1208. 
+
 
 # Chemotherapy and Elderly - Stage IV
 
-Colorectal cancer: 1013 patients with Stage IV CRC compared \<70 vs 70+. Older patients less likely to receive chemotherapy but among those that did receive chemo, improvement in survival was seen in both the older and younger groups [@chan147]
+Colorectal cancer: 1013 patients with Stage IV CRC compared <70 vs 70+. Older patients less likely to receive chemotherapy but among those that did receive chemo, improvement in survival was seen in both the older and younger groups [@chan147]
 
 Colorectal: Figer A, Perez-Staub N, Carola E, Tournigand C, Lledo G, Flesch M, Barcelo R, Cervantes A, André T, Colin P, et al. FOLFOX in patients aged between 76 and 80 years with metastatic colorectal cancer: an exploratory cohort of the OPTIMOX1 study. Cancer. 2007;110:2666--2671.
 
-For frail patients, either 5FU alone or stop and to strategy
+For frail patients, either 5FU alone or stop and go strategy
 
 ### Targeted therapy and Elderly
 
@@ -24,7 +31,12 @@ Choosing Wisely [@schnipper10]
 
 ASCO statement [@hurria3826]
 
-Cancer patients in the UK have worse survival likely due to undertreatment after age 65 - editorial [@chanda]
+
+
+## Weight loss and chemotherapy tolerance
+
+Dewys 1980 [@dewys491]
+Force-feeding cancer patients [@terepka225]
 
 # Comprehensive Geriatric Assessment
 
@@ -58,6 +70,10 @@ CGA - [@extermann1824]
 
 [@extermann241]
 
+SIOG consensus on CGA [@wildiers2595]
+
+Hamaker ME, Jonker JM, de Rooij SE, Vos AG, Smorenburg CH, van Munster BC. Frailty screening methods for predicting outcome of a comprehensive geriatric assessment in elderly patients with cancer: a systematic review. Lancet Oncol. 2012;13(10):e437–444.
+
 Randomized trial of CGA intervention in colorectal cancer treatment in Sweden. [@Normann948]. Trial will utilize CFS-9 score (Clinical Frailty Score-9). (In the US - median age of dx for colon cancer is 66 in men and 69 in women). Median age has shifted from median age of 72 in the early 2000s to 66 in 2020 ( Ries LAG, Eisner MP, Kosary CL, et al., eds. SEER Cancer Statistics Review, 1973-1999. Bethesda, MD: National Cancer Institute; 2002.)
 
 CGA appears to add information to performance status alone (L. Repetto, L. Fratino, R. A. Audisio et al., "Comprehensive geriatric assessment adds information to Eastern Cooperative Oncology Group performance status in elderly cancer patients: an Italian Group for Geriatric Oncology Study," *Journal of Clinical Oncology*, vol. 20, no. 2, pp. 494--502, 2002.)
@@ -72,13 +88,49 @@ Exercise behavior in METS (E. Ruden, D. A. Reardon, A. D. Coan et al., "Exercise
 
 Godin questionnaire: Godin G, Shephard RJ: A simple method to assess exercise behavior in the community. Can J Appl Sport Sci 10:141-146, 1985
 
+
+
 6MWT Gibbons WJ, Fruchter N, Sloan S, et al: Reference values for a multiple repetition 6-minute walk test in healthy adults older than 20 years. J Cardiopulm Rehabil 21:87-93, 2001
+
+At least four systematic reviews have shown the prognostic value of specific GA domains for overall survival, especially physical function and nutritional status:
+
+Puts MT, Santos B, Hardt J, et al. An update on a systematic review of the use of geriatric assessment for older adults in oncology. Ann Oncol. 2014;25(2):307–315. 
+
+Puts MT, Hardt J, Monette J, Girre V, Springall E, Alibhai SM. Use of geriatric assessment for older adults in the oncology setting: a systematic review. J Natl Cancer Inst. 2012;104(15):1133–1163.
+
+Bruijnen CP, van Harten-Krouwel DG, Koldenhof JJ, Emmelot-Vonk MH, Witteveen PO. Predictive value of each geriatric assessment domain for older patients with cancer: A systematic review. J Geriatr Oncol. 2019. 
+
+Hamaker ME, Vos AG, Smorenburg CH, de Rooij SE, van Munster BC. The value of geriatric assessments in predicting treatment tolerance and all-cause mortality in older patients with cancer. The oncologist. 2012;17(11):1439–1449. 
+
+Ramjaun A, Nassif MO, Krotneva S, Huang AR, Meguerditchian AN. Improved targeting of cancer care for older patients: a systematic review of the utility of comprehensive geriatric assessment. J Geriatr Oncol. 2013;4(3):271–281.
+
+64,71,73,85,86 Other studies have demonstrated that the addition of GA domains alongside traditional disease-based prognostic variables improves the ability to discriminate risk of death.87–91
+
+Klepin HD, Geiger AM, Tooze JA, et al. Geriatric assessment predicts survival for older adults receiving induction chemotherapy for acute myelogenous leukemia. Blood. 2013;121(21):4287–4294.
+
+CGA is time-consuming and therefore less cost-effective: Ellis, G.; Gardner, M.; Tsiachristas, A.; Langhorne, P.; Burke, O.; Rh, H.; Sp, C.; Kircher, T.; Somme, D.; Saltvedt, I.; et al. Comprehensive Geriatric Assessment for Older Adults Admitted to Hospital; John Wiley & Sons Inc.: Hoboken, NJ, USA, 2017
+
+## Screening tools (prior to CGA)
+
+[@decoster288]
+
+### CGA vs CT-derived Muscle Measures
+
+Israeli study of 51 patients undergoing chemotherapy showed that CGA did not predict grade 3/4 toxicity, but sarcopenia did [@shachar1203]
+
+Early breast cancer patients over age 70 (n=300) [@bellieni243] evaluated with CT-derived sarcopenia and CGA along the lines of the SIGGG group [@fuscoe13347]
 
 ## Geriatric-8 Screening
 
 Bellera CA, Rainfray M, Mathoulin‐Pelissier S, et al. Screening older cancer patients: first evaluation of the G‐8 geriatric screening tool. Ann Oncol. 2012;23:2166‐2172.
 
 Stokoe JM, Pearce J, Sinha R, Ring A. G8 and VES‐13 scores predict chemotherapy toxicity in older patients with cancer. J Geriatr Oncol. 2012;3(suppl 1):S81.
+
+## CARG-BC Score
+
+473 breast cancer patients modeled risk of toxicity wtih anthracycline use, duration ?3 months, abnormal LFTs, Low Hb, falls, limited walking, lack of social support. [@magnuson608]
+
+## CRASH
 
 # Colorectal Cancer in Elderly
 
@@ -106,9 +158,7 @@ Adjuvant 5FU appears beneficial in the elderly Sargent DJ, Goldberg RM, Jacobson
 
 McCleary - ACCENT group analysis
 
-### Adjuvant Oxaliplatin in Colon cancer
 
-Addition of oxaliplatin to 5FU results in survival benefit for younger patients but may not be of benefit to elderly patients
 
 # Resources
 
@@ -140,6 +190,8 @@ Functional vs chronological age[@soto-perez-de-celise305]
 
 ## Undertreatment of Elderly
 
+Cancer patients in the UK have worse survival likely due to undertreatment after age 65 - editorial [@chanda]
+
 Surgery for colorectal cancer in elderly patients: a systematic review. Colorectal Cancer Collaborative Group. Lancet. 2000;356:968--974
 
 Schrag D, Cramer LD, Bach PB, Begg CB. Age and adjuvant chemotherapy use after surgery for stage III colon cancer. J Natl Cancer Inst. 2001;93:850--857
@@ -150,7 +202,7 @@ Sundararajan V, Mitra N, Jacobson JS, Grann VR, Heitjan DF, Neugut AI. Survival 
 
 Jessup JM, Stewart A, Greene FL, Minsky BD. Adjuvant chemotherapy for stage III colon cancer: implications of race/ethnicity, age, and differentiation. JAMA. 2005;294:2703--2711.
 
-110 CRC patients over age 75: only 6/23 received adjuvant chemotherapy. Out of 18 patients with stage IV disease, only 3 received palliative chemotherapy. Aparicio T, Navazesh A, Boutron I, Bouarioua N, Chosidow D, Mion M, Choudat L, Sobhani I, Mentré F, Soulé JC. Half of elderly patients routinely treated for colorectal cancer receive a sub-standard treatment. Crit Rev Oncol Hematol. 2009;71:249--257
+110 CRC patients over age 75: only 6/23 received adjuvant chemotherapy. Out of 18 patients with stage IV disease, only 3 received palliative chemotherapy. Aparicio T, Navazesh A, Boutron I, Bouarioua N, Chosidow D, Mion M, Choudat L, Sobhani I, Mentré F, Soulé JC. Half of elderly patients routinely treated for colorectal cancer receive a sub-standard treatment. Crit Rev Oncol Hematol. 2009;71:249--257[@aparicio249]
 
 Adjuvant chemotherapy for stage III colon cancer appears to be efficacious in the elderly: Iwashyna TJ, Lamont EB. Effectiveness of adjuvant fluorouracil in clinical practice: a population-based cohort study of elderly patients with stage III colon cancer. J Clin Oncol. 2002;20:3992--3998
 
@@ -164,7 +216,13 @@ H. K. Sanoff, W. R. Carpenter, T. Sturmer et al. et al., "Effect of adjuvant che
 
 Older patients do derive benefit from chemotherapy H. B. Muss, S. Woolf, D. Berry et al., "Adjuvant chemotherapy in older and younger women with lymph node-positive breast cancer," The Journal of the American Medical Association, vol. 293, no. 9, pp. 1073--1081, 2005.
 
-Older adults \>70 are less likely to be enrolled in 2nd line trials for
+Older adults >70 are less likely to be enrolled in 2nd line trials for
+
+# Elderly and clinical trials
+
+Under-representation of older adults in cancer registration trials [@scher2036]
+
+“Staging the aging” when considering androgen deprivation therapy for older men with prostate cancer [@dale3420]
 
 # Platelet Neutrophil Leukocytes
 
@@ -173,6 +231,8 @@ Older adults \>70 are less likely to be enrolled in 2nd line trials for
 Tan D, Fu Y, Su Q, et al. Prognostic role of platelet-lymphocyte ratio in colorectal cancer: A systematic review and meta-analysis. Medicine (Baltimore) 2016;95:e3837.
 
 Li MX, Liu XM, Zhang XF, et al. Prognostic role of neutrophil-to-lymphocyte ratio in colorectal cancer: A systematic review and meta-analysis. Int J Cancer 2014;134:2403-13.
+
+NLR in lung cancear patients undergoing chemotherapy: [@jine035031]
 
 # Immunotherapy in Frail patients
 
@@ -193,6 +253,12 @@ NSCLC meta-analysis of ECOG 2: [@tomasik97] Patients with impaired PS are twice 
 France [@facchinetti155] 153 patients ECOG 2. Patients who were ECOG 2 due to comorbidities (n=41) had much better prognosis (median survival 11.8 vs 2.8 months) than those ECOG 2 due to disease burden(n=112)
 
 Checkpoint inhibitor dose in the last 30 days of life associated with poor PS and dying in hospital [@glish179]
+
+Frailty present in 45% of patients with lung cancer and was associated with increased HR for mortality (3.01)[@komici485]
+
+Sarcopenia and lung cancer review: [@yang101] Sarcopenia present in 45% of lung cancer patients.  Sarcopenia associated with shorter survival in subsets of NSCLC and in SCLC.
+
+Lung cancer: MUST vs body composition: No prognostic value of body composition [@abbass349]
 
 # Reporting
 
@@ -227,3 +293,27 @@ Stair Climbing {Reddy, 2016 #2262}
 ## Timed up and go
 
 ?Part of Fried scale? Podsiadlo 142
+
+# Dose Intensity
+
+More efficacy for chemotherapy administered at higher relative dose intensity
+
+Half of dose reductions occur before the initiation of chemotherapy 
+
+
+RDI in first-line chemotherapy for advanced NSCLC [@crawford925]
+
+Review: RDI in advanced solid-tumor chemotherapy [@nielsone1609]
+
+Gemcitabine chemotherapy for unresectable pancreatic cancer: Sarcopenic patients had shorter survivall, more grade 3/4 toxicity, and [@tan clin canc res 2009]
+
+FOLFIRINOX in pancreatic cancer: sarcopenia associates with shorter survival
+Skeletal muscle wasting occurs in 85% of patients with pancreatic cancer, which contributes to mortality (Kurita, Pancreatology 2019)
+
+# Muscle Density
+
+NSCLC: Muscle density as important as muscle quantity[@vanamsterdam1191] - looked at 
+
+# D-creatine
+
+D3-creatine dilution, hold great promise as highly accurate tools for providing direct and accurate measurements of muscle mass, but they are still in the investigative phase and are not yet used within oncology.Evans WJ, Hellerstein M, Orwoll E, Cummings S, Cawthon PM. D3-Creatine dilution and the importance of accuracy in the assessment of skeletal muscle mass. J Cachexia Sarcopenia Muscle. 2019;10:14-21. 
