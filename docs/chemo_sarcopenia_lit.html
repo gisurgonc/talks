@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
@@ -83,19 +88,22 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">talks</span>
-  </a>
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="dropdown-header">
- about.qmd</li>
+ <span class="menu-text">about.qmd</span></li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -107,24 +115,32 @@ div.csl-indent {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#chemotherapy-and-elderly---adjuvant" id="toc-chemotherapy-and-elderly---adjuvant" class="nav-link active" data-scroll-target="#chemotherapy-and-elderly---adjuvant">Chemotherapy and Elderly - Adjuvant</a></li>
+  <li><a href="#sarcopenia-and-chemotherapy-toxicity" id="toc-sarcopenia-and-chemotherapy-toxicity" class="nav-link active" data-scroll-target="#sarcopenia-and-chemotherapy-toxicity">Sarcopenia and Chemotherapy Toxicity</a></li>
   <li><a href="#chemotherapy-and-elderly---stage-iv" id="toc-chemotherapy-and-elderly---stage-iv" class="nav-link" data-scroll-target="#chemotherapy-and-elderly---stage-iv">Chemotherapy and Elderly - Stage IV</a>
   <ul class="collapse">
   <li><a href="#targeted-therapy-and-elderly" id="toc-targeted-therapy-and-elderly" class="nav-link" data-scroll-target="#targeted-therapy-and-elderly">Targeted therapy and Elderly</a></li>
   </ul></li>
-  <li><a href="#frailty-and-chemotherapy" id="toc-frailty-and-chemotherapy" class="nav-link" data-scroll-target="#frailty-and-chemotherapy">Frailty and Chemotherapy</a></li>
+  <li><a href="#frailty-and-chemotherapy" id="toc-frailty-and-chemotherapy" class="nav-link" data-scroll-target="#frailty-and-chemotherapy">Frailty and Chemotherapy</a>
+  <ul class="collapse">
+  <li><a href="#weight-loss-and-chemotherapy-tolerance" id="toc-weight-loss-and-chemotherapy-tolerance" class="nav-link" data-scroll-target="#weight-loss-and-chemotherapy-tolerance">Weight loss and chemotherapy tolerance</a></li>
+  </ul></li>
   <li><a href="#comprehensive-geriatric-assessment" id="toc-comprehensive-geriatric-assessment" class="nav-link" data-scroll-target="#comprehensive-geriatric-assessment">Comprehensive Geriatric Assessment</a>
   <ul class="collapse">
+  <li><a href="#screening-tools-prior-to-cga" id="toc-screening-tools-prior-to-cga" class="nav-link" data-scroll-target="#screening-tools-prior-to-cga">Screening tools (prior to CGA)</a>
+  <ul class="collapse">
+  <li><a href="#cga-vs-ct-derived-muscle-measures" id="toc-cga-vs-ct-derived-muscle-measures" class="nav-link" data-scroll-target="#cga-vs-ct-derived-muscle-measures">CGA vs CT-derived Muscle Measures</a></li>
+  </ul></li>
   <li><a href="#geriatric-8-screening" id="toc-geriatric-8-screening" class="nav-link" data-scroll-target="#geriatric-8-screening">Geriatric-8 Screening</a></li>
+  <li><a href="#carg-bc-score" id="toc-carg-bc-score" class="nav-link" data-scroll-target="#carg-bc-score">CARG-BC Score</a></li>
+  <li><a href="#crash" id="toc-crash" class="nav-link" data-scroll-target="#crash">CRASH</a></li>
   </ul></li>
   <li><a href="#colorectal-cancer-in-elderly" id="toc-colorectal-cancer-in-elderly" class="nav-link" data-scroll-target="#colorectal-cancer-in-elderly">Colorectal Cancer in Elderly</a>
   <ul class="collapse">
   <li><a href="#adjuvant-5fu-in-colon-cancer" id="toc-adjuvant-5fu-in-colon-cancer" class="nav-link" data-scroll-target="#adjuvant-5fu-in-colon-cancer">Adjuvant 5FU in Colon cancer</a></li>
-  <li><a href="#adjuvant-oxaliplatin-in-colon-cancer" id="toc-adjuvant-oxaliplatin-in-colon-cancer" class="nav-link" data-scroll-target="#adjuvant-oxaliplatin-in-colon-cancer">Adjuvant Oxaliplatin in Colon cancer</a></li>
   </ul></li>
   <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
   <li><a href="#bmi-and-survival-in-stage-iv-cancer" id="toc-bmi-and-survival-in-stage-iv-cancer" class="nav-link" data-scroll-target="#bmi-and-survival-in-stage-iv-cancer">BMI and survival in stage IV cancer</a></li>
@@ -133,6 +149,7 @@ div.csl-indent {
   <li><a href="#undertreatment-of-elderly" id="toc-undertreatment-of-elderly" class="nav-link" data-scroll-target="#undertreatment-of-elderly">Undertreatment of Elderly</a></li>
   </ul></li>
   <li><a href="#age-and-receipt-of-chemotherapy" id="toc-age-and-receipt-of-chemotherapy" class="nav-link" data-scroll-target="#age-and-receipt-of-chemotherapy">Age and receipt of chemotherapy</a></li>
+  <li><a href="#elderly-and-clinical-trials" id="toc-elderly-and-clinical-trials" class="nav-link" data-scroll-target="#elderly-and-clinical-trials">Elderly and clinical trials</a></li>
   <li><a href="#platelet-neutrophil-leukocytes" id="toc-platelet-neutrophil-leukocytes" class="nav-link" data-scroll-target="#platelet-neutrophil-leukocytes">Platelet Neutrophil Leukocytes</a></li>
   <li><a href="#immunotherapy-in-frail-patients" id="toc-immunotherapy-in-frail-patients" class="nav-link" data-scroll-target="#immunotherapy-in-frail-patients">Immunotherapy in Frail patients</a></li>
   <li><a href="#reporting" id="toc-reporting" class="nav-link" data-scroll-target="#reporting">Reporting</a></li>
@@ -146,6 +163,9 @@ div.csl-indent {
   <li><a href="#stair-climbing" id="toc-stair-climbing" class="nav-link" data-scroll-target="#stair-climbing">Stair-climbing</a></li>
   <li><a href="#timed-up-and-go" id="toc-timed-up-and-go" class="nav-link" data-scroll-target="#timed-up-and-go">Timed up and go</a></li>
   </ul></li>
+  <li><a href="#dose-intensity" id="toc-dose-intensity" class="nav-link" data-scroll-target="#dose-intensity">Dose Intensity</a></li>
+  <li><a href="#muscle-density" id="toc-muscle-density" class="nav-link" data-scroll-target="#muscle-density">Muscle Density</a></li>
+  <li><a href="#d-creatine" id="toc-d-creatine" class="nav-link" data-scroll-target="#d-creatine">D-creatine</a></li>
   </ul>
 </nav>
     </div>
@@ -162,20 +182,24 @@ div.csl-indent {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
 
 </header>
 
-<section id="chemotherapy-and-elderly---adjuvant" class="level1">
-<h1>Chemotherapy and Elderly - Adjuvant</h1>
+<section id="sarcopenia-and-chemotherapy-toxicity" class="level1">
+<h1>Sarcopenia and Chemotherapy Toxicity</h1>
+<p>Kazemi-Bajestani SM, Mazurak VC, Baracos V. Computed tomography-defined muscle and fat wasting are associated with cancer clinical outcomes. Semin Cell Dev Biol. 2016;54:2-10.</p>
+<p>Rier HN, Jager A, Sleijfer S, Maier AB, Levin MD. The prevalence and prognostic value of low muscle mass in cancer patients: a review of the literature. Oncologist. 2016;21:1396-1409.</p>
+<p>Brown JC, Cespedes Feliciano EM, Caan BJ. The evolution of body composition in oncology—epidemiology, clinical trials, and the future of patient care: facts and numbers. J Cachexia Sarcopenia Muscle. 2018;9:1200-1208.</p>
 </section>
 <section id="chemotherapy-and-elderly---stage-iv" class="level1">
 <h1>Chemotherapy and Elderly - Stage IV</h1>
 <p>Colorectal cancer: 1013 patients with Stage IV CRC compared &lt;70 vs 70+. Older patients less likely to receive chemotherapy but among those that did receive chemo, improvement in survival was seen in both the older and younger groups <span class="citation" data-cites="chan147">(<a href="#ref-chan147" role="doc-biblioref">Chan et al. 2017</a>)</span></p>
 <p>Colorectal: Figer A, Perez-Staub N, Carola E, Tournigand C, Lledo G, Flesch M, Barcelo R, Cervantes A, André T, Colin P, et al.&nbsp;FOLFOX in patients aged between 76 and 80 years with metastatic colorectal cancer: an exploratory cohort of the OPTIMOX1 study. Cancer. 2007;110:2666–2671.</p>
-<p>For frail patients, either 5FU alone or stop and to strategy</p>
+<p>For frail patients, either 5FU alone or stop and go strategy</p>
 <section id="targeted-therapy-and-elderly" class="level3">
 <h3 class="anchored" data-anchor-id="targeted-therapy-and-elderly">Targeted therapy and Elderly</h3>
 </section>
@@ -185,7 +209,10 @@ div.csl-indent {
 <p>Chemotherapy in frail patients:</p>
 <p>Choosing Wisely <span class="citation" data-cites="schnipper10">(<a href="#ref-schnipper10" role="doc-biblioref">Schnipper et al., n.d.</a>)</span></p>
 <p>ASCO statement <span class="citation" data-cites="hurria3826">(<a href="#ref-hurria3826" role="doc-biblioref">Hurria et al. 2015</a>)</span></p>
-<p>Cancer patients in the UK have worse survival likely due to undertreatment after age 65 - editorial <span class="citation" data-cites="chanda">(<a href="#ref-chanda" role="doc-biblioref"><strong>chanda?</strong></a>)</span></p>
+<section id="weight-loss-and-chemotherapy-tolerance" class="level2">
+<h2 class="anchored" data-anchor-id="weight-loss-and-chemotherapy-tolerance">Weight loss and chemotherapy tolerance</h2>
+<p>Dewys 1980 <span class="citation" data-cites="dewys491">(<a href="#ref-dewys491" role="doc-biblioref"><strong>dewys491?</strong></a>)</span> Force-feeding cancer patients <span class="citation" data-cites="terepka225">(<a href="#ref-terepka225" role="doc-biblioref"><strong>terepka225?</strong></a>)</span></p>
+</section>
 </section>
 <section id="comprehensive-geriatric-assessment" class="level1">
 <h1>Comprehensive Geriatric Assessment</h1>
@@ -210,6 +237,8 @@ div.csl-indent {
 </ul>
 <p>CGA - <span class="citation" data-cites="extermann1824">(<a href="#ref-extermann1824" role="doc-biblioref">Extermann and Hurria 2007</a>)</span></p>
 <p><span class="citation" data-cites="extermann241">(<a href="#ref-extermann241" role="doc-biblioref">Extermann et al. 2005</a>)</span></p>
+<p>SIOG consensus on CGA <span class="citation" data-cites="wildiers2595">(<a href="#ref-wildiers2595" role="doc-biblioref"><strong>wildiers2595?</strong></a>)</span></p>
+<p>Hamaker ME, Jonker JM, de Rooij SE, Vos AG, Smorenburg CH, van Munster BC. Frailty screening methods for predicting outcome of a comprehensive geriatric assessment in elderly patients with cancer: a systematic review. Lancet Oncol. 2012;13(10):e437–444.</p>
 <p>Randomized trial of CGA intervention in colorectal cancer treatment in Sweden. <span class="citation" data-cites="Normann948">(<a href="#ref-Normann948" role="doc-biblioref"><strong>Normann948?</strong></a>)</span>. Trial will utilize CFS-9 score (Clinical Frailty Score-9). (In the US - median age of dx for colon cancer is 66 in men and 69 in women). Median age has shifted from median age of 72 in the early 2000s to 66 in 2020 ( Ries LAG, Eisner MP, Kosary CL, et al., eds.&nbsp;SEER Cancer Statistics Review, 1973-1999. Bethesda, MD: National Cancer Institute; 2002.)</p>
 <p>CGA appears to add information to performance status alone (L. Repetto, L. Fratino, R. A. Audisio et al., “Comprehensive geriatric assessment adds information to Eastern Cooperative Oncology Group performance status in elderly cancer patients: an Italian Group for Geriatric Oncology Study,” <em>Journal of Clinical Oncology</em>, vol.&nbsp;20, no. 2, pp.&nbsp;494–502, 2002.)</p>
 <p>CGA affects cancer treatment in 50% (M. T. E. Puts, J. Hardt, J. Monette, V. Girre, E. Springall, and S. M. H. Alibhai, “Use of geriatric assessment for older adults in the oncology setting: a systematic review,” <em>Journal of the National Cancer Institute</em>, vol.&nbsp;104, no. 15, pp.&nbsp;1133–1163, 2012</p>
@@ -218,10 +247,35 @@ div.csl-indent {
 <p>Exercise behavior in METS (E. Ruden, D. A. Reardon, A. D. Coan et al., “Exercise behavior, functional capacity, and survival in adults with malignant recurrent glioma,” <em>Journal of Clinical Oncology</em>, vol.&nbsp;29, no. 21, pp.&nbsp;2918–2923, 2011.) <span class="citation" data-cites="ruden2918">(<a href="#ref-ruden2918" role="doc-biblioref">Ruden et al. 2011</a>)</span> used Godin Leisure-Time Exercise Questionare</p>
 <p>Godin questionnaire: Godin G, Shephard RJ: A simple method to assess exercise behavior in the community. Can J Appl Sport Sci 10:141-146, 1985</p>
 <p>6MWT Gibbons WJ, Fruchter N, Sloan S, et al: Reference values for a multiple repetition 6-minute walk test in healthy adults older than 20 years. J Cardiopulm Rehabil 21:87-93, 2001</p>
+<p>At least four systematic reviews have shown the prognostic value of specific GA domains for overall survival, especially physical function and nutritional status:</p>
+<p>Puts MT, Santos B, Hardt J, et al.&nbsp;An update on a systematic review of the use of geriatric assessment for older adults in oncology. Ann Oncol. 2014;25(2):307–315.</p>
+<p>Puts MT, Hardt J, Monette J, Girre V, Springall E, Alibhai SM. Use of geriatric assessment for older adults in the oncology setting: a systematic review. J Natl Cancer Inst. 2012;104(15):1133–1163.</p>
+<p>Bruijnen CP, van Harten-Krouwel DG, Koldenhof JJ, Emmelot-Vonk MH, Witteveen PO. Predictive value of each geriatric assessment domain for older patients with cancer: A systematic review. J Geriatr Oncol. 2019.</p>
+<p>Hamaker ME, Vos AG, Smorenburg CH, de Rooij SE, van Munster BC. The value of geriatric assessments in predicting treatment tolerance and all-cause mortality in older patients with cancer. The oncologist. 2012;17(11):1439–1449.</p>
+<p>Ramjaun A, Nassif MO, Krotneva S, Huang AR, Meguerditchian AN. Improved targeting of cancer care for older patients: a systematic review of the utility of comprehensive geriatric assessment. J Geriatr Oncol. 2013;4(3):271–281.</p>
+<p>64,71,73,85,86 Other studies have demonstrated that the addition of GA domains alongside traditional disease-based prognostic variables improves the ability to discriminate risk of death.87–91</p>
+<p>Klepin HD, Geiger AM, Tooze JA, et al.&nbsp;Geriatric assessment predicts survival for older adults receiving induction chemotherapy for acute myelogenous leukemia. Blood. 2013;121(21):4287–4294.</p>
+<p>CGA is time-consuming and therefore less cost-effective: Ellis, G.; Gardner, M.; Tsiachristas, A.; Langhorne, P.; Burke, O.; Rh, H.; Sp, C.; Kircher, T.; Somme, D.; Saltvedt, I.; et al.&nbsp;Comprehensive Geriatric Assessment for Older Adults Admitted to Hospital; John Wiley &amp; Sons Inc.: Hoboken, NJ, USA, 2017</p>
+<section id="screening-tools-prior-to-cga" class="level2">
+<h2 class="anchored" data-anchor-id="screening-tools-prior-to-cga">Screening tools (prior to CGA)</h2>
+<p><span class="citation" data-cites="decoster288">(<a href="#ref-decoster288" role="doc-biblioref">Decoster et al. 2015</a>)</span></p>
+<section id="cga-vs-ct-derived-muscle-measures" class="level3">
+<h3 class="anchored" data-anchor-id="cga-vs-ct-derived-muscle-measures">CGA vs CT-derived Muscle Measures</h3>
+<p>Israeli study of 51 patients undergoing chemotherapy showed that CGA did not predict grade 3/4 toxicity, but sarcopenia did <span class="citation" data-cites="shachar1203">(<a href="#ref-shachar1203" role="doc-biblioref">Shachar et al. 2022</a>)</span></p>
+<p>Early breast cancer patients over age 70 (n=300) <span class="citation" data-cites="bellieni243">(<a href="#ref-bellieni243" role="doc-biblioref">Bellieni et al. 2021</a>)</span> evaluated with CT-derived sarcopenia and CGA along the lines of the SIGGG group <span class="citation" data-cites="fuscoe13347">(<a href="#ref-fuscoe13347" role="doc-biblioref">Fusco et al. 2021</a>)</span></p>
+</section>
+</section>
 <section id="geriatric-8-screening" class="level2">
 <h2 class="anchored" data-anchor-id="geriatric-8-screening">Geriatric-8 Screening</h2>
 <p>Bellera CA, Rainfray M, Mathoulin‐Pelissier S, et al.&nbsp;Screening older cancer patients: first evaluation of the G‐8 geriatric screening tool. Ann Oncol. 2012;23:2166‐2172.</p>
 <p>Stokoe JM, Pearce J, Sinha R, Ring A. G8 and VES‐13 scores predict chemotherapy toxicity in older patients with cancer. J Geriatr Oncol. 2012;3(suppl 1):S81.</p>
+</section>
+<section id="carg-bc-score" class="level2">
+<h2 class="anchored" data-anchor-id="carg-bc-score">CARG-BC Score</h2>
+<p>473 breast cancer patients modeled risk of toxicity wtih anthracycline use, duration ?3 months, abnormal LFTs, Low Hb, falls, limited walking, lack of social support. <span class="citation" data-cites="magnuson608">(<a href="#ref-magnuson608" role="doc-biblioref"><strong>magnuson608?</strong></a>)</span></p>
+</section>
+<section id="crash" class="level2">
+<h2 class="anchored" data-anchor-id="crash">CRASH</h2>
 </section>
 </section>
 <section id="colorectal-cancer-in-elderly" class="level1">
@@ -239,10 +293,6 @@ div.csl-indent {
 <h3 class="anchored" data-anchor-id="adjuvant-5fu-in-colon-cancer">Adjuvant 5FU in Colon cancer</h3>
 <p>Adjuvant 5FU appears beneficial in the elderly Sargent DJ, Goldberg RM, Jacobson SD, Macdonald JS, Labianca R, Haller DG, Shepherd LE, Seitz JF, Francini G. A pooled analysis of adjuvant chemotherapy for resected colon cancer in elderly patients. N Engl J Med. 2001;345:1091–1097</p>
 <p>McCleary - ACCENT group analysis</p>
-</section>
-<section id="adjuvant-oxaliplatin-in-colon-cancer" class="level3">
-<h3 class="anchored" data-anchor-id="adjuvant-oxaliplatin-in-colon-cancer">Adjuvant Oxaliplatin in Colon cancer</h3>
-<p>Addition of oxaliplatin to 5FU results in survival benefit for younger patients but may not be of benefit to elderly patients</p>
 </section>
 </section>
 <section id="resources" class="level1">
@@ -266,12 +316,13 @@ div.csl-indent {
 <p>Functional vs chronological age<span class="citation" data-cites="soto-perez-de-celise305">(<a href="#ref-soto-perez-de-celise305" role="doc-biblioref">Soto-Perez-de-Celis et al. 2018</a>)</span></p>
 <section id="undertreatment-of-elderly" class="level2">
 <h2 class="anchored" data-anchor-id="undertreatment-of-elderly">Undertreatment of Elderly</h2>
+<p>Cancer patients in the UK have worse survival likely due to undertreatment after age 65 - editorial <span class="citation" data-cites="chanda">(<a href="#ref-chanda" role="doc-biblioref"><strong>chanda?</strong></a>)</span></p>
 <p>Surgery for colorectal cancer in elderly patients: a systematic review. Colorectal Cancer Collaborative Group. Lancet. 2000;356:968–974</p>
 <p>Schrag D, Cramer LD, Bach PB, Begg CB. Age and adjuvant chemotherapy use after surgery for stage III colon cancer. J Natl Cancer Inst. 2001;93:850–857</p>
 <p>Potosky AL, Harlan LC, Kaplan RS, Johnson KA, Lynch CF. Age, sex, and racial differences in the use of standard adjuvant therapy for colorectal cancer. J Clin Oncol. 2002;20:1192–1202.</p>
 <p>Sundararajan V, Mitra N, Jacobson JS, Grann VR, Heitjan DF, Neugut AI. Survival associated with 5-fluorouracil-based adjuvant chemotherapy among elderly patients with node-positive colon cancer. Ann Intern Med. 2002;136:349–357</p>
 <p>Jessup JM, Stewart A, Greene FL, Minsky BD. Adjuvant chemotherapy for stage III colon cancer: implications of race/ethnicity, age, and differentiation. JAMA. 2005;294:2703–2711.</p>
-<p>110 CRC patients over age 75: only 6/23 received adjuvant chemotherapy. Out of 18 patients with stage IV disease, only 3 received palliative chemotherapy. Aparicio T, Navazesh A, Boutron I, Bouarioua N, Chosidow D, Mion M, Choudat L, Sobhani I, Mentré F, Soulé JC. Half of elderly patients routinely treated for colorectal cancer receive a sub-standard treatment. Crit Rev Oncol Hematol. 2009;71:249–257</p>
+<p>110 CRC patients over age 75: only 6/23 received adjuvant chemotherapy. Out of 18 patients with stage IV disease, only 3 received palliative chemotherapy. Aparicio T, Navazesh A, Boutron I, Bouarioua N, Chosidow D, Mion M, Choudat L, Sobhani I, Mentré F, Soulé JC. Half of elderly patients routinely treated for colorectal cancer receive a sub-standard treatment. Crit Rev Oncol Hematol. 2009;71:249–257<span class="citation" data-cites="aparicio249">(<a href="#ref-aparicio249" role="doc-biblioref">Aparicio et al. 2009</a>)</span></p>
 <p>Adjuvant chemotherapy for stage III colon cancer appears to be efficacious in the elderly: Iwashyna TJ, Lamont EB. Effectiveness of adjuvant fluorouracil in clinical practice: a population-based cohort study of elderly patients with stage III colon cancer. J Clin Oncol. 2002;20:3992–3998</p>
 <p>Age and oncologist decisions <span class="citation" data-cites="foster584">(<a href="#ref-foster584" role="doc-biblioref">Foster et al. 2010</a>)</span></p>
 <p>Age and comorbidity affect recommendations for chemotherapy in stage III colon cancer - more variability of recommendation for older patients<span class="citation" data-cites="keating2532">(<a href="#ref-keating2532" role="doc-biblioref">Keating et al. 2008</a>)</span></p>
@@ -283,23 +334,32 @@ div.csl-indent {
 <p>Older patients do derive benefit from chemotherapy H. B. Muss, S. Woolf, D. Berry et al., “Adjuvant chemotherapy in older and younger women with lymph node-positive breast cancer,” The Journal of the American Medical Association, vol.&nbsp;293, no. 9, pp.&nbsp;1073–1081, 2005.</p>
 <p>Older adults &gt;70 are less likely to be enrolled in 2nd line trials for</p>
 </section>
+<section id="elderly-and-clinical-trials" class="level1">
+<h1>Elderly and clinical trials</h1>
+<p>Under-representation of older adults in cancer registration trials <span class="citation" data-cites="scher2036">(<a href="#ref-scher2036" role="doc-biblioref"><strong>scher2036?</strong></a>)</span></p>
+<p>“Staging the aging” when considering androgen deprivation therapy for older men with prostate cancer <span class="citation" data-cites="dale3420">(<a href="#ref-dale3420" role="doc-biblioref">Dale 2009</a>)</span></p>
+</section>
 <section id="platelet-neutrophil-leukocytes" class="level1">
 <h1>Platelet Neutrophil Leukocytes</h1>
 <p><span class="citation" data-cites="mercier478">(<a href="#ref-mercier478" role="doc-biblioref"><strong>mercier478?</strong></a>)</span></p>
 <p>Tan D, Fu Y, Su Q, et al.&nbsp;Prognostic role of platelet-lymphocyte ratio in colorectal cancer: A systematic review and meta-analysis. Medicine (Baltimore) 2016;95:e3837.</p>
 <p>Li MX, Liu XM, Zhang XF, et al.&nbsp;Prognostic role of neutrophil-to-lymphocyte ratio in colorectal cancer: A systematic review and meta-analysis. Int J Cancer 2014;134:2403-13.</p>
+<p>NLR in lung cancear patients undergoing chemotherapy: <span class="citation" data-cites="jine035031">(<a href="#ref-jine035031" role="doc-biblioref">Jin et al. 2020</a>)</span></p>
 </section>
 <section id="immunotherapy-in-frail-patients" class="level1">
 <h1>Immunotherapy in Frail patients</h1>
 <p>Creighton: <span class="citation" data-cites="krishnane175">(<a href="#ref-krishnane175" role="doc-biblioref">Krishnan et al. 2022</a>)</span> 257 patients with advanced solid tumor receiving immune checkpoint inhibitors. 182 were ECOG 0-1 and 75 were ECOG &gt;=2. Median overall survival was 12.6 months for the ECOG PS 0-1 group compared with 3.1 months for the ECOG PS ≥ 2 group (P &lt; .001). The overall response rate for patients with ECOG PS 0-1 was 23% compared with 8% for those with poor PS (P = .005). Patients with poor PS treated with ICI had similar hospice referral rates (67% for ECOG PS ≥ 2 v 61.9% for ECOG PS 0-1, P = .50) but were more likely to have in-hospital death as compared with the good PS group (28.6% v 15.1%, P = .035).</p>
 <p>India: <span class="citation" data-cites="kapoore25115">(<a href="#ref-kapoore25115" role="doc-biblioref">Kapoor et al. 2021</a>)</span> 155 patients receiving ICIs. ECOG 0-1 had median survival 9.1 months vs 2.9months in ECOG 2-4. Median OS for ECOG2 was 3.7months vs 1.8 months with ECOG 3-4</p>
-<p>Meta-analysis of IC trials: No difference in benefit for ECOG 0 vs ECOG &gt;=1 <span class="citation" data-cites="yange2012534">(<a href="#ref-yange2012534" role="doc-biblioref">Yang et al. 2020</a>)</span></p>
+<p>Meta-analysis of IC trials: No difference in benefit for ECOG 0 vs ECOG &gt;=1 <span class="citation" data-cites="yange2012534">(<a href="#ref-yange2012534" role="doc-biblioref">F. Yang et al. 2020</a>)</span></p>
 <p>Melanoma PS2-3 treated with ICI had median survival of 18 months vs 19.5 months for ECOG 0-1 <span class="citation" data-cites="wong385">(<a href="#ref-wong385" role="doc-biblioref">Wong et al. 2017</a>)</span></p>
 <p>Lung cancer with ECOG 2+ had worse prognosis than ECOG 0-1 in NSCLC treated with pembro <span class="citation" data-cites="sehgale2037120">(<a href="#ref-sehgale2037120" role="doc-biblioref"><strong>sehgale2037120?</strong></a>)</span></p>
 <p>NSCLC treated with ICI: shorter survival in ECOG 2+ compared with PS 0-1 <span class="citation" data-cites="petrillo2288">(<a href="#ref-petrillo2288" role="doc-biblioref">Petrillo et al. 2020</a>)</span></p>
 <p>NSCLC meta-analysis of ECOG 2: <span class="citation" data-cites="tomasik97">(<a href="#ref-tomasik97" role="doc-biblioref"><strong>tomasik97?</strong></a>)</span> Patients with impaired PS are twice as likely to achieve a response compared with ECOG 0-1</p>
 <p>France <span class="citation" data-cites="facchinetti155">(<a href="#ref-facchinetti155" role="doc-biblioref">Facchinetti et al. 2020</a>)</span> 153 patients ECOG 2. Patients who were ECOG 2 due to comorbidities (n=41) had much better prognosis (median survival 11.8 vs 2.8 months) than those ECOG 2 due to disease burden(n=112)</p>
 <p>Checkpoint inhibitor dose in the last 30 days of life associated with poor PS and dying in hospital <span class="citation" data-cites="glish179">(<a href="#ref-glish179" role="doc-biblioref"><strong>glish179?</strong></a>)</span></p>
+<p>Frailty present in 45% of patients with lung cancer and was associated with increased HR for mortality (3.01)<span class="citation" data-cites="komici485">(<a href="#ref-komici485" role="doc-biblioref">Komici et al. 2022</a>)</span></p>
+<p>Sarcopenia and lung cancer review: <span class="citation" data-cites="yang101">(<a href="#ref-yang101" role="doc-biblioref">M. Yang et al. 2019</a>)</span> Sarcopenia present in 45% of lung cancer patients. Sarcopenia associated with shorter survival in subsets of NSCLC and in SCLC.</p>
+<p>Lung cancer: MUST vs body composition: No prognostic value of body composition <span class="citation" data-cites="abbass349">(<a href="#ref-abbass349" role="doc-biblioref"><strong>abbass349?</strong></a>)</span></p>
 </section>
 <section id="reporting" class="level1">
 <h1>Reporting</h1>
@@ -334,18 +394,50 @@ div.csl-indent {
 <section id="timed-up-and-go" class="level2">
 <h2 class="anchored" data-anchor-id="timed-up-and-go">Timed up and go</h2>
 <p>?Part of Fried scale? Podsiadlo 142</p>
-
-
-
 </section>
+</section>
+<section id="dose-intensity" class="level1">
+<h1>Dose Intensity</h1>
+<p>More efficacy for chemotherapy administered at higher relative dose intensity</p>
+<p>Half of dose reductions occur before the initiation of chemotherapy</p>
+<p>RDI in first-line chemotherapy for advanced NSCLC <span class="citation" data-cites="crawford925">(<a href="#ref-crawford925" role="doc-biblioref">Crawford et al. 2020</a>)</span></p>
+<p>Review: RDI in advanced solid-tumor chemotherapy <span class="citation" data-cites="nielsone1609">(<a href="#ref-nielsone1609" role="doc-biblioref">Nielson et al. 2021</a>)</span></p>
+<p>Gemcitabine chemotherapy for unresectable pancreatic cancer: Sarcopenic patients had shorter survivall, more grade 3/4 toxicity, and <span class="citation" data-cites="tan">(<a href="#ref-tan" role="doc-biblioref"><strong>tan?</strong></a> clin canc res 2009)</span></p>
+<p>FOLFIRINOX in pancreatic cancer: sarcopenia associates with shorter survival Skeletal muscle wasting occurs in 85% of patients with pancreatic cancer, which contributes to mortality (Kurita, Pancreatology 2019)</p>
+</section>
+<section id="muscle-density" class="level1">
+<h1>Muscle Density</h1>
+<p>NSCLC: Muscle density as important as muscle quantity<span class="citation" data-cites="vanamsterdam1191">(<a href="#ref-vanamsterdam1191" role="doc-biblioref">van Amsterdam et al. 2022</a>)</span> - looked at</p>
+</section>
+<section id="d-creatine" class="level1">
+<h1>D-creatine</h1>
+<p>D3-creatine dilution, hold great promise as highly accurate tools for providing direct and accurate measurements of muscle mass, but they are still in the investigative phase and are not yet used within oncology.Evans WJ, Hellerstein M, Orwoll E, Cummings S, Cawthon PM. D3-Creatine dilution and the importance of accuracy in the assessment of skeletal muscle mass. J Cachexia Sarcopenia Muscle. 2019;10:14-21.</p>
+
+
+
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-aparicio249" class="csl-entry" role="doc-biblioentry">
+Aparicio, Thomas, Atika Navazesh, Isabelle Boutron, Nadia Bouarioua, Denis Chosidow, Mathieu Mion, Laurence Choudat, Iradj Sobhani, France Mentré, and Jean Claude Soulé. 2009. <span>“Half of Elderly Patients Routinely Treated for Colorectal Cancer Receive a Sub-Standard Treatment.”</span> <em>Critical Reviews in Oncology/Hematology</em> 71 (3): 249–57. <a href="https://doi.org/10.1016/j.critrevonc.2008.11.006">https://doi.org/10.1016/j.critrevonc.2008.11.006</a>.
+</div>
+<div id="ref-bellieni243" class="csl-entry" role="doc-biblioentry">
+Bellieni, Andrea, Domenico Fusco, Alejandro Martin Sanchez, Gianluca Franceschini, Beatrice Di Capua, Elena Allocca, Enrico Di Stasio, et al. 2021. <span>“Different <span>Impact</span> of <span>Definitions</span> of <span>Sarcopenia</span> in <span>Defining Frailty Status</span> in a <span>Population</span> of <span>Older Women</span> with <span>Early Breast Cancer</span>.”</span> <em>Journal of Personalized Medicine</em> 11 (4): 243. <a href="https://doi.org/10.3390/jpm11040243">https://doi.org/10.3390/jpm11040243</a>.
+</div>
 <div id="ref-chan147" class="csl-entry" role="doc-biblioentry">
 Chan, Matthew, Kiara Hugh-Yeun, Gillian Gresham, Caroline H. Speers, Hagen F. Kennecke, and Winson Y. Cheung. 2017. <span>“Population-<span>Based Patterns</span> and <span>Factors Associated With Underuse</span> of <span>Palliative Systemic Therapy</span> in <span>Elderly Patients With Metastatic Colon Cancer</span>.”</span> <em>Clinical Colorectal Cancer</em> 16 (2): 147–53. <a href="https://doi.org/10.1016/j.clcc.2016.08.004">https://doi.org/10.1016/j.clcc.2016.08.004</a>.
 </div>
 <div id="ref-chen3395" class="csl-entry" role="doc-biblioentry">
 Chen, Fa, Fei Wang, Christina E. Bailey, Harvey J. Murff, Jordan D. Berlin, Xiao-Ou Shu, and Wei Zheng. 2020. <span>“<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7642646">Evaluation of Determinants for Age Disparities in the Survival Improvement of Colon Cancer: Results from a Cohort of More Than 486,000 Patients in the <span>United States</span></a>.”</span> <em>American Journal of Cancer Research</em> 10 (10): 3395–405.
+</div>
+<div id="ref-crawford925" class="csl-entry" role="doc-biblioentry">
+Crawford, Jeffrey, Neelima Denduluri, Debra Patt, Xiaolong Jiao, Phuong Khanh Morrow, Jacob Garcia, Richard Barron, and Gary H. Lyman. 2020. <span>“Relative Dose Intensity of First-Line Chemotherapy and Overall Survival in Patients with Advanced Non-Small-Cell Lung Cancer.”</span> <em>Supportive Care in Cancer: Official Journal of the Multinational Association of Supportive Care in Cancer</em> 28 (2): 925–32. <a href="https://doi.org/10.1007/s00520-019-04875-1">https://doi.org/10.1007/s00520-019-04875-1</a>.
+</div>
+<div id="ref-dale3420" class="csl-entry" role="doc-biblioentry">
+Dale, William. 2009. <span>“"<span>Staging</span> the Aging" When Considering Androgen Deprivation Therapy for Older Men with Prostate Cancer.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 27 (21): 3420–22. <a href="https://doi.org/10.1200/JCO.2009.22.9104">https://doi.org/10.1200/JCO.2009.22.9104</a>.
+</div>
+<div id="ref-decoster288" class="csl-entry" role="doc-biblioentry">
+Decoster, L., K. Van Puyvelde, S. Mohile, U. Wedding, U. Basso, G. Colloca, S. Rostoft, et al. 2015. <span>“Screening Tools for Multidimensional Health Problems Warranting a Geriatric Assessment in Older Cancer Patients: An Update on <span>SIOG</span> Recommendations.”</span> <em>Annals of Oncology: Official Journal of the European Society for Medical Oncology</em> 26 (2): 288–300. <a href="https://doi.org/10.1093/annonc/mdu210">https://doi.org/10.1093/annonc/mdu210</a>.
 </div>
 <div id="ref-extermann241" class="csl-entry" role="doc-biblioentry">
 Extermann, Martine, Matti Aapro, Roberto Bernabei, Harvey Jay Cohen, Jean-Pierre Droz, Stuart Lichtman, Vincent Mor, et al. 2005. <span>“Use of Comprehensive Geriatric Assessment in Older Cancer Patients: Recommendations from the Task Force on <span>CGA</span> of the <span>International Society</span> of <span>Geriatric Oncology</span> (<span>SIOG</span>).”</span> <em>Critical Reviews in Oncology/Hematology</em> 55 (3): 241–52. <a href="https://doi.org/10.1016/j.critrevonc.2005.06.003">https://doi.org/10.1016/j.critrevonc.2005.06.003</a>.
@@ -359,8 +451,14 @@ Facchinetti, Francesco, Giulia Mazzaschi, Fausto Barbieri, Francesco Passiglia, 
 <div id="ref-foster584" class="csl-entry" role="doc-biblioentry">
 Foster, Jill A., Gregory D. Salinas, Dorcas Mansell, James C. Williamson, and Linda L. Casebeer. 2010. <span>“How Does Older Age Influence Oncologists’ Cancer Management?”</span> <em>The Oncologist</em> 15 (6): 584–92. <a href="https://doi.org/10.1634/theoncologist.2009-0198">https://doi.org/10.1634/theoncologist.2009-0198</a>.
 </div>
+<div id="ref-fuscoe13347" class="csl-entry" role="doc-biblioentry">
+Fusco, Domenico, Alessandro Ferrini, Giuseppe Pasqualetti, Chiara Giannotti, Matteo Cesari, Alice Laudisio, Alberto Ballestrero, et al. 2021. <span>“Comprehensive Geriatric Assessment in Older Adults with Cancer: <span>Recommendations</span> by the <span>Italian Society</span> of <span>Geriatrics</span> and <span>Gerontology</span> (<span>SIGG</span>).”</span> <em>European Journal of Clinical Investigation</em> 51 (1): e13347. <a href="https://doi.org/10.1111/eci.13347">https://doi.org/10.1111/eci.13347</a>.
+</div>
 <div id="ref-hurria3826" class="csl-entry" role="doc-biblioentry">
 Hurria, Arti, Laura A. Levit, William Dale, Supriya G. Mohile, Hyman B. Muss, Louis Fehrenbacher, Allison Magnuson, et al. 2015. <span>“Improving the <span>Evidence Base</span> for <span>Treating Older Adults With Cancer</span>: <span>American Society</span> of <span>Clinical Oncology Statement</span>.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 33 (32): 3826–33. <a href="https://doi.org/10.1200/JCO.2015.63.0319">https://doi.org/10.1200/JCO.2015.63.0319</a>.
+</div>
+<div id="ref-jine035031" class="csl-entry" role="doc-biblioentry">
+Jin, Jing, Lan Yang, Dan Liu, and Weimin Li. 2020. <span>“Association of the Neutrophil to Lymphocyte Ratio and Clinical Outcomes in Patients with Lung Cancer Receiving Immunotherapy: A Meta-Analysis.”</span> <em>BMJ Open</em> 10 (6): e035031. <a href="https://doi.org/10.1136/bmjopen-2019-035031">https://doi.org/10.1136/bmjopen-2019-035031</a>.
 </div>
 <div id="ref-kapoore25115" class="csl-entry" role="doc-biblioentry">
 Kapoor, Akhil, Vanita Noronha, Vijay M. Patil, Nandini Menon, Amit Joshi, George Abraham, and Kumar Prabhash. 2021. <span>“Immune Checkpoint Inhibitors in Patients with Solid Tumors and Poor Performance Status: <span>A</span> Prospective Data from the Real-World Settings.”</span> <em>Medicine</em> 100 (13): e25115. <a href="https://doi.org/10.1097/MD.0000000000025115">https://doi.org/10.1097/MD.0000000000025115</a>.
@@ -374,6 +472,9 @@ Kemeny, N., and D. W. Braun. 1983. <span>“Prognostic Factors in Advanced Color
 <div id="ref-kohne308" class="csl-entry" role="doc-biblioentry">
 Köhne, C. H., D. Cunningham, F. Di Costanzo, B. Glimelius, G. Blijham, E. Aranda, W. Scheithauer, et al. 2002. <span>“Clinical Determinants of Survival in Patients with 5-Fluorouracil-Based Treatment for Metastatic Colorectal Cancer: Results of a Multivariate Analysis of 3825 Patients.”</span> <em>Annals of Oncology: Official Journal of the European Society for Medical Oncology</em> 13 (2): 308–17. <a href="https://doi.org/10.1093/annonc/mdf034">https://doi.org/10.1093/annonc/mdf034</a>.
 </div>
+<div id="ref-komici485" class="csl-entry" role="doc-biblioentry">
+Komici, Klara, Leonardo Bencivenga, Neal Navani, Vito D’Agnano, Germano Guerra, Andrea Bianco, Giuseppe Rengo, and Fabio Perrotta. 2022. <span>“Frailty in <span>Patients With Lung Cancer</span>: <span>A Systematic Review</span> and <span>Meta-Analysis</span>.”</span> <em>Chest</em> 162 (2): 485–97. <a href="https://doi.org/10.1016/j.chest.2022.02.027">https://doi.org/10.1016/j.chest.2022.02.027</a>.
+</div>
 <div id="ref-krishnane175" class="csl-entry" role="doc-biblioentry">
 Krishnan, Mridula, Pooja Kasinath, Robin High, Fang Yu, and Benjamin A. Teply. 2022. <span>“Impact of <span>Performance Status</span> on <span>Response</span> and <span>Survival Among Patients Receiving Checkpoint Inhibitors</span> for <span>Advanced Solid Tumors</span>.”</span> <em>JCO Oncology Practice</em> 18 (1): e175–82. <a href="https://doi.org/10.1200/OP.20.01055">https://doi.org/10.1200/OP.20.01055</a>.
 </div>
@@ -385,6 +486,9 @@ Lyu, Jiahua, Anhui Shi, Tao Li, Jie Li, Ren Zhao, Shuchai Zhu, Jianhua Wang, et 
 </div>
 <div id="ref-mohile2326" class="csl-entry" role="doc-biblioentry">
 Mohile, Supriya G., William Dale, Mark R. Somerfield, Mara A. Schonberg, Cynthia M. Boyd, Peggy S. Burhenn, Beverly Canin, et al. 2018. <span>“Practical <span>Assessment</span> and <span>Management</span> of <span>Vulnerabilities</span> in <span>Older Patients Receiving Chemotherapy</span>: <span>ASCO Guideline</span> for <span>Geriatric Oncology</span>.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 36 (22): 2326–47. <a href="https://doi.org/10.1200/JCO.2018.78.8687">https://doi.org/10.1200/JCO.2018.78.8687</a>.
+</div>
+<div id="ref-nielsone1609" class="csl-entry" role="doc-biblioentry">
+Nielson, Carrie M., Lauren C. Bylsma, Jon P. Fryzek, Hossam A. Saad, and Jeffrey Crawford. 2021. <span>“Relative <span>Dose Intensity</span> of <span>Chemotherapy</span> and <span>Survival</span> in <span>Patients</span> with <span>Advanced Stage Solid Tumor Cancer</span>: <span>A Systematic Review</span> and <span>Meta-Analysis</span>.”</span> <em>The Oncologist</em> 26 (9): e1609–18. <a href="https://doi.org/10.1002/onco.13822">https://doi.org/10.1002/onco.13822</a>.
 </div>
 <div id="ref-perez-de-acha1377" class="csl-entry" role="doc-biblioentry">
 Perez-de-Acha, Andrea, Sophie Pilleron, and Enrique Soto-Perez-de-Celis. 2022. <span>“All-<span>Cause Mortality Risk Prediction</span> in <span>Older Adults</span> with <span>Cancer</span>: <span>Practical Approaches</span> and <span>Limitations</span>.”</span> <em>Current Oncology Reports</em> 24 (11): 1377–85. <a href="https://doi.org/10.1007/s11912-022-01303-2">https://doi.org/10.1007/s11912-022-01303-2</a>.
@@ -404,11 +508,17 @@ Sargent, Daniel J., Claus Henning Köhne, Hanna Kelly Sanoff, Brian M. Bot, Matt
 <div id="ref-schnipper10" class="csl-entry" role="doc-biblioentry">
 Schnipper, Lowell E, Thomas J Smith, Derek Raghavan, Douglas W Blayney, Patricia A Ganz, Therese Marie Mulvey, and Dana S Wollins. n.d. <span>“American <span>Society</span> of <span>Clinical Oncology Identifies Five Key Opportunities</span> to <span>Improve Care</span> and <span>Reduce Costs</span>: <span>The Top Five List</span> for <span>Oncology</span>.”</span> <em>JOURNAL OF CLINICAL ONCOLOGY</em>, 10.
 </div>
+<div id="ref-shachar1203" class="csl-entry" role="doc-biblioentry">
+Shachar, Shlomit S., Gil Bar-Sela, Avivit Peer, Mor Tal Moskovitz, Avital Bareket-Samish, Jessica Epstein, Mira Wollner, Itamar Shafran, Amit Boukal, and Grant R. Williams. 2022. <span>“The Association Between Geriatric Assessment, Muscle Measures, and Treatment-Related Toxicity in Older Adults with Cancer: <span>An Israeli</span> Prospective Study.”</span> <em>Journal of Geriatric Oncology</em> 13 (8): 1203–7. <a href="https://doi.org/10.1016/j.jgo.2022.08.007">https://doi.org/10.1016/j.jgo.2022.08.007</a>.
+</div>
 <div id="ref-simmonds531" class="csl-entry" role="doc-biblioentry">
 Simmonds, P. C. 2000. <span>“Palliative Chemotherapy for Advanced Colorectal Cancer: Systematic Review and Meta-Analysis. <span>Colorectal Cancer Collaborative Group</span>.”</span> <em>BMJ (Clinical Research Ed.)</em> 321 (7260): 531–35. <a href="https://doi.org/10.1136/bmj.321.7260.531">https://doi.org/10.1136/bmj.321.7260.531</a>.
 </div>
 <div id="ref-soto-perez-de-celise305" class="csl-entry" role="doc-biblioentry">
 Soto-Perez-de-Celis, Enrique, Daneng Li, Yuan Yuan, Yat Ming Lau, and Arti Hurria. 2018. <span>“Functional Versus Chronological Age: Geriatric Assessments to Guide Decision Making in Older Patients with Cancer.”</span> <em>The Lancet. Oncology</em> 19 (6): e305–16. <a href="https://doi.org/10.1016/S1470-2045(18)30348-6">https://doi.org/10.1016/S1470-2045(18)30348-6</a>.
+</div>
+<div id="ref-vanamsterdam1191" class="csl-entry" role="doc-biblioentry">
+van Amsterdam, Wouter A. C., Netanja I. Harlianto, Joost J. C. Verhoeff, Pim Moeskops, Pim A. de Jong, and Tim Leiner. 2022. <span>“The <span>Association</span> Between <span>Muscle Quantity</span> and <span>Overall Survival Depends</span> on <span>Muscle Radiodensity</span>: <span>A Cohort Study</span> in <span>Non-Small-Cell Lung Cancer Patients</span>.”</span> <em>Journal of Personalized Medicine</em> 12 (7): 1191. <a href="https://doi.org/10.3390/jpm12071191">https://doi.org/10.3390/jpm12071191</a>.
 </div>
 <div id="ref-verduzco-aguirre68" class="csl-entry" role="doc-biblioentry">
 Verduzco-Aguirre, Haydee Cristina, Carolina Gomez-Moreno, Yanin Chavarri-Guerra, and Enrique Soto-Perez-de-Celis. 2019. <span>“Predicting <span>Life Expectancy</span> for <span>Older Adults</span> with <span>Cancer</span> in <span>Clinical Practice</span>: <span>Implications</span> for <span class="nocase">Shared Decision-making</span>.”</span> <em>Current Oncology Reports</em> 21 (8): 68. <a href="https://doi.org/10.1007/s11912-019-0821-3">https://doi.org/10.1007/s11912-019-0821-3</a>.
@@ -418,6 +528,9 @@ Wong, Annie, Molly Williams, Donna Milne, Kortnye Morris, Peter Lau, Odette Spru
 </div>
 <div id="ref-yange2012534" class="csl-entry" role="doc-biblioentry">
 Yang, Fang, Svetomir N. Markovic, Julian R. Molina, Thorvardur R. Halfdanarson, Lance C. Pagliaro, Ashish V. Chintakuntlawar, Rutian Li, et al. 2020. <span>“Association of <span>Sex</span>, <span>Age</span>, and <span>Eastern Cooperative Oncology Group Performance Status With Survival Benefit</span> of <span>Cancer Immunotherapy</span> in <span>Randomized Clinical Trials</span>: <span>A Systematic Review</span> and <span class="nocase">Meta-analysis</span>.”</span> <em>JAMA Network Open</em> 3 (8): e2012534. <a href="https://doi.org/10.1001/jamanetworkopen.2020.12534">https://doi.org/10.1001/jamanetworkopen.2020.12534</a>.
+</div>
+<div id="ref-yang101" class="csl-entry" role="doc-biblioentry">
+Yang, Ming, Yanjiao Shen, Lingling Tan, and Weimin Li. 2019. <span>“Prognostic <span>Value</span> of <span>Sarcopenia</span> in <span>Lung Cancer</span>: <span>A Systematic Review</span> and <span class="nocase">Meta-analysis</span>.”</span> <em>Chest</em> 156 (1): 101–11. <a href="https://doi.org/10.1016/j.chest.2019.04.115">https://doi.org/10.1016/j.chest.2019.04.115</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -461,7 +574,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -489,31 +619,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

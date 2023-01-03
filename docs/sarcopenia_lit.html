@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.36">
+<meta name="generator" content="quarto-1.2.269">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
@@ -83,19 +88,22 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">talks</span>
-  </a>
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="dropdown-header">
- about.qmd</li>
+ <span class="menu-text">about.qmd</span></li>
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
@@ -107,29 +115,17 @@ div.csl-indent {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
   <li><a href="#ct-measurement-of-body-composition" id="toc-ct-measurement-of-body-composition" class="nav-link active" data-scroll-target="#ct-measurement-of-body-composition">CT measurement of body composition</a>
   <ul class="collapse">
   <li><a href="#lenchik-papers" id="toc-lenchik-papers" class="nav-link" data-scroll-target="#lenchik-papers">Lenchik Papers</a></li>
+  <li><a href="#machine-learning-for-ct-analysis" id="toc-machine-learning-for-ct-analysis" class="nav-link" data-scroll-target="#machine-learning-for-ct-analysis">Machine Learning for CT analysis</a></li>
   </ul></li>
+  <li><a href="#myosteasosis" id="toc-myosteasosis" class="nav-link" data-scroll-target="#myosteasosis">Myosteasosis</a></li>
   <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
-  <li><a href="#reporting" id="toc-reporting" class="nav-link" data-scroll-target="#reporting">Reporting</a></li>
-  <li><a href="#palliative-care-consultations" id="toc-palliative-care-consultations" class="nav-link" data-scroll-target="#palliative-care-consultations">Palliative Care consultations</a></li>
-  <li><a href="#enteral-nutrition-in-cancer-patients" id="toc-enteral-nutrition-in-cancer-patients" class="nav-link" data-scroll-target="#enteral-nutrition-in-cancer-patients">Enteral nutrition in cancer patients</a></li>
-  <li><a href="#physiometric-evaluation" id="toc-physiometric-evaluation" class="nav-link" data-scroll-target="#physiometric-evaluation">Physiometric Evaluation</a>
-  <ul class="collapse">
-  <li><a href="#pulmonary-function-testing." id="toc-pulmonary-function-testing." class="nav-link" data-scroll-target="#pulmonary-function-testing.">Pulmonary function testing.</a></li>
-  <li><a href="#hand-grip-strength" id="toc-hand-grip-strength" class="nav-link" data-scroll-target="#hand-grip-strength">Hand Grip Strength</a></li>
-  <li><a href="#minute-walk-test" id="toc-minute-walk-test" class="nav-link" data-scroll-target="#minute-walk-test">6 minute walk test</a>
-  <ul class="collapse">
-  <li><a href="#short-physical-performance-battery" id="toc-short-physical-performance-battery" class="nav-link" data-scroll-target="#short-physical-performance-battery">Short Physical Performance Battery</a></li>
-  </ul></li>
-  <li><a href="#stair-climbing" id="toc-stair-climbing" class="nav-link" data-scroll-target="#stair-climbing">Stair-climbing</a></li>
-  <li><a href="#timed-up-and-go" id="toc-timed-up-and-go" class="nav-link" data-scroll-target="#timed-up-and-go">Timed up and go</a></li>
-  </ul></li>
   </ul>
 </nav>
     </div>
@@ -146,6 +142,7 @@ div.csl-indent {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -170,57 +167,27 @@ div.csl-indent {
 <p><span class="citation" data-cites="barnard1686">(<a href="#ref-barnard1686" role="doc-biblioref">Barnard et al. 2019</a>)</span> <span class="citation" data-cites="lenchik1695">(<a href="#ref-lenchik1695" role="doc-biblioref">Lenchik et al. 2019</a>)</span></p>
 <p><span class="citation" data-cites="kullberg10425">(<a href="#ref-kullberg10425" role="doc-biblioref">Kullberg et al. 2017</a>)</span></p>
 <p>Sarcopenia methods - varies 19/92 <span class="citation" data-cites="amini1671">(<a href="#ref-amini1671" role="doc-biblioref">Amini et al. 2019</a>)</span> Review of challenges in methods inconsistency <span class="citation" data-cites="hopkins1381">(<a href="#ref-hopkins1381" role="doc-biblioref">Hopkins et al. 2018</a>)</span></p>
-<p>myosteatosis adds value 93 <span class="citation" data-cites="martin227">(<a href="#ref-martin227" role="doc-biblioref">Martin et al. 2020</a>)</span></p>
+</section>
+<section id="machine-learning-for-ct-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="machine-learning-for-ct-analysis">Machine Learning for CT analysis</h2>
 <p>Fully automated tools 94-96 <span class="citation" data-cites="graffy20190327">(<a href="#ref-graffy20190327" role="doc-biblioref">Graffy et al. 2019</a>)</span> <span class="citation" data-cites="burns311">(<a href="#ref-burns311" role="doc-biblioref">Burns et al. 2020</a>)</span> <span class="citation" data-cites="hemke387">(<a href="#ref-hemke387" role="doc-biblioref">Hemke et al. 2020</a>)</span></p>
 <p>Machine learning <span class="citation" data-cites="lee487">(<a href="#ref-lee487" role="doc-biblioref">Lee et al. 2017</a>)</span> <span class="citation" data-cites="popuri512">(<a href="#ref-popuri512" role="doc-biblioref">Popuri et al. 2016</a>)</span></p>
 <p>L3 slice selection <span class="citation" data-cites="islame363">(<a href="#ref-islame363" role="doc-biblioref">Islam et al. 2022</a>)</span></p>
 <p>Jack et al <span class="citation" data-cites="jack1313a">(<a href="#ref-jack1313a" role="doc-biblioref">Jack et al. 2014</a>)</span> studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy</p>
 </section>
 </section>
+<section id="myosteasosis" class="level1">
+<h1>Myosteasosis</h1>
+<p>Meta-analysis of 40 studies: overall prevalence of 48% amond cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)<span class="citation" data-cites="alexio102839">(<a href="#ref-alexio102839" role="doc-biblioref"><strong>alexio102839?</strong></a>)</span></p>
+<p>GI cancers meta-analysis: <span class="citation" data-cites="wang25">(<a href="#ref-wang25" role="doc-biblioref">Wang et al. 2021</a>)</span> Prevalence 46% HR 1.44. Worse prognosis for GE, pancreatic and colorectal</p>
+<p>Lung cancer meta-analysis of 9 studies with 16667 patients: <span class="citation" data-cites="feng1127">(<a href="#ref-feng1127" role="doc-biblioref"><strong>feng1127?</strong></a>)</span>. HR 1.10</p>
+<p>myosteatosis adds value <span class="citation" data-cites="martin227">(<a href="#ref-martin227" role="doc-biblioref">Martin et al. 2020</a>)</span></p>
+</section>
 <section id="section" class="level1">
-<h1></h1>
-</section>
-<section id="reporting" class="level1">
-<h1>Reporting</h1>
-<p>Benchimol EI, Smeeth L, Guttmann A, et al.&nbsp;The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement. PLoS Med. 2015;12(10):e1001885. https://doi.org/10.1371/journal.pmed.1001885 . - DOI - PubMed - PMC</p>
-</section>
-<section id="palliative-care-consultations" class="level1">
-<h1>Palliative Care consultations</h1>
-<p>VA System: <span class="citation" data-cites="sullivan1702">(<a href="#ref-sullivan1702" role="doc-biblioref"><strong>sullivan1702?</strong></a>)</span> Lung Cancer - palliative care consultation 31-365 days after dx led to increased survival</p>
-</section>
-<section id="enteral-nutrition-in-cancer-patients" class="level1">
-<h1>Enteral nutrition in cancer patients</h1>
-<p>In 347 stage IV gastric cancer patients at high nutrition risk and receiving palliative CT, nutritional support was associated with a survival benefit 39.Qiu M, ZhouYX, Jin Y, Nutrition support can bring survival benefit to high nutrition risk gastric cancer patients who received chemotherapy. Support Care Cancer. 2015: 23; 1933. -9 Esophageal cancer patients RCT enteral therapy vs oral nutrition <span class="citation" data-cites="lyu839516">(<a href="#ref-lyu839516" role="doc-biblioref">Lyu et al. 2022</a>)</span></p>
-</section>
-<section id="physiometric-evaluation" class="level1">
-<h1>Physiometric Evaluation</h1>
-<section id="pulmonary-function-testing." class="level2">
-<h2 class="anchored" data-anchor-id="pulmonary-function-testing.">Pulmonary function testing.</h2>
-<p>Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy <span class="citation" data-cites="makiura">(<a href="#ref-makiura" role="doc-biblioref"><strong>makiura?</strong></a>)</span> , 2016, 2016}. Patients were designated as frail based upon hand-grip strength &lt;26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.</p>
-</section>
-<section id="hand-grip-strength" class="level2">
-<h2 class="anchored" data-anchor-id="hand-grip-strength">Hand Grip Strength</h2>
-<p>Kilgour 2013 p 1894 Veni 2018 and Boyas</p>
-</section>
-<section id="minute-walk-test" class="level2">
-<h2 class="anchored" data-anchor-id="minute-walk-test">6 minute walk test</h2>
-<p>Gait speed and mortality in older adults <span class="citation" data-cites="studenski50">(<a href="#ref-studenski50" role="doc-biblioref"><strong>studenski50?</strong></a>)</span></p>
-<section id="short-physical-performance-battery" class="level3">
-<h3 class="anchored" data-anchor-id="short-physical-performance-battery">Short Physical Performance Battery</h3>
-<p>SPPB predicts survival and nursing home admission <span class="citation" data-cites="guralnik50">(<a href="#ref-guralnik50" role="doc-biblioref"><strong>guralnik50?</strong></a>)</span></p>
-</section>
-</section>
-<section id="stair-climbing" class="level2">
-<h2 class="anchored" data-anchor-id="stair-climbing">Stair-climbing</h2>
-<p>Stair Climbing is strong predictor of perioperative morbidity<span class="citation" data-cites="redddy559">(<a href="#ref-redddy559" role="doc-biblioref"><strong>redddy559?</strong></a>)</span></p>
-</section>
-<section id="timed-up-and-go" class="level2">
-<h2 class="anchored" data-anchor-id="timed-up-and-go">Timed up and go</h2>
-<p>?Part of Fried scale? <span class="citation" data-cites="podsiadlo142">(<a href="#ref-podsiadlo142" role="doc-biblioref"><strong>podsiadlo142?</strong></a>)</span></p>
 
 
 
-</section>
+
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
@@ -275,9 +242,6 @@ Lenchik, Leon, Ryan Barnard, Robert D. Boutin, Stephen B. Kritchevsky, Haiying C
 <div id="ref-lenchik1695" class="csl-entry" role="doc-biblioentry">
 Lenchik, Leon, Laura Heacock, Ashley A. Weaver, Robert D. Boutin, Tessa S. Cook, Jason Itri, Christopher G. Filippi, et al. 2019. <span>“Automated <span>Segmentation</span> of <span>Tissues Using CT</span> and <span>MRI</span>: <span>A Systematic Review</span>.”</span> <em>Academic Radiology</em> 26 (12): 1695–1706. <a href="https://doi.org/10.1016/j.acra.2019.07.006">https://doi.org/10.1016/j.acra.2019.07.006</a>.
 </div>
-<div id="ref-lyu839516" class="csl-entry" role="doc-biblioentry">
-Lyu, Jiahua, Anhui Shi, Tao Li, Jie Li, Ren Zhao, Shuchai Zhu, Jianhua Wang, et al. 2022. <span>“Effects of <span>Enteral Nutrition</span> on <span>Patients With Oesophageal Carcinoma Treated With Concurrent Chemoradiotherapy</span>: <span>A Prospective</span>, <span>Multicentre</span>, <span>Randomised</span>, <span>Controlled Study</span>.”</span> <em>Frontiers in Oncology</em> 12: 839516. <a href="https://doi.org/10.3389/fonc.2022.839516">https://doi.org/10.3389/fonc.2022.839516</a>.
-</div>
 <div id="ref-martin227" class="csl-entry" role="doc-biblioentry">
 Martin, Lisa, Ioannis Gioulbasanis, Pierre Senesse, and Vickie E. Baracos. 2020. <span>“Cancer-<span>Associated Malnutrition</span> and <span>CT-Defined Sarcopenia</span> and <span>Myosteatosis Are Endemic</span> in <span>Overweight</span> and <span>Obese Patients</span>.”</span> <em>JPEN. Journal of Parenteral and Enteral Nutrition</em> 44 (2): 227–38. <a href="https://doi.org/10.1002/jpen.1597">https://doi.org/10.1002/jpen.1597</a>.
 </div>
@@ -295,6 +259,9 @@ van der Werf, Anne, Ingeborg M. Dekker, Martijn R. Meijerink, Nicolette J. Wierd
 </div>
 <div id="ref-vanvugt1707" class="csl-entry" role="doc-biblioentry">
 van Vugt, Jeroen L. A., Robert R. J. Coebergh van den Braak, Henk J. W. Schippers, Kevin M. Veen, Stef Levolger, Ron W. F. de Bruin, Marcel Koek, Wiro J. Niessen, Jan N. M. IJzermans, and François E. J. A. Willemsen. 2018. <span>“Contrast-Enhancement Influences Skeletal Muscle Density, but Not Skeletal Muscle Mass, Measurements on Computed Tomography.”</span> <em>Clinical Nutrition (Edinburgh, Scotland)</em> 37 (5): 1707–14. <a href="https://doi.org/10.1016/j.clnu.2017.07.007">https://doi.org/10.1016/j.clnu.2017.07.007</a>.
+</div>
+<div id="ref-wang25" class="csl-entry" role="doc-biblioentry">
+Wang, Yue, Guangwei Tian, Song Chen, and Nan Li. 2021. <span>“Myosteatosis Reduces Overall Survival in Patients with Digestive System Malignancies: A Meta-Analysis with Trial Sequential Analysis.”</span> <em>Nutrition Research (New York, N.Y.)</em> 94 (October): 25–33. <a href="https://doi.org/10.1016/j.nutres.2021.08.003">https://doi.org/10.1016/j.nutres.2021.08.003</a>.
 </div>
 </div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -338,7 +305,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -366,31 +350,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

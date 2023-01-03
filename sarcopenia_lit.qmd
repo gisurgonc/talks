@@ -36,7 +36,7 @@ NLST and mortality [@lenchik277] Increased SMA and SMD associated with longer su
 
 Sarcopenia methods - varies 19/92 [@amini1671] Review of challenges in methods inconsistency [@hopkins1381]
 
-myosteatosis adds value 93 [@martin227]
+## Machine Learning for CT analysis
 
 Fully automated tools 94-96 [@graffy20190327] [@burns311] [@hemke387]
 
@@ -46,42 +46,14 @@ L3 slice selection [@islame363]
 
 Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
 
+# Myosteasosis
+
+Meta-analysis of 40 studies: overall prevalence of 48% amond cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)[@alexio102839]
+
+GI cancers meta-analysis: [@wang25] Prevalence 46% HR 1.44. Worse prognosis for GE, pancreatic and colorectal
+
+Lung cancer meta-analysis of 9 studies with 16667 patients: [@feng1127]. HR 1.10
+
+myosteatosis adds value [@martin227]
+
 # 
-
-# Reporting
-
-Benchimol EI, Smeeth L, Guttmann A, et al. The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement. PLoS Med. 2015;12(10):e1001885. https://doi.org/10.1371/journal.pmed.1001885 . - DOI - PubMed - PMC
-
-# Palliative Care consultations
-
-VA System: [@sullivan1702] Lung Cancer - palliative care consultation 31-365 days after dx led to increased survival
-
-# Enteral nutrition in cancer patients
-
-In 347 stage IV gastric cancer patients at high nutrition risk and receiving palliative CT, nutritional support was associated with a survival benefit 39.Qiu M, ZhouYX, Jin Y, Nutrition support can bring survival benefit to high nutrition risk gastric cancer patients who received chemotherapy. Support Care Cancer. 2015: 23; 1933. -9 Esophageal cancer patients RCT enteral therapy vs oral nutrition [@lyu839516]
-
-# Physiometric Evaluation
-
-## Pulmonary function testing.
-
-Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy [@makiura] , 2016, 2016}. Patients were designated as frail based upon hand-grip strength \<26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
-
-## Hand Grip Strength
-
-Kilgour 2013 p 1894 Veni 2018 and Boyas
-
-## 6 minute walk test
-
-Gait speed and mortality in older adults [@studenski50]
-
-### Short Physical Performance Battery
-
-SPPB predicts survival and nursing home admission [@guralnik50]
-
-## Stair-climbing
-
-Stair Climbing is strong predictor of perioperative morbidity[@redddy559]
-
-## Timed up and go
-
-?Part of Fried scale? [@podsiadlo142]
