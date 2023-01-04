@@ -48,12 +48,28 @@ Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiati
 
 # Myosteasosis
 
-Meta-analysis of 40 studies: overall prevalence of 48% amond cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)[@alexio102839]
+Meta-analysis of 40 studies: overall prevalence of 48% among cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)[@alexio102839]
 
-GI cancers meta-analysis: [@wang25] Prevalence 46% HR 1.44. Worse prognosis for GE, pancreatic and colorectal
+GI cancers meta-analysis: [@wang25] Prevalence of myosteatosis 46% HR 1.44. Worse prognosis for GE, pancreatic and colorectal
 
 Lung cancer meta-analysis of 9 studies with 16667 patients: [@feng1127]. HR 1.10
 
 myosteatosis adds value [@martin227]
 
+Myosteatosis is defined as the infiltration of adipose tissue into skeletal muscle [@daly135]
+
+Goodpaster BH, Kelley DE, Thaete FL, He J, Ross R. Skeletal muscle
+attenuation determined by computed tomography is associated with
+skeletal muscle lipid content. J Appl Physiol (Bethesda, Md : 1985). 2000;
+89(1):104--10
+
+# Visceral Adipose Tissue (VAT)
+
+Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic cancer, an elevated ratio of visceral adipose tissue to skeletal muscle as associated with postoperative complications.{sandini 1231}
+
+Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al {Birdsell,6973}.
+
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy {Tamandl, 2016 #2006}. \[??relation to VAT\] \*\*\* This paper is Tamadl 1359 related to overall survival.
+
 # 
+

@@ -12,20 +12,47 @@ Mortality should be reported at 90 days Mayo SC, Shore AD, Nathan H, Edil BH, Hi
 
 Preoperative Assessment of Cancer in the Elderly (PACE): Audisio RA, Pope D, Ramesh HS, Gennari R, van Leeuwen BL, West C, et al. Shall we operate? Preoperative assessment in elderly cancer patients (PACE) can help. A SIOG surgical task force prospective study. Crit Rev Oncol Hematol. 2008;65:156--63 Heriot AG, Tekkis PP, Smith JJ, Cohen CR, Montgomery A, Audisio RA, et al. Prediction of postoperative mortality in elderly patients with colorectal cancer. Dis Colon Rectum. 2006;49:816--24 Pope D, Ramesh H, Gennari R, Corsini G, Maffezzini M, Hoekstra HJ, et al. Pre-operative assessment of cancer in the elderly (PACE): a comprehensive assessment of underlying characteristics of elderly cancer patients prior to elective surgery. Surg Oncol. 2006;15:189--97
 
-Prognostic scales for cancer: France: [@canout-poitrine2236] 510 patients with cancer evaluated with multiple prognostic scales including CCI and Elixhauser. Only Cumulative Illness Rating Scale for Geriatics (CIR-G) was predictive of one-year mortality.
+# Pancreatic cancer
 
-## Skeletal muscle density and frailty
+Five-year survival rate 4%
 
-Myosteatosis is defined as the infiltration of adipose tissue into skeletal muscle {Lenchik,opportunistic;Prado,135}
+Cachexia is common
 
-# Visceral Adipose Tissue (VAT)
+Cachexia worsens prognosis in patients with resectable pancreatic cancear (Bachmann JGI Surg 2008)
 
-Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic cancer, an elevated ratio of visceral adipose tissue to skeletal muscle as associated with postoperative complications.{sandini 1231}
+### Peritoperative morbidity and postop survival
 
-Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al {Birdsell,6973}.
+Review of body composition in pancreatic cancer [@bundred1603]. Increased risk of morbidity and mortality after surgery and overall survival after surgery. Nine studies of survival in unresectable cancer shows worse survival in non-sarcopenic patients.
 
-A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy {Tamandl, 2016 #2006}. \[??relation to VAT\] \*\*\* This paper is Tamadl 1359 related to overall survival.
+## Chemotherapy Toxicity
+
+FOLFIRINOX: 82 patients with pancreatic cancer treated with FOLFIRINOX: Shorter survival in sarcopenic patients, especially those with sarcopenia obesity. Worse survival with elevated adipose tissue index (ATI).[@kurita127]
+
+Gemcitabine: [@tan6973]
+
+Impact of sarcopenia and myosteatosis on outcomes of unresectable pancreatic cancer or distal cholangio [@rollins1103] No difference in chemotherapy toxicity in 98 metastatic pancreatic cancer patients
+
+Gemcitabine: 330 patients treated with first-line chemotherapy. SMI and SMD prognostic for survival and chemotherapy toxicity.[@kim77] SMI cutpoints of Martin 1539. SMD cutpoints 41 and 33 cm2/m2 for non-overweight and overweight patients.[@martin1539] Low SMI not associated with survival, but low SMD associated with shorter survival. Patients with low SMI and low SMD have worse survival. ECOG, number of metastatic sites, and chemotherapy drug were prognostic. Grace 3/4 toxicity more common in low SMI (59% vs 43%) and in low SMD (44% vs 60%). SMD was a better prognostic factor. No survival difference according to SMD in responders, but worse survival among non-responders based upon SMD.
+
+Review of 12 articles [@rizzo974116] 4/12 articles showed an association between body composition and chemotherapy-related toxicity
+
+### Prognostic value
+
+Sarcopenic obesity adverse prognosticator in pancreatic cancer [@tan6973]. 111 patients: 56% sarcopenic, 40% obese, and 16% sarcopenic obesity.
+
+Different outcomes with sarcopenia using Western and Eastern criteria [@wu862]. Taiwan: 146 patients with newly diagnosed pancreatic cancer. Prevalence of sarcopenia was 66% by Western criteria and 11% by Eastern criteria. Patients sarcopenia by Western criteria had no worse survival than non-sarcopenic, but patients sarcopenic by Eastern criteria had worse survival (p=0.008), and on multivariate analysis accounting for stage (p=0.014)
+
+Choi Y, Oh DY, Kim TY, Lee KH, Han SW, Im SA, Kim TY, Bang YJ. Skeletal muscle depletion predicts the prognosis of patients with advanced pancreatic Cancer undergoing palliative chemotherapy, independent of body mass index. PLoS One. 2015;10(10):e0139749
+
+Ozola Zalite I, Zykus R, Francisco Gonzalez M, Saygili F, Pukitis A, Gaujoux S, Charnley RM, Lyadov V. Influence of cachexia and sarcopenia on survival in pancreatic ductal adenocarcinoma: a systematic review. Pancreatology.2015;15(1):19--24.
+
+
+Park I, Choi SJ, Kim YS, Ahn HK, Hong J, Sym SJ, Park J, Cho EK, Lee JH, Shin YJ, et al. Prognostic factors for risk stratification of patients with recurrent or metastatic pancreatic adenocarcinoma who were treated with gemcitabinebased chemotherapy. Cancer Res Treat. 2016;48(4):1264--73
 
 # Gastric Cancer
 
 Non-cancer prognosis after gastrectomy in Japan: Male sex, neutrophil-lymphocyte ratio, skeletal muscel index [@iida753]
+
+## Colorectal Cancer
+
+Lieffers JR, Bathe OF, Fassbender K, Winget M, Baracos VE. Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6
