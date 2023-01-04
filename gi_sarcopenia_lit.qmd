@@ -36,13 +36,14 @@ Gemcitabine: 330 patients treated with first-line chemotherapy. SMI and SMD prog
 
 Review of 12 articles [@rizzo974116] 4/12 articles showed an association between body composition and chemotherapy-related toxicity
 
+Korea: Palliative chemotherapy among 484 patients [@choie0139749]. Decrease in SMI was present in 61% of men and 41% of women. Decrease in BMI was seen in 37%. Poor prognosis for men was affected by sarcopenia, decline in SMI.  Prognosis of women was worsened by overweight at diagnosis, decline in SMI, and decline in BMI. Sarcopenia defined as <42 in men and <33.9 in women using ROC.
+
 ### Prognostic value
 
 Sarcopenic obesity adverse prognosticator in pancreatic cancer [@tan6973]. 111 patients: 56% sarcopenic, 40% obese, and 16% sarcopenic obesity.
 
 Different outcomes with sarcopenia using Western and Eastern criteria [@wu862]. Taiwan: 146 patients with newly diagnosed pancreatic cancer. Prevalence of sarcopenia was 66% by Western criteria and 11% by Eastern criteria. Patients sarcopenia by Western criteria had no worse survival than non-sarcopenic, but patients sarcopenic by Eastern criteria had worse survival (p=0.008), and on multivariate analysis accounting for stage (p=0.014)
 
-Choi Y, Oh DY, Kim TY, Lee KH, Han SW, Im SA, Kim TY, Bang YJ. Skeletal muscle depletion predicts the prognosis of patients with advanced pancreatic Cancer undergoing palliative chemotherapy, independent of body mass index. PLoS One. 2015;10(10):e0139749
 
 Ozola Zalite I, Zykus R, Francisco Gonzalez M, Saygili F, Pukitis A, Gaujoux S, Charnley RM, Lyadov V. Influence of cachexia and sarcopenia on survival in pancreatic ductal adenocarcinoma: a systematic review. Pancreatology.2015;15(1):19--24.
 
@@ -53,6 +54,6 @@ Park I, Choi SJ, Kim YS, Ahn HK, Hong J, Sym SJ, Park J, Cho EK, Lee JH, Shin YJ
 
 Non-cancer prognosis after gastrectomy in Japan: Male sex, neutrophil-lymphocyte ratio, skeletal muscel index [@iida753]
 
-## Colorectal Cancer
+# Colorectal Cancer
 
 Lieffers JR, Bathe OF, Fassbender K, Winget M, Baracos VE. Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6

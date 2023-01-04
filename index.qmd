@@ -30,6 +30,10 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Cachexia](cachexia_lit.html)
 
+# Geriatric Surgery
+
+[Literature Review](geriatric_surgery_lit.html)
+
 # Blood Management Program
 
 [Literature Review](blood_management_talk.html)

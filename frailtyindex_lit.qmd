@@ -37,6 +37,8 @@ MFI and mortality after hip fracture [@daddimanie30951]  36465740
 NLP of unstructured EHR data to identify geriatric syndrome [@kharrazi1499]
 
 
+# Comprehensive Geriatric Assessment
+
 ## CARE Survey
 
 CARE survey is a modified version of the original Cancer and Aging Research Group geriatric assessment, augmented to streamline completion and to aid integration into routine oncologic clinical practice. The CARE survey measures activities of daily living (ADLs), instrumental ADLs (iADLs), the ability to walk 1 block, the number of falls within 6 months, nutrition, comorbid conditions, cognitive complaints, anxiety, depression, social support, social activities, and self-rated Eastern Cooperative Oncology Group performance status. Domain-specific cutoffs were used in accordance with prior literature.21, 23-25 Frailty was reported using the CARE Frailty Index based on the principles of deficit accumulation, as previously published.26, 27 In brief, the CARE Frailty Index includes 44 geriatric assessment variables identified as health deficits from the CARE survey, each of which is scored as 0 (no deficit) or 1 (deficit present) (see Supporting Methods). These values were then combined and divided by the overall number of deficits assessed (range, 0-1) and categorized as robust (0-0.2), prefrail (0.2-0.35), and frail (>0.35).26 In addition, the CARE survey incorporates the Patient-Reported Outcomes Measurement Information System (PROMIS) 10-item global health questionnaire to assess HRQoL, which includes physical and mental health subscales.28, 29
