@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer and Sarcopenia Literature"
+title: "Esophageal Cancer and Sarcopenia"
 editor: visual
 bibliography: zotero.bib
 ---
@@ -8,21 +8,21 @@ bibliography: zotero.bib
 
 The patient with esophageal cancer faces multiple challenges in changes in body composition related to both muscle mass and adipose tissue. Patients frequently present with loss of adipose tissue and muscle from dysphaghia due to the primary tumor. Neoadjuvant chemoradiation can improve oral intake due to tumor shrinkage, but can also decrease oral nutrition due to esophagitis and the catabolic effects of cytotoxic therapy.  In addition, patients undergoing esophagectomy frequently lose weight due to limited oral intake and the catabolic effects of the stress of surgery.
 
-For patients treated with neoadjuvant therapy, the chemoradiation treatment prior to surgery can be seen as a 'stress test\\' which can further assist in evaluating a patient's resilience to the stress of surgery.
+For patients treated with neoadjuvant therapy, the chemoradiation treatment prior to surgery can be seen as a 'stress test' which can further assist in evaluating a patient's resilience to the stress of surgery.
 
 The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI \>30kg/m\^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.{prado, 629; martin}
 
 ## Skeletal muscle loss in esophagectomy patients
 
-A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).{Nishigori, 2016 #1996} Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group {Ida, 2015 #1995} found similar association between sarcopenia and pulmonary complications after esophagectomy.
+A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%)[@nishigori678] Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group [@ida4432]found similar association between sarcopenia and pulmonary complications after esophagectomy.
 
-A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy {Tamandl, 2016 #2006}. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality.
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy[@tamandl1359]. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality.
 
-Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Among these patients the 90-day readmission rate was 42.9% vs 16% in those without sarcopenia.{Makiura, 2018 #2007}. In addition, sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
+Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Among these patients the 90-day readmission rate was 42.9% vs 16% in those without sarcopenia[@makiura456]. In addition, sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
 
-Irish study {Elliott,822}
+Irish study [@elliott822]
 
-# Skeletal Muscle Loss during Esophageal ChemoRT
+## Skeletal Muscle Loss during Esophageal ChemoRT
 
 Nottingham: 89 patients with esophageal cancer undergoing neoadjuvant chemotherapy. Sarcopenia associated with dose-limiting toxiciy and shortened survival after esopahgectomy [@tan333]
 
@@ -60,7 +60,7 @@ Sarcopenia and survival and unplanned admissions after esophagectomy [@makiura45
 
 Sarcopenia and postop pulmonary complications after esophagectomy [@makiura430]
 
-# Risk Stratification for esohagectomy
+# Risk Stratification for esophagectomy
 
 ## V02max
 

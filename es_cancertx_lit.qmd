@@ -6,11 +6,13 @@ bibliography: zotero.bib
 
 # Esophagectomy in the Elderly
 
-Meta-analysis of studies [@baranov131]: 90-day mortality 9% for those 75+ vs 3.9% in those <75
+Meta-analysis of studies [@baranov131]: 90-day mortality 9% for those 75+ vs 3.9% in those \<75
 
 Groningen: [@faiz986] Esophageal SCCA: Age and co-morbidity wre associated with higher probability of cCRT
 
 Metaanalysis of age and esophageal cancer treatment [@mantziari2104]
+
+Eindhoven cancer registry. Esohpagectomy 90=day mortality 7.1% for \<65 years, 8.7% for 65-74 years, and 15.4% for 75+
 
 # Age and marginal benefit of surgery after ChemoRT
 
@@ -123,5 +125,3 @@ FFCD 9012 [@bedenne1160] German Trial [@stahl2310]
 [@vellayappanCD010511] Addition of surgery to dCRT adds little or benefit for patients with squamous cell carcinoma. Authors could not determine whether there was benefit of the addition of surgery for adenocarcinoma and GE junction cancers.
 
 [@voeten1271] No clear advantage of trimodality therapy over dCRT
-
-

@@ -32,7 +32,6 @@ Choosing Wisely [@schnipper10]
 ASCO statement [@hurria3826]
 
 
-
 ## Weight loss and chemotherapy tolerance
 
 Dewys 1980 [@dewys491]
@@ -64,7 +63,7 @@ CGA recommended by ASCO [@mohile2326] buy screening is resource-intensive
 
     -   Vulnerable Elders Survey-13
 
-    -   Non-Cancer Mortality - ePrognosis (life expectancy \>4years)
+    -   Non-Cancer Mortality - ePrognosis (life expectancy >4years)
 
 CGA - [@extermann1824]
 
@@ -140,7 +139,7 @@ NCDB of colon cancer: less adherence to treatment guidelines in elderly patients
 
 Stage IV colon cancer over age 75: Equivalent response rates in patients older than 75 and younger. [@rosati578]
 
-Meta-analysis of 13 trials of palliative chemotherapy in advanced colorectal cancer showed that chemotherapy for colorectal cancer improves survival by 3.7months and results in improvement of survival of 16% at both 6 and 12 months. ECOG 3/4 only comprise \<10% of the total sample of trial participants.[@simmonds531]
+Meta-analysis of 13 trials of palliative chemotherapy in advanced colorectal cancer showed that chemotherapy for colorectal cancer improves survival by 3.7months and results in improvement of survival of 16% at both 6 and 12 months. ECOG 3/4 only comprise <10% of the total sample of trial participants.[@simmonds531]
 
 PS2 patients with stage IV CRC have survival less than half that of those with PS of 0 at presentation [@lavin1536] [@kemeny786]
 
@@ -148,7 +147,7 @@ ECOG2 patients receiving first-line chemotherapy for CRC had 12% 60-day morality
 
 Kohorana Score for CRC early death: (primary site, baseline hemoglobin, leukocyte and platelet counts, BMI) [@khorana4902]
 
-Stage IV CRC prognostic model: \[chibaudel1228\] = f(performance status, LDH,number of metastatic sites). Serum LDH most prognostic factor, followed by PS
+Stage IV CRC prognostic model: [chibaudel1228] = f(performance status, LDH,number of metastatic sites). Serum LDH most prognostic factor, followed by PS
 
 Kohne model: PS, WBC, ALP, number of metastatic sites [@kohne308]
 
@@ -162,7 +161,7 @@ McCleary - ACCENT group analysis
 
 # Resources
 
-Dalane Kitzman - https://www.wakehealth.edu/providers/k/dalane-w-kitzman dkitzman\@wakehealth.edu
+Dalane Kitzman - https://www.wakehealth.edu/providers/k/dalane-w-kitzman dkitzman@wakehealth.edu
 
 # BMI and survival in stage IV cancer
 
@@ -236,11 +235,11 @@ NLR in lung cancear patients undergoing chemotherapy: [@jine035031]
 
 # Immunotherapy in Frail patients
 
-Creighton: [@krishnane175] 257 patients with advanced solid tumor receiving immune checkpoint inhibitors. 182 were ECOG 0-1 and 75 were ECOG \>=2. Median overall survival was 12.6 months for the ECOG PS 0-1 group compared with 3.1 months for the ECOG PS ≥ 2 group (P \< .001). The overall response rate for patients with ECOG PS 0-1 was 23% compared with 8% for those with poor PS (P = .005). Patients with poor PS treated with ICI had similar hospice referral rates (67% for ECOG PS ≥ 2 v 61.9% for ECOG PS 0-1, P = .50) but were more likely to have in-hospital death as compared with the good PS group (28.6% v 15.1%, P = .035).
+Creighton: [@krishnane175] 257 patients with advanced solid tumor receiving immune checkpoint inhibitors. 182 were ECOG 0-1 and 75 were ECOG >=2. Median overall survival was 12.6 months for the ECOG PS 0-1 group compared with 3.1 months for the ECOG PS ≥ 2 group (P < .001). The overall response rate for patients with ECOG PS 0-1 was 23% compared with 8% for those with poor PS (P = .005). Patients with poor PS treated with ICI had similar hospice referral rates (67% for ECOG PS ≥ 2 v 61.9% for ECOG PS 0-1, P = .50) but were more likely to have in-hospital death as compared with the good PS group (28.6% v 15.1%, P = .035).
 
 India: [@kapoore25115] 155 patients receiving ICIs. ECOG 0-1 had median survival 9.1 months vs 2.9months in ECOG 2-4. Median OS for ECOG2 was 3.7months vs 1.8 months with ECOG 3-4
 
-Meta-analysis of IC trials: No difference in benefit for ECOG 0 vs ECOG \>=1 [@yange2012534]
+Meta-analysis of IC trials: No difference in benefit for ECOG 0 vs ECOG >=1 [@yange2012534]
 
 Melanoma PS2-3 treated with ICI had median survival of 18 months vs 19.5 months for ECOG 0-1 [@wong385]
 
@@ -276,7 +275,7 @@ In 347 stage IV gastric cancer patients at high nutrition risk and receiving pal
 
 ## Pulmonary function testing.
 
-Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy {Makiura, 2016, 2016}. Patients were designated as frail based upon hand-grip strength \<26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
+Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy {Makiura, 2016, 2016}. Patients were designated as frail based upon hand-grip strength <26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
 
 ## Hand Grip Strength
 
