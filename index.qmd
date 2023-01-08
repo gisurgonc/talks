@@ -26,6 +26,8 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [CT methods for Sarcopenia](sarcopenia_lit.html)
 
+[Machine Learning for CT segmentation](sarcopenia_ai.html)
+
 [Frailty Index](frailtyindex_lit.html)
 
 [Cachexia](cachexia_lit.html)
