@@ -36,16 +36,6 @@ NLST and mortality [@lenchik277] Increased SMA and SMD associated with longer su
 
 Sarcopenia methods - varies 19/92 [@amini1671] Review of challenges in methods inconsistency [@hopkins1381]
 
-## Machine Learning for CT analysis
-
-Fully automated tools 94-96 [@graffy20190327] [@burns311] [@hemke387]
-
-Machine learning [@lee487] [@popuri512]
-
-L3 slice selection [@islame363]
-
-Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
-
 # Myosteasosis
 
 Meta-analysis of 40 studies: overall prevalence of 48% among cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)[@alexio102839]
@@ -58,10 +48,7 @@ myosteatosis adds value [@martin227]
 
 Myosteatosis is defined as the infiltration of adipose tissue into skeletal muscle [@daly135]
 
-Goodpaster BH, Kelley DE, Thaete FL, He J, Ross R. Skeletal muscle
-attenuation determined by computed tomography is associated with
-skeletal muscle lipid content. J Appl Physiol (Bethesda, Md : 1985). 2000;
-89(1):104--10
+Goodpaster BH, Kelley DE, Thaete FL, He J, Ross R. Skeletal muscle attenuation determined by computed tomography is associated with skeletal muscle lipid content. J Appl Physiol (Bethesda, Md : 1985). 2000; 89(1):104--10
 
 # Visceral Adipose Tissue (VAT)
 
@@ -72,4 +59,3 @@ Investigators at McMaster University examined 50 patients with pancreatic cancer
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy {Tamandl, 2016 #2006}. \[??relation to VAT\] \*\*\* This paper is Tamadl 1359 related to overall survival.
 
 # 
-

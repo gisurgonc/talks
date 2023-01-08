@@ -1,0 +1,25 @@
+---
+title: "Sarcopenia AI Methods"
+editor: visual
+bibliography: zotero.bib
+---
+
+## Machine Learning for CT analysis
+
+Fully automated tools 94-96 [@graffy20190327] [@burns311] [@hemke387]
+
+Machine learning [@lee487] [@popuri512]
+
+L3 slice selection [@islame363]
+
+# Image Libraries
+
+Bilic P, Christ PF, Vorontsov E, Chlebus G, Wu J. The liver tumor segmentation benchmark (lits). arXiv:1901.04056 (2019).
+
+[Google Scholar](http://scholar.google.com/scholar_lookup?author=P+Bilic&author=PF+Christ&author=E+Vorontsov&author=G+Chlebus&author=J+Wu+&publication_year=2019&title=The+liver+tumor+segmentation+benchmark+(lits))
+
+40\. Heller N, Sathianathen N, Kalapara A, Walczak E, Moore K, Kaluzniak H, et al. The kits19 challenge data: 300 kidney tumor cases with clinical context, ct semantic segmentations, and surgical outcomes. *arXiv e-prints.* (2019).
+
+[Google Scholar](http://scholar.google.com/scholar_lookup?author=N+Heller&author=N+Sathianathen&author=A+Kalapara&author=E+Walczak&author=K+Moore&author=H+Kaluzniak+&publication_year=2019&title=The+kits19+challenge+data%3A+300+kidney+tumor+cases+with+clinical+context,+ct+semantic+segmentations,+and+surgical+outcomes&journal=arXiv+e-prints)
+
+Liver segmentation using GAN [@he794969]
