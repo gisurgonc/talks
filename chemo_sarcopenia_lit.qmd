@@ -41,6 +41,8 @@ Force-feeding cancer patients [@terepka225]
 
 CGA recommended by ASCO [@mohile2326] buy screening is resource-intensive
 
+>nutritional status, functional status, psychological status, cognitive function, comorbidities, polypharmacy, geriatric syndromes and socioeconomic issues
+
 -   Instrumental ADLs
 
 -   Assessment of comorbidities
@@ -71,6 +73,8 @@ CGA - [@extermann1824]
 
 SIOG consensus on CGA [@wildiers2595]
 
+Hurria A, Togawa K, Mohile SG, Owusu C, Klepin HD, Gross CP, Lichtman SM, Gajra A, Bhatia S, Katheria V, et al: Predicting chemotherapy toxicity in older adults with cancer: A prospective multicenter study. J Clin Oncol. 29:3457–3465. 2011. View Article : Google Scholar : PubMed/NCBI
+
 Hamaker ME, Jonker JM, de Rooij SE, Vos AG, Smorenburg CH, van Munster BC. Frailty screening methods for predicting outcome of a comprehensive geriatric assessment in elderly patients with cancer: a systematic review. Lancet Oncol. 2012;13(10):e437–444.
 
 Randomized trial of CGA intervention in colorectal cancer treatment in Sweden. [@Normann948]. Trial will utilize CFS-9 score (Clinical Frailty Score-9). (In the US - median age of dx for colon cancer is 66 in men and 69 in women). Median age has shifted from median age of 72 in the early 2000s to 66 in 2020 ( Ries LAG, Eisner MP, Kosary CL, et al., eds. SEER Cancer Statistics Review, 1973-1999. Bethesda, MD: National Cancer Institute; 2002.)
@@ -79,7 +83,24 @@ CGA appears to add information to performance status alone (L. Repetto, L. Frati
 
 CGA affects cancer treatment in 50% (M. T. E. Puts, J. Hardt, J. Monette, V. Girre, E. Springall, and S. M. H. Alibhai, "Use of geriatric assessment for older adults in the oncology setting: a systematic review," *Journal of the National Cancer Institute*, vol. 104, no. 15, pp. 1133--1163, 2012
 
+### CARG
+
 CARG - superior to KPS in predicting chemotherapy toxicity (A. Hurria, K. Togawa, S. G. Mohile et al., "Predicting chemotherapy toxicity in older adults with cancer: a prospective multicenter study," *Journal of Clinical Oncology*, vol. 29, no. 25, pp. 3457--3465, 2011.)
+
+Almodovar T, Teixeira E, Barroso A, Soares M, Queiroga HJ, Cavaco-Silva J and Barata F: Elderly patients with advanced NSCLC: The value of geriatric evaluation and the feasibility of CGA alternatives in predicting chemotherapy toxicity. Pulmonology. 25:40–50. 2019. View Article : Google Scholar : PubMed/NCBI
+
+CARG:
+>Age of patient, type of cancer, dosing of chemotherapy, the number of chemotherapeutic drugs, level of hemoglobin, creatinine clearance rate, necessity to assist the patient when taking medicine, hearing, ability to walk one block, number of falls in the past six months and social activity 
+
+Li D, Soto-Perez-de-Celis-E and Hurria A: Geriatric assessment and tools for predicting treatment toxicity in older adults with cancer. Cancer J. 23:206–210. 2017. View Article : Google Scholar : PubMed/NCBI
+
+473 breast cancer patients modeled risk of toxicity wtih anthracycline use, duration ?3 months, abnormal LFTs, Low Hb, falls, limited walking, lack of social support. [@magnuson608]
+
+
+### CRASH
+
+CRASH [@extermann3377]: Hemotologic toxicity: Lymphs, DBP,IADL score, LDH, Chemotox. Non-heme toxicity: Hb, CrCl, Alb, self-rated health, ECOG, MiniMentalStatus, Mini-Nutritional, Chemotox.
+
 
 CRASH (M. Extermann, I. Boler, R. R. Reich et al., "Predicting the risk of chemotherapy toxicity in older patients: the chemotherapy risk assessment scale for high-age patients (CRASH) score," *Cancer*, vol. 118, no. 13, pp. 3377--3386, 2012)
 
@@ -87,7 +108,11 @@ Exercise behavior in METS (E. Ruden, D. A. Reardon, A. D. Coan et al., "Exercise
 
 Godin questionnaire: Godin G, Shephard RJ: A simple method to assess exercise behavior in the community. Can J Appl Sport Sci 10:141-146, 1985
 
+G-8 CGA Screen
 
+Chemotherapy toxicity index (Chemotox) based upon MAX2 index.
+
+Edmonton Frail Score did not predict chemotherapy toxicity in over 65 [@akbiyik9975]
 
 6MWT Gibbons WJ, Fruchter N, Sloan S, et al: Reference values for a multiple repetition 6-minute walk test in healthy adults older than 20 years. J Cardiopulm Rehabil 21:87-93, 2001
 
@@ -125,11 +150,6 @@ Bellera CA, Rainfray M, Mathoulin‐Pelissier S, et al. Screening older cancer p
 
 Stokoe JM, Pearce J, Sinha R, Ring A. G8 and VES‐13 scores predict chemotherapy toxicity in older patients with cancer. J Geriatr Oncol. 2012;3(suppl 1):S81.
 
-## CARG-BC Score
-
-473 breast cancer patients modeled risk of toxicity wtih anthracycline use, duration ?3 months, abnormal LFTs, Low Hb, falls, limited walking, lack of social support. [@magnuson608]
-
-## CRASH
 
 # Colorectal Cancer in Elderly
 
@@ -204,6 +224,12 @@ Jessup JM, Stewart A, Greene FL, Minsky BD. Adjuvant chemotherapy for stage III 
 110 CRC patients over age 75: only 6/23 received adjuvant chemotherapy. Out of 18 patients with stage IV disease, only 3 received palliative chemotherapy. Aparicio T, Navazesh A, Boutron I, Bouarioua N, Chosidow D, Mion M, Choudat L, Sobhani I, Mentré F, Soulé JC. Half of elderly patients routinely treated for colorectal cancer receive a sub-standard treatment. Crit Rev Oncol Hematol. 2009;71:249--257[@aparicio249]
 
 Adjuvant chemotherapy for stage III colon cancer appears to be efficacious in the elderly: Iwashyna TJ, Lamont EB. Effectiveness of adjuvant fluorouracil in clinical practice: a population-based cohort study of elderly patients with stage III colon cancer. J Clin Oncol. 2002;20:3992--3998
+
+Elderly patients appear to benefit from chemotherapy:
+> elderly cancer patients had similar survival benefits and toxicity compared with those of younger patients
+
+Früh M, Rolland E, Pignon JP, Seymour L, Ding K, Tribodet H, Winton T, Le Chevalier T, Scagliotti GV, Douillard JY, et al: Pooled analysis of the effect of age on adjuvant cisplatin-based chemotherapy for completely resected non-small-cell lung cancer. J Clin Oncol. 26:3573–3581. 2008. View Article : Google Scholar : PubMed/NCBI
+
 
 Age and oncologist decisions [@foster584]
 
@@ -316,3 +342,8 @@ NSCLC: Muscle density as important as muscle quantity[@vanamsterdam1191] - looke
 # D-creatine
 
 D3-creatine dilution, hold great promise as highly accurate tools for providing direct and accurate measurements of muscle mass, but they are still in the investigative phase and are not yet used within oncology.Evans WJ, Hellerstein M, Orwoll E, Cummings S, Cawthon PM. D3-Creatine dilution and the importance of accuracy in the assessment of skeletal muscle mass. J Cachexia Sarcopenia Muscle. 2019;10:14-21. 
+
+
+# Chemoprotective Agents
+
+Chemoprotective agents [@balducci1695]
