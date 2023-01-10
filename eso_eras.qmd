@@ -217,6 +217,7 @@ Pain management [@visser1]
 
 ## Avoidance of hypothermia
 
+
 \newpage
 
 ## Jejunostomy
@@ -245,6 +246,10 @@ Jejunostomy infection
 
 ### Diabetic management with feeding jejunostomy
 
+
+Intraoperative hypothermia is associated with increased risk of postoperative infections.  Active warming with forced air blankets are routinesly used (eg upper and lower-body Bair Huggers where possible)
+
+
 # Postoperative Care
 
 ## NG decompression
@@ -253,9 +258,15 @@ The ERAS society guidelines recommend routine nasogastric decompression post-eso
 
 [@weijs1]
 
+
+
 ## Chest drainage
 
 [@refai820] - early chest tube removal
+
+The right chest is routinely drained to remove fluid and evacuate air (particularly in patients with intrapleural adhesive disease).  A transhiatal Blake or JP drain can perform much of this function with less discomfort
+
+** Transhiatal drainage of the right chest is performed with a 19FR Blake drain labeled JP2)**
 
 ## Atrial fibrillation prophylaxix
 
@@ -267,9 +278,30 @@ Amiodarone - Tisdale randomized trial
 
 Magnesium
 
+## Atrial fibrillation prophylaxix
+
+New onset atrial fibrillation occurs in up to 20% of patients after esophagectomy and its incidence appears to increase with age.
+
+The Society for Thoracic Surgery recommends several options for atrial fibrillation prophylaxis:
+
+- Metoprolol
+- Cardiazem
+- Amiodarone
+
+
 ## Proton pump inhibitors
 
+A randomized clinical trial of postoperative treatment with proton pump inhibitors for one year after surgery vs ___ found a reduced incidence of anastomotic striciture.
+
 ## Evaluation for anastomotic leak
+
+### Drain amylase
+
+Tang H, Xue L, Hong J, Tao X, Xu Z, Wu B. A method for early diagnosis and treatment of intrathoracic esophageal anastomotic leakage: prophylactic placement of a drainage tube adjacent to the anastomosis. J Gastrointest Surg. 2012;16:722–727.
+
+
+
+
 
 ## Pyloric drainage
 
@@ -282,6 +314,7 @@ The benefit of the method of pyloric drainage is controversial[@akkerman1512] Py
 ### Drain amylase
 
 Monitoring of drain amylase is a cost-effective a sensitive method of detection of anastomotic leak [@linden1794] [@baker181]
+
 
 ### Markers of systemic inflammation
 
