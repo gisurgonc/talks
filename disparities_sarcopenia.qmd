@@ -1,0 +1,15 @@
+---
+title: "Disparities Sarcopenia"
+editor: visual
+bibliography: zotero.bib
+---
+
+## Literature
+
+### Body composition and Racial/Ethnic differences
+
+Investigators at the University of Illinois {@jang557} examined the change in skeletal muscle index during cancer treatment among 212 patients. Among 132 non-Hispanic Black patients, muscle loss during therapy was greater than non-Hispanic White and Other (Asian + Hispanic) (Odds Ratio 3.29 p=0.004). The loss was highest in Black rectal cancer patients (11 units of SMI loss cm2/m2) vs White rectal Cancer (8 cm2/m2). Loss among colon cancer patients was higher in Black patients ( 5.5 cm2/m2) than in White patients (2.5 cm2/m2). Prior to treatment, Blacks had higher SMI than White (similar to findings of Xaio 2019)
+
+Data from Kaiser {@xaio615} examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
+
+### 

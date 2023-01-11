@@ -22,6 +22,8 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [GI Cancers and Sarcopenia](gi_sarcopenia_lit.html)
 
+[Disparities and Sarcopenai](disparities_sarcopenia.html)
+
 [Sarcopenia and Chemotherapy](chemo_sarcopenia_lit.html)
 
 [CT methods for Sarcopenia](sarcopenia_lit.html)
