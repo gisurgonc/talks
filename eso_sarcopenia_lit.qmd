@@ -3,18 +3,27 @@ title: "Esophageal Cancer and Sarcopenia"
 editor: visual
 bibliography: zotero.bib
 ---
+# Sarcopenia in esophageal cancer
 
-## Sarcopenia in esophageal cancer
+[Sarcopenia Methods](sarcopenia_lit.html)
+[Sarcopenia in GI Cancers](gi_sarcopenia_lit.html)
+[Sarcopenia in Chemotherapy](chemo_sarcopenia_lit.html)
+[Esophageal Cancer Therapy](es_cancertx_lit.html)
 
 The patient with esophageal cancer faces multiple challenges in changes in body composition related to both muscle mass and adipose tissue. Patients frequently present with loss of adipose tissue and muscle from dysphaghia due to the primary tumor. Neoadjuvant chemoradiation can improve oral intake due to tumor shrinkage, but can also decrease oral nutrition due to esophagitis and the catabolic effects of cytotoxic therapy.  In addition, patients undergoing esophagectomy frequently lose weight due to limited oral intake and the catabolic effects of the stress of surgery.
 
 For patients treated with neoadjuvant therapy, the chemoradiation treatment prior to surgery can be seen as a 'stress test' which can further assist in evaluating a patient's resilience to the stress of surgery.
 
-The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI \>30kg/m\^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.{prado, 629; martin}
+The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI >30kg/m^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.[@prado629] [@martin]
+
+
 
 ## Skeletal muscle loss in esophagectomy patients
 
-A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%)[@nishigori678] Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group [@ida4432]found similar association between sarcopenia and pulmonary complications after esophagectomy.
+
+A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).[@nishigori]{Nishigori, 2016 #1996} Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group[@Ida] {Ida, 2015 #1995} found similar association
+between sarcopenia and pulmonary complications after esophagectomy.
+
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy[@tamandl1359]. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality.
 
