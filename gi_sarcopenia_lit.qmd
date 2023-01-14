@@ -66,7 +66,7 @@ Xaio fou
 
 ### Body composition and therapy of advanced GI Cancers
 
-Data from Kaiser {@xaio615} examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
+Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
 
 Low muscle mass has been shown to be associated with poor prognosis cancer patients.[@martin1539] This may be due to overal frailty or low muscle mass may lead to increased toxicity from chemotherapy due to pharmacokinetic mechanism. 5-FU is hydrophilic and it volume of distribution includes the muscle compartment, while oxaliplatin is hydrophobic, with distribution in the fat compartment[@bozzetti2107].
 

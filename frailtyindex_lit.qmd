@@ -6,7 +6,7 @@ bibliography: zotero.bib
 
 # Frailty
 
-Frailty is “a biological syndrome of decreased reserve and resistance to stressors, resulting from cumulative decline across multiple physiologic systems, and causing vulnerability to adverse outcomes” Fried LP, Tangen CM, Walston J, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci 2001;56:M146-56
+Frailty is "a biological syndrome of decreased reserve and resistance to stressors, resulting from cumulative decline across multiple physiologic systems, and causing vulnerability to adverse outcomes" Fried LP, Tangen CM, Walston J, et al. Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci 2001;56:M146-56
 
 # Frailty Scores
 
@@ -16,7 +16,7 @@ EFI_SCORE and EFI_PERCENTILE now available in Translational Data Warehouse [@roc
 
 Brief clinical instrument to classify frailty in the elderly Lancet 1999 205 rockwood
 
-Frailty and hematologic malignancies [@abel515] 
+Frailty and hematologic malignancies [@abel515]
 
 eFI calculated based upon 36 deficits which can be abstracted from the electronic medical record [@clegg353]
 
@@ -32,30 +32,29 @@ Learning Health System and BioInformatics [@kohne10259]
 
 ## Modifided Frailty Index
 
-MFI and mortality after hip fracture [@daddimanie30951]  36465740
+MFI and mortality after hip fracture [@daddimanie30951] 36465740
 
 NLP of unstructured EHR data to identify geriatric syndrome [@kharrazi1499]
-
 
 # Comprehensive Geriatric Assessment
 
 ## CARE Survey
 
-CARE survey is a modified version of the original Cancer and Aging Research Group geriatric assessment, augmented to streamline completion and to aid integration into routine oncologic clinical practice. The CARE survey measures activities of daily living (ADLs), instrumental ADLs (iADLs), the ability to walk 1 block, the number of falls within 6 months, nutrition, comorbid conditions, cognitive complaints, anxiety, depression, social support, social activities, and self-rated Eastern Cooperative Oncology Group performance status. Domain-specific cutoffs were used in accordance with prior literature.21, 23-25 Frailty was reported using the CARE Frailty Index based on the principles of deficit accumulation, as previously published.26, 27 In brief, the CARE Frailty Index includes 44 geriatric assessment variables identified as health deficits from the CARE survey, each of which is scored as 0 (no deficit) or 1 (deficit present) (see Supporting Methods). These values were then combined and divided by the overall number of deficits assessed (range, 0-1) and categorized as robust (0-0.2), prefrail (0.2-0.35), and frail (>0.35).26 In addition, the CARE survey incorporates the Patient-Reported Outcomes Measurement Information System (PROMIS) 10-item global health questionnaire to assess HRQoL, which includes physical and mental health subscales.28, 29
+CARE survey is a modified version of the original Cancer and Aging Research Group geriatric assessment, augmented to streamline completion and to aid integration into routine oncologic clinical practice. The CARE survey measures activities of daily living (ADLs), instrumental ADLs (iADLs), the ability to walk 1 block, the number of falls within 6 months, nutrition, comorbid conditions, cognitive complaints, anxiety, depression, social support, social activities, and self-rated Eastern Cooperative Oncology Group performance status. Domain-specific cutoffs were used in accordance with prior literature.21, 23-25 Frailty was reported using the CARE Frailty Index based on the principles of deficit accumulation, as previously published.26, 27 In brief, the CARE Frailty Index includes 44 geriatric assessment variables identified as health deficits from the CARE survey, each of which is scored as 0 (no deficit) or 1 (deficit present) (see Supporting Methods). These values were then combined and divided by the overall number of deficits assessed (range, 0-1) and categorized as robust (0-0.2), prefrail (0.2-0.35), and frail (\>0.35).26 In addition, the CARE survey incorporates the Patient-Reported Outcomes Measurement Information System (PROMIS) 10-item global health questionnaire to assess HRQoL, which includes physical and mental health subscales.28, 29
 
 Prognostic scales for cancer: France: [@canoui-poitrine2236] 510 patients with cancer evaluated with multiple prognostic scales including CCI and Elixhauser. Only Cumulative Illness Rating Scale for Geriatics (CIR-G) was predictive of one-year mortality.
 
 ## SARC-F screening
 
-Ida S, Kaneko R, Murata K. SARC-F for screening of sarcopenia among older adults: a meta-analysis of screening test accuracy. J Am Med Dir Assoc. 2018;19:685-689. 
+Ida S, Kaneko R, Murata K. SARC-F for screening of sarcopenia among older adults: a meta-analysis of screening test accuracy. J Am Med Dir Assoc. 2018;19:685-689.
 
-Woo J, Leung J, Morley JE. Validating the SARC-F: a suitable community screening tool for sarcopenia? J Am Med Dir Assoc. 2014;15:630-634. 
+Woo J, Leung J, Morley JE. Validating the SARC-F: a suitable community screening tool for sarcopenia? J Am Med Dir Assoc. 2014;15:630-634.
 
-Malmstrom TK, Morley JE. SARC-F: a simple questionnaire to rapidly diagnose sarcopenia. J Am Med Dir Assoc. 2013;14:531-532. 
+Malmstrom TK, Morley JE. SARC-F: a simple questionnaire to rapidly diagnose sarcopenia. J Am Med Dir Assoc. 2013;14:531-532.
 
-Malmstrom TK, Miller DK, Simonsick EM, Ferrucci L, Morley JE. SARC-F: a symptom score to predict persons with sarcopenia at risk for poor functional outcomes. J Cachexia Sarcopenia Muscle. 2016;7:28-36. 
+Malmstrom TK, Miller DK, Simonsick EM, Ferrucci L, Morley JE. SARC-F: a symptom score to predict persons with sarcopenia at risk for poor functional outcomes. J Cachexia Sarcopenia Muscle. 2016;7:28-36.
 
-The SARC-F (strength, assistance with walking, rising from a chair, climbing stairs, and falls) is a surrogate assessment tool, with a total score of ≥4 suggestive of sarcopenia.35 A person may also be considered as “probable sarcopenia” if SARC-F is positive and handgrip strength is low (Asian Working Group for Sarcopenia criteria: <28 kg for men, <18 kg for women).
+The SARC-F (strength, assistance with walking, rising from a chair, climbing stairs, and falls) is a surrogate assessment tool, with a total score of ≥4 suggestive of sarcopenia.35 A person may also be considered as "probable sarcopenia" if SARC-F is positive and handgrip strength is low (Asian Working Group for Sarcopenia criteria: \<28 kg for men, \<18 kg for women).
 
 # Reporting
 
@@ -98,4 +97,3 @@ Stair Climbing is strong predictor of perioperative morbidity[@redddy559]
 # Sarcopenia and Lung Cancer
 
 PNI and lung cancer meta-analysis [@shaoe31113]
-
