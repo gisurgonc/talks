@@ -10,9 +10,14 @@ ERAS society guidelines [@low299].
 
 Systmatic review of enhanced recovery for esophagectomy [@findlay413]
 
+## Published experience 
+
+The AME esophagectomy group randomized 118 patients between an early recovery program and standard care. The early recovery group had fewer pulmonary complications (17% vs 33%) and fewer overall complications (33% vs 52%). No difference in anastomotic leakage (12% vs 16%). No difference in length of stay or pain scores[@shen9113].
+
+
 Meta-analysis [@pisarskae0174382], included 2042 patients (1058 in an ERAS group vs 984 in a traditional group), revealed a significantly shorter hospital stay and fewer non-surgical and pulmonary complications in the ERAS group, but no effect on overall morbidity, mortality or readmission rates.
 
-Meta-analysis of critical factors [@markar1]
+Meta-analysis of 13 reports of enhanced recovery protocols performed a regression analysis to identify factors which may be important in length of stay reductions.  These factors included immediate extubation, early gastrograffin study, early urinary catheter removal, early feeding with at least sips of water on the first postoperative day, early enteral feeding, and epidural catheter removal within 4 days[@markar1].
 
 Virginia Mason ERAS [@schmidt931]
 
@@ -97,7 +102,9 @@ Dysphagia score [@knyrim1302] - scale used for esophageal stent paper
 
 ## Preoperative enteral nutrition
 
-Feeding jejunostomy is the traditional approach to enteral tube placement in patients who may undergo surgery in the future. Gastrostomy placement, particularly via the endoscopic approach (PEG) runs the risk of damage to the right gastroepiploic vascular arcade, which might devascularize a future gastric conduit, although small series suggest that this risk is low [@margolis1694]
+Feeding jejunostomy is the traditional approach to enteral tube placement in patients who may undergo surgery in the future. Gastrostomy placement, particularly via the endoscopic approach (PEG) runs the risk of damage to the right gastroepiploic vascular arcade, which might devascularize a future gastric conduit[@ohnmacht311], although small series suggest that this risk is low [@margolis1694].
+
+A meta-analysis of over 1000 patients treated with percutaneous endoscopic gastrostomy prior to esophagectomy found no differences in anastomtic leak rate and no instances of conduit failure due to PEG placement [@fang155]
 
 Anecdotal data suggests that esophagectommy with gastric conduit can safely be performed after gastrostomy, particularly if placement is done via laparoscopy and if the tube can be removed prior to esophagectomy to allow the tract to heal. PEG placement (via endoscopy) runs a small but finite risk of seeding of the gastrostomy tract with tumor.[@ellrichmann526]
 
@@ -195,7 +202,7 @@ Low tidal volume in abdominal surgery [@futier428] Low tidal volume in MIE [@she
 
 ## Intraoperative fluid management
 
-[@taniguci184] [@varadhan488]
+[@taniguchi184] [@varadhan488]
 
 Standardized hemodynamic protocols [@klevebroS692]
 
@@ -244,6 +251,10 @@ Jejunostomy infection
 
 ### Early feeding after esophagectomy
 
+Nutrient II trial [@berkelmans41] randomized 132 patients after esophagectomy between oral nutrition on postoperative day 1 vs postoperative day 5. They found no differences in anastomotic leakage and pneumonia, although their relatively high rates of each complication (17% and 30%) makes the study difficult to interpret.
+
+A single-center trial of early feeding randomized 196 patients to direct oral feeding on postoperative day 1 or feeding on postoperatve day 5. The early feeding group had shorter length of stay (8 vs 10 days) and shorter time to functional recovery (7 vs 9 days)[@fransen919].
+
 ### Diabetic management with feeding jejunostomy
 
 
@@ -291,7 +302,7 @@ The Society for Thoracic Surgery recommends several options for atrial fibrillat
 
 ## Proton pump inhibitors
 
-A randomized clinical trial of postoperative treatment with proton pump inhibitors for one year after surgery vs ___ found a reduced incidence of anastomotic striciture.
+A Swedish trial of 80 patients after esophagectomy randomized them to postoperative treatment with b.i.d proton pump inhibitors for one year after surgery vs none found a reduced incidence of anastomotic stricture[@johansson667].Benign anastomotic strictures developed in 5/39 (13%) patients in the PPI group and in 18/40 (45%) in the control group
 
 ## Evaluation for anastomotic leak
 
@@ -326,6 +337,6 @@ Monitoring of drain amylase is a cost-effective a sensitive method of detection 
 
 ## ERAS in other disease sites
 
-Colorectal ERAS Canarian impact multisite [@thahn415]--wasylak, faris
+Colorectal ERAS Canarian impact multisite [@thanh415]--wasylak, faris
 
 CanadianN[@nelson1092]
