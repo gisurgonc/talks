@@ -1,5 +1,7 @@
 ---
 title: "Life Church"
+author: "Ben Davey ~ Dan Coggins ~ Jonathan Salo"
+subtitle: "6 February 2023"
 format: 
   revealjs:
     slide-number: c/t
@@ -14,67 +16,96 @@ format:
 editor: visual
 ---
 
-# Life Church
+# Life Church Strengths
 
-6 Feb 2023
-
--   Ben Davey
-
--   Dan Coggins
-
--   Jonathan Salo
-
-# Strengths
-
--   Gifted teacher in the pulpit
+-   Gifted teacher in the pulpit - Ben Davey
 
 -   Forthright preaching of the word
 
--   Strategic position in SouthEnd for Gen-X\|Y\|Z
+-   Maturing church structure
 
 -   Growing congregation
 
-# Diagnosis (Physical Findings)
+# 301 Elmhurst
 
--   PE crepitus chest, neck, or face; neck swelling; epigastric tenderness; and nasal voice. Sometimes results are normal.
+Strategic position in SouthEnd for Gen-X\|Y\|Z
 
-# Diagnostic Tests
+No debt burden
 
-CXR: Pleural effusion, pneumomediastinum, and subcutaneous
+Property valuable for development (if sold)
 
-CT Esophagram
+# 301 Elmhurst
 
-Upper GI with gastrograffin (?)
+Large burden of aging physical plant
 
-# Treatment
+Impending icebergs: - HAVC - Roof
 
--Treatment of contamination -Wide local drainage -Source control -Enteral feeding access
+# 
 
-# Surgical Options
+![](iceberglarge.jpg)
 
--   High perforations (cerviaL)
--   Mid-esohageal
--   Lower esophagus
+# Congregational Meeting 12/4
 
-# Surgical Principles
+-   Potential capital repairs needs discussed
+-   "You wouldn't put \$375K into this building, would you?"
 
--   Myotomy for exposure and debridement
--   Primary repair
-    -   Small injuries
-    -   Two layers
-    -   Tissue flap (intercostal, pericardial flap, pleura, omentum)
--   T tube for larger injuries
--   Esophageal exclusion with cervical esophagostomy
+# Congregational Meeting 12/4
 
-# Nonoperative Management
+\$125k in savings appeared to be allocated to several functions:
 
--   Clinical stability, with minimal signs of sepsis or systemic inflammatory response on presentation. Patients must remain this way; they should have a reliable examination and constant monitoring for any changes in clinical status.
--   Instrumental perforations in which patients have been nil per os (NPO; nothing by mouth) and in which the perforation is detected early or "tolerance" develops to the perforation without the need for surgery
--   Perforation contained within the neck or mediastinum with no extravasation and no signs of crepitus, pneumothorax, or pneumoperitoneum
+-   Balcony remodeling
+-   Capital repairs
+-   Rainy day emergency fund
 
-# Non-operative management
+# Analysis 1
 
--   NPO status
--   IV fluid resuscitation
--   Antibiotics (including antifungal)
--   Nutrition (enteral or parenteral)
+-   Congregation would benefit from a vision for an overall facilities plan
+-   Vision for the future engage congregation in giving
+-   Plan would communicate that the ministry is sustainable
+
+# Analysis 2
+
+-   Current ministry is wholly and completely dependent upon an inhabitable building
+
+# 
+
+![](snowchapel.jpg)
+
+# Proposal
+
+1.  Develop a Growth/Sustainability plan for Life Church 2
+
+2.  Plan should account for the vulnerability of an aging capital plant
+
+# Assumptions
+
+An inhabitable church building at 301 Elmhurst would be expensive (\$6M?)
+
+Funding sources for \$6M are limited:
+
+-   Congregational building campaign (requires increase in giving units)
+-   Generous and wealthy benefactor
+-   Joint venture with a developer to both maximize ROI and meet the needs of the congregation and maintain maintain church autonomy
+
+# Proposal
+
+Growth strategy based upon a muti-site church model:
+
+-   Lead teaching pastor (Ben Davey)
+-   Live worship team at each site
+-   Site pastor at each site
+-   Televised sermon
+
+# Advantages of Multi-Site Model
+
+-   Capitalizes on Ben's teaching gift
+-   Associate/Site pastors can grow by inclusion in teaching rotation
+-   Minimizes burden on site pastors for weekly sermon prep
+
+# Tactics
+
+Multi-site model would allow adapting the size and location of church sites to allow extrication from dependence upon an aging capital plant at 301 Elmhurst
+
+Opportunity for growth into less expensive venues further away from South Blvd
+
+Opportunities for growth within the region
