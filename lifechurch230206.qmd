@@ -5,8 +5,9 @@ subtitle: "6 February 2023"
 format: 
   revealjs:
     slide-number: c/t
-    width: 1600
-    height: 900
+  #  width: 1024
+  #  height: 720
+    bigger: true
     logo: "salologo.jpg"
   #  footer: "[Get started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/)"
     #css: ["theme/theme.css"]
