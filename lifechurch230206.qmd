@@ -1,0 +1,80 @@
+---
+title: "Life Church"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "salologo.jpg"
+  #  footer: "[Get started with Quarto](https://rstudio-conf-2022.github.io/get-started-quarto/)"
+    #css: ["theme/theme.css"]
+    theme: default
+      
+    echo: false
+editor: visual
+---
+
+# Life Church
+
+6 Feb 2023
+
+-   Ben Davey
+
+-   Dan Coggins
+
+-   Jonathan Salo
+
+# Strengths
+
+-   Gifted teacher in the pulpit
+
+-   Forthright preaching of the word
+
+-   Strategic position in SouthEnd for Gen-X\|Y\|Z
+
+-   Growing congregation
+
+# Diagnosis (Physical Findings)
+
+-   PE crepitus chest, neck, or face; neck swelling; epigastric tenderness; and nasal voice. Sometimes results are normal.
+
+# Diagnostic Tests
+
+CXR: Pleural effusion, pneumomediastinum, and subcutaneous
+
+CT Esophagram
+
+Upper GI with gastrograffin (?)
+
+# Treatment
+
+-Treatment of contamination -Wide local drainage -Source control -Enteral feeding access
+
+# Surgical Options
+
+-   High perforations (cerviaL)
+-   Mid-esohageal
+-   Lower esophagus
+
+# Surgical Principles
+
+-   Myotomy for exposure and debridement
+-   Primary repair
+    -   Small injuries
+    -   Two layers
+    -   Tissue flap (intercostal, pericardial flap, pleura, omentum)
+-   T tube for larger injuries
+-   Esophageal exclusion with cervical esophagostomy
+
+# Nonoperative Management
+
+-   Clinical stability, with minimal signs of sepsis or systemic inflammatory response on presentation. Patients must remain this way; they should have a reliable examination and constant monitoring for any changes in clinical status.
+-   Instrumental perforations in which patients have been nil per os (NPO; nothing by mouth) and in which the perforation is detected early or "tolerance" develops to the perforation without the need for surgery
+-   Perforation contained within the neck or mediastinum with no extravasation and no signs of crepitus, pneumothorax, or pneumoperitoneum
+
+# Non-operative management
+
+-   NPO status
+-   IV fluid resuscitation
+-   Antibiotics (including antifungal)
+-   Nutrition (enteral or parenteral)
