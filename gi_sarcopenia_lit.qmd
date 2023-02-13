@@ -62,6 +62,8 @@ Muscle radiodendity and mortality in patients with colorectal cancer Kroenke 300
 
 French investigators studied 51 patients with mCRC and found sarcopenia in 70% (39% of women and 82% of men). In multivariate analysis including age, sex, BMI, sarcopenia, SAT, and VAT, the only factor associated with Grade 3-4 toxicities was sarcopenia (odds ratio = 13.55; 95% confidence interval \[1.08; 169.31\], P = 0.043).{@barrett_Nutritionand Cancer v6 2014(4)}
 
+Trejo-Avila M, Bozada-Gutiérrez K, Valenzuela-Salazar C, Herrera-Esquivel J, Moreno-Portillo M. Sarcopenia predicts worse postoperative outcomes and decreased survival rates in patients with colorectal cancer: a systematic review and meta-analysis. Int J Colorectal Dis. 2021;36(6):1077--96. doi: 10.1007/s00384-021-03839-4
+
 Xaio fou
 
 ### Body composition and therapy of advanced GI Cancers
