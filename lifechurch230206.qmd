@@ -86,13 +86,11 @@ Impending icebergs: - HAVC - Roof
 
 # Assumptions
 
-New church building at 301 Elmhurst would be expensive (\$6M?)
+New church building at 301 Elmhurst would req $Mx several
 
-Funding sources for \$6M are limited:
-
--   Congregational building campaign (requires increase in giving units)
+-   Congregational building campaign (req increase in giving units)
 -   Generous and wealthy benefactor
--   Joint venture with a developer to both maximize ROI and meet the needs of the congregation and maintain church autonomy
+-   Joint venture with a developer to maximize ROI and maintain church autonomy
 -   Sale of 301 Elmhurst and purchase of cheaper property
 
 # Proposal
@@ -104,7 +102,7 @@ Growth strategy based upon a muti-site church model:
 -   Site pastor at each site
 -   Televised sermon
 
-# Advantages of Multi-Site Model
+# Advantages of Multi-Site
 
 -   Capitalizes on Ben's teaching gift
 -   Associate/Site pastors can grow by inclusion in teaching rotation
