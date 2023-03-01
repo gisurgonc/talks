@@ -8,17 +8,25 @@ bibliography: zotero.bib
 
 ## Surgical Patients
 
-Lieffers JR, Bathe OF, Fassbender K, Winget M, Baracos VE. Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6
+Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6[@lieffers931]]
 
 Muscle radiodendity and mortality in patients with colorectal cancer Kroenke 3008 pmid 29797673
 
-French investigators studied 51 patients with mCRC and found sarcopenia in 70% (39% of women and 82% of men). In multivariate analysis including age, sex, BMI, sarcopenia, SAT, and VAT, the only factor associated with Grade 3-4 toxicities was sarcopenia (odds ratio = 13.55; 95% confidence interval \[1.08; 169.31\], P = 0.043).{@barrett_Nutritionand Cancer v6 2014(4)}
+Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
+
+Caan [@caan1008] examined body composition and survival from colorecal cncer at Kaiser.
 
 Trejo-Avila M, Bozada-Gutiérrez K, Valenzuela-Salazar C, Herrera-Esquivel J, Moreno-Portillo M. Sarcopenia predicts worse postoperative outcomes and decreased survival rates in patients with colorectal cancer: a systematic review and meta-analysis. Int J Colorectal Dis. 2021;36(6):1077--96. doi: 10.1007/s00384-021-03839-4
 
-Xaio fou
+.Preoperative Assessment of Cancer in the Elderly (PACE): Audisio RA, Pope D, Ramesh HS, Gennari R, van Leeuwen BL, West C, et al. Shall we operate? Preoperative assessment in elderly cancer patients (PACE) can help. A SIOG surgical task force prospective study. Crit Rev Oncol Hematol. 2008;65:156--63
 
-### Body composition and therapy of advanced GI Cancers
+Heriot AG, Tekkis PP, Smith JJ, Cohen CR, Montgomery A, Audisio RA, et al. Prediction of postoperative mortality in elderly patients with colorectal cancer. Dis Colon Rectum. 2006;49:816--24
+
+Pope D, Ramesh H, Gennari R, Corsini G, Maffezzini M, Hoekstra HJ, et al. Pre-operative assessment of cancer in the elderly (PACE): a comprehensive assessment of underlying characteristics of elderly cancer patients prior to elective surgery. Surg Oncol. 2006;15:189--97
+
+### Sarcopenia and advanced CRC
+
+French investigators studied 51 patients with mCRC and found sarcopenia in 70% (39% of women and 82% of men). In multivariate analysis including age, sex, BMI, sarcopenia, SAT, and VAT, the only factor associated with Grade 3-4 toxicities was sarcopenia (odds ratio = 13.55; 95% confidence interval \[1.08; 169.31\], P = 0.043).{@barrett_Nutritionand Cancer v6 2014(4)}
 
 Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
 
@@ -27,8 +35,6 @@ Low muscle mass has been shown to be associated with poor prognosis cancer patie
 In addition, loss of muscle mass during chemotherapy for advanced cancers is a poor prognosticator.
 
 Blauhoff [@blauwhoff-buskermolen1339] studis 67 patients with metastatic colorectal cancer. Muscle area on CT decreased by 6.1% over 3 months. Patients in the lowest tertile (loss of 9%) had worse survial. Overall survival 17.5 months for first-line chemotherapy and 8.5months for second-line. Baseline muscle density was predictive of survival on multivariable analysis, but low SMI at baseline was not associatesd with survival. (This may be because sarcopenic obesity is the major risk factor, and there were few obese patients in the study cohort) \>Muscle loss of 9% or more remained independently associated with survival when adjusted for sex, age, baseline lactate dehydrogenase concentration, comorbidity, mono-organ or multiorgan metastases, treatment line, and tumor progression at first evaluation by computed tomography scan (hazard ratio, 4.47; 95% CI, 2.21 to 9.05; P , .001). We found a mean coefficient of variation between observers of 0.6% for skeletal muscle area in a random sample of 20 patients, which is regarded to be low.[@macdonald342]. Changes between the first and second scans were calculated as a rate of change per 3 months, meaning change per first evaluation, to compare with available literature.\[awad74\]\[prado1583\]Relative muscle change per 3 months was categorized into tertiles of muscle change: tertile one, highest muscle loss up to 9%; tertile two, muscle loss of 9% to 1.5%; and tertile three, muscle loss of 1.5% until highest gain in muscle. However, the survival curve of tertile two was not significantly different from the survival curve of tertile three (log-rank P = .961); therefore tertiles two and three were pooled (cutoff, 9% muscle loss).
-
-.
 
 Kurk [@kurk1033] found that skeletal muscle loss during chemotherapy was associated with decreased progression-free and overall- survival in metastatic colorectal cancer.
 
@@ -44,7 +50,7 @@ Prado [@prado1012] looked at changes in 1279 CT scans in 368 patients with advan
 
 Lieffers and advanced colorectal cancer: Found liver and spleen increased in size in terminal patients (causing increase in basal metabolic rate). Found more rapid muscle loss with progressive disease [@lieffers1173]. Different thresholds for VAT (-150 to -50) and SAT(-190 to -30). Also estimated muscel surface area using measurements 5cm above L4[@shen2333]. Most rapid change in body composition between 4 months and 1 month prior to death. \>14% of patients gained skeletal muscle during the year preceding death from colorectal cancer (+4.7 ± 5.4%/100 d).
 
-Caan [@caan1008] examined body composition and survival from colorecal cncer at Kaiser.
+## Sarcopenia and inflammatory bowel disease
 
 ### Inflammation in Colorectal Cancer
 
