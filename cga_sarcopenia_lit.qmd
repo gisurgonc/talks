@@ -1,0 +1,85 @@
+---
+title: "Comprehensive Geriatric Assessment"
+editor: visual
+bibliography: zotero.bib
+---
+
+# Comprehensive Geriatric Assessment
+
+CGA recommended by ASCO [@mohile2326] but screening is resource-intensive, as it is an in-person functional functional examination
+
+-   Instrumental ADLs
+
+-   Assessment of comorbidities
+
+-   Falls
+
+-   Depression - Geriatric Depression Scale, Mini-Cog, Blessed Oreientati-Memory-Concentration
+
+-   Nutrition-
+
+-   Measures of chemotherapy toxicity:
+
+    -   CRASH = Chemotherapy Risk Assessment Scale for High-Age Patients
+
+    -   CARG (Cancer and Aging Research Group)
+
+-   Mortality Estimates -
+
+    -   Geriatric-8
+
+    -   Vulnerable Elders Survey-13
+
+    -   Non-Cancer Mortality - ePrognosis (life expectancy \>4years)
+
+CGA - [@extermann1824]
+
+[@extermann241]
+
+Deficit-accumulation Frailty Index [@cohen3865] derived from CGA categorized 500 patients over age 65 undergoing chemotherapy as robust, pre-frail, and frail. Pre-frail and Frail patients were more likely to experience Grade 3 toxicity.
+
+Randomized trial of CGA intervention in colorectal cancer treatment in Sweden. [@normann948]. Trial will utilize CFS-9 score (Clinical Frailty Score-9). (In the US - median age of dx for colon cancer is 66 in men and 69 in women). Median age has shifted from median age of 72 in the early 2000s to 66 in 2020 ( Ries LAG, Eisner MP, Kosary CL, et al., eds. SEER Cancer Statistics Review, 1973-1999. Bethesda, MD: National Cancer Institute; 2002.)
+
+CGA appears to add information to performance status alone (L. Repetto, L. Fratino, R. A. Audisio et al., "Comprehensive geriatric assessment adds information to Eastern Cooperative Oncology Group performance status in elderly cancer patients: an Italian Group for Geriatric Oncology Study," *Journal of Clinical Oncology*, vol. 20, no. 2, pp. 494--502, 2002.)
+
+Carolina Frailty Index [@guerard894] applied to patients with cancer. More mortality at 5 years among frail and pre-frail patients.1-3
+
+CGA affects cancer treatment in 50% (M. T. E. Puts, J. Hardt, J. Monette, V. Girre, E. Springall, and S. M. H. Alibhai, "Use of geriatric assessment for older adults in the oncology setting: a systematic review," *Journal of the National Cancer Institute*, vol. 104, no. 15, pp. 1133--1163, 2012
+
+CARG - superior to KPS in predicting chemotherapy toxicity (A. Hurria, K. Togawa, S. G. Mohile et al., "Predicting chemotherapy toxicity in older adults with cancer: a prospective multicenter study," *Journal of Clinical Oncology*, vol. 29, no. 25, pp. 3457--3465, 2011.)
+
+CRASH (M. Extermann, I. Boler, R. R. Reich et al., "Predicting the risk of chemotherapy toxicity in older patients: the chemotherapy risk assessment scale for high-age patients (CRASH) score," *Cancer*, vol. 118, no. 13, pp. 3377--3386, 2012)
+
+Exercise behavior in METS (E. Ruden, D. A. Reardon, A. D. Coan et al., "Exercise behavior, functional capacity, and survival in adults with malignant recurrent glioma," *Journal of Clinical Oncology*, vol. 29, no. 21, pp. 2918--2923, 2011.) [@ruden2918] used Godin Leisure-Time Exercise Questionare
+
+Godin questionnaire: Godin G, Shephard RJ: A simple method to assess exercise behavior in the community. Can J Appl Sport Sci 10:141-146, 1985
+
+6MWT Gibbons WJ, Fruchter N, Sloan S, et al: Reference values for a multiple repetition 6-minute walk test in healthy adults older than 20 years. J Cardiopulm Rehabil 21:87-93, 2001
+
+## Geriatric-8 Screening
+
+Bellera CA, Rainfray M, Mathoulin‐Pelissier S, et al. Screening older cancer patients: first evaluation of the G‐8 geriatric screening tool. Ann Oncol. 2012;23:2166‐2172.
+
+Stokoe JM, Pearce J, Sinha R, Ring A. G8 and VES‐13 scores predict chemotherapy toxicity in older patients with cancer. J Geriatr Oncol. 2012;3(suppl 1):S81.
+
+# Physiometric Evaluation
+
+## Pulmonary function testing.
+
+Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy {Makiura, 2016, 2016}. Patients were designated as frail based upon hand-grip strength \<26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
+
+## Hand Grip Strength
+
+Kilgour 2013 p 1894 Veni 2018 and Boyas
+
+## 6 minute walk test
+
+Gait speed {Guralnik, 2000 #2252} ??DIsmybility as screening test for frailty Studenski 2061 Gait speed and mortality in older adults studenski 50
+
+## Stair-climbing
+
+Stair Climbing {Reddy, 2016 #2262}
+
+## Timed up and go
+
+?Part of Fried scale? Podsiadlo 142
