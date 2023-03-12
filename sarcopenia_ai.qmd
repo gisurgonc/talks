@@ -23,3 +23,15 @@ Bilic P, Christ PF, Vorontsov E, Chlebus G, Wu J. The liver tumor segmentation b
 [Google Scholar](http://scholar.google.com/scholar_lookup?author=N+Heller&author=N+Sathianathen&author=A+Kalapara&author=E+Walczak&author=K+Moore&author=H+Kaluzniak+&publication_year=2019&title=The+kits19+challenge+data%3A+300+kidney+tumor+cases+with+clinical+context,+ct+semantic+segmentations,+and+surgical+outcomes&journal=arXiv+e-prints)
 
 Liver segmentation using GAN [@he794969]
+
+### Voroni = ABACAS
+
+
+Chung H, Cobzas D, Birdsell L, Lieffers J, Baracos V. Automated segmentation of muscle and adipose tissue on CT images for human body composition analysis. in SPIE Medical Imaging. 2009. International Society for Optics and Photonics.[@chung]  
+
+\
+Popuri K, Cobzas D, Esfandiari N, Baracos V, Jagersand M. Body composition assessment in axial CT images using FEM-based automatic segmentation of skeletal muscle. IEEE Trans Med Imaging. 2016; 35:512--20. [@popuri512]
+
+### AutoMATiCA
+
+Paris Automated Muscle and Adipose Tissue Composition Analysis (AutoMATiCA) is a Python-based software that uses a neural network to automatically segment an L3-level axial CT image into the following discrete tissue types: skeletal muscle, intermuscular adipose tissue, visceral adipose tissue, and subcutaneous adipose tissue, calculating both cross sectional area and density via Hounsfield units. Scans can be systematically analyzed in under a minute, greatly increasing throughput and inter-rater reliability through reliance on a single algorithm. AutoMATiCA has been shown to correlate well with manually-assessed body composition quantifications; Automated body composition analysis of clinically acquired computed tomography scans using neural networks
