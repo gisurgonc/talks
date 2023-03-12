@@ -20,8 +20,6 @@ Visceral adipose tissue (VAT) can be measured in similar fashion to skeletal mus
 
 Published literature quotes an interobserver coefficient of variation of 1.5% {Prado, 2008 #1848}
 
-## Lenchik Papers
-
 IV Contrast Tube current - [@fuchs2455] Slice Thickness [@morsbach50] Contrasst challenges [@bae32] Muscle L4 contrast [@boutin1046] IV contrast and muscle size [@vanderwerf366] [@vanvugt1707] kV[@morsbach9]
 
 ICC 24/35/42 [@fuchs2455] [@vanderwerf366] [@barnard1686] [@perthen142]
@@ -58,4 +56,18 @@ Investigators at McMaster University examined 50 patients with pancreatic cancer
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy {Tamandl, 2016 #2006}. \[??relation to VAT\] \*\*\* This paper is Tamadl 1359 related to overall survival.
 
-# 
+## Skeletal Muscle Gauge
+
+SMG predicts overall survival from colorectal cancer better than SMI or SMD [@park8451] and oropharyngel cancer [@ganjuE420] and ovarian cancer [@huang110642] and endometrial cancer [@polen-de1289] and breast cancer [@weinberg278]. SMG is associated with risk of chemotherapy-related toxicity in breast cancer patients [@shachar658]
+
+Comprehensive Geriatric Assessment compared with body composition (SMI, SMD, SMG). No association between SMI and Timed Up and Go (TUG), but both SMD and SMG correlated with TUG.
+
+# Methods
+
+Skeletal Muscle Index - Correction for height dividing by height^1^ rather than height^2^ [@derstine279]
+
+Canada - Similar findings - SMA scales to the power of 1 for men and to the power of 0.8 for women [@brown203]
+
+Psoas Muscle
+
+Psoas muscle index less reliable than skeletal muscle index in looking at mortality during liver transplant weight list [@ebadi1053]
