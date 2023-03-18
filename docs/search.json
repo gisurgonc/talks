@@ -441,6 +441,13 @@
     "text": "Obesity\nCRC Patients: increasing BMI associated with increasing SMI AND with decreasing SMD (Xiao et al. 2019)"
   },
   {
+    "objectID": "statistics.html",
+    "href": "statistics.html",
+    "title": "Statistics",
+    "section": "",
+    "text": "R packages\nTherneau T. A package for survival analysis in R. R package version 3.3–1. 2022. https://CRAN.R-project.org/package=survival\nedersen TL. patchwork: the composer of plots. R package version 1.1.1. 2020. https://CRAN.R-project.org/package=patchwork. 2020.\nZhu H, Travison T, Tsai T, Beasley W, Xie Y, Yu G, et al. kableExtra: construct complex table with ‘kable’ and pipe syntax. R package 1.3.4. 2021. https://CRAN.R-project.org/package=kableExtra\nSjoberg DD, Whiting K, Curry M, Lavery JA, Larmarange J. Reproducible summary tables with the gtsummary package. R J 2021;13:570–580."
+  },
+  {
     "objectID": "todo.html",
     "href": "todo.html",
     "title": "To Do",

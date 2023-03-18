@@ -12,24 +12,11 @@ Sarcopenia is associated with postoperative infection and delayed recovery from 
 
 Muscle radiodendity and mortality in patients with colorectal cancer Kroenke 3008 pmid 29797673
 
-Margadant CC, Bruns ER, Sloothaak DA, van
-Duijvendijk P, van Raamt AF, van der Zaag HJ, Buskens CJ, van
-Munster BC and van der Zaag ES: Lower muscle density is associated
-with major postoperative complications in older patients after
-surgery for colorectal cancer. Eur J Surg Oncol. 42:1654--1659.
-2016. 373 patients over age 70: HU of psoas muslce. Patients in bottom quartile for density (HU) was associated with Clavien-Dindo \>=3 and anastomotic leak
+Margadant CC, Bruns ER, Sloothaak DA, van Duijvendijk P, van Raamt AF, van der Zaag HJ, Buskens CJ, van Munster BC and van der Zaag ES: Lower muscle density is associated with major postoperative complications in older patients after surgery for colorectal cancer. Eur J Surg Oncol. 42:1654--1659. 2016. 373 patients over age 70: HU of psoas muslce. Patients in bottom quartile for density (HU) was associated with Clavien-Dindo \>=3 and anastomotic leak
 
-Boer BC, de Graaff F, Brusse-Keizer M,
-Bouman DE, Slump CH, Slee-Valentijn M and Klaase JM: Skeletal
-muscle mass and quality as risk factors for postoperative outcome
-after open colon resection for cancer. Int J Colorectal Dis.
-31:1117--1124. 2016. [View Article](http://dx.doi.org/10.1007/s00384-016-2538-1) : [Google Scholar](http://scholar.google.com/scholar_lookup?title=Skeletal%20muscle%20mass%20and%20quality%20as%20risk%20factors%20for%20postoperative%20outcome%20after%20open%20colon%20resection%20for%20cancer) : [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26876070)
+Boer BC, de Graaff F, Brusse-Keizer M, Bouman DE, Slump CH, Slee-Valentijn M and Klaase JM: Skeletal muscle mass and quality as risk factors for postoperative outcome after open colon resection for cancer. Int J Colorectal Dis. 31:1117--1124. 2016. [View Article](http://dx.doi.org/10.1007/s00384-016-2538-1) : [Google Scholar](http://scholar.google.com/scholar_lookup?title=Skeletal%20muscle%20mass%20and%20quality%20as%20risk%20factors%20for%20postoperative%20outcome%20after%20open%20colon%20resection%20for%20cancer) : [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26876070)
 
-Malietzis G, Currie AC, Athanasiou T,
-Johns N, Anyamene N, Glynne-Jones R, Kennedy RH, Fearon KC and
-Jenkins JT: Influence of body composition profile on outcomes
-following colorectal cancer surgery. Br J Surg. 103:572--580. 2016.
-[View Article](http://dx.doi.org/10.1002/bjs.10075) : [Google Scholar](http://scholar.google.com/scholar_lookup?title=Influence%20of%20body%20composition%20profile%20on%20outcomes%20following%20colorectal%20cancer%20surgery) : [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26994716)
+Malietzis G, Currie AC, Athanasiou T, Johns N, Anyamene N, Glynne-Jones R, Kennedy RH, Fearon KC and Jenkins JT: Influence of body composition profile on outcomes following colorectal cancer surgery. Br J Surg. 103:572--580. 2016. [View Article](http://dx.doi.org/10.1002/bjs.10075) : [Google Scholar](http://scholar.google.com/scholar_lookup?title=Influence%20of%20body%20composition%20profile%20on%20outcomes%20following%20colorectal%20cancer%20surgery) : [PubMed/NCBI](http://www.ncbi.nlm.nih.gov/pubmed/26994716)
 
 Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
 
