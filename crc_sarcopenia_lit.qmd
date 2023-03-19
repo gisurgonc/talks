@@ -8,13 +8,26 @@ bibliography: zotero.bib
 
 ## Surgical Patients
 
-Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6[@lieffers931]]
+Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6[@lieffers931]\]
 
-Muscle radiodendity and mortality in patients with colorectal cancer Kroenke 3008 pmid 29797673
+142 colectomy patients, of whom 17 had sarcopenia showed sarcopenia predicted complications after colectomy[@huangO256]. However, addition of grip strength and low gait speed added to ability to predict postoperative complications.
+
+Psoas muscle area associated with postop complications after colectomy [@jonesO20]
+
+124 laparoscopic colectomies. No difference in LOS, complications, or functional recovery (time to first flatus, oral diet tolerance and mobilization) depending upon sarcopenia.[@pedziwiatr779]
+
+60 patients who underwent laparoscopic colorectal resection for primary colorectal cancer  sarcopenia group (normalized total psoas muscle area in males, <538 mm/m(2); in females, <346 mm/m(2); n = 20) and nonsarcopenia group (n = 40). No significant differences in the overall rate of postoperative complications (20% vs. 20%) or major postoperative complications of Clavien-Dindo Grade III or more (5% vs. 5%) were observed [@ouchi366]
+
+
+Muscle radiodensity and mortality in patients with colorectal cancer Kroenke 3008 pmid 29797673
+
+## Colorectal Cancer
 
 Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
 
-Caan [@caan1008] examined body composition and survival from colorecal cncer at Kaiser.
+Kaiser 3262 patients with stage I-III colorectal cancer of whom 42% were sarcopenic. [@caan1008] examined body composition and survival from colorecal cncer at Kaiser. Worst survival with low muscle mass and high adiposity. Slightly worse survival with elevated VAT but no worse survival with increases SAT. Different relationships between TAT and survival by sex.
+
+> The existence of nonlinear relationships between sarcopenia and body composition measures and overall mortality were assessed by the addition of restricted cubic splines and use of the likelihood ratio test that compared models with the linear terms only with those with both linear and cubic spline terms. Effect modification was assessed using cross-product terms for body composition measures and the following covariates: sex, age at diagnosis (\<60, 60--\<70, and 70 years), BMI category (18.5\<25, 25--\<30, and 30 kg/m2), weight change prior to diagnosis (stable, 5% loss, 5% gain), cancer stage (I, II/III), tumor site (rectal vs. colon), and chemotherapy (any vs. none).
 
 Trejo-Avila M, Bozada-Gutiérrez K, Valenzuela-Salazar C, Herrera-Esquivel J, Moreno-Portillo M. Sarcopenia predicts worse postoperative outcomes and decreased survival rates in patients with colorectal cancer: a systematic review and meta-analysis. Int J Colorectal Dis. 2021;36(6):1077--96. doi: 10.1007/s00384-021-03839-4
 
