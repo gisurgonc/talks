@@ -1,0 +1,13 @@
+---
+title: "Colectomy Length of Stay"
+editor: visual
+bibliography: zotero.bib
+---
+
+# Length of Stay analyisis
+
+Michigan [@krell815]
+
+Surgeon > Hospital factors in LOS [@bayatzrac110]
+
+[H-CUP report](https://hcup-us.ahrq.gov/reports/methods/2007_01.pdf) on hierarchical models

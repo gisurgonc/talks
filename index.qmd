@@ -28,6 +28,8 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Sarcopenia and Chemotherapy](chemo_sarcopenia_lit.html)
 
+[Chemotherapy Toxicity](chemotox.html)
+
 [CT methods for Sarcopenia](sarcopenia_lit.html)
 
 [Machine Learning for CT segmentation](sarcopenia_ai.html)
@@ -38,10 +40,24 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Cachexia](cachexia_lit.html)
 
+# Colectomy
+
+[Colectomy Length of Stay](colectomy_los.html)
+
 # Geriatric Surgery
 
 [Literature Review](geriatric_surgery_lit.html)
 
+# Disparities
+
+[GI Disparities](gi_disparities.html)
+
+[Disparities](disparities.html)
+
 # Blood Management Program
 
 [Literature Review](blood_management_talk.html)
+
+# Statistics
+
+[statistics](statistics.html)
