@@ -60,6 +60,14 @@ Investigators at McMaster University examined 50 patients with pancreatic cancer
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy {Tamandl, 2016 #2006}. \[??relation to VAT\] \*\*\* This paper is Tamadl 1359 related to overall survival.
 
+Visceral obesity and colorectal cancer [@dong827481]
+
+Visceral obesity increases operative time and infections after colectomy [@yang507]
+
+Visceral obesity and colorectal outcomes [@bachmann477]
+
+Visceral obesity and risk of ileus after colectomy [@morimoto657]
+
 ## Skeletal Muscle Gauge
 
 SMG predicts overall survival from colorectal cancer better than SMI or SMD [@park8451] and oropharyngel cancer [@ganjuE420] and ovarian cancer [@huang110642] and endometrial cancer [@polen-de1289] and breast cancer [@weinberg278]. SMG is associated with risk of chemotherapy-related toxicity in breast cancer patients [@shachar658]
@@ -74,13 +82,13 @@ Porter MM, Vandervoort AA, Lexell J. Aging of human muscle: structure, function 
 
 Strength and muscle mass loss with aging process. Age and strength loss. Muscles Ligaments Tendons J 2013;3:346--50.
 
-Ali S, Garcia JM. Sarcopenia, cachexia and aging: diagnosis, mechanisms and therapeutic options - a mini-review. Gerontology 2014;60:294–305.
+Ali S, Garcia JM. Sarcopenia, cachexia and aging: diagnosis, mechanisms and therapeutic options - a mini-review. Gerontology 2014;60:294--305.
 
-Patients over age 80 are most rapidly growing group: Simmonds PD, Best L, Geroge S and Williams C: Colorectal cancer collaborative group: Surgery for colorectal cancer in elderly patients: A systematic review. colorectal cancer collaborative group. Lancet. 356:968–974. 2000. View Article : Google Scholar : PubMed/NCBI
+Patients over age 80 are most rapidly growing group: Simmonds PD, Best L, Geroge S and Williams C: Colorectal cancer collaborative group: Surgery for colorectal cancer in elderly patients: A systematic review. colorectal cancer collaborative group. Lancet. 356:968--974. 2000. View Article : Google Scholar : PubMed/NCBI
 
 ## Obesity
 
-CRC Patients:  increasing BMI associated with increasing SMI AND with decreasing SMD [@xiao615]
+CRC Patients: increasing BMI associated with increasing SMI AND with decreasing SMD [@xiao615]
 
 # Methods
 

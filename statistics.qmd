@@ -6,14 +6,14 @@ bibliography: zotero.bib
 
 # R packages
 
-
-Therneau T. A package for survival analysis in R. R package version 3.3–1. 2022. https://CRAN.R-project.org/package=survival
-
+Therneau T. A package for survival analysis in R. R package version 3.3--1. 2022. https://CRAN.R-project.org/package=survival
 
 edersen TL. patchwork: the composer of plots. R package version 1.1.1. 2020. https://CRAN.R-project.org/package=patchwork. 2020.
 
+Zhu H, Travison T, Tsai T, Beasley W, Xie Y, Yu G, et al. kableExtra: construct complex table with 'kable' and pipe syntax. R package 1.3.4. 2021. https://CRAN.R-project.org/package=kableExtra
 
-Zhu H, Travison T, Tsai T, Beasley W, Xie Y, Yu G, et al. kableExtra: construct complex table with ‘kable’ and pipe syntax. R package 1.3.4. 2021. https://CRAN.R-project.org/package=kableExtra
+Sjoberg DD, Whiting K, Curry M, Lavery JA, Larmarange J. Reproducible summary tables with the gtsummary package. R J 2021;13:570--580.
 
+# Length of Stay
 
-Sjoberg DD, Whiting K, Curry M, Lavery JA, Larmarange J. Reproducible summary tables with the gtsummary package. R J 2021;13:570–580. 
+Because length of stay has a naturally skewed distribution, we used GLM with a negative binomial distribution appropriate for skewed distribution. Austin P

@@ -38,12 +38,11 @@ Transfusion Thresholds Review [@carsonCD002042]
 
 Iron replacement in Cancer Patients [@bustiE94]
 
->This latter point is illustrated well by a recent study by Bergamin [@bergamin766] The authors randomized 300 adult patients with cancer and septic shock at ICU admission to a liberal (n=149) or a restrictive transfusion strategy (n=151), using the now usual thresholds of 9 *vs.* 7 g/dL, respectively. Patients in the liberal group received a median of 1 \[0--3\] red blood cell (RBC) unit and the restrictive group a median of 0
-\[0--2\] units. The patients were very ill, with a mean Simplified Acute Physiology Score (SAPS) II of about 57, a sequential organ failure assessment (SOFA) score of around 7 and an overall mortality rate close to 50%. The 28-day mortality rate in the liberal group was 45% (67 patients) *vs.* 56% (84 patients) in the restrictive group. At 90 days after randomization, the mortality rate was lower in the liberal than in the restrictive group (59% *vs.* 70%, P=0.03).
+> This latter point is illustrated well by a recent study by Bergamin [@bergamin766] The authors randomized 300 adult patients with cancer and septic shock at ICU admission to a liberal (n=149) or a restrictive transfusion strategy (n=151), using the now usual thresholds of 9 *vs.* 7 g/dL, respectively. Patients in the liberal group received a median of 1 \[0--3\] red blood cell (RBC) unit and the restrictive group a median of 0 \[0--2\] units. The patients were very ill, with a mean Simplified Acute Physiology Score (SAPS) II of about 57, a sequential organ failure assessment (SOFA) score of around 7 and an overall mortality rate close to 50%. The 28-day mortality rate in the liberal group was 45% (67 patients) *vs.* 56% (84 patients) in the restrictive group. At 90 days after randomization, the mortality rate was lower in the liberal than in the restrictive group (59% *vs.* 70%, P=0.03).
 
 Review of 6 trials of restrictive transfusion in oncology (3 surgical and 3 oncol) [@prescott1]
 
-NCCN Guidelines recommend IV iron for absolute iron deficiency (ferrition <30ng/mL and transferrin saturation <20%) and for patients receiving EPO with ferritin between 30 and 800ng/mL and 
+NCCN Guidelines recommend IV iron for absolute iron deficiency (ferrition \<30ng/mL and transferrin saturation \<20%) and for patients receiving EPO with ferritin between 30 and 800ng/mL and
 
 ### Preoperative Iron Infusion
 
@@ -91,7 +90,7 @@ Functional iron deficiency can occur in cancer patients due to chronic inflammat
 
 In cancer patients, IL-6 reduces availability of iron.
 
-In cancer patients, functional iron deficiency (ferritin >30ng/mL and transferrin saturation <20%). Among GI cancer patients, half will be iron deficient as defined by transferrin saturation <20%, but 80% of them will have ferritin >30ng/mL [@ludwig1886]
+In cancer patients, functional iron deficiency (ferritin \>30ng/mL and transferrin saturation \<20%). Among GI cancer patients, half will be iron deficient as defined by transferrin saturation \<20%, but 80% of them will have ferritin \>30ng/mL [@ludwig1886]
 
 Cancer patients with anemia are best treated with a combination of iron infusion and EPO as opposed to EPO alone[@auerbach1301] [@bastit1611]. Treatment with IV iron in addition to erythrocyte-stimulating agents (ESAs) results in cost savings, due primarily to lower requirement for ESAs[@luporsi225]
 
