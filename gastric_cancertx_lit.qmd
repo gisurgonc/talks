@@ -1,0 +1,28 @@
+---
+title: "Gastric Cancer Treatment Decisions"
+editor: visual
+bibliography: zotero.bib
+---
+
+# Chemo vs ChemoRT preop
+
+Immunotherapy for MSI-Hi gastric cancer [@raimondi2839]
+
+| Study         | Rx                                                       |
+|---------------|----------------------------------------------------------|
+| Keynote 059   | Pembro for advanced previous Rx gastric                  |
+| Keynote 061   | Advanced GC progressed Pembro vs Taxol                   |
+| Keynote 062   | Advanced previous rx HER2neg Pembro vs chemo             |
+| Kenote 016    | dMMR CRC and pMMR Pembro. 0% response in pMMR            |
+| Checkmate 649 | Advanced GC/GEJ: Nivo + chemo. Response in 55% of MSI-Hi |
+|               |                                                          |
+
+# ctDNA
+
+ctDNA from CRITICS trial: Leal Nature Communications2020 Jan 27 11(1)
+
+ctDNA in locally advanced gastric cancer Wo JY, Clin Cancer Res 2021 27(23)
+
+baseline ctDNA mutational load correlates with response to Pembro KIM ST Nat Med 2018 Sep 24(9)
+
+GALAXY trial: Only ctDNA positive patients benefit from adjuvant chemo

@@ -8,8 +8,7 @@ bibliography: zotero.bib
 
 ## Surgical Patients
 
-2100 patients with LOS for 1139.predictors of LOS:  age, surgical approach, major complications (incidence rate ratio [IRR] 2.42; 95% confidence interval [CI] 2.18–2.68), study cohort, and three body composition profiles characterized by myosteatosis combined with either sarcopenia (IRR, 1.27; 95% CI 1.12–1.43) or VO (IRR, 1.25; 95% CI 1.10–1.42), and myosteatosis combined with both sarcopenia and VO (IRR, 1.58; 95% CI 1.29–1.93). risk of readmission was associated with VO alone (odds ratio [OR] 2.66; 95% CI 1.18–6.00); P = 0.018), VO combined with myosteatosis (OR, 2.72; 95% CI 1.36–5.46; P = 0.005), or VO combined with myosteatosis and sarcopenia (OR, 2.98; 95% CI 1.06–5.46; P = 0.038). Importantly, the effect of body composition profiles on LOS and readmission was independent of major complications” 
-[@martin2669]
+2100 patients with LOS for 1139.predictors of LOS: age, surgical approach, major complications (incidence rate ratio \[IRR\] 2.42; 95% confidence interval \[CI\] 2.18--2.68), study cohort, and three body composition profiles characterized by myosteatosis combined with either sarcopenia (IRR, 1.27; 95% CI 1.12--1.43) or VO (IRR, 1.25; 95% CI 1.10--1.42), and myosteatosis combined with both sarcopenia and VO (IRR, 1.58; 95% CI 1.29--1.93). risk of readmission was associated with VO alone (odds ratio \[OR\] 2.66; 95% CI 1.18--6.00); P = 0.018), VO combined with myosteatosis (OR, 2.72; 95% CI 1.36--5.46; P = 0.005), or VO combined with myosteatosis and sarcopenia (OR, 2.98; 95% CI 1.06--5.46; P = 0.038). Importantly, the effect of body composition profiles on LOS and readmission was independent of major complications" [@martin2669]
 
 Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6[@lieffers931]
 
@@ -19,18 +18,17 @@ Psoas muscle area associated with postop complications after colectomy [@jonesO2
 
 124 laparoscopic colectomies. No difference in LOS, complications, or functional recovery (time to first flatus, oral diet tolerance and mobilization) depending upon sarcopenia.[@pedziwiatr779]
 
-60 patients who underwent laparoscopic colorectal resection for primary colorectal cancer  sarcopenia group (normalized total psoas muscle area in males, <538 mm/m(2); in females, <346 mm/m(2); n = 20) and nonsarcopenia group (n = 40). No significant differences in the overall rate of postoperative complications (20% vs. 20%) or major postoperative complications of Clavien-Dindo Grade III or more (5% vs. 5%) were observed [@ouchi366]
-
+60 patients who underwent laparoscopic colorectal resection for primary colorectal cancer sarcopenia group (normalized total psoas muscle area in males, \<538 mm/m(2); in females, \<346 mm/m(2); n = 20) and nonsarcopenia group (n = 40). No significant differences in the overall rate of postoperative complications (20% vs. 20%) or major postoperative complications of Clavien-Dindo Grade III or more (5% vs. 5%) were observed [@ouchi366]
 
 Muscle radiodensity and mortality in patients with colorectal cancer Kroenke 3008 pmid 29797673
 
 ## Colectomy for colorectal cancer
 
-Impact of sarcopenia on surgical and oncologic outcomes of laparoscopic surgery for colorectal cancer. Sarcopenia associated with readmission after colectomy for colorectal cancer  209 patients who underwent laparoscopic surgery for colorectal cancer. sarcopenia was 41.1%. Sarcopenic patients experienced shorter operative times and a lower incidence of surgical site infections; however, the incidence of severe postoperative complications and readmission were increased for this group. Although the 3-year disease-free survival rate was not statistically different between groups, sarcopenic patients had a significantly worse 3-year overall survival rate compared with than the non-sarcopenic group.[@takenami2686]
+Impact of sarcopenia on surgical and oncologic outcomes of laparoscopic surgery for colorectal cancer. Sarcopenia associated with readmission after colectomy for colorectal cancer 209 patients who underwent laparoscopic surgery for colorectal cancer. sarcopenia was 41.1%. Sarcopenic patients experienced shorter operative times and a lower incidence of surgical site infections; however, the incidence of severe postoperative complications and readmission were increased for this group. Although the 3-year disease-free survival rate was not statistically different between groups, sarcopenic patients had a significantly worse 3-year overall survival rate compared with than the non-sarcopenic group.[@takenami2686]
 
 ## Colorectal Cancer
 
-Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
+Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf [@martin1539] [@prado639]
 
 Kaiser 3262 patients with stage I-III colorectal cancer of whom 42% were sarcopenic. [@caan1008] examined body composition and survival from colorecal cncer at Kaiser. Worst survival with low muscle mass and high adiposity. Slightly worse survival with elevated VAT but no worse survival with increases SAT. Different relationships between TAT and survival by sex.
 
@@ -46,9 +44,9 @@ Pope D, Ramesh H, Gennari R, Corsini G, Maffezzini M, Hoekstra HJ, et al. Pre-op
 
 ### Sarcopenia and advanced CRC
 
-French investigators studied 51 patients with mCRC and found sarcopenia in 70% (39% of women and 82% of men). In multivariate analysis including age, sex, BMI, sarcopenia, SAT, and VAT, the only factor associated with Grade 3-4 toxicities was sarcopenia (odds ratio = 13.55; 95% confidence interval \[1.08; 169.31\], P = 0.043).{@barrett_Nutritionand Cancer v6 2014(4)}
+French investigators studied 51 patients with mCRC and found sarcopenia in 70% (39% of women and 82% of men). In multivariate analysis including age, sex, BMI, sarcopenia, SAT, and VAT, the only factor associated with Grade 3-4 toxicities was sarcopenia (odds ratio = 13.55; 95% confidence interval \[1.08; 169.31\], P = 0.043).[@barrett583]
 
-Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf {@martin1539;@prado639})
+Data from Kaiser [@xiao615] examined 3263 patients with non-metastatic colorectal cancer. Black patients had higher lower rates of sarcopenia according to the definition of Prado et al. Patients with higher neutrophil-lymphocyte ratio had higher risk of muscle abnormality. CT scan at L3 was analyed to determine SMI,IMAT,VAT,SAT and TAT (=VAT+SAT+IMAT) using SliceOMatic. Threshold values determined for optimal stratification (cf [@martin1539; @prado639]
 
 Low muscle mass has been shown to be associated with poor prognosis cancer patients.[@martin1539] This may be due to overal frailty or low muscle mass may lead to increased toxicity from chemotherapy due to pharmacokinetic mechanism. 5-FU is hydrophilic and it volume of distribution includes the muscle compartment, while oxaliplatin is hydrophobic, with distribution in the fat compartment[@bozzetti2107].
 
@@ -74,4 +72,4 @@ Lieffers and advanced colorectal cancer: Found liver and spleen increased in siz
 
 ### Inflammation in Colorectal Cancer
 
-{@feliciano e172319} PMID 28796857PMID 24122750PMID 24866483
+[@felicianoe172319] PMID 28796857PMID 24122750PMID 24866483

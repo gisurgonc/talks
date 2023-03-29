@@ -16,6 +16,10 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Surgical Decision Making](es_cancertx.html)
 
+# Gastric
+
+[Gastric Decision-making](gastric_cancertx_lit.html)
+
 # Sarcopenia
 
 [Esophageal Cancer and Sarcopenia](eso_sarcopenia_lit.html)
