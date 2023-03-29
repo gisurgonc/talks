@@ -125,3 +125,7 @@ FFCD 9012 [@bedenne1160] German Trial [@stahl2310]
 [@vellayappanCD010511] Addition of surgery to dCRT adds little or benefit for patients with squamous cell carcinoma. Authors could not determine whether there was benefit of the addition of surgery for adenocarcinoma and GE junction cancers.
 
 [@voeten1271] No clear advantage of trimodality therapy over dCRT
+
+# Regionalization
+
+Regionalization of complex cancer surgery care. Better outcomes with regionalization of esophagectomy care within a network [@sheetz3234]

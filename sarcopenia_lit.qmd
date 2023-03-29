@@ -52,11 +52,13 @@ Miljkovic I, Zmuda JM. Epidemiology of myosteatosis. Curr Opin Clin Nutr Metab C
 
 the Charlson Comorbidity Score was associated with low SMD, echoing our previous report in this cohort that 6 (out of 11) Charlson comorbidities were associated with a higher likelihood of low SMD at diagnosis, whereas most of them were not associated with sarcopenia Xiao J, Caan BJ, Weltzien E, Cespedes Feliciano EM, Kroenke CH, Meyerhardt JA, Baracos VE, Kwan ML, Castillo AL, Prado CM. Associations of pre-existing co-morbidities with skeletal muscle mass and radiodensity in patients with non-metastatic colorectal cancer. J Cachexia Sarcopenia Muscle 2018;9:654--63.
 
+LAMA/NAMA ratio proposed as better judge of myosteasosis than density [@kim402]
+
 # Visceral Adipose Tissue (VAT)
 
-Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic cancer, an elevated ratio of visceral adipose tissue to skeletal muscle as associated with postoperative complications.{sandini 1231}
+Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic cancer, an elevated ratio of visceral adipose tissue to skeletal muscle as associated with postoperative complications.[@sandini1231]
 
-Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al {Birdsell,6973}.
+Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al {Birdsell,6973}.[@birdsell6973]
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy {Tamandl, 2016 #2006}. \[??relation to VAT\] \*\*\* This paper is Tamadl 1359 related to overall survival.
 
@@ -78,13 +80,13 @@ Comprehensive Geriatric Assessment compared with body composition (SMI, SMD, SMG
 
 Borkan GA, Hults DE, Gerzof SG, Robbins AH, Silbert CK. Age changes in body composition revealed by computed tomography. J Gerontol 1983;38:673--7 [@borkan673]
 
-Porter MM, Vandervoort AA, Lexell J. Aging of human muscle: structure, function and adaptability. Scand J Med Sci Sports 1995;5:129--42. 24. Keller K, Engelhardt M.
+Porter MM, Vandervoort AA, Lexell J. Aging of human muscle: structure, function and adaptability. Scand J Med Sci Sports 1995;5:129--42. 24. Keller K, Engelhardt M.[@porter129]
 
 Strength and muscle mass loss with aging process. Age and strength loss. Muscles Ligaments Tendons J 2013;3:346--50.
 
 Ali S, Garcia JM. Sarcopenia, cachexia and aging: diagnosis, mechanisms and therapeutic options - a mini-review. Gerontology 2014;60:294--305.
 
-Patients over age 80 are most rapidly growing group: Simmonds PD, Best L, Geroge S and Williams C: Colorectal cancer collaborative group: Surgery for colorectal cancer in elderly patients: A systematic review. colorectal cancer collaborative group. Lancet. 356:968--974. 2000. View Article : Google Scholar : PubMed/NCBI
+Patients over age 80 are most rapidly growing group: Simmonds PD, Best L, Geroge S and Williams C:
 
 ## Obesity
 

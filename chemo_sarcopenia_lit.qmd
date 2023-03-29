@@ -138,7 +138,7 @@ NSCLC meta-analysis of ECOG 2: [@tomasik97] Patients with impaired PS are twice 
 
 France [@facchinetti155] 153 patients ECOG 2. Patients who were ECOG 2 due to comorbidities (n=41) had much better prognosis (median survival 11.8 vs 2.8 months) than those ECOG 2 due to disease burden(n=112)
 
-Checkpoint inhibitor dose in the last 30 days of life associated with poor PS and dying in hospital [@glish179]
+Checkpoint inhibitor dose in the last 30 days of life associated with poor PS and dying in hospital [@bloome849]
 
 Risk-adjusting Toxicity of chemotherapy
 
