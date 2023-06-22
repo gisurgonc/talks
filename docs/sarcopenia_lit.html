@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,14 +17,15 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
 }
-.hanging div.csl-entry {
+.hanging-indent div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -38,8 +39,7 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}
-</style>
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -93,19 +93,21 @@ div.csl-indent {
     <span class="navbar-title">talks</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="dropdown-header">
  <span class="menu-text">about.qmd</span></li>
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -120,9 +122,9 @@ div.csl-indent {
    
   <ul>
   <li><a href="#ct-measurement-of-body-composition" id="toc-ct-measurement-of-body-composition" class="nav-link active" data-scroll-target="#ct-measurement-of-body-composition">CT measurement of body composition</a></li>
-  <li><a href="#myosteasosis" id="toc-myosteasosis" class="nav-link" data-scroll-target="#myosteasosis">Myosteasosis</a></li>
   <li><a href="#visceral-adipose-tissue-vat" id="toc-visceral-adipose-tissue-vat" class="nav-link" data-scroll-target="#visceral-adipose-tissue-vat">Visceral Adipose Tissue (VAT)</a>
   <ul class="collapse">
+  <li><a href="#visceral-to-subcutaneous-ratio" id="toc-visceral-to-subcutaneous-ratio" class="nav-link" data-scroll-target="#visceral-to-subcutaneous-ratio">Visceral to Subcutaneous Ratio</a></li>
   <li><a href="#skeletal-muscle-gauge" id="toc-skeletal-muscle-gauge" class="nav-link" data-scroll-target="#skeletal-muscle-gauge">Skeletal Muscle Gauge</a></li>
   <li><a href="#aging-and-sarcopenia" id="toc-aging-and-sarcopenia" class="nav-link" data-scroll-target="#aging-and-sarcopenia">Aging and Sarcopenia</a></li>
   <li><a href="#obesity" id="toc-obesity" class="nav-link" data-scroll-target="#obesity">Obesity</a></li>
@@ -168,17 +170,6 @@ div.csl-indent {
 <p><span class="citation" data-cites="kullberg10425">(<a href="#ref-kullberg10425" role="doc-biblioref">Kullberg et al. 2017</a>)</span></p>
 <p>Sarcopenia methods - varies 19/92 <span class="citation" data-cites="amini1671">(<a href="#ref-amini1671" role="doc-biblioref">Amini et al. 2019</a>)</span> Review of challenges in methods inconsistency <span class="citation" data-cites="hopkins1381">(<a href="#ref-hopkins1381" role="doc-biblioref">Hopkins et al. 2018</a>)</span></p>
 </section>
-<section id="myosteasosis" class="level1">
-<h1>Myosteasosis</h1>
-<p>Meta-analysis of 40 studies: overall prevalence of 48% among cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)<span class="citation" data-cites="alexio102839">(<a href="#ref-alexio102839" role="doc-biblioref"><strong>alexio102839?</strong></a>)</span></p>
-<p>GI cancers meta-analysis: <span class="citation" data-cites="wang25">(<a href="#ref-wang25" role="doc-biblioref">Wang et al. 2021</a>)</span> Prevalence of myosteatosis 46% HR 1.44. Worse prognosis for GE, pancreatic and colorectal</p>
-<p>Lung cancer meta-analysis of 9 studies with 16667 patients: <span class="citation" data-cites="feng1127">(<a href="#ref-feng1127" role="doc-biblioref"><strong>feng1127?</strong></a>)</span>. HR 1.10</p>
-<p>myosteatosis adds value <span class="citation" data-cites="martin227">(<a href="#ref-martin227" role="doc-biblioref">Martin et al. 2020</a>)</span></p>
-<p>Myosteatosis is defined as the infiltration of adipose tissue into skeletal muscle <span class="citation" data-cites="daly135">(<a href="#ref-daly135" role="doc-biblioref">Daly, Prado, and Ryan 2018</a>)</span></p>
-<p>Goodpaster BH, Kelley DE, Thaete FL, He J, Ross R. Skeletal muscle attenuation determined by computed tomography is associated with skeletal muscle lipid content. J Appl Physiol (Bethesda, Md : 1985). 2000; 89(1):104–10</p>
-<p>Miljkovic I, Zmuda JM. Epidemiology of myosteatosis. Curr Opin Clin Nutr Metab Care 2010;13:260–4. 12. Aubrey J, Esfandiari N, Baracos VE, Buteau FA, Frenette J, Putman CT, Mazurak VC. Measurement of skeletal muscle radiation attenuation and basis of its biological variation. Acta Physiol (Oxf) 2014;210:489–97.</p>
-<p>the Charlson Comorbidity Score was associated with low SMD, echoing our previous report in this cohort that 6 (out of 11) Charlson comorbidities were associated with a higher likelihood of low SMD at diagnosis, whereas most of them were not associated with sarcopenia Xiao J, Caan BJ, Weltzien E, Cespedes Feliciano EM, Kroenke CH, Meyerhardt JA, Baracos VE, Kwan ML, Castillo AL, Prado CM. Associations of pre-existing co-morbidities with skeletal muscle mass and radiodensity in patients with non-metastatic colorectal cancer. J Cachexia Sarcopenia Muscle 2018;9:654–63.</p>
-</section>
 <section id="visceral-adipose-tissue-vat" class="level1">
 <h1>Visceral Adipose Tissue (VAT)</h1>
 <p>Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic cancer, an elevated ratio of visceral adipose tissue to skeletal muscle as associated with postoperative complications.<span class="citation" data-cites="sandini1231">(<a href="#ref-sandini1231" role="doc-biblioref"><strong>sandini1231?</strong></a>)</span></p>
@@ -188,9 +179,14 @@ div.csl-indent {
 <p>Visceral obesity increases operative time and infections after colectomy <span class="citation" data-cites="yang507">(<a href="#ref-yang507" role="doc-biblioref">Yang et al. 2015</a>)</span></p>
 <p>Visceral obesity and colorectal outcomes <span class="citation" data-cites="bachmann477">(<a href="#ref-bachmann477" role="doc-biblioref">Bachmann et al. 2018</a>)</span></p>
 <p>Visceral obesity and risk of ileus after colectomy <span class="citation" data-cites="morimoto657">(<a href="#ref-morimoto657" role="doc-biblioref"><strong>morimoto657?</strong></a>)</span></p>
+<p>Holt - Visceral adoposity <span class="citation" data-cites="holt1255">(<a href="#ref-holt1255" role="doc-biblioref"><strong>holt1255?</strong></a>)</span></p>
+<section id="visceral-to-subcutaneous-ratio" class="level2">
+<h2 class="anchored" data-anchor-id="visceral-to-subcutaneous-ratio">Visceral to Subcutaneous Ratio</h2>
+<p>Visceral to SQ ratio in IBD: <span class="citation" data-cites="erhayiem684">(<a href="#ref-erhayiem684" role="doc-biblioref">Erhayiem et al. 2011</a>)</span>s</p>
+</section>
 <section id="skeletal-muscle-gauge" class="level2">
 <h2 class="anchored" data-anchor-id="skeletal-muscle-gauge">Skeletal Muscle Gauge</h2>
-<p>SMG predicts overall survival from colorectal cancer better than SMI or SMD <span class="citation" data-cites="park8451">(<a href="#ref-park8451" role="doc-biblioref">Park et al. 2021</a>)</span> and oropharyngel cancer <span class="citation" data-cites="ganjuE420">(<a href="#ref-ganjuE420" role="doc-biblioref">Ganju et al. 2019</a>)</span> and ovarian cancer <span class="citation" data-cites="huang110642">(<a href="#ref-huang110642" role="doc-biblioref">Huang, Sun, and Lee 2020</a>)</span> and endometrial cancer <span class="citation" data-cites="polen-de1289">(<a href="#ref-polen-de1289" role="doc-biblioref">Polen-De et al. 2022</a>)</span> and breast cancer <span class="citation" data-cites="weinberg278">(<a href="#ref-weinberg278" role="doc-biblioref">Weinberg et al. 2018</a>)</span>. SMG is associated with risk of chemotherapy-related toxicity in breast cancer patients <span class="citation" data-cites="shachar658">(<a href="#ref-shachar658" role="doc-biblioref">Shachar et al. 2017</a>)</span></p>
+<p>SMG predicts overall survival from colorectal cancer better than SMI or SMD <span class="citation" data-cites="park8451">(<a href="#ref-park8451" role="doc-biblioref">Park et al. 2021</a>)</span> and oropharyngel cancer <span class="citation" data-cites="ganjuE420">(<a href="#ref-ganjuE420" role="doc-biblioref">Ganju et al. 2019</a>)</span> and ovarian cancer <span class="citation" data-cites="huang110642">(<a href="#ref-huang110642" role="doc-biblioref">Huang, Sun, and Lee 2020</a>)</span> and endometrial cancer <span class="citation" data-cites="polen-de1289">(<a href="#ref-polen-de1289" role="doc-biblioref">Polen-De et al. 2022</a>)</span> and breast cancer <span class="citation" data-cites="weinberg278">(<a href="#ref-weinberg278" role="doc-biblioref">Weinberg et al. 2018</a>)</span>. SMG is associated with risk of chemotherapy-related toxicity in breast cancer patients <span class="citation" data-cites="shachar658">(<a href="#ref-shachar658" role="doc-biblioref"><strong>shachar658?</strong></a>)</span></p>
 <p>Comprehensive Geriatric Assessment compared with body composition (SMI, SMD, SMG). No association between SMI and Timed Up and Go (TUG), but both SMD and SMG correlated with TUG.</p>
 </section>
 <section id="aging-and-sarcopenia" class="level2">
@@ -217,98 +213,89 @@ div.csl-indent {
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-amini1671" class="csl-entry" role="doc-biblioentry">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-amini1671" class="csl-entry" role="listitem">
 Amini, Behrang, Sean P. Boyle, Robert D. Boutin, and Leon Lenchik. 2019. <span>“Approaches to <span>Assessment</span> of <span>Muscle Mass</span> and <span>Myosteatosis</span> on <span>Computed Tomography</span>: <span>A Systematic Review</span>.”</span> <em>The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences</em> 74 (10): 1671–78. <a href="https://doi.org/10.1093/gerona/glz034">https://doi.org/10.1093/gerona/glz034</a>.
 </div>
-<div id="ref-bachmann477" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bachmann477" class="csl-entry" role="listitem">
 Bachmann, R., D. Leonard, M. Nachit, Ch Remue, N. Abbes Orabi, L. Desmet, B. Faber, E. Danse, P. Trefois, and A. Kartheuser. 2018. <span>“<a href="https://www.ncbi.nlm.nih.gov/pubmed/30645915">Comparison Between Abdominal Fat Measured by <span>CT</span> and Anthropometric Indices as Prediction Factors for Mortality and Morbidity After Colorectal Surgery</a>.”</span> <em>Acta Gastro-Enterologica Belgica</em> 81 (4): 477–83.
 </div>
-<div id="ref-bae32" class="csl-entry" role="doc-biblioentry">
+<div id="ref-bae32" class="csl-entry" role="listitem">
 Bae, Kyongtae T. 2010. <span>“Intravenous Contrast Medium Administration and Scan Timing at <span>CT</span>: Considerations and Approaches.”</span> <em>Radiology</em> 256 (1): 32–61. <a href="https://doi.org/10.1148/radiol.10090908">https://doi.org/10.1148/radiol.10090908</a>.
 </div>
-<div id="ref-barnard1686" class="csl-entry" role="doc-biblioentry">
+<div id="ref-barnard1686" class="csl-entry" role="listitem">
 Barnard, Ryan, Josh Tan, Brandon Roller, Caroline Chiles, Ashley A. Weaver, Robert D. Boutin, Stephen B. Kritchevsky, and Leon Lenchik. 2019. <span>“Machine <span>Learning</span> for <span>Automatic Paraspinous Muscle Area</span> and <span>Attenuation Measures</span> on <span>Low-Dose Chest CT Scans</span>.”</span> <em>Academic Radiology</em> 26 (12): 1686–94. <a href="https://doi.org/10.1016/j.acra.2019.06.017">https://doi.org/10.1016/j.acra.2019.06.017</a>.
 </div>
-<div id="ref-borkan673" class="csl-entry" role="doc-biblioentry">
+<div id="ref-borkan673" class="csl-entry" role="listitem">
 Borkan, G. A., D. E. Hults, S. G. Gerzof, A. H. Robbins, and C. K. Silbert. 1983. <span>“Age Changes in Body Composition Revealed by Computed Tomography.”</span> <em>Journal of Gerontology</em> 38 (6): 673–77. <a href="https://doi.org/10.1093/geronj/38.6.673">https://doi.org/10.1093/geronj/38.6.673</a>.
 </div>
-<div id="ref-boutin1046" class="csl-entry" role="doc-biblioentry">
+<div id="ref-boutin1046" class="csl-entry" role="listitem">
 Boutin, Robert D., Justin M. Kaptuch, Cyrus P. Bateni, James S. Chalfant, and Lawrence Yao. 2016. <span>“Influence of <span>IV Contrast Administration</span> on <span>CT Measures</span> of <span>Muscle</span> and <span>Bone Attenuation</span>: <span>Implications</span> for <span>Sarcopenia</span> and <span>Osteoporosis Evaluation</span>.”</span> <em>AJR. American Journal of Roentgenology</em> 207 (5): 1046–54. <a href="https://doi.org/10.2214/AJR.16.16387">https://doi.org/10.2214/AJR.16.16387</a>.
 </div>
-<div id="ref-brown203" class="csl-entry" role="doc-biblioentry">
+<div id="ref-brown203" class="csl-entry" role="listitem">
 Brown, Justin C., Steven B. Heymsfield, and Bette J. Caan. 2022. <span>“Scaling of Computed Tomography Body Composition to Height: Relevance of Height-Normalized Indices in Patients with Colorectal Cancer.”</span> <em>Journal of Cachexia, Sarcopenia and Muscle</em> 13 (1): 203–9. <a href="https://doi.org/10.1002/jcsm.12847">https://doi.org/10.1002/jcsm.12847</a>.
 </div>
-<div id="ref-daly135" class="csl-entry" role="doc-biblioentry">
-Daly, L. E., C. M. Prado, and A. M. Ryan. 2018. <span>“A Window Beneath the Skin: How Computed Tomography Assessment of Body Composition Can Assist in the Identification of Hidden Wasting Conditions in Oncology That Profoundly Impact Outcomes.”</span> <em>The Proceedings of the Nutrition Society</em> 77 (2): 135–51. <a href="https://doi.org/10.1017/S0029665118000046">https://doi.org/10.1017/S0029665118000046</a>.
-</div>
-<div id="ref-derstine279" class="csl-entry" role="doc-biblioentry">
+<div id="ref-derstine279" class="csl-entry" role="listitem">
 Derstine, Brian A., Sven A. Holcombe, Brian E. Ross, Nicholas C. Wang, Grace L. Su, and Stewart C. Wang. 2021. <span>“Optimal Body Size Adjustment of <span>L3 CT</span> Skeletal Muscle Area for Sarcopenia Assessment.”</span> <em>Scientific Reports</em> 11 (1): 279. <a href="https://doi.org/10.1038/s41598-020-79471-z">https://doi.org/10.1038/s41598-020-79471-z</a>.
 </div>
-<div id="ref-dong827481" class="csl-entry" role="doc-biblioentry">
+<div id="ref-dong827481" class="csl-entry" role="listitem">
 Dong, Qiantong, Haonan Song, Weizhe Chen, Wenbin Wang, Xiaojiao Ruan, Tingting Xie, Dongdong Huang, Xiaolei Chen, and Chungen Xing. 2022. <span>“The <span>Association Between Visceral Obesity</span> and <span>Postoperative Outcomes</span> in <span>Elderly Patients With Colorectal Cancer</span>.”</span> <em>Frontiers in Surgery</em> 9: 827481. <a href="https://doi.org/10.3389/fsurg.2022.827481">https://doi.org/10.3389/fsurg.2022.827481</a>.
 </div>
-<div id="ref-fuchs2455" class="csl-entry" role="doc-biblioentry">
+<div id="ref-erhayiem684" class="csl-entry" role="listitem">
+Erhayiem, Bara, Rajpal Dhingsa, Christopher J. Hawkey, and Venkataraman Subramanian. 2011. <span>“Ratio of visceral to subcutaneous fat area is a biomarker of complicated Crohn’s disease.”</span> <em>Clinical Gastroenterology and Hepatology: The Official Clinical Practice Journal of the American Gastroenterological Association</em> 9 (8): 684–687.e1. <a href="https://doi.org/10.1016/j.cgh.2011.05.005">https://doi.org/10.1016/j.cgh.2011.05.005</a>.
+</div>
+<div id="ref-fuchs2455" class="csl-entry" role="listitem">
 Fuchs, Georg, Yves R. Chretien, Julia Mario, Synho Do, Matthias Eikermann, Bob Liu, Kai Yang, and Florian J. Fintelmann. 2018. <span>“Quantifying the Effect of Slice Thickness, Intravenous Contrast and Tube Current on Muscle Segmentation: <span>Implications</span> for Body Composition Analysis.”</span> <em>European Radiology</em> 28 (6): 2455–63. <a href="https://doi.org/10.1007/s00330-017-5191-3">https://doi.org/10.1007/s00330-017-5191-3</a>.
 </div>
-<div id="ref-ganjuE420" class="csl-entry" role="doc-biblioentry">
+<div id="ref-ganjuE420" class="csl-entry" role="listitem">
 Ganju, R. G., R. Morse, M. J. Tennapel, A. Hoover, K. Kakarala, L. Shnayder, A. Bur, and C. E. Lominska. 2019. <span>“Skeletal <span>Muscle Gauge Measured</span> at the <span>C3 Vertebral Body Predicts</span> for <span>Outcomes</span> in <span>Men</span> with <span>P16-Positive Oropharynx Cancer</span>.”</span> <em>International Journal of Radiation Oncology, Biology, Physics</em> 105 (1): E420. <a href="https://doi.org/10.1016/j.ijrobp.2019.06.1528">https://doi.org/10.1016/j.ijrobp.2019.06.1528</a>.
 </div>
-<div id="ref-hopkins1381" class="csl-entry" role="doc-biblioentry">
+<div id="ref-hopkins1381" class="csl-entry" role="listitem">
 Hopkins, Jessica J., Daniel Skubleny, David L. Bigam, Vickie E. Baracos, Dean T. Eurich, and Michael B. Sawyer. 2018. <span>“Barriers to the <span>Interpretation</span> of <span>Body Composition</span> in <span>Colorectal Cancer</span>: <span>A Review</span> of the <span>Methodological Inconsistency</span> and <span>Complexity</span> of the <span>CT-Defined Body Habitus</span>.”</span> <em>Annals of Surgical Oncology</em> 25 (5): 1381–94. <a href="https://doi.org/10.1245/s10434-018-6395-8">https://doi.org/10.1245/s10434-018-6395-8</a>.
 </div>
-<div id="ref-huang110642" class="csl-entry" role="doc-biblioentry">
+<div id="ref-huang110642" class="csl-entry" role="listitem">
 Huang, Chueh-Yi, Fang-Ju Sun, and Jie Lee. 2020. <span>“Prognostic Value of Muscle Measurement Using the Standardized Phase of Computed Tomography in Patients with Advanced Ovarian Cancer.”</span> <em>Nutrition</em> 72 (April): 110642. <a href="https://doi.org/10.1016/j.nut.2019.110642">https://doi.org/10.1016/j.nut.2019.110642</a>.
 </div>
-<div id="ref-jang360" class="csl-entry" role="doc-biblioentry">
+<div id="ref-jang360" class="csl-entry" role="listitem">
 Jang, Samuel, Peter M. Graffy, Timothy J. Ziemlewicz, Scott J. Lee, Ronald M. Summers, and Perry J. Pickhardt. 2019. <span>“Opportunistic <span>Osteoporosis Screening</span> at <span>Routine Abdominal</span> and <span>Thoracic CT</span>: <span>Normative L1 Trabecular Attenuation Values</span> in <span>More</span> Than 20 000 <span>Adults</span>.”</span> <em>Radiology</em> 291 (2): 360–67. <a href="https://doi.org/10.1148/radiol.2019181648">https://doi.org/10.1148/radiol.2019181648</a>.
 </div>
-<div id="ref-koster2520" class="csl-entry" role="doc-biblioentry">
+<div id="ref-koster2520" class="csl-entry" role="listitem">
 Köster, Johannes, and Sven Rahmann. 2012. <span>“Snakemake–a Scalable Bioinformatics Workflow Engine.”</span> <em>Bioinformatics (Oxford, England)</em> 28 (19): 2520–22. <a href="https://doi.org/10.1093/bioinformatics/bts480">https://doi.org/10.1093/bioinformatics/bts480</a>.
 </div>
-<div id="ref-kullberg10425" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kullberg10425" class="csl-entry" role="listitem">
 Kullberg, Joel, Anders Hedström, John Brandberg, Robin Strand, Lars Johansson, Göran Bergström, and Håkan Ahlström. 2017. <span>“Automated Analysis of Liver Fat, Muscle and Adipose Tissue Distribution from <span>CT</span> Suitable for Large-Scale Studies.”</span> <em>Scientific Reports</em> 7 (1): 10425. <a href="https://doi.org/10.1038/s41598-017-08925-8">https://doi.org/10.1038/s41598-017-08925-8</a>.
 </div>
-<div id="ref-lenchik277" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lenchik277" class="csl-entry" role="listitem">
 Lenchik, Leon, Ryan Barnard, Robert D. Boutin, Stephen B. Kritchevsky, Haiying Chen, Josh Tan, Peggy M. Cawthon, Ashley A. Weaver, and Fang-Chi Hsu. 2021. <span>“Automated <span>Muscle Measurement</span> on <span>Chest CT Predicts All-Cause Mortality</span> in <span>Older Adults From</span> the <span>National Lung Screening Trial</span>.”</span> <em>The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences</em> 76 (2): 277–85. <a href="https://doi.org/10.1093/gerona/glaa141">https://doi.org/10.1093/gerona/glaa141</a>.
 </div>
-<div id="ref-lenchik1695" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lenchik1695" class="csl-entry" role="listitem">
 Lenchik, Leon, Laura Heacock, Ashley A. Weaver, Robert D. Boutin, Tessa S. Cook, Jason Itri, Christopher G. Filippi, et al. 2019. <span>“Automated <span>Segmentation</span> of <span>Tissues Using CT</span> and <span>MRI</span>: <span>A Systematic Review</span>.”</span> <em>Academic Radiology</em> 26 (12): 1695–1706. <a href="https://doi.org/10.1016/j.acra.2019.07.006">https://doi.org/10.1016/j.acra.2019.07.006</a>.
 </div>
-<div id="ref-martin227" class="csl-entry" role="doc-biblioentry">
-Martin, Lisa, Ioannis Gioulbasanis, Pierre Senesse, and Vickie E. Baracos. 2020. <span>“Cancer-<span>Associated Malnutrition</span> and <span>CT-Defined Sarcopenia</span> and <span>Myosteatosis Are Endemic</span> in <span>Overweight</span> and <span>Obese Patients</span>.”</span> <em>JPEN. Journal of Parenteral and Enteral Nutrition</em> 44 (2): 227–38. <a href="https://doi.org/10.1002/jpen.1597">https://doi.org/10.1002/jpen.1597</a>.
-</div>
-<div id="ref-morsbach50" class="csl-entry" role="doc-biblioentry">
+<div id="ref-morsbach50" class="csl-entry" role="listitem">
 Morsbach, Fabian, Yi-Hua Zhang, Lena Martin, Catarina Lindqvist, and Torkel Brismar. 2019. <span>“Body Composition Evaluation with Computed Tomography: <span>Contrast</span> Media and Slice Thickness Cause Methodological Errors.”</span> <em>Nutrition (Burbank, Los Angeles County, Calif.)</em> 59 (March): 50–55. <a href="https://doi.org/10.1016/j.nut.2018.08.001">https://doi.org/10.1016/j.nut.2018.08.001</a>.
 </div>
-<div id="ref-park8451" class="csl-entry" role="doc-biblioentry">
+<div id="ref-park8451" class="csl-entry" role="listitem">
 Park, In Kyu, Song Soo Yang, Eric Chung, Eun-Suk Cho, Hye Sun Lee, Su-Jin Shin, Yeong Cheol Im, et al. 2021. <span>“Skeletal Muscle Gauge as a Prognostic Factor in Patients with Colorectal Cancer.”</span> <em>Cancer Medicine</em> 10 (23): 8451–61. <a href="https://doi.org/10.1002/cam4.4354">https://doi.org/10.1002/cam4.4354</a>.
 </div>
-<div id="ref-perthen142" class="csl-entry" role="doc-biblioentry">
+<div id="ref-perthen142" class="csl-entry" role="listitem">
 Perthen, Joanna E., Tamir Ali, David McCulloch, Maziar Navidi, Alexander W. Phillips, Rhona C. F. Sinclair, S. Michael Griffin, Alastair Greystoke, and George Petrides. 2018. <span>“Intra- and Interobserver Variability in Skeletal Muscle Measurements Using Computed Tomography Images.”</span> <em>European Journal of Radiology</em> 109 (December): 142–46. <a href="https://doi.org/10.1016/j.ejrad.2018.10.031">https://doi.org/10.1016/j.ejrad.2018.10.031</a>.
 </div>
-<div id="ref-polen-de1289" class="csl-entry" role="doc-biblioentry">
+<div id="ref-polen-de1289" class="csl-entry" role="listitem">
 Polen-De, Clarissa, Priyal Fadadu, Amy L. Weaver, Michael Moynagh, Naoki Takahashi, Aminah Jatoi, Nathan K. LeBrasseur, Michaela McGree, William Cliby, and Amanika Kumar. 2022. <span>“Quality Is More Important Than Quantity: Preoperative Sarcopenia Is Associated with Poor Survival in Advanced Ovarian Cancer.”</span> <em>International Journal of Gynecological Cancer</em> 32 (10): 1289–96. <a href="https://doi.org/10.1136/ijgc-2022-003387">https://doi.org/10.1136/ijgc-2022-003387</a>.
 </div>
-<div id="ref-shachar658" class="csl-entry" role="doc-biblioentry">
-Shachar, Shlomit Strulov, Allison M. Deal, Marc Weinberg, Kirsten A. Nyrop, Grant R. Williams, Tomohiro F. Nishijima, Julia M. Benbow, and Hyman B. Muss. 2017. <span>“Skeletal <span>Muscle Measures</span> as <span>Predictors</span> of <span>Toxicity</span>, <span>Hospitalization</span>, and <span>Survival</span> in <span>Patients</span> with <span>Metastatic Breast Cancer Receiving Taxane-Based Chemotherapy</span>.”</span> <em>Clinical Cancer Research: An Official Journal of the American Association for Cancer Research</em> 23 (3): 658–65. <a href="https://doi.org/10.1158/1078-0432.CCR-16-0940">https://doi.org/10.1158/1078-0432.CCR-16-0940</a>.
-</div>
-<div id="ref-vanderwerf366" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vanderwerf366" class="csl-entry" role="listitem">
 van der Werf, Anne, Ingeborg M. Dekker, Martijn R. Meijerink, Nicolette J. Wierdsma, Marian A. E. de van der Schueren, and Jacqueline A. E. Langius. 2018. <span>“Skeletal Muscle Analyses: Agreement Between Non-Contrast and Contrast <span>CT</span> Scan Measurements of Skeletal Muscle Area and Mean Muscle Attenuation.”</span> <em>Clinical Physiology and Functional Imaging</em> 38 (3): 366–72. <a href="https://doi.org/10.1111/cpf.12422">https://doi.org/10.1111/cpf.12422</a>.
 </div>
-<div id="ref-vanvugt1707" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vanvugt1707" class="csl-entry" role="listitem">
 van Vugt, Jeroen L. A., Robert R. J. Coebergh van den Braak, Henk J. W. Schippers, Kevin M. Veen, Stef Levolger, Ron W. F. de Bruin, Marcel Koek, Wiro J. Niessen, Jan N. M. IJzermans, and François E. J. A. Willemsen. 2018. <span>“Contrast-Enhancement Influences Skeletal Muscle Density, but Not Skeletal Muscle Mass, Measurements on Computed Tomography.”</span> <em>Clinical Nutrition (Edinburgh, Scotland)</em> 37 (5): 1707–14. <a href="https://doi.org/10.1016/j.clnu.2017.07.007">https://doi.org/10.1016/j.clnu.2017.07.007</a>.
 </div>
-<div id="ref-wang25" class="csl-entry" role="doc-biblioentry">
-Wang, Yue, Guangwei Tian, Song Chen, and Nan Li. 2021. <span>“Myosteatosis Reduces Overall Survival in Patients with Digestive System Malignancies: A Meta-Analysis with Trial Sequential Analysis.”</span> <em>Nutrition Research (New York, N.Y.)</em> 94 (October): 25–33. <a href="https://doi.org/10.1016/j.nutres.2021.08.003">https://doi.org/10.1016/j.nutres.2021.08.003</a>.
-</div>
-<div id="ref-weinberg278" class="csl-entry" role="doc-biblioentry">
+<div id="ref-weinberg278" class="csl-entry" role="listitem">
 Weinberg, Marc S., Shlomit S. Shachar, Hyman B. Muss, Allison M. Deal, Karteek Popuri, Hyeon Yu, Kirsten A. Nyrop, Shani M. Alston, and Grant R. Williams. 2018. <span>“Beyond Sarcopenia: <span>Characterization</span> and Integration of Skeletal Muscle Quantity and Radiodensity in a Curable Breast Cancer Population.”</span> <em>The Breast Journal</em> 24 (3): 278–84. <a href="https://doi.org/10.1111/tbj.12952">https://doi.org/10.1111/tbj.12952</a>.
 </div>
-<div id="ref-xiao615" class="csl-entry" role="doc-biblioentry">
+<div id="ref-xiao615" class="csl-entry" role="listitem">
 Xiao, Jingjie, Bette J. Caan, Elizabeth M. Cespedes Feliciano, Jeffrey A. Meyerhardt, Candyce H. Kroenke, Vickie E. Baracos, Erin Weltzien, et al. 2019. <span>“The Association of Medical and Demographic Characteristics with Sarcopenia and Low Muscle Radiodensity in Patients with Nonmetastatic Colorectal Cancer.”</span> <em>The American Journal of Clinical Nutrition</em> 109 (3): 615–25. <a href="https://doi.org/10.1093/ajcn/nqy328">https://doi.org/10.1093/ajcn/nqy328</a>.
 </div>
-<div id="ref-yang507" class="csl-entry" role="doc-biblioentry">
+<div id="ref-yang507" class="csl-entry" role="listitem">
 Yang, Tinghan, Mingtian Wei, Yazhou He, Xiangbing Deng, and Ziqiang Wang. 2015. <span>“Impact of Visceral Obesity on Outcomes of Laparoscopic Colorectal Surgery: A Meta-Analysis.”</span> <em>ANZ Journal of Surgery</em> 85 (7-8): 507–13. <a href="https://doi.org/10.1111/ans.13132">https://doi.org/10.1111/ans.13132</a>.
 </div>
 </div></section></div></main> <!-- /main -->
@@ -339,9 +326,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -406,6 +407,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
