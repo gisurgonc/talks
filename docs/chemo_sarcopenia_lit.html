@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,14 +17,15 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
 }
-.hanging div.csl-entry {
+.hanging-indent div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -38,8 +39,7 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}
-</style>
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -78,6 +78,7 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
@@ -94,19 +95,21 @@ div.csl-indent {
     <span class="navbar-title">talks</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="dropdown-header">
  <span class="menu-text">about.qmd</span></li>
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -286,77 +289,77 @@ div.csl-indent {
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-bloome849" class="csl-entry" role="doc-biblioentry">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-bloome849" class="csl-entry" role="listitem">
 Bloom, Matthew D., Haneen Saker, Chad Glisch, Brian Ramnaraign, Thomas J. George, Merry J. Markham, and Amar H. Kelkar. 2022. <span>“Administration of <span>Immune Checkpoint Inhibitors Near</span> the <span>End</span> of <span>Life</span>.”</span> <em>JCO Oncology Practice</em> 18 (6): e849–56. <a href="https://doi.org/10.1200/OP.21.00689">https://doi.org/10.1200/OP.21.00689</a>.
 </div>
-<div id="ref-chan147" class="csl-entry" role="doc-biblioentry">
+<div id="ref-chan147" class="csl-entry" role="listitem">
 Chan, Matthew, Kiara Hugh-Yeun, Gillian Gresham, Caroline H. Speers, Hagen F. Kennecke, and Winson Y. Cheung. 2017. <span>“Population-<span>Based Patterns</span> and <span>Factors Associated With Underuse</span> of <span>Palliative Systemic Therapy</span> in <span>Elderly Patients With Metastatic Colon Cancer</span>.”</span> <em>Clinical Colorectal Cancer</em> 16 (2): 147–53. <a href="https://doi.org/10.1016/j.clcc.2016.08.004">https://doi.org/10.1016/j.clcc.2016.08.004</a>.
 </div>
-<div id="ref-chen3395" class="csl-entry" role="doc-biblioentry">
+<div id="ref-chen3395" class="csl-entry" role="listitem">
 Chen, Fa, Fei Wang, Christina E. Bailey, Harvey J. Murff, Jordan D. Berlin, Xiao-Ou Shu, and Wei Zheng. 2020. <span>“<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7642646">Evaluation of Determinants for Age Disparities in the Survival Improvement of Colon Cancer: Results from a Cohort of More Than 486,000 Patients in the <span>United States</span></a>.”</span> <em>American Journal of Cancer Research</em> 10 (10): 3395–405.
 </div>
-<div id="ref-facchinetti155" class="csl-entry" role="doc-biblioentry">
+<div id="ref-facchinetti155" class="csl-entry" role="listitem">
 Facchinetti, Francesco, Giulia Mazzaschi, Fausto Barbieri, Francesco Passiglia, Francesca Mazzoni, Rossana Berardi, Claudia Proto, et al. 2020. <span>“First-Line Pembrolizumab in Advanced Non-Small Cell Lung Cancer Patients with Poor Performance Status.”</span> <em>European Journal of Cancer (Oxford, England: 1990)</em> 130 (May): 155–67. <a href="https://doi.org/10.1016/j.ejca.2020.02.023">https://doi.org/10.1016/j.ejca.2020.02.023</a>.
 </div>
-<div id="ref-hurria3826" class="csl-entry" role="doc-biblioentry">
+<div id="ref-hurria3826" class="csl-entry" role="listitem">
 Hurria, Arti, Laura A. Levit, William Dale, Supriya G. Mohile, Hyman B. Muss, Louis Fehrenbacher, Allison Magnuson, et al. 2015. <span>“Improving the <span>Evidence Base</span> for <span>Treating Older Adults With Cancer</span>: <span>American Society</span> of <span>Clinical Oncology Statement</span>.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 33 (32): 3826–33. <a href="https://doi.org/10.1200/JCO.2015.63.0319">https://doi.org/10.1200/JCO.2015.63.0319</a>.
 </div>
-<div id="ref-kapoore25115" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kapoore25115" class="csl-entry" role="listitem">
 Kapoor, Akhil, Vanita Noronha, Vijay M. Patil, Nandini Menon, Amit Joshi, George Abraham, and Kumar Prabhash. 2021. <span>“Immune Checkpoint Inhibitors in Patients with Solid Tumors and Poor Performance Status: <span>A</span> Prospective Data from the Real-World Settings.”</span> <em>Medicine</em> 100 (13): e25115. <a href="https://doi.org/10.1097/MD.0000000000025115">https://doi.org/10.1097/MD.0000000000025115</a>.
 </div>
-<div id="ref-keating2532" class="csl-entry" role="doc-biblioentry">
+<div id="ref-keating2532" class="csl-entry" role="listitem">
 Keating, Nancy L., Mary Beth Landrum, Carrie N. Klabunde, Robert H. Fletcher, Selwyn O. Rogers, William R. Doucette, Diana Tisnado, Steven Clauser, and Katherine L. Kahn. 2008. <span>“Adjuvant Chemotherapy for Stage <span>III</span> Colon Cancer: Do Physicians Agree about the Importance of Patient Age and Comorbidity?”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 26 (15): 2532–37. <a href="https://doi.org/10.1200/JCO.2007.15.9434">https://doi.org/10.1200/JCO.2007.15.9434</a>.
 </div>
-<div id="ref-kemeny786" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kemeny786" class="csl-entry" role="listitem">
 Kemeny, N., and D. W. Braun. 1983. <span>“Prognostic Factors in Advanced Colorectal Carcinoma. <span>Importance</span> of Lactic Dehydrogenase Level, Performance Status, and White Blood Cell Count.”</span> <em>The American Journal of Medicine</em> 74 (5): 786–94. <a href="https://doi.org/10.1016/0002-9343(83)91066-5">https://doi.org/10.1016/0002-9343(83)91066-5</a>.
 </div>
-<div id="ref-kohne308" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kohne308" class="csl-entry" role="listitem">
 Köhne, C. H., D. Cunningham, F. Di Costanzo, B. Glimelius, G. Blijham, E. Aranda, W. Scheithauer, et al. 2002. <span>“Clinical Determinants of Survival in Patients with 5-Fluorouracil-Based Treatment for Metastatic Colorectal Cancer: Results of a Multivariate Analysis of 3825 Patients.”</span> <em>Annals of Oncology: Official Journal of the European Society for Medical Oncology</em> 13 (2): 308–17. <a href="https://doi.org/10.1093/annonc/mdf034">https://doi.org/10.1093/annonc/mdf034</a>.
 </div>
-<div id="ref-krishnane175" class="csl-entry" role="doc-biblioentry">
+<div id="ref-krishnane175" class="csl-entry" role="listitem">
 Krishnan, Mridula, Pooja Kasinath, Robin High, Fang Yu, and Benjamin A. Teply. 2022. <span>“Impact of <span>Performance Status</span> on <span>Response</span> and <span>Survival Among Patients Receiving Checkpoint Inhibitors</span> for <span>Advanced Solid Tumors</span>.”</span> <em>JCO Oncology Practice</em> 18 (1): e175–82. <a href="https://doi.org/10.1200/OP.20.01055">https://doi.org/10.1200/OP.20.01055</a>.
 </div>
-<div id="ref-lavin1536" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lavin1536" class="csl-entry" role="listitem">
 Lavin, P., A. Mittelman, H. Douglass, P. Engstrom, and D. Klaassen. 1980. <span>“Survival and Response to Chemotherapy for Advanced Colorectal Adenocarcinoma: An <span>Eastern Cooperative Oncology Group</span> Report.”</span> <em>Cancer</em> 46 (7): 1536–43. <a href="https://doi.org/10.1002/1097-0142(19801001)46:7<1536::aid-cncr2820460707>3.0.co;2-k">https://doi.org/10.1002/1097-0142(19801001)46:7&lt;1536::aid-cncr2820460707&gt;3.0.co;2-k</a>.
 </div>
-<div id="ref-lyu839516" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lyu839516" class="csl-entry" role="listitem">
 Lyu, Jiahua, Anhui Shi, Tao Li, Jie Li, Ren Zhao, Shuchai Zhu, Jianhua Wang, et al. 2022. <span>“Effects of <span>Enteral Nutrition</span> on <span>Patients With Oesophageal Carcinoma Treated With Concurrent Chemoradiotherapy</span>: <span>A Prospective</span>, <span>Multicentre</span>, <span>Randomised</span>, <span>Controlled Study</span>.”</span> <em>Frontiers in Oncology</em> 12: 839516. <a href="https://doi.org/10.3389/fonc.2022.839516">https://doi.org/10.3389/fonc.2022.839516</a>.
 </div>
-<div id="ref-perez-de-acha1377" class="csl-entry" role="doc-biblioentry">
+<div id="ref-perez-de-acha1377" class="csl-entry" role="listitem">
 Perez-de-Acha, Andrea, Sophie Pilleron, and Enrique Soto-Perez-de-Celis. 2022. <span>“All-<span>Cause Mortality Risk Prediction</span> in <span>Older Adults</span> with <span>Cancer</span>: <span>Practical Approaches</span> and <span>Limitations</span>.”</span> <em>Current Oncology Reports</em> 24 (11): 1377–85. <a href="https://doi.org/10.1007/s11912-022-01303-2">https://doi.org/10.1007/s11912-022-01303-2</a>.
 </div>
-<div id="ref-petrillo2288" class="csl-entry" role="doc-biblioentry">
+<div id="ref-petrillo2288" class="csl-entry" role="listitem">
 Petrillo, Laura A., Areej El-Jawahri, Ryan D. Nipp, Morgan R. L. Lichtenstein, Sienna M. Durbin, Kerry L. Reynolds, Joseph A. Greer, Jennifer S. Temel, and Justin F. Gainor. 2020. <span>“Performance Status and End-of-Life Care Among Adults with Nonsmall Cell Lung Cancer Receiving Immune Checkpoint Inhibitors.”</span> <em>Cancer</em> 126 (10): 2288–95. <a href="https://doi.org/10.1002/cncr.32782">https://doi.org/10.1002/cncr.32782</a>.
 </div>
-<div id="ref-rosati578" class="csl-entry" role="doc-biblioentry">
+<div id="ref-rosati578" class="csl-entry" role="listitem">
 Rosati, Gerardo, Stefano Cordio, Giorgio Reggiardo, Giuseppe Aprile, Alfredo Butera, Antonio Avallone, Aniello Tucci, et al. 2019. <span>“Oxaliplatin-<span>Based Chemotherapy</span> in <span>Patients</span> with <span>Metastatic Colorectal Cancer Aged</span> at <span>Least</span> 75 <span>Years</span>: <span>A Post-Hoc Subgroup Analysis</span> of <span>Three Phase II Trials</span>.”</span> <em>Cancers</em> 11 (4): 578. <a href="https://doi.org/10.3390/cancers11040578">https://doi.org/10.3390/cancers11040578</a>.
 </div>
-<div id="ref-sargent1948" class="csl-entry" role="doc-biblioentry">
+<div id="ref-sargent1948" class="csl-entry" role="listitem">
 Sargent, Daniel J., Claus Henning Köhne, Hanna Kelly Sanoff, Brian M. Bot, Matthew T. Seymour, Aimery de Gramont, Ranier Porschen, et al. 2009. <span>“Pooled <span>Safety</span> and <span>Efficacy Analysis Examining</span> the <span>Effect</span> of <span>Performance Status</span> on <span>Outcomes</span> in <span>Nine First-Line Treatment Trials Using Individual Data From Patients With Metastatic Colorectal Cancer</span>.”</span> <em>Journal of Clinical Oncology</em> 27 (12): 1948–55. <a href="https://doi.org/10.1200/JCO.2008.20.2879">https://doi.org/10.1200/JCO.2008.20.2879</a>.
 </div>
-<div id="ref-schnipper10" class="csl-entry" role="doc-biblioentry">
+<div id="ref-schnipper10" class="csl-entry" role="listitem">
 Schnipper, Lowell E, Thomas J Smith, Derek Raghavan, Douglas W Blayney, Patricia A Ganz, Therese Marie Mulvey, and Dana S Wollins. n.d. <span>“American <span>Society</span> of <span>Clinical Oncology Identifies Five Key Opportunities</span> to <span>Improve Care</span> and <span>Reduce Costs</span>: <span>The Top Five List</span> for <span>Oncology</span>.”</span> <em>JOURNAL OF CLINICAL ONCOLOGY</em>, 10.
 </div>
-<div id="ref-simmonds531" class="csl-entry" role="doc-biblioentry">
+<div id="ref-simmonds531" class="csl-entry" role="listitem">
 Simmonds, P. C. 2000. <span>“Palliative Chemotherapy for Advanced Colorectal Cancer: Systematic Review and Meta-Analysis. <span>Colorectal Cancer Collaborative Group</span>.”</span> <em>BMJ (Clinical Research Ed.)</em> 321 (7260): 531–35. <a href="https://doi.org/10.1136/bmj.321.7260.531">https://doi.org/10.1136/bmj.321.7260.531</a>.
 </div>
-<div id="ref-soto-perez-de-celise305" class="csl-entry" role="doc-biblioentry">
+<div id="ref-soto-perez-de-celise305" class="csl-entry" role="listitem">
 Soto-Perez-de-Celis, Enrique, Daneng Li, Yuan Yuan, Yat Ming Lau, and Arti Hurria. 2018. <span>“Functional Versus Chronological Age: Geriatric Assessments to Guide Decision Making in Older Patients with Cancer.”</span> <em>The Lancet. Oncology</em> 19 (6): e305–16. <a href="https://doi.org/10.1016/S1470-2045(18)30348-6">https://doi.org/10.1016/S1470-2045(18)30348-6</a>.
 </div>
-<div id="ref-sullivan1702" class="csl-entry" role="doc-biblioentry">
+<div id="ref-sullivan1702" class="csl-entry" role="listitem">
 Sullivan, Donald R., Benjamin Chan, Jodi A. Lapidus, Linda Ganzini, Lissi Hansen, Patricia A. Carney, Erik K. Fromme, et al. 2019. <span>“Association of <span>Early Palliative Care Use With Survival</span> and <span>Place</span> of <span>Death Among Patients With Advanced Lung Cancer Receiving Care</span> in the <span>Veterans Health Administration</span>.”</span> <em>JAMA Oncology</em> 5 (12): 1702–9. <a href="https://doi.org/10.1001/jamaoncol.2019.3105">https://doi.org/10.1001/jamaoncol.2019.3105</a>.
 </div>
-<div id="ref-tomasik97" class="csl-entry" role="doc-biblioentry">
+<div id="ref-tomasik97" class="csl-entry" role="listitem">
 Tomasik, Bartłomiej, Michał Bieńkowski, Marcin Braun, Sanjay Popat, and Rafał Dziadziuszko. 2021. <span>“Effectiveness and Safety of Immunotherapy in <span>NSCLC</span> Patients with <span>ECOG PS</span> Score <span><span class="math inline">\(\geq\)</span></span>2 - <span>Systematic</span> Review and Meta-Analysis.”</span> <em>Lung Cancer (Amsterdam, Netherlands)</em> 158 (August): 97–106. <a href="https://doi.org/10.1016/j.lungcan.2021.06.004">https://doi.org/10.1016/j.lungcan.2021.06.004</a>.
 </div>
-<div id="ref-verduzco-aguirre68" class="csl-entry" role="doc-biblioentry">
+<div id="ref-verduzco-aguirre68" class="csl-entry" role="listitem">
 Verduzco-Aguirre, Haydee Cristina, Carolina Gomez-Moreno, Yanin Chavarri-Guerra, and Enrique Soto-Perez-de-Celis. 2019. <span>“Predicting <span>Life Expectancy</span> for <span>Older Adults</span> with <span>Cancer</span> in <span>Clinical Practice</span>: <span>Implications</span> for <span class="nocase">Shared Decision-making</span>.”</span> <em>Current Oncology Reports</em> 21 (8): 68. <a href="https://doi.org/10.1007/s11912-019-0821-3">https://doi.org/10.1007/s11912-019-0821-3</a>.
 </div>
-<div id="ref-wong385" class="csl-entry" role="doc-biblioentry">
+<div id="ref-wong385" class="csl-entry" role="listitem">
 Wong, Annie, Molly Williams, Donna Milne, Kortnye Morris, Peter Lau, Odette Spruyt, Sonia Fullerton, and Grant McArthur. 2017. <span>“Clinical and Palliative Care Outcomes for Patients of Poor Performance Status Treated with Antiprogrammed Death-1 Monoclonal Antibodies for Advanced Melanoma.”</span> <em>Asia-Pacific Journal of Clinical Oncology</em> 13 (6): 385–90. <a href="https://doi.org/10.1111/ajco.12702">https://doi.org/10.1111/ajco.12702</a>.
 </div>
-<div id="ref-yange2012534" class="csl-entry" role="doc-biblioentry">
+<div id="ref-yange2012534" class="csl-entry" role="listitem">
 Yang, Fang, Svetomir N. Markovic, Julian R. Molina, Thorvardur R. Halfdanarson, Lance C. Pagliaro, Ashish V. Chintakuntlawar, Rutian Li, et al. 2020. <span>“Association of <span>Sex</span>, <span>Age</span>, and <span>Eastern Cooperative Oncology Group Performance Status With Survival Benefit</span> of <span>Cancer Immunotherapy</span> in <span>Randomized Clinical Trials</span>: <span>A Systematic Review</span> and <span class="nocase">Meta-analysis</span>.”</span> <em>JAMA Network Open</em> 3 (8): e2012534. <a href="https://doi.org/10.1001/jamanetworkopen.2020.12534">https://doi.org/10.1001/jamanetworkopen.2020.12534</a>.
 </div>
 </div></section></div></main> <!-- /main -->
@@ -387,9 +390,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -454,6 +471,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

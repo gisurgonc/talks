@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.2.335">
+<meta name="generator" content="quarto-1.3.353">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -17,14 +17,15 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
 }
-.hanging div.csl-entry {
+.hanging-indent div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -38,8 +39,7 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}
-</style>
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -93,19 +93,21 @@ div.csl-indent {
     <span class="navbar-title">talks</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="dropdown-header">
  <span class="menu-text">about.qmd</span></li>
 </ul>
-              <div id="quarto-search" class="" title="Search"></div>
+            <div class="quarto-navbar-tools ms-auto">
+</div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
@@ -179,32 +181,32 @@ div.csl-indent {
 </section>
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
-<div id="ref-anyene2974" class="csl-entry" role="doc-biblioentry">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-anyene2974" class="csl-entry" role="listitem">
 Anyene, Ijeamaka, Bette Caan, Grant R. Williams, Karteek Popuri, Leon Lenchik, Smith Giri, Vincent Chow, Mirza Faisal Beg, and Elizabeth M. Cespedes Feliciano. 2022. <span>“Body Composition from Single Versus Multi-Slice Abdominal Computed Tomography: <span>Concordance</span> and Associations with Colorectal Cancer Survival.”</span> <em>Journal of Cachexia, Sarcopenia and Muscle</em> 13 (6): 2974–84. <a href="https://doi.org/10.1002/jcsm.13080">https://doi.org/10.1002/jcsm.13080</a>.
 </div>
-<div id="ref-burns311" class="csl-entry" role="doc-biblioentry">
+<div id="ref-burns311" class="csl-entry" role="listitem">
 Burns, Joseph E., Jianhua Yao, Didier Chalhoub, Joseph J. Chen, and Ronald M. Summers. 2020. <span>“A <span>Machine Learning Algorithm</span> to <span>Estimate Sarcopenia</span> on <span>Abdominal CT</span>.”</span> <em>Academic Radiology</em> 27 (3): 311–20. <a href="https://doi.org/10.1016/j.acra.2019.03.011">https://doi.org/10.1016/j.acra.2019.03.011</a>.
 </div>
-<div id="ref-chung" class="csl-entry" role="doc-biblioentry">
+<div id="ref-chung" class="csl-entry" role="listitem">
 Chung, Howard, Dana Cobzas, Jessica Lieffers, Laura Birdsell, and Vickie Baracos. 2009. <span>“Automated Segmentation of Muscle and Adipose Tissue on <span>CT</span> Images for Human Body Composition Analysis.”</span> <em>SPIE Medical Imaging</em>.
 </div>
-<div id="ref-graffy20190327" class="csl-entry" role="doc-biblioentry">
+<div id="ref-graffy20190327" class="csl-entry" role="listitem">
 Graffy, Peter M., Jiamin Liu, Perry J. Pickhardt, Joseph E. Burns, Jianhua Yao, and Ronald M. Summers. 2019. <span>“Deep Learning-Based Muscle Segmentation and Quantification at Abdominal <span>CT</span>: Application to a Longitudinal Adult Screening Cohort for Sarcopenia Assessment.”</span> <em>The British Journal of Radiology</em> 92 (1100): 20190327. <a href="https://doi.org/10.1259/bjr.20190327">https://doi.org/10.1259/bjr.20190327</a>.
 </div>
-<div id="ref-he794969" class="csl-entry" role="doc-biblioentry">
+<div id="ref-he794969" class="csl-entry" role="listitem">
 He, Runnan, Shiqi Xu, Yashu Liu, Qince Li, Yang Liu, Na Zhao, Yongfeng Yuan, and Henggui Zhang. 2021. <span>“Three-<span>Dimensional Liver Image Segmentation Using Generative Adversarial Networks Based</span> on <span>Feature Restoration</span>.”</span> <em>Frontiers in Medicine</em> 8: 794969. <a href="https://doi.org/10.3389/fmed.2021.794969">https://doi.org/10.3389/fmed.2021.794969</a>.
 </div>
-<div id="ref-hemke387" class="csl-entry" role="doc-biblioentry">
+<div id="ref-hemke387" class="csl-entry" role="listitem">
 Hemke, Robert, Colleen G. Buckless, Andrew Tsao, Benjamin Wang, and Martin Torriani. 2020. <span>“Deep Learning for Automated Segmentation of Pelvic Muscles, Fat, and Bone from <span>CT</span> Studies for Body Composition Assessment.”</span> <em>Skeletal Radiology</em> 49 (3): 387–95. <a href="https://doi.org/10.1007/s00256-019-03289-8">https://doi.org/10.1007/s00256-019-03289-8</a>.
 </div>
-<div id="ref-islame363" class="csl-entry" role="doc-biblioentry">
+<div id="ref-islame363" class="csl-entry" role="listitem">
 Islam, S., F. Kanavati, Z. Arain, O. Fadeeva Da Costa, W. Crum, E. O. Aboagye, and A. G. Rockall. 2022. <span>“Fully Automated Deep-Learning Section-Based Muscle Segmentation from <span>CT</span> Images for Sarcopenia Assessment.”</span> <em>Clinical Radiology</em> 77 (5): e363–71. <a href="https://doi.org/10.1016/j.crad.2022.01.036">https://doi.org/10.1016/j.crad.2022.01.036</a>.
 </div>
-<div id="ref-lee487" class="csl-entry" role="doc-biblioentry">
+<div id="ref-lee487" class="csl-entry" role="listitem">
 Lee, Hyunkwang, Fabian M. Troschel, Shahein Tajmir, Georg Fuchs, Julia Mario, Florian J. Fintelmann, and Synho Do. 2017. <span>“Pixel-<span>Level Deep Segmentation</span>: <span>Artificial Intelligence Quantifies Muscle</span> on <span>Computed Tomography</span> for <span>Body Morphometric Analysis</span>.”</span> <em>Journal of Digital Imaging</em> 30 (4): 487–98. <a href="https://doi.org/10.1007/s10278-017-9988-z">https://doi.org/10.1007/s10278-017-9988-z</a>.
 </div>
-<div id="ref-popuri512" class="csl-entry" role="doc-biblioentry">
+<div id="ref-popuri512" class="csl-entry" role="listitem">
 Popuri, Karteek, Dana Cobzas, Nina Esfandiari, Vickie Baracos, and Martin Jägersand. 2016. <span>“Body <span>Composition Assessment</span> in <span>Axial CT Images Using FEM-Based Automatic Segmentation</span> of <span>Skeletal Muscle</span>.”</span> <em>IEEE Transactions on Medical Imaging</em> 35 (2): 512–20. <a href="https://doi.org/10.1109/TMI.2015.2479252">https://doi.org/10.1109/TMI.2015.2479252</a>.
 </div>
 </div></section></div></main> <!-- /main -->
@@ -235,9 +237,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
@@ -302,6 +318,92 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {

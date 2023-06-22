@@ -40,6 +40,8 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [CGA and Sarcopenia](cga_sarcopenia_lit.html)
 
+[Myosteatosis](myosteatosis_lit.html)
+
 [Frailty Index](frailtyindex_lit.html)
 
 [Cachexia](cachexia_lit.html)
