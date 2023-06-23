@@ -12,7 +12,7 @@ Most studies have measured myosteatosis ('muscle quality') as the Hounsfield uni
 
 An alternative is to subdivide skeletal muscle area into high density and low density areas. One method is to distinguish normal attenuation muscle area (NAMA) from low attenuation muscle area (LAMA). This was initially described by investigators from Japan [@kim402].
 
-An alternative (experimental) approach would be to take the
+An alternative (experimental) approach would be assume that a density histogram of the muscle area is a gaussian mixture of two peaks - one for muscle and one for adipose tissue, and to use a mathematical tool such as the mixtools R package to resolve the density histogram into two peaks.
 
 Meta-analysis of 40 studies: overall prevalence of 48% among cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)[@alexio102839]
 
