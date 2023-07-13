@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>talks - Myosteatosis Literature</title>
+<title>talks - Lumbar Spine Radiology</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,26 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -117,25 +98,14 @@ div.csl-indent {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#myosteasosis" id="toc-myosteasosis" class="nav-link active" data-scroll-target="#myosteasosis">Myosteasosis</a>
-  <ul class="collapse">
-  <li><a href="#methods" id="toc-methods" class="nav-link" data-scroll-target="#methods">Methods</a></li>
-  <li><a href="#lamanama" id="toc-lamanama" class="nav-link" data-scroll-target="#lamanama">LAMA/NAMA</a></li>
-  <li><a href="#imat" id="toc-imat" class="nav-link" data-scroll-target="#imat">IMAT</a></li>
-  </ul></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Myosteatosis Literature</h1>
+<h1 class="title">Lumbar Spine Radiology</h1>
 </div>
 
 
@@ -150,105 +120,15 @@ div.csl-indent {
 
 </header>
 
-<section id="myosteasosis" class="level1">
-<h1>Myosteasosis</h1>
-<section id="methods" class="level3">
-<h3 class="anchored" data-anchor-id="methods">Methods</h3>
-<p>Most studies have measured myosteatosis (‘muscle quality’) as the Hounsfield units of the skeletal muscle area at L3 defined with thresholds of -29HU to +150HU. The challenge with this approach is the relatively small dispersion of Hounsfield Units.</p>
-<p>An alternative is to subdivide skeletal muscle area into high density and low density areas. One method is to distinguish normal attenuation muscle area (NAMA) from low attenuation muscle area (LAMA). This was initially described by investigators from Japan <span class="citation" data-cites="kim4022">(<a href="#ref-kim4022" role="doc-biblioref">Kim et al. 2021</a>)</span>. The same grouop measured IMAT within the muscle envelope using fat thresholds. See also</p>
-<p>An alternative (experimental) approach would be assume that a density histogram of the muscle area is a gaussian mixture of two peaks - one for muscle and one for adipose tissue, and to use a mathematical tool such as the mixtools R package to resolve the density histogram into two peaks.</p>
-<p>Papers using gaussian mixture for segmentation:</p>
-<p>An automated and robust framework for quantification of muscle and fat in the thigh <span class="citation" data-cites="tan3173">(<a href="#ref-tan3173" role="doc-biblioref"><strong>tan3173?</strong></a>)</span></p>
-<p>J. de Carvalho Felinto et al., "Automatic segmentation and quantification of thigh tissues in CT images," in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol.&nbsp;10960 LNCS, pp.&nbsp;261–276, doi: 10.1007/978-3-319-95162-1_18.</p>
-<p>GMM for liver segmentation<a href=""><span class="citation" data-cites="dun5524262">(<span><strong>dun5524262?</strong></span>)</span></a></p>
-<p>Johnson SB Mixture model see <a href="https://search.r-project.org/CRAN/refmans/ForestFit/html/00Index.html">ForestFit R package</a></p>
-<section id="myosteatosis" class="level4">
-<h4 class="anchored" data-anchor-id="myosteatosis">Myosteatosis</h4>
-<p>Meta-analysis of 40 studies: overall prevalence of 48% among cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)<span class="citation" data-cites="alexio102839">(<a href="#ref-alexio102839" role="doc-biblioref"><strong>alexio102839?</strong></a>)</span></p>
-<p>GI cancers meta-analysis: <span class="citation" data-cites="wang25">(<a href="#ref-wang25" role="doc-biblioref">Wang et al. 2021</a>)</span> Prevalence of myosteatosis 46% HR 1.44. Worse prognosis for GE, pancreatic and colorectal</p>
-<p>Lung cancer meta-analysis of 9 studies with 16667 patients: <span class="citation" data-cites="feng1127">(<a href="#ref-feng1127" role="doc-biblioref"><strong>feng1127?</strong></a>)</span>. HR 1.10</p>
-<p>myosteatosis adds value <span class="citation" data-cites="martin227">(<a href="#ref-martin227" role="doc-biblioref">Martin et al. 2020</a>)</span></p>
-<p>Myosteatosis is defined as the infiltration of adipose tissue into skeletal muscle <span class="citation" data-cites="daly135">(<a href="#ref-daly135" role="doc-biblioref">Daly, Prado, and Ryan 2018</a>)</span></p>
-<p>Goodpaster BH, Kelley DE, Thaete FL, He J, Ross R. Skeletal muscle attenuation determined by computed tomography is associated with skeletal muscle lipid content. J Appl Physiol (Bethesda, Md : 1985). 2000; 89(1):104–10</p>
-<p>Miljkovic I, Zmuda JM. Epidemiology of myosteatosis. Curr Opin Clin Nutr Metab Care 2010;13:260–4. 12. Aubrey J, Esfandiari N, Baracos VE, Buteau FA, Frenette J, Putman CT, Mazurak VC. Measurement of skeletal muscle radiation attenuation and basis of its biological variation. Acta Physiol (Oxf) 2014;210:489–97.</p>
-<p>the Charlson Comorbidity Score was associated with low SMD, echoing our previous report in this cohort that 6 (out of 11) Charlson comorbidities were associated with a higher likelihood of low SMD at diagnosis, whereas most of them were not associated with sarcopenia Xiao J, Caan BJ, Weltzien E, Cespedes Feliciano EM, Kroenke CH, Meyerhardt JA, Baracos VE, Kwan ML, Castillo AL, Prado CM. Associations of pre-existing co-morbidities with skeletal muscle mass and radiodensity in patients with non-metastatic colorectal cancer. J Cachexia Sarcopenia Muscle 2018;9:654–63.</p>
-</section>
-</section>
-<section id="lamanama" class="level3">
-<h3 class="anchored" data-anchor-id="lamanama">LAMA/NAMA</h3>
-<p>LAMA/NAMA ratio proposed as better judge of myosteasosis than density <span class="citation" data-cites="kim402">(<a href="#ref-kim402" role="doc-biblioref"><strong>kim402?</strong></a>)</span></p>
-<p>Maltais A, Almeras N, Lemieux I, Tremblay A, Bergeron J, Poirier P, et al.&nbsp;Trunk</p>
-<p>muscle quality assessed by computed tomography: association with adiposity</p>
-<p>indices and glucose tolerance in men. Metab Clin Exp 2018;85:205e12.</p>
-<p>[22] Tanaka M, Okada H, Hashimoto Y, Kumagai M, Nishimura H, Oda Y, et al.</p>
-<p>Relationship between metabolic syndrome and trunk muscle quality as well</p>
-<p>as quantity evaluated by computed tomography. Clin Nutr 2020;39(6):</p>
-<p>1818e25.</p>
-</section>
-<section id="imat" class="level3">
-<h3 class="anchored" data-anchor-id="imat">IMAT</h3>
-<p>24</p>
-<p>25</p>
-<ul>
-<li>Goodpaster BH, Thaete FL, Kelley DE. Thigh adipose tissue distribution is</li>
-</ul>
-<pre><code>associated with insulin resistance in obesity and in type 2 diabetes mellitus.
-
-Am J Clin Nutr 2000;71(4):885e92.
-
-Association between regional adipose tissue distribution and both type 2 
-diabetes and impaired glucose tolerance in elderly men and women.[@goodpaster372]
-
-\[11\] Goodpaster BH, Carlson CL, Visser M, Kelley DE, Scherzinger A, Harris TB, et al.
-
-Attenuation of skeletal muscle and strength in the elderly: the Health ABC
-
-Study. J Appl Physiol 2001;90(6):2157e65.</code></pre>
-<ul>
-<li>Brooks N, Cloutier GJ, Cadena SM, Layne JE, Nelsen CA, Freed AM, et al.</li>
-</ul>
-<pre><code>Resistance training and timed essential amino acids protect against the loss of
-
-muscle mass and strength during 28 days of bed rest and energy deficit. J Appl
-
-Physiol 2008;105(1):241e8.</code></pre>
-<ul>
-<li><p>[15] Reinders I, Murphy RA, Brouwer IA, Visser M, Launer L, Siggeirsdottir K, et al.</p>
-<p>Muscle quality and myosteatosis: novel associations with mortality risk: the</p>
-<p>age, gene/environment susceptibility (AGES)-Reykjavik study. Am J Epidemiol</p>
-<p>2016;183(1):53e60.</p>
-<p>[16] Terry JG, Shay CM, Schreiner PJ, Jacobs Jr DR, Sanchez OA, Reis JP, et al.</p>
-<p>Intermuscular adipose tissue and subclinical coronary artery calcification in</p>
-<p>midlife: the CARDIA study (coronary artery risk development in young</p>
-<p>adults). Arterioscler Thromb Vasc Biol 2017;37(12):2370e8.</p>
-<p>[17] Ryan AS, Harduarsingh-Permaul AS. Effects of weight loss and exercise on</p>
-<p>trunk muscle composition in older women. Clin Interv Aging 2014;9:</p>
-<p>395e402.</p>
-<p>[18] Addison O, Marcus RL, Lastayo PC, Ryan AS. Intermuscular fat: a review of the</p>
-<p>consequences and causes. Int J Endocrinol 2014;2014:309570.</p>
-<p>[19] Goodpaster BH, Thaete FL, Kelley DE. Composition of skeletal muscle evalu-</p>
-<p>ated with computed tomography. Ann N Y Acad Sci 2000;904:18e24</p></li>
-</ul>
+<p>Iliac crest tangent sign Farshad_amacker 600</p>
+<blockquote class="blockquote">
+<p>The iliac crest tangent sign was determined by illustrating a line connecting the superior tip of each iliac crest on coronal lumbar MRI. If there were more than 1¼ vertebral bodies visible below the tangent line, the sign was “positive” and the most caudal vertebra was considered lumbarized S1 (Fig. 4). The iliac crest tangent sign was considered “negative” if less than 1¼ vertebrae were below the line, indicating that the last vertebra was sacralized L5 (Fig. 5). The iliac crest tangent sign may be used when whole spine radiograph cannot be obtained, given its sensitivity and specificity of 81 and 64–88%, respectively</p>
+</blockquote>
+<p>Daniel C. Elton, Veit Sandfort, Perry J. Pickhardt, and Ronald M. Summers “Accurately identifying vertebral levels in large datasets”, Proc. SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 113140O (16 March 2020); https://doi.org/10.1117/12.2551247</p>
 
 
 
-</section>
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
-<div id="ref-daly135" class="csl-entry" role="listitem">
-Daly, L. E., C. M. Prado, and A. M. Ryan. 2018. <span>“A Window Beneath the Skin: How Computed Tomography Assessment of Body Composition Can Assist in the Identification of Hidden Wasting Conditions in Oncology That Profoundly Impact Outcomes.”</span> <em>The Proceedings of the Nutrition Society</em> 77 (2): 135–51. <a href="https://doi.org/10.1017/S0029665118000046">https://doi.org/10.1017/S0029665118000046</a>.
-</div>
-<div id="ref-kim4022" class="csl-entry" role="listitem">
-Kim, Hong-Kyu, Kyung Won Kim, Eun Hee Kim, Min Jung Lee, Sung-Jin Bae, Yousun Ko, Taeyoung Park, Yongbin Shin, Ye-Jee Kim, and Jaewon Choe. 2021. <span>“Age-Related Changes in Muscle Quality and Development of Diagnostic Cutoff Points for Myosteatosis in Lumbar Skeletal Muscles Measured by <span>CT</span> Scan.”</span> <em>Clinical Nutrition</em> 40 (6): 4022–28. <a href="https://doi.org/10.1016/j.clnu.2021.04.017">https://doi.org/10.1016/j.clnu.2021.04.017</a>.
-</div>
-<div id="ref-martin227" class="csl-entry" role="listitem">
-Martin, Lisa, Ioannis Gioulbasanis, Pierre Senesse, and Vickie E. Baracos. 2020. <span>“Cancer-<span>Associated Malnutrition</span> and <span>CT-Defined Sarcopenia</span> and <span>Myosteatosis Are Endemic</span> in <span>Overweight</span> and <span>Obese Patients</span>.”</span> <em>JPEN. Journal of Parenteral and Enteral Nutrition</em> 44 (2): 227–38. <a href="https://doi.org/10.1002/jpen.1597">https://doi.org/10.1002/jpen.1597</a>.
-</div>
-<div id="ref-wang25" class="csl-entry" role="listitem">
-Wang, Yue, Guangwei Tian, Song Chen, and Nan Li. 2021. <span>“Myosteatosis Reduces Overall Survival in Patients with Digestive System Malignancies: A Meta-Analysis with Trial Sequential Analysis.”</span> <em>Nutrition Research (New York, N.Y.)</em> 94 (October): 25–33. <a href="https://doi.org/10.1016/j.nutres.2021.08.003">https://doi.org/10.1016/j.nutres.2021.08.003</a>.
-</div>
-</div></section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
