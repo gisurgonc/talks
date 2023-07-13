@@ -10,9 +10,21 @@ bibliography: zotero.bib
 
 Most studies have measured myosteatosis ('muscle quality') as the Hounsfield units of the skeletal muscle area at L3 defined with thresholds of -29HU to +150HU. The challenge with this approach is the relatively small dispersion of Hounsfield Units.
 
-An alternative is to subdivide skeletal muscle area into high density and low density areas. One method is to distinguish normal attenuation muscle area (NAMA) from low attenuation muscle area (LAMA). This was initially described by investigators from Japan [@kim402].
+An alternative is to subdivide skeletal muscle area into high density and low density areas. One method is to distinguish normal attenuation muscle area (NAMA) from low attenuation muscle area (LAMA). This was initially described by investigators from Japan [@kim4022]. The same grouop measured IMAT within the muscle envelope using fat thresholds. See also 
 
 An alternative (experimental) approach would be assume that a density histogram of the muscle area is a gaussian mixture of two peaks - one for muscle and one for adipose tissue, and to use a mathematical tool such as the mixtools R package to resolve the density histogram into two peaks.
+
+Papers using gaussian mixture for segmentation:
+
+An automated and robust framework for quantification of muscle and fat in the thigh [@tan3173]
+
+J. de Carvalho Felinto et al., \"Automatic segmentation and quantification of thigh tissues in CT images,\" in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol. 10960 LNCS, pp. 261--276, doi: 10.1007/978-3-319-95162-1_18.
+
+GMM for liver segmentation[@dun5524262]()
+
+Johnson SB Mixture model see [ForestFit R package](https://search.r-project.org/CRAN/refmans/ForestFit/html/00Index.html)
+
+#### Myosteatosis
 
 Meta-analysis of 40 studies: overall prevalence of 48% among cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)[@alexio102839]
 
@@ -50,7 +62,9 @@ as quantity evaluated by computed tomography. Clin Nutr 2020;39(6):
 
 ### IMAT
 
-\[\[9\], \[10\], \[11\],\[14\], \[15\], \[16\], \[17\], \[18\]\]
+24
+
+25
 
 -   Goodpaster BH, Thaete FL, Kelley DE. Thigh adipose tissue distribution is
 
@@ -59,13 +73,8 @@ associated with insulin resistance in obesity and in type 2 diabetes mellitus.
 
 Am J Clin Nutr 2000;71(4):885e92.
 
-\[10\] Goodpaster BH, Krishnaswami S, Resnick H, Kelley DE, Haggerty C, Harris TB,
-
-et al. Association between regional adipose tissue distribution and both type 2
-
-diabetes and impaired glucose tolerance in elderly men and women. Diabetes
-
-Care 2003;26(2):372e9.
+Association between regional adipose tissue distribution and both type 2 
+diabetes and impaired glucose tolerance in elderly men and women.[@goodpaster372]
 
 \[11\] Goodpaster BH, Carlson CL, Visser M, Kelley DE, Scherzinger A, Harris TB, et al.
 
