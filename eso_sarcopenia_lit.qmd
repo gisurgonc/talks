@@ -16,17 +16,20 @@ The coexistence of sarcopenia and obesity has led to the identification of a syn
 
 ## Sarcopenia in esophagectomy patients
 
-Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100] sarcopenia predicted short term outcome and survival, but only in patients over age 65
+Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100]. Sarcopenia defined as median SMI for their study group: 47.24cm2/m2 in men and 36.92cm2/m2 in women.  sarcopenia predicted short term outcome and survival, but only in patients over age 65
 
-Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72)
+Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72: 52.1 months vs 20.5 months, P = 0.036)
 
 200 patients with esophageal cancer of whom 130 (65%) had sarcopenia [@tamandl1359] patients with sarcopenia had decreased survival.
 
 Sarcopenia associated with decreased survival (p=0.035) in node-negative esophageal cancer patients after surgery (but not with node-positive).[@harada7]
 
+
 CROSS: 120 patients from CROSS trial who underwent chemoRT followed by surgery. [@grotenhuis2698]. Sarcopenia defined per Prado: 52.4cm2/m2 for men, < 38.5cm2/m2 for women. Median age = 62. Median (range) BMI was 26 kg/m2 (15–43 kg/m2). 54/120 patients were sarcopenic (45%) Of these 54 sarcopenic patients, one patient (2 %) had underweight, 24 patients (44 %) had a normal weight, 24 patients (44 %) had overweight, and five patients (9 %) were obese. Sarcopenic patients had a lower BMI as compared to the non-sarcopenic group: 25 kg/m2 versus 28 kg/m2, respectively (p = 0.001), and were older (64 vs. 61 years, p = 0.01). No difference in in-hospital mortality or survival based upon sarcopenia.
 
-A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).[@nishigori]{Nishigori, 2016 #1996} Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group[@Ida] {Ida, 2015 #1995} found similar association between sarcopenia and pulmonary complications after esophagectomy.
+A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).[@nishigori678]{Nishigori, 2016 #1996}. Sarcopenia definition of Prado. Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. 
+
+Another group[@Ida] {Ida, 2015 #1995} found similar association between sarcopenia and pulmonary complications after esophagectomy.
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy[@tamandl1359]. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality. Sarcopenia was defined: SMI of ≤ 39cm2/m2 for women and ≤ 55cm2/m2 for men 
 
@@ -56,17 +59,13 @@ Daly LE, Ni Bhuachalla EB, Power DG, Cushen SJ, James K, Ryan AM. Loss of skelet
 
 ## Skeletal muscle loss and survival after esophagectomy
 
-Among 130 Austrian patients, sarcopenia was noted in 80 (62%). Median survival was longer in patients without sarcopenia (52months) compared with those with sarcopenia (21 months).{Paireder, 2017 #2003}
-
-Among 131 Korean patients undergoing esophagectomy for esophageal cancer, psoas muscle area was associated with survival.{Park, 2017,13}  Among patients with higher psoas muscle area, 3-year survival was 64.9% and 37% in patients with lower psoas muscle area.
+Among 130 Austrian patients, sarcopenia was noted in 80 (62%).Sarcopenia definition of Prado.  Median survival was longer in patients without sarcopenia (52months) compared with those with sarcopenia (21 months).{Paireder, 2017 #2003}[@paireder478]
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak and overall survival after esophagectomy {Tamandl, 2016 #2006}. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with decreased overall survival.
 
 Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Among these patients.{Makiura, 2018 #2007} sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
 
 A meta-analysis of 4 studies totaling 649 patients showed that sarcopenia was associated with a survival hazard ratio of 1.5 compared with non-sarcopenia patients {Shachar, 2017 #2122}.
-
-Patients undergoing transhiatal esophagectomy showed that among 230 patients, psoas muscle area was associated with post-operative survival among 64 patient who did not undergo neoadjuvant therapy, but was not a significant predictor on multivariable analysis among patients who received neoadjuvant therapy.{Sheetz, 2013 #1999}
 
 Meta-analysis of 11 studies found that sarcopenia was associated with decreased survival after esophagectomy for esophageal cancer [@dengdoy115]
 
