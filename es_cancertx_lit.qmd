@@ -38,16 +38,6 @@ Sarcopenia as a predictor of pulmonary complications after esophagectomy for tho
 
 # Frailty and survival after esophagectomy
 
-Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100] sarcopenia predicted short term outcome and survival, but only in patients over age 65
-
-Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72)
-
-200 patients with esophageal cancer of whom 130 (65%) had sarcopenia [@tamandl1359] patients with sarcopenia had decreased survival.
-
-Sarcopenia associated with decreased survival (p=0.035) in node-negative esophageal cancer patients after surgery (but not with node-positive).[@harada7]
-
-CROSS: Sarcopenia/Muscle Mass is not a Prognostic Factor for Short- and Long-Term Outcome After Esophagectomy for Cancer [@grotenhuis2698]
-
 # Retrospective Trimodality vs dCRT
 
 Italy [@castoro1375] Squamous cell 77 patients over 16 years. Comparable survival with dCRT vs Trimodality even after correcting for propensity score
