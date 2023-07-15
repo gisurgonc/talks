@@ -14,6 +14,30 @@ A less common, but faster method is the extrapolation of muscle mass from the ps
 
 Cross-sectional muscle area is frequently normalized to body height to calculate the Skeletal Muscle Index (SMI).
 
+### Sarcopenia Definitions
+
+Sarcopenia definition using SMI cutoffs stratified by sex: 52.4 cm2 /m2 for men and 38.5 cm 2 /m2 for women [@prado629]
+
+SMI cutoffs stratified by sex and BMI: defined as \<43 cm^2^/m^2^ in men with a BMI \<24.9 kg/m^2^, \<53 cm^2^/m^2^ in men with a BMI [\>]{.underline}25 kg/m^2^, and \<41 cm^2^/m^2^ in women of any BMI [@martin1539] J
+
+Percentiles for SMI and density from healthy Caucasian kidney donors. Cutoff of 5th percentile. [@vanderwerf288]
+
+PREDICT lung cancer tirial:
+
+Low muscle attenuation defined as \<41 HU in men and women with a BMI \<24.9 kg/m^2^, and \<33 HU in men and women with BMI [\>]{.underline}25 kg/m^2^[@martin1539]
+
+Subcutaneous adipose tissue CSA (cm^2^) is identified within a HU range of −190 to −30.^2^ Mitsiopoulos N, Baumgartner RN, Heymsfield SB, et al.. Cadaver validation of skeletal muscle measurement by magnetic resonance imaging and computerized tomography. J Appl Physiol 1998;85:115
+
+ndefinedVisceral adipose tissue CSA (cm^2^) is identified within a HU range of −150 to −50. Miller KD, Jones E, Yanovski JA, et al.. Visceral abdominal-fat accumulation associated with use of indinavir. Lancet 1998;351:871–5. 10.1016/S0140-6736(97)11518
+
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R23)^ Intramuscular adipose tissue CSA (cm^2^) is identified within a HU range of −190 to −30.^[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R22)^ The CSAs of visceral and subcutaneous adipose tissue are combined to derive total abdominal adipose tissue and normalised for height to determine the total adipose tissue index (cm^2^/m^2^).
+
+Low SMI (representing muscle mass) defined as \<43 cm^2^/m^2^ in men with a BMI \<24.9 kg/m^2^, \<53 cm^2^/m^2^ in men with a BMI [\>]{.underline}25 kg/m^2^, and \<41 cm^2^/m^2^ in women of any BMI.^[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R5)^
+
+Low muscle attenuation defined as \<41 HU in men and women with a BMI \<24.9 kg/m^2^, and \<33 HU in men and women with BMI [\>]{.underline}25 kg/m^2^.^[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R5)^
+
+Subcutaneous adipose tissue CSA (cm^2^) is identified within a HU range of −190 to −30.^[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R22)^ Visceral adipose tissue CSA (cm^2^) is identified within a HU range of −150 to −50.^[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R23)^ Intramuscular adipose tissue CSA (cm^2^) is identified within a HU range of −190 to −30.^[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R22)^ The CSAs of visceral and subcutaneous adipose tissue are combined to derive total abdominal adipose tissue and normalised for height to determine the total adipose tissue index (cm^2^/m^2^).
+
 Reduction in muscle mass can also be accompanied by an increased proportion of intra-muscular fat {Delmonico,  #1983}. The density of muscle mass on cross-sectional imaging has been used to estimate the Skeletal Muscle Density (SMD), which represents fatty infiltration of the muscle, which is based upon the differential density of fat and muscle on CT imaging.
 
 Visceral adipose tissue (VAT) can be measured in similar fashion to skeletal muscle, using analysis of axial CT images.
@@ -78,12 +102,12 @@ Patients over age 80 are most rapidly growing group: Simmonds PD, Best L, Geroge
 
 CRC Patients: increasing BMI associated with increasing SMI AND with decreasing SMD [@xiao615]
 
-# Methods
+# Skeletal Muscle Index
 
 Skeletal Muscle Index - Correction for height dividing by height^1^ rather than height^2^ [@derstine279]
 
 Canada - Similar findings - SMA scales to the power of 1 for men and to the power of 0.8 for women [@brown203]
 
-Psoas Muscle
+### Psoas Muscle
 
 Psoas muscle index less reliable than skeletal muscle index in looking at mortality during liver transplant weight list [@ebadi1053]
