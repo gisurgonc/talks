@@ -12,7 +12,7 @@ bibliography: zotero.bib
 
 Sarcopenia is associated with postoperative infection and delayed recovery from colorectal cancer resection surgery. Br J Cancer. 2012;107(6):931--6[@lieffers931]
 
-#                                  Utility of Fully Automated Body Composition Measures on Pretreatment  Abdominal CT for Predicting Survival in Patients With Colorectal Cancer           
+# Utility of Fully Automated Body Composition Measures on Pretreatment Abdominal CT for Predicting Survival in Patients With Colorectal Cancer
 
 1766 CRC CT scans portal venous phase at L3: VAT, SAT, and aortic calcifications. Higher mortality with lower muscle attenuation, lower SAT, and higher aortic calcium. Measures with highest 5-year AUCs for predicting survival in patients without (*n* = 1303) and with (*n* = 463) metastatic disease were muscle attenuation (0.666 and 0.701, respectively) and aortic calcium (0.677 and 0.689, respectively). A combination of muscle attenuation, SAT area, and aortic calcium yielded 5-year AUCs of 0.758 and 0.732 in patients without and with metastases, respectively. Risk of death was increased (*p* \< .05) in patients in the lowest quartile for muscle attenuation (hazard ratio \[HR\] = 1.55) and SAT area (HR = 1.81) and in the highest quartile for aortic calcium (HR = 1.37) and decreased (*p* \< .05) in patients in the highest quartile for VAT area (HR = 0.79) and SAT area (HR = 0.76). In 423 patients with available BMI, BMI did not significantly predict death (*p* = .75). [@lee371]
 

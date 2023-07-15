@@ -3,33 +3,38 @@ title: "Esophageal Cancer and Sarcopenia"
 editor: visual
 bibliography: zotero.bib
 ---
+
 # Sarcopenia in esophageal cancer
 
-[Sarcopenia Methods](sarcopenia_lit.html)
-[Sarcopenia in GI Cancers](gi_sarcopenia_lit.html)
-[Sarcopenia in Chemotherapy](chemo_sarcopenia_lit.html)
-[Esophageal Cancer Therapy](es_cancertx_lit.html)
+[Sarcopenia Methods](sarcopenia_lit.html) [Sarcopenia in GI Cancers](gi_sarcopenia_lit.html) [Sarcopenia in Chemotherapy](chemo_sarcopenia_lit.html) [Esophageal Cancer Therapy](es_cancertx_lit.html)
 
 The patient with esophageal cancer faces multiple challenges in changes in body composition related to both muscle mass and adipose tissue. Patients frequently present with loss of adipose tissue and muscle from dysphaghia due to the primary tumor. Neoadjuvant chemoradiation can improve oral intake due to tumor shrinkage, but can also decrease oral nutrition due to esophagitis and the catabolic effects of cytotoxic therapy.  In addition, patients undergoing esophagectomy frequently lose weight due to limited oral intake and the catabolic effects of the stress of surgery.
 
 For patients treated with neoadjuvant therapy, the chemoradiation treatment prior to surgery can be seen as a 'stress test' which can further assist in evaluating a patient's resilience to the stress of surgery.
 
-The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI >30kg/m^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.[@prado629] [@martin]
+The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI \>30kg/m\^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.[@prado629] [@martin]
 
+## Sarcopenia in esophagectomy patients
 
+Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100] sarcopenia predicted short term outcome and survival, but only in patients over age 65
 
-## Skeletal muscle loss in esophagectomy patients
+Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72)
 
+200 patients with esophageal cancer of whom 130 (65%) had sarcopenia [@tamandl1359] patients with sarcopenia had decreased survival.
 
-A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).[@nishigori]{Nishigori, 2016 #1996} Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group[@Ida] {Ida, 2015 #1995} found similar association
-between sarcopenia and pulmonary complications after esophagectomy.
+Sarcopenia associated with decreased survival (p=0.035) in node-negative esophageal cancer patients after surgery (but not with node-positive).[@harada7]
 
+CROSS: 120 patients from CROSS trial who underwent chemoRT followed by surgery. [@grotenhuis2698]. Sarcopenia defined per Prado: 52.4cm2/m2 for men, < 38.5cm2/m2 for women. Median age = 62. Median (range) BMI was 26 kg/m2 (15–43 kg/m2). 54/120 patients were sarcopenic (45%) Of these 54 sarcopenic patients, one patient (2 %) had underweight, 24 patients (44 %) had a normal weight, 24 patients (44 %) had overweight, and five patients (9 %) were obese. Sarcopenic patients had a lower BMI as compared to the non-sarcopenic group: 25 kg/m2 versus 28 kg/m2, respectively (p = 0.001), and were older (64 vs. 61 years, p = 0.01). No difference in in-hospital mortality or survival based upon sarcopenia.
 
-A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy[@tamandl1359]. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality.
+A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).[@nishigori]{Nishigori, 2016 #1996} Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. Another group[@Ida] {Ida, 2015 #1995} found similar association between sarcopenia and pulmonary complications after esophagectomy.
 
-Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Among these patients the 90-day readmission rate was 42.9% vs 16% in those without sarcopenia[@makiura456]. In addition, sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy[@tamandl1359]. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality. Sarcopenia was defined: SMI of ≤ 39cm2/m2 for women and ≤ 55cm2/m2 for men 
+
+Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Sarcopenia defined by appendicular skeletal mass and grip strength <26kg(men) and <18kg(women). Among these patients the 90-day readmission rate was 42.9% vs 16% in those without sarcopenia[@makiura456].  In addition, sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
 
 Irish study [@elliott822]
+
+Meta-analysis of 8 studies [@shizas120]
 
 ## Skeletal Muscle Loss during Esophageal ChemoRT
 
@@ -68,6 +73,7 @@ Meta-analysis of 11 studies found that sarcopenia was associated with decreased 
 Sarcopenia and survival and unplanned admissions after esophagectomy [@makiura456]
 
 Sarcopenia and postop pulmonary complications after esophagectomy [@makiura430]
+
 
 # Risk Stratification for esophagectomy
 
