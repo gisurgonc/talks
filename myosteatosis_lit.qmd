@@ -20,7 +20,7 @@ An automated and robust framework for quantification of muscle and fat in the th
 
 J. de Carvalho Felinto et al., \"Automatic segmentation and quantification of thigh tissues in CT images,\" in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol. 10960 LNCS, pp. 261--276, doi: 10.1007/978-3-319-95162-1_18.
 
-GMM for liver segmentation[@dun5524262]()
+GMM for liver segmentation[@dunj5654424]
 
 Johnson SB Mixture model see [ForestFit R package](https://search.r-project.org/CRAN/refmans/ForestFit/html/00Index.html)
 
@@ -44,7 +44,7 @@ the Charlson Comorbidity Score was associated with low SMD, echoing our previous
 
 ### LAMA/NAMA
 
-LAMA/NAMA ratio proposed as better judge of myosteasosis than density [@kim402]
+LAMA/NAMA ratio proposed as better judge of myosteasosis than density [@kim4022]
 
 Maltais A, Almeras N, Lemieux I, Tremblay A, Bergeron J, Poirier P, et al. Trunk
 

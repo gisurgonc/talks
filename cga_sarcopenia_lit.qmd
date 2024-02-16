@@ -66,7 +66,7 @@ Stokoe JM, Pearce J, Sinha R, Ring A. G8 and VES‐13 scores predict chemotherap
 
 ## Pulmonary function testing.
 
-Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy {Makiura, 2016, 2016}. Patients were designated as frail based upon hand-grip strength \<26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
+Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy [@makiura430]. Patients were designated as frail based upon hand-grip strength \<26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
 
 ## Hand Grip Strength
 
@@ -74,7 +74,7 @@ Kilgour 2013 p 1894 Veni 2018 and Boyas
 
 ## 6 minute walk test
 
-Gait speed {Guralnik, 2000 #2252} ??DIsmybility as screening test for frailty Studenski 2061 Gait speed and mortality in older adults studenski 50
+Gait speed [@garalnikM221]  ??DIsmybility as screening test for frailty Studenski 2061 Gait speed and mortality in older adults [@studenski50] 
 
 ## Stair-climbing
 

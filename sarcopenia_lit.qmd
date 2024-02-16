@@ -30,7 +30,7 @@ Subcutaneous adipose tissue CSA (cm^2^) is identified within a HU range of −19
 
 ndefinedVisceral adipose tissue CSA (cm^2^) is identified within a HU range of −150 to −50. Miller KD, Jones E, Yanovski JA, et al.. Visceral abdominal-fat accumulation associated with use of indinavir. Lancet 1998;351:871–5. 10.1016/S0140-6736(97)11518
 
-[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R23)^ Intramuscular adipose tissue CSA (cm^2^) is identified within a HU range of −190 to −30.^[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R22)^ The CSAs of visceral and subcutaneous adipose tissue are combined to derive total abdominal adipose tissue and normalised for height to determine the total adipose tissue index (cm^2^/m^2^).
+[23](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R23)\^ Intramuscular adipose tissue CSA (cm^2^) is identified within a HU range of −190 to −30.^[22](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R22)^ The CSAs of visceral and subcutaneous adipose tissue are combined to derive total abdominal adipose tissue and normalised for height to determine the total adipose tissue index (cm^2^/m^2^).
 
 Low SMI (representing muscle mass) defined as \<43 cm^2^/m^2^ in men with a BMI \<24.9 kg/m^2^, \<53 cm^2^/m^2^ in men with a BMI [\>]{.underline}25 kg/m^2^, and \<41 cm^2^/m^2^ in women of any BMI.^[5](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8477324/#R5)^
 
@@ -62,9 +62,9 @@ Sarcopenia methods - varies 19/92 [@amini1671] Review of challenges in methods i
 
 Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic cancer, an elevated ratio of visceral adipose tissue to skeletal muscle as associated with postoperative complications.[@sandini1231]
 
-Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al {Birdsell,6973}.[@birdsell6973]
+Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al [@Tanl6973]
 
-A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy {Tamandl, 2016 #2006}. \[??relation to VAT\] \*\*\* This paper is Tamadl 1359 related to overall survival.
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy [@tamandl1359] 
 
 Visceral obesity and colorectal cancer [@dong827481]
 
