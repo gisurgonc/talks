@@ -12,7 +12,7 @@ The patient with esophageal cancer faces multiple challenges in changes in body 
 
 For patients treated with neoadjuvant therapy, the chemoradiation treatment prior to surgery can be seen as a 'stress test' which can further assist in evaluating a patient's resilience to the stress of surgery.
 
-The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI \>30kg/m\^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.[@prado629] [@martin]
+The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI \>30kg/m\^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.[@prado629] [@martin1539]
 
 ## Sarcopenia in esophagectomy patients
 
@@ -29,7 +29,7 @@ CROSS: 120 patients from CROSS trial who underwent chemoRT followed by surgery. 
 
 A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).[@nishigori678]{Nishigori, 2016 #1996}. Sarcopenia definition of Prado. Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia. 
 
-Another group[@Ida] {Ida, 2015 #1995} found similar association between sarcopenia and pulmonary complications after esophagectomy.
+Another group[@Ida4432]  found similar association between sarcopenia and pulmonary complications after esophagectomy.
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic after esophagectomy[@tamandl1359]. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality. Sarcopenia was defined: SMI of ≤ 39cm2/m2 for women and ≤ 55cm2/m2 for men 
 
@@ -37,7 +37,7 @@ Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (3
 
 Irish study [@elliott822]
 
-Meta-analysis of 8 studies [@shizas120]
+Meta-analysis of 8 studies [@schizas120]
 
 ## Skeletal Muscle Loss during Esophageal ChemoRT
 
@@ -82,4 +82,4 @@ Sarcopenia and postop pulmonary complications after esophagectomy [@makiura430]
 
 ## V02max
 
-Jack et al [@jack1313a] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
+Jack et al [@jack1313] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy

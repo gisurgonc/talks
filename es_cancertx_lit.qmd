@@ -28,7 +28,7 @@ Operative mortality after esophagectomy in those over age 80 is 19.9% (vs 8.8% u
 
 # Frailty and complications after esophagectomy
 
-Dublin [@elliott822b] Sarcopenia present in XX % and was associated with increased risk of perioperative complications. Sarcopenia was not associated with hospital mortality, which was 1%. Sarcopenia was associated with reduced 5-year survival, as was loss of muscle mass during neoadjuvant therapy.
+Dublin [@elliott822] Sarcopenia present in XX % and was associated with increased risk of perioperative complications. Sarcopenia was not associated with hospital mortality, which was 1%. Sarcopenia was associated with reduced 5-year survival, as was loss of muscle mass during neoadjuvant therapy.
 
 Review of sarcopenia and outcomes after GI cancer surgery [@su82] Sarcopenia associated with increased risk of postoperative complications and decreased survival after esophagectomy.
 
