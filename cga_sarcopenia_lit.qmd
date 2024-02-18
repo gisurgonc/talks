@@ -2,6 +2,8 @@
 title: "Comprehensive Geriatric Assessment"
 editor: visual
 bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
 ---
 
 # Comprehensive Geriatric Assessment
@@ -74,7 +76,7 @@ Kilgour 2013 p 1894 Veni 2018 and Boyas
 
 ## 6 minute walk test
 
-Gait speed [@garalnikM221]  ??DIsmybility as screening test for frailty Studenski 2061 Gait speed and mortality in older adults [@studenski50] 
+Gait speed [@garalnikM221] ??DIsmybility as screening test for frailty Studenski 2061 Gait speed and mortality in older adults [@studenski50]
 
 ## Stair-climbing
 
