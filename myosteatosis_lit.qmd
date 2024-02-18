@@ -2,6 +2,8 @@
 title: "Myosteatosis Literature"
 editor: visual
 bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
 ---
 
 # Myosteasosis
@@ -10,7 +12,7 @@ bibliography: zotero.bib
 
 Most studies have measured myosteatosis ('muscle quality') as the Hounsfield units of the skeletal muscle area at L3 defined with thresholds of -29HU to +150HU. The challenge with this approach is the relatively small dispersion of Hounsfield Units.
 
-An alternative is to subdivide skeletal muscle area into high density and low density areas. One method is to distinguish normal attenuation muscle area (NAMA) from low attenuation muscle area (LAMA). This was initially described by investigators from Japan [@kim4022]. The same grouop measured IMAT within the muscle envelope using fat thresholds. See also 
+An alternative is to subdivide skeletal muscle area into high density and low density areas. One method is to distinguish normal attenuation muscle area (NAMA) from low attenuation muscle area (LAMA). This was initially described by investigators from Japan [@kim4022]. The same grouop measured IMAT within the muscle envelope using fat thresholds. See also
 
 An alternative (experimental) approach would be assume that a density histogram of the muscle area is a gaussian mixture of two peaks - one for muscle and one for adipose tissue, and to use a mathematical tool such as the mixtools R package to resolve the density histogram into two peaks.
 
@@ -18,7 +20,7 @@ Papers using gaussian mixture for segmentation:
 
 An automated and robust framework for quantification of muscle and fat in the thigh [@tan3173]
 
-J. de Carvalho Felinto et al., \"Automatic segmentation and quantification of thigh tissues in CT images,\" in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol. 10960 LNCS, pp. 261--276, doi: 10.1007/978-3-319-95162-1_18.
+J. de Carvalho Felinto et al., "Automatic segmentation and quantification of thigh tissues in CT images," in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol. 10960 LNCS, pp. 261--276, doi: 10.1007/978-3-319-95162-1_18.
 
 GMM for liver segmentation[@dunj5654424]
 

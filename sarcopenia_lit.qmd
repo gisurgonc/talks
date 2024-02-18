@@ -2,6 +2,8 @@
 title: "Sarcopenia Literature"
 editor: visual
 bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
 ---
 
 # CT measurement of body composition
@@ -64,7 +66,7 @@ Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic can
 
 Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al [@tan6973]
 
-A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy [@tamandl1359] 
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy [@tamandl1359]
 
 Visceral obesity and colorectal cancer [@dong827481]
 

@@ -2,6 +2,8 @@
 title: "Cachexia Literature"
 editor: visual
 bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
 ---
 
 # Cachexia

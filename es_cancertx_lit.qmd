@@ -2,6 +2,8 @@
 title: "Esophageal Cancer Treatment Decisions"
 editor: visual
 bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
 ---
 
 # Esophagectomy in the Elderly

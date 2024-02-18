@@ -2,22 +2,14 @@
 title: "Chemotherapy Toxicity"
 editor: visual
 bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
 ---
 
 # Complications of outpatient chemotherapy
 
-Cancer patients receiving chemotherapy have one hospital admission and two ED visits per year; approximately 40 percent of these admissions
-and 50 percent of these ED visits stem from complications of chemotherapy Klodziej M, Hoverman JR, Garey JS, et al. Benchmarks for value in cancer care: an analysis of
-a large commercial population. J Oncol Pract. 2011;7:301–306.
+Cancer patients receiving chemotherapy have one hospital admission and two ED visits per year; approximately 40 percent of these admissions and 50 percent of these ED visits stem from complications of chemotherapy Klodziej M, Hoverman JR, Garey JS, et al. Benchmarks for value in cancer care: an analysis of a large commercial population. J Oncol Pract. 2011;7:301–306.
 
+Mayer DK, Travers D, Wyss A, Leak A, Waller A. Why do patients with cancer visit emergency departments? Results of a 2008 population study in North Carolina. J Clin Oncol. 2011;26(19):2683-2688.
 
-
-
-Mayer DK, Travers D, Wyss A, Leak A, Waller A. Why do patients with cancer visit
-emergency departments? Results of a 2008 population study in North Carolina. J Clin Oncol.
-2011;26(19):2683-2688.
-
-
-Foltran L, Aprile G, Pisa FE, et al. Risk of unplanned visits for colorectal cancer outpatients
-receiving chemotherapy: a case-crossover study. Support Care Cancer. 2014;22(9):2527-
-2533.
+Foltran L, Aprile G, Pisa FE, et al. Risk of unplanned visits for colorectal cancer outpatients receiving chemotherapy: a case-crossover study. Support Care Cancer. 2014;22(9):2527- 2533.

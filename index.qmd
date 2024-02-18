@@ -38,7 +38,7 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Machine Learning for CT segmentation](sarcopenia_ai.html)
 
-[CGA and Sarcopenia](cga_sarcopenia_lit.html)
+[Comprehensive Geriatric Assessmnent](cga_sarcopenia_lit.html)
 
 [Myosteatosis](myosteatosis_lit.html)
 
@@ -56,9 +56,7 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 # Disparities
 
-[GI Disparities](gi_disparities_lit.html)
-
-[Disparities](disparities.html)
+[GI Cancer Disparities](gi_disparities_lit.html)
 
 # Blood Management Program
 
