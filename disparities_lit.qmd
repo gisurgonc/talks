@@ -19,3 +19,5 @@ Census tracts generally are homogenous [@diezroux125] Neighborhoods and health
 SDI and rate of stoma reversal [@reid1039]
 
 Z score and SDI: MK Beckett SC Martino Published online
+
+Underuse of surgery accounts for racial disparities in esophageal cancer survival. Dong CLin Gast Hepatol PMID 30036643

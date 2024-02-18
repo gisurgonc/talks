@@ -92,7 +92,7 @@
   <macro name="access">
     <choose>
       <if variable="pmid">
-        <text variable="pmid" prefix="https://vb3lk7eb4t.search.serialssolutions.com/?sid=Entrez:PubMed&id="/>
+        <text variable="pmid" prefix="https://vb3lk7eb4t.search.serialssolutions.com/?id="/>
       </if>
       <else-if type="webpage post-weblog" match="any">
         <group delimiter=" ">

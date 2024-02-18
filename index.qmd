@@ -56,7 +56,7 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 # Disparities
 
-[GI Disparities](gi_disparities.html)
+[GI Disparities](gi_disparities_lit.html)
 
 [Disparities](disparities.html)
 
