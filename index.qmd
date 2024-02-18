@@ -14,7 +14,7 @@ title: "GI Surgical Oncology"
 
 Role of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery
 
-[Surgical Decision Making](es_cancertx.html)
+[Surgical Decision Making](es_cancertx_lit.html)
 
 # Gastric
 
