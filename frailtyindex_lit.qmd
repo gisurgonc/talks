@@ -72,7 +72,7 @@ In 347 stage IV gastric cancer patients at high nutrition risk and receiving pal
 
 ## Pulmonary function testing.
 
-Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy [@makiura] , 2016, 2016}. Patients were designated as frail based upon hand-grip strength \<26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
+Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy [@makiura430] , 2016, 2016}. Patients were designated as frail based upon hand-grip strength \<26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.
 
 ## Hand Grip Strength
 
@@ -84,11 +84,11 @@ Gait speed and mortality in older adults [@studenski50]
 
 ### Short Physical Performance Battery
 
-SPPB predicts survival and nursing home admission [@guralnik50]
+SPPB predicts survival and nursing home admission [@guralnikM85]
 
 ## Stair-climbing
 
-Stair Climbing is strong predictor of perioperative morbidity[@redddy559]
+Stair Climbing is strong predictor of perioperative morbidity[@reddy559]
 
 ## Timed up and go
 

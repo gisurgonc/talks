@@ -62,7 +62,7 @@ Sarcopenia methods - varies 19/92 [@amini1671] Review of challenges in methods i
 
 Among a group of 42 patiens underoing pancreaticoduodenectomy for pancreatic cancer, an elevated ratio of visceral adipose tissue to skeletal muscle as associated with postoperative complications.[@sandini1231]
 
-Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al [@Tanl6973]
+Investigators at McMaster University examined 50 patients with pancreatic cancer and serially measured body skeletal muscle and visceral adipose tissue.  They found that survival was shorter in patients with more accelerated skeletal muscle loss as well as in those the loss of visceral adipose tissue. Similar findings were reported by Tan et al [@tan6973]
 
 A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy [@tamandl1359] 
 
