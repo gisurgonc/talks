@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Perforation"
+title: "Rectal Cancer Adjuvant Therapy"
 format: 
   revealjs:
     slide-number: c/t
@@ -13,6 +13,30 @@ format:
     echo: false
 editor: visual
 ---
+
+::: {#fig-elephant}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNggmeilXDQ"></iframe>
+
+Elephant
+:::
+
+# Total Mesorectal Excision
+
+![](images/TME.jpeg){.absolute top=200 left=0 width="530" height="414"}
+
+# Image
+
+![](images/TME.jpeg){.absolute top=200 }
+
+
+# Image
+
+![TME](images/TME.jpeg){fig-align="right"}
+
+# Image
+
+![TME](images/TME.jpeg){fig-align="right" width="90%"}
 
 # Esophageal Perforation
 

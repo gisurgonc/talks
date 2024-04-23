@@ -6,6 +6,8 @@ title: "GI Surgical Oncology"
 
 [Esophageal Perforation SCORE Lecture](esoph_perf.html)
 
+[Esophageal Cancer Lecture](eso_ca_rx_talk.html)
+
 # Esophagectomy Working Group
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
