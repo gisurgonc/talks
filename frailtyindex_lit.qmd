@@ -36,6 +36,32 @@ MFI and mortality after hip fracture [@daddimanie30951] 36465740
 
 NLP of unstructured EHR data to identify geriatric syndrome [@kharrazi1499]
 
+mFrailty5 [@subramaniam17]
+
+mFrailty5 and Colorectal cancer [@mcgovern9] mFrailty5 strongly associated with age. Multivariable analysis with age \<65, 65-75, and 75+ and mFI5 (0/1/\>2) parsimonious model includes sex, systemic inflammation, and mFailty5
+
+panayi 393
+
+Velanovich V, Antoine H, Swartz A, Peters D, Rubinfeld I. Accumulating
+deficits model of frailty and postoperative mortality and morbidity: its
+application to a national database. J Surg Res. 2013;183(1):104–10.
+
+Colorectal cancer over age 65 [@simon1363] mFrailty5 correlated with mortality but no multivariate analysis was done to separate age from mFrailty5
+
+Lascano D, Pak JS, Kates M, et al. Validation of a frailty index
+in patients undergoing curative surgery for urologic malignancy and
+comparison with other risk stratification tools. Urol Oncol. 2015;33(10):426.e1–12.
+
+Frailty is a better predictor than age for outcomes in geriatric patients with rectal cancer undergoing proctectomy. [@miller504]
+
+NSQIP Dat for coletomy CABG PD, pneumonectomy, esophagecgtomy 2002-2017 [@wane721] compared mFrailty5 with others and concluded it was "ineffective" in predicting 30=day morbidity and mortality
+
+Columbia University:mFrailty5 in predicting outcomes. "predictive ability is enhanced when other patietn-specific risk factors are incorporated [@keller1396]
+
+mFrailty5 in orthopedic surgery
+
+Traven SA, Reeves RA, Althoff AD, et al. New five-factor modified frailty index predicts morbidity and mortality in geriatric hip fractures. J Orthop Trauma. 2019;33:319–323. 23. Traven SA, Reeves RA, Sekar MG, et al. New 5-factor modified frailty index predicts morbidity and mortality in primary hip and knee arthroplasty. J Arthroplasty. 2019;34:140–144. 24. Weaver DJ, Malik AT, Jain N, et al. The Modified 5-item frailty index: a concise and useful tool for assessing the impact of frailty on postoperative morbidity following elective posterior lumbar fusions. World Neurosurg. 2019;124:e626–e632.
+
 # Comprehensive Geriatric Assessment
 
 ## CARE Survey
