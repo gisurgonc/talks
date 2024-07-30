@@ -8,7 +8,13 @@ title: "GI Surgical Oncology"
 
 [Esophageal Cancer Lecture](eso_ca_rx_talk.html)
 
-[Patient Slides](EsoCaFull.pdf)
+# Patient Education
+
+[Esophageal Cancer](/images/EsoCaFull.pdf)
+
+[Esophageal Cancer T3](/images/EsoCaT3.pdf)
+
+[Gastric Cancer](/images/Gastric.pdf)
 
 # Esophagectomy Working Group
 

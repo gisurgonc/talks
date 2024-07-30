@@ -42,15 +42,11 @@ mFrailty5 and Colorectal cancer [@mcgovern9] mFrailty5 strongly associated with 
 
 panayi 393
 
-Velanovich V, Antoine H, Swartz A, Peters D, Rubinfeld I. Accumulating
-deficits model of frailty and postoperative mortality and morbidity: its
-application to a national database. J Surg Res. 2013;183(1):104–10.
+Velanovich V, Antoine H, Swartz A, Peters D, Rubinfeld I. Accumulating deficits model of frailty and postoperative mortality and morbidity: its application to a national database. J Surg Res. 2013;183(1):104–10.
 
 Colorectal cancer over age 65 [@simon1363] mFrailty5 correlated with mortality but no multivariate analysis was done to separate age from mFrailty5
 
-Lascano D, Pak JS, Kates M, et al. Validation of a frailty index
-in patients undergoing curative surgery for urologic malignancy and
-comparison with other risk stratification tools. Urol Oncol. 2015;33(10):426.e1–12.
+Lascano D, Pak JS, Kates M, et al. Validation of a frailty index in patients undergoing curative surgery for urologic malignancy and comparison with other risk stratification tools. Urol Oncol. 2015;33(10):426.e1–12.
 
 Frailty is a better predictor than age for outcomes in geriatric patients with rectal cancer undergoing proctectomy. [@miller504]
 
