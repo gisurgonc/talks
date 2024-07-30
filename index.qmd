@@ -8,6 +8,8 @@ title: "GI Surgical Oncology"
 
 [Esophageal Cancer Lecture](eso_ca_rx_talk.html)
 
+[Patient Slides](EsoCaFull.pdf)
+
 # Esophagectomy Working Group
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
