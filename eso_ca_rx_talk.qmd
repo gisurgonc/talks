@@ -135,10 +135,11 @@ Adjuvant nivolumab group had better survival
 
 # Neoadjuvant Chemo for EsoCA
 
-- MAGIC trial (gastric and GE junction): ECF $\rightarrow$ Surgery $\rightarrow$ ECF *vs* Surgery  ECF= (Epirubicin, cisplatin, 5FU) 
-- OEO2 Trial: (esophageal) Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery  
-- FLOT (gastric): FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT *vs* ECF $\rightarrow$ Surgery $\rightarrow$ ECF 
-- EsoPEC: (esophageal):FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT *vs* ChemoRT$\rightarrow$ Surgery (CROSS)
+- MAGIC trial (gastric): ECF$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery  
+- OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery  
+- FLOT (gastric): FLOT$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF 
+- EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
+
 
 # OEO2 Clinical Trial
 
