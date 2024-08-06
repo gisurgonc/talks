@@ -1,19 +1,12 @@
 ---
 title: "Esophageal Cancer Treatment"
-format: 
-  revealjs:
-    slide-number: c/t
-    width: 1600
-    height: 900
-    logo: "atriumlogo.jpg"
-    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
-    #css: ["theme/theme.css"]
-    theme: default
-      
-    echo: false
 editor: visual
 bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
 ---
+
+# Disparities in esophageal cancer
 
 # Treatment Categories
 
@@ -167,10 +160,4 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 -   Dose-limiting toxicity is frequently peripheral neuropathy
 
-# Orientation Manual
-
-{{< qrcode https://gisurgonc.github.io/orientation width=500 height=500  >}}
-
 # References
-
-
