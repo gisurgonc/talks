@@ -1,0 +1,67 @@
+---
+title: "Operating Room Costs"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+# OR costs
+
+Understanding Costs in the Operating Room [@childerse176233]
+
+--\> Need to finish cited by search
+
+# Robotic Surgery Costs
+
+Cost of acquisition and operation of robots [@childers835]
+
+> Review of Intuitive 10K filings. Instrument costs avers \$1886 per case and purchase and maintenance is \$1701
+
+-\> review of 196 cited by:
+
+Reducing robotic prostatectomy costs by minimizing instrumentation [@delto556]
+
+> Two urologists reduced costs by elminating Ligasure/vessel sealer, and use of Hem-o-lok clips
+
+# Orthopedics
+
+# Cholecystectomy
+
+Safety of robot-assisted vs laparoscopi cholecystectomy [@kalata]. SEER-Medicare. Higher risk of common duct injury with robotic (0.7% vs 0.2%)
+
+Cost outcomes lap vs open cholecystectomy[@strosburg1436]. Single-center study of 237 patients. Robot associated with longer times, higher charges and costs and no difference in payments (and lower revenue).
+
+# Hernia Repair
+
+Randomized trial of 124 patients: Robot more expensive [@olavarria2457]
+
+# Review
+
+Improving Operating Room Efficiency [@lees11934]
+
+--\> need to do google scholar
+
+# Machine Learning
+
+Machine Learning in OR optimization (review) [@bellini20]
+
+AI in US Healthcare delivery NEJM [@sahni]
+
+OR performance optimization metrics [@schouten19]
+
+ML in OR efficiency [@fairley756]
+
+# Operating Room Efficiency
+
+[@mazzei405]
+
+[@overdyk896]\]
+
+Reducing cancellations [@luo141][@shashabikargar]
+
+Estimating mortality [@bihorac269]
+
+Waste Reduction in the OR review [@balch252]
+
+Cancellation Prediction
