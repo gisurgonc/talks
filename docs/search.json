@@ -130,7 +130,7 @@
     "href": "eso_ca_rx_talk.html#dyplasia",
     "title": "Esophageal Cancer Treatment",
     "section": "Dyplasia",
-    "text": "Dyplasia\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year"
+    "text": "Dyplasia\nRadiofrequency Ablation for Dysplasia\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n\n(Shaheen et al. 2009)"
   },
   {
     "objectID": "eso_ca_rx_talk.html#superficial-tumors",
@@ -158,14 +158,14 @@
     "href": "eso_ca_rx_talk.html#small-tumors-minimal-dysphagia",
     "title": "Esophageal Cancer Treatment",
     "section": "Small Tumors (minimal dysphagia)",
-    "text": "Small Tumors (minimal dysphagia)\n\nEUS to distinguish T2 from T3 tumors\nIf uT2 N0 \\(\\rightarrow\\) CT chest/abdomen/pelvis \\(\\rightarrow\\) Esophagectomy\nIf uT3 or N1 \\(\\rightarrow\\) PET \\(\\rightarrow\\) neoadjuvant therapy"
+    "text": "Small Tumors (minimal dysphagia)\n\nEUS to distinguish T2 from T3 tumors\nIf uT2 N0 \\(\\rightarrow\\) CT chest/abdomen/pelvis \\(\\rightarrow\\) Esophagectomy\nIf uT3 or N1 \\(\\rightarrow\\) PET \\(\\rightarrow\\) neoadjuvant therapy\n\nPatients with dysphagia almost always are T3 tumors (and don’t need EUS)"
   },
   {
     "objectID": "eso_ca_rx_talk.html#symptomatic-tumors-dysphagia",
     "href": "eso_ca_rx_talk.html#symptomatic-tumors-dysphagia",
     "title": "Esophageal Cancer Treatment",
     "section": "Symptomatic Tumors (Dysphagia)",
-    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) Locally-advanced\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
+    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) Locally-advanced\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
   },
   {
     "objectID": "eso_ca_rx_talk.html#eus-in-patients-with-dysphagia",
@@ -186,7 +186,7 @@
     "href": "eso_ca_rx_talk.html#locally-advanced",
     "title": "Esophageal Cancer Treatment",
     "section": "Locally-advanced",
-    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved outcomes with additional therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
+    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
   },
   {
     "objectID": "eso_ca_rx_talk.html#cross-trial",
@@ -887,5 +887,54 @@
     "title": "Disparities Literature",
     "section": "",
     "text": "Investigators at the University of Illinois (Jang et al., 2020) examined the change in skeletal muscle index during cancer treatment among 212 patients. Among 132 non-Hispanic Black patients, muscle loss during therapy was greater than non-Hispanic White and Other (Asian + Hispanic) (Odds Ratio 3.29 p=0.004). The loss was highest in Black rectal cancer patients (11 units of SMI loss cm2/m2) vs White rectal Cancer (8 cm2/m2). Loss among colon cancer patients was higher in Black patients ( 5.5 cm2/m2) than in White patients (2.5 cm2/m2). Prior to treatment, Blacks had higher SMI than White (similar to findings of Xaio 2019)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#dyplasia-1",
+    "href": "eso_ca_rx_talk.html#dyplasia-1",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Dyplasia",
+    "text": "Dyplasia\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n\n\n\nShaheen et al. (2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia-dysplasia",
+    "href": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia-dysplasia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Radiofrequency Ablation for Dysplasia {##Dysplasia}",
+    "text": "Radiofrequency Ablation for Dysplasia {##Dysplasia}\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#Dysplasia",
+    "href": "eso_ca_rx_talk.html#Dysplasia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Radiofrequency Ablation for Dysplasia",
+    "text": "Radiofrequency Ablation for Dysplasia\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia",
+    "href": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Radiofrequency Ablation for Dysplasia",
+    "text": "Radiofrequency Ablation for Dysplasia\n\n\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia-dysplasia-dsyplasia",
+    "href": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia-dysplasia-dsyplasia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Radiofrequency Ablation for Dysplasia {# Dysplasia} {(Dsyplasia?)}",
+    "text": "Radiofrequency Ablation for Dysplasia {# Dysplasia} {(Dsyplasia?)}\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#dysplasia",
+    "href": "eso_ca_rx_talk.html#dysplasia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Dysplasia",
+    "text": "Dysplasia\nRadiofrequency Ablation for Dysplasia\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#cross---sites-of-failure",
+    "href": "eso_ca_rx_talk.html#cross---sites-of-failure",
+    "title": "Esophageal Cancer Treatment",
+    "section": "CROSS - Sites of Failure",
+    "text": "CROSS - Sites of Failure\n\n\nSites of failure over time\nChemoRT + Surgery vs Surgery\n\n\n\n\n\n\n(Shapiro et al. 2015)"
   }
 ]

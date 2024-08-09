@@ -25,9 +25,57 @@ bibliography: zotero.bib
 | [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
 | [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
 
+
 ## Dyplasia
 
+Radiofrequency Ablation for Dysplasia
+
+:::: {.columns}
+
+::: {.column width="60%"}
+127 patients with dysplasia randomized:
+
+- Radio-frequency ablation
+- Sham ablation
+
+Low-grade dysplasia in 64
+
+High-grade dysplasia in 63
+
+:::
+
+::: {.column width="40%"}
+![](images/rfa_esophagus.png)
+![Barxx](images/barxx.png)
+:::
+
+::::
+
+:::aside
+[@shaheen2277]
+:::
+
+
+## Radiofrequency Ablation for Dysplasia
+
+:::: {.columns}
+
+::: {.column width="30%"}
 Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
+
+:::
+
+::: {.column width="70%"}
+![](images/shaheen.png)
+:::
+
+::::
+
+:::aside
+[@shaheen2277]
+:::
+
+
 
 ## Superficial Tumors
 
@@ -55,9 +103,11 @@ Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 -   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
 -   If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
 
+Patients with dysphagia almost always are T3 tumors (and don't need EUS)
+
 ## Symptomatic Tumors (Dysphagia)
 
-Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be evaluated with [PET Scan]
+Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
 
 -   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
 -   Metastatic disease $\rightarrow$ [Metastatic]
@@ -82,7 +132,7 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 
 ## Locally-advanced
 
-For patients with locally-advanced esophageal cancer, improved outcomes with additional therapy. There are two options:
+For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
 
 -   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
 -   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
@@ -126,6 +176,32 @@ For patients with locally-advanced esophageal cancer, improved outcomes with add
 pCR seen in 23% of patients with adenocarcinoma
 
 pCR seen in 40% of patients with squamous cell carcinoma
+
+
+:::aside
+[@shapiro1090]
+:::
+
+
+
+## CROSS - Sites of Failure
+
+:::: {.columns}
+
+::: {.column width="30%"}
+Sites of failure over time 
+
+ChemoRT + Surgery *vs* Surgery
+
+ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
+
+:::
+
+::: {.column width="70%"}
+![](images/eyck.png)
+:::
+
+::::
 
 
 :::aside
