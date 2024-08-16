@@ -8,6 +8,10 @@ title: "GI Surgical Oncology"
 
 [Esophageal Cancer Lecture](eso_ca_rx_talk.html)
 
+[Rectal Cancer Lecture](rectal_slides.html)
+
+[GI Stomal Tumor Lecture](gist_slides.html)
+
 # Patient Education
 
 [Esophageal Cancer](/images/EsoCaFull.pdf)
@@ -16,9 +20,13 @@ title: "GI Surgical Oncology"
 
 [Gastric Cancer](/images/Gastric.pdf)
 
-# Esophagectomy Working Group
+# Foregut Cancer Working Group
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
+
+[Robotic Esophagectomy](robot_esophagectomy.html)
+
+[Robotic Gastrectomy](robot_gastrectomy.html)
 
 # Esophagectomy Decision-making
 
