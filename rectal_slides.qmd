@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer Treatment"
+title: "Rectal Cancer"
 format: 
   revealjs:
     slide-number: c/t
@@ -15,7 +15,9 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Esophageal Cancer Treatment Categories
+## GI Stromal Tumors
+
+[Pathophysiology]
 
 | Category             |   Stage    | Treatment                  |
 |----------------------|:----------:|:---------------------------|
@@ -25,72 +27,80 @@ bibliography: zotero.bib
 | [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
 | [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
 
-## Dyplasia
-
-Radiofrequency Ablation for Dysplasia
-
-::: columns
-::: {.column width="60%"}
-127 patients with dysplasia randomized:
-
--   Radio-frequency ablation
--   Sham ablation
-
-Low-grade dysplasia in 64
-
-High-grade dysplasia in 63
+:::aside
+[@schaefer1]
 :::
 
-::: {.column width="40%"}
-![](images/rfa_esophagus.png) ![Barxx](images/barxx.png)
-:::
+
+## Pathophysiology
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Origin with bowel wall
+stomach- small intestine
+- colon - esophagus
+
 :::
 
-::: aside
+::: {.column width="50%"}
+Tyrosine kinase gain of function mutations
+- KIT2
+- PDGRFA3
+Genetic inactivation
+- NF14
+- succinate dehydrogenase (SDH)
+:::
+
+::::
+
+:::aside
 [@shaheen2277]
 :::
 
-## Radiofrequency Ablation for Dysplasia
 
-::: columns
+## Rapido Trial
+
+:::: {.columns}
+
 ::: {.column width="30%"}
-Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
+Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery
+vs
+ChemoRT $\rightarrow$  TME +/- Chemo
+
 :::
 
 ::: {.column width="70%"}
 ![](images/shaheen.png)
 :::
+
+::::
+
+:::aside
+Lancet Oncol December 7, 2020
 :::
 
-::: aside
-[@shaheen2277]
-:::
 
-## Superficial Tumors
 
-Workup of nodular Barretts:
+## Total Neoadjuvant Therapy
 
--   Endoscopic Ultrasound
--   Endoscopic Mucosal Resection
-    -   Diagnostic (T staging)
-    -   May be therapeutic for T1a tumors
+Induction Chemotherapy
 
-## Endoscopic Musocal Resection
+Consolidation Chemotherapy
 
-![](images/EMR.jpg){fig-align="right"}
 
-## Localized Tumors
+## KIT and PDGFR Mutations
 
-Patients staged as uT2 N0 are candidates for primary surgery. *However:*
+![](images/kit_pdgrfa.png){fig-align="center"}
 
--   EUS has a 25% rate of understaging uT2 N0 tumors
--   Understaged patients who undergo primary surgery would need chemo or chemoRT postop
+## EORTC 22921
 
-## Small Tumors (minimal dysphagia)
+- Bossset Lancet Oncol p 184 2014
+  
+## Prodige 23
 
--   EUS to distinguish T2 from T3 tumors
--   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
--   If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
+-   PHase 3 RCT n=461
+- mFOLFIRINOX -> CRT -> Surgery -> Adjuvant Chemo
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
@@ -102,22 +112,42 @@ Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlik
 -   Metastatic disease $\rightarrow$ [Metastatic]
 -   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
 
-## EUS in Patients with Dysphagia
+## ACOSOG ZZ9001
 
-Memorial Sloan Kettering[^1] patients with esophageal cancer:
+GIST Tumors >3cm randomized:
+- 1 year of imatinib 40mg
+- Observation
 
-[^1]: @ripley226
+Recurrence-free survival 98% vs 83%
+No significant difference at 6 years
 
--   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
--   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
+*Imatinib may simply delay recurrences*
 
-EUS can be omitted for patients with dysphagia, but is useful in patients *without* dysphagia.
+:::aside
+Ref
+:::
 
-## PET Scan
 
-PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis [^2]
 
-[^2]: @block770
+## SSG SVII
+
+High-risk GIST randomized:
+- 1 year of imatinib 400mg
+- 3 year of imatinib 400mg
+
+5-year Recurrence-free survival 48% vs 66%
+5-year Overall Survival 82% vs 92%
+
+:::aside
+Ref
+:::
+
+
+## Mutational Testing
+
+Genetic mutations can predict respoinse to imatinib [^2]
+
+[^2]: Meheran JCO 2017
 
 ## Locally-advanced
 
@@ -126,7 +156,9 @@ For patients with locally-advanced esophageal cancer, improved survival with adj
 -   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
 -   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
 
-## CROSS Trial
+
+
+## Positive Margins
 
 -   368 esophageal cancer patients randomized:
     -   Surgery alone
@@ -136,85 +168,121 @@ For patients with locally-advanced esophageal cancer, improved survival with adj
 -   median age=60
 -   longer survival with Chemo+RT $\rightarrow$ Surgery
 
-CROSS Trial Details
-
-Chemotherapy: Weekly carboplatin and paclitaxel 
-Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
-
-::: aside
-[@shapiro1090]
+:::aside
+Gronchi JAMA Surg 2020
 :::
 
-## CROSS - Overall Survival
+
+## Imatinib 1yr vs 3 yr
+
+-   368 esophageal cancer patients randomized:
+    -   Surgery alone
+    -   Chemo+RT $\rightarrow$ Surgery
+-   75% adenocarcinoma
+-   T3: 80%. T2: 17%
+-   median age=60
+-   longer survival with Chemo+RT $\rightarrow$ Surgery
+
+:::aside
+Joensuu JAMA Oncology 2020
+:::
+
+
+## Wild-Type GIST
+
+- SDH-Deficient
+    - SDHx mutation
+    - SDH wild-type
+  - Associated with Carney-Stratakis syndrome
+- No SDH Deficiency
+  - NF1-GIST
+  - Sporadic Wild-Type GIST
+
+:::aside
+Weldon JCS 2017
+:::
+
+## NF1-associated GIST
+
+- Multicentric (33%)
+- Median age 46
+- Small bowel >> Duodenum >> Stomach
+
+:::aside
+Weldon JCS 2017
+:::
+
+## Recurrence Risk
 
 ![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
 
-::: aside
-[@shapiro1090]
+
+:::aside
+Joensuu Lancet March 2012
 :::
+
 
 ## CROSS - Survival by Histology
 
 ![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
 
-::: aside
+
+:::aside
+Miettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83
+:::
+
+
+## CROSS - Pathologic Response
+
+pCR seen in 23% of patients with adenocarcinoma
+
+pCR seen in 40% of patients with squamous cell carcinoma
+
+
+:::aside
 [@shapiro1090]
 :::
 
-## CROSS - Adenocarcinooma
 
-Median survival 43mo vs 27mo
-
-Pathologic complete respoinse in 23%
-
-## CROSS - Squamous cell carcinoma
-
-Median survival 82mo vs 21mo
-
-Pathologic complete respoinse in 40%
-
-::: aside
-[@shapiro1090]
-:::
 
 ## CROSS - Sites of Failure
 
-::: columns
+:::: {.columns}
+
 ::: {.column width="30%"}
-Sites of failure over time
+Sites of failure over time 
 
 ChemoRT + Surgery *vs* Surgery
 
 ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
+
 :::
 
 ::: {.column width="70%"}
 ![](images/eyck.png)
 :::
-:::
 
-::: aside
+::::
+
+
+:::aside
 [@shapiro1090]
 :::
+
 
 ## Checkmate 577 Trial
 
 Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
-Stage II/II Esophageal or GE junction cancers
-Adenocarcinoma or squamous cell
-ChemoRT $\rightarrow$ Surgery 4-16 weeks prior
-Residual pathologic disease
 
-Treatment Group:
-Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 8 months
 
-::: aside
+:::aside
 [@kelly1191]
 :::
 
 ## Nivolumab
 
-::: columns
+:::: {.columns}
+
 ::: {.column width="60%"}
 PD-L1 agonist ligand
 
@@ -226,7 +294,10 @@ Active against stage IV esophageal cancer
 ::: {.column width="40%"}
 ![Nivolumab mechanism of action](images/nivo.png)
 :::
-:::
+
+::::
+
+
 
 ## Chekmate 577 Trial
 
@@ -234,9 +305,9 @@ EsoCA patients who received ChemoRT$\rightarrow$ Surgery with residual disease (
 
 Randomized to one year of immunotherapy (nivolumab) vs Observation
 
-Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
+Adjuvant nivolumab group had better survival
 
-::: aside
+:::aside
 [@kelly1191]
 :::
 
@@ -244,7 +315,8 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 ![Adjuvant Nivolumab vs Observation](images/kelly_1191_fig3.png){fig-align="left"}
 
-::: aside
+
+:::aside
 [@kelly1191]
 :::
 
@@ -269,7 +341,8 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 -   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
 
-::: aside
+
+:::aside
 [@allum5062]
 :::
 
@@ -280,26 +353,6 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 -   Randomized to CROSS vs FLOT
 
 -   Better survival with FLOT
-
-## FFCD 9102 2007 (Bedenne)
-
-All patients received 4500cGy RT + 2 cycles of cisplatin + 5FU
-
-Patients with a clinical response were randomized:
-
--   Surgery -\> 2 year survival 34% Median 17.7mo
-
--   3 cycles of chemo + 2000 cGy RT -\> 2 year survival 40% Median 19.3mo
-
-Randomized:
-
--   
-
-## German Trial (Stahl)
-
-4000 cGY RT + PE $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
-
-6500cGy RT + PE 41% PFS.Mortality 3.5%
 
 ## Metastatic
 
