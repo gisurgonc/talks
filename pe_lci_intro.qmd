@@ -4,7 +4,7 @@ format:
   revealjs:
     slide-number: c/t
     width: 1280
-    height: 1024
+    height: 720
     logo: "atriumlogo.jpg"
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
     css: ["lci_styles.css"]
