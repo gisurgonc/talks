@@ -83,3 +83,7 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 # Statistics
 
 [statistics](statistics.html)
+
+# LCI Patient Education
+
+[LCI Welcome](pe_lci_intro.html)

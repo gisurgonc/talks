@@ -133,13 +133,12 @@ For patients with locally-advanced esophageal cancer, improved survival with adj
     -   Chemo+RT $\rightarrow$ Surgery
 -   75% adenocarcinoma
 -   T3: 80%. T2: 17%
--   median age=60
+-   age $\tilde{x}$=60
 -   longer survival with Chemo+RT $\rightarrow$ Surgery
 
 CROSS Trial Details
 
-Chemotherapy: Weekly carboplatin and paclitaxel 
-Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
+Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 
 ::: aside
 [@shapiro1090]
@@ -197,16 +196,54 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 [@shapiro1090]
 :::
 
+## Neoadjuvant Chemo for EsoCA
+
+-   MAGIC trial (gastric): ECF[^3]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+-   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
+-   FLOT (gastric): FLOT[^4]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+-   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
+
+[^3]: Epirubicin, Cisplatin, 5FU
+
+[^4]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
+
+## OEO2 Clinical Trial
+
+-   802 Esophageal adenocarcinoma and squamous cell
+
+-   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
+
+-   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
+
+-   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
+
+::: aside
+[@allum5062]
+:::
+
+## EsoPEC Trial
+
+-   Adenocarcinoma esophagus - T1 N+ or T2-4 M0. Median age =63 89% men
+
+-   Randomized to CROSS (n=217) vs FLOT (n=221)
+
+-   Surgery performed in 371 patients
+
+-   90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)
+
+-   Median survival 66m in FLOT arm and 37mo in Cross arm
+
+-   3-year overall survival 57% FLOT and 51% CROSS
+
+-   pCR 20% for FLOT and 14% CROSS
+
+## Adjuvant Chemotherapy for Esophageal Cancer
+
 ## Checkmate 577 Trial
 
-Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
-Stage II/II Esophageal or GE junction cancers
-Adenocarcinoma or squamous cell
-ChemoRT $\rightarrow$ Surgery 4-16 weeks prior
-Residual pathologic disease
+Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell ChemoRT $\rightarrow$ Surgery 4-16 weeks prior Residual pathologic disease
 
-Treatment Group:
-Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 8 months
+Treatment Group: Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 8 months
 
 ::: aside
 [@kelly1191]
@@ -248,40 +285,10 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 [@kelly1191]
 :::
 
-## Neoadjuvant Chemo for EsoCA
-
--   MAGIC trial (gastric): ECF[^3]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
--   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^4]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
--   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
-
-[^3]: Epirubicin, Cisplatin, 5FU
-
-[^4]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
-
-## OEO2 Clinical Trial
-
--   802 Esophageal adenocarcinoma and squamous cell
-
--   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
-
--   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
-
--   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
-
-::: aside
-[@allum5062]
-:::
-
-## EsoPEC Trial
-
--   Esophageal cancer
-
--   Randomized to CROSS vs FLOT
-
--   Better survival with FLOT
 
 ## FFCD 9102 2007 (Bedenne)
+
+  
 
 All patients received 4500cGy RT + 2 cycles of cisplatin + 5FU
 

@@ -48,9 +48,9 @@ MFI and mortality after hip fracture [@daddimani30951] Mortality at one year ass
 
 NLP of unstructured EHR data to identify geriatric syndrome [@kharrazi1499]
 
-mFrailty5 \[@mosquera272\]
+mFrailty5 [@mosquera272]
 
-mFrailty5 and Colorectal cancer [@al-khamis1192]]
+mFrailty5 and Colorectal cancer [@al-khamis1192]\]
 
 panayi 393. [@panayi393]
 

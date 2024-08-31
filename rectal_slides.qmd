@@ -27,6 +27,7 @@ bibliography: zotero.bib
 | [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
 | [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
 
+
 :::aside
 [@schaefer1]
 :::
