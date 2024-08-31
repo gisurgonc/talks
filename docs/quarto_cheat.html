@@ -11,7 +11,8 @@
 <script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
   <meta name="generator" content="quarto-1.3.450">
 
-  <title>talks - GI Stromal Tumors</title>
+  <meta name="author" content="Jonathan C Salo MD">
+  <title>talks - Quarto Cheat Sheet</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -338,17 +339,258 @@
       margin-right: 0; 
     }
   </style>
+  <link href="site_libs/tabwid-1.1.3/tabwid.css" rel="stylesheet">
+  <script src="site_libs/tabwid-1.1.3/tabwid.js"></script>
 </head>
 <body class="quarto-light">
   <div class="reveal">
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">GI Stromal Tumors</h1>
+  <h1 class="title">Rectal Cancer</h1>
+  <p class="subtitle">Subtitle</p>
 
 <div class="quarto-title-authors">
+<div class="quarto-title-author">
+<div class="quarto-title-author-name">
+Jonathan C Salo MD 
+</div>
+</div>
 </div>
 
+</section>
+<section id="tables" class="slide level2">
+<h2>Tables</h2>
+<table>
+<thead>
+<tr class="header">
+<th>Category</th>
+<th style="text-align: center;">Stage</th>
+<th style="text-align: left;">Treatment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[Dyplasia]</td>
+<td style="text-align: center;">Tis</td>
+<td style="text-align: left;">Radiofrequency Ablation</td>
+</tr>
+<tr class="even">
+<td>[Superficial Tumors]</td>
+<td style="text-align: center;">T1a</td>
+<td style="text-align: left;">Endoscopic Therapy</td>
+</tr>
+<tr class="odd">
+<td>[Localized Tumors]</td>
+<td style="text-align: center;">T1b T2</td>
+<td style="text-align: left;">Surgery</td>
+</tr>
+<tr class="even">
+<td><a href="#/locally-advanced">Locally-advanced</a></td>
+<td style="text-align: center;">T3 or N<sup>+</sup></td>
+<td style="text-align: left;">ChemoRT → Surgery</td>
+</tr>
+<tr class="odd">
+<td><a href="#/metastatic">Metastatic</a></td>
+<td style="text-align: center;">M1</td>
+<td style="text-align: left;">Chemotherapy +/- Radiation</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="symbols" class="slide level2">
+<h2>Symbols</h2>
+<p><span class="math inline">\(\alpha\)</span> <span class="math inline">\(\rightarrow\)</span> <span class="math inline">\(\leftarrow\)</span> <span class="math inline">\(\longrightarrow\)</span> <span class="math inline">\(\implies\)</span> <span class="math inline">\(\gt\)</span> <span class="math inline">\(\pi r^2\)</span> <span class="math inline">\(\leq\)</span> <span class="math inline">\(\geq\)</span> <span class="math inline">\(\beta_1\)</span> <span class="math inline">\(\tilde{x}\)</span> <span class="math inline">\(\checkmark\)</span> <span class="math inline">\(\bullet\)</span> <span class="math inline">\(\dagger\)</span> <span class="math inline">\(\downarrow\)</span> <span class="math inline">\(\ll\)</span> <span class="math inline">\(\gg\)</span> <span class="math inline">\(\pm\)</span> <span class="math inline">\(\div\)</span> <span class="math inline">\(\star\)</span> <span class="math inline">\(\nearrow\)</span> <span class="math inline">\(\searrow\)</span> <span class="math inline">\(\leadsto\)</span> <span class="math inline">\(\surd\)</span> <span class="math inline">\(\therefore\)</span> <span class="math inline">\(\neq\)</span> <span class="math inline">\(\notin\)</span> <span class="math inline">\(\tilde{x}\)</span></p>
+<p>Inline fractions</p>
+<p><span class="math inline">\(\frac{SMI\, \times \,SMD}{\mathrm{Height\, in\, meters}^2}\)</span></p>
+<p>Offsest math with double-dollar signs</p>
+<p><span class="math display">\[\frac{SMI\, \times \,SMD}{\mathrm{Height\, in\, meters}^2}\]</span></p>
+</section>
+<section id="table-with-flextable" class="slide level2">
+<h2>Table with flextable</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div id="tbl-xyz-flextable">
+
+<div class="tabwid"><style>.cl-210b476a{}.cl-2107e39a{font-family:'Helvetica';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-21094f28{margin:0;text-align:right;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-2109aa4a{width:0.75in;background-color:transparent;vertical-align: middle;border-bottom: 1.5pt solid rgba(102, 102, 102, 1.00);border-top: 1.5pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-2109aa4b{width:0.75in;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-2109aa4c{width:0.75in;background-color:transparent;vertical-align: middle;border-bottom: 1.5pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-210b476a"><caption>Table&nbsp;1:  <p>Table of x, y, z (made with the flextable package)</p> </caption><thead><tr style="overflow-wrap:break-word;"><th class="cl-2109aa4a"><p class="cl-21094f28"><span class="cl-2107e39a">X1</span></p></th><th class="cl-2109aa4a"><p class="cl-21094f28"><span class="cl-2107e39a">X2</span></p></th></tr></thead><tbody><tr style="overflow-wrap:break-word;"><td class="cl-2109aa4b"><p class="cl-21094f28"><span class="cl-2107e39a">0.03158302</span></p></td><td class="cl-2109aa4b"><p class="cl-21094f28"><span class="cl-2107e39a">0.7782492</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-2109aa4b"><p class="cl-21094f28"><span class="cl-2107e39a">-0.79878991</span></p></td><td class="cl-2109aa4b"><p class="cl-21094f28"><span class="cl-2107e39a">1.9998222</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-2109aa4b"><p class="cl-21094f28"><span class="cl-2107e39a">-0.91196867</span></p></td><td class="cl-2109aa4b"><p class="cl-21094f28"><span class="cl-2107e39a">0.8272075</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-2109aa4c"><p class="cl-21094f28"><span class="cl-2107e39a">0.47729454</span></p></td><td class="cl-2109aa4c"><p class="cl-21094f28"><span class="cl-2107e39a">-0.6721254</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</div>
+</section>
+<section id="table-with-kable" class="slide level2">
+<h2>Table with Kable</h2>
+<div class="cell">
+<div class="cell-output-display">
+<div id="tbl-LABEL">
+<table>
+<caption>Table&nbsp;2: CAPTION</caption>
+<thead>
+<tr class="header">
+<th style="text-align: right;">speed</th>
+<th style="text-align: right;">dist</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">2</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">4</td>
+<td style="text-align: right;">10</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">4</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">7</td>
+<td style="text-align: right;">22</td>
+</tr>
+<tr class="odd">
+<td style="text-align: right;">8</td>
+<td style="text-align: right;">16</td>
+</tr>
+<tr class="even">
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">10</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="hyperlinks" class="slide level2">
+<h2>Hyperlinks</h2>
+<p><a href="https://www.albany.edu/spatial/GIS4SS/syllabus/" target="_blank">syllabus</a></p>
+</section>
+<section id="columns" class="slide level2">
+<h2>Columns</h2>
+<p>Radiofrequency Ablation for Dysplasia</p>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>127 patients with dysplasia randomized:</p>
+<ul>
+<li>Radio-frequency ablation</li>
+<li>Sham ablation</li>
+</ul>
+<p>Low-grade dysplasia in 64</p>
+<p>High-grade dysplasia in 63</p>
+</div><div class="column" style="width:40%;">
+<p><img data-src="images/rfa_esophagus.png"> <img data-src="images/barxx.png" alt="Barxx"></p>
+</div>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shaheen2277">(<a href="#/references-1" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="radiofrequency-ablation-for-dysplasia" class="slide level2">
+<h2>Radiofrequency Ablation for Dysplasia</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p>Radiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year</p>
+</div><div class="column" style="width:70%;">
+<p><img data-src="images/shaheen.png"></p>
+</div>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shaheen2277">(<a href="#/references-1" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="full-page-images" class="slide level2">
+<h2>Full-page images</h2>
+
+<img data-src="images/EMR.jpg" class="r-stretch quarto-figure-right"></section>
+<section id="symptomatic-tumors-dysphagia" class="slide level2">
+<h2>Symptomatic Tumors (Dysphagia)</h2>
+<p>Patients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with <a href="#/pet-scan">PET Scan</a></p>
+<ul>
+<li>Disease confined to the esophagus and regional nodes <span class="math inline">\(\rightarrow\)</span> <a href="#/locally-advanced">Locally-advanced</a></li>
+<li>Metastatic disease <span class="math inline">\(\rightarrow\)</span> <a href="#/metastatic">Metastatic</a></li>
+<li>N3 <span class="math inline">\(\rightarrow\)</span> induction chemotherapy followed by chemoradiation and surgical evaluation.</li>
+</ul>
+</section>
+<section id="eus-in-patients-with-dysphagia" class="slide level2">
+<h2>EUS in Patients with Dysphagia</h2>
+<p>Memorial Sloan Kettering<sup>1</sup> patients with esophageal cancer:</p>
+<ul>
+<li>61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.</li>
+<li>53 without dysphagia, 25 (47%) were uT1-2 <span class="math inline">\(\rightarrow\)</span> candidates for primary surgery.</li>
+</ul>
+<p>EUS can be omitted for patients with dysphagia, but is useful in patients <em>without</em> dysphagia.</p>
+<aside><ol class="aside-footnotes"><li id="fn1"><p><span class="citation" data-cites="ripley226">Ripley et al. (<a href="#/references-1" role="doc-biblioref" onclick="">2016</a>)</span></p></li></ol></aside></section>
+<section id="pet-scan" class="slide level2">
+<h2>PET Scan</h2>
+<p>PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis <sup>1</sup></p>
+<aside><ol class="aside-footnotes"><li id="fn2"><p>Meheran JCO 2017</p></li></ol></aside></section>
+<section id="cross-trial" class="slide level2">
+<h2>CROSS Trial</h2>
+<ul>
+<li>368 esophageal cancer patients randomized:
+<ul>
+<li>Surgery alone</li>
+<li>Chemo+RT <span class="math inline">\(\rightarrow\)</span> Surgery</li>
+</ul></li>
+<li>75% adenocarcinoma</li>
+<li>T3: 80%. T2: 17%</li>
+<li>age <span class="math inline">\(\tilde{x}\)</span>=60</li>
+<li>longer survival with Chemo+RT <span class="math inline">\(\rightarrow\)</span> Surgery</li>
+</ul>
+<p>CROSS Trial Details</p>
+<p>Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)</p>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references-1" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="cross---overall-survival" class="slide level2">
+<h2>CROSS - Overall Survival</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="images/shapiro_1090_fig2a.png"></p>
+<figcaption>Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery</figcaption>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references-1" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="cross---squamous-cell-carcinoma" class="slide level2">
+<h2>CROSS - Squamous cell carcinoma</h2>
+<p>Median survival 82mo vs 21mo</p>
+<p>Pathologic complete respoinse in 40%</p>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references-1" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="cross---sites-of-failure" class="slide level2">
+<h2>CROSS - Sites of Failure</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p>Sites of failure over time</p>
+<p>ChemoRT + Surgery <em>vs</em> Surgery</p>
+<p>ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure</p>
+</div><div class="column" style="width:70%;">
+<p><img data-src="images/eyck.png"></p>
+</div>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references-1" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="neoadjuvant-chemo-for-esoca" class="slide level2">
+<h2>Neoadjuvant Chemo for EsoCA</h2>
+<ul>
+<li>MAGIC trial (gastric): ECF<sup>1</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF <em>vs</em> Surgery<br>
+</li>
+<li>OEO2 Trial: (esophageal) Chemo<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> Chemo <em>vs</em> Surgery<br>
+</li>
+<li>FLOT (gastric): FLOT<sup>2</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> FLOT <em>vs</em> ECF<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF</li>
+<li>EsoPEC: (esophageal):FLOT<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>FLOT <em>vs</em> ChemoRT<span class="math inline">\(\rightarrow\)</span>Surgery (CROSS)</li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn3"><p>Epirubicin, Cisplatin, 5FU</p></li><li id="fn4"><p>5FU, Leuvocorin, Oxaliplatin, Decetaxol</p></li></ol></aside></section>
+<section id="include-other-slideshows" class="slide level2">
+<h2>Include Other Slideshows</h2>
 </section>
 <section id="gi-stromal-tumors" class="slide level2">
 <h2>GI Stromal Tumors</h2>
@@ -368,7 +610,7 @@
 <td style="text-align: left;">Radiofrequency Ablation</td>
 </tr>
 <tr class="even">
-<td><a href="#/superficial-tumors">Superficial Tumors</a></td>
+<td>[Superficial Tumors]</td>
 <td style="text-align: center;">T1a</td>
 <td style="text-align: left;">Endoscopic Therapy</td>
 </tr>
@@ -391,7 +633,7 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="schaefer1">(<a href="#/references" role="doc-biblioref" onclick=""><strong>schaefer1?</strong></a>)</span></p>
+<p><span class="citation" data-cites="schaefer1">(<a href="#/references-1" role="doc-biblioref" onclick=""><strong>schaefer1?</strong></a>)</span></p>
 </div></aside></section>
 <section id="pathophysiology" class="slide level2">
 <h2>Pathophysiology</h2>
@@ -404,62 +646,47 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="shaheen2277">(<a href="#/references" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+<p><span class="citation" data-cites="shaheen2277">(<a href="#/references-1" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
 </div></aside></section>
-<section id="radiofrequency-ablation-for-dysplasia" class="slide level2">
-<h2>Radiofrequency Ablation for Dysplasia</h2>
+<section id="rapido-trial" class="slide level2">
+<h2>Rapido Trial</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
-<p>Radiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year</p>
+<p>Short-course RT <span class="math inline">\(\rightarrow\)</span> Chemo <span class="math inline">\(\rightarrow\)</span> Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span> TME +/- Chemo</p>
 </div><div class="column" style="width:70%;">
 <p><img data-src="images/shaheen.png"></p>
 </div>
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="shaheen2277">(<a href="#/references" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+<p>Lancet Oncol December 7, 2020</p>
 </div></aside></section>
-<section id="superficial-tumors" class="slide level2">
-<h2>Superficial Tumors</h2>
-<p>Workup of nodular Barretts:</p>
-<ul>
-<li>Endoscopic Ultrasound</li>
-<li>Endoscopic Mucosal Resection
-<ul>
-<li>Diagnostic (T staging)</li>
-<li>May be therapeutic for T1a tumors</li>
-</ul></li>
-</ul>
+<section id="total-neoadjuvant-therapy" class="slide level2">
+<h2>Total Neoadjuvant Therapy</h2>
+<p>Induction Chemotherapy</p>
+<p>Consolidation Chemotherapy</p>
 </section>
 <section id="kit-and-pdgfr-mutations" class="slide level2">
 <h2>KIT and PDGFR Mutations</h2>
 
 <img data-src="images/kit_pdgrfa.png" class="r-stretch quarto-figure-center"></section>
-<section id="prognoatic-factors" class="slide level2">
-<h2>Prognoatic factors</h2>
+<section id="eortc-22921" class="slide level2">
+<h2>EORTC 22921</h2>
 <ul>
-<li>Mitotic rate</li>
-<li>Tumor size</li>
-<li>Tumor site</li>
-<li>Tumor rupture (during or before surgery)</li>
-<li>Some genotypes have a peculiar history
-<ul>
-<li>Wild type kit/PDGRF are less aggressive</li>
-</ul></li>
+<li>Bossset Lancet Oncol p 184 2014</li>
 </ul>
 </section>
-<section id="small-tumors-minimal-dysphagia" class="slide level2">
-<h2>Small Tumors (minimal dysphagia)</h2>
+<section id="prodige-23" class="slide level2">
+<h2>Prodige 23</h2>
 <ul>
-<li>EUS to distinguish T2 from T3 tumors</li>
-<li>If uT2 N0 <span class="math inline">\(\rightarrow\)</span> CT chest/abdomen/pelvis <span class="math inline">\(\rightarrow\)</span> Esophagectomy</li>
-<li>If uT3 or N1 <span class="math inline">\(\rightarrow\)</span> PET <span class="math inline">\(\rightarrow\)</span> neoadjuvant therapy</li>
+<li>PHase 3 RCT n=461</li>
+<li>mFOLFIRINOX -&gt; CRT -&gt; Surgery -&gt; Adjuvant Chemo</li>
 </ul>
 <p>Patients with dysphagia almost always are T3 tumors (and don’t need EUS)</p>
 </section>
-<section id="symptomatic-tumors-dysphagia" class="slide level2">
+<section id="symptomatic-tumors-dysphagia-1" class="slide level2">
 <h2>Symptomatic Tumors (Dysphagia)</h2>
-<p>Patients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]</p>
+<p>Patients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with <a href="#/pet-scan">PET Scan</a></p>
 <ul>
 <li>Disease confined to the esophagus and regional nodes <span class="math inline">\(\rightarrow\)</span> <a href="#/locally-advanced">Locally-advanced</a></li>
 <li>Metastatic disease <span class="math inline">\(\rightarrow\)</span> <a href="#/metastatic">Metastatic</a></li>
@@ -486,12 +713,12 @@
 <section id="mutational-testing" class="slide level2">
 <h2>Mutational Testing</h2>
 <p>Genetic mutations can predict respoinse to imatinib <sup>1</sup></p>
-<aside><ol class="aside-footnotes"><li id="fn1"><p>Meheran JCO 2017</p></li></ol></aside></section>
+<aside><ol class="aside-footnotes"><li id="fn5"><p>Meheran JCO 2017</p></li></ol></aside></section>
 <section id="locally-advanced" class="slide level2">
 <h2>Locally-advanced</h2>
 <p>For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:</p>
 <ul>
-<li>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery ([CROSS Trial])</li>
+<li>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery (<a href="#/cross-trial">CROSS Trial</a>)</li>
 <li>Chemo <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemo (<a href="#/esopec-trial">EsoPEC Trial</a>)</li>
 </ul>
 </section>
@@ -589,9 +816,9 @@
 <p>pCR seen in 40% of patients with squamous cell carcinoma</p>
 
 <aside><div>
-<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references-1" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
 </div></aside></section>
-<section id="cross---sites-of-failure" class="slide level2">
+<section id="cross---sites-of-failure-1" class="slide level2">
 <h2>CROSS - Sites of Failure</h2>
 <div class="columns">
 <div class="column" style="width:30%;">
@@ -604,14 +831,14 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references-1" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
 </div></aside></section>
 <section id="checkmate-577-trial" class="slide level2">
 <h2>Checkmate 577 Trial</h2>
 <p>Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease</p>
 
 <aside><div>
-<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
+<p><span class="citation" data-cites="kelly1191">(<a href="#/references-1" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
 </div></aside></section>
 <section id="nivolumab" class="slide level2">
 <h2>Nivolumab</h2>
@@ -637,7 +864,7 @@
 <p>Adjuvant nivolumab group had better survival</p>
 
 <aside><div>
-<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
+<p><span class="citation" data-cites="kelly1191">(<a href="#/references-1" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
 </div></aside></section>
 <section id="checkmate-577-trial-1" class="slide level2">
 <h2>Checkmate 577 Trial</h2>
@@ -649,9 +876,9 @@
 </div>
 
 <aside><div>
-<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
+<p><span class="citation" data-cites="kelly1191">(<a href="#/references-1" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
 </div></aside></section>
-<section id="neoadjuvant-chemo-for-esoca" class="slide level2">
+<section id="neoadjuvant-chemo-for-esoca-1" class="slide level2">
 <h2>Neoadjuvant Chemo for EsoCA</h2>
 <ul>
 <li>MAGIC trial (gastric): ECF<sup>1</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF <em>vs</em> Surgery<br>
@@ -661,7 +888,7 @@
 <li>FLOT (gastric): FLOT<sup>2</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> FLOT <em>vs</em> ECF<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF</li>
 <li>EsoPEC: (esophageal):FLOT<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>FLOT <em>vs</em> ChemoRT<span class="math inline">\(\rightarrow\)</span>Surgery (CROSS)</li>
 </ul>
-<aside><ol class="aside-footnotes"><li id="fn2"><p>Epirubicin, Cisplatin, 5FU</p></li><li id="fn3"><p>5FU, Leuvocorin, Oxaliplatin, Decetaxol</p></li></ol></aside></section>
+<aside><ol class="aside-footnotes"><li id="fn6"><p>Epirubicin, Cisplatin, 5FU</p></li><li id="fn7"><p>5FU, Leuvocorin, Oxaliplatin, Decetaxol</p></li></ol></aside></section>
 <section id="oeo2-clinical-trial" class="slide level2">
 <h2>OEO2 Clinical Trial</h2>
 <ul>
@@ -672,7 +899,7 @@
 </ul>
 
 <aside><div>
-<p><span class="citation" data-cites="allum5062">(<a href="#/references" role="doc-biblioref" onclick="">Allum et al. 2009</a>)</span></p>
+<p><span class="citation" data-cites="allum5062">(<a href="#/references-1" role="doc-biblioref" onclick="">Allum et al. 2009</a>)</span></p>
 </div></aside></section>
 <section id="esopec-trial" class="slide level2">
 <h2>EsoPEC Trial</h2>
@@ -693,24 +920,35 @@
 <h1>Orientation Manual</h1>
 <div id="qrcode" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qrcode", {"colorDark":"#000000","height":"500","width":"500","colorLight":"#ffffff","text":"https://gisurgonc.github.io/orientation"});
+var qrcode = new QRCode("qrcode", {"height":"500","colorDark":"#000000","text":"https://gisurgonc.github.io/orientation","colorLight":"#ffffff","width":"500"});
 </script>
     
 </section>
 
-<section id="references" class="title-slide slide level1 smaller scrollable">
+<section>
+<section id="references" class="title-slide slide level1 center">
 <h1>References</h1>
 
-
-<img src="atriumlogo.jpg" class="slide-logo r-stretch"><div class="footer footer-default">
-<p><a href="https://gisurgonc.github.io/talks/">GI Surgical Oncology Talks</a></p>
-</div>
+</section>
+<section id="orientation-manual-1" class="slide level2">
+<h2>Orientation Manual</h2>
+<div id="qrcode" class="qrcode"></div>
+<script type="text/javascript">
+var qrcode = new QRCode("qrcode", {"height":"500","colorDark":"#000000","text":"https://gisurgonc.github.io/orientation","colorLight":"#ffffff","width":"500"});
+</script>
+    
+</section>
+<section id="references-1" class="slide level2 smaller scrollable">
+<h2>References</h2>
 <div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-allum5062" class="csl-entry" role="listitem">
 Allum, William H., Sally P. Stenning, John Bancewicz, Peter I. Clark, and Ruth E. Langley. 2009. <span>“Long-Term Results of a Randomized Trial of Surgery with or Without Preoperative Chemotherapy in Esophageal Cancer.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 27 (30): 5062–67. <a href="https://doi.org/10.1200/JCO.2009.22.2083">https://doi.org/10.1200/JCO.2009.22.2083</a>.
 </div>
 <div id="ref-kelly1191" class="csl-entry" role="listitem">
 Kelly, Ronan J., Jaffer A. Ajani, Jaroslaw Kuzdzal, Thomas Zander, Eric Van Cutsem, Guillaume Piessen, Guillermo Mendez, et al. 2021. <span>“Adjuvant <span>Nivolumab</span> in <span>Resected</span> <span>Esophageal</span> or <span>Gastroesophageal</span> <span>Junction</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 384 (13): 1191–1203. <a href="https://doi.org/10.1056/NEJMoa2032125">https://doi.org/10.1056/NEJMoa2032125</a>.
+</div>
+<div id="ref-ripley226" class="csl-entry" role="listitem">
+Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit S. Bains, David R. Jones, Prasad S. Adusumilli, et al. 2016. <span>“Pretreatment <span>Dysphagia</span> in <span>Esophageal</span> <span>Cancer</span> <span>Patients</span> <span>May</span> <span>Eliminate</span> the <span>Need</span> for <span>Staging</span> by <span>Endoscopic</span> <span>Ultrasonography</span>.”</span> <em>The Annals of Thoracic Surgery</em> 101 (1): 226–30. <a href="https://doi.org/10.1016/j.athoracsur.2015.06.062">https://doi.org/10.1016/j.athoracsur.2015.06.062</a>.
 </div>
 <div id="ref-shaheen2277" class="csl-entry" role="listitem">
 Shaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, Herbert C. Wolfsen, Richard E. Sampliner, Kenneth K. Wang, Joseph A. Galanko, et al. 2009. <span>“Radiofrequency Ablation in <span>Barrett</span>’s Esophagus with Dysplasia.”</span> <em>The New England Journal of Medicine</em> 360 (22): 2277–88. <a href="https://doi.org/10.1056/NEJMoa0808145">https://doi.org/10.1056/NEJMoa0808145</a>.
@@ -719,8 +957,12 @@ Shaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, Herbert C. Wolfsen, R
 Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. <span>“Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (<span>CROSS</span>): Long-Term Results of a Randomised Controlled Trial.”</span> <em>The Lancet. Oncology</em> 16 (9): 1090–98. <a href="https://doi.org/10.1016/S1470-2045(15)00040-6">https://doi.org/10.1016/S1470-2045(15)00040-6</a>.
 </div>
 </div>
-</section>
 
+
+<img src="atriumlogo.jpg" class="slide-logo r-stretch"><div class="footer footer-default">
+<p><a href="https://gisurgonc.github.io/talks/">GI Surgical Oncology Talks</a></p>
+</div>
+</section></section>
 
     </div>
   </div>
@@ -933,6 +1175,44 @@ Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hage
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
