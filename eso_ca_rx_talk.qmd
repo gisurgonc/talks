@@ -221,7 +221,25 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 [@allum5062]
 :::
 
-## EsoPEC Trial
+## Neo-Aegis Tral CROSS vs MAGIC/FLOT
+
+- Adenocarcinoma T2-3 N0-3 M0 Tumor length <8cm
+
+- ChemoRT arm: carboplatin + paclitaxel + 4140cGy 
+
+- Chemo arm:  MAGIC (ECF) or FLOT (later in trial)
+
+- No difference in overall survival
+
+- R0 resection 96% with CROSS vs 82% with chemo
+
+- pCR 12% with CROSS vs 4% with chemo
+
+::: aside
+[@reynolds1015]
+:::
+
+## EsoPEC CROSS vs FLOT
 
 -   Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63 89% men
 
@@ -235,7 +253,7 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
   - Squamous cell, gastric cancer, T1N0, T4b, M1
 
 
-## EsoPEC Trial 2
+## EsoPEC Trial Results
 
 -   Surgery performed in 371/438 patients
 
