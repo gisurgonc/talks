@@ -223,23 +223,34 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 
 ## EsoPEC Trial
 
--   Adenocarcinoma esophagus - T1 N+ or T2-4 M0. Median age =63 89% men
+-   Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63 89% men
 
--   Randomized to CROSS (n=217) vs FLOT (n=221)
+-   Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
 
--   Surgery performed in 371 patients
+-   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
+
+-   FLOT: FLOT  $\rightarrow$ Surgery $\rightarrow$ FLOT
+
+-   Excluded:
+  - Squamous cell, gastric cancer, T1N0, T4b, M1
+
+
+## EsoPEC Trial 2
+
+-   Surgery performed in 371/438 patients
 
 -   90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)
 
--   Median survival 66m in FLOT arm and 37mo in Cross arm
+-   Median survival 66mo in FLOT arm and 37mo in Cross arm
 
--   3-year overall survival 57% FLOT and 51% CROSS
+-   3-year overall survival 57% FLOT vs 51% CROSS
 
--   pCR 20% for FLOT and 14% CROSS
+-   5-year overall survival 51% FLOT vs 29% CROSS
 
-## Adjuvant Chemotherapy for Esophageal Cancer
+-   pCR 17% for FLOT and 10% CROSS
 
-## Checkmate 577 Trial
+
+## Adjuvant Immunotherapy: Checkmate 577 Trial
 
 Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell ChemoRT $\rightarrow$ Surgery 4-16 weeks prior Residual pathologic disease
 
@@ -285,10 +296,7 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 [@kelly1191]
 :::
 
-
 ## FFCD 9102 2007 (Bedenne)
-
-  
 
 All patients received 4500cGy RT + 2 cycles of cisplatin + 5FU
 
