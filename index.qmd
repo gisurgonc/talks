@@ -1,10 +1,7 @@
 ---
 title: "GI Surgical Oncology"
 ---
-```{r}
-library(rmarkdown)
-library(knitr)
-```
+
 
 
 # General Surgery Residency Didactics
