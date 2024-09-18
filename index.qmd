@@ -4,7 +4,7 @@ title: "GI Surgical Oncology"
 
 # General Surgery Residency Didactics
 
-[Esophageal Perforation SCORE Lecture](esoph_perf.html)
+[Esophageal Perforation SCORE](esoph_perf.html)
 
 [Esophageal Cancer Lecture](eso_ca_rx_talk.html)
 
