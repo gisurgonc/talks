@@ -75,8 +75,8 @@ $$\frac{SMI\, \times \,SMD}{\mathrm{Height\, in\, meters}^2}$$
 
 xyz<-data.frame(matrix(rnorm(8),nrow=4))
 
-library(flextable)
-flextable(xyz)
+#library(flextable)
+#flextable(xyz)
 ```
 
 ## Table with Kable
