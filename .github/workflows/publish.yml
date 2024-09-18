@@ -17,6 +17,17 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Set up Dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 2
+          extra-packages: |
+            any::knitr
+            any::rmarkdown
+          needs: |
+            website
+            coverage
+
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
