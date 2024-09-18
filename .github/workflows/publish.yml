@@ -20,13 +20,9 @@ jobs:
       - name: Set up Dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
-          cache-version: 2
-          extra-packages: |
-            any::knitr
+          packages: |
             any::rmarkdown
-          needs: |
-            website
-            coverage
+            any::knitr
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
