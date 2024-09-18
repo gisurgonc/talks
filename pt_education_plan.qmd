@@ -4,8 +4,6 @@ format:
   html:
     toc: true
     toc_float: true
-  pdf: default
-  docx: default
 ---
 
 ## Overview
