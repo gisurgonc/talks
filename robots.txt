@@ -1,0 +1,1 @@
+Sitemap: https://gisurgonc.github.io/talks/sitemap.xml
