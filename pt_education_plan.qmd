@@ -4,6 +4,9 @@ format:
   html:
     toc: true
     toc_float: true
+  pdf:
+    toc: true
+    colorlinks: true
 ---
 
 ## Overview
