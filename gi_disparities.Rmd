@@ -3,7 +3,8 @@ title: "GI Cancer Disparities"
 editor: visual
 bibliography: zotero.bib
 ---
-# Disparities in esophageal cancer
+
+## Disparities in esophageal cancer
 
 SEER Trends in esophageal cancer: [@corona883] The study included 19,257 EAC cases and 15,162 ESCC cases. EAC mortality increased significantly overall and in non-Hispanic Whites from 1993 to 2012 and from 1993 to 2010, respectively. EAC mortality continued to rise among non-Hispanic Blacks (NHB) (APC = 1.60, p = 0.01). NHB experienced the fastest decline in ESCC mortality (APC = - 4.53, p \< 0.001) yet maintained the highest mortality at the end of the study period. Proportions of late stage disease increased overall by 18.5 and 24.5 percentage points for EAC and ESCC respectively; trends varied by race/ethnicity.
 
