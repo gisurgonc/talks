@@ -1530,7 +1530,7 @@
     "href": "gist_slides.html#gi-stromal-tumors",
     "title": "GI Stromal Tumors",
     "section": "GI Stromal Tumors",
-    "text": "GI Stromal Tumors\nPathophysiology\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\n[Dyplasia]\nTis\nRadiofrequency Ablation\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\n[Localized Tumors]\nT1b T2\nSurgery\n\n\nLocally-advanced\nT3 or N+\nChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation\n\n\n\n\n\n(schaefer1?)"
+    "text": "GI Stromal Tumors"
   },
   {
     "objectID": "gist_slides.html#pathophysiology",
@@ -1600,7 +1600,7 @@
     "href": "gist_slides.html#mutational-testing",
     "title": "GI Stromal Tumors",
     "section": "Mutational Testing",
-    "text": "Mutational Testing\nGenetic mutations can predict respoinse to imatinib 1\nMeheran JCO 2017"
+    "text": "Mutational Testing\nGenetic mutations can predict respoinse to imatinib 1\n\nChemoRT \\(\\rightarrow\\) Surgery ([CROSS Trial])\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo ([EsoPEC Trial])\n\nMeheran JCO 2017"
   },
   {
     "objectID": "gist_slides.html#locally-advanced",
@@ -1642,7 +1642,7 @@
     "href": "gist_slides.html#recurrence-risk",
     "title": "GI Stromal Tumors",
     "section": "Recurrence Risk",
-    "text": "Recurrence Risk\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\nJoensuu Lancet March 2012"
+    "text": "Recurrence Risk\n\n\nJoensuu Lancet March 2012"
   },
   {
     "objectID": "gist_slides.html#cross---survival-by-histology",
@@ -1906,127 +1906,204 @@
   {
     "objectID": "pe_dx_staging.html#nodes",
     "href": "pe_dx_staging.html#nodes",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "Nodes",
     "text": "Nodes\n\nN0 – No lymph nodes involved\nN+ - Lymph nodes involved with cancer"
   },
   {
     "objectID": "pe_dx_staging.html#laparoscopy",
     "href": "pe_dx_staging.html#laparoscopy",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "Laparoscopy",
     "text": "Laparoscopy\nLaparoscopy is a surgical procedure done under a general anesthetic. Several incisions ¼” long are made, and a telescope is inserted into the abdominal cavity. This allows an examination of the abdominal cavity to look for signs of spread.\nThe procedure is usually done as an outpatient, so you can go home the same day."
   },
   {
     "objectID": "pe_dx_staging.html#introduction",
     "href": "pe_dx_staging.html#introduction",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "Introduction",
     "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon."
   },
   {
     "objectID": "pe_dx_staging.html#section",
     "href": "pe_dx_staging.html#section",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "",
     "text": "In this video you’ll learn about:\n\nDefinitions of cancer Terms\nStaging of esophageal cancer\nDiagnostic Tests"
   },
   {
     "objectID": "pe_dx_staging.html#section-1",
     "href": "pe_dx_staging.html#section-1",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "",
     "text": "The esophagus is a hollow muscular tube which connects the throat to the stomach.\nFor many patients, the first symptom they have is difficulty swallowing or pain in swallowing. The difficulty swallowing can be due to a lump, also known as a tumor. For other patients, the symptoms may be chronic heartburn or signs of bleeding."
   },
   {
     "objectID": "pe_dx_staging.html#section-2",
     "href": "pe_dx_staging.html#section-2",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "",
     "text": "Let‘s start with some definitions. A tumor is an abnormal growth. Tumors can be either benign or malignant\nA benign tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else"
   },
   {
     "objectID": "pe_dx_staging.html#section-3",
     "href": "pe_dx_staging.html#section-3",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "",
     "text": "In most cases, the diagnosis of esophageal cancer is made by endoscopy, also called and EGD for esophago-gastroduodenoscopy\nUnder sedation, a flexible scope is passed through the mouth into the esophagus, which allows viewing the inside of the esophagus."
   },
   {
     "objectID": "pe_dx_staging.html#section-4",
     "href": "pe_dx_staging.html#section-4",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "",
     "text": "If the biopsy shows cancer, the next step is staging. Staging is the process of finding out the size of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.\nOnce the stage has been determined, it will be possible to determine the best therapy"
   },
   {
     "objectID": "pe_dx_staging.html#section-5",
     "href": "pe_dx_staging.html#section-5",
-    "title": "LCI Welcome 2024",
+    "title": "EsoCA Diagnosis and Staging",
     "section": "",
     "text": "T1 tumor involves the top layers of the esophagus\nT2 tumor invades into the muscular layer\nT3 tumor invades all the way through the muscular layer\nT4 tumor invades into nearby structures such as the aorta or the airway"
   },
   {
     "objectID": "pe_eso_plan.html#section",
     "href": "pe_eso_plan.html#section",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "EsoCa Symptoms\n\nDirections/Parking\nLinks to my Atrium"
+    "text": "Plan Overview Map\nLCI Introduction\n\nDirections/Parking\nLinks to my Atrium\n\nLinks Out:\n\nEsophageal Cancer Diagnosis and Staging\nGastric Cancer"
   },
   {
     "objectID": "pe_eso_plan.html#section-1",
     "href": "pe_eso_plan.html#section-1",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "EsoCa Diagnosis and Staging\n\nDx tests (EGD, EUS, PET,Laparoscopy)\nTNM Staging"
+    "text": "EsoCa Symptoms"
   },
   {
     "objectID": "pe_eso_plan.html#section-2",
     "href": "pe_eso_plan.html#section-2",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "EsoCa Treatment Team\n\nSpecialists"
+    "text": "EsoCa Diagnosis and Staging 50K\n\nDx tests (EGD, EUS, PET,Laparoscopy)\nTNM Staging\n\nLinks Out\n1 - Treatment Team 2 - Treatment Options"
   },
   {
     "objectID": "pe_eso_plan.html#section-3",
     "href": "pe_eso_plan.html#section-3",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "EsoCa Treatment Options\nCovers all 4 Rx stages\nLinks to:\n\nEsoCa Early Stage\nEsoCa Advanced"
+    "text": "EsoCa Treatment Team\n\nSpecialists"
   },
   {
     "objectID": "pe_eso_plan.html#section-4",
     "href": "pe_eso_plan.html#section-4",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "EsoCa Early Stage\n-Early Stage present without Dysphagia -EUS needed to distinguish T1 from T2 -EMR if T1 (describe) -Primary surgery if unfavorable or T2\nLinks\n\nEso Primary Surgery"
+    "text": "EsoCa Treatment Options\nCovers all 4 Rx stages\nLinks to:\n\nSquamous Cell\nAdenocarcinoma\nEsoCa Early Stage\nEsoCa Advanced"
   },
   {
     "objectID": "pe_eso_plan.html#section-5",
     "href": "pe_eso_plan.html#section-5",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "EsoCa Advanced\nLinks\n\nLocally Advanced\nSystemic Therapy"
+    "text": "EsoCa Early Stage\n-Early Stage present without Dysphagia -EUS needed to distinguish T1 from T2 -EMR if T1 (describe) -Primary surgery if unfavorable or T2\nLinks\n\nEso Primary Surgery"
   },
   {
     "objectID": "pe_eso_plan.html#section-6",
     "href": "pe_eso_plan.html#section-6",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "Endoscopic Therapy\nIncoming Links\n\n06 - Esophageal Stage I/II Rx Options"
+    "text": "EsoCa Advanced\nLinks\n\nLocally Advanced\nSystemic Therapy"
   },
   {
     "objectID": "pe_eso_plan.html#section-7",
     "href": "pe_eso_plan.html#section-7",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
     "section": "",
-    "text": "name: 12-Eso_Surgery\n12 - Primary Surgery"
+    "text": "Endoscopic Therapy\nIncoming Links\n\n06 - Esophageal Stage I/II Rx Options"
   },
   {
     "objectID": "pe_eso_plan.html#section-8",
     "href": "pe_eso_plan.html#section-8",
-    "title": "pe_eso_plan",
+    "title": "Esophageal Cancer Plan",
+    "section": "",
+    "text": "name: 12-Eso_Surgery\n12 - Primary Surgery"
+  },
+  {
+    "objectID": "pe_eso_plan.html#section-9",
+    "href": "pe_eso_plan.html#section-9",
+    "title": "Esophageal Cancer Plan",
     "section": "",
     "text": "name:"
+  },
+  {
+    "objectID": "gist_slides.html#cross---risk-classification",
+    "href": "gist_slides.html#cross---risk-classification",
+    "title": "GI Stromal Tumors",
+    "section": "CROSS - Risk Classification",
+    "text": "CROSS - Risk Classification\n\n\nMiettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83"
+  },
+  {
+    "objectID": "eso_dx_staging.html#introduction",
+    "href": "eso_dx_staging.html#introduction",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "Introduction",
+    "text": "Introduction\nIf you or someone close to you has recently been diagnosed with esophageal cancer, this video is intended for you. I’m Dr Jonathan Salo and I’m a GI Cancer Surgeon :hocho:\n\nOn the left side, you have … and, on the right side, the first image is ….\nThe second image has been …"
+  },
+  {
+    "objectID": "eso_dx_staging.html#in-this-video-youll-learn-about",
+    "href": "eso_dx_staging.html#in-this-video-youll-learn-about",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "In this video you’ll learn about:",
+    "text": "In this video you’ll learn about:\n\nDefinitions of cancer Terms\nStaging of esophageal cancer\nDiagnostic Tests"
+  },
+  {
+    "objectID": "eso_dx_staging.html#anatomy",
+    "href": "eso_dx_staging.html#anatomy",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "Anatomy",
+    "text": "Anatomy\nThe esophagus is a hollow muscular tube which connects the throat to the stomach.\nFor many patients, the first symptom they have is difficulty swallowing or pain in swallowing. The difficulty swallowing can be due to a lump, also known as a tumor. For other patients, the symptoms may be chronic heartburn or signs of bleeding."
+  },
+  {
+    "objectID": "eso_dx_staging.html#cancer-terms",
+    "href": "eso_dx_staging.html#cancer-terms",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "Cancer Terms",
+    "text": "Cancer Terms\nLet‘s start with some definitions. A tumor is an abnormal growth. Tumors can be either benign or malignant\nA benign tumor of the esophagus may grow over time and cause obstruction and make it difficult to swallow, but it won’t ever spread anywhere else"
+  },
+  {
+    "objectID": "eso_dx_staging.html#egd",
+    "href": "eso_dx_staging.html#egd",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "EGD",
+    "text": "EGD\nIn most cases, the diagnosis of esophageal cancer is made by endoscopy, also called and EGD for esophago-gastroduodenoscopy\nUnder sedation, a flexible scope is passed through the mouth into the esophagus, which allows viewing the inside of the esophagus."
+  },
+  {
+    "objectID": "eso_dx_staging.html#tumor",
+    "href": "eso_dx_staging.html#tumor",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "Tumor",
+    "text": "Tumor\n\nT1 tumor involves the top layers of the esophagus\nT2 tumor invades into the muscular layer\nT3 tumor invades all the way through the muscular layer\nT4 tumor invades into nearby structures such as the aorta or the airway"
+  },
+  {
+    "objectID": "eso_dx_staging.html#nodes",
+    "href": "eso_dx_staging.html#nodes",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "Nodes",
+    "text": "Nodes\n\nN0 – No lymph nodes involved\nN+ - Lymph nodes involved with cancer"
+  },
+  {
+    "objectID": "eso_dx_staging.html#laparoscopy",
+    "href": "eso_dx_staging.html#laparoscopy",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "Laparoscopy",
+    "text": "Laparoscopy\nLaparoscopy is a surgical procedure done under a general anesthetic. Several incisions ¼” long are made, and a telescope is inserted into the abdominal cavity. This allows an examination of the abdominal cavity to look for signs of spread.\nThe procedure is usually done as an outpatient, so you can go home the same day."
+  },
+  {
+    "objectID": "eso_dx_staging.html#staging",
+    "href": "eso_dx_staging.html#staging",
+    "title": "Esophageal Cancer Dx and Staging",
+    "section": "Staging",
+    "text": "Staging\nIf the biopsy shows cancer, the next step is staging. Staging is the process of finding out the size of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.\nOnce the stage has been determined, it will be possible to determine the best therapy"
   }
 ]
