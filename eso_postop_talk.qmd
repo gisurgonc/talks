@@ -10,7 +10,7 @@ format:
     #css: ["theme/theme.css"]
     theme: default
     echo: false
-  nanotes-pdf: default
+  #nanotes-pdf: default
 editor: visual
 bibliography: zotero.bib
 ---
