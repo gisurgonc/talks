@@ -19,45 +19,17 @@ bibliography: zotero.bib
 
 ## Tables
 
-| Category             |   Stage    | Treatment                  |
-|----------------------|:----------:|:---------------------------|
-| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
-| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
-| [Localized Tumors]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
-| [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+| Category               |   Stage    | Treatment                  |
+|------------------------|:----------:|:---------------------------|
+| \[Dyplasia\]           |    Tis     | Radiofrequency Ablation    |
+| \[Superficial Tumors\] |    T1a     | Endoscopic Therapy         |
+| \[Localized Tumors\]   |   T1b T2   | Surgery                    |
+| \[Locally-advanced\]   | T3 or N^+^ | ChemoRT → Surgery          |
+| \[Metastatic\]         |     M1     | Chemotherapy +/- Radiation |
 
 ## Symbols
 
-
-$\alpha$
-$\rightarrow$
-$\leftarrow$
-$\longrightarrow$
-$\implies$
-$\gt$
-$\pi r^2$
-$\leq$
-$\geq$
-$\beta_1$
-$\tilde{x}$
-$\checkmark$
-$\bullet$
-$\dagger$
-$\downarrow$
-$\ll$
-$\gg$
-$\pm$
-$\div$
-$\star$
-$\nearrow$
-$\searrow$
-$\leadsto$
-$\surd$
-$\therefore$
-$\neq$
-$\notin$
-$\tilde{x}$
+$\alpha$ $\rightarrow$ $\leftarrow$ $\longrightarrow$ $\implies$ $\gt$ $\pi r^2$ $\leq$ $\geq$ $\beta_1$ $\tilde{x}$ $\checkmark$ $\bullet$ $\dagger$ $\downarrow$ $\ll$ $\gg$ $\pm$ $\div$ $\star$ $\nearrow$ $\searrow$ $\leadsto$ $\surd$ $\therefore$ $\neq$ $\notin$ $\tilde{x}$
 
 Inline fractions
 
@@ -90,9 +62,7 @@ knitr::kable(head(cars))
 
 ## Hyperlinks
 
-[syllabus](https://www.albany.edu/spatial/GIS4SS/syllabus/){target='_blank'}
-
-
+[syllabus](https://www.albany.edu/spatial/GIS4SS/syllabus/){target="_blank"}
 
 ## Columns
 
@@ -135,7 +105,6 @@ Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
 [@shaheen2277]
 :::
 
-
 ## Full-page images
 
 ![](images/EMR.jpg){fig-align="right"}
@@ -144,8 +113,8 @@ Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
 
 Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
 
--   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
--   Metastatic disease $\rightarrow$ [Metastatic]
+-   Disease confined to the esophagus and regional nodes $\rightarrow$ \[Locally-advanced\]
+-   Metastatic disease $\rightarrow$ \[Metastatic\]
 -   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
 
 ## EUS in Patients with Dysphagia
@@ -165,7 +134,6 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 
 [^2]: @block770
 
-
 ## CROSS Trial
 
 -   368 esophageal cancer patients randomized:
@@ -178,8 +146,7 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 
 CROSS Trial Details
 
-Chemotherapy: Weekly carboplatin and paclitaxel 
-Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
+Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 
 ::: aside
 [@shapiro1090]
@@ -192,7 +159,6 @@ Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 ::: aside
 [@shapiro1090]
 :::
-
 
 ## CROSS - Squamous cell carcinoma
 
@@ -235,7 +201,6 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 
 [^4]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
 
-
 ## Include Other Slideshows
 
 {{< include rectal_slides.qmd >}}
@@ -246,5 +211,5 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 
 ## References
 
-:::{#refs}
+::: {#refs}
 :::
