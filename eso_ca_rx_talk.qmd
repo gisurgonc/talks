@@ -9,8 +9,11 @@ format:
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
     #css: ["theme/theme.css"]
     theme: default
-      
     echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
 editor: visual
 bibliography: zotero.bib
 ---
