@@ -386,12 +386,12 @@ Jonathan C Salo MD
 <td style="text-align: left;">Surgery</td>
 </tr>
 <tr class="even">
-<td><a href="#/locally-advanced">Locally-advanced</a></td>
+<td>[Locally-advanced]</td>
 <td style="text-align: center;">T3 or N<sup>+</sup></td>
 <td style="text-align: left;">ChemoRT → Surgery</td>
 </tr>
 <tr class="odd">
-<td><a href="#/metastatic">Metastatic</a></td>
+<td>[Metastatic]</td>
 <td style="text-align: center;">M1</td>
 <td style="text-align: left;">Chemotherapy +/- Radiation</td>
 </tr>
@@ -514,8 +514,8 @@ Table&nbsp;2: CAPTION
 <h2>Symptomatic Tumors (Dysphagia)</h2>
 <p>Patients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with <a href="#/pet-scan">PET Scan</a></p>
 <ul>
-<li>Disease confined to the esophagus and regional nodes <span class="math inline">\(\rightarrow\)</span> <a href="#/locally-advanced">Locally-advanced</a></li>
-<li>Metastatic disease <span class="math inline">\(\rightarrow\)</span> <a href="#/metastatic">Metastatic</a></li>
+<li>Disease confined to the esophagus and regional nodes <span class="math inline">\(\rightarrow\)</span> [Locally-advanced]</li>
+<li>Metastatic disease <span class="math inline">\(\rightarrow\)</span> [Metastatic]</li>
 <li>N3 <span class="math inline">\(\rightarrow\)</span> induction chemotherapy followed by chemoradiation and surgical evaluation.</li>
 </ul>
 </section>
@@ -921,9 +921,14 @@ Table&nbsp;2: CAPTION
 </section>
 <section id="orientation-manual" class="title-slide slide level1 center">
 <h1>Orientation Manual</h1>
-<div id="qrcode" class="qrcode"></div>
+<div id="" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qrcode", {"text":"https://gisurgonc.github.io/orientation","colorDark":"#000000","colorLight":"#ffffff","width":"500","height":"500"});
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"height":"500","width":"500","text":"https://gisurgonc.github.io/orientation","colorDark":"#000000","colorLight":"#ffffff"});
+  script.remove();
+})();
 </script>
     
 </section>
@@ -935,9 +940,14 @@ var qrcode = new QRCode("qrcode", {"text":"https://gisurgonc.github.io/orientati
 </section>
 <section id="orientation-manual-1" class="slide level2">
 <h2>Orientation Manual</h2>
-<div id="qrcode" class="qrcode"></div>
+<div id="" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qrcode", {"text":"https://gisurgonc.github.io/orientation","colorDark":"#000000","colorLight":"#ffffff","width":"500","height":"500"});
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"height":"500","width":"500","text":"https://gisurgonc.github.io/orientation","colorDark":"#000000","colorLight":"#ffffff"});
+  script.remove();
+})();
 </script>
     
 </section>

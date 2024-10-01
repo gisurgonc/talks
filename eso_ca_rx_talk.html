@@ -686,9 +686,14 @@
 </section>
 <section id="orientation-manual" class="title-slide slide level1 center">
 <h1>Orientation Manual</h1>
-<div id="qrcode" class="qrcode"></div>
+<div id="" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qrcode", {"text":"https://gisurgonc.github.io/orientation","colorDark":"#000000","colorLight":"#ffffff","width":"500","height":"500"});
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"colorDark":"#000000","height":"500","width":"500","text":"https://gisurgonc.github.io/orientation","colorLight":"#ffffff"});
+  script.remove();
+})();
 </script>
     
 </section>

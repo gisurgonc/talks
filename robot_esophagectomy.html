@@ -142,9 +142,14 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="introduction" class="level1">
 <h1>Introduction</h1>
-<div id="qrcode" class="qrcode"></div>
+<div id="" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qrcode", {"colorDark":"#000000","colorLight":"#ffffff","height":128,"width":128,"text":"https://jmbuhr.de"});
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"width":128,"colorLight":"#ffffff","colorDark":"#000000","height":128,"text":"https://jmbuhr.de"});
+  script.remove();
+})();
 </script>
     
 
