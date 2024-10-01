@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer Treatment"
+title: "Esophagectomy Postop Care"
 format: 
   revealjs:
     slide-number: c/t
@@ -9,71 +9,166 @@ format:
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
     #css: ["theme/theme.css"]
     theme: default
-      
     echo: false
+  nanotes-pdf: default
 editor: visual
 bibliography: zotero.bib
 ---
 
-## Esophageal Cancer Treatment Categories
+## Esophagectomy
 
-| Category             |   Stage    | Treatment                  |
-|----------------------|:----------:|:---------------------------|
-| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
-| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
-| [Localized Tumors]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
-| [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+### Esophagus resection
+- Total esophagectomy (cervical incision)
+- Partial/subtotal esophagectomy (thoracic incision)
 
-## Dyplasia
+### Esophagus reconstruction
+- Stomach (98%)
+- Colon
 
-Radiofrequency Ablation for Dysplasia
+Anastomosis = surgical junction between espohagus and its substitute
 
-::::: columns
-::: {.column width="60%"}
-127 patients with dysplasia randomized:
+## Distal Esophageal Cancer
 
--   Radio-frequency ablation
--   Sham ablation
+Resection
 
-Low-grade dysplasia in 64
-
-High-grade dysplasia in 63
-:::
-
+::: columns
 ::: {.column width="40%"}
-![](images/rfa_esophagus.png) ![Barxx](images/barxx.png)
-:::
-:::::
 
-::: aside
-[@shaheen2277]
 :::
 
-## Radiofrequency Ablation for Dysplasia
+::: {.column width="60%"}
+![](images/Eso_Resection1Artboard 2@4x.png)
+:::
+:::
 
-::::: columns
+
+## Surgery Goals
+
+Resection
+
+::: columns
+::: {.column width="40%"}
+
+:::
+
+::: {.column width="60%"}
+ ![](images/Eso_Resection2Artboard 2@4x.png)
+
+:::
+:::
+
+
+## Ivor Lewis Esophagectomy
+
+Reconstruction
+
+::: columns
+::: {.column width="40%"}
+
+:::
+
+::: {.column width="60%"}
+![](images/Eso_AnastArtboard 2@4x.png)
+:::
+:::
+
+
+## Surgery Goals
+
+Resection
+
+::: columns
+::: {.column width="40%"}
+
+:::
+
+::: {.column width="60%"}
+![](images/Eso_Resection3Artboard 2@4x.png)
+:::
+:::
+
+
+
+## Proximal Tumors
+
+::: columns
 ::: {.column width="30%"}
 Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
 :::
 
 ::: {.column width="70%"}
-![](images/shaheen.png)
+![](images/Eso_ProxTumorArtboard 2@4x.png)
 :::
-:::::
-
-::: aside
-[@shaheen2277]
 :::
 
-## Superficial Tumors
+## Proximal Tumors
 
-Workup of nodular Barretts:
+::: columns
+::: {.column width="30%"}
+Cervical Anastomosis
 
--   Endoscopic Ultrasound
--   Endoscopic Mucosal Resection
-    -   Diagnostic (T staging)
-    -   May be therapeutic for T1a tumors
+- Higher risk of leak
+- Less morbidity if leak occurs
+:::
+
+::: {.column width="70%"}
+![](images/Eso_Total_AnastArtboard 2@4x.png)
+:::
+:::
+
+
+## Minimally-invasive McKeown Esophagectomy
+
+::: columns
+::: {.column width="30%"}
+Cervical Anastomosis
+
+- Laparoscopy 
+- Thoracoscopy
+- Can be done robotically
+:::
+
+::: {.column width="70%"}
+![](images/Eso_MIE_McKeownArtboard 2@4x.png)
+:::
+:::
+
+## Minimally-invasive Transhiatal Esophagectomy
+
+::: columns
+::: {.column width="30%"}
+Cervical Anastomosis
+
+- Laparoscopy 
+- Dissection of mediastinal esophagus from neck and abdominal incisions
+- Can be done open, laparosopic, or robotic
+:::
+
+::: {.column width="70%"}
+![](images/Eso_MIE_THEArtboard 2@4x.png)
+:::
+:::
+
+## Gastric Tube Construction
+
+::: columns
+::: {.column width="30%"}
+Neoesophagus constructed with linear stapler
+
+- Laparoscopy 
+- Dissection of mediastinal esophagus from neck and abdominal incisions
+- Can be done open, laparosopic, or robotic
+:::
+
+::: {.column width="70%"}
+![](images/Eso_MIE_THEArtboard 2@4x.png)
+:::
+:::
+
+
+
+
+Neoesophagus 
 
 ## Endoscopic Musocal Resection
 
@@ -124,7 +219,7 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
 
 -   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo (\[EsoPEC Trial\])
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
 
 ## CROSS Trial
 
@@ -178,7 +273,7 @@ Pathologic complete respoinse in 40%
 
 ## CROSS - Sites of Failure
 
-::::: columns
+::: columns
 ::: {.column width="30%"}
 Sites of failure over time
 
@@ -190,7 +285,7 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 ::: {.column width="70%"}
 ![](images/eyck.png)
 :::
-:::::
+:::
 
 ::: aside
 [@shapiro1090]
@@ -223,17 +318,17 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 
 ## Neo-Aegis Tral CROSS vs MAGIC/FLOT
 
--   Adenocarcinoma T2-3 N0-3 M0 Tumor length \<8cm
+- Adenocarcinoma T2-3 N0-3 M0 Tumor length <8cm
 
--   ChemoRT arm: carboplatin + paclitaxel + 4140cGy
+- ChemoRT arm: carboplatin + paclitaxel + 4140cGy 
 
--   Chemo arm: MAGIC (ECF) or FLOT (later in trial)
+- Chemo arm:  MAGIC (ECF) or FLOT (later in trial)
 
--   No difference in overall survival
+- No difference in overall survival
 
--   R0 resection 96% with CROSS vs 82% with chemo
+- R0 resection 96% with CROSS vs 82% with chemo
 
--   pCR 12% with CROSS vs 4% with chemo
+- pCR 12% with CROSS vs 4% with chemo
 
 ::: aside
 [@reynolds1015]
@@ -247,11 +342,11 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 
 -   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
 
--   FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
+-   FLOT: FLOT  $\rightarrow$ Surgery $\rightarrow$ FLOT
 
 -   Excluded:
+  - Squamous cell, gastric cancer, T1N0, T4b, M1
 
--   Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ## EsoPEC Trial Results
 
@@ -267,6 +362,7 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 
 -   pCR 17% for FLOT and 10% CROSS
 
+
 ## Adjuvant Immunotherapy: Checkmate 577 Trial
 
 Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell ChemoRT $\rightarrow$ Surgery 4-16 weeks prior Residual pathologic disease
@@ -279,7 +375,7 @@ Treatment Group: Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 
 
 ## Nivolumab
 
-::::: columns
+::: columns
 ::: {.column width="60%"}
 PD-L1 agonist ligand
 
@@ -291,7 +387,7 @@ Active against stage IV esophageal cancer
 ::: {.column width="40%"}
 ![Nivolumab mechanism of action](images/nivo.png)
 :::
-:::::
+:::
 
 ## Chekmate 577 Trial
 
