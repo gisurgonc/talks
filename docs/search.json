@@ -466,14 +466,14 @@
     "href": "eso_ca_rx_talk.html#dyplasia",
     "title": "Esophageal Cancer Treatment",
     "section": "Dyplasia",
-    "text": "Dyplasia\nRadiofrequency Ablation for Dysplasia\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n\n(Shaheen et al. 2009)"
+    "text": "Dyplasia\nRadiofrequency Ablation for Dysplasia\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n(Shaheen et al. 2009)"
   },
   {
     "objectID": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia",
     "href": "eso_ca_rx_talk.html#radiofrequency-ablation-for-dysplasia",
     "title": "Esophageal Cancer Treatment",
     "section": "Radiofrequency Ablation for Dysplasia",
-    "text": "Radiofrequency Ablation for Dysplasia\n\n\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n\n\n\n\n(Shaheen et al. 2009)"
+    "text": "Radiofrequency Ablation for Dysplasia\n\n\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n\n\n\n(Shaheen et al. 2009)"
   },
   {
     "objectID": "eso_ca_rx_talk.html#superficial-tumors",
@@ -529,7 +529,7 @@
     "href": "eso_ca_rx_talk.html#locally-advanced",
     "title": "Esophageal Cancer Treatment",
     "section": "Locally-advanced",
-    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
+    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo ([EsoPEC Trial])"
   },
   {
     "objectID": "eso_ca_rx_talk.html#cross-trial",
@@ -571,7 +571,7 @@
     "href": "eso_ca_rx_talk.html#cross---sites-of-failure",
     "title": "Esophageal Cancer Treatment",
     "section": "CROSS - Sites of Failure",
-    "text": "CROSS - Sites of Failure\n\n\nSites of failure over time\nChemoRT + Surgery vs Surgery\nChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure\n\n\n\n\n\n\n(Shapiro et al. 2015)"
+    "text": "CROSS - Sites of Failure\n\n\nSites of failure over time\nChemoRT + Surgery vs Surgery\nChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure\n\n\n\n\n\n(Shapiro et al. 2015)"
   },
   {
     "objectID": "eso_ca_rx_talk.html#neoadjuvant-chemo-for-esoca",
@@ -606,7 +606,7 @@
     "href": "eso_ca_rx_talk.html#checkmate-577-trial",
     "title": "Esophageal Cancer Treatment",
     "section": "Checkmate 577 Trial",
-    "text": "Checkmate 577 Trial\nImmunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell ChemoRT \\(\\rightarrow\\) Surgery 4-16 weeks prior Residual pathologic disease\nTreatment Group: Nivolumab every 2 weeks x 4 months \\(\\rightarrow\\) every month x 8 months\n\n\n(Kelly et al. 2021)"
+    "text": "Checkmate 577 Trial\n\n\n\nAdjuvant Nivolumab vs Observation\n\n\n\n\n(Kelly et al. 2021)"
   },
   {
     "objectID": "eso_ca_rx_talk.html#nivolumab",
@@ -2105,5 +2105,33 @@
     "title": "Esophageal Cancer Dx and Staging",
     "section": "Staging",
     "text": "Staging\nIf the biopsy shows cancer, the next step is staging. Staging is the process of finding out the size of the tumor and whether or not there has been spread to the lymph nodes or other places in the body.\nOnce the stage has been determined, it will be possible to determine the best therapy"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#neo-aegis-tral-cross-vs-magicflot",
+    "href": "eso_ca_rx_talk.html#neo-aegis-tral-cross-vs-magicflot",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Neo-Aegis Tral CROSS vs MAGIC/FLOT",
+    "text": "Neo-Aegis Tral CROSS vs MAGIC/FLOT\n\nAdenocarcinoma T2-3 N0-3 M0 Tumor length &lt;8cm\nChemoRT arm: carboplatin + paclitaxel + 4140cGy\nChemo arm: MAGIC (ECF) or FLOT (later in trial)\nNo difference in overall survival\nR0 resection 96% with CROSS vs 82% with chemo\npCR 12% with CROSS vs 4% with chemo\n\n\n\n(reynolds1015?)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#esopec-cross-vs-flot",
+    "href": "eso_ca_rx_talk.html#esopec-cross-vs-flot",
+    "title": "Esophageal Cancer Treatment",
+    "section": "EsoPEC CROSS vs FLOT",
+    "text": "EsoPEC CROSS vs FLOT\n\nAdenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63 89% men\nRandomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438\nCROSS: carboplatin/paclitaxel + 4140cGy \\(\\rightarrow\\) Surgery\nFLOT: FLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nExcluded:\nSquamous cell, gastric cancer, T1N0, T4b, M1"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#esopec-trial-results",
+    "href": "eso_ca_rx_talk.html#esopec-trial-results",
+    "title": "Esophageal Cancer Treatment",
+    "section": "EsoPEC Trial Results",
+    "text": "EsoPEC Trial Results\n\nSurgery performed in 371/438 patients\n90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)\nMedian survival 66mo in FLOT arm and 37mo in Cross arm\n3-year overall survival 57% FLOT vs 51% CROSS\n5-year overall survival 51% FLOT vs 29% CROSS\npCR 17% for FLOT and 10% CROSS"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.html#adjuvant-immunotherapy-checkmate-577-trial",
+    "href": "eso_ca_rx_talk.html#adjuvant-immunotherapy-checkmate-577-trial",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Adjuvant Immunotherapy: Checkmate 577 Trial",
+    "text": "Adjuvant Immunotherapy: Checkmate 577 Trial\nImmunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell ChemoRT \\(\\rightarrow\\) Surgery 4-16 weeks prior Residual pathologic disease\nTreatment Group: Nivolumab every 2 weeks x 4 months \\(\\rightarrow\\) every month x 8 months\n\n\n(Kelly et al. 2021)"
   }
 ]
