@@ -97,9 +97,7 @@ Contained perforations of the cervical esophagus can be treated with NPO and IV 
 
 ### Thoracic esophageal perforations
 
-abbas Pittsburgh [@abbas749]
-
-Validation of Pittsburgh scoring system [@schweigert1002]
+Pittsburgh esophageal perforation scoring system: [@abbas749] Validation of Pittsburgh scoring system [@schweigert1002]
 
 A series from Birmingham UK of 74 esophageal perforations over 15 years include 13 patients with perforated cancers, of whom 7 were treated with endoscoic stenting [@charalampakis1710]. These 13 patients had a 1-year mortality of 77%
 
@@ -107,7 +105,7 @@ These patients need immediate consultation with thoracic surgery and GI surgical
 
 ## Diagnosis
 
-CT esophagram with water soluble is the diagnostic study of choice[@suarez-poveda505]
+CT esophagram with water soluble contrast is the diagnostic study of choice[@suarez-poveda505]
 
 A study from Colorado [@madsen2984] of 65 patients transferred with suspected esophageal perforation found that 24 patients were ultimately found not to have a perforation. Among patients for whom pneumomediastinum was their sole criteria for transfer, only 57% were ultimately found to have a perforation. Among patients with a pleural effusion prior to transfer, 83% were ultimately found to have a perforation. Patients with a lactate greater than 1.6 were 11 times more likely to have  aperforation.
 
