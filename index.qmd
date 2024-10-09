@@ -14,6 +14,10 @@ title: "GI Surgical Oncology"
 
 [GI Stomal Tumor Lecture](gist_slides.html)
 
+# Acute Care Surgery of the Cancer Patient
+
+[Overview](acs_gicancer_lit.qmd)
+
 # Patient Education
 
 [Esophageal Cancer](/images/EsoCaFull.pdf)
