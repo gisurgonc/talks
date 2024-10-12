@@ -1,5 +1,5 @@
 ---
-title: "Acute Care of GI Cancer Patients"
+title: "Acute Care Surgery of the Cancer Patient"
 editor: visual
 bibliography: 'https://deidt7p41jzcy.cloudfront.net/zotero.bib'
 csl: elsevier-stanford.csl
