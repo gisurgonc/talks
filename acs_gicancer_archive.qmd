@@ -9,43 +9,8 @@ link-citations: true
 
 # Esophageal Cancer - Background
 
-Emergency presentation of esophageal cancer is associated with poor prognosis due to increased incidence of metastatic diseaase [@markar711]
-
-### 
-
 E.Z. Keung, X. Liu, A. Nuzhad, et al. In-hospital and long-term outcomes after percutaneous endoscopic gastrostomy in patients with malignancy J Am Coll Surg, 215 (2012), p. 777
 
-# Esophageal Cancer with bleeding
-
-# Perforated Esophageal Cancer
-
-Perforated esophageal cancer most commonly occurs after endoscopy, endoscopic ultrasound, or dilation of an esophageal cancer (or benign stricture). Endoscopic stenting is generally not feasible due to the underlying stricture. Treatment options are conservative management with drainage and IV antibiotics or emergency surgery. [@abu-daff34]
-
-### Cervical esophageal perforation
-
-Contained perforations of the cervical esophagus can be treated with NPO and IV antibiotics. Uncontained perforations need surgical exploration. In this case, nutritional support with gastrostomy is indicated.
-
-### Thoracic esophageal perforations
-
-Pittsburgh esophageal perforation scoring system: [@abbas749] Validation of Pittsburgh scoring system [@schweigert1002]
-
-A series from Birmingham UK of 74 esophageal perforations over 15 years include 13 patients with perforated cancers, of whom 7 were treated with endoscoic stenting [@charalampakis1710]. These 13 patients had a 1-year mortality of 77%
-
-These patients need immediate consultation with thoracic surgery and GI surgical oncology to formulate a treatment plan.
-
-## Diagnosis
-
-CT esophagram with water soluble contrast is the diagnostic study of choice[@suarez-poveda505]
-
-A study from Colorado [@madsen2984] of 65 patients transferred with suspected esophageal perforation found that 24 patients were ultimately found not to have a perforation. Among patients for whom pneumomediastinum was their sole criteria for transfer, only 57% were ultimately found to have a perforation. Among patients with a pleural effusion prior to transfer, 83% were ultimately found to have a perforation. Patients with a lactate greater than 1.6 were 11 times more likely to have aperforation.
-
-## Conservative management
-
-## Emergent surgery
-
-Emergency esophagectomy is the traditional approach to perforated esophageal cancer given the difficulty in stenting an area of tumor (or stricture). Short-term goals are fluid resuscitation, IV antibiotics, and drainage of the pleurae (and abdomen).
-
-Emergent esophagogastrectomy via an abdominal and thoracic approach is the conventional approach in a fit patient. For frail patients, an transabdominal approach with esophagogastrostomy is less morbid [@gillen3065] although placing the patient at higher risk of postoperative reflux.
 
 # Tracheoesophageal fistula
 
@@ -114,8 +79,6 @@ Schuster KM, McGillicuddy EA, Maung AA, Kaplan LJ, Davis KA. Can acute care surg
 Anantha RV, Brackstone M, Parry N, Leslie K. An acute care surgery service expedites the treatment of emergency colon cancer: A retrospective case-control study. World J Emerg Surg. 2014;9(1):19.
 
 [Surgical Clinical of NA: Colorectal Oncologic Emergencies](https://www-clinicalkey-com.wake.idm.oclc.org/#!/content/journal/1-s2.0-S0039610923002086)
-
-See Norton - Surgical Emergencies inthe scnaer pateint JJ sussman
 
 Radiologic gastrostomy Y. Inaba, H. Yamaura, Y. Sato, et al. Percutaneous radiologic gastrostomy in patients with malignant pharyngoesophageal obstruction Jpn J Clin Oncol, 43 (2013), p. 713
 
