@@ -147,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
 (function() {
   var script = document.currentScript;
   var qrcode = script.previousElementSibling;
-  qrcode.qrcode = new QRCode(qrcode, {"height":128,"colorLight":"#ffffff","text":"https://jmbuhr.de","colorDark":"#000000","width":128});
+  qrcode.qrcode = new QRCode(qrcode, {"colorDark":"#000000","width":128,"text":"https://jmbuhr.de","height":128,"colorLight":"#ffffff"});
   script.remove();
 })();
 </script>
