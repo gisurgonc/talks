@@ -6,8 +6,6 @@ csl: elsevier-stanford.csl
 link-citations: true
 ---
 
-# Triage Guidelines
-
 # Esophageal Cancer
 
 Triage questions:
@@ -17,40 +15,40 @@ Triage questions:
 -   Upper GI bleeding requiring transfusion?
 -   Can patient maintain hydration orally?
 
-## Esophageal Cancer new diagnosis without obstruction or bleeding
+## Esophageal Cancer w/o obstruction or bleeding [Rationale](#eso_asx_rationale) {#eso_asx}
 
 Patients who can maintain their hydration orally can be managed as an outpatient and generally do not need transfer to CMC or inpatient stay
 
-+------------+---------------------------+-------------------------------------------------------------+
-| Location   | Triage Team               | Management                                                  |
-+============+===========================+=============================================================+
-| CMC        | GI Surgical Oncology LCI\ | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-|            |                           | InBasket to Jonathan Salo                                   |
-+------------+---------------------------+-------------------------------------------------------------+
-| Mercy\     | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-| Pineville\ |                           | InBasket to Jonathan Salo                                   |
-| Outside    |                           |                                                             |
-+------------+---------------------------+-------------------------------------------------------------+
++--------------+---------------------------+-------------------------------------------------------------+
+| Location     | Triage Team               | Followup Management                                         |
++==============+===========================+=============================================================+
+| CMC          | GI Surgical Oncology LCI\ | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Mercy\       | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+| Pineville\   |                           | InBasket to Jonathan Salo                                   |
+| Outside      |                           |                                                             |
++--------------+---------------------------+-------------------------------------------------------------+
 
-### Esophageal Cancer with obstruction
+## Esophageal Cancer with obstruction [Rationale](#eso_obstruction_rationale) {#eso_obstruction}
 
 Patients who cannot maintain hydration orally will need inpatient management
 
-+-----------+---------------------------+-------------------------------------------------------------+
-| Location  | Triage Team               | Management                                                  |
-+===========+===========================+=============================================================+
-| CMC       | GI Surgical Oncology LCI\ | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-|           |                           | InBasket to Jonathan Salo                                   |
-+-----------+---------------------------+-------------------------------------------------------------+
-| Mercy     | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-|           |                           | InBasket to Jonathan Salo                                   |
-+-----------+---------------------------+-------------------------------------------------------------+
-| Pineville | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-|           |                           | InBasket to Jonathan Salo                                   |
-+-----------+---------------------------+-------------------------------------------------------------+
-| Outside   | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-|           |                           | InBasket to Jonathan Salo                                   |
-+-----------+---------------------------+-------------------------------------------------------------+
++--------------+---------------------------+-------------------------------------------------------------+
+| Location     | Triage Team               | Followup Management                                         |
++==============+===========================+=============================================================+
+| CMC          | GI Surgical Oncology LCI\ | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Mercy        | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Pineville    | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Outside      | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
 
 ### Acute Management
 
@@ -69,22 +67,9 @@ Patients who cannot maintain hydration orally will need inpatient management
         -   Lap gastrostomy preferred
         -   Lap jejunostomy acceptable
 
-### Esophageal Cancer with bleeding
+## Esophageal Cancer with bleeding [Rationale](#eso_bleed_rationale) {#eso_bleed} 
 
-Patients with active bleeding will need inpatient management
-
-+------------------+-------------+-------------------------------------------------------------+
-| Location         | Triage Team | Management                                                  |
-+==================+=============+=============================================================+
-| CMC inpatient/ER | CHG \       | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-|                  | Red LCI SO  | InBasket to Jonathan Salo                                   |
-+------------------+-------------+-------------------------------------------------------------+
-| Mercy\           | Red LCI SO  | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-| Outside          |             | InBasket to Jonathan Salo                                   |
-+------------------+-------------+-------------------------------------------------------------+
-| Pineville        | Red LCI SO  | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
-|                  |             | InBasket to Jonathan Salo                                   |
-+------------------+-------------+-------------------------------------------------------------+
+Patients with active bleeding will need inpatient management. Massive bleeding can be caused to an aortoesophageal fistula from a mid-esophageal squamous cell carcinoma, which is both rare and uniformly fatal.
 
 ### Acute Management
 
@@ -92,21 +77,24 @@ Patients with active bleeding will need inpatient management
 -   Correction of clotting abnormalities
 -   IV hydration
 -   Correction of electrolyte abnormalities
+-   Persistent bleeding:
+    -   Advanced GI consultation for EGD and possible endoscopic therapy
 
 ### Inpatient Management
 
 -   Radiation Oncology consultation: Possible need for inpatient radiation
 -   CT C/A/P with IV contrast
 -   If small tumor $\rightarrow$ Advanced GI Consult for EUS
--   Medical Oncology consult: "Is patient a candidate for palliative chemotherapy?"
--   Central venous port for candidates for chemotherapy
--   Feeding tube
-    -   PEG for patients with metastatic disease
-    -   Laparoscopic feeding tube for those without metastatic disease
-        -   Lap gastrostomy preferred
-        -   Lap jejunostomy acceptable
 
-## Rationale
+## Esophageal Cancer with perforation [Rationale](#eso_perf_rationale) {#eso_perf}
+
+Patients with perforated esophageal cancer need multidisciplinary emergency management. These patients should be transferred to CMC Main.
+
+Patients with pleural effusion need emergent thoracic surgery consultation. Patients with pneumoperitoneum or intra-abdominal fluid in the upper abdomen need emergent laparoscopic placement of drains.
+
+Diagnosis is made with CT esophagram with water soluble contrast along with CT abdomen/pelvis (and neck, if indicated). Not all patients with pneumomediastinum necessarily have a clinical esophageal perforation.[See Rationale below](#eso_perf_rationale)
+
+# Outpatient Workup [Triage](#eso_asx) {#eso_asx_rationale}
 
 Patients with esophageal cancer with dysphagia are clinically staged as T3 and fit into one of two caregories:
 
@@ -117,7 +105,7 @@ Patients with esophageal cancer with dysphagia are clinically staged as T3 and f
 
 Endoscopy with biopsy is foundational in the evaluation of patients with esophageal obstruction.
 
-The majority will hvae evidence of malignancy on EGD. Negative endoscopic biopsies in the patient with an obstructing esophageal stricture are unusual but not rare.
+The majority will have evidence of malignancy on EGD. Negative endoscopic biopsies in the patient with an obstructing esophageal stricture are unusual but not rare.
 
 Options for re-biopsy include use of a neonatal (5mm) endoscope, dilation followed by biopsy, and endoscopic ultrasound with FNA. These options are available at CMC Main and may not be available at regional facilities. [@faigel2257]
 
@@ -131,17 +119,19 @@ PET scan is needed for complete staging but ordinarily is not always required in
 
 ### Endoscopic ultrasound
 
-EUS has limited utility in the staging of patients with esophageal cancer who present with dysphagia [@mansfield3227] [@findlay1488] [@radlinski5850] [@ripley226] and is not necessary in these patients. EUS is most helpful In general, patients with esophageal cancer who need EUS can have it performed as an outpatient.
+EUS is helpful in distinguishing patients with localized tumors (AJCC T2) who may be candidates for primary surgery from patients with locally-advanced cancers (AJCC T3) who need preoperative chemotherapy $\pm$ radiation.  Patients with T2 tumors generally have minimal dysphagia and frequently present with bleeding during anticoagulation or surveillance for Barrett's esophagus.
 
-# Esophageal Obstruction
+EUS has limited utility in the staging of patients with esophageal cancer who present with dysphagia [@mansfield3227] [@findlay1488] [@radlinski5850] [@ripley226] and is not necessary in these patients. In general, patients with esophageal cancer who need EUS can have it performed as an outpatient.
+
+# Esophageal Obstruction [Triage](#eso_obstruction) {#eso_obstruction_rationale}
 
 Patients with esophageal obstruction from cancer need treatment of electrolyte and fluid abnormalities, nutritional support, and venous access for administration of chemotherapy.
 
 ## Endoscopic stents
 
-Endoscopic stents to treat esophageal obstruction are appropriate in patients with documented metastatic disease and those who will never be candidates for surgery.
+Endoscopic stents to treat esophageal obstruction are appropriate in patients with documented metastatic disease (Stage IV) and those who will never be candidates for surgery.
 
-In patients who are potentially candidates for esophagectomy, stents are generally avoided to prevent complications of surgery through fibrosis of the esohagus proximal to the tumor.
+In patients who are potentially candidates for esophagectomy, stents are generally avoided to prevent complications of surgery through fibrosis of the esophagus proximal to the tumor.
 
 A retrospective study of patients with esophageal cancer and dysphagia [@mine0179522] found that treatment with gastrostomy was associated with longer survival than those treated with a endoscopic stent and had higher albumin levels and less need for re-intervention.
 
@@ -169,6 +159,50 @@ The laparoscopic approach allows placement of the tube away from the right gastr
 
 Central venous port can facilitate the administration of chemotherapy but is not essential in the acute management of patients with esophageal cancer, particularly patients with poor performance status who may not receive chemotherapy once they meet with their treating medical oncologist. Inpatient medical oncology consultation can help sort out which patients are not candidates for chemotherapy.
 
-# Bleeding Esophageal Cancer
+# Bleeding Esophageal Cancer [Triage](#eso_bleed) {#eso_bleed_rationale} 
 
 Bleeding from esophageal cancer usually occurs in the context of anticoagulation or anti-platelet therapy. Once these are stopped, bleeding usually stops. Because bleeding can lead to an earlier diagnosis, some patients with bleeding may be a candidate for early surgery if they are shown to be T2 N0 M0 on staging. Patient with small bleeding tumors should undergo EUS once stabilized. EUS can be helpful is distinguishing T2 N0 (which are candidates for primary surgery) vs T3 or N1 (which should receive neoadjuvant chemotherapy $\pm$ radiation prior to surgery).
+
+## Endoscopic Therapy
+
+A series of 45 patients with bleeding esophageal cancer from Cologne included 24 patients with active bleeding of whom 20 were treated with endoscopic therapy including argon beam coagulation with control of bleeding in 18 [@allo1064]\]
+
+## Radiation Therapy
+
+For patients who have not had prior radiation therapy, urgent radiation therapy can be helpful for bleeding gastric cancer [@kondoh37][@kawabata177][@sugita420](and likely for esophageal cancer as well).
+
+## Aortoesophageal fistula
+
+Aortoesophageal fistula is fatal in the majority of cases. The classic description of Chiari's triad consists of mid-sternal chest pain, herald bleed, and exanguination after a period without symptoms[@carter26]. A series from Taiwan( where most cases of esophageal cancer are squamous cell) of 249 patients with bleeding esophageal cancer, found aortoesophageal fistula to be the cause in 12%. Aortoesophageal fistula can also occur after endoluminal stent placement [@siersma416]
+
+Successful treatment has been described using Thoracic EndoVacular Aortic Repair (TEVAR) and endoluminal stenting.[@chen8374][@canaud248][@sakai95]
+
+# Perforated Esophageal Cancer [Triage](#eso_perf) {#eso_perf_rationale}
+
+Perforated esophageal cancer most commonly occurs after endoscopy, endoscopic ultrasound, or dilation of an esophageal cancer (or benign stricture). Endoscopic stenting is frequently not feasible due to the underlying stricture. Treatment options are conservative management with drainage and IV antibiotics, endoluminal stenting, or emergency surgery. [@abu-daff34]
+
+## Cervical esophageal perforation
+
+Contained perforations of the cervical esophagus can be treated with NPO and IV antibiotics. Uncontained perforations need surgical exploration. In this case, nutritional support with gastrostomy is indicated.
+
+## Thoracic esophageal perforations
+
+Pittsburgh esophageal perforation scoring system: [@abbas749] Validation of Pittsburgh scoring system [@schweigert1002]
+
+A series from Birmingham UK of 74 esophageal perforations over 15 years include 13 patients with perforated cancers, of whom 7 were treated with endoscopic stenting [@charalampakis1710]. These 13 patients had a 1-year mortality of 77%
+
+## Diagnosis
+
+CT esophagram with water soluble contrast is the diagnostic study of choice[@suarez-poveda505]
+
+A study from Colorado [@madsen2984] of 65 patients transferred with suspected esophageal perforation found that 24 patients were ultimately found not to have a perforation. Among patients for whom pneumomediastinum was their sole criteria for transfer, only 57% were ultimately found to have a perforation. Among patients with a pleural effusion prior to transfer, 83% were ultimately found to have a perforation. Patients with a lactate greater than 1.6 were 11 times more likely to have aperforation.
+
+## Conservative management
+
+There is little experience in the literature for the conservative management of perforated esophageal cancer. Most clinical reports exclude patients with perforated cancers. A report from Kenya of 10 perforations among 492 dilations of esophageal cancer, of whom 9 were successfully treated with endoluminal stents [@white715]. Stenting of perforated esophageal cancer is limited to case reports [@kobayashie361]
+
+## Emergent surgery
+
+Emergency esophagectomy is the traditional approach to perforated esophageal cancer given the difficulty in stenting an area of tumor (or stricture). Short-term goals are fluid resuscitation, IV antibiotics, and drainage of the pleurae (and abdomen).
+
+Emergent esophagogastrectomy via an abdominal and thoracic approach is the conventional approach in a fit patient. For frail patients, an transabdominal approach with esophagogastrostomy is less morbid [@gillen3065] although placing the patient at higher risk of postoperative reflux.
