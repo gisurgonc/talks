@@ -12,12 +12,14 @@ Triage questions:
 
 -   Has EGD been done? Pathology results?
 -   Presence of metastatic disease on CT chest/abdomen/pelvis?
--   Upper GI bleeding requiring transfusion?
+-   Upper GI bleeding requiring transfusion? Is bleeding persistent?
 -   Can patient maintain hydration orally?
 
-## Esophageal Cancer w/o obstruction or bleeding [Rationale](#eso_asx_rationale) {#eso_asx}
+## Esophageal Cancer w/o obstruction or bleeding  {#eso_asx}
 
-Patients who can maintain their hydration orally can be managed as an outpatient and generally do not need transfer to CMC or inpatient stay
+[Rationale](#eso_asx_rationale)
+
+Patients who can maintain their hydration orally can be managed as an outpatient and generally do not need transfer to CMC
 
 +--------------+---------------------------+-------------------------------------------------------------+
 | Location     | Triage Team               | Followup Management                                         |
@@ -93,6 +95,67 @@ Patients with perforated esophageal cancer need multidisciplinary emergency mana
 Patients with pleural effusion need emergent thoracic surgery consultation. Patients with pneumoperitoneum or intra-abdominal fluid in the upper abdomen need emergent laparoscopic placement of drains.
 
 Diagnosis is made with CT esophagram with water soluble contrast along with CT abdomen/pelvis (and neck, if indicated). Not all patients with pneumomediastinum necessarily have a clinical esophageal perforation.[See Rationale below](#eso_perf_rationale)
+
+# Gastric Cancer w/o Bleeding or Obstruction
+
+Patients who can maintain their hydration orally can be managed as an outpatient and generally do not need transfer to CMC. For inpatient consults, workup can be initiated as below.
+
+### Inpatient Management
+
+-   CT C/A/P with IV contrast
+-   PET can be obtained as an outpatient
+-   Medical Oncology consult: "Is patient a candidate for palliative chemotherapy?"
+-   Central venous port for candidates for chemotherapy
+-   Diagnostic laparoscopy with peritoneal washings
+
++--------------+---------------------------+-------------------------------------------------------------+
+| Location     | Triage Team               | Followup Management                                         |
++==============+===========================+=============================================================+
+| CMC          | GI Surgical Oncology LCI\ | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Mercy\       | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+| Pineville\   |                           | InBasket to Jonathan Salo                                   |
+| Outside      |                           |                                                             |
++--------------+---------------------------+-------------------------------------------------------------+
+
+
+## Gastric Cancer with obstruction  {gastric_obstruction}
+
+[Rationale](#eso_obstruction_rationale)
+
+Patients who cannot maintain hydration orally will need inpatient management
+
++--------------+---------------------------+-------------------------------------------------------------+
+| Location     | Triage Team               | Followup Management                                         |
++==============+===========================+=============================================================+
+| CMC          | GI Surgical Oncology LCI\ | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Mercy        | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Pineville    | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+| Outside      | Red LCI SO                | AMB REFERRAL SURGICAL ONCOLOGY $\rightarrow$ Jonathan Salo\ |
+|              |                           | InBasket to Jonathan Salo                                   |
++--------------+---------------------------+-------------------------------------------------------------+
+
+### Acute Management
+
+-   IV hydration
+-   Correction of electrolyte abnormalities
+- NG Decompression
+
+### Inpatient Management
+
+-   CT C/A/P with IV contrast
+-   No need for inpatient PET
+-   Medical Oncology consult: "Is patient a candidate for palliative chemotherapy?"
+-   Central venous port for candidates for chemotherapy
+-   Laparoscopic jejunostomy
+-   Consideration of primary resection in fit patients
 
 # Outpatient Workup [Triage](#eso_asx) {#eso_asx_rationale}
 
