@@ -1,7 +1,6 @@
 ---
 title: "One Stage Esophagectomy"
 format: revealjs
-  output-ext: htm
 ---
 
 ## Ivor Lewis Esophagectomy - 2 Stage
@@ -154,4 +153,3 @@ Anastomosis completed
 ![](https://deidt7p41jzcy.cloudfront.net/GEJ_2Stage.png)
 :::
 :::::
-
