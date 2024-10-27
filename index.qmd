@@ -30,9 +30,17 @@ title: "GI Surgical Oncology"
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
 
-[Robotic Esophagectomy](robot_esophagectomy.html)
+[Robotic Esophagectomy Literature](robot_esophagectomy.html)
+
+[Robotic MIE Planning](robotic_mie.htm)
 
 [Robotic Gastrectomy](robot_gastrectomy.html)
+
+[One Stage Esophagectomy](one_stage_mie.htm)
+
+# Esophagectomy Techniques
+
+[One Stage Esophagectomy(one_stage_mie.htm)]
 
 # Esophagectomy Decision-making
 
