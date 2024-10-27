@@ -1,7 +1,6 @@
 ---
 title: "Robotic MIE Strategy"
 format: revealjs
-  output-ext: htm
 ---
 
 ## Robotic MIE

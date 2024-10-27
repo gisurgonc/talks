@@ -36,6 +36,8 @@ Esophagogastric anastomosis A running “baseball” purse string suture is plac
 
 [@okusanya179]
 
+[@sarkaria211] Technique paper with videos
+
 Tampa [@pointer111] Leak rate 16%. 30-day mortality 3%
 
 Technique: Amaral M, Pimiento J, Fontaine JP. Robotic esophagectomy: the Moffitt Cancer Center experience. Ann Cardiothorac Surg. 2017;6:186–189.
@@ -85,5 +87,18 @@ Specimen Extraction via Abdomen
 Recurrence: Abate E, DeMeester S R, Zehetner J et al. Recurrence after esophagectomy for adenocarcinoma: defining optimal followup intervals and testing. J Am Coll Surg 2010; 210: 428–35. doi: 10.1016/j.jamcollsurg.2010.01.006. Oppedijk V, Van Der Gaast A, Van Lanschot J J B et al. Patterns of recurrence after surgery alone versus preoperative chemoradiotherapy and surgery in the CROSS trials. J Clin Oncol 2014; 32: 385–91. doi: 10.1200/JCO.2013.51.2186. Blackham A U, Syeda S M, Schell M J et al. Recurrence patterns and associated factors of locoregional failure following neoadjuvant chemoradiation and surgery for esophageal cancer. J Surg Oncol 2018; 117: 150–159. doi: 10.1002/jso.24808.
 
 MIRO trial - Hybrid vs Open
+
+Hand-sewn vs stapled esophageal anstomosis
+
+Kayani B, Garas G, Arshad M,
+Athanasiou T, Darzi A, Zacharakis E (2014) Is hand-sewn anastomosis
+superior to stapled anastomosis following oesophagectomy? Int J Surg
+12(1):7–15
+
+11\.
+Castro PMV, Ribeiro FPG, Rocha ADF, Mazzurana M, Alvarez GA (2014)
+Hand-sewn versus stapler esophagogastric anastomosis after esophageal
+ressection: sistematic review and meta-analysis. Arq Bras Cir Dig
+27(3):216–221
 
 {{< qrcode https://jmbuhr.de >}}
