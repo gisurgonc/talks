@@ -21,3 +21,8 @@ format:
 editor: visual
 bibliography: zotero.bib
 ---
+
+## Background
+
+Analysis of NCDB suggests that Black patients are less likely to undergo surgery 
+---
