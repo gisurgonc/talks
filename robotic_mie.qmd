@@ -41,14 +41,14 @@ Personnel
 
 - Thoracic robot "privileges" 
 
-## Robotic MIE - Modification 1
+## Robotic MIE - Phase 1
 
 ::::: columns
 ::: {.column width="50%"}
 
 Robotic abdominal phase - construct conduit intracorporeal
 
-Robotic chest phase - use 27mm stapler wtih pursestring ()
+Robotic chest phase - use 27mm stapler with pursestring ()
 
 :::
 
@@ -56,6 +56,41 @@ Robotic chest phase - use 27mm stapler wtih pursestring ()
 ![](https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png )
 :::
 :::::
+
+
+## Robotic MIE - Phase 2
+
+::::: columns
+::: {.column width="50%"}
+
+Robotic abdominal phase - construct conduit intracorporeal
+
+Robotic chest phase - hand-sewn anastomosis
+
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png )
+:::
+:::::
+
+## Robotic MIE - Metrics
+
+- Operative experience of residents
+- Anastomotic leak
+- Anastomotic stricture
+  - Whether dilated or not
+  - How many dilations
+- Complications
+  - Airway injury
+
+## Personnel
+
+Thoracic Surgery
+
+- Jeff Hagen
+- Mike Roach
+- William Mitchell
 
 
 ## Robotic MIE - Pittsburgh 1 
