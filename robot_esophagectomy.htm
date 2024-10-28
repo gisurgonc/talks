@@ -417,7 +417,7 @@
 (function() {
   var script = document.currentScript;
   var qrcode = script.previousElementSibling;
-  qrcode.qrcode = new QRCode(qrcode, {"width":128,"height":128,"colorDark":"#000000","text":"https://jmbuhr.de","colorLight":"#ffffff"});
+  qrcode.qrcode = new QRCode(qrcode, {"width":128,"text":"https://jmbuhr.de","colorLight":"#ffffff","height":128,"colorDark":"#000000"});
   script.remove();
 })();
 </script>
