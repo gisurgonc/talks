@@ -6,13 +6,13 @@ title: "GI Surgical Oncology"
 
 # General Surgery Residency Didactics
 
-[Esophageal Perforation SCORE](esoph_perf.html)
+[Esophageal Perforation SCORE](esoph_perf.htm)
 
-[Esophageal Cancer Lecture](eso_ca_rx_talk.html)
+[Esophageal Cancer Lecture](eso_ca_rx_talk.htm)
 
-[Rectal Cancer Lecture](rectal_slides.html)
+[Rectal Cancer Lecture](rectal_slides.htm)
 
-[GI Stomal Tumor Lecture](gist_slides.html)
+[GI Stomal Tumor Lecture](gist_slides.htm)
 
 # Acute Care Surgery of the Cancer Patient
 
@@ -30,13 +30,15 @@ title: "GI Surgical Oncology"
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
 
+[One Stage Esophagectomy](one_stage_mie.htm)
+
 [Robotic Esophagectomy Literature](robot_esophagectomy.html)
 
 [Robotic MIE Planning](robotic_mie.htm)
 
 [Robotic Gastrectomy](robot_gastrectomy.html)
 
-[One Stage Esophagectomy](one_stage_mie.htm)
+
 
 # Esophagectomy Techniques
 
