@@ -94,6 +94,12 @@ Thoracic Surgery
 
 No current thoracic surgery residency
 
+# Patient Selection
+
+- Low (distal) tumors
+- Avoid tumor near carina
+- Avoid bulky tumors at GE junction
+
 ## One Stage Esophagectomy
 
 [Link](one_stage_mie.htm)
