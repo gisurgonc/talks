@@ -8,9 +8,9 @@
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.5.57">
+  <meta name="generator" content="quarto-1.3.450">
 
-  <title>talks – Esophageal Cancer Treatment</title>
+  <title>talks - Esophageal Cancer Treatment</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -32,7 +32,6 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
-      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -175,8 +174,7 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    padding-bottom: 0.5rem;
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -353,7 +351,7 @@
 </section>
 <section id="treatment-categories" class="title-slide slide level1 center">
 <h1>Treatment Categories</h1>
-<table class="caption-top">
+<table>
 <thead>
 <tr class="header">
 <th>Category</th>
@@ -412,7 +410,7 @@
 <section id="endoscopic-musocal-resection" class="title-slide slide level1 center">
 <h1>Endoscopic Musocal Resection</h1>
 
-<img data-src="images/EMR.jpg" class="quarto-figure quarto-figure-right r-stretch"></section>
+<img data-src="images/EMR.jpg" class="r-stretch quarto-figure-right"></section>
 
 <section id="localized-cancer" class="title-slide slide level1 center">
 <h1>Localized Cancer</h1>
@@ -469,13 +467,11 @@
 <section id="references" class="title-slide slide level1 smaller scrollable">
 <h1>References</h1>
 
-<div class="quarto-auto-generated-content">
-<p><img src="atriumlogo.jpg" class="slide-logo"></p>
-<div class="footer footer-default">
+
+<img src="atriumlogo.jpg" class="slide-logo r-stretch"><div class="footer footer-default">
 <p><a href="https://gisurgonc.github.io/talks/">GI Surgical Oncology Talks</a></p>
 </div>
-</div>
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-butler539" class="csl-entry" role="listitem">
 Butler, Danielle C., Stephen Petterson, Robert L. Phillips, and Andrew W. Bazemore. 2013. <span>“Measures of Social Deprivation That Predict Health Care Access and Need Within a Rational Area of Primary Care Service Delivery.”</span> <em>Health Services Research</em> 48 (2 Pt 1): 539–59. <a href="https://doi.org/10.1111/j.1475-6773.2012.01449.x">https://doi.org/10.1111/j.1475-6773.2012.01449.x</a>.
 </div>
@@ -510,6 +506,7 @@ Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
+'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -726,7 +723,18 @@ Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit
         }
         return false;
       }
-      const onCopySuccess = function(e) {
+      const clipboard = new window.ClipboardJS('.code-copy-button', {
+        text: function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+      });
+      clipboard.on('success', function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -758,50 +766,11 @@ Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit
         }, 1000);
         // clear code selection
         e.clearSelection();
-      }
-      const getTextToCopy = function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-      }
-      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-        text: getTextToCopy
       });
-      clipboard.on('success', onCopySuccess);
-      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-        // For code content inside modals, clipBoardJS needs to be initialized with a container option
-        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-          text: getTextToCopy,
-          container: window.document.getElementById('quarto-embedded-source-code-modal')
-        });
-        clipboardModal.on('success', onCopySuccess);
-      }
-        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-        var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/gisurgonc\.github\.io\/talks\/");
-        var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-        }
-        // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-        for (var i=0; i<links.length; i++) {
-          const link = links[i];
-          if (!isInternal(link.href)) {
-            // undo the damage that might have been done by quarto-nav.js in the case of
-            // links that we want to consider external
-            if (link.dataset.originalHref !== undefined) {
-              link.href = link.dataset.originalHref;
-            }
-          }
-        }
-      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      function tippyHover(el, contentFn) {
         const config = {
           allowHTML: true,
+          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -811,17 +780,8 @@ Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start',
+          placement: 'bottom-start'
         };
-        if (contentFn) {
-          config.content = contentFn;
-        }
-        if (onTriggerFn) {
-          config.onTrigger = onTriggerFn;
-        }
-        if (onUntriggerFn) {
-          config.onUntrigger = onUntriggerFn;
-        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
@@ -835,11 +795,7 @@ Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          if (note) {
-            return note.innerHTML;
-          } else {
-            return "";
-          }
+          return note.innerHTML;
         });
       }
       const findCites = (el) => {

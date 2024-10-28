@@ -1,0 +1,951 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.5.57">
+
+  <title>talks – Frailty Index</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+
+  .callout {
+    margin-top: 1em;
+    margin-bottom: 1em;  
+    border-radius: .25rem;
+  }
+
+  .callout.callout-style-simple { 
+    padding: 0em 0.5em;
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+    display: flex;
+  }
+
+  .callout.callout-style-default {
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+  }
+
+  .callout .callout-body-container {
+    flex-grow: 1;
+  }
+
+  .callout.callout-style-simple .callout-body {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-style-default .callout-body {
+    font-size: 0.9rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-titled.callout-style-simple .callout-body {
+    margin-top: 0.2em;
+  }
+
+  .callout:not(.callout-titled) .callout-body {
+      display: flex;
+  }
+
+  .callout:not(.no-icon).callout-titled.callout-style-simple .callout-content {
+    padding-left: 1.6em;
+  }
+
+  .callout.callout-titled .callout-header {
+    padding-top: 0.2em;
+    margin-bottom: -0.2em;
+  }
+
+  .callout.callout-titled .callout-title  p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+    
+  .callout.callout-titled.callout-style-simple .callout-content  p {
+    margin-top: 0;
+  }
+
+  .callout.callout-titled.callout-style-default .callout-content  p {
+    margin-top: 0.7em;
+  }
+
+  .callout.callout-style-simple div.callout-title {
+    border-bottom: none;
+    font-size: .9rem;
+    font-weight: 600;
+    opacity: 75%;
+  }
+
+  .callout.callout-style-default  div.callout-title {
+    border-bottom: none;
+    font-weight: 600;
+    opacity: 85%;
+    font-size: 0.9rem;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-default div.callout-content {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-simple .callout-icon::before {
+    height: 1rem;
+    width: 1rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 1rem 1rem;
+  }
+
+  .callout.callout-style-default .callout-icon::before {
+    height: 0.9rem;
+    width: 0.9rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 0.9rem 0.9rem;
+  }
+
+  .callout-title {
+    display: flex
+  }
+    
+  .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  .callout.no-icon::before {
+    display: none !important;
+  }
+
+  .callout.callout-titled .callout-body > .callout-content > :last-child {
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
+  }
+
+  .callout.callout-titled .callout-icon::before {
+    margin-top: .5rem;
+    padding-right: .5rem;
+  }
+
+  .callout:not(.callout-titled) .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  /* Callout Types */
+
+  div.callout-note {
+    border-left-color: #4582ec !important;
+  }
+
+  div.callout-note .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEU0lEQVRYCcVXTWhcVRQ+586kSUMMxkyaElstCto2SIhitS5Ek8xUKV2poatCcVHtUlFQk8mbaaziwpWgglJwVaquitBOfhQXFlqlzSJpFSpIYyXNjBNiTCck7x2/8/LeNDOZxDuEkgOXe++553zfefee+/OYLOXFk3+1LLrRdiO81yNqZ6K9cG0P3MeFaMIQjXssE8Z1JzLO9ls20MBZX7oG8w9GxB0goaPrW5aNMp1yOZIa7Wv6o2ykpLtmAPs/vrG14Z+6d4jpbSKuhdcSyq9wGMPXjonwmESXrriLzFGOdDBLB8Y6MNYBu0dRokSygMA/mrun8MGFN3behm6VVAwg4WR3i6FvYK1T7MHo9BK7ydH+1uurECoouk5MPRyVSBrBHMYwVobG2aOXM07sWrn5qgB60rc6mcwIDJtQrnrEr44kmy+UO9r0u9O5/YbkS9juQckLed3DyW2XV/qWBBB3ptvI8EUY3I9p/67OW+g967TNr3Sotn3IuVlfMLVnsBwH4fsnebJvyGm5GeIUA3jljERmrv49SizPYuq+z7c2H/jlGC+Ghhupn/hcapqmcudB9jwJ/3jvnvu6vu5lVzF1fXyZuZZ7U8nRmVzytvT+H3kilYvH09mLWrQdwFSsFEsxFVs5fK7A0g8gMZjbif4ACpKbjv7gNGaD8bUrlk8x+KRflttr22JEMRUbTUwwDQScyzPgedQHZT0xnx7ujw2jfVfExwYHwOsDTjLdJ2ebmeQIlJ7neo41s/DrsL3kl+W2lWvAga0tR3zueGr6GL78M3ifH0rGXrBC2aAR8uYcIA5gwV8zIE8onoh8u0Fca/ciF7j1uOzEnqcIm59sEXoGc0+z6+H45V1CvAvHcD7THztu669cnp+L0okAeIc6zjbM/24LgGM1gZk7jnRu1aQWoU9sfUOuhrmtaPIO3YY1KLLWZaEO5TKUbMY5zx8W9UJ6elpLwKXbsaZ4EFl7B4bMtDv0iRipKoDQT2sNQI9b1utXFdYisi+wzZ/ri/1m7QfDgEuvgUUEIJPq3DhX/5DWNqIXDOweC2wvIR90Oq3lDpdMIgD2r0dXvGdsEW5H6x6HLRJYU7C69VefO1x8Gde1ZFSJLfWS1jbCnhtOPxmpfv2LXOA2Xk2tvnwKKPFuZ/oRmwBwqRQDcKNeVQkYcOjtWVBuM/JuYw5b6isojIkYxyYAFn5K7ZBF10fea52y8QltAg6jnMqNHFBmGkQ1j+U43HMi2xMar1Nv0zGsf1s8nUsmUtPOOrbFIR8bHFDMB5zL13Gmr/kGlCkUzedTzzmzsaJXhYawnA3UmARpiYj5ooJZiUoxFRtK3X6pgNPv+IZVPcnwbOl6f+aBaO1CNvPW9n9LmCp01nuSaTRF2YxHqZ8DYQT6WsXT+RD6eUztwYLZ8rM+rcPxamv1VQzFUkzFXvkiVrySGQgJNvXHJAxiU3/NwiC03rSf05VBaPtu/Z7/B8Yn/w7eguloAAAAAElFTkSuQmCC');
+  }
+
+  div.callout-note.callout-style-default .callout-title {
+    background-color: #dae6fb
+  }
+
+  div.callout-important {
+    border-left-color: #d9534f !important;
+  }
+
+  div.callout-important .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEKklEQVRYCcVXTWhcVRS+575MJym48A+hSRFr00ySRQhURRfd2HYjk2SSTokuBCkU2o0LoSKKraKIBTcuFCoidGFD08nkBzdREbpQ1EDNIv8qSGMFUboImMSZd4/f9zJv8ibJMC8xJQfO3HPPPef7zrvvvnvviIkpC9nsw0UttFunbUhpFzFtarSd6WJkStVMw5xyVqYTvkwfzuf/5FgtkVoB0729j1rjXwThS7Vio+Mo6DNnvLfahoZ+i/o32lULuJ3NNiz7q6+pyAUkJaFF6JwaM2lUJlV0MlnQn5aTRbEu0SEqHUa0A4AdiGuB1kFXRfVyg5d87+Dg4DL6m2TLAub60ilj7A1Ec4odSAc8X95sHh7+ZRPCFo6Fnp7HfU/fBng/hi10CjCnWnJjsxvDNxWw0NfV6Rv5GgP3I3jGWXumdTD/3cbEOP2ZbOZp69yniG3FQ9z1jD7bnBu9Fc2tKGC2q+uAJOQHBDRiZX1x36o7fWBs7J9ownbtO+n0/qWkvW7UPIfc37WgT6ZGR++EOJyeQDSb9UB+DZ1G6DdLDzyS+b/kBCYGsYgJbSQHuThGKRcw5xdeQf8YdNHsc6ePXrlSYMBuSIAFTGAtQo+VuALo4BX83N190NWZWbynBjhOHsmNfFWLeL6v+ynsA58zDvvAC8j5PkbOcXCMg2PZFk3q8MjI7WAG/Dp9AwP7jdGBOOQkAvlFUB+irtm16I1Zw9YBcpGTGXYmk3kQIC/Cds55l+iMI3jqhjAuaoe+am2Jw5GT3Nbz3CkE12NavmzN5+erJW7046n/CH1RO/RVa8lBLozXk9uqykkGAyRXLWlLv5jyp4RFsG5vGVzpDLnIjTWgnRy2Rr+tDKvRc7Y8AyZq10jj8DqXdnIRNtFZb+t/ZRtXcDiVnzpqx8mPcDWxgARUqx0W1QB9MeUZiNrV4qP+Ehc+BpNgATsTX8ozYKL2NtFYAHc84fG7ndxUPr+AR/iQSns7uSUufAymwDOb2+NjK27lEFocm/EE2WpyIy/Hi66MWuMKJn8RvxIcj87IM5Vh9663ziW36kR0HNenXuxmfaD8JC7tfKbrhFr7LiZCrMjrzTeGx+PmkosrkNzW94ObzwocJ7A1HokLolY+AvkTiD/q1H0cN48c5EL8Crkttsa/AXQVDmutfyku0E7jShx49XqV3MFK8IryDhYVbj7Sj2P2eBxwcXoe8T8idsKKPRcnZw1b+slFTubwUwhktrfnAt7J++jwQtLZcm3sr9LQrjRzz6cfMv9aLvgmnAGvpoaGLxM4mAEaLV7iAzQ3oU0IvD5x9ix3yF2RAAuYAOO2f7PEFWCXZ4C9Pb2UsgDeVnFSpbFK7/IWu7TPTvBqzbGdCHOJQSxiEjt6IyZmxQyEJHv6xyQsYk//moVFsN2zP6fRImjfq7/n/wFDguUQFNEwugAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-important.callout-style-default .callout-title {
+    background-color: #f7dddc
+  }
+
+  div.callout-warning {
+    border-left-color: #f0ad4e !important;
+  }
+
+  div.callout-warning .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAETklEQVRYCeVWW2gcVRg+58yaTUnizqbipZeX4uWhBEniBaoUX1Ioze52t7sRq6APio9V9MEaoWlVsFasRq0gltaAPuxms8lu0gcviE/FFOstVbSIxgcv6SU7EZqmdc7v9+9mJtNks51NTUH84ed889/PP+cmxP+d5FIbMJmNbpREu4WUkiTtCicKny0l1pIKmBzovF2S+hIJHX8iEu3hZJ5lNZGqyRrGSIQpq15AzF28jgpeY6yk6GVdrfFqdrD6Iw+QlB8g0YS2g7dyQmXM/IDhBhT0UCiRf59lfqmmDvzRt6kByV/m4JjtzuaujMUM2c5Z2d6JdKrRb3K2q6mA+oYVz8JnDdKPmmNthzkAk/lN63sYPgevrguc72aZX/L9C6x09GYyxBgCX4NlvyGUHOKELlm5rXeR1kchuChJt4SSwyddZRXgvwMGvYo4QSlk3/zkHD8UHxwVJA6zjZZqP8v8kK8OWLnIZtLyCAJagYC4rTGW/9Pqj92N/c+LUaAj27movwbi19tk/whRCIE7Q9vyI6yvRpftAKVTdUjOW40X3h5OXsKCdmFcx0xlLJoSuQngnrJe7Kcjm4OMq9FlC7CMmScQANuNvjfP3PjGXDBaUQmbp296S5L4DrpbrHN1T87ZVEZVCzg1FF0Ft+dKrlLukI+/c9ENo+TvlTDbYFvuKPtQ9+l052rXrgKoWkDAFnvh0wTOmYn8R5f4k/jN/fZiCM1tQx9jQQ4ANhqG4hiL0qIFTGViG9DKB7GYzgubnpofgYRwO+DFjh0Zin2m4b/97EDkXkc+f6xYAPX0KK2I/7fUQuwzuwo/L3AkcjugPNixC8cHf0FyPjWlItmLxWw4Ou9YsQCr5fijMGoD/zpdRy95HRysyXA74MWOnscpO4j2y3HAVisw85hX5+AFBRSHt4ShfLFkIMXTqyKFc46xdzQM6XbAi702a7sy04J0+feReMFKp5q9esYLCqAZYw/k14E/xcLLsFElaornTuJB0svMuJINy8xkIYuL+xPAlWRceH6+HX7THJ0djLUom46zREu7tTkxwmf/FdOZ/sh6Q8qvEAiHpm4PJ4a/doJe0gH1t+aHRgCzOvBvJedEK5OFE5jpm4AGP2a8Dxe3gGJ/pAutug9Gp6he92CsSsWBaEcxGx0FHytmIpuqGkOpldqNYQK8cSoXvd+xLxXADw0kf6UkJNFtdo5MOgaLjiQOQHcn+A6h5NuL2s0qsC2LOM75PcF3yr5STuBSAcGG+meA14K/CI21HcS4LBT6tv0QAh8Dr5l93AhZzG5ZJ4VxAqdZUEl9z7WJ4aN+svMvwHHL21UKTd1mqvChH7/Za5xzXBBKrUcB0TQ+Ulgkfbi/H/YT5EptrGzsEK7tR1B7ln9BBwckYfMiuSqklSznIuoIIOM42MQO+QnduCoFCI0bpkzjCjddHPN/F+2Yu+sd9bKNpVwHhbS3LluK/0zgfwD0xYI5dXuzlQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-warning.callout-style-default .callout-title {
+    background-color: #fcefdc
+  }
+
+  div.callout-tip {
+    border-left-color: #02b875 !important;
+  }
+
+  div.callout-tip .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAADr0lEQVRYCe1XTWgTQRj9ZjZV8a9SPIkKgj8I1bMHsUWrqYLVg4Ue6v9BwZOxSYsIerFao7UiUryIqJcqgtpimhbBXoSCVxUFe9CTiogUrUp2Pt+3aUI2u5vdNh4dmMzOzHvvezuz8xNFM0mjnbXaNu1MvFWRXkXEyE6aYOYJpdW4IXuA4r0fo8qqSMDBU0v1HJUgVieAXxzCsdE/YJTdFcVIZQNMyhruOMJKXYFoLfIfIvVIMWdsrd+Rpd86ZmyzzjJmLStqRn0v8lzkb4rVIXvnpScOJuAn2ACC65FkPzEdEy4TPWRLJ2h7z4cArXzzaOdKlbOvKKX25Wl00jSnrwVxAg3o4dRxhO13RBSdNvH0xSARv3adTXbBdTf64IWO2vH0LT+cv4GR1DJt+DUItaQogeBX/chhbTBxEiZ6gftlDNXTrvT7co4ub5A6gp9HIcHvzTa46OS5fBeP87Qm0fQkr4FsYgVQ7Qg+ZayaDg9jhg1GkWj8RG6lkeSacrrHgDaxdoBiZPg+NXV/KifMuB6//JmYH4CntVEHy/keA6x4h4CU5oFy8GzrBS18cLJMXcljAKB6INjWsRcuZBWVaS3GDrqB7rdapVIeA+isQ57Eev9eCqzqOa81CY05VLd6SamW2wA2H3SiTbnbSxmzfp7WtKZkqy4mdyAlGx7ennghYf8voqp9cLSgKdqNfa6RdRsAAkPwRuJZNbpByn+RrJi1RXTwdi8RQF6ymDwGMAtZ6TVE+4uoKh+MYkcLsT0Hk8eAienbiGdjJHZTpmNjlbFJNKDVAp2fJlYju6IreQxQ08UJDNYdoLSl6AadO+fFuCQqVMB1NJwPm69T04Wv5WhfcWyfXQB+wXRs1pt+nCknRa0LVzSA/2B+a9+zQJadb7IyyV24YAxKp2Jqs3emZTuNnKxsah+uabKbMk7CbTgJx/zIgQYErIeTKRQ9yD9wxVof5YolPHqaWo7TD6tJlh7jQnK5z2n3+fGdggIOx2kaa2YI9QWarc5Ce1ipNWMKeSG4DysFF52KBmTNMmn5HqCFkwy34rDg05gDwgH3bBi+sgFhN/e8QvRn8kbamCOhgrZ9GJhFDgfcMHzFb6BAtjKpFhzTjwv1KCVuxHvCbsSiEz4CANnj84cwHdFXAbAOJ4LTSAawGWFn5tDhLMYz6nWeU2wJfIhmIJBefcd/A5FWQWGgrWzyORZ3Q6HuV+Jf0Bj+BTX69fm1zWgK7By1YTXchFDORywnfQ7GpzOo6S+qECrsx2ifVQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-tip.callout-style-default .callout-title {
+    background-color: #ccf1e3
+  }
+
+  div.callout-caution {
+    border-left-color: #fd7e14 !important;
+  }
+
+  div.callout-caution .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAACV0lEQVRYCdVWzWoUQRCuqp2ICBLJXgITZL1EfQDBW/bkzUMUD7klD+ATSHBEfAIfQO+iXsWDxJsHL96EHAwhgzlkg8nBg25XWb0zIb0zs9muYYWkoKeru+vn664fBqElyZNuyh167NXJ8Ut8McjbmEraKHkd7uAnAFku+VWdb3reSmRV8PKSLfZ0Gjn3a6Xlcq9YGb6tADjn+lUfTXtVmaZ1KwBIvFI11rRXlWlatwIAAv2asaa9mlB9wwygiDX26qaw1yYPzFXg2N1GgG0FMF8Oj+VIx7E/03lHx8UhvYyNZLN7BwSPgekXXLribw7w5/c8EF+DBK5idvDVYtEEwMeYefjjLAdEyQ3M9nfOkgnPTEkYU+sxMq0BxNR6jExrAI31H1rzvLEfRIdgcv1XEdj6QTQAS2wtstEALLG1yEZ3QhH6oDX7ExBSFEkFINXH98NTrme5IOaaA7kIfiu2L8A3qhH9zRbukdCqdsA98TdElyeMe5BI8Rs2xHRIsoTSSVFfCFCWGPn9XHb4cdobRIWABNf0add9jakDjQJpJ1bTXOJXnnRXHRf+dNL1ZV1MBRCXhMbaHqGI1JkKIL7+i8uffuP6wVQAzO7+qVEbF6NbS0LJureYcWXUUhH66nLR5rYmva+2tjRFtojkM2aD76HEGAD3tPtKM309FJg5j/K682ywcWJ3PASCcycH/22u+Bh7Aa0ehM2Fu4z0SAE81HF9RkB21c5bEn4Dzw+/qNOyXr3DCTQDMBOdhi4nAgiFDGCinIa2owCEChUwD8qzd03PG+qdW/4fDzjUMcE1ZpIAAAAASUVORK5CYII=');
+  }
+
+  div.callout-caution.callout-style-default .callout-title {
+    background-color: #ffe5d0
+  }
+
+  </style>
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Frailty Index</h1>
+
+<div class="quarto-title-authors">
+</div>
+
+</section>
+<section id="frailty" class="title-slide slide level1 center">
+<h1>Frailty</h1>
+<p>Frailty is “a biological syndrome of decreased reserve and resistance to stressors, resulting from cumulative decline across multiple physiologic systems, and causing vulnerability to adverse outcomes” Fried LP, Tangen CM, Walston J, et al.&nbsp;Frailty in older adults: evidence for a phenotype. J Gerontol A Biol Sci Med Sci 2001;56:M146-56</p>
+</section>
+
+<section>
+<section id="frailty-scores" class="title-slide slide level1 center">
+<h1>Frailty Scores</h1>
+
+</section>
+<section id="efrailty-index" class="slide level2">
+<h2>eFrailty Index</h2>
+<p>EFI_SCORE and EFI_PERCENTILE now available in Translational Data Warehouse <span class="citation" data-cites="rockwood722">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Rockwood and Mitnitski 2007</a>)</span> and <span class="citation" data-cites="clegg353">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Clegg et al. 2016</a>)</span></p>
+<p>Brief clinical instrument to classify frailty in the elderly Lancet 1999 205 rockwood</p>
+<p>Frailty and hematologic malignancies <span class="citation" data-cites="abel515">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Abel and Klepin 2018</a>)</span></p>
+<p>eFI calculated based upon 36 deficits which can be abstracted from the electronic medical record <span class="citation" data-cites="clegg353">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Clegg et al. 2016</a>)</span></p>
+<p>Frailty among VA patients <span class="citation" data-cites="orkaby1257">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Orkaby et al. 2019</a>)</span></p>
+<p>WFU: eFI using Epic data in Medicare ACO <span class="citation" data-cites="pajewski1771">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Pajewski et al. 2019</a>)</span></p>
+<p>eFI using epic data for preoperative risk stratification in vascular surgery <span class="citation" data-cites="callahan1357">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Callahan et al. 2021</a>)</span></p>
+<p>VA-FI Frailty Index <span class="citation" data-cites="dumontier3053">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">DuMontier et al. 2021</a>)</span></p>
+<p>Learning Health System and BioInformatics <span class="citation" data-cites="kohne10259">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Kohn et al. 2022</a>)</span></p>
+</section>
+<section id="nsqip-modifided-frailty-index" class="slide level2">
+<h2>NSQIP Modifided Frailty Index</h2>
+<p>Paraesophageal hernia repair<span class="citation" data-cites="chimukangara2509">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Chimukangara et al. 2017</a>)</span>. Multivariable regression with mFrailty5, age, ASA: mFrailty5 score &gt;=2 was significant predictor of mortality</p>
+<p>Esophagectomy <span class="citation" data-cites="hodari1240a">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Hodari et al. 2013</a>)</span>. Multivariable regression for mortality as an outcome with age, ASA: Only age and mFrailty5 were significant.</p>
+<p>mFrailty5 <span class="citation" data-cites="subramaniam17">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Subramaniam 2012</a>)</span> Mortality, readmission, complications. mFrailty5 associated with mortality in General Surgery patients in multivariable model adjuvsted for ASSA, wound class, age, transfer status, emergency status.</p>
+<p>mFrailty5 and Colorectal cancer <span class="citation" data-cites="mcgovern9">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">McGovern et al. 2023</a>)</span> mFrailty5 strongly associated with age. Multivariable analysis with age &lt;65, 65-75, and 75+ and mFI5 (0/1/&gt;2) parsimonious model includes sex, systemic inflammation, and mFailty5</p>
+<p>mFrailty5 and Colorectal cancer <span class="citation" data-cites="mcgovern9">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">McGovern et al. 2023</a>)</span> mFrailty5 strongly associated with age. Multivariable analysis with age &lt;65, 65-75, and 75+ and mFI5 (0/1/&gt;2) parsimonious model includes sex, systemic inflammation, and mFailty5 (but not age)</p>
+<p>Colorectal cancer over age 65 <span class="citation" data-cites="simon1363">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Simon et al. 2020</a>)</span> mFrailty5 correlated with mortality on univariate analysis and also after adjustment</p>
+<p>MFI and mortality after hip fracture <span class="citation" data-cites="daddimani30951">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>daddimani30951?</strong></a>)</span> Mortality at one year association reported for mFrailty5 but not in multivariable. No association between age and mortality at one year.</p>
+<p>NLP of unstructured EHR data to identify geriatric syndrome <span class="citation" data-cites="kharrazi1499">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Kharrazi et al. 2018</a>)</span></p>
+<p>mFrailty5 <span class="citation" data-cites="mosquera272">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Mosquera, Spaniolas, and Fitzgerald 2016</a>)</span></p>
+<p>mFrailty5 and Colorectal cancer <span class="citation" data-cites="al-khamis1192">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Al-Khamis et al. 2019</a>)</span>]</p>
+<p>panayi 393. <span class="citation" data-cites="panayi393">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>panayi393?</strong></a>)</span></p>
+<p>Velanovich V, Antoine H, Swartz A, Peters D, Rubinfeld I. Accumulating deficits model of frailty and postoperative mortality and morbidity: its application to a national database. J Surg Res. 2013;183(1):104–10. <span class="citation" data-cites="velanovich104">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>velanovich104?</strong></a>)</span></p>
+<p>Colorectal cancer over age 65 <span class="citation" data-cites="simon1363">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Simon et al. 2020</a>)</span> mFrailty5 correlated with mortality but no multivariate analysis was done to separate age from mFrailty5</p>
+<p>Lascano D, Pak JS, Kates M, et al.&nbsp;Validation of a frailty index in patients undergoing curative surgery for urologic malignancy and comparison with other risk stratification tools. Urol Oncol. 2015;33(10):426.e1–12. <span class="citation" data-cites="lascanoe1">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>lascanoe1?</strong></a>)</span></p>
+<p>Frailty is a better predictor than age for outcomes in geriatric patients with rectal cancer undergoing proctectomy. <span class="citation" data-cites="miller504">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Miller et al. 2020</a>)</span></p>
+<p>NSQIP Dat for coletomy CABG PD, pneumonectomy, esophagecgtomy 2002-2017 <span class="citation" data-cites="wane721">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Wan et al. 2022</a>)</span> compared mFrailty5 with others and concluded it was “ineffective” in predicting 30=day morbidity and mortality</p>
+<p>Colorectal Columbia University:mFrailty5 in predicting outcomes. “predictive ability is enhanced when other patietn-specific risk factors are incorporated <span class="citation" data-cites="keller1396">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Keller et al. 2020</a>)</span></p>
+<p>Traven SA, Reeves RA, Althoff AD, et al.&nbsp;New five-factor modified frailty index predicts morbidity and mortality in geriatric hip fractures. J Orthop Trauma. 2019;33:319–323. 23. <span class="citation" data-cites="traven319">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>traven319?</strong></a>)</span></p>
+<p>Traven SA, Reeves RA, Sekar MG, et al.&nbsp;New 5-factor modified frailty index predicts morbidity and mortality in primary hip and knee arthroplasty. J Arthroplasty. 2019;34:140–144. 24. <span class="citation" data-cites="traven319">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>traven319?</strong></a>)</span></p>
+<p>Weaver DJ, Malik AT, Jain N, et al.&nbsp;The Modified 5-item frailty index: a concise and useful tool for assessing the impact of frailty on postoperative morbidity following elective posterior lumbar fusions. World Neurosurg. 2019;124:e626–e632. <span class="citation" data-cites="weavere626">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>weavere626?</strong></a>)</span></p>
+</section></section>
+<section>
+<section id="comprehensive-geriatric-assessment" class="title-slide slide level1 center">
+<h1>Comprehensive Geriatric Assessment</h1>
+
+</section>
+<section id="care-survey" class="slide level2">
+<h2>CARE Survey</h2>
+<p>CARE survey is a modified version of the original Cancer and Aging Research Group geriatric assessment, augmented to streamline completion and to aid integration into routine oncologic clinical practice. The CARE survey measures activities of daily living (ADLs), instrumental ADLs (iADLs), the ability to walk 1 block, the number of falls within 6 months, nutrition, comorbid conditions, cognitive complaints, anxiety, depression, social support, social activities, and self-rated Eastern Cooperative Oncology Group performance status. Domain-specific cutoffs were used in accordance with prior literature.21, 23-25 Frailty was reported using the CARE Frailty Index based on the principles of deficit accumulation, as previously published.26, 27 In brief, the CARE Frailty Index includes 44 geriatric assessment variables identified as health deficits from the CARE survey, each of which is scored as 0 (no deficit) or 1 (deficit present) (see Supporting Methods). These values were then combined and divided by the overall number of deficits assessed (range, 0-1) and categorized as robust (0-0.2), prefrail (0.2-0.35), and frail (&gt;0.35).26 In addition, the CARE survey incorporates the Patient-Reported Outcomes Measurement Information System (PROMIS) 10-item global health questionnaire to assess HRQoL, which includes physical and mental health subscales.28, 29</p>
+<p>Prognostic scales for cancer: France: <span class="citation" data-cites="canoui-poitrine2236">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Canoui-Poitrine et al. 2022</a>)</span> 510 patients with cancer evaluated with multiple prognostic scales including CCI and Elixhauser. Only Cumulative Illness Rating Scale for Geriatics (CIR-G) was predictive of one-year mortality.</p>
+</section>
+<section id="sarc-f-screening" class="slide level2">
+<h2>SARC-F screening</h2>
+<p>Ida S, Kaneko R, Murata K. SARC-F for screening of sarcopenia among older adults: a meta-analysis of screening test accuracy. J Am Med Dir Assoc. 2018;19:685-689.</p>
+<p>Woo J, Leung J, Morley JE. Validating the SARC-F: a suitable community screening tool for sarcopenia? J Am Med Dir Assoc. 2014;15:630-634.</p>
+<p>Malmstrom TK, Morley JE. SARC-F: a simple questionnaire to rapidly diagnose sarcopenia. J Am Med Dir Assoc. 2013;14:531-532.</p>
+<p>Malmstrom TK, Miller DK, Simonsick EM, Ferrucci L, Morley JE. SARC-F: a symptom score to predict persons with sarcopenia at risk for poor functional outcomes. J Cachexia Sarcopenia Muscle. 2016;7:28-36.</p>
+<p>The SARC-F (strength, assistance with walking, rising from a chair, climbing stairs, and falls) is a surrogate assessment tool, with a total score of ≥4 suggestive of sarcopenia.35 A person may also be considered as “probable sarcopenia” if SARC-F is positive and handgrip strength is low (Asian Working Group for Sarcopenia criteria: &lt;28 kg for men, &lt;18 kg for women).</p>
+</section></section>
+<section id="reporting" class="title-slide slide level1 center">
+<h1>Reporting</h1>
+<p>Benchimol EI, Smeeth L, Guttmann A, et al.&nbsp;The REporting of studies Conducted using Observational Routinely-collected health Data (RECORD) statement. PLoS Med. 2015;12(10):e1001885. https://doi.org/10.1371/journal.pmed.1001885 . - DOI - PubMed - PMC</p>
+</section>
+
+<section id="palliative-care-consultations" class="title-slide slide level1 center">
+<h1>Palliative Care consultations</h1>
+<p>VA System: <span class="citation" data-cites="sullivan1702">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Sullivan et al. 2019</a>)</span> Lung Cancer - palliative care consultation 31-365 days after dx led to increased survival</p>
+</section>
+
+<section id="enteral-nutrition-in-cancer-patients" class="title-slide slide level1 center">
+<h1>Enteral nutrition in cancer patients</h1>
+<p>In 347 stage IV gastric cancer patients at high nutrition risk and receiving palliative CT, nutritional support was associated with a survival benefit 39.Qiu M, ZhouYX, Jin Y, Nutrition support can bring survival benefit to high nutrition risk gastric cancer patients who received chemotherapy. Support Care Cancer. 2015: 23; 1933. -9 Esophageal cancer patients RCT enteral therapy vs oral nutrition <span class="citation" data-cites="lyu839516">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Lyu et al. 2022</a>)</span></p>
+</section>
+
+<section>
+<section id="physiometric-evaluation" class="title-slide slide level1 center">
+<h1>Physiometric Evaluation</h1>
+
+</section>
+<section id="pulmonary-function-testing." class="slide level2">
+<h2>Pulmonary function testing.</h2>
+<p>Investigators in Kobe, Japan examined functional testing in 104 patients undergoing esophagectomy <span class="citation" data-cites="makiura430">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Makiura et al. 2016</a>)</span> , 2016, 2016}. Patients were designated as frail based upon hand-grip strength &lt;26kg and sarcopenia as measured radiographically. Sarcopenia was diagnosed in 29 patients, in whom the rate of pneumonia was 38%, compared with 17% in the remaining patients.</p>
+</section>
+<section id="hand-grip-strength" class="slide level2">
+<h2>Hand Grip Strength</h2>
+<p>Kilgour 2013 p 1894 Veni 2018 and Boyas</p>
+</section>
+<section id="minute-walk-test" class="slide level2">
+<h2>6 minute walk test</h2>
+<p>Gait speed and mortality in older adults <span class="citation" data-cites="studenski50">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Studenski et al. 2011</a>)</span></p>
+<h3 id="short-physical-performance-battery">Short Physical Performance Battery</h3>
+<p>SPPB predicts survival and nursing home admission <span class="citation" data-cites="guralnikM85">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Guralnik et al. 1994</a>)</span></p>
+</section>
+<section id="stair-climbing" class="slide level2">
+<h2>Stair-climbing</h2>
+<p>Stair Climbing is strong predictor of perioperative morbidity<span class="citation" data-cites="reddy559">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick=""><strong>reddy559?</strong></a>)</span></p>
+</section>
+<section id="timed-up-and-go" class="slide level2">
+<h2>Timed up and go</h2>
+<p>?Part of Fried scale? <span class="citation" data-cites="podsiadlo142">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Podsiadlo and Richardson 1991</a>)</span></p>
+</section></section>
+<section id="sarcopenia-and-lung-cancer" class="title-slide slide level1 smaller scrollable">
+<h1>Sarcopenia and Lung Cancer</h1>
+<p>PNI and lung cancer meta-analysis <span class="citation" data-cites="shaoe31113">(<a href="#/sarcopenia-and-lung-cancer" role="doc-biblioref" onclick="">Shao et al. 2022</a>)</span></p>
+
+<div class="quarto-auto-generated-content">
+<div class="footer footer-default">
+
+</div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-abel515" class="csl-entry" role="listitem">
+Abel, Gregory A., and Heidi D. Klepin. 2018. <span>“Frailty and the Management of Hematologic Malignancies.”</span> <em>Blood</em> 131 (5): 515–24. <a href="https://doi.org/10.1182/blood-2017-09-746420">https://doi.org/10.1182/blood-2017-09-746420</a>.
+</div>
+<div id="ref-al-khamis1192" class="csl-entry" role="listitem">
+Al-Khamis, A., C. Warner, J. Park, S. Marecik, N. Davis, A. Mellgren, J. Nordenstam, and K. Kochar. 2019. <span>“Modified Frailty Index Predicts Early Outcomes After Colorectal Surgery: An <span>ACS</span>-<span>NSQIP</span> Study.”</span> <em>Colorectal Disease: The Official Journal of the Association of Coloproctology of Great Britain and Ireland</em> 21 (10): 1192–1205. <a href="https://doi.org/10.1111/codi.14725">https://doi.org/10.1111/codi.14725</a>.
+</div>
+<div id="ref-callahan1357" class="csl-entry" role="listitem">
+Callahan, Kathryn E., Clancy J. Clark, Angela F. Edwards, Timothy N. Harwood, Jeff D. Williamson, Adam W. Moses, James J. Willard, et al. 2021. <span>“Automated <span>Frailty</span> <span>Screening</span> <span>At</span>-<span>Scale</span> for <span>Pre</span>-<span>Operative</span> <span>Risk</span> <span>Stratification</span> <span>Using</span> the <span>Electronic</span> <span>Frailty</span> <span>Index</span>.”</span> <em>Journal of the American Geriatrics Society</em> 69 (5): 1357–62. <a href="https://doi.org/10.1111/jgs.17027">https://doi.org/10.1111/jgs.17027</a>.
+</div>
+<div id="ref-canoui-poitrine2236" class="csl-entry" role="listitem">
+Canoui-Poitrine, Florence, Lauriane Segaux, Marc-Antoine Benderra, Frédégonde About, Christophe Tournigand, Marie Laurent, Philippe Caillet, et al. 2022. <span>“The <span>Prognostic</span> <span>Value</span> of <span>Eight</span> <span>Comorbidity</span> <span>Indices</span> in <span>Older</span> <span>Patients</span> with <span>Cancer</span>: <span>The</span> <span>ELCAPA</span> <span>Cohort</span> <span>Study</span>.”</span> <em>Cancers</em> 14 (9): 2236. <a href="https://doi.org/10.3390/cancers14092236">https://doi.org/10.3390/cancers14092236</a>.
+</div>
+<div id="ref-chimukangara2509" class="csl-entry" role="listitem">
+Chimukangara, Munyaradzi, Melissa C. Helm, Matthew J. Frelich, Matthew E. Bosler, Lisa E. Rein, Aniko Szabo, and Jon C. Gould. 2017. <span>“A 5-Item Frailty Index Based on <span>NSQIP</span> Data Correlates with Outcomes Following Paraesophageal Hernia Repair.”</span> <em>Surgical Endoscopy</em> 31 (6): 2509–19. <a href="https://doi.org/10.1007/s00464-016-5253-7">https://doi.org/10.1007/s00464-016-5253-7</a>.
+</div>
+<div id="ref-clegg353" class="csl-entry" role="listitem">
+Clegg, Andrew, Chris Bates, John Young, Ronan Ryan, Linda Nichols, Elizabeth Ann Teale, Mohammed A. Mohammed, John Parry, and Tom Marshall. 2016. <span>“Development and Validation of an Electronic Frailty Index Using Routine Primary Care Electronic Health Record Data.”</span> <em>Age and Ageing</em> 45 (3): 353–60. <a href="https://doi.org/10.1093/ageing/afw039">https://doi.org/10.1093/ageing/afw039</a>.
+</div>
+<div id="ref-dumontier3053" class="csl-entry" role="listitem">
+DuMontier, Clark, Nathanael R. Fillmore, Cenk Yildirim, David Cheng, Jennifer La, Ariela R. Orkaby, Brian Charest, et al. 2021. <span>“Contemporary <span>Analysis</span> of <span>Electronic</span> <span>Frailty</span> <span>Measurement</span> in <span>Older</span> <span>Adults</span> with <span>Multiple</span> <span>Myeloma</span> <span>Treated</span> in the <span>National</span> <span>US</span> <span>Veterans</span> <span>Affairs</span> <span>Healthcare</span> <span>System</span>.”</span> <em>Cancers</em> 13 (12): 3053. <a href="https://doi.org/10.3390/cancers13123053">https://doi.org/10.3390/cancers13123053</a>.
+</div>
+<div id="ref-guralnikM85" class="csl-entry" role="listitem">
+Guralnik, J. M., E. M. Simonsick, L. Ferrucci, R. J. Glynn, L. F. Berkman, D. G. Blazer, P. A. Scherr, and R. B. Wallace. 1994. <span>“A Short Physical Performance Battery Assessing Lower Extremity Function: Association with Self-Reported Disability and Prediction of Mortality and Nursing Home Admission.”</span> <em>Journal of Gerontology</em> 49 (2): M85–94. <a href="https://doi.org/10.1093/geronj/49.2.m85">https://doi.org/10.1093/geronj/49.2.m85</a>.
+</div>
+<div id="ref-hodari1240a" class="csl-entry" role="listitem">
+Hodari, Arielle, Zane T. Hammoud, Jamil F. Borgi, Athanasios Tsiouris, and Ilan S. Rubinfeld. 2013. <span>“Assessment of Morbidity and Mortality After Esophagectomy Using a Modified Frailty Index.”</span> <em>The Annals of Thoracic Surgery</em> 96 (4): 1240–45. <a href="https://doi.org/10.1016/j.athoracsur.2013.05.051">https://doi.org/10.1016/j.athoracsur.2013.05.051</a>.
+</div>
+<div id="ref-keller1396" class="csl-entry" role="listitem">
+Keller, D. S., T. Reif de Paula, R. P. Kiran, and S. K. Nemeth. 2020. <span>“Evaluating the Association of the New <span>National</span> <span>Surgical</span> <span>Quality</span> <span>Improvement</span> <span>Program</span> Modified 5-Factor Frailty Index with Outcomes in Elective Colorectal Surgery.”</span> <em>Colorectal Disease: The Official Journal of the Association of Coloproctology of Great Britain and Ireland</em> 22 (10): 1396–1405. <a href="https://doi.org/10.1111/codi.15066">https://doi.org/10.1111/codi.15066</a>.
+</div>
+<div id="ref-kharrazi1499" class="csl-entry" role="listitem">
+Kharrazi, Hadi, Laura J. Anzaldi, Leilani Hernandez, Ashwini Davison, Cynthia M. Boyd, Bruce Leff, Joe Kimura, and Jonathan P. Weiner. 2018. <span>“The <span>Value</span> of <span>Unstructured</span> <span>Electronic</span> <span>Health</span> <span>Record</span> <span>Data</span> in <span>Geriatric</span> <span>Syndrome</span> <span>Case</span> <span>Identification</span>.”</span> <em>Journal of the American Geriatrics Society</em> 66 (8): 1499–1507. <a href="https://doi.org/10.1111/jgs.15411">https://doi.org/10.1111/jgs.15411</a>.
+</div>
+<div id="ref-kohne10259" class="csl-entry" role="listitem">
+Kohn, Martin S., Umit Topaloglu, Eric S. Kirkendall, Ajay Dharod, Brian J. Wells, and Metin Gurcan. 2022. <span>“Creating Learning Health Systems and the Emerging Role of Biomedical Informatics.”</span> <em>Learning Health Systems</em> 6 (1): e10259. <a href="https://doi.org/10.1002/lrh2.10259">https://doi.org/10.1002/lrh2.10259</a>.
+</div>
+<div id="ref-lyu839516" class="csl-entry" role="listitem">
+Lyu, Jiahua, Anhui Shi, Tao Li, Jie Li, Ren Zhao, Shuchai Zhu, Jianhua Wang, et al. 2022. <span>“Effects of <span>Enteral</span> <span>Nutrition</span> on <span>Patients</span> <span>With</span> <span>Oesophageal</span> <span>Carcinoma</span> <span>Treated</span> <span>With</span> <span>Concurrent</span> <span>Chemoradiotherapy</span>: <span>A</span> <span>Prospective</span>, <span>Multicentre</span>, <span>Randomised</span>, <span>Controlled</span> <span>Study</span>.”</span> <em>Frontiers in Oncology</em> 12: 839516. <a href="https://doi.org/10.3389/fonc.2022.839516">https://doi.org/10.3389/fonc.2022.839516</a>.
+</div>
+<div id="ref-makiura430" class="csl-entry" role="listitem">
+Makiura, Daisuke, Rei Ono, Junichiro Inoue, Miyuki Kashiwa, Taro Oshikiri, Tetsu Nakamura, Yoshihiro Kakeji, Yoshitada Sakai, and Yasushi Miura. 2016. <span>“Preoperative Sarcopenia Is a Predictor of Postoperative Pulmonary Complications in Esophageal Cancer Following Esophagectomy: <span>A</span> Retrospective Cohort Study.”</span> <em>Journal of Geriatric Oncology</em> 7 (6): 430–36. <a href="https://doi.org/10.1016/j.jgo.2016.07.003">https://doi.org/10.1016/j.jgo.2016.07.003</a>.
+</div>
+<div id="ref-mcgovern9" class="csl-entry" role="listitem">
+McGovern, Josh, Alexander Grayston, Dominic Coates, Stephen Leadbitter, Adam Hounat, Paul G. Horgan, Ross D. Dolan, and Donald C. McMillan. 2023. <span>“The Relationship Between the Modified Frailty Index Score (<span class="nocase">mFI</span>-5), Malnutrition, Body Composition, Systemic Inflammation and Short-Term Clinical Outcomes in Patients Undergoing Surgery for Colorectal Cancer.”</span> <em>BMC Geriatrics</em> 23 (1): 9. <a href="https://doi.org/10.1186/s12877-022-03703-2">https://doi.org/10.1186/s12877-022-03703-2</a>.
+</div>
+<div id="ref-miller504" class="csl-entry" role="listitem">
+Miller, Samuel M., J. Wolf, M. Katlic, C. R. D’Adamo, J. Coleman, and V. Ahuja. 2020. <span>“Frailty Is a Better Predictor Than Age for Outcomes in Geriatric Patients with Rectal Cancer Undergoing Proctectomy.”</span> <em>Surgery</em> 168 (3): 504–8. <a href="https://doi.org/10.1016/j.surg.2020.05.027">https://doi.org/10.1016/j.surg.2020.05.027</a>.
+</div>
+<div id="ref-mosquera272" class="csl-entry" role="listitem">
+Mosquera, Catalina, Konstantinos Spaniolas, and Timothy L. Fitzgerald. 2016. <span>“Impact of Frailty on Surgical Outcomes: <span>The</span> Right Patient for the Right Procedure.”</span> <em>Surgery</em> 160 (2): 272–80. <a href="https://doi.org/10.1016/j.surg.2016.04.030">https://doi.org/10.1016/j.surg.2016.04.030</a>.
+</div>
+<div id="ref-orkaby1257" class="csl-entry" role="listitem">
+Orkaby, Ariela R., Lisa Nussbaum, Yuk-Lam Ho, David Gagnon, Lien Quach, Rachel Ward, Rachel Quaden, et al. 2019. <span>“The <span>Burden</span> of <span>Frailty</span> <span>Among</span> <span>U</span>.<span>S</span>. <span>Veterans</span> and <span>Its</span> <span>Association</span> <span>With</span> <span>Mortality</span>, 2002-2012.”</span> <em>The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences</em> 74 (8): 1257–64. <a href="https://doi.org/10.1093/gerona/gly232">https://doi.org/10.1093/gerona/gly232</a>.
+</div>
+<div id="ref-pajewski1771" class="csl-entry" role="listitem">
+Pajewski, Nicholas M., Kristin Lenoir, Brian J. Wells, Jeff D. Williamson, and Kathryn E. Callahan. 2019. <span>“Frailty <span>Screening</span> <span>Using</span> the <span>Electronic</span> <span>Health</span> <span>Record</span> <span>Within</span> a <span>Medicare</span> <span>Accountable</span> <span>Care</span> <span>Organization</span>.”</span> <em>The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences</em> 74 (11): 1771–77. <a href="https://doi.org/10.1093/gerona/glz017">https://doi.org/10.1093/gerona/glz017</a>.
+</div>
+<div id="ref-podsiadlo142" class="csl-entry" role="listitem">
+Podsiadlo, D., and S. Richardson. 1991. <span>“The Timed "<span>Up</span> &amp; <span>Go</span>": A Test of Basic Functional Mobility for Frail Elderly Persons.”</span> <em>Journal of the American Geriatrics Society</em> 39 (2): 142–48. <a href="https://doi.org/10.1111/j.1532-5415.1991.tb01616.x">https://doi.org/10.1111/j.1532-5415.1991.tb01616.x</a>.
+</div>
+<div id="ref-rockwood722" class="csl-entry" role="listitem">
+Rockwood, Kenneth, and Arnold Mitnitski. 2007. <span>“Frailty in Relation to the Accumulation of Deficits.”</span> <em>The Journals of Gerontology. Series A, Biological Sciences and Medical Sciences</em> 62 (7): 722–27. <a href="https://doi.org/10.1093/gerona/62.7.722">https://doi.org/10.1093/gerona/62.7.722</a>.
+</div>
+<div id="ref-shaoe31113" class="csl-entry" role="listitem">
+Shao, Yifeng, Wei Cao, Xinliang Gao, Mingbo Tang, Dongshan Zhu, and Wei Liu. 2022. <span>“Pretreatment "Prognostic Nutritional Index" as an Indicator of Outcome in Lung Cancer Patients Receiving <span>ICI</span>-Based Treatment: <span>Systematic</span> Review and Meta-Analysis.”</span> <em>Medicine</em> 101 (43): e31113. <a href="https://doi.org/10.1097/MD.0000000000031113">https://doi.org/10.1097/MD.0000000000031113</a>.
+</div>
+<div id="ref-simon1363" class="csl-entry" role="listitem">
+Simon, H. L., T. Reif de Paula, M. M. Profeta da Luz, S. K. Nemeth, S. J. Moug, and D. S. Keller. 2020. <span>“Frailty in Older Patients Undergoing Emergency Colorectal Surgery: <span>USA</span> <span>National</span> <span>Surgical</span> <span>Quality</span> <span>Improvement</span> <span>Program</span> Analysis.”</span> <em>The British Journal of Surgery</em> 107 (10): 1363–71. <a href="https://doi.org/10.1002/bjs.11770">https://doi.org/10.1002/bjs.11770</a>.
+</div>
+<div id="ref-studenski50" class="csl-entry" role="listitem">
+Studenski, Stephanie, Subashan Perera, Kushang Patel, Caterina Rosano, Kimberly Faulkner, Marco Inzitari, Jennifer Brach, et al. 2011. <span>“Gait Speed and Survival in Older Adults.”</span> <em>JAMA</em> 305 (1): 50–58. <a href="https://doi.org/10.1001/jama.2010.1923">https://doi.org/10.1001/jama.2010.1923</a>.
+</div>
+<div id="ref-subramaniam17" class="csl-entry" role="listitem">
+Subramaniam, Sneha. 2012. <span>“New 5-<span>Factor</span> <span>Modified</span> <span>Frailty</span> <span>Index</span> <span>Using</span> <span>American</span> <span>College</span> of <span>Surgeons</span> <span>NSQIP</span> <span>Data</span>,”</span> 17.
+</div>
+<div id="ref-sullivan1702" class="csl-entry" role="listitem">
+Sullivan, Donald R., Benjamin Chan, Jodi A. Lapidus, Linda Ganzini, Lissi Hansen, Patricia A. Carney, Erik K. Fromme, et al. 2019. <span>“Association of <span>Early</span> <span>Palliative</span> <span>Care</span> <span>Use</span> <span>With</span> <span>Survival</span> and <span>Place</span> of <span>Death</span> <span>Among</span> <span>Patients</span> <span>With</span> <span>Advanced</span> <span>Lung</span> <span>Cancer</span> <span>Receiving</span> <span>Care</span> in the <span>Veterans</span> <span>Health</span> <span>Administration</span>.”</span> <em>JAMA Oncology</em> 5 (12): 1702–9. <a href="https://doi.org/10.1001/jamaoncol.2019.3105">https://doi.org/10.1001/jamaoncol.2019.3105</a>.
+</div>
+<div id="ref-wane721" class="csl-entry" role="listitem">
+Wan, Michelle A., James M. Clark, Miriam Nuño, David T. Cooke, and Lisa M. Brown. 2022. <span>“Can the <span>Risk</span> <span>Analysis</span> <span>Index</span> for <span>Frailty</span> <span>Predict</span> <span>Morbidity</span> and <span>Mortality</span> in <span>Patients</span> <span>Undergoing</span> <span>High</span>-Risk <span>Surgery</span>?”</span> <em>Annals of Surgery</em> 276 (6): e721–27. <a href="https://doi.org/10.1097/SLA.0000000000004626">https://doi.org/10.1097/SLA.0000000000004626</a>.
+</div>
+</div>
+</section>
+    </div>
+  </div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
+      });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("https:\/\/gisurgonc\.github\.io\/talks\/");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
+    
+
+</body></html>

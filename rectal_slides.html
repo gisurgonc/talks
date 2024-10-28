@@ -9,9 +9,9 @@
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.5.57">
+  <meta name="generator" content="quarto-1.3.450">
 
-  <title>talks – Rectal Cancer</title>
+  <title>talks - Rectal Cancer</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -33,7 +33,6 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
-      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -176,8 +175,7 @@
   }
 
   .callout.callout-titled .callout-body > .callout-content > :last-child {
-    padding-bottom: 0.5rem;
-    margin-bottom: 0;
+    margin-bottom: 0.5rem;
   }
 
   .callout.callout-titled .callout-icon::before {
@@ -355,7 +353,7 @@
 <section id="gi-stromal-tumors" class="slide level2">
 <h2>GI Stromal Tumors</h2>
 <p><a href="#/pathophysiology">Pathophysiology</a></p>
-<table class="caption-top">
+<table>
 <thead>
 <tr class="header">
 <th>Category</th>
@@ -393,7 +391,7 @@
 </table>
 
 <aside><div>
-<p><span class="citation" data-cites="schaefer1">(<a href="#/references" role="doc-biblioref" onclick="">Schaefer, DeMatteo, and Serrano 2022</a>)</span></p>
+<p><span class="citation" data-cites="schaefer1">(<a href="#/references" role="doc-biblioref" onclick=""><strong>schaefer1?</strong></a>)</span></p>
 </div></aside></section>
 <section id="pathophysiology" class="slide level2">
 <h2>Pathophysiology</h2>
@@ -402,7 +400,8 @@
 <p>Origin with bowel wall stomach- small intestine - colon - esophagus</p>
 </div><div class="column" style="width:50%;">
 <p>Tyrosine kinase gain of function mutations - KIT2 - PDGRFA3 Genetic inactivation - NF14 - succinate dehydrogenase (SDH)</p>
-</div></div>
+</div>
+</div>
 
 <aside><div>
 <p><span class="citation" data-cites="shaheen2277">(<a href="#/references" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
@@ -414,7 +413,8 @@
 <p>Short-course RT <span class="math inline">\(\rightarrow\)</span> Chemo <span class="math inline">\(\rightarrow\)</span> Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span> TME +/- Chemo</p>
 </div><div class="column" style="width:70%;">
 <p><img data-src="images/shaheen.png"></p>
-</div></div>
+</div>
+</div>
 
 <aside><div>
 <p>Lancet Oncol December 7, 2020</p>
@@ -427,7 +427,7 @@
 <section id="kit-and-pdgfr-mutations" class="slide level2">
 <h2>KIT and PDGFR Mutations</h2>
 
-<img data-src="images/kit_pdgrfa.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<img data-src="images/kit_pdgrfa.png" class="r-stretch quarto-figure-center"></section>
 <section id="eortc-22921" class="slide level2">
 <h2>EORTC 22921</h2>
 <ul>
@@ -585,7 +585,8 @@
 <p>ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure</p>
 </div><div class="column" style="width:70%;">
 <p><img data-src="images/eyck.png"></p>
-</div></div>
+</div>
+</div>
 
 <aside><div>
 <p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
@@ -611,7 +612,8 @@
 <figcaption>Nivolumab mechanism of action</figcaption>
 </figure>
 </div>
-</div></div>
+</div>
+</div>
 </section>
 <section id="chekmate-577-trial" class="slide level2">
 <h2>Chekmate 577 Trial</h2>
@@ -674,14 +676,9 @@
 </section>
 <section id="orientation-manual" class="title-slide slide level1 center">
 <h1>Orientation Manual</h1>
-<div id="" class="qrcode"></div>
+<div id="qrcode" class="qrcode"></div>
 <script type="text/javascript">
-(function() {
-  var script = document.currentScript;
-  var qrcode = script.previousElementSibling;
-  qrcode.qrcode = new QRCode(qrcode, {"colorDark":"#000000","height":"500","colorLight":"#ffffff","width":"500","text":"https://gisurgonc.github.io/orientation"});
-  script.remove();
-})();
+var qrcode = new QRCode("qrcode", {"height":"500","width":"500","text":"https://gisurgonc.github.io/orientation","colorLight":"#ffffff","colorDark":"#000000"});
 </script>
     
 </section>
@@ -689,21 +686,16 @@
 <section id="references" class="title-slide slide level1 smaller scrollable">
 <h1>References</h1>
 
-<div class="quarto-auto-generated-content">
-<p><img src="atriumlogo.jpg" class="slide-logo"></p>
-<div class="footer footer-default">
+
+<img src="atriumlogo.jpg" class="slide-logo r-stretch"><div class="footer footer-default">
 <p><a href="https://gisurgonc.github.io/talks/">GI Surgical Oncology Talks</a></p>
 </div>
-</div>
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
 <div id="ref-allum5062" class="csl-entry" role="listitem">
 Allum, William H., Sally P. Stenning, John Bancewicz, Peter I. Clark, and Ruth E. Langley. 2009. <span>“Long-Term Results of a Randomized Trial of Surgery with or Without Preoperative Chemotherapy in Esophageal Cancer.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 27 (30): 5062–67. <a href="https://doi.org/10.1200/JCO.2009.22.2083">https://doi.org/10.1200/JCO.2009.22.2083</a>.
 </div>
 <div id="ref-kelly1191" class="csl-entry" role="listitem">
 Kelly, Ronan J., Jaffer A. Ajani, Jaroslaw Kuzdzal, Thomas Zander, Eric Van Cutsem, Guillaume Piessen, Guillermo Mendez, et al. 2021. <span>“Adjuvant <span>Nivolumab</span> in <span>Resected</span> <span>Esophageal</span> or <span>Gastroesophageal</span> <span>Junction</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 384 (13): 1191–1203. <a href="https://doi.org/10.1056/NEJMoa2032125">https://doi.org/10.1056/NEJMoa2032125</a>.
-</div>
-<div id="ref-schaefer1" class="csl-entry" role="listitem">
-Schaefer, Inga-Marie, Ronald P. DeMatteo, and César Serrano. 2022. <span>“The <span>GIST</span> of <span>Advances</span> in <span>Treatment</span> of <span>Advanced</span> <span>Gastrointestinal</span> <span>Stromal</span> <span>Tumor</span>.”</span> <em>American Society of Clinical Oncology Educational Book. American Society of Clinical Oncology. Annual Meeting</em> 42 (April): 1–15. <a href="https://doi.org/10.1200/EDBK_351231">https://doi.org/10.1200/EDBK_351231</a>.
 </div>
 <div id="ref-shaheen2277" class="csl-entry" role="listitem">
 Shaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, Herbert C. Wolfsen, Richard E. Sampliner, Kenneth K. Wang, Joseph A. Galanko, et al. 2009. <span>“Radiofrequency Ablation in <span>Barrett</span>’s Esophagus with Dysplasia.”</span> <em>The New England Journal of Medicine</em> 360 (22): 2277–88. <a href="https://doi.org/10.1056/NEJMoa0808145">https://doi.org/10.1056/NEJMoa0808145</a>.
@@ -741,6 +733,7 @@ Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hage
       Reveal.initialize({
 'controlsAuto': true,
 'previewLinksAuto': false,
+'smaller': false,
 'pdfSeparateFragments': false,
 'autoAnimateEasing': "ease",
 'autoAnimateDuration': 1,
@@ -957,7 +950,18 @@ Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hage
         }
         return false;
       }
-      const onCopySuccess = function(e) {
+      const clipboard = new window.ClipboardJS('.code-copy-button', {
+        text: function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+      });
+      clipboard.on('success', function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -989,50 +993,11 @@ Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hage
         }, 1000);
         // clear code selection
         e.clearSelection();
-      }
-      const getTextToCopy = function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-      }
-      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-        text: getTextToCopy
       });
-      clipboard.on('success', onCopySuccess);
-      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-        // For code content inside modals, clipBoardJS needs to be initialized with a container option
-        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-          text: getTextToCopy,
-          container: window.document.getElementById('quarto-embedded-source-code-modal')
-        });
-        clipboardModal.on('success', onCopySuccess);
-      }
-        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-        var mailtoRegex = new RegExp(/^mailto:/);
-          var filterRegex = new RegExp("https:\/\/gisurgonc\.github\.io\/talks\/");
-        var isInternal = (href) => {
-            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-        }
-        // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-        for (var i=0; i<links.length; i++) {
-          const link = links[i];
-          if (!isInternal(link.href)) {
-            // undo the damage that might have been done by quarto-nav.js in the case of
-            // links that we want to consider external
-            if (link.dataset.originalHref !== undefined) {
-              link.href = link.dataset.originalHref;
-            }
-          }
-        }
-      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      function tippyHover(el, contentFn) {
         const config = {
           allowHTML: true,
+          content: contentFn,
           maxWidth: 500,
           delay: 100,
           arrow: false,
@@ -1042,17 +1007,8 @@ Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hage
           interactive: true,
           interactiveBorder: 10,
           theme: 'light-border',
-          placement: 'bottom-start',
+          placement: 'bottom-start'
         };
-        if (contentFn) {
-          config.content = contentFn;
-        }
-        if (onTriggerFn) {
-          config.onTrigger = onTriggerFn;
-        }
-        if (onUntriggerFn) {
-          config.onUntrigger = onUntriggerFn;
-        }
           config['offset'] = [0,0];
           config['maxWidth'] = 700;
         window.tippy(el, config); 
@@ -1066,11 +1022,7 @@ Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hage
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          if (note) {
-            return note.innerHTML;
-          } else {
-            return "";
-          }
+          return note.innerHTML;
         });
       }
       const findCites = (el) => {

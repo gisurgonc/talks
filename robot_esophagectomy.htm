@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.5.57">
+
+  <title>talks – Robotic Esophagectomy</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+
+  .callout {
+    margin-top: 1em;
+    margin-bottom: 1em;  
+    border-radius: .25rem;
+  }
+
+  .callout.callout-style-simple { 
+    padding: 0em 0.5em;
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+    display: flex;
+  }
+
+  .callout.callout-style-default {
+    border-left: solid #acacac .3rem;
+    border-right: solid 1px silver;
+    border-top: solid 1px silver;
+    border-bottom: solid 1px silver;
+  }
+
+  .callout .callout-body-container {
+    flex-grow: 1;
+  }
+
+  .callout.callout-style-simple .callout-body {
+    font-size: 1rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-style-default .callout-body {
+    font-size: 0.9rem;
+    font-weight: 400;
+  }
+
+  .callout.callout-titled.callout-style-simple .callout-body {
+    margin-top: 0.2em;
+  }
+
+  .callout:not(.callout-titled) .callout-body {
+      display: flex;
+  }
+
+  .callout:not(.no-icon).callout-titled.callout-style-simple .callout-content {
+    padding-left: 1.6em;
+  }
+
+  .callout.callout-titled .callout-header {
+    padding-top: 0.2em;
+    margin-bottom: -0.2em;
+  }
+
+  .callout.callout-titled .callout-title  p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+    
+  .callout.callout-titled.callout-style-simple .callout-content  p {
+    margin-top: 0;
+  }
+
+  .callout.callout-titled.callout-style-default .callout-content  p {
+    margin-top: 0.7em;
+  }
+
+  .callout.callout-style-simple div.callout-title {
+    border-bottom: none;
+    font-size: .9rem;
+    font-weight: 600;
+    opacity: 75%;
+  }
+
+  .callout.callout-style-default  div.callout-title {
+    border-bottom: none;
+    font-weight: 600;
+    opacity: 85%;
+    font-size: 0.9rem;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-default div.callout-content {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+  }
+
+  .callout.callout-style-simple .callout-icon::before {
+    height: 1rem;
+    width: 1rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 1rem 1rem;
+  }
+
+  .callout.callout-style-default .callout-icon::before {
+    height: 0.9rem;
+    width: 0.9rem;
+    display: inline-block;
+    content: "";
+    background-repeat: no-repeat;
+    background-size: 0.9rem 0.9rem;
+  }
+
+  .callout-title {
+    display: flex
+  }
+    
+  .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  .callout.no-icon::before {
+    display: none !important;
+  }
+
+  .callout.callout-titled .callout-body > .callout-content > :last-child {
+    padding-bottom: 0.5rem;
+    margin-bottom: 0;
+  }
+
+  .callout.callout-titled .callout-icon::before {
+    margin-top: .5rem;
+    padding-right: .5rem;
+  }
+
+  .callout:not(.callout-titled) .callout-icon::before {
+    margin-top: 1rem;
+    padding-right: .5rem;
+  }
+
+  /* Callout Types */
+
+  div.callout-note {
+    border-left-color: #4582ec !important;
+  }
+
+  div.callout-note .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEU0lEQVRYCcVXTWhcVRQ+586kSUMMxkyaElstCto2SIhitS5Ek8xUKV2poatCcVHtUlFQk8mbaaziwpWgglJwVaquitBOfhQXFlqlzSJpFSpIYyXNjBNiTCck7x2/8/LeNDOZxDuEkgOXe++553zfefee+/OYLOXFk3+1LLrRdiO81yNqZ6K9cG0P3MeFaMIQjXssE8Z1JzLO9ls20MBZX7oG8w9GxB0goaPrW5aNMp1yOZIa7Wv6o2ykpLtmAPs/vrG14Z+6d4jpbSKuhdcSyq9wGMPXjonwmESXrriLzFGOdDBLB8Y6MNYBu0dRokSygMA/mrun8MGFN3behm6VVAwg4WR3i6FvYK1T7MHo9BK7ydH+1uurECoouk5MPRyVSBrBHMYwVobG2aOXM07sWrn5qgB60rc6mcwIDJtQrnrEr44kmy+UO9r0u9O5/YbkS9juQckLed3DyW2XV/qWBBB3ptvI8EUY3I9p/67OW+g967TNr3Sotn3IuVlfMLVnsBwH4fsnebJvyGm5GeIUA3jljERmrv49SizPYuq+z7c2H/jlGC+Ghhupn/hcapqmcudB9jwJ/3jvnvu6vu5lVzF1fXyZuZZ7U8nRmVzytvT+H3kilYvH09mLWrQdwFSsFEsxFVs5fK7A0g8gMZjbif4ACpKbjv7gNGaD8bUrlk8x+KRflttr22JEMRUbTUwwDQScyzPgedQHZT0xnx7ujw2jfVfExwYHwOsDTjLdJ2ebmeQIlJ7neo41s/DrsL3kl+W2lWvAga0tR3zueGr6GL78M3ifH0rGXrBC2aAR8uYcIA5gwV8zIE8onoh8u0Fca/ciF7j1uOzEnqcIm59sEXoGc0+z6+H45V1CvAvHcD7THztu669cnp+L0okAeIc6zjbM/24LgGM1gZk7jnRu1aQWoU9sfUOuhrmtaPIO3YY1KLLWZaEO5TKUbMY5zx8W9UJ6elpLwKXbsaZ4EFl7B4bMtDv0iRipKoDQT2sNQI9b1utXFdYisi+wzZ/ri/1m7QfDgEuvgUUEIJPq3DhX/5DWNqIXDOweC2wvIR90Oq3lDpdMIgD2r0dXvGdsEW5H6x6HLRJYU7C69VefO1x8Gde1ZFSJLfWS1jbCnhtOPxmpfv2LXOA2Xk2tvnwKKPFuZ/oRmwBwqRQDcKNeVQkYcOjtWVBuM/JuYw5b6isojIkYxyYAFn5K7ZBF10fea52y8QltAg6jnMqNHFBmGkQ1j+U43HMi2xMar1Nv0zGsf1s8nUsmUtPOOrbFIR8bHFDMB5zL13Gmr/kGlCkUzedTzzmzsaJXhYawnA3UmARpiYj5ooJZiUoxFRtK3X6pgNPv+IZVPcnwbOl6f+aBaO1CNvPW9n9LmCp01nuSaTRF2YxHqZ8DYQT6WsXT+RD6eUztwYLZ8rM+rcPxamv1VQzFUkzFXvkiVrySGQgJNvXHJAxiU3/NwiC03rSf05VBaPtu/Z7/B8Yn/w7eguloAAAAAElFTkSuQmCC');
+  }
+
+  div.callout-note.callout-style-default .callout-title {
+    background-color: #dae6fb
+  }
+
+  div.callout-important {
+    border-left-color: #d9534f !important;
+  }
+
+  div.callout-important .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAEKklEQVRYCcVXTWhcVRS+575MJym48A+hSRFr00ySRQhURRfd2HYjk2SSTokuBCkU2o0LoSKKraKIBTcuFCoidGFD08nkBzdREbpQ1EDNIv8qSGMFUboImMSZd4/f9zJv8ibJMC8xJQfO3HPPPef7zrvvvnvviIkpC9nsw0UttFunbUhpFzFtarSd6WJkStVMw5xyVqYTvkwfzuf/5FgtkVoB0729j1rjXwThS7Vio+Mo6DNnvLfahoZ+i/o32lULuJ3NNiz7q6+pyAUkJaFF6JwaM2lUJlV0MlnQn5aTRbEu0SEqHUa0A4AdiGuB1kFXRfVyg5d87+Dg4DL6m2TLAub60ilj7A1Ec4odSAc8X95sHh7+ZRPCFo6Fnp7HfU/fBng/hi10CjCnWnJjsxvDNxWw0NfV6Rv5GgP3I3jGWXumdTD/3cbEOP2ZbOZp69yniG3FQ9z1jD7bnBu9Fc2tKGC2q+uAJOQHBDRiZX1x36o7fWBs7J9ownbtO+n0/qWkvW7UPIfc37WgT6ZGR++EOJyeQDSb9UB+DZ1G6DdLDzyS+b/kBCYGsYgJbSQHuThGKRcw5xdeQf8YdNHsc6ePXrlSYMBuSIAFTGAtQo+VuALo4BX83N190NWZWbynBjhOHsmNfFWLeL6v+ynsA58zDvvAC8j5PkbOcXCMg2PZFk3q8MjI7WAG/Dp9AwP7jdGBOOQkAvlFUB+irtm16I1Zw9YBcpGTGXYmk3kQIC/Cds55l+iMI3jqhjAuaoe+am2Jw5GT3Nbz3CkE12NavmzN5+erJW7046n/CH1RO/RVa8lBLozXk9uqykkGAyRXLWlLv5jyp4RFsG5vGVzpDLnIjTWgnRy2Rr+tDKvRc7Y8AyZq10jj8DqXdnIRNtFZb+t/ZRtXcDiVnzpqx8mPcDWxgARUqx0W1QB9MeUZiNrV4qP+Ehc+BpNgATsTX8ozYKL2NtFYAHc84fG7ndxUPr+AR/iQSns7uSUufAymwDOb2+NjK27lEFocm/EE2WpyIy/Hi66MWuMKJn8RvxIcj87IM5Vh9663ziW36kR0HNenXuxmfaD8JC7tfKbrhFr7LiZCrMjrzTeGx+PmkosrkNzW94ObzwocJ7A1HokLolY+AvkTiD/q1H0cN48c5EL8Crkttsa/AXQVDmutfyku0E7jShx49XqV3MFK8IryDhYVbj7Sj2P2eBxwcXoe8T8idsKKPRcnZw1b+slFTubwUwhktrfnAt7J++jwQtLZcm3sr9LQrjRzz6cfMv9aLvgmnAGvpoaGLxM4mAEaLV7iAzQ3oU0IvD5x9ix3yF2RAAuYAOO2f7PEFWCXZ4C9Pb2UsgDeVnFSpbFK7/IWu7TPTvBqzbGdCHOJQSxiEjt6IyZmxQyEJHv6xyQsYk//moVFsN2zP6fRImjfq7/n/wFDguUQFNEwugAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-important.callout-style-default .callout-title {
+    background-color: #f7dddc
+  }
+
+  div.callout-warning {
+    border-left-color: #f0ad4e !important;
+  }
+
+  div.callout-warning .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAAETklEQVRYCeVWW2gcVRg+58yaTUnizqbipZeX4uWhBEniBaoUX1Ioze52t7sRq6APio9V9MEaoWlVsFasRq0gltaAPuxms8lu0gcviE/FFOstVbSIxgcv6SU7EZqmdc7v9+9mJtNks51NTUH84ed889/PP+cmxP+d5FIbMJmNbpREu4WUkiTtCicKny0l1pIKmBzovF2S+hIJHX8iEu3hZJ5lNZGqyRrGSIQpq15AzF28jgpeY6yk6GVdrfFqdrD6Iw+QlB8g0YS2g7dyQmXM/IDhBhT0UCiRf59lfqmmDvzRt6kByV/m4JjtzuaujMUM2c5Z2d6JdKrRb3K2q6mA+oYVz8JnDdKPmmNthzkAk/lN63sYPgevrguc72aZX/L9C6x09GYyxBgCX4NlvyGUHOKELlm5rXeR1kchuChJt4SSwyddZRXgvwMGvYo4QSlk3/zkHD8UHxwVJA6zjZZqP8v8kK8OWLnIZtLyCAJagYC4rTGW/9Pqj92N/c+LUaAj27movwbi19tk/whRCIE7Q9vyI6yvRpftAKVTdUjOW40X3h5OXsKCdmFcx0xlLJoSuQngnrJe7Kcjm4OMq9FlC7CMmScQANuNvjfP3PjGXDBaUQmbp296S5L4DrpbrHN1T87ZVEZVCzg1FF0Ft+dKrlLukI+/c9ENo+TvlTDbYFvuKPtQ9+l052rXrgKoWkDAFnvh0wTOmYn8R5f4k/jN/fZiCM1tQx9jQQ4ANhqG4hiL0qIFTGViG9DKB7GYzgubnpofgYRwO+DFjh0Zin2m4b/97EDkXkc+f6xYAPX0KK2I/7fUQuwzuwo/L3AkcjugPNixC8cHf0FyPjWlItmLxWw4Ou9YsQCr5fijMGoD/zpdRy95HRysyXA74MWOnscpO4j2y3HAVisw85hX5+AFBRSHt4ShfLFkIMXTqyKFc46xdzQM6XbAi702a7sy04J0+feReMFKp5q9esYLCqAZYw/k14E/xcLLsFElaornTuJB0svMuJINy8xkIYuL+xPAlWRceH6+HX7THJ0djLUom46zREu7tTkxwmf/FdOZ/sh6Q8qvEAiHpm4PJ4a/doJe0gH1t+aHRgCzOvBvJedEK5OFE5jpm4AGP2a8Dxe3gGJ/pAutug9Gp6he92CsSsWBaEcxGx0FHytmIpuqGkOpldqNYQK8cSoXvd+xLxXADw0kf6UkJNFtdo5MOgaLjiQOQHcn+A6h5NuL2s0qsC2LOM75PcF3yr5STuBSAcGG+meA14K/CI21HcS4LBT6tv0QAh8Dr5l93AhZzG5ZJ4VxAqdZUEl9z7WJ4aN+svMvwHHL21UKTd1mqvChH7/Za5xzXBBKrUcB0TQ+Ulgkfbi/H/YT5EptrGzsEK7tR1B7ln9BBwckYfMiuSqklSznIuoIIOM42MQO+QnduCoFCI0bpkzjCjddHPN/F+2Yu+sd9bKNpVwHhbS3LluK/0zgfwD0xYI5dXuzlQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-warning.callout-style-default .callout-title {
+    background-color: #fcefdc
+  }
+
+  div.callout-tip {
+    border-left-color: #02b875 !important;
+  }
+
+  div.callout-tip .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAADr0lEQVRYCe1XTWgTQRj9ZjZV8a9SPIkKgj8I1bMHsUWrqYLVg4Ue6v9BwZOxSYsIerFao7UiUryIqJcqgtpimhbBXoSCVxUFe9CTiogUrUp2Pt+3aUI2u5vdNh4dmMzOzHvvezuz8xNFM0mjnbXaNu1MvFWRXkXEyE6aYOYJpdW4IXuA4r0fo8qqSMDBU0v1HJUgVieAXxzCsdE/YJTdFcVIZQNMyhruOMJKXYFoLfIfIvVIMWdsrd+Rpd86ZmyzzjJmLStqRn0v8lzkb4rVIXvnpScOJuAn2ACC65FkPzEdEy4TPWRLJ2h7z4cArXzzaOdKlbOvKKX25Wl00jSnrwVxAg3o4dRxhO13RBSdNvH0xSARv3adTXbBdTf64IWO2vH0LT+cv4GR1DJt+DUItaQogeBX/chhbTBxEiZ6gftlDNXTrvT7co4ub5A6gp9HIcHvzTa46OS5fBeP87Qm0fQkr4FsYgVQ7Qg+ZayaDg9jhg1GkWj8RG6lkeSacrrHgDaxdoBiZPg+NXV/KifMuB6//JmYH4CntVEHy/keA6x4h4CU5oFy8GzrBS18cLJMXcljAKB6INjWsRcuZBWVaS3GDrqB7rdapVIeA+isQ57Eev9eCqzqOa81CY05VLd6SamW2wA2H3SiTbnbSxmzfp7WtKZkqy4mdyAlGx7ennghYf8voqp9cLSgKdqNfa6RdRsAAkPwRuJZNbpByn+RrJi1RXTwdi8RQF6ymDwGMAtZ6TVE+4uoKh+MYkcLsT0Hk8eAienbiGdjJHZTpmNjlbFJNKDVAp2fJlYju6IreQxQ08UJDNYdoLSl6AadO+fFuCQqVMB1NJwPm69T04Wv5WhfcWyfXQB+wXRs1pt+nCknRa0LVzSA/2B+a9+zQJadb7IyyV24YAxKp2Jqs3emZTuNnKxsah+uabKbMk7CbTgJx/zIgQYErIeTKRQ9yD9wxVof5YolPHqaWo7TD6tJlh7jQnK5z2n3+fGdggIOx2kaa2YI9QWarc5Ce1ipNWMKeSG4DysFF52KBmTNMmn5HqCFkwy34rDg05gDwgH3bBi+sgFhN/e8QvRn8kbamCOhgrZ9GJhFDgfcMHzFb6BAtjKpFhzTjwv1KCVuxHvCbsSiEz4CANnj84cwHdFXAbAOJ4LTSAawGWFn5tDhLMYz6nWeU2wJfIhmIJBefcd/A5FWQWGgrWzyORZ3Q6HuV+Jf0Bj+BTX69fm1zWgK7By1YTXchFDORywnfQ7GpzOo6S+qECrsx2ifVQAAAABJRU5ErkJggg==');
+  }
+
+  div.callout-tip.callout-style-default .callout-title {
+    background-color: #ccf1e3
+  }
+
+  div.callout-caution {
+    border-left-color: #fd7e14 !important;
+  }
+
+  div.callout-caution .callout-icon::before {
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAIKADAAQAAAABAAAAIAAAAACshmLzAAACV0lEQVRYCdVWzWoUQRCuqp2ICBLJXgITZL1EfQDBW/bkzUMUD7klD+ATSHBEfAIfQO+iXsWDxJsHL96EHAwhgzlkg8nBg25XWb0zIb0zs9muYYWkoKeru+vn664fBqElyZNuyh167NXJ8Ut8McjbmEraKHkd7uAnAFku+VWdb3reSmRV8PKSLfZ0Gjn3a6Xlcq9YGb6tADjn+lUfTXtVmaZ1KwBIvFI11rRXlWlatwIAAv2asaa9mlB9wwygiDX26qaw1yYPzFXg2N1GgG0FMF8Oj+VIx7E/03lHx8UhvYyNZLN7BwSPgekXXLribw7w5/c8EF+DBK5idvDVYtEEwMeYefjjLAdEyQ3M9nfOkgnPTEkYU+sxMq0BxNR6jExrAI31H1rzvLEfRIdgcv1XEdj6QTQAS2wtstEALLG1yEZ3QhH6oDX7ExBSFEkFINXH98NTrme5IOaaA7kIfiu2L8A3qhH9zRbukdCqdsA98TdElyeMe5BI8Rs2xHRIsoTSSVFfCFCWGPn9XHb4cdobRIWABNf0add9jakDjQJpJ1bTXOJXnnRXHRf+dNL1ZV1MBRCXhMbaHqGI1JkKIL7+i8uffuP6wVQAzO7+qVEbF6NbS0LJureYcWXUUhH66nLR5rYmva+2tjRFtojkM2aD76HEGAD3tPtKM309FJg5j/K682ywcWJ3PASCcycH/22u+Bh7Aa0ehM2Fu4z0SAE81HF9RkB21c5bEn4Dzw+/qNOyXr3DCTQDMBOdhi4nAgiFDGCinIa2owCEChUwD8qzd03PG+qdW/4fDzjUMcE1ZpIAAAAASUVORK5CYII=');
+  }
+
+  div.callout-caution.callout-style-default .callout-title {
+    background-color: #ffe5d0
+  }
+
+  </style>
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Robotic Esophagectomy</h1>
+
+<div class="quarto-title-authors">
+</div>
+
+</section>
+<section>
+<section id="introduction" class="title-slide slide level1 center">
+<h1>Introduction</h1>
+<p>Grimminger P P, Hadzijusufovic E, Babic B, Van Der Sluis P C, Lang H. Innovative fully robotic 4-arm Ivor Lewis esophagectomy for esophageal cancer (RAMIE4). Dis Esophagus 2020; 33: doz015. doi: 10.1093/dote/doz015.</p>
+</section>
+<section id="ivor-lewis-techniques" class="slide level2">
+<h2>Ivor Lewis Techniques</h2>
+<p>German group <span class="citation" data-cites="egberts1485">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>egberts1485?</strong></a>)</span></p>
+</section>
+<section id="circular-stapled-anastomosis" class="slide level2">
+<h2>Circular Stapled Anastomosis</h2>
+<p>German Group <span class="citation" data-cites="egberts1">(<a href="#/robot-vs-open" role="doc-biblioref" onclick="">Egberts et al., 2017</a>)</span></p>
+<p>An 8-mm da Vinci port (which serves as arm 2 (R2)) is placed in the midline slightly above or at the umbilicus. Arm 3 (da Vinci 8 mm, R3) is positioned on the left mid-clavicular line (MCL) at least 8 cm away from R2 on a straight line, followed by the fourth arm (da Vinci 8 mm, R4) as far left lateral from R3 as possible. Arm 1 (da Vinci 8 mm, R1) is placed on right MCL at least 8 cm away from R2. Depending on the use of the EndoWrist® stapler, either a da Vinci 13-mm port or a standard da Vinci 8-mm port is used (if laparoscopic stapling is through a 12-mm assistant port). A 12-mm assistant port is triangulated midway inferior between R3 and R4. If a laparoscopic stapler is used, R1 (da Vinci 8 mm) is placed as lateral as possible on the right, 2–3 cm superior to the arm 2 port and at least 8 cm away from a 12-mm assistant port (A) used for the laparoscopic stapling. The assistant port (A) is then moved to the location of R1 (Fig. 3a). For liver retraction (LR), a 5-mm port is placed either subcostally on the right MCL (retraction with a laparoscopic grasper) or subxiphiodal for a Nathanson retractor</p>
+<p>Thoracic Phase Single lung ventilation is induced and moderate CO2 insufflation of ~ 8 mmHg is applied, creating the surgical workspace in the thorax. The ports are placed as follows: R4 (da Vinci 8 mm port) in the 4th intercostal space (ICS), 1 cm medial to the scapula; R3 (da Vinci 8 mm port) in the 6th ICS, slightly more medial than port 4; R2 (da Vinci 8 mm port) in the 8th ICS at the same level as port 4; R1 (da Vinci 13 mm port) on the scapular line or slightly posterior in the 10th ICS. A 6–10cm spacing is maintained between ports. This port is used for the EndoWrist® Stapler (if a laparoscopic stapler is used, a da Vinci 8-mm port is adequate). There are two recommended options for the assistant port (12 mm (A)) location, depending on surgeon’s preference for the introduction of the circular stapler to construct the oesophagogastrostomy. (A)1 is in the 9th ICS, triangulated between R1 and R2; this would be the site for specimen removal and entrance of circular stapler. Alternatively, (A)2 is triangulated between R3 and R4 in the 5th ICS. The assistant port might be enlarged to a minithoracotomy (~ 3–5 cm) with a size Bsmall^ or Bx-small^ Alexis Wound Retractor (Applied Medical, Rancho Santa Margarita, CA, USA) placed here. This would be the site for specimen removal and entrance of the circular stapler (Fig. 3b).</p>
+<p>Liver Retraction Utilising a method for static retraction allows all da Vinci instrument arms to be free for dynamic use and localised static retraction where necessary. There are two different options to retract the liver with a Bstatic system^: the placement of a long bariatric grasper through a 5-mm port in the right flank to lift up the right hepatic lobe (using locking bariatric grasper to Block^ grips on the right crus for static retraction of liver) or a Nathanson Liver Retractor (Cook Medical, Limerick, Ireland). Gastric and Distal Oesophagus Mobilisation The dissection begins by opening the gastro-hepatic ligament close to the liver and up to the right crus of the diaphragm, after evaluation of an aberrant left gastric artery. The common hepatic artery is identified, followed by lymph node dissection of its upper margin up to the celiac axis. The right gastric artery is preserved. The DII lymphadenectomy is then completed to the area of the coelic trunk and splenic and left gastric artery. The left gastric artery and the atrial coronary vein are ligated using a Large or Medium-Large Clip in R3. The gastric mobilisation follows a medial to lateral approach. The gastric fundus is lifted up with the forceps in the secondary arm on the right (R4) to expose the oesophageal hiatus, right and left crura, and the lesser sac. Care should be taken if a posterior gastric artery is encountered. The retro-gastric adhesions, as well as the short gastric arteries, can be dissected and ligated safely with the EndoWrist Vessel Sealer or Harmonic ACE. The hiatus is dissected and, if necessary, widened by severing the right crus of the diaphragm. By doing so, the oesophagus can be released circumferentially and mobilised high into the mediastinal cavity, which leads to a less challenging dissection of the greater gastric curvature and conservation of the right gastroepiploic arcade by fully dissecting the gastrocolic ligament. The fundus of the stomach is elevated with R4, while the bedside assistant elevates the stomach by lifting the antrum. The large curvature of the stomach is mobilised by dissecting the gastrocolic ligament from caudal to cranial, preserving the right gastroepiploic vascular arcade. Gastric Tube Construction The construction of the gastric tube starts at the pyloric antrum. A stomach tube on the site of the greater curvature (5 cm diameter) is formed. To approximate the diameter of the gastric tube, either the Cadiere Forceps (grasping tip length 20 mm) or the Tip-Up Fenestrated Grasper (grasping tip length 32 mm) can be held up against the gastric conduit. The stomach is carefully elongated with the EndoWrist instruments. The stomach tube is only partially created in the abdominal cavity. For this, the stomach is stapled using only 3–5 45- or 60-mm stapler magazines to create the initial part of the tube, with a remnant stomach left to subsequently introduce the circular stapler (Fig. 4a). Surgical Steps, Thoracic Phase Dissection of the Oesophagus Depending on the location of the tumour, the dissection usually removes all tissues superiorly along the pericardium from the level of the hiatus and inferior vena cava to the carina, lower trachea and right main bronchus, posteriorly along the length of the thoracic aorta, and laterally along the pleural surfaces. Therefore, the dissection plane is according to the described meso-oesophagus—defined by the adventitia of the aorta, mediastinal pleura with view of the ventilated left lung, and the pericardium.9 If the dissection level cannot be kept clear due to the assumed tumour extension or preoperative neoadjuvant therapy, an extension of the resection level is possible with removal of the mediastinal pleura and/or pericardium. The oesophagus is transected slightly above the level of the usually ligated azygos vein with a linear stapler and is then cranially separated from it with scissors so that a frozen section can be obtained from the oral resection. Stomach Pull-up This manoeuvre should be done with extreme caution due to the risk of damaging the fragile gastric tube. The patient-side assistant should support the pull-up with laparoscopic graspers. Special attention is given to not twisting it by keeping the gastroepiploic arcade dorsally. The stomach is pulled into the thorax through the extended hiatus until the area of the unfinished gastric tube at the remnant stomach is comfortably located in the middle of the right thoracic cavity. This ensures that the maximum available length of the stomach tube is utilized Circular Stapled Anastomosis The circular stapler anvil (a 28/29-mm sized circular stapler device with a long handle is recommended) is inserted transthoracically through the Alexis wound retractor into the oesophageal stump and secured with a purse-string suture constructed, for example, using a StratafixTM Spiral® PDS 3-0, SH needle, 15 cm length or Prolene 2/0 (Fig. 5a). The intact minor gastric curvature of the transected specimen is brought out of the chest through the mini-thoracotomy. The circular stapler handle is then introduced into the stomach conduit via an incision in the minor curvature (Fig. 4b), and the best position for the anastomosis near the greater curvature of the conduit is chosen. The camera might be positioned in Trocar 1 for this manoeuvre to have a superior overview. The perfusion of the gastric conduit can also be checked again for confirmation with indocyanine green (Fig. 5b, c). The gastric conduit is then straightened by the assistant and stapled to the oesophageal stump. Next, a bougie is inserted past the anastomosis into the gastric conduit, to prevent narrowing of the proximal conduit during the subsequent specimen transection. The remaining gastric part with the oesophageal specimen attached is transected with a linear stapler (Figs. 4c and 5d) and removed through the mini-thoracotomy. In the case of a widely opened hiatus, a fixation suture can be applied to the hiatus to avoid possible herniation. Due to the mobility of the instruments, this is easily possible with the robot.</p>
+<p>Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018</p>
+<p>Mainz <span class="citation" data-cites="grimminger589">(<a href="#/robot-vs-open" role="doc-biblioref" onclick="">Grimminger et al., 2019</a>)</span></p>
+<p>30209678</p>
+<p>Pittsburgh <span class="citation" data-cites="okusanya116">(<a href="#/robot-vs-open" role="doc-biblioref" onclick="">Okusanya et al., 2017</a>)</span></p>
+<p>Esophagogastric anastomosis A running “baseball” purse string suture is placed at the esophageal orifice with 0 polypropylene suture on an SH needle (Prolene, Ethicon, USA). The robotic graspers hold the orifice of the proximal esophagus. and the 28 mm anvil of the extra-long end-to-end anastomotic (EEA) stapler is inserted (DST XL, Covidien, USA). An additional purse string suture is placed to reinforce this staple purse string suture. The EEA stapler is introduced through the access incision and is placed through a gastrostomy in the proximal conduit. The stapler spike is advanced out through the lateral wall of the conduit just above the level of the vascular arcade insertion. The stapler and anvil are docked ensuring flush apposition of the tissues and appropriate orientation. The stapler is fired and the anastomosis completed.</p>
+<p><span class="citation" data-cites="okusanya179">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>okusanya179?</strong></a>)</span></p>
+<p><span class="citation" data-cites="sarkaria211">(<a href="#/robot-vs-open" role="doc-biblioref" onclick="">Sarkaria and Rizk, 2014</a>)</span> Technique paper with videos</p>
+<p>Tampa <span class="citation" data-cites="pointer111">(<a href="#/robot-vs-open" role="doc-biblioref" onclick="">Pointer et al., 2022</a>)</span> Leak rate 16%. 30-day mortality 3%</p>
+<p>Technique: Amaral M, Pimiento J, Fontaine JP. Robotic esophagectomy: the Moffitt Cancer Center experience. Ann Cardiothorac Surg. 2017;6:186–189.</p>
+<p>Austria <span class="citation" data-cites="potscher469">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>potscher469?</strong></a>)</span> 33 cases</p>
+<p>In case of Ivor Lewis procedure, anastomosis can be performed with the EEATM OrVilTM device (end-to-side anastomosis) or a hand-sewn end-to-end anastomosis can be carried out. The resection specimen is removed through a minithoracotomy at the level of the 6th intercostal space, and Fig. 4 Left lateral decubitus position Fig. 5 Thoracic trocar placement through this minithoracotomy, it is also possible to create a video-assisted anastomosis. In both colorectal and thoracic surgery, we are using the FireflyTM fluorescence imaging as mentioned above. With the help of the system, we can control the blood circulation of the organ and this helps us to define the resection margin. Circulation is controlled before and after anastomosis has been performed. In one patient, we performed a hand-sewn (robot-sewn) end-to-end double-layer anastomosis with a continuous 3–0 V-LocTM suture. Anastomosis of the other ten patients was performed with the EEATM OrVilTM device (end-to-side anastomosis) with additional circular suturing of the anastomosis with a 3–0 V-LocTM.</p>
+</section>
+<section id="hand-sewn-anastomosis" class="slide level2">
+<h2>Hand-sewn Anastomosis</h2>
+<p>Italy <span class="citation" data-cites="huscher1034">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>huscher1034?</strong></a>)</span> 40 patients over 4 years</p>
+<p>All patients underwent a fast-track surgical protocol. The Da Vinci ® Si robotic system was positioned perpendicular to the patient’s right side and docked to the trocars. For the abdominal part of the procedure, the patient was positioned in a supine position. The four robotic trocars were placed in a horizontal line at or above the umbilicus (Fig. 1). In the abdomen, CO2 insufflation with 14 mmHg of pressure was used. Targeting to the stomach was performed. The surgical assistant was located on the left side of the table. A tip-up fenestrated grasper in trocar 1 was used to elevate the left lobe of the liver and for certain retraction movements during the abdominal part. The fenestrated bipolar forceps were used in the 12-mm trocar (no. 2) with a reduction cartridge, and later the 12-mm trocar was used for the robotic Endo Wrist ® stapler 45 mm to form the gastric conduit, beginning from the lesser curvature near the crow foot and continued towards the fundus, parallel to the greater curvature. After the abdominal dissection and creation of the conduit for reconstruction, Indocyanine Green (ICG) test was performed to evaluate adequate perfusion of the gastric conduit. For the thoracic part of the procedure (Fig. 2), the patient was positioned in a prone position (the operation table was tilted 19° towards the prone) and three robotic trocars and one laparoscopic trocar were inserted on the right chest. A single-lumen tube was used for intubation and the right lung was not deflated and disconnected from ventilation. In the chest, CO2 insufflation with 8 mmHg of pressure was enough to obtain an optimal working volume. The pulmonary ligament was divided. Hereafter, the parietal pleura was dissected at the anterior side of the esophagus from the diaphragm, up to the azygos vein. The azygos vein was ligated with Hem-o-lok and divided. At the posterior side of the esophagus, the parietal pleura is dissected cranially to caudally along the azygos vein, including the thoracic duct. The thoracic duct was clipped with a 10-mm endoclip. To facilitate esophagus mobilization, a Penrose drain was placed around the esophagus to manipulate the esophagus for further mobilization. The thoracic esophagus was mobilized and transected at the level of the azygos vein. The esophagus was resected en bloc with the surrounding mediastinal lymph nodes. The resected specimen will contain right-side paratracheal (station 2R), tracheobronchial (station 4), aortopulmonary window (station 5), carinal (station 7), and periesophageal (station 8) lymph nodes. The reconstruction time started with the anchoring of the gastric conduit to the esophageal stump with two 3–0 silk stay sutures. The conduit was opened on the anterior wall by the adoption of a monopolar hook. An end-to-side roboticsewn anastomosis was created by the adoption of two 3–0 running barbed sutures (V-loc – Medtronic, USA – Fig. 3).11, 12 After completion of the anterior wall, a nasogastric tube was passed through the half-completed anastomosis. Once the anastomosis was completed, 3–0 silk interrupted sutures were placed circumferentially to reinforce it (Fig. 4; Video). Before and after anastomosis fashioning, an ICG test was performed to evaluate adequate perfusion of conduit. In addition, the conduit cul-de-sac was suspended at the posterior thoracic wall by two stitches. The specimen was extracted through a small thoracotomy and a right-sided chest tube was placed. No postoperative swallow tests were performed. In the absence of clinical signs of anastomotic dehiscence (for example, luminal contents through the drain or wound site/local inflammation; fever (&gt; 38 °C) or leukocytosis (&gt; 10,000/L); leak may also be detected on imaging studies), patients started with sips of water at the day 3 and the oral intake was gradually increased to solid food. Enhanced recovery after surgery (ERAS) guidelines were used in the postoperative protocol.</p>
+<p>Leak rate 4/40 = 10%</p>
+<p>Stricture 10/40 = 25%</p>
+<p>Italy 30 patients <span class="citation" data-cites="marano941">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>marano941?</strong></a>)</span></p>
+<p>Single‐lung ventilation is introduced, and the patient is placed in the left lateral decubitus position, tilted 45° compared to the prone position. For both robotic systems, the cart is docked from the right side of the patient. In addition, three robotic ports are put in place as well as two thoracoscopic ports for the assistant. dV®SiTM port layout for this stage has previously been described [24]. It’s worthy of mention that an additional 5 mm port for the assistant is placed between the intercostal spaces (ICS) 6 and 10, along the posterior axillary line. Figure 2 shows the dV®XiTM trocar position (three-arms technique) in a slight U shape: robotic arm#1(R1) for the grasper or the bipolar forceps at the ICS 9, robotic arm#2 (R2) for the 30° down scope at the ICS 6, posterior to the posterior axillary line and robotic arm#3 (R3) for the monopolar cautery hook, the needle driver or the clip applier at the ICS 4, anterior to the scapular rim. Furthermore assistant port #1(A1, 12-mm) is located in the ILC 8, and assistant port #2 (A2, 5 mm) between R2 and R3 at the posterior axillary line. The targeting area is identified at the level of the Azygos arch. A 7–8 mmHg pneumothorax is then induced. Starting at the anterior side of the esophagus, the parietal pleura is cut from the level of the azygos arch down to the diaphragm where the pulmonary ligament is divided. The azygos arch is then sectioned with robotic Weck Hem-o-lok clips (Teleflex, Morrisville, NC, USA) and a right paratracheal lymphadenectomy is performed. Next, the dissection of the parietal pleura is deepened towards the esophageal hiatus until the aorta becomes exposed. Subsequently, the right vagus nerve is sectioned just below the carina, preserving its bronchial branches. The dissection of the esophagus is extended below the tracheal bifurcation and a Penrose drain is placed around the esophagus to facilitate traction.</p>
+<p>The dissection of the esophagus is then continued along the pericardium down to the diaphragm and the thoracic duct is clipped with robotic clips. The resection of the esophagus en-bloc with periesophageal, bronchial and subcarinal nodes (stations # 107–111) and the thoracic duct is fully completed from the diaphragm up to the azygos arch. The proximal esophagus is divided using a robotic cautery hook above the level of the azygos vein. At this point, the instruments in R1 and R3 are reversed to be able to carefully pull the esophago-gastric bloc and the gastric conduit up through the hiatus until the marker suture becomes visible. The specimen and conduit thus are disconnected, and the specimen is placed in a plastic bag which will be removed through the enlarged incision of the assistant port. Thereafter, four supportive 4-0 polyglactin 910 (Ethicon Inc.&nbsp;USA) stitches are put in between the mucosae and the muscularis externa layer of the esophagus at the four cardinal points to evert the esophageal mucosae. Next, the proximal esophagus is dilatated using a Foley catheter inflated with 10 cc of sterile water for approximately 2–3 min. After having assessed both gastric conduit and esophageal perfusion with ICG fluorescence, a gastrotomy is performed at the most proximal portion of the conduit, maintaining at least 2 cm of distance from the stapler line. A single-layer robot-sewn esophagogastric anastomosis is performed above the level of the azygos arch with two separate running self-locking barbed sutures (Filbloc® 3/0, Assut Europe, Italy or alternatively V-LocTM 3/0, Medtronic, USA) that run in the same direction from 3 to 9 o’clock. Of note is the fact that, after having applied the first stitch on the posterior wall we customarily pass the needle back below the first stitch to evert the posterior esophageal and gastric layer and improve their visualization. Once the posterior aspect of the anastomosis is complete, a NGT is placed under direct vision inside the stomach distally to the anastomosis, thus accomplishing the closure of anterior surface. Finally, a few tension release stitches are put in between the mediastinal pleura and seromuscular layer of the gastric tube. The anastomosis is checked for intraoperative leaks with methylene blue and a 28-Fr chest drain is inserted via the R1 robotic trocar, posteriorly to anastomosis, with the apex in the upper chest (Video).</p>
+<p>Stricture 8/30 = 27%</p>
+</section>
+<section id="triangular-stapler-anastomosis" class="slide level2">
+<h2>Triangular stapler Anastomosis</h2>
+<p>Turkey <span class="citation" data-cites="batirel844796">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>batirel844796?</strong></a>)</span> - 30% stricture rate</p>
+</section>
+<section id="rln-dissection-from-chest" class="slide level2">
+<h2>RLN dissection from chest</h2>
+<p><span class="citation" data-cites="chao">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>chao?</strong></a>)</span></p>
+</section>
+<section id="reviews" class="slide level2">
+<h2>Reviews</h2>
+<p>Lahey Clinic <span class="citation" data-cites="stock">(<a href="#/robot-vs-open" role="doc-biblioref" onclick=""><strong>stock?</strong></a>)</span></p>
+<p>NCDB: RMIE vs tMIE: 23% robotic. Similar 90-day mortality. RMIE had lower rate of positive margin and lower conversion to open <span class="citation" data-cites="ali6329">(<a href="#/robot-vs-open" role="doc-biblioref" onclick="">Ali et al., 2021</a>)</span></p>
+</section>
+<section id="robot-vs-open" class="slide level2 smaller scrollable">
+<h2>Robot vs Open</h2>
+<p>Randomized ROBOT trial Utrecht <span class="citation" data-cites="degrootdoaa079">(<a href="#/robot-vs-open" role="doc-biblioref" onclick="">Groot et al., 2020</a>)</span>. No difference in surviaval or recurrence Protocol: van der Sluis P C, Ruurda J P, van der Horst S et al.&nbsp;Robotassisted minimally invasive thoraco-laparoscopic esophagectomy versus open transthoracic esophagectomy for resectable esophageal cancer, a randomized controlled trial (ROBOT trial). Trials 2012; 13: 230. doi: 10.1186/1745-6215-13-230.</p>
+<p>Specimen Extraction via Abdomen</p>
+<p>Recurrence: Abate E, DeMeester S R, Zehetner J et al.&nbsp;Recurrence after esophagectomy for adenocarcinoma: defining optimal followup intervals and testing. J Am Coll Surg 2010; 210: 428–35. doi: 10.1016/j.jamcollsurg.2010.01.006. Oppedijk V, Van Der Gaast A, Van Lanschot J J B et al.&nbsp;Patterns of recurrence after surgery alone versus preoperative chemoradiotherapy and surgery in the CROSS trials. J Clin Oncol 2014; 32: 385–91. doi: 10.1200/JCO.2013.51.2186. Blackham A U, Syeda S M, Schell M J et al.&nbsp;Recurrence patterns and associated factors of locoregional failure following neoadjuvant chemoradiation and surgery for esophageal cancer. J Surg Oncol 2018; 117: 150–159. doi: 10.1002/jso.24808.</p>
+<p>MIRO trial - Hybrid vs Open</p>
+<p>Hand-sewn vs stapled esophageal anstomosis</p>
+<p>Kayani B, Garas G, Arshad M, Athanasiou T, Darzi A, Zacharakis E (2014) Is hand-sewn anastomosis superior to stapled anastomosis following oesophagectomy? Int J Surg 12(1):7–15</p>
+<p>11. Castro PMV, Ribeiro FPG, Rocha ADF, Mazzurana M, Alvarez GA (2014) Hand-sewn versus stapler esophagogastric anastomosis after esophageal ressection: sistematic review and meta-analysis. Arq Bras Cir Dig 27(3):216–221</p>
+<div id="" class="qrcode"></div>
+<script type="text/javascript">
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"width":128,"height":128,"colorDark":"#000000","text":"https://jmbuhr.de","colorLight":"#ffffff"});
+  script.remove();
+})();
+</script>
+    
+
+<div class="quarto-auto-generated-content">
+<div class="footer footer-default">
+
+</div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-ali6329" class="csl-entry" role="listitem">
+Ali, A.M., Bachman, K.C., Worrell, S.G., Gray, K.E., Perry, Y., Linden, P.A., Towe, C.W., 2021. Robotic minimally invasive esophagectomy provides superior surgical resection. Surgical Endoscopy 35, 6329–6334. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/33174098">33174098</a>
+</div>
+<div id="ref-egberts1" class="csl-entry" role="listitem">
+Egberts, J.-H., Stein, H., Aselmann, H., Hendricks, A., Becker, T., 2017. Fully robotic da <span>Vinci</span> <span>Ivor</span>-<span>Lewis</span> esophagectomy in four-arm technique-problems and solutions. Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus 30, 1–9. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/28881889">28881889</a>
+</div>
+<div id="ref-grimminger589" class="csl-entry" role="listitem">
+Grimminger, P.P., Tagkalos, E., Hadzijusufovic, E., Corvinus, F., Babic, B., Lang, H., 2019. Change from <span>Hybrid</span> to <span>Fully</span> <span>Minimally</span> <span>Invasive</span> and <span>Robotic</span> <span>Esophagectomy</span> is <span>Possible</span> without <span>Compromises</span>. The Thoracic and Cardiovascular Surgeon 67, 589–596. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/30216947">30216947</a>
+</div>
+<div id="ref-degrootdoaa079" class="csl-entry" role="listitem">
+Groot, E.M. de, Horst, S. van der, Kingma, B.F., Goense, L., Sluis, P.C. van der, Ruurda, J.P., Hillegersberg, R. van, 2020. Robot-assisted minimally invasive thoracolaparoscopic esophagectomy versus open esophagectomy: Long-term follow-up of a randomized clinical trial. Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus 33, doaa079. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/33241302">33241302</a>
+</div>
+<div id="ref-okusanya116" class="csl-entry" role="listitem">
+Okusanya, O.T., Hess, N.R., Luketich, J.D., Sarkaria, I.S., 2017. <a href="https://doi.org/10.21037/jovs.2017.06.09">Technique of robotic assisted minimally invasive esophagectomy (RAMIE)</a>. Journal of Visualized Surgery 3, 116.
+</div>
+<div id="ref-pointer111" class="csl-entry" role="listitem">
+Pointer, D.T., Saeed, S., Naffouje, S.A., Mehta, R., Hoffe, S.E., Dineen, S.P., Fleming, J.B., Fontaine, J.P., Pimiento, J.M., 2022. Outcomes of 350 <span>Robotic</span>-assisted <span>Esophagectomies</span> at a <span>High</span>-volume <span>Cancer</span> <span>Center</span>: <span>A</span> <span>Contemporary</span> <span>Propensity</span>-score <span>Matched</span> <span>Analysis</span>. Annals of Surgery 276, 111–118. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/33201093">33201093</a>
+</div>
+<div id="ref-sarkaria211" class="csl-entry" role="listitem">
+Sarkaria, I.S., Rizk, N.P., 2014. <a href="https://doi.org/10.1016/j.thorsurg.2014.02.010">Robotic-assisted minimally invasive esophagectomy: the Ivor Lewis approach</a>. Thoracic Surgery Clinics 24, 211–222, vii.
+</div>
+</div>
+</section></section>
+    </div>
+  </div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: false,
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1050,
+
+        height: 700,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
+        }
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
+        }
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
+      });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("https:\/\/gisurgonc\.github\.io\/talks\/");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
+    
+
+</body></html>
