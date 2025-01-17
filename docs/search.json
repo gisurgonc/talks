@@ -2797,7 +2797,7 @@
     "href": "robotic_mie.htm#corkscrew-mie---conduit",
     "title": "Robotic MIE Strategy",
     "section": "Corkscrew MIE - Conduit",
-    "text": "Corkscrew MIE - Conduit\n\nExtracorporeal construction enable more stretch on staple line\nPushing conduit from abdomen maximized cephalad movement\nExtracorporeal construction minimizes risk of positive distal margin"
+    "text": "Corkscrew MIE - Conduit\n\nExtracorporeal construction \\(\\rightarrow\\) stretch on staple line\nPushing conduit from abdomen \\(\\rightarrow\\) \\(\\uparrow\\) cephalad movement\nExtracorporeal construction \\(\\rightarrow\\) \\(\\downarrow\\) positive distal margin"
   },
   {
     "objectID": "robotic_mie.htm#corkscrew-mie---outcomes",
@@ -2832,28 +2832,28 @@
     "href": "robotic_mie.htm#robotic-mie---problems",
     "title": "Robotic MIE Strategy",
     "section": "Robotic MIE - Problems",
-    "text": "Robotic MIE - Problems\nConduit construction\n\nCan we create a conduit of equivalent length?\n\nAnastomosis\n\nWill hand-sewn anastomosis be as robust as stapled anastomosis?\n\nLeak Rate\nStricture rate\n\n\nMediastinal dissection\n\nSome evidence that airway injuries are more common"
+    "text": "Robotic MIE - Problems\nConduit construction\n\nCan we create a conduit of equivalent length?\n\nAnastomosis\n\nWill hand-sewn anastomosis be equivalent to stapled?\n\nLeak Rate\nStricture rate\n\n\nMediastinal dissection\n\nSome evidence that airway injuries are more common"
   },
   {
     "objectID": "robotic_mie.htm#robotic-mie---implementation",
     "href": "robotic_mie.htm#robotic-mie---implementation",
     "title": "Robotic MIE Strategy",
     "section": "Robotic MIE - Implementation",
-    "text": "Robotic MIE - Implementation\n\nAccess to robot time\nSafety of mediastinal dissection\nPort placement for dissection and stapler may be different"
+    "text": "Robotic MIE - Implementation\n\nAccess to robot time\nSafety of mediastinal dissection\n\nPersonnel/Expertise\n\nPort placement for dissection and stapler may be different"
   },
   {
     "objectID": "robotic_mie.htm#robotic-vs-laparoscopic-esophagectomy",
     "href": "robotic_mie.htm#robotic-vs-laparoscopic-esophagectomy",
     "title": "Robotic MIE Strategy",
     "section": "Robotic vs Laparoscopic Esophagectomy",
-    "text": "Robotic vs Laparoscopic Esophagectomy\nCan we collect data to prove the superiority or equivalence?\nUse of leak as primary endpoint will likely require a large cohort"
+    "text": "Robotic vs Laparoscopic Esophagectomy\nCan we collect data to prove the superiority or equivalence?\nLeak as primary endpoint would require a large cohort"
   },
   {
     "objectID": "robotic_mie.htm#robotic-vs-laparoscoic-esophagectomy",
     "href": "robotic_mie.htm#robotic-vs-laparoscoic-esophagectomy",
     "title": "Robotic MIE Strategy",
     "section": "Robotic vs Laparoscoic Esophagectomy",
-    "text": "Robotic vs Laparoscoic Esophagectomy\nCan we measure intermediate endpoints for conduit quality?\n“No fly zone”: suture at most cephalad extent of doppler signal\nConduit quality via ICG/Spy\nTissue oximitry (experimental)"
+    "text": "Robotic vs Laparoscoic Esophagectomy\nCan we measure intermediate endpoints for conduit quality?\n\n“No fly zone”: suture at most cephalad extent of doppler signal\nConduit quality via ICG/Spy\nTissue oximitry (experimental)"
   },
   {
     "objectID": "robotic_mie.htm#robotic-vs-laparoscopic-esophagectomy-1",
@@ -2874,7 +2874,7 @@
     "href": "robotic_mie.htm#robotic-mie---hybrid-a",
     "title": "Robotic MIE Strategy",
     "section": "Robotic MIE - Hybrid A",
-    "text": "Robotic MIE - Hybrid A\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - use 27mm stapler with pursestring (Luketich)"
+    "text": "Robotic MIE - Hybrid A\n\n\nRobotic abdomen \\(\\rightarrow\\) extracorporeal construct/stuff conduit\nRobotic chest phase - use 25mm stapler with pursestring (Nguyen)"
   },
   {
     "objectID": "robotic_mie.htm#robotic-mie---hybrid-a-1",
@@ -2888,7 +2888,7 @@
     "href": "robotic_mie.htm#robotic-mie---hybrid-b",
     "title": "Robotic MIE Strategy",
     "section": "Robotic MIE - Hybrid B",
-    "text": "Robotic MIE - Hybrid B\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - hand-sewn anastomosis"
+    "text": "Robotic MIE - Hybrid B\n\n\nRobotic abdomen \\(\\rightarrow\\) extracorporeal construct/stuff conduit\nRobotic chest phase - use 27mm stapler with pursestring (Luketich)"
   },
   {
     "objectID": "robotic_mie.htm#robotic-mie---metrics",
@@ -2902,7 +2902,7 @@
     "href": "robotic_mie.htm#personnel",
     "title": "Robotic MIE Strategy",
     "section": "Personnel",
-    "text": "Personnel\nThoracic Surgery\n\nJeff Hagen\nMike Roach\nMark Mitchell\n\nNo current thoracic surgery residency"
+    "text": "Personnel\nThoracic Surgery\nBariatric/MIE\nSurgical Oncology"
   },
   {
     "objectID": "robotic_mie.htm#one-stage-esophagectomy",
@@ -2965,7 +2965,7 @@
     "href": "robotic_mie.htm#abdominal-phase-i",
     "title": "Robotic MIE Strategy",
     "section": "Abdominal Phase I",
-    "text": "Abdominal Phase I\n\nStomach mobilized\nLeft gastric arter divided\nHiatus dissected\nEsophagus looped with Penrose\ntranshiatal drain placed in left pleura"
+    "text": "Abdominal Phase I\n\nStomach mobilized\nLeft gastric artery divided\nHiatus dissected\nEsophagus looped with Penrose\ntranshiatal drain placed in left pleura"
   },
   {
     "objectID": "robotic_mie.htm#chest-phase-i",
@@ -3001,5 +3001,40 @@
     "title": "Robotic MIE Strategy",
     "section": "Chest Phase II",
     "text": "Chest Phase II\n\n\nAnastomosis completed"
+  },
+  {
+    "objectID": "robotic_mie.htm#one-stage-mie",
+    "href": "robotic_mie.htm#one-stage-mie",
+    "title": "Robotic MIE Strategy",
+    "section": "One Stage MIE",
+    "text": "One Stage MIE\nCorkscrew position enables sequential abdomen \\(\\leftrightarrow\\) chest\n\nAbdomen I: mobilize distal esophagus\nChest I: Divide esophagus in chest\nAbdomen II: Extracorporeal conduit \\(\\rightarrow\\) stuff conduit\nChest II: Construct anastomosis"
+  },
+  {
+    "objectID": "robotic_mie.htm#one-stage-mie-1",
+    "href": "robotic_mie.htm#one-stage-mie-1",
+    "title": "Robotic MIE Strategy",
+    "section": "One Stage MIE",
+    "text": "One Stage MIE\nAllows simultaneous access to abdomen and chest in one prep\nDivide esophagus in chest \\(\\rightarrow\\) extra-corporeal construction of conduit \\(\\rightarrow\\) Anastomosis\nExtracorporeal construction of conduit:\n\nLess risk of positive distal margin\nLonger conduit (stretch during construction)"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---hybrid-c",
+    "href": "robotic_mie.htm#robotic-mie---hybrid-c",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Hybrid C",
+    "text": "Robotic MIE - Hybrid C\n\n\nRobotic abdomen \\(\\rightarrow\\) extracorporeal construct/stuff conduit\nRobotic chest - Hand-sewn anastomosis"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---hybrid-d",
+    "href": "robotic_mie.htm#robotic-mie---hybrid-d",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Hybrid D",
+    "text": "Robotic MIE - Hybrid D\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - use 27mm stapler with pursestring (Luketich)"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---hybrid-e",
+    "href": "robotic_mie.htm#robotic-mie---hybrid-e",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Hybrid E",
+    "text": "Robotic MIE - Hybrid E\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - hand-sewn anastomosis"
   }
 ]
