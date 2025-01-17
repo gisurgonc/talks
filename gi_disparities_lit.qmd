@@ -38,6 +38,12 @@ Among 565 124 adult patients who underwent surgical resection of a gastrointesti
 
 ## Disparities in access to surgical care
 
+[@greenstein881] SEER:  1522 patients were included in the study. Blacks had worse esophageal-specific survival rates than whites (37% vs 60% 5-year survival; P \< .0001). Blacks were more likely to be diagnosed at a more advanced stage and to have squamous cell tumors, but were less likely to undergo surgery. In multivariate regression controlling for age, sex, marital status, histology, and tumor location, black race was associated with worse survival. When tumor status, surgery, and radiotherapy were added to the model, race was no longer significantly associated with survival.
+
+[@dong257] SEER-Medicare Matched patients with esophageal cancer. The absolute difference in 5-year survival between black patients (13.3%) and NHW patients (18.4%) was 5.1% (95% CI, 2.3%-7.7%; P = .001) in the demographics match. After we matched for presentation, the difference in 5-year survival was reduced to 2.3% (95% CI, 0.3%-4.8%), but remained statistically significant (P = .04). Additional matching of patients on treatment-related factors eliminated the racial difference in 5-year survival (P = .59). Among patients matched for disease presentation, only 10.8% of black patients underwent surgery, compared with 22.8% of NHW patients (P \< .001). **Histology,** tumor location, socioeconomic status, chemotherapy, and radiation therapy each were associated with the receipt of surgery. None of these factors, however, could explain the racial difference in the receipt of surgery.
+
+[@al-refaie81] Using the 2003-2008 National Inpatient Sample, we identified 59,841 patients who underwent cancer operations for lung, esophagus, and pancreas tumors. Logistic regression models were used to examine the impact of sociodemographic factors on receipt of complex cancer surgery at LVH. Overall, 38.4% received their cancer surgery at LVH. A *higher proportion of esophagectomies were performed at LVH (70.3%),* followed by pancreatectomy (38.2%) and lung resection (33.8%). Patients who were non-white, with non-private insurance, and had more comorbidities were all more likely to receive their cancer surgery at LVH (for all, p \< 0.05). Multivariate analyses continued to demonstrate that non-white race, insurance status, increased comorbidities, region, and nonelective admission predicted receipt of cancer surgery at LVH across all 3 procedures.
+
 Review of social disparities in treatment of esophageal cancer [@delman3801]
 
 [@dimick1046] Black patients more likely to undergo surgery at low-quality hospitals
@@ -67,3 +73,9 @@ PMID 24866483
 Body composition and gastric cancer
 
 PMID 34774016
+
+## Disparities in Radiation therapy
+
+[@merkow357] NDCB- chemoradiation receipt for esophageal cancer: factors associated with the decreased use of neoadjuvant therapy for stage II and III disease were age ≥75 years, Medicare insurance coverage, Charlson score ≥2, stage II (vs. III) disease, and geographic region.
+
+[@mcclelland523] Decreased access to RT for Black patients
