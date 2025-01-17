@@ -2993,7 +2993,7 @@
     "href": "robotic_mie.htm#abdominal-phase-ii-2",
     "title": "Robotic MIE Strategy",
     "section": "Abdominal Phase II",
-    "text": "Abdominal Phase II\n\n\n\nStomach exteriorized\nPyloromyotomy\nConduit constructed"
+    "text": "Abdominal Phase II\n\n\n\nStomach exteriorized\nPyloromyotomy\nConduit constructed\nConduit pushed into mediastinum"
   },
   {
     "objectID": "robotic_mie.htm#chest-phase-ii",
@@ -3036,5 +3036,54 @@
     "title": "Robotic MIE Strategy",
     "section": "Robotic MIE - Hybrid E",
     "text": "Robotic MIE - Hybrid E\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - hand-sewn anastomosis"
+  },
+  {
+    "objectID": "robotic_mie.htm#one-stage-mie---conduit",
+    "href": "robotic_mie.htm#one-stage-mie---conduit",
+    "title": "Robotic MIE Strategy",
+    "section": "One Stage MIE - Conduit",
+    "text": "One Stage MIE - Conduit\n\nExtracorporeal construction \\(\\rightarrow\\) stretch on staple line\nPushing conduit from abdomen \\(\\rightarrow\\) \\(\\uparrow\\) cephalad movement\nExtracorporeal construction \\(\\rightarrow\\) \\(\\downarrow\\) positive distal margin"
+  },
+  {
+    "objectID": "robotic_mie.htm#one-stage-mie---outcomes",
+    "href": "robotic_mie.htm#one-stage-mie---outcomes",
+    "title": "Robotic MIE Strategy",
+    "section": "One Stage MIE - Outcomes",
+    "text": "One Stage MIE - Outcomes\n\nMedian LOS 8 days\n90-day mortality 6%\nAnastomotic leak 8%\nConduit necrosis 0%"
+  },
+  {
+    "objectID": "robotic_mie.htm#one-stage-mie---problems",
+    "href": "robotic_mie.htm#one-stage-mie---problems",
+    "title": "Robotic MIE Strategy",
+    "section": "One Stage MIE - Problems",
+    "text": "One Stage MIE - Problems\n\nTrainee education - very difficult to teach\nRisk of hernia at handport site (2-5%)\nAnastomotic stricture 20%"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-vs-lapvats-esophagectomy",
+    "href": "robotic_mie.htm#robotic-vs-lapvats-esophagectomy",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic vs Lap/VATS Esophagectomy",
+    "text": "Robotic vs Lap/VATS Esophagectomy\nCan we collect data to prove the superiority or equivalence?\nLeak as primary endpoint would require a large cohort"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-vs-lapvats-esophagectomy-1",
+    "href": "robotic_mie.htm#robotic-vs-lapvats-esophagectomy-1",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic vs Lap/VATS Esophagectomy",
+    "text": "Robotic vs Lap/VATS Esophagectomy\nCan we measure intermediate endpoints for conduit quality?\n\n“No fly” suture at most cephalad extent of doppler signal\nConduit quality via ICG/Spy\nTissue oximitry (experimental)"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-vs-lapvats-esophagectomy-2",
+    "href": "robotic_mie.htm#robotic-vs-lapvats-esophagectomy-2",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic vs Lap/VATS Esophagectomy",
+    "text": "Robotic vs Lap/VATS Esophagectomy\n\nMeasure cephalad transposition of stomach\n\nClip at pylorus\nClip at right crus\n\nMeasure reach of well-vascularized stomach\n\n“No fly zone” relative to azygous vein\n\nWould only work for laparoscopic cases\n\n\nDirectly measure perfusion of conduit relative to a fixed anatomic thoracic structure (such as azygous vein)"
+  },
+  {
+    "objectID": "robotic_mie.htm#patient-selection",
+    "href": "robotic_mie.htm#patient-selection",
+    "title": "Robotic MIE Strategy",
+    "section": "Patient Selection",
+    "text": "Patient Selection\n\nLow (distal) tumors\nAvoid tumor near carina\nAvoid bulky tumors at GE junction"
   }
 ]

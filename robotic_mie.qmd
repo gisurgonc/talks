@@ -150,13 +150,13 @@ Anastomosis completed
 :::
 :::::
 
-## Corkscrew MIE - Conduit
+## One Stage MIE - Conduit
 
 - Extracorporeal construction $\rightarrow$ stretch on staple line
 - Pushing conduit from abdomen $\rightarrow$ $\uparrow$ cephalad movement
 - Extracorporeal construction $\rightarrow$ $\downarrow$  positive distal margin
 
-## Corkscrew MIE - Outcomes
+## One Stage MIE - Outcomes
 
 - Median LOS 8 days
 - 90-day mortality 6%
@@ -164,7 +164,7 @@ Anastomosis completed
 - Conduit necrosis 0%
 
 
-## Corkscrew MIE - Problems
+## One Stage MIE - Problems
 
 - Trainee education - very difficult to teach
 - Risk of hernia at handport site (2-5%)
@@ -209,23 +209,23 @@ Mediastinal dissection
 - Port placement for dissection and stapler may be different
 
 
-## Robotic vs Laparoscopic Esophagectomy
+## Robotic vs Lap/VATS Esophagectomy
 
 Can we collect data to prove the superiority or equivalence?
 
 Leak as primary endpoint would require a *large* cohort
 
-## Robotic vs Laparoscoic Esophagectomy
+## Robotic vs Lap/VATS Esophagectomy
 
 Can we measure intermediate endpoints for conduit quality?
 
-- "No fly zone": suture at most cephalad extent of doppler signal
+- "No fly" suture at most cephalad extent of doppler signal
 
 - Conduit quality via ICG/Spy
 
 - Tissue oximitry (experimental)
 
-## Robotic vs Laparoscopic Esophagectomy
+## Robotic vs Lap/VATS Esophagectomy
 
 - Measure cephalad transposition of stomach
   - Clip at pylorus
@@ -352,7 +352,7 @@ Surgical Oncology
 
 
 
-# Patient Selection
+## Patient Selection
 
 - Low (distal) tumors
 - Avoid tumor near carina
@@ -392,7 +392,6 @@ The esophagus is divided approximately 2–3 centimeters above the azygos vein, 
 
 [Video](https://www.asvide.com/articles/1677)
 
-## Robotic MIE with stapled anastomosis
 
 
 
