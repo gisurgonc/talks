@@ -2777,5 +2777,229 @@
     "title": "One Stage Esophagectomy",
     "section": "Chest Phase II",
     "text": "Chest Phase II\n\n\nConduit constructed\n\n\n\n :::"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie",
+    "href": "robotic_mie.htm#robotic-mie",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE",
+    "text": "Robotic MIE\n\n\nGoals\n\nResident education\nReduce risk of anastomotic stricture\nNo expectation of improvement in length of stay or complications"
+  },
+  {
+    "objectID": "robotic_mie.htm#corkscrew-mie",
+    "href": "robotic_mie.htm#corkscrew-mie",
+    "title": "Robotic MIE Strategy",
+    "section": "“Corkscrew” MIE",
+    "text": "“Corkscrew” MIE\n\nCorkscrew position enables sequential abdomen \\(\\leftrightarrow\\) chest\nAbdomen I: mobilize distal esophagus\nChest I: Divide esophagus in chest\nAbdomen II: Extracorporeal conduit \\(\\rightarrow\\) stuff conduit\nChest II: Construct anastomosis"
+  },
+  {
+    "objectID": "robotic_mie.htm#corkscrew-mie---conduit",
+    "href": "robotic_mie.htm#corkscrew-mie---conduit",
+    "title": "Robotic MIE Strategy",
+    "section": "Corkscrew MIE - Conduit",
+    "text": "Corkscrew MIE - Conduit\n\nExtracorporeal construction enable more stretch on staple line\nPushing conduit from abdomen maximized cephalad movement\nExtracorporeal construction minimizes risk of positive distal margin"
+  },
+  {
+    "objectID": "robotic_mie.htm#corkscrew-mie---outcomes",
+    "href": "robotic_mie.htm#corkscrew-mie---outcomes",
+    "title": "Robotic MIE Strategy",
+    "section": "Corkscrew MIE - Outcomes",
+    "text": "Corkscrew MIE - Outcomes\n\nMedian LOS 8 days\n90-day mortality 6%\nAnastomotic leak 8%\nConduit necrosis 0%"
+  },
+  {
+    "objectID": "robotic_mie.htm#corkscrew-mie---problems",
+    "href": "robotic_mie.htm#corkscrew-mie---problems",
+    "title": "Robotic MIE Strategy",
+    "section": "Corkscrew MIE - Problems",
+    "text": "Corkscrew MIE - Problems\n\nTrainee education - very difficult to teach\nRisk of hernia at handport site (2-5%)\nAnastomotic stricture 20%"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---expectations",
+    "href": "robotic_mie.htm#robotic-mie---expectations",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Expectations",
+    "text": "Robotic MIE - Expectations\n\nFacilitate trainee education\n\nSurgical Oncology Fellowship?\n\nReduce rate of anastomotic stricture\nFacilitate lymph nodes harvest"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---unrealistic-expectations",
+    "href": "robotic_mie.htm#robotic-mie---unrealistic-expectations",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Unrealistic Expectations",
+    "text": "Robotic MIE - Unrealistic Expectations\n\nImprovement in mortality\nReduction in length of stay\nReduction in anastomotic leak rate"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---problems",
+    "href": "robotic_mie.htm#robotic-mie---problems",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Problems",
+    "text": "Robotic MIE - Problems\nConduit construction\n\nCan we create a conduit of equivalent length?\n\nAnastomosis\n\nWill hand-sewn anastomosis be as robust as stapled anastomosis?\n\nLeak Rate\nStricture rate\n\n\nMediastinal dissection\n\nSome evidence that airway injuries are more common"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---implementation",
+    "href": "robotic_mie.htm#robotic-mie---implementation",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Implementation",
+    "text": "Robotic MIE - Implementation\n\nAccess to robot time\nSafety of mediastinal dissection\nPort placement for dissection and stapler may be different"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-vs-laparoscopic-esophagectomy",
+    "href": "robotic_mie.htm#robotic-vs-laparoscopic-esophagectomy",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic vs Laparoscopic Esophagectomy",
+    "text": "Robotic vs Laparoscopic Esophagectomy\nCan we collect data to prove the superiority or equivalence?\nUse of leak as primary endpoint will likely require a large cohort"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-vs-laparoscoic-esophagectomy",
+    "href": "robotic_mie.htm#robotic-vs-laparoscoic-esophagectomy",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic vs Laparoscoic Esophagectomy",
+    "text": "Robotic vs Laparoscoic Esophagectomy\nCan we measure intermediate endpoints for conduit quality?\n“No fly zone”: suture at most cephalad extent of doppler signal\nConduit quality via ICG/Spy\nTissue oximitry (experimental)"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-vs-laparoscopic-esophagectomy-1",
+    "href": "robotic_mie.htm#robotic-vs-laparoscopic-esophagectomy-1",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic vs Laparoscopic Esophagectomy",
+    "text": "Robotic vs Laparoscopic Esophagectomy\n\nMeasure cephalad transposition of stomach\n\nClip at pylorus\nClip at right crus\n\nMeasure reach of well-vascularized stomach\n\n“No fly zone” relative to azygous vein\n\nWould only work for laparoscopic cases\n\n\nDirectly measure perfusion of conduit relative to a fixed anatomic thoracic structure (such as azygous vein)"
+  },
+  {
+    "objectID": "robotic_mie.htm#implementation-approaches",
+    "href": "robotic_mie.htm#implementation-approaches",
+    "title": "Robotic MIE Strategy",
+    "section": "Implementation Approaches",
+    "text": "Implementation Approaches\nHow could we safely explore utility of robotic esophagectomy?"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---hybrid-a",
+    "href": "robotic_mie.htm#robotic-mie---hybrid-a",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Hybrid A",
+    "text": "Robotic MIE - Hybrid A\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - use 27mm stapler with pursestring (Luketich)"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---hybrid-a-1",
+    "href": "robotic_mie.htm#robotic-mie---hybrid-a-1",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Hybrid A",
+    "text": "Robotic MIE - Hybrid A\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - use 27mm stapler with pursestring (Luketich)"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---hybrid-b",
+    "href": "robotic_mie.htm#robotic-mie---hybrid-b",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Hybrid B",
+    "text": "Robotic MIE - Hybrid B\n\n\nRobotic abdominal phase - construct conduit intracorporeal\nRobotic chest phase - hand-sewn anastomosis"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---metrics",
+    "href": "robotic_mie.htm#robotic-mie---metrics",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Metrics",
+    "text": "Robotic MIE - Metrics\n\nOperative experience of residents\nAnastomotic leak\nAnastomotic stricture\n\nWhether dilated or not\nHow many dilations\n\nComplications\n\nAirway injury"
+  },
+  {
+    "objectID": "robotic_mie.htm#personnel",
+    "href": "robotic_mie.htm#personnel",
+    "title": "Robotic MIE Strategy",
+    "section": "Personnel",
+    "text": "Personnel\nThoracic Surgery\n\nJeff Hagen\nMike Roach\nMark Mitchell\n\nNo current thoracic surgery residency"
+  },
+  {
+    "objectID": "robotic_mie.htm#one-stage-esophagectomy",
+    "href": "robotic_mie.htm#one-stage-esophagectomy",
+    "title": "Robotic MIE Strategy",
+    "section": "One Stage Esophagectomy",
+    "text": "One Stage Esophagectomy\nLink"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---pittsburgh-1",
+    "href": "robotic_mie.htm#robotic-mie---pittsburgh-1",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Pittsburgh 1",
+    "text": "Robotic MIE - Pittsburgh 1\nA midline 8 mm robotic port is placed at the level of the umbilicus. Three more 8 mm ports are placed in left and right mid clavicular line and at the left costal margins. A 5-mm non-robotic port is placed at the right costal margin through which a liver retractor is placed. A robotic bipolar forceps are used in the right midclavicular port, ultrasonic shears in the left midclavicular port and an atraumatic grasper in the leftmost costal port. An assistant 12 mm non-robotic port is placed in the right para umbilical position, as well as a second 5 mm assistant port further lateral in the same para umbilical line. [@okusanya179] [@okusanya116]"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---pittsburgh-2",
+    "href": "robotic_mie.htm#robotic-mie---pittsburgh-2",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Pittsburgh 2",
+    "text": "Robotic MIE - Pittsburgh 2\nThe dissection is generally begun with division of the lesser omentum, initial assessment and mobilization of the crura and esophageal hiatus, and exposure of the left gastric vascular pedicle. Complete celiac axis lymphadenectomy is performed. The left gastric and short gastric vessels are divided and the gastroepiploic arcade preserved in its entirety during gastric mobilization. Near infrared fluorescence imaging with indocyanine green may be utilized to clearly identify and preserve the gastroepiploic arcade to its termination point.\nIn the setting of previous induction chemoradiation therapy, an omental flap based off of 2–3 omental perforating arteries may be harvested for later reinforcement of the gastroesophageal anastomosis.\nComplete gastric mobilization from the hiatus to the pylorus is performed. The gastric conduit is created with sequential applications of the endogastrointestinal stapler. The conduit is secured to the specimen for later traverse into the chest in proper orientation. The omental flap, if created, should be secured to the tip of the conduit to simplify transit into the chest as well."
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---pittsburgh-3",
+    "href": "robotic_mie.htm#robotic-mie---pittsburgh-3",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Pittsburgh 3",
+    "text": "Robotic MIE - Pittsburgh 3\nA pyloroplasty is routinely performed in the majority of cases. The pylorus is open longitudinally with the ultrasonic shears and closed transversely with robotic suturing using interrupted sutures in a Heinicke-Mickulicz fashion. A feeding jejunostomy is placed and the abdominal portion concluded. The specimen is secured to the conduit and the abdominal portion is concluded."
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---pittsburgh-4",
+    "href": "robotic_mie.htm#robotic-mie---pittsburgh-4",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Pittsburgh 4",
+    "text": "Robotic MIE - Pittsburgh 4\nThe patient is placed left lateral decubitus. CO2 insufflation is initiated with an entry needle just below the tip of the scapula. Eight mm robotic ports are placed at the eighth intercostal space at the posterior axillary line, the third intercostal space in the mid to posterior axillary, fifth intercostal place into the mid axillary line, and at the ninth intercostal space approximately in line with the tip of the scapula. An assistant non-robotic port is placed at the site of the diaphragmatic insertion. Complete circumferential esophageal mobilization is performed from the level of the hiatus to the azygous vein with careful attention to harvest all periesophageal lymph node bearing tissues en bloc with the specimen. During dissection of the subcarinal lymph node packet, great care must be taken to avoid energy associated thermal injury to the membranous wall of the airways. Judicious use of both bipolar energy sources and non-energy dependent sharp and blunt dissection, and clear visualization and exposure of the dependent anatomy are critical to avoid these injuries which may result in esophageal/conduit airway fistulas. Additional mobilization of the esophagus towards the thoracic inlet is completed with careful attention to avoid traction or direct injury to the recurrent laryngeal nerve. The conduit is delivered into the chest and sutured to the diaphragm. The caudal to cranial deep dissection along the contralateral pleura and left mainstem bronchus is completed with lateral retraction of the specimen once divided from the conduit."
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie---pittsburgh-5",
+    "href": "robotic_mie.htm#robotic-mie---pittsburgh-5",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE - Pittsburgh 5",
+    "text": "Robotic MIE - Pittsburgh 5\nThe esophagus is divided approximately 2–3 centimeters above the azygos vein, although more proximal division may be performed dependent on the margins necessary. A 4–5 cm access incision in made through the operator’s “left” hand robotic working port to deliver the specimen out of the chest. A robotically placed running “baseball” suture is placed around the opening of the divided proximal esophagus, and the anvil of the 28 mm end to end anastomotic (EEA) stapler is inserted and secured. An additional reinforcing superficial purse string suture is placed to ensure tissue apposition around the stem of the anvil during deployment of the stapler. The EEA stapler is introduced through a gastrotomy site created in the proximal conduit tip, and the spike brought out through the lateral wall of the conduit ideally just above the level of the vascular arcade insertion. The stapler is then docked to the anvil and fired, creating the anastomosis, and the redundant conduit resected. If an omental flap has been harvested, it is loosely secured around the newly created anastomosis at this time. A drain is left posterior to the conduit and a chest tube is left in the right pleural space.\nVideo"
+  },
+  {
+    "objectID": "robotic_mie.htm#robotic-mie-with-stapled-anastomosis",
+    "href": "robotic_mie.htm#robotic-mie-with-stapled-anastomosis",
+    "title": "Robotic MIE Strategy",
+    "section": "Robotic MIE with stapled anastomosis",
+    "text": "Robotic MIE with stapled anastomosis"
+  },
+  {
+    "objectID": "robotic_mie.htm#corkscrew-position---one-stage",
+    "href": "robotic_mie.htm#corkscrew-position---one-stage",
+    "title": "Robotic MIE Strategy",
+    "section": "“Corkscrew” position - One Stage",
+    "text": "“Corkscrew” position - One Stage\nAllows simultaneous access to abdomen and chest in one prep\nDivide esophagus in chest \\(\\rightarrow\\) extra-corporeal construction of conduit \\(\\rightarrow\\) Anastomosis\nExtracorporeal construction of conduit:\n\nLess risk of positive distal margin\nLonger conduit (stretch during construction)"
+  },
+  {
+    "objectID": "robotic_mie.htm#abdominal-phase-i",
+    "href": "robotic_mie.htm#abdominal-phase-i",
+    "title": "Robotic MIE Strategy",
+    "section": "Abdominal Phase I",
+    "text": "Abdominal Phase I\n\nStomach mobilized\nLeft gastric arter divided\nHiatus dissected\nEsophagus looped with Penrose\ntranshiatal drain placed in left pleura"
+  },
+  {
+    "objectID": "robotic_mie.htm#chest-phase-i",
+    "href": "robotic_mie.htm#chest-phase-i",
+    "title": "Robotic MIE Strategy",
+    "section": "Chest Phase I",
+    "text": "Chest Phase I\n\n\n\nEsophagus dissected from hiatus \\(\\rightarrow\\) cephalad\nEsophagus divided"
+  },
+  {
+    "objectID": "robotic_mie.htm#abdominal-phase-ii",
+    "href": "robotic_mie.htm#abdominal-phase-ii",
+    "title": "Robotic MIE Strategy",
+    "section": "Abdominal Phase II",
+    "text": "Abdominal Phase II\n\n\n\nStomach exteriorized\nPyloromyotomy\nConduit constructed"
+  },
+  {
+    "objectID": "robotic_mie.htm#abdominal-phase-ii-1",
+    "href": "robotic_mie.htm#abdominal-phase-ii-1",
+    "title": "Robotic MIE Strategy",
+    "section": "Abdominal Phase II",
+    "text": "Abdominal Phase II\n\n\n\nStomach exteriorized\nPyloromyotomy\nConduit constructed\n\nPlace stomach on stretch\nPalpate GE junction/lesser curvature"
+  },
+  {
+    "objectID": "robotic_mie.htm#abdominal-phase-ii-2",
+    "href": "robotic_mie.htm#abdominal-phase-ii-2",
+    "title": "Robotic MIE Strategy",
+    "section": "Abdominal Phase II",
+    "text": "Abdominal Phase II\n\n\n\nStomach exteriorized\nPyloromyotomy\nConduit constructed"
+  },
+  {
+    "objectID": "robotic_mie.htm#chest-phase-ii",
+    "href": "robotic_mie.htm#chest-phase-ii",
+    "title": "Robotic MIE Strategy",
+    "section": "Chest Phase II",
+    "text": "Chest Phase II\n\n\nAnastomosis completed"
   }
 ]
