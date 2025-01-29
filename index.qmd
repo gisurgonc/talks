@@ -10,11 +10,7 @@ title: "GI Surgical Oncology"
 
 [Esophageal Cancer Lecture](eso_ca_rx_talk.htm)
 
-[Rectal Cancer Lecture](rectal_slides.htm)
-
-[GI Stomal Tumor Lecture](gist_slides.htm)
-
-# Acute Care Surgery of the Cancer Patient
+# Acute Care Surgery of the GI Cancer Patient
 
 [Overview](acs_gicancer_lit.qmd)
 

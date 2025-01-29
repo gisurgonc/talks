@@ -7,10 +7,11 @@
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
   <meta name="generator" content="quarto-1.5.57">
 
-  <title>talks – Robotic MIE Strategy</title>
+  <title>talks – Esophageal Cancer Treatment</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -28,7 +29,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -325,361 +346,390 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Robotic MIE Strategy</h1>
+  <h1 class="title">Esophageal Cancer Treatment</h1>
 
 <div class="quarto-title-authors">
 </div>
 
 </section>
-<section id="robotic-mie" class="slide level2">
-<h2>Robotic MIE</h2>
+<section id="esophageal-cancer-treatment-categories" class="slide level2">
+<h2>Esophageal Cancer Treatment Categories</h2>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Category</th>
+<th style="text-align: center;">Stage</th>
+<th style="text-align: left;">Treatment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="#/dyplasia">Dyplasia</a></td>
+<td style="text-align: center;">Tis</td>
+<td style="text-align: left;">Radiofrequency Ablation</td>
+</tr>
+<tr class="even">
+<td><a href="#/superficial-tumors">Superficial Tumors</a></td>
+<td style="text-align: center;">T1a</td>
+<td style="text-align: left;">Endoscopic Therapy</td>
+</tr>
+<tr class="odd">
+<td><a href="#/localized-tumors">Localized Tumors</a></td>
+<td style="text-align: center;">T1b T2</td>
+<td style="text-align: left;">Surgery</td>
+</tr>
+<tr class="even">
+<td><a href="#/locally-advanced">Locally-advanced</a></td>
+<td style="text-align: center;">T3 or N<sup>+</sup></td>
+<td style="text-align: left;">ChemoRT → Surgery</td>
+</tr>
+<tr class="odd">
+<td><a href="#/metastatic">Metastatic</a></td>
+<td style="text-align: center;">M1</td>
+<td style="text-align: left;">Chemotherapy +/- Radiation</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="dyplasia" class="slide level2">
+<h2>Dyplasia</h2>
+<p>Radiofrequency Ablation for Dysplasia</p>
 <div class="columns">
-<div class="column" style="width:50%;">
-<p>Goals</p>
+<div class="column" style="width:60%;">
+<p>127 patients with dysplasia randomized:</p>
 <ul>
-<li><p>Resident education</p></li>
-<li><p>Reduce risk of anastomotic stricture</p></li>
-<li><p>No expectation of improvement in length of stay or complications</p></li>
+<li>Radio-frequency ablation</li>
+<li>Sham ablation</li>
 </ul>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_tumor.png"></p>
+<p>Low-grade dysplasia in 64</p>
+<p>High-grade dysplasia in 63</p>
+</div><div class="column" style="width:40%;">
+<p><img data-src="images/rfa_esophagus.png"> <img data-src="images/barxx.png" alt="Barxx"></p>
 </div></div>
-</section>
-<section id="one-stage-mie" class="slide level2">
-<h2>One Stage MIE</h2>
-<p>Corkscrew position enables sequential abdomen <span class="math inline">\(\leftrightarrow\)</span> chest</p>
-<ul>
-<li>Abdomen I: mobilize distal esophagus</li>
-<li>Chest I: Divide esophagus in chest</li>
-<li>Abdomen II: Extracorporeal conduit <span class="math inline">\(\rightarrow\)</span> stuff conduit</li>
-<li>Chest II: Construct anastomosis</li>
-</ul>
-</section>
-<section id="one-stage-mie-1" class="slide level2">
-<h2>One Stage MIE</h2>
-<p>Allows simultaneous access to abdomen and chest in one prep</p>
-<p>Divide esophagus in chest <span class="math inline">\(\rightarrow\)</span> extra-corporeal construction of conduit <span class="math inline">\(\rightarrow\)</span> Anastomosis</p>
-<p>Extracorporeal construction of conduit:</p>
-<ul>
-<li>Less risk of positive distal margin</li>
-<li>Longer conduit (stretch during construction)</li>
-</ul>
+
+<aside><div>
+<p><span class="citation" data-cites="shaheen2277">(<a href="#/references" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="radiofrequency-ablation-for-dysplasia" class="slide level2">
+<h2>Radiofrequency Ablation for Dysplasia</h2>
 <div class="columns">
-<div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/11605_2018_4063_Fig1_HTML.png"></p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/11605_2018_4063_Fig2_HTML.png"></p>
+<div class="column" style="width:30%;">
+<p>Radiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year</p>
+</div><div class="column" style="width:70%;">
+<p><img data-src="images/shaheen.png"></p>
 </div></div>
-</section>
-<section id="abdominal-phase-i" class="slide level2">
-<h2>Abdominal Phase I</h2>
+
+<aside><div>
+<p><span class="citation" data-cites="shaheen2277">(<a href="#/references" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="superficial-tumors" class="slide level2">
+<h2>Superficial Tumors</h2>
+<p>Workup of nodular Barretts:</p>
 <ul>
-<li>Stomach mobilized</li>
-<li>Left gastric artery divided</li>
-<li>Hiatus dissected</li>
-<li>Esophagus looped with Penrose</li>
-<li>transhiatal drain placed in left pleura</li>
-</ul>
-</section>
-<section id="chest-phase-i" class="slide level2">
-<h2>Chest Phase I</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
+<li>Endoscopic Ultrasound</li>
+<li>Endoscopic Mucosal Resection
 <ul>
-<li>Esophagus dissected from hiatus <span class="math inline">\(\rightarrow\)</span> cephalad</li>
-<li>Esophagus divided</li>
-</ul>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_thoracic_division.png"></p>
-</div></div>
-</section>
-<section id="abdominal-phase-ii" class="slide level2">
-<h2>Abdominal Phase II</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li>Stomach exteriorized</li>
-<li>Pyloromyotomy</li>
-<li>Conduit constructed</li>
-</ul>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal2.png"></p>
-</div></div>
-</section>
-<section id="abdominal-phase-ii-1" class="slide level2">
-<h2>Abdominal Phase II</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li>Stomach exteriorized</li>
-<li>Pyloromyotomy</li>
-<li>Conduit constructed
-<ul>
-<li>Place stomach on stretch</li>
-<li>Palpate GE junction/lesser curvature</li>
-</ul></li>
-</ul>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal3.png"></p>
-</div></div>
-</section>
-<section id="abdominal-phase-ii-2" class="slide level2">
-<h2>Abdominal Phase II</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<ul>
-<li>Stomach exteriorized</li>
-<li>Pyloromyotomy</li>
-<li>Conduit constructed</li>
-<li><strong>Conduit pushed into mediastinum</strong></li>
-</ul>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal4.png"></p>
-</div></div>
-</section>
-<section id="chest-phase-ii" class="slide level2">
-<h2>Chest Phase II</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>Anastomosis completed</p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_2Stage.png"></p>
-</div></div>
-</section>
-<section id="one-stage-mie---conduit" class="slide level2">
-<h2>One Stage MIE - Conduit</h2>
-<ul>
-<li>Extracorporeal construction <span class="math inline">\(\rightarrow\)</span> stretch on staple line</li>
-<li>Pushing conduit from abdomen <span class="math inline">\(\rightarrow\)</span> <span class="math inline">\(\uparrow\)</span> cephalad movement</li>
-<li>Extracorporeal construction <span class="math inline">\(\rightarrow\)</span> <span class="math inline">\(\downarrow\)</span> positive distal margin</li>
-</ul>
-</section>
-<section id="one-stage-mie---outcomes" class="slide level2">
-<h2>One Stage MIE - Outcomes</h2>
-<ul>
-<li>Median LOS 8 days</li>
-<li>90-day mortality 6%</li>
-<li>Anastomotic leak 8%</li>
-<li>Conduit necrosis 0%</li>
-</ul>
-</section>
-<section id="one-stage-mie---problems" class="slide level2">
-<h2>One Stage MIE - Problems</h2>
-<ul>
-<li>Trainee education - very difficult to teach</li>
-<li>Risk of hernia at handport site (2-5%)</li>
-<li>Anastomotic stricture 20%</li>
-</ul>
-</section>
-<section id="robotic-mie---expectations" class="slide level2">
-<h2>Robotic MIE - Expectations</h2>
-<ul>
-<li>Facilitate trainee education
-<ul>
-<li>Surgical Oncology Fellowship?</li>
-</ul></li>
-<li>Reduce rate of anastomotic stricture</li>
-<li>Facilitate lymph nodes harvest</li>
-</ul>
-</section>
-<section id="robotic-mie---unrealistic-expectations" class="slide level2">
-<h2>Robotic MIE - Unrealistic Expectations</h2>
-<ul>
-<li>Improvement in mortality</li>
-<li>Reduction in length of stay</li>
-<li>Reduction in anastomotic leak rate</li>
-</ul>
-</section>
-<section id="robotic-mie---problems" class="slide level2">
-<h2>Robotic MIE - Problems</h2>
-<p>Conduit construction</p>
-<ul>
-<li>Can we create a conduit of equivalent length?</li>
-</ul>
-<p>Anastomosis</p>
-<ul>
-<li>Will hand-sewn anastomosis be equivalent to stapled?
-<ul>
-<li>Leak Rate</li>
-<li>Stricture rate</li>
-</ul></li>
-</ul>
-<p>Mediastinal dissection</p>
-<ul>
-<li>Some evidence that airway injuries are more common</li>
-</ul>
-</section>
-<section id="robotic-mie---implementation" class="slide level2">
-<h2>Robotic MIE - Implementation</h2>
-<ul>
-<li>Access to robot time</li>
-<li>Safety of mediastinal dissection
-<ul>
-<li>Personnel/Expertise</li>
-</ul></li>
-<li>Port placement for dissection and stapler may be different</li>
-</ul>
-</section>
-<section id="robotic-vs-lapvats-esophagectomy" class="slide level2">
-<h2>Robotic vs Lap/VATS Esophagectomy</h2>
-<p>Can we collect data to prove the superiority or equivalence?</p>
-<p>Leak as primary endpoint would require a <em>large</em> cohort</p>
-</section>
-<section id="robotic-vs-lapvats-esophagectomy-1" class="slide level2">
-<h2>Robotic vs Lap/VATS Esophagectomy</h2>
-<p>Can we measure intermediate endpoints for conduit quality?</p>
-<ul>
-<li><p>“No fly” suture at most cephalad extent of doppler signal</p></li>
-<li><p>Conduit quality via ICG/Spy</p></li>
-<li><p>Tissue oximitry (experimental)</p></li>
-</ul>
-</section>
-<section id="robotic-vs-lapvats-esophagectomy-2" class="slide level2">
-<h2>Robotic vs Lap/VATS Esophagectomy</h2>
-<ul>
-<li>Measure cephalad transposition of stomach
-<ul>
-<li>Clip at pylorus</li>
-<li>Clip at right crus</li>
-</ul></li>
-<li>Measure reach of well-vascularized stomach
-<ul>
-<li>“No fly zone” relative to azygous vein
-<ul>
-<li>Would only work for laparoscopic cases</li>
-</ul></li>
-</ul></li>
-<li>Directly measure perfusion of conduit <em>relative to a fixed anatomic thoracic structure</em> (such as azygous vein)</li>
-</ul>
-</section>
-<section id="implementation-approaches" class="slide level2">
-<h2>Implementation Approaches</h2>
-<p>How could we safely explore utility of robotic esophagectomy?</p>
-</section>
-<section id="robotic-mie---hybrid-a" class="slide level2">
-<h2>Robotic MIE - Hybrid A</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>Robotic abdomen <span class="math inline">\(\rightarrow\)</span> extracorporeal construct/stuff conduit</p>
-<p>Robotic chest phase - use 25mm stapler with pursestring (Nguyen)</p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png"></p>
-</div></div>
-</section>
-<section id="robotic-mie---hybrid-b" class="slide level2">
-<h2>Robotic MIE - Hybrid B</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>Robotic abdomen <span class="math inline">\(\rightarrow\)</span> extracorporeal construct/stuff conduit</p>
-<p>Robotic chest phase - use 27mm stapler with pursestring (Luketich)</p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png"></p>
-</div></div>
-</section>
-<section id="robotic-mie---hybrid-c" class="slide level2">
-<h2>Robotic MIE - Hybrid C</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>Robotic abdomen <span class="math inline">\(\rightarrow\)</span> extracorporeal construct/stuff conduit</p>
-<p>Robotic chest - Hand-sewn anastomosis</p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png"></p>
-</div></div>
-</section>
-<section id="robotic-mie---hybrid-d" class="slide level2">
-<h2>Robotic MIE - Hybrid D</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>Robotic abdominal phase - construct conduit intracorporeal</p>
-<p>Robotic chest phase - use 27mm stapler with pursestring (Luketich)</p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png"></p>
-</div></div>
-</section>
-<section id="robotic-mie---hybrid-e" class="slide level2">
-<h2>Robotic MIE - Hybrid E</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<p>Robotic abdominal phase - construct conduit intracorporeal</p>
-<p>Robotic chest phase - hand-sewn anastomosis</p>
-</div><div class="column" style="width:50%;">
-<p><img data-src="https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png"></p>
-</div></div>
-</section>
-<section id="robotic-mie---metrics" class="slide level2">
-<h2>Robotic MIE - Metrics</h2>
-<ul>
-<li>Operative experience of residents</li>
-<li>Anastomotic leak</li>
-<li>Anastomotic stricture
-<ul>
-<li>Whether dilated or not</li>
-<li>How many dilations</li>
-</ul></li>
-<li>Complications
-<ul>
-<li>Airway injury</li>
+<li>Diagnostic (T staging)</li>
+<li>May be therapeutic for T1a tumors</li>
 </ul></li>
 </ul>
 </section>
-<section id="personnel" class="slide level2">
-<h2>Personnel</h2>
-<p>Thoracic Surgery</p>
-<p>Bariatric/MIE</p>
-<p>Surgical Oncology</p>
-</section>
-<section id="patient-selection" class="slide level2">
-<h2>Patient Selection</h2>
+<section id="endoscopic-musocal-resection" class="slide level2">
+<h2>Endoscopic Musocal Resection</h2>
+
+<img data-src="images/EMR.jpg" class="quarto-figure quarto-figure-right r-stretch"></section>
+<section id="localized-tumors" class="slide level2">
+<h2>Localized Tumors</h2>
+<p>Patients staged as uT2 N0 are candidates for primary surgery. <em>However:</em></p>
 <ul>
-<li>Low (distal) tumors</li>
-<li>Avoid tumor near carina</li>
-<li>Avoid bulky tumors at GE junction</li>
+<li>EUS has a 25% rate of understaging uT2 N0 tumors</li>
+<li>Understaged patients who undergo primary surgery would need chemo or chemoRT postop</li>
 </ul>
 </section>
-<section id="one-stage-esophagectomy" class="slide level2">
-<h2>One Stage Esophagectomy</h2>
-<p><a href="one_stage_mie.htm">Link</a></p>
+<section id="small-tumors-minimal-dysphagia" class="slide level2">
+<h2>Small Tumors (minimal dysphagia)</h2>
+<ul>
+<li>EUS to distinguish T2 from T3 tumors</li>
+<li>If uT2 N0 <span class="math inline">\(\rightarrow\)</span> CT chest/abdomen/pelvis <span class="math inline">\(\rightarrow\)</span> Esophagectomy</li>
+<li>If uT3 or N1 <span class="math inline">\(\rightarrow\)</span> PET <span class="math inline">\(\rightarrow\)</span> neoadjuvant therapy</li>
+</ul>
+<p>Patients with dysphagia almost always are T3 tumors (and don’t need EUS)</p>
 </section>
-<section id="robotic-mie---pittsburgh-1" class="slide level2">
-<h2>Robotic MIE - Pittsburgh 1</h2>
-<p>A midline 8 mm robotic port is placed at the level of the umbilicus. Three more 8 mm ports are placed in left and right mid clavicular line and at the left costal margins. A 5-mm non-robotic port is placed at the right costal margin through which a liver retractor is placed. A robotic bipolar forceps are used in the right midclavicular port, ultrasonic shears in the left midclavicular port and an atraumatic grasper in the leftmost costal port. An assistant 12 mm non-robotic port is placed in the right para umbilical position, as well as a second 5 mm assistant port further lateral in the same para umbilical line. <span class="citation" data-cites="okusanya179">[@okusanya179]</span> <span class="citation" data-cites="okusanya116">[@okusanya116]</span></p>
+<section id="symptomatic-tumors-dysphagia" class="slide level2">
+<h2>Symptomatic Tumors (Dysphagia)</h2>
+<p>Patients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with <a href="#/pet-scan">PET Scan</a></p>
+<ul>
+<li>Disease confined to the esophagus and regional nodes <span class="math inline">\(\rightarrow\)</span> <a href="#/locally-advanced">Locally-advanced</a></li>
+<li>Metastatic disease <span class="math inline">\(\rightarrow\)</span> <a href="#/metastatic">Metastatic</a></li>
+<li>N3 <span class="math inline">\(\rightarrow\)</span> induction chemotherapy followed by chemoradiation and surgical evaluation.</li>
+</ul>
 </section>
-<section id="robotic-mie---pittsburgh-2" class="slide level2">
-<h2>Robotic MIE - Pittsburgh 2</h2>
-<p>The dissection is generally begun with division of the lesser omentum, initial assessment and mobilization of the crura and esophageal hiatus, and exposure of the left gastric vascular pedicle. Complete celiac axis lymphadenectomy is performed. The left gastric and short gastric vessels are divided and the gastroepiploic arcade preserved in its entirety during gastric mobilization. Near infrared fluorescence imaging with indocyanine green may be utilized to clearly identify and preserve the gastroepiploic arcade to its termination point.</p>
-<p>In the setting of previous induction chemoradiation therapy, an omental flap based off of 2–3 omental perforating arteries may be harvested for later reinforcement of the gastroesophageal anastomosis.</p>
-<p>Complete gastric mobilization from the hiatus to the pylorus is performed. The gastric conduit is created with sequential applications of the endogastrointestinal stapler. The conduit is secured to the specimen for later traverse into the chest in proper orientation. The omental flap, if created, should be secured to the tip of the conduit to simplify transit into the chest as well.</p>
+<section id="eus-in-patients-with-dysphagia" class="slide level2">
+<h2>EUS in Patients with Dysphagia</h2>
+<p>Memorial Sloan Kettering<sup>1</sup> patients with esophageal cancer:</p>
+<ul>
+<li>61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.</li>
+<li>53 without dysphagia, 25 (47%) were uT1-2 <span class="math inline">\(\rightarrow\)</span> candidates for primary surgery.</li>
+</ul>
+<p>EUS can be omitted for patients with dysphagia, but is useful in patients <em>without</em> dysphagia.</p>
+<aside><ol class="aside-footnotes"><li id="fn1"><p><span class="citation" data-cites="ripley226">Ripley et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p></li></ol></aside></section>
+<section id="pet-scan" class="slide level2">
+<h2>PET Scan</h2>
+<p>PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis <sup>1</sup></p>
+<aside><ol class="aside-footnotes"><li id="fn2"><p><span class="citation" data-cites="block770">Block et al. (<a href="#/references" role="doc-biblioref" onclick="">1997</a>)</span></p></li></ol></aside></section>
+<section id="locally-advanced" class="slide level2">
+<h2>Locally-advanced</h2>
+<p>For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:</p>
+<ul>
+<li>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery (<a href="#/cross-trial">CROSS Trial</a>)</li>
+<li>Chemo <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemo (<a href="#/esopec-trial">EsoPEC Trial</a>)</li>
+</ul>
 </section>
-<section id="robotic-mie---pittsburgh-3" class="slide level2">
-<h2>Robotic MIE - Pittsburgh 3</h2>
-<p>A pyloroplasty is routinely performed in the majority of cases. The pylorus is open longitudinally with the ultrasonic shears and closed transversely with robotic suturing using interrupted sutures in a Heinicke-Mickulicz fashion. A feeding jejunostomy is placed and the abdominal portion concluded. The specimen is secured to the conduit and the abdominal portion is concluded.</p>
+<section id="cross-trial" class="slide level2">
+<h2>CROSS Trial</h2>
+<ul>
+<li>368 esophageal cancer patients randomized:
+<ul>
+<li>Surgery alone</li>
+<li>Chemo+RT <span class="math inline">\(\rightarrow\)</span> Surgery</li>
+</ul></li>
+<li>75% adenocarcinoma</li>
+<li>T3: 80%. T2: 17%</li>
+<li>age <span class="math inline">\(\tilde{x}\)</span>=60</li>
+<li>longer survival with Chemo+RT <span class="math inline">\(\rightarrow\)</span> Surgery</li>
+</ul>
+<p>CROSS Trial Details</p>
+<p>Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)</p>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="cross---overall-survival" class="slide level2">
+<h2>CROSS - Overall Survival</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="images/shapiro_1090_fig2a.png"></p>
+<figcaption>Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery</figcaption>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="cross---survival-by-histology" class="slide level2">
+<h2>CROSS - Survival by Histology</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="images/shapiro_1090_fig2b.png"></p>
+<figcaption>Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery</figcaption>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="cross---adenocarcinooma" class="slide level2">
+<h2>CROSS - Adenocarcinooma</h2>
+<p>Median survival 43mo vs 27mo</p>
+<p>Pathologic complete response in 23%</p>
 </section>
-<section id="robotic-mie---pittsburgh-4" class="slide level2">
-<h2>Robotic MIE - Pittsburgh 4</h2>
-<p>The patient is placed left lateral decubitus. CO2 insufflation is initiated with an entry needle just below the tip of the scapula. Eight mm robotic ports are placed at the eighth intercostal space at the posterior axillary line, the third intercostal space in the mid to posterior axillary, fifth intercostal place into the mid axillary line, and at the ninth intercostal space approximately in line with the tip of the scapula. An assistant non-robotic port is placed at the site of the diaphragmatic insertion. Complete circumferential esophageal mobilization is performed from the level of the hiatus to the azygous vein with careful attention to harvest all periesophageal lymph node bearing tissues en bloc with the specimen. During dissection of the subcarinal lymph node packet, great care must be taken to avoid energy associated thermal injury to the membranous wall of the airways. Judicious use of both bipolar energy sources and non-energy dependent sharp and blunt dissection, and clear visualization and exposure of the dependent anatomy are critical to avoid these injuries which may result in esophageal/conduit airway fistulas. Additional mobilization of the esophagus towards the thoracic inlet is completed with careful attention to avoid traction or direct injury to the recurrent laryngeal nerve. The conduit is delivered into the chest and sutured to the diaphragm. The caudal to cranial deep dissection along the contralateral pleura and left mainstem bronchus is completed with lateral retraction of the specimen once divided from the conduit.</p>
+<section id="cross---squamous-cell-carcinoma" class="slide level2">
+<h2>CROSS - Squamous cell carcinoma</h2>
+<p>Median survival 82mo vs 21mo</p>
+<p>Pathologic complete response in 40%</p>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="cross---sites-of-failure" class="slide level2">
+<h2>CROSS - Sites of Failure</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p>Sites of failure over time</p>
+<p>ChemoRT + Surgery <em>vs</em> Surgery</p>
+<p>ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure</p>
+</div><div class="column" style="width:70%;">
+<p><img data-src="images/eyck.png"></p>
+</div></div>
+
+<aside><div>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
+</div></aside></section>
+<section id="neoadjuvant-chemo-for-esoca" class="slide level2">
+<h2>Neoadjuvant Chemo for EsoCA</h2>
+<ul>
+<li>MAGIC trial (gastric): ECF<sup>1</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF <em>vs</em> Surgery<br>
+</li>
+<li>OEO2 Trial: (esophageal) Chemo<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> Chemo <em>vs</em> Surgery<br>
+</li>
+<li>FLOT (gastric): FLOT<sup>2</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> FLOT <em>vs</em> ECF<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF</li>
+<li>EsoPEC: (esophageal):FLOT<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>FLOT <em>vs</em> ChemoRT<span class="math inline">\(\rightarrow\)</span>Surgery (CROSS)</li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn3"><p>Epirubicin, Cisplatin, 5FU</p></li><li id="fn4"><p>5FU, Leuvocorin, Oxaliplatin, Decetaxol</p></li></ol></aside></section>
+<section id="oeo2-clinical-trial" class="slide level2">
+<h2>OEO2 Clinical Trial</h2>
+<ul>
+<li><p>802 Esophageal adenocarcinoma and squamous cell</p></li>
+<li><p>Randomized to Chemo <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemo <em>vs</em> Surgery alone</p></li>
+<li><p>Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)</p></li>
+<li><p>5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)</p></li>
+</ul>
+
+<aside><div>
+<p><span class="citation" data-cites="allum5062">(<a href="#/references" role="doc-biblioref" onclick="">Allum et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="neo-aegis-tral-cross-vs-magicflot" class="slide level2">
+<h2>Neo-Aegis Tral CROSS vs MAGIC/FLOT</h2>
+<ul>
+<li><p>Adenocarcinoma T2-3 N0-3 M0 Tumor length &lt;8cm</p></li>
+<li><p>ChemoRT arm: carboplatin + paclitaxel + 4140cGy</p></li>
+<li><p>Chemo arm: MAGIC (ECF) or FLOT (later in trial)</p></li>
+<li><p>No difference in overall survival</p></li>
+<li><p>R0 resection 96% with CROSS vs 82% with chemo</p></li>
+<li><p>pCR 12% with CROSS vs 4% with chemo</p></li>
+</ul>
+
+<aside><div>
+<p><span class="citation" data-cites="reynolds1015">(<a href="#/references" role="doc-biblioref" onclick=""><strong>reynolds1015?</strong></a>)</span></p>
+</div></aside></section>
+<section id="esopec-trial" class="slide level2">
+<h2>EsoPEC Trial</h2>
+<ul>
+<li><p>Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63 89% men</p></li>
+<li><p>Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438</p></li>
+<li><p>CROSS: carboplatin/paclitaxel + 4140cGy <span class="math inline">\(\rightarrow\)</span> Surgery</p></li>
+<li><p>FLOT: FLOT <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> FLOT</p></li>
+<li><p>Excluded:</p></li>
+<li><p>Squamous cell, gastric cancer, T1N0, T4b, M1</p></li>
+</ul>
 </section>
-<section id="robotic-mie---pittsburgh-5" class="slide level2">
-<h2>Robotic MIE - Pittsburgh 5</h2>
-<p>The esophagus is divided approximately 2–3 centimeters above the azygos vein, although more proximal division may be performed dependent on the margins necessary. A 4–5 cm access incision in made through the operator’s “left” hand robotic working port to deliver the specimen out of the chest. A robotically placed running “baseball” suture is placed around the opening of the divided proximal esophagus, and the anvil of the 28 mm end to end anastomotic (EEA) stapler is inserted and secured. An additional reinforcing superficial purse string suture is placed to ensure tissue apposition around the stem of the anvil during deployment of the stapler. The EEA stapler is introduced through a gastrotomy site created in the proximal conduit tip, and the spike brought out through the lateral wall of the conduit ideally just above the level of the vascular arcade insertion. The stapler is then docked to the anvil and fired, creating the anastomosis, and the redundant conduit resected. If an omental flap has been harvested, it is loosely secured around the newly created anastomosis at this time. A drain is left posterior to the conduit and a chest tube is left in the right pleural space.</p>
-<p><a href="https://www.asvide.com/articles/1677">Video</a></p>
+<section id="esopec-trial-results" class="slide level2">
+<h2>EsoPEC Trial Results</h2>
+<ul>
+<li><p>Surgery performed in 371/438 patients</p></li>
+<li><p>90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)</p></li>
+<li><p>Median survival 66mo in FLOT arm and 37mo in Cross arm</p></li>
+<li><p>3-year overall survival 57% FLOT vs 51% CROSS</p></li>
+<li><p>5-year overall survival 51% FLOT vs 29% CROSS</p></li>
+<li><p>pCR 17% for FLOT and 10% CROSS</p></li>
+</ul>
 </section>
-<section id="other-experience" class="slide level2">
-<h2>Other Experience</h2>
-<p>In 2013, other two series of studies from USA both presented that robotic-assisted esophagectomy is feasible and safe. Cerfolio et al from University of Alabama at Birmingham stated that robotic thoracic esophagectomy using ports only is feasible, safe, and affords R0 resection with thorough thoracic lymph node dissection.30 It also allows the sewing of a 2-layered chest anastomosis with good early results. de la Feunte et al from University of Central Florida published their initial experience of 50 elderly overweight patients undergoing robotic-assisted Ivor-Lewis esophagogastrectomy for oncologic purposes.31</p>
+<section id="adjuvant-immunotherapy-checkmate-577-trial" class="slide level2">
+<h2>Adjuvant Immunotherapy: Checkmate 577 Trial</h2>
+<p>Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery 4-16 weeks prior Residual pathologic disease</p>
+<p>Treatment Group: Nivolumab every 2 weeks x 4 months <span class="math inline">\(\rightarrow\)</span> every month x 8 months</p>
+
+<aside><div>
+<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
+</div></aside></section>
+<section id="nivolumab" class="slide level2">
+<h2>Nivolumab</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>PD-L1 agonist ligand</p>
+<p>Interferes with tumor cell down-regulation of T cells</p>
+<p>Active against stage IV esophageal cancer</p>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/nivo.png"></p>
+<figcaption>Nivolumab mechanism of action</figcaption>
+</figure>
+</div>
+</div></div>
 </section>
-<section id="reviews" class="slide level2">
-<h2>Reviews</h2>
-<p><span class="citation" data-cites="chan1">[@chan1]</span></p>
+<section id="chekmate-577-trial" class="slide level2">
+<h2>Chekmate 577 Trial</h2>
+<p>EsoCA patients who received ChemoRT<span class="math inline">\(\rightarrow\)</span> Surgery with residual disease (not pCR)</p>
+<p>Randomized to one year of immunotherapy (nivolumab) vs Observation</p>
+<p>Adjuvant nivolumab group had longer median survival: 22mo vs 11mo</p>
+
+<aside><div>
+<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
+</div></aside></section>
+<section id="checkmate-577-trial" class="slide level2">
+<h2>Checkmate 577 Trial</h2>
+<div class="quarto-figure quarto-figure-left">
+<figure>
+<p><img data-src="images/kelly_1191_fig3.png"></p>
+<figcaption>Adjuvant Nivolumab vs Observation</figcaption>
+</figure>
+</div>
+
+<aside><div>
+<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
+</div></aside></section>
+<section id="ffcd-9102-2007-bedenne" class="slide level2">
+<h2>FFCD 9102 2007 (Bedenne)</h2>
+<p>All patients received 4500cGy RT + 2 cycles of cisplatin + 5FU</p>
+<p>Patients with a clinical response were randomized:</p>
+<ul>
+<li><p>Surgery -&gt; 2 year survival 34% Median 17.7mo</p></li>
+<li><p>3 cycles of chemo + 2000 cGy RT -&gt; 2 year survival 40% Median 19.3mo</p></li>
+</ul>
+<p>Randomized:</p>
+<ul>
+<li></li>
+</ul>
 </section>
-<section id="bibliography" class="slide level2">
-<h2>Bibliography</h2>
+<section id="german-trial-stahl" class="slide level2">
+<h2>German Trial (Stahl)</h2>
+<p>4000 cGY RT + PE <span class="math inline">\(\rightarrow\)</span> Surgery. 64% 2-year PFS. Mortality 12.8%</p>
+<p>6500cGy RT + PE 41% PFS.Mortality 3.5%</p>
+</section>
+<section id="metastatic" class="slide level2">
+<h2>Metastatic</h2>
+<p>FOLFOX is first-line systemic therapy for metastatic GI cancers</p>
+<ul>
+<li>Dose-limiting toxicity is frequently peripheral neuropathy</li>
+</ul>
+</section>
+<section id="orientation-manual" class="title-slide slide level1 center">
+<h1>Orientation Manual</h1>
+<div id="" class="qrcode"></div>
+<script type="text/javascript">
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"height":"500","width":"500","colorDark":"#000000","colorLight":"#ffffff","text":"https://gisurgonc.github.io/orientation"});
+  script.remove();
+})();
+</script>
+    
+</section>
+
+<section id="references" class="title-slide slide level1 smaller scrollable">
+<h1>References</h1>
 
 <div class="quarto-auto-generated-content">
+<p><img src="atriumlogo.jpg" class="slide-logo"></p>
 <div class="footer footer-default">
-
+<p><a href="https://gisurgonc.github.io/talks/">GI Surgical Oncology Talks</a></p>
+</div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-allum5062" class="csl-entry" role="listitem">
+Allum, William H., Sally P. Stenning, John Bancewicz, Peter I. Clark, and Ruth E. Langley. 2009. <span>“Long-Term Results of a Randomized Trial of Surgery with or Without Preoperative Chemotherapy in Esophageal Cancer.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 27 (30): 5062–67. <a href="https://doi.org/10.1200/JCO.2009.22.2083">https://doi.org/10.1200/JCO.2009.22.2083</a>.
+</div>
+<div id="ref-block770" class="csl-entry" role="listitem">
+Block, M. I., G. A. Patterson, R. S. Sundaresan, M. S. Bailey, F. L. Flanagan, F. Dehdashti, B. A. Siegel, and J. D. Cooper. 1997. <span>“Improvement in Staging of Esophageal Cancer with the Addition of Positron Emission Tomography.”</span> <em>The Annals of Thoracic Surgery</em> 64 (3): 770-776; discussion 776-777. <a href="https://doi.org/10.1016/s0003-4975(97)00619-x">https://doi.org/10.1016/s0003-4975(97)00619-x</a>.
+</div>
+<div id="ref-kelly1191" class="csl-entry" role="listitem">
+Kelly, Ronan J., Jaffer A. Ajani, Jaroslaw Kuzdzal, Thomas Zander, Eric Van Cutsem, Guillaume Piessen, Guillermo Mendez, et al. 2021. <span>“Adjuvant <span>Nivolumab</span> in <span>Resected</span> <span>Esophageal</span> or <span>Gastroesophageal</span> <span>Junction</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 384 (13): 1191–1203. <a href="https://doi.org/10.1056/NEJMoa2032125">https://doi.org/10.1056/NEJMoa2032125</a>.
+</div>
+<div id="ref-ripley226" class="csl-entry" role="listitem">
+Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit S. Bains, David R. Jones, Prasad S. Adusumilli, et al. 2016. <span>“Pretreatment <span>Dysphagia</span> in <span>Esophageal</span> <span>Cancer</span> <span>Patients</span> <span>May</span> <span>Eliminate</span> the <span>Need</span> for <span>Staging</span> by <span>Endoscopic</span> <span>Ultrasonography</span>.”</span> <em>The Annals of Thoracic Surgery</em> 101 (1): 226–30. <a href="https://doi.org/10.1016/j.athoracsur.2015.06.062">https://doi.org/10.1016/j.athoracsur.2015.06.062</a>.
+</div>
+<div id="ref-shaheen2277" class="csl-entry" role="listitem">
+Shaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, Herbert C. Wolfsen, Richard E. Sampliner, Kenneth K. Wang, Joseph A. Galanko, et al. 2009. <span>“Radiofrequency Ablation in <span>Barrett</span>’s Esophagus with Dysplasia.”</span> <em>The New England Journal of Medicine</em> 360 (22): 2277–88. <a href="https://doi.org/10.1056/NEJMoa0808145">https://doi.org/10.1056/NEJMoa0808145</a>.
+</div>
+<div id="ref-shapiro1090" class="csl-entry" role="listitem">
+Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. <span>“Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (<span>CROSS</span>): Long-Term Results of a Randomised Controlled Trial.”</span> <em>The Lancet. Oncology</em> 16 (9): 1090–98. <a href="https://doi.org/10.1016/S1470-2045(15)00040-6">https://doi.org/10.1016/S1470-2045(15)00040-6</a>.
 </div>
 </div>
 </section>
+
+
     </div>
   </div>
 
@@ -731,7 +781,7 @@
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -856,9 +906,9 @@
         // The "normal" size of the presentation, aspect ratio will be preserved
         // when the presentation is scaled to fit different resolutions. Can be
         // specified using percentage units.
-        width: 1050,
+        width: 1600,
 
-        height: 700,
+        height: 900,
 
         // Factor of the display size that should remain empty around the content
         margin: 0.1,
