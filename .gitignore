@@ -3,5 +3,8 @@
 .RData
 .Ruserdata
 
+
 /.quarto/
 /_site/
+/docs/
+/site_libs/
