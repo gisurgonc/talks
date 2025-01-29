@@ -3085,5 +3085,523 @@
     "title": "Robotic MIE Strategy",
     "section": "Patient Selection",
     "text": "Patient Selection\n\nLow (distal) tumors\nAvoid tumor near carina\nAvoid bulky tumors at GE junction"
+  },
+  {
+    "objectID": "robotic_mie.htm#other-experience",
+    "href": "robotic_mie.htm#other-experience",
+    "title": "Robotic MIE Strategy",
+    "section": "Other Experience",
+    "text": "Other Experience\nIn 2013, other two series of studies from USA both presented that robotic-assisted esophagectomy is feasible and safe. Cerfolio et al from University of Alabama at Birmingham stated that robotic thoracic esophagectomy using ports only is feasible, safe, and affords R0 resection with thorough thoracic lymph node dissection.30 It also allows the sewing of a 2-layered chest anastomosis with good early results. de la Feunte et al from University of Central Florida published their initial experience of 50 elderly overweight patients undergoing robotic-assisted Ivor-Lewis esophagogastrectomy for oncologic purposes.31"
+  },
+  {
+    "objectID": "robotic_mie.htm#reviews",
+    "href": "robotic_mie.htm#reviews",
+    "title": "Robotic MIE Strategy",
+    "section": "Reviews",
+    "text": "Reviews\n[@chan1]"
+  },
+  {
+    "objectID": "robotic_mie.htm#bibliography",
+    "href": "robotic_mie.htm#bibliography",
+    "title": "Robotic MIE Strategy",
+    "section": "Bibliography",
+    "text": "Bibliography"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#esophageal-cancer-treatment-categories",
+    "href": "eso_ca_rx_talk.htm#esophageal-cancer-treatment-categories",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Esophageal Cancer Treatment Categories",
+    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nDyplasia\nTis\nRadiofrequency Ablation\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nT1b T2\nSurgery\n\n\nLocally-advanced\nT3 or N+\nChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#dyplasia",
+    "href": "eso_ca_rx_talk.htm#dyplasia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Dyplasia",
+    "text": "Dyplasia\nRadiofrequency Ablation for Dysplasia\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#radiofrequency-ablation-for-dysplasia",
+    "href": "eso_ca_rx_talk.htm#radiofrequency-ablation-for-dysplasia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Radiofrequency Ablation for Dysplasia",
+    "text": "Radiofrequency Ablation for Dysplasia\n\n\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#superficial-tumors",
+    "href": "eso_ca_rx_talk.htm#superficial-tumors",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Superficial Tumors",
+    "text": "Superficial Tumors\nWorkup of nodular Barretts:\n\nEndoscopic Ultrasound\nEndoscopic Mucosal Resection\n\nDiagnostic (T staging)\nMay be therapeutic for T1a tumors"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#endoscopic-musocal-resection",
+    "href": "eso_ca_rx_talk.htm#endoscopic-musocal-resection",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Endoscopic Musocal Resection",
+    "text": "Endoscopic Musocal Resection"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#localized-tumors",
+    "href": "eso_ca_rx_talk.htm#localized-tumors",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Localized Tumors",
+    "text": "Localized Tumors\nPatients staged as uT2 N0 are candidates for primary surgery. However:\n\nEUS has a 25% rate of understaging uT2 N0 tumors\nUnderstaged patients who undergo primary surgery would need chemo or chemoRT postop"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#small-tumors-minimal-dysphagia",
+    "href": "eso_ca_rx_talk.htm#small-tumors-minimal-dysphagia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Small Tumors (minimal dysphagia)",
+    "text": "Small Tumors (minimal dysphagia)\n\nEUS to distinguish T2 from T3 tumors\nIf uT2 N0 \\(\\rightarrow\\) CT chest/abdomen/pelvis \\(\\rightarrow\\) Esophagectomy\nIf uT3 or N1 \\(\\rightarrow\\) PET \\(\\rightarrow\\) neoadjuvant therapy\n\nPatients with dysphagia almost always are T3 tumors (and don’t need EUS)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#symptomatic-tumors-dysphagia",
+    "href": "eso_ca_rx_talk.htm#symptomatic-tumors-dysphagia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Symptomatic Tumors (Dysphagia)",
+    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) Locally-advanced\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#eus-in-patients-with-dysphagia",
+    "href": "eso_ca_rx_talk.htm#eus-in-patients-with-dysphagia",
+    "title": "Esophageal Cancer Treatment",
+    "section": "EUS in Patients with Dysphagia",
+    "text": "EUS in Patients with Dysphagia\nMemorial Sloan Kettering1 patients with esophageal cancer:\n\n61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.\n53 without dysphagia, 25 (47%) were uT1-2 \\(\\rightarrow\\) candidates for primary surgery.\n\nEUS can be omitted for patients with dysphagia, but is useful in patients without dysphagia.\nRipley et al. (2016)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#pet-scan",
+    "href": "eso_ca_rx_talk.htm#pet-scan",
+    "title": "Esophageal Cancer Treatment",
+    "section": "PET Scan",
+    "text": "PET Scan\nPET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis 1\nBlock et al. (1997)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#locally-advanced",
+    "href": "eso_ca_rx_talk.htm#locally-advanced",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Locally-advanced",
+    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#cross-trial",
+    "href": "eso_ca_rx_talk.htm#cross-trial",
+    "title": "Esophageal Cancer Treatment",
+    "section": "CROSS Trial",
+    "text": "CROSS Trial\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nage \\(\\tilde{x}\\)=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\nCROSS Trial Details\nChemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#cross---overall-survival",
+    "href": "eso_ca_rx_talk.htm#cross---overall-survival",
+    "title": "Esophageal Cancer Treatment",
+    "section": "CROSS - Overall Survival",
+    "text": "CROSS - Overall Survival\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#cross---survival-by-histology",
+    "href": "eso_ca_rx_talk.htm#cross---survival-by-histology",
+    "title": "Esophageal Cancer Treatment",
+    "section": "CROSS - Survival by Histology",
+    "text": "CROSS - Survival by Histology\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#cross---adenocarcinooma",
+    "href": "eso_ca_rx_talk.htm#cross---adenocarcinooma",
+    "title": "Esophageal Cancer Treatment",
+    "section": "CROSS - Adenocarcinooma",
+    "text": "CROSS - Adenocarcinooma\nMedian survival 43mo vs 27mo\nPathologic complete response in 23%"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#cross---squamous-cell-carcinoma",
+    "href": "eso_ca_rx_talk.htm#cross---squamous-cell-carcinoma",
+    "title": "Esophageal Cancer Treatment",
+    "section": "CROSS - Squamous cell carcinoma",
+    "text": "CROSS - Squamous cell carcinoma\nMedian survival 82mo vs 21mo\nPathologic complete response in 40%\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#cross---sites-of-failure",
+    "href": "eso_ca_rx_talk.htm#cross---sites-of-failure",
+    "title": "Esophageal Cancer Treatment",
+    "section": "CROSS - Sites of Failure",
+    "text": "CROSS - Sites of Failure\n\n\nSites of failure over time\nChemoRT + Surgery vs Surgery\nChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure\n\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#neoadjuvant-chemo-for-esoca",
+    "href": "eso_ca_rx_talk.htm#neoadjuvant-chemo-for-esoca",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Neoadjuvant Chemo for EsoCA",
+    "text": "Neoadjuvant Chemo for EsoCA\n\nMAGIC trial (gastric): ECF1\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF vs Surgery\n\nOEO2 Trial: (esophageal) Chemo\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) Chemo vs Surgery\n\nFLOT (gastric): FLOT2\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) FLOT vs ECF\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF\nEsoPEC: (esophageal):FLOT\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)FLOT vs ChemoRT\\(\\rightarrow\\)Surgery (CROSS)\n\nEpirubicin, Cisplatin, 5FU5FU, Leuvocorin, Oxaliplatin, Decetaxol"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#oeo2-clinical-trial",
+    "href": "eso_ca_rx_talk.htm#oeo2-clinical-trial",
+    "title": "Esophageal Cancer Treatment",
+    "section": "OEO2 Clinical Trial",
+    "text": "OEO2 Clinical Trial\n\n802 Esophageal adenocarcinoma and squamous cell\nRandomized to Chemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo vs Surgery alone\nChemotherapy with ECF (Epirubicin, Cisplatin, 5FU)\n5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)\n\n\n\n(Allum et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#neo-aegis-tral-cross-vs-magicflot",
+    "href": "eso_ca_rx_talk.htm#neo-aegis-tral-cross-vs-magicflot",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Neo-Aegis Tral CROSS vs MAGIC/FLOT",
+    "text": "Neo-Aegis Tral CROSS vs MAGIC/FLOT\n\nAdenocarcinoma T2-3 N0-3 M0 Tumor length &lt;8cm\nChemoRT arm: carboplatin + paclitaxel + 4140cGy\nChemo arm: MAGIC (ECF) or FLOT (later in trial)\nNo difference in overall survival\nR0 resection 96% with CROSS vs 82% with chemo\npCR 12% with CROSS vs 4% with chemo\n\n\n\n(reynolds1015?)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#esopec-cross-vs-flot",
+    "href": "eso_ca_rx_talk.htm#esopec-cross-vs-flot",
+    "title": "Esophageal Cancer Treatment",
+    "section": "EsoPEC CROSS vs FLOT",
+    "text": "EsoPEC CROSS vs FLOT\n\nAdenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63 89% men\nRandomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438\nCROSS: carboplatin/paclitaxel + 4140cGy \\(\\rightarrow\\) Surgery\nFLOT: FLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nExcluded:\nSquamous cell, gastric cancer, T1N0, T4b, M1"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#esopec-trial-results",
+    "href": "eso_ca_rx_talk.htm#esopec-trial-results",
+    "title": "Esophageal Cancer Treatment",
+    "section": "EsoPEC Trial Results",
+    "text": "EsoPEC Trial Results\n\nSurgery performed in 371/438 patients\n90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)\nMedian survival 66mo in FLOT arm and 37mo in Cross arm\n3-year overall survival 57% FLOT vs 51% CROSS\n5-year overall survival 51% FLOT vs 29% CROSS\npCR 17% for FLOT and 10% CROSS"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#adjuvant-immunotherapy-checkmate-577-trial",
+    "href": "eso_ca_rx_talk.htm#adjuvant-immunotherapy-checkmate-577-trial",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Adjuvant Immunotherapy: Checkmate 577 Trial",
+    "text": "Adjuvant Immunotherapy: Checkmate 577 Trial\nImmunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell ChemoRT \\(\\rightarrow\\) Surgery 4-16 weeks prior Residual pathologic disease\nTreatment Group: Nivolumab every 2 weeks x 4 months \\(\\rightarrow\\) every month x 8 months\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#nivolumab",
+    "href": "eso_ca_rx_talk.htm#nivolumab",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Nivolumab",
+    "text": "Nivolumab\n\n\nPD-L1 agonist ligand\nInterferes with tumor cell down-regulation of T cells\nActive against stage IV esophageal cancer\n\n\n\n\nNivolumab mechanism of action"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#chekmate-577-trial",
+    "href": "eso_ca_rx_talk.htm#chekmate-577-trial",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Chekmate 577 Trial",
+    "text": "Chekmate 577 Trial\nEsoCA patients who received ChemoRT\\(\\rightarrow\\) Surgery with residual disease (not pCR)\nRandomized to one year of immunotherapy (nivolumab) vs Observation\nAdjuvant nivolumab group had longer median survival: 22mo vs 11mo\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#checkmate-577-trial",
+    "href": "eso_ca_rx_talk.htm#checkmate-577-trial",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Checkmate 577 Trial",
+    "text": "Checkmate 577 Trial\n\n\n\nAdjuvant Nivolumab vs Observation\n\n\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#ffcd-9102-2007-bedenne",
+    "href": "eso_ca_rx_talk.htm#ffcd-9102-2007-bedenne",
+    "title": "Esophageal Cancer Treatment",
+    "section": "FFCD 9102 2007 (Bedenne)",
+    "text": "FFCD 9102 2007 (Bedenne)\nAll patients received 4500cGy RT + 2 cycles of cisplatin + 5FU\nPatients with a clinical response were randomized:\n\nSurgery -&gt; 2 year survival 34% Median 17.7mo\n3 cycles of chemo + 2000 cGy RT -&gt; 2 year survival 40% Median 19.3mo\n\nRandomized:"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#german-trial-stahl",
+    "href": "eso_ca_rx_talk.htm#german-trial-stahl",
+    "title": "Esophageal Cancer Treatment",
+    "section": "German Trial (Stahl)",
+    "text": "German Trial (Stahl)\n4000 cGY RT + PE \\(\\rightarrow\\) Surgery. 64% 2-year PFS. Mortality 12.8%\n6500cGy RT + PE 41% PFS.Mortality 3.5%"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#metastatic",
+    "href": "eso_ca_rx_talk.htm#metastatic",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Metastatic",
+    "text": "Metastatic\nFOLFOX is first-line systemic therapy for metastatic GI cancers\n\nDose-limiting toxicity is frequently peripheral neuropathy"
+  },
+  {
+    "objectID": "eso_ca_rx_talk.htm#esopec-trial",
+    "href": "eso_ca_rx_talk.htm#esopec-trial",
+    "title": "Esophageal Cancer Treatment",
+    "section": "EsoPEC Trial",
+    "text": "EsoPEC Trial\n\nAdenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63 89% men\nRandomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438\nCROSS: carboplatin/paclitaxel + 4140cGy \\(\\rightarrow\\) Surgery\nFLOT: FLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nExcluded:\nSquamous cell, gastric cancer, T1N0, T4b, M1"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-1",
+    "href": "eso_ca_cases.htm#case-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 1",
+    "text": "Case 1\n\n\n65M with longstanding reflux has first EGD:"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-1-1",
+    "href": "eso_ca_cases.htm#case-1-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 1",
+    "text": "Case 1\nPathology shows Barrett’s metaplasia without dysplasia\n\n\nWhat is appropriate follow up?\nBiopsy strategy?"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-1-2",
+    "href": "eso_ca_cases.htm#case-1-2",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Case 1",
+    "text": "Case 1\nPathology shows Barrett’s metaplasia without dysplasia\n\n\nWhat is appropriate follow up?\n\nAGA Guidelines\n\nNo dysplasia: 3-5 years\nLow grade dysplasia: 6-12 months\nHigh grade dysplasia 3 months (in the absence of ablation)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-1-3",
+    "href": "eso_ca_cases.htm#case-1-3",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Case 1",
+    "text": "Case 1\nPathology shows Barrett’s metaplasia without dysplasia\n\n\nBiopsy strategy?\n\nAGA Guidelines\n\nWhite light endoscopy\n4-quadrant biopsy every 2cm\nMucosal irregularity biopsied separately\n4-quadrant biopsy every 1cm if dysplasia)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-2",
+    "href": "eso_ca_cases.htm#case-2",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 2",
+    "text": "Case 2\nPathology shows high-grade dysplasia\n\n\nTreatment Options:\n\n\nObservation\nEsophagectomy\n[Cryotherapy]\n[Irreversible Electroporation]\nRadio-frequency Ablation"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#observation",
+    "href": "eso_ca_cases.htm#observation",
+    "title": "Esophageal Cancer Cases",
+    "section": "Observation",
+    "text": "Observation\n\nYou receive a hand-written note from the family\n\n\ninviting you to the funeral of the patient\n\n\nwho passed after a heroic battle with esophageal cancer\n\nCase 2"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#esophagectomy",
+    "href": "eso_ca_cases.htm#esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Esophagectomy",
+    "text": "Esophagectomy\nCorrect answer, wrong century\nCase 2"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cyrotherapy",
+    "href": "eso_ca_cases.htm#cyrotherapy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Cyrotherapy",
+    "text": "Cyrotherapy\nCorrect answer, wrong century\nCase 2"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#radio-frequency-ablation",
+    "href": "eso_ca_cases.htm#radio-frequency-ablation",
+    "title": "Esophageal Cancer Cases",
+    "section": "Radio-frequency Ablation",
+    "text": "Radio-frequency Ablation\n\n\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#esophageal-cancer-treatment-categories",
+    "href": "eso_ca_cases.htm#esophageal-cancer-treatment-categories",
+    "title": "Esophageal Cancer Cases",
+    "section": "Esophageal Cancer Treatment Categories",
+    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nDyplasia\nTis\nRadiofrequency Ablation\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nT1b T2\nSurgery\n\n\nLocally-advanced\nT3 or N+\nChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#dyplasia",
+    "href": "eso_ca_cases.htm#dyplasia",
+    "title": "Esophageal Cancer Cases",
+    "section": "Dyplasia",
+    "text": "Dyplasia\nRadiofrequency Ablation for Dysplasia\n\n\n127 patients with dysplasia randomized:\n\nRadio-frequency ablation\nSham ablation\n\nLow-grade dysplasia in 64\nHigh-grade dysplasia in 63\n\n \n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#radiofrequency-ablation-for-dysplasia",
+    "href": "eso_ca_cases.htm#radiofrequency-ablation-for-dysplasia",
+    "title": "Esophageal Cancer Cases",
+    "section": "Radiofrequency Ablation for Dysplasia",
+    "text": "Radiofrequency Ablation for Dysplasia\n\n\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#superficial-tumors",
+    "href": "eso_ca_cases.htm#superficial-tumors",
+    "title": "Esophageal Cancer Cases",
+    "section": "Superficial Tumors",
+    "text": "Superficial Tumors\nWorkup of nodular Barretts:\n\nEndoscopic Ultrasound\nEndoscopic Mucosal Resection\n\nDiagnostic (T staging)\nMay be therapeutic for T1a tumors"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#endoscopic-musocal-resection",
+    "href": "eso_ca_cases.htm#endoscopic-musocal-resection",
+    "title": "Esophageal Cancer Cases",
+    "section": "Endoscopic Musocal Resection",
+    "text": "Endoscopic Musocal Resection"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#localized-tumors",
+    "href": "eso_ca_cases.htm#localized-tumors",
+    "title": "Esophageal Cancer Cases",
+    "section": "Localized Tumors",
+    "text": "Localized Tumors\nPatients staged as uT2 N0 are candidates for primary surgery. However:\n\nEUS has a 25% rate of understaging uT2 N0 tumors\nUnderstaged patients who undergo primary surgery would need chemo or chemoRT postop"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#small-tumors-minimal-dysphagia",
+    "href": "eso_ca_cases.htm#small-tumors-minimal-dysphagia",
+    "title": "Esophageal Cancer Cases",
+    "section": "Small Tumors (minimal dysphagia)",
+    "text": "Small Tumors (minimal dysphagia)\n\nEUS to distinguish T2 from T3 tumors\nIf uT2 N0 \\(\\rightarrow\\) CT chest/abdomen/pelvis \\(\\rightarrow\\) Esophagectomy\nIf uT3 or N1 \\(\\rightarrow\\) PET \\(\\rightarrow\\) neoadjuvant therapy\n\nPatients with dysphagia almost always are T3 tumors (and don’t need EUS)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#symptomatic-tumors-dysphagia",
+    "href": "eso_ca_cases.htm#symptomatic-tumors-dysphagia",
+    "title": "Esophageal Cancer Cases",
+    "section": "Symptomatic Tumors (Dysphagia)",
+    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) Locally-advanced\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
+  },
+  {
+    "objectID": "eso_ca_cases.htm#eus-in-patients-with-dysphagia",
+    "href": "eso_ca_cases.htm#eus-in-patients-with-dysphagia",
+    "title": "Esophageal Cancer Cases",
+    "section": "EUS in Patients with Dysphagia",
+    "text": "EUS in Patients with Dysphagia\nMemorial Sloan Kettering1 patients with esophageal cancer:\n\n61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.\n53 without dysphagia, 25 (47%) were uT1-2 \\(\\rightarrow\\) candidates for primary surgery.\n\nEUS can be omitted for patients with dysphagia, but is useful in patients without dysphagia.\nRipley et al. (2016)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#pet-scan",
+    "href": "eso_ca_cases.htm#pet-scan",
+    "title": "Esophageal Cancer Cases",
+    "section": "PET Scan",
+    "text": "PET Scan\nPET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis 1\nBlock et al. (1997)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#locally-advanced",
+    "href": "eso_ca_cases.htm#locally-advanced",
+    "title": "Esophageal Cancer Cases",
+    "section": "Locally-advanced",
+    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cross-trial",
+    "href": "eso_ca_cases.htm#cross-trial",
+    "title": "Esophageal Cancer Cases",
+    "section": "CROSS Trial",
+    "text": "CROSS Trial\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nage \\(\\tilde{x}\\)=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\nCROSS Trial Details\nChemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cross---overall-survival",
+    "href": "eso_ca_cases.htm#cross---overall-survival",
+    "title": "Esophageal Cancer Cases",
+    "section": "CROSS - Overall Survival",
+    "text": "CROSS - Overall Survival\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cross---survival-by-histology",
+    "href": "eso_ca_cases.htm#cross---survival-by-histology",
+    "title": "Esophageal Cancer Cases",
+    "section": "CROSS - Survival by Histology",
+    "text": "CROSS - Survival by Histology\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cross---adenocarcinooma",
+    "href": "eso_ca_cases.htm#cross---adenocarcinooma",
+    "title": "Esophageal Cancer Cases",
+    "section": "CROSS - Adenocarcinooma",
+    "text": "CROSS - Adenocarcinooma\nMedian survival 43mo vs 27mo\nPathologic complete response in 23%"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cross---squamous-cell-carcinoma",
+    "href": "eso_ca_cases.htm#cross---squamous-cell-carcinoma",
+    "title": "Esophageal Cancer Cases",
+    "section": "CROSS - Squamous cell carcinoma",
+    "text": "CROSS - Squamous cell carcinoma\nMedian survival 82mo vs 21mo\nPathologic complete response in 40%\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cross---sites-of-failure",
+    "href": "eso_ca_cases.htm#cross---sites-of-failure",
+    "title": "Esophageal Cancer Cases",
+    "section": "CROSS - Sites of Failure",
+    "text": "CROSS - Sites of Failure\n\n\nSites of failure over time\nChemoRT + Surgery vs Surgery\nChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure\n\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#neoadjuvant-chemo-for-esoca",
+    "href": "eso_ca_cases.htm#neoadjuvant-chemo-for-esoca",
+    "title": "Esophageal Cancer Cases",
+    "section": "Neoadjuvant Chemo for EsoCA",
+    "text": "Neoadjuvant Chemo for EsoCA\n\nMAGIC trial (gastric): ECF1\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF vs Surgery\n\nOEO2 Trial: (esophageal) Chemo\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) Chemo vs Surgery\n\nFLOT (gastric): FLOT2\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) FLOT vs ECF\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF\nEsoPEC: (esophageal):FLOT\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)FLOT vs ChemoRT\\(\\rightarrow\\)Surgery (CROSS)\n\nEpirubicin, Cisplatin, 5FU5FU, Leuvocorin, Oxaliplatin, Decetaxol"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#oeo2-clinical-trial",
+    "href": "eso_ca_cases.htm#oeo2-clinical-trial",
+    "title": "Esophageal Cancer Cases",
+    "section": "OEO2 Clinical Trial",
+    "text": "OEO2 Clinical Trial\n\n802 Esophageal adenocarcinoma and squamous cell\nRandomized to Chemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo vs Surgery alone\nChemotherapy with ECF (Epirubicin, Cisplatin, 5FU)\n5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)\n\n\n\n(Allum et al. 2009)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#neo-aegis-tral-cross-vs-magicflot",
+    "href": "eso_ca_cases.htm#neo-aegis-tral-cross-vs-magicflot",
+    "title": "Esophageal Cancer Cases",
+    "section": "Neo-Aegis Tral CROSS vs MAGIC/FLOT",
+    "text": "Neo-Aegis Tral CROSS vs MAGIC/FLOT\n\nAdenocarcinoma T2-3 N0-3 M0 Tumor length &lt;8cm\nChemoRT arm: carboplatin + paclitaxel + 4140cGy\nChemo arm: MAGIC (ECF) or FLOT (later in trial)\nNo difference in overall survival\nR0 resection 96% with CROSS vs 82% with chemo\npCR 12% with CROSS vs 4% with chemo\n\n\n\n(reynolds1015?)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#esopec-trial",
+    "href": "eso_ca_cases.htm#esopec-trial",
+    "title": "Esophageal Cancer Cases",
+    "section": "EsoPEC Trial",
+    "text": "EsoPEC Trial\n\nAdenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men\nRandomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438\nCROSS: carboplatin/paclitaxel + 4140cGy \\(\\rightarrow\\) Surgery\nFLOT: FLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nExcluded: Squamous cell, gastric cancer, T1N0, T4b, M1"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#esopec-trial-results",
+    "href": "eso_ca_cases.htm#esopec-trial-results",
+    "title": "Esophageal Cancer Cases",
+    "section": "EsoPEC Trial Results",
+    "text": "EsoPEC Trial Results\n\nSurgery performed in 371/438 patients\n90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)\nMedian survival 66mo in FLOT arm and 37mo in Cross arm\n3-year overall survival 57% FLOT vs 51% CROSS\n5-year overall survival 51% FLOT vs 29% CROSS\npCR 17% for FLOT and 10% CROSS"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#adjuvant-immunotherapy-checkmate-577-trial",
+    "href": "eso_ca_cases.htm#adjuvant-immunotherapy-checkmate-577-trial",
+    "title": "Esophageal Cancer Cases",
+    "section": "Adjuvant Immunotherapy: Checkmate 577 Trial",
+    "text": "Adjuvant Immunotherapy: Checkmate 577 Trial\nImmunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease\nStage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell\nChemoRT \\(\\rightarrow\\) Surgery with residual disease on pathology\nTreatment Group: Nivolumab every 2 weeks x 4 months \\(\\rightarrow\\) every month x 8 months\nControl Group: No adjuvant therapy\nResults: Better survival in group with adjuvant nivolumab\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#nivolumab",
+    "href": "eso_ca_cases.htm#nivolumab",
+    "title": "Esophageal Cancer Cases",
+    "section": "Nivolumab",
+    "text": "Nivolumab\n\n\nPD-L1 agonist ligand\nInterferes with tumor cell down-regulation of T cells\nActive against stage IV esophageal cancer\n\n\n\n\nNivolumab mechanism of action"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#chekmate-577-trial",
+    "href": "eso_ca_cases.htm#chekmate-577-trial",
+    "title": "Esophageal Cancer Cases",
+    "section": "Chekmate 577 Trial",
+    "text": "Chekmate 577 Trial\nEsoCA patients who received ChemoRT\\(\\rightarrow\\) Surgery with residual disease (not pCR)\nRandomized to one year of immunotherapy (nivolumab) vs Observation\nAdjuvant nivolumab group had longer median survival: 22mo vs 11mo\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#checkmate-577-trial",
+    "href": "eso_ca_cases.htm#checkmate-577-trial",
+    "title": "Esophageal Cancer Cases",
+    "section": "Checkmate 577 Trial",
+    "text": "Checkmate 577 Trial\n\n\n\nAdjuvant Nivolumab vs Observation\n\n\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#surgery-for-squamous-cell-carcinoma",
+    "href": "eso_ca_cases.htm#surgery-for-squamous-cell-carcinoma",
+    "title": "Esophageal Cancer Cases",
+    "section": "Surgery for Squamous Cell Carcinoma",
+    "text": "Surgery for Squamous Cell Carcinoma\nSquamous Cell Carcinoma of the esophagus\n\nresponds well to chemo+RT\nmore difficul to get a surgical margin on the airway\nadditional benefit of surgery on top of chemoRT is uncertain"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#ffcd-9102-2007-bedenne",
+    "href": "eso_ca_cases.htm#ffcd-9102-2007-bedenne",
+    "title": "Esophageal Cancer Cases",
+    "section": "FFCD 9102 2007 (Bedenne)",
+    "text": "FFCD 9102 2007 (Bedenne)\nAll patients received 4500cGy RT + 2 cycles of cisplatin + 5FU\nPatients with a clinical response were randomized:\n\nSurgery -&gt; 2 year survival 34% Median 17.7mo\n3 cycles of chemo + 2000 cGy RT -&gt; 2 year survival 40% Median 19.3mo\n\nNo difference in overall survival"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#german-trial-stahl",
+    "href": "eso_ca_cases.htm#german-trial-stahl",
+    "title": "Esophageal Cancer Cases",
+    "section": "German Trial (Stahl)",
+    "text": "German Trial (Stahl)\n4000 cGY RT + Chemo \\(\\rightarrow\\) Surgery. 64% 2-year PFS. Mortality 12.8%\n6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%\nNo difference in overall survival"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#metastatic",
+    "href": "eso_ca_cases.htm#metastatic",
+    "title": "Esophageal Cancer Cases",
+    "section": "Metastatic",
+    "text": "Metastatic\nFOLFOX is first-line systemic therapy for metastatic GI cancers\n\nDose-limiting toxicity is frequently peripheral neuropathy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-1-barretts-metaplasia-without-dysplasia",
+    "href": "eso_ca_cases.htm#case-1-barretts-metaplasia-without-dysplasia",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 1 Barrett’s metaplasia without dysplasia",
+    "text": "Case 1 Barrett’s metaplasia without dysplasia\n\n\nWhat is appropriate follow up?\n\nAGA Guidelines\n\nNo dysplasia: 3-5 years\nLow grade dysplasia: 6-12 months\nHigh grade dysplasia 3 months\n\n(in the absence of ablation)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-1-barretts-metaplasia-without-dysplasia-1",
+    "href": "eso_ca_cases.htm#case-1-barretts-metaplasia-without-dysplasia-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 1 Barrett’s metaplasia without dysplasia",
+    "text": "Case 1 Barrett’s metaplasia without dysplasia\n\n\nBiopsy strategy?\n\nAGA Guidelines\n\nWhite light endoscopy\n4-quadrant biopsy every 2cm\nMucosal irregularity biopsied separately\n4-quadrant biopsy every 1cm if dysplasia)"
   }
 ]

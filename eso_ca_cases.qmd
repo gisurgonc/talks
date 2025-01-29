@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer Treatment"
+title: "Esophageal Cancer Cases"
 format: 
   revealjs:
     slide-number: c/t
@@ -20,6 +20,405 @@ editor: visual
 bibliography: zotero.bib
 ---
 
+
+## Case 1
+
+:::::: columns
+::: {.column width="50%"}
+62M with longstanding reflux has first EGD.
+
+Reflux got worse during training for a triathalon
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/barretts_comm.png)
+:::
+::::
+::::::
+
+
+
+## Case 1
+
+Pathology shows Barrett's metaplasia without dysplasia
+
+
+:::::: columns
+::: {.column width="50%"}
+What is appropriate follow up?
+
+Biopsy strategy?
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+
+:::
+::::
+::::::
+
+
+
+## Case 1 Barrett's metaplasia without dysplasia
+
+:::::: columns
+::: {.column width="50%"}
+What is appropriate follow up?
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+AGA Guidelines
+
+- No dysplasia: 3-5 years
+- Low grade dysplasia: 6-12 months
+- High grade dysplasia 3 months
+  - (in the absence of ablation)
+:::
+::::
+::::::
+
+
+## Case 1 Barrett's metaplasia without dysplasia
+
+
+:::::: columns
+::: {.column width="50%"}
+Biopsy strategy?
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+AGA Guidelines
+
+- White light endoscopy
+- 4-quadrant biopsy every 2cm
+- Mucosal irregularity biopsied separately
+- 4-quadrant biopsy every 1cm if dysplasia)
+
+:::
+::::
+::::::
+
+
+
+## Case 2
+
+Pathology shows high-grade dysplasia
+
+
+:::::: columns
+::: {.column width="50%"}
+Treatment Options:
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+
+- [Observation]
+- [Esophagectomy]
+- [Cryotherapy]
+- [Irreversible Electroporation]
+- [Radio-frequency Ablation]
+
+
+:::
+::::
+::::::
+
+
+## Observation
+
+:::{.fragment}
+You receive a hand-written note from the family 
+:::
+
+:::{.fragment}
+inviting you to the funeral of the patient 
+:::
+
+:::{.fragment}
+who passed after a heroic battle with esophageal cancer
+:::
+
+
+
+[Case 2]
+
+
+## Esophagectomy
+
+Correct answer, wrong century (not the 20th)
+
+[Case 2]
+
+## Cyrotherapy
+
+Correct answer, wrong century (not the 22nd)
+
+[Case 2]
+
+## Radio-frequency Ablation
+
+::::: columns
+::: {.column width="30%"}
+Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
+:::
+
+::: {.column width="70%"}
+![](images/shaheen.png)
+:::
+:::::
+
+::: aside
+[@shaheen2277]
+:::
+
+[Case 3]
+
+## Case 3
+
+EGD shows a nodule in the Barrett's esophagus
+
+
+:::::: columns
+::: {.column width="50%"}
+Treatment Options:
+:::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+
+- [Surveillence]
+- [Minimally Invasive Esophagectomy]
+- [Endoscopic Mucosal Resection]
+- [Radio-frequency Ablation Barxx]
+
+
+:::
+::::
+::::::
+
+
+
+
+
+## Surveillance
+
+:::{.fragment}
+You receive a hand-written note from the family 
+:::
+
+:::{.fragment}
+inviting you the patient's 70th birthday 
+:::
+
+:::{.fragment}
+after being treated at a competing medical center
+:::
+
+:::{.fragment}
+for esophageal cancer
+:::
+
+
+[Case 3]
+
+
+## Minimally Invasive Esophagectomy
+
+Correct answer, wrong patient
+
+[Case 3]
+
+## Endoscopic Mucosal Resection
+
+Endoscopic procedure to remove a superficial tumor from the inner layer of the esophagus
+
+![](https://deidt7p41jzcy.cloudfront.net/emr_comm.png)
+
+[Case 4]
+
+## Radio-frequency Ablation Barxx
+
+Correct answer, wrong question
+
+
+
+## Case 5
+
+Your patient from Case 2 returns with dysphagia and weight loss
+
+
+![](https://deidt7p41jzcy.cloudfront.net/eso_egd2.png)
+## Case 5
+
+Pathology shows adenocarcinoma
+
+Workup?
+
+
+## Case 5 adenocarcinoma
+
+Workup?
+
+[Barium Swallow]
+[Endoscopic Ultrasound]
+[CT Chest/Abdomen/Pelvis]
+
+## Barium Swallow
+
+Correct answer, wrong century
+
+## Endoscopic Ultrasound
+
+
+:::{.fragment}
+You receive a hand-written note from the family 
+:::
+
+:::{.fragment}
+inviting you the patient's 70th birthday 
+:::
+
+:::{.fragment}
+after they died from an esophageal perforation
+:::
+
+:::{.fragment}
+which occured during EUS
+:::
+
+:::{.fragment}
+Autopsy showed T3 adenocarcinoma
+:::
+
+
+[Case 5]
+
+## CT Chest/Abdomen/Pelvis
+
+What test do you order next?
+
+## PET scan
+
+:::::: columns
+::: {.column width="40%"}
+A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
+:::
+
+:::: {.column width="60%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
+:::
+::::
+::::::
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+## T3 N0 M0 adenocarcinoma
+
+Treatment Options - First Treatment Course
+
+[Esophagectomy]
+[Chemo + Radiation]
+[Chemotherapy]
+
+
+
+## CROSS Trial
+
+-   368 esophageal cancer patients randomized:
+    -   Surgery alone
+    -   Chemo+RT $\rightarrow$ Surgery
+-   75% adenocarcinoma
+-   T3: 80%. T2: 17%
+-   age $\tilde{x}$=60
+-   longer survival with Chemo+RT $\rightarrow$ Surgery
+
+CROSS Trial Details
+
+Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Overall Survival
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Survival by Histology
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Adenocarcinooma
+
+Median survival 43mo vs 27mo
+
+Pathologic complete response in 23%
+
+## CROSS - Squamous cell carcinoma
+
+Median survival 82mo vs 21mo
+
+Pathologic complete response in 40%
+
+::: aside
+[@shapiro1090]
+:::
+
+## T3 N0 M0 adenocarcinoma
+
+Family asks if there is a better treatment option than CROSS
+
+
+## EsoPEC Trial
+
+-   Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men
+
+-   Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
+
+-   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
+
+-   FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
+
+-   Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
+
+## EsoPEC Trial Results
+
+-   Surgery performed in 371/438 patients
+
+-   90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)
+
+-   Median survival 66mo in FLOT arm and 37mo in Cross arm
+
+-   3-year overall survival 57% FLOT vs 51% CROSS
+
+-   5-year overall survival 51% FLOT vs 29% CROSS
+
+-   pCR 17% for FLOT and 10% CROSS
+
+## Case 7
+
+Patient returns after FLOT chemotherapy
+
+What are surgical options?
+
+
+
+
 ## Esophageal Cancer Treatment Categories
 
 | Category             |   Stage    | Treatment                  |
@@ -27,8 +426,9 @@ bibliography: zotero.bib
 | [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
 | [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
 | [Localized Tumors]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
+| [Locally-advanced]   | T3 or N^+^ | Chemo or ChemoRT → Surgery |
 | [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+
 
 ## Dyplasia
 
