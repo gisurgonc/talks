@@ -7,8 +7,8 @@ format:
     height: 900
     logo: "atriumlogo.jpg"
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
-    #css: ["theme/theme.css"]
-    theme: default
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
     echo: false
   #nanotes_pdf: default
   pdf:
@@ -24,11 +24,13 @@ bibliography: zotero.bib
 ## Case 1
 
 :::::: columns
-::: {.column width="50%"}
+:::: {.column width="50%"}
+::: {style="font-size: 125%;"}
 62M with longstanding reflux has first EGD.
 
 Reflux got worse during training for a triathalon
 :::
+::::
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
