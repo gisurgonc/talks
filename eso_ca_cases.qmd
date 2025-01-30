@@ -337,16 +337,6 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
 
 
-## Preoperative Evaluation
-
-![](https://deidt7p41jzcy.cloudfront.net/eso_risk.png)
-
-## Preoperative Evaluation
-
-![](https://deidt7p41jzcy.cloudfront.net/eso_risk.png)
-
-25th percentile: Grip Strength 26kg (men) / 16kg (women)
-
 ## T3 N0 M0 adenocarcinoma
 
 Treatment Options - First Treatment Course
@@ -359,6 +349,8 @@ Treatment Options - First Treatment Course
 ## MI Esophagectomy
 
 Correct answer, wrong timing
+
+Why?
 
 [T3 N0 M0 adenocarcinoma]
 
@@ -451,11 +443,39 @@ Family asks if there is a better treatment option than CROSS
 
 -   pCR 17% for FLOT and 10% CROSS
 
+
+## Case 7
+
+Patient returns after FLOT chemotherapy
+
+What are risks of surgery?
+
+
+## Preoperative Evaluation
+
+![](https://deidt7p41jzcy.cloudfront.net/eso_risk.png)
+
+## Preoperative Evaluation
+
+![](https://deidt7p41jzcy.cloudfront.net/eso_risk.png)
+
+25th percentile: Grip Strength 26kg (men) / 16kg (women)
+
+
+
 ## Case 7
 
 Patient returns after FLOT chemotherapy
 
 What are surgical options?
+
+## Low Risk Adenocarcinoma
+
+![](https://deidt7p41jzcy.cloudfront.net/decision_low.png)
+
+
+## High Risk Adenocarcinoma
+![](https://deidt7p41jzcy.cloudfront.net/surg_high.png)
 
 
 ## Surgery for Esophageal Cancer
