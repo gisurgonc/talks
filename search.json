@@ -1334,7 +1334,7 @@
     "href": "eso_ca_cases.htm#case-2",
     "title": "Esophageal Cancer Cases",
     "section": "Case 2",
-    "text": "Case 2\nPathology shows high-grade dysplasia\n\n\nTreatment Options:\n\n\nObservation\nEsophagectomy\n[Cryotherapy]\n[Irreversible Electroporation]\nRadio-frequency Ablation"
+    "text": "Case 2\nPathology shows high-grade dysplasia\n\n\nTreatment Options:\n\n\nObservation\nEsophagectomy\nCryotherapy\nIrreversible Electroporation\nRadio-frequency Ablation"
   },
   {
     "objectID": "eso_ca_cases.htm#observation",
@@ -1351,11 +1351,18 @@
     "text": "Esophagectomy\nCorrect answer, wrong century (not the 20th)\nCase 2"
   },
   {
-    "objectID": "eso_ca_cases.htm#cyrotherapy",
-    "href": "eso_ca_cases.htm#cyrotherapy",
+    "objectID": "eso_ca_cases.htm#cryotherapy",
+    "href": "eso_ca_cases.htm#cryotherapy",
     "title": "Esophageal Cancer Cases",
-    "section": "Cyrotherapy",
-    "text": "Cyrotherapy\nCorrect answer, wrong century (not the 22nd)\nCase 2"
+    "section": "Cryotherapy",
+    "text": "Cryotherapy\nCorrect answer, wrong century (not the 22nd)\nCase 2"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#irreversible-electroporation",
+    "href": "eso_ca_cases.htm#irreversible-electroporation",
+    "title": "Esophageal Cancer Cases",
+    "section": "Irreversible Electroporation",
+    "text": "Irreversible Electroporation\n\nCase 2"
   },
   {
     "objectID": "eso_ca_cases.htm#radio-frequency-ablation",
@@ -1369,7 +1376,7 @@
     "href": "eso_ca_cases.htm#case-3",
     "title": "Esophageal Cancer Cases",
     "section": "Case 3",
-    "text": "Case 3\nEGD shows a nodule in the Barrett’s esophagus\n\n\nTreatment Options:\n\n\n[Surveillence]\nMinimally Invasive Esophagectomy\nEndoscopic Mucosal Resection\nRadio-frequency Ablation Barxx"
+    "text": "Case 3\nEGD shows a nodule in the Barrett’s esophagus\n\n\nTreatment Options:\n\n\nSurveillance\nMinimally Invasive Esophagectomy\nEndoscopic Mucosal Resection\nRadio-frequency Ablation Barxx"
   },
   {
     "objectID": "eso_ca_cases.htm#surveillance",
@@ -1390,7 +1397,7 @@
     "href": "eso_ca_cases.htm#endoscopic-mucosal-resection",
     "title": "Esophageal Cancer Cases",
     "section": "Endoscopic Mucosal Resection",
-    "text": "Endoscopic Mucosal Resection\nEndoscopic procedure to remove a superficial tumor from the inner layer of the esophagus\n\n[Case 4]"
+    "text": "Endoscopic Mucosal Resection\nEndoscopic procedure resects mucosal tumor\n\nCase 4"
   },
   {
     "objectID": "eso_ca_cases.htm#radio-frequency-ablation-barxx",
@@ -1400,32 +1407,39 @@
     "text": "Radio-frequency Ablation Barxx\nCorrect answer, wrong question"
   },
   {
-    "objectID": "eso_ca_cases.htm#case-5",
-    "href": "eso_ca_cases.htm#case-5",
+    "objectID": "eso_ca_cases.htm#case-4",
+    "href": "eso_ca_cases.htm#case-4",
     "title": "Esophageal Cancer Cases",
-    "section": "Case 5",
-    "text": "Case 5\nYour patient from Case 2 returns with dysphagia and weight loss\n ## Case 5\nPathology shows adenocarcinoma\nWorkup?"
+    "section": "Case 4",
+    "text": "Case 4\nYour patient from Case 2 returns with dysphagia and weight loss"
   },
   {
-    "objectID": "eso_ca_cases.htm#case-5-adenocarcinoma",
-    "href": "eso_ca_cases.htm#case-5-adenocarcinoma",
+    "objectID": "eso_ca_cases.htm#case-4-adenocarcinoma",
+    "href": "eso_ca_cases.htm#case-4-adenocarcinoma",
     "title": "Esophageal Cancer Cases",
-    "section": "Case 5 adenocarcinoma",
-    "text": "Case 5 adenocarcinoma\nWorkup?\nBarium Swallow Endoscopic Ultrasound CT Chest/Abdomen/Pelvis"
+    "section": "Case 4 Adenocarcinoma",
+    "text": "Case 4 Adenocarcinoma\nPathology shows adenocarcinoma\nWorkup?"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-4-adenocarcinoma-1",
+    "href": "eso_ca_cases.htm#case-4-adenocarcinoma-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 4 Adenocarcinoma",
+    "text": "Case 4 Adenocarcinoma\nWorkup?\n\nBarium Swallow\nEndoscopic Ultrasound\nCT Chest/Abdomen/Pelvis"
   },
   {
     "objectID": "eso_ca_cases.htm#barium-swallow",
     "href": "eso_ca_cases.htm#barium-swallow",
     "title": "Esophageal Cancer Cases",
     "section": "Barium Swallow",
-    "text": "Barium Swallow\nCorrect answer, wrong century"
+    "text": "Barium Swallow\nCorrect answer, wrong century\nCase 4"
   },
   {
     "objectID": "eso_ca_cases.htm#endoscopic-ultrasound",
     "href": "eso_ca_cases.htm#endoscopic-ultrasound",
     "title": "Esophageal Cancer Cases",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\nYou receive a hand-written note from the family\n\n\ninviting you the patient’s 70th birthday\n\n\nafter they died from an esophageal perforation\n\n\nwhich occured during EUS\n\n\nAutopsy showed T3 adenocarcinoma\n\nCase 5"
+    "text": "Endoscopic Ultrasound\n\nYou receive a hand-written note from the family\n\n\ninviting you the patient’s 70th birthday\n\n\nafter they died from an esophageal perforation\n\n\nwhich occured during EUS\n\n\nAutopsy showed T3 adenocarcinoma\n\nCase 4"
   },
   {
     "objectID": "eso_ca_cases.htm#ct-chestabdomenpelvis",
@@ -1439,14 +1453,28 @@
     "href": "eso_ca_cases.htm#pet-scan",
     "title": "Esophageal Cancer Cases",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nA PET scan is most accurate method of staging esophageal cancer"
   },
   {
     "objectID": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma",
     "href": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma",
     "title": "Esophageal Cancer Cases",
     "section": "T3 N0 M0 adenocarcinoma",
-    "text": "T3 N0 M0 adenocarcinoma\nTreatment Options - First Treatment Course\nEsophagectomy [Chemo + Radiation] [Chemotherapy]"
+    "text": "T3 N0 M0 adenocarcinoma\nTreatment Options - First Treatment Course\n\nMI Esophagectomy\nChemo + Radiation\nChemotherapy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#mi-esophagectomy",
+    "href": "eso_ca_cases.htm#mi-esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "MI Esophagectomy",
+    "text": "MI Esophagectomy\nCorrect answer, wrong timing\nT3 N0 M0 adenocarcinoma"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#chemo-radiation",
+    "href": "eso_ca_cases.htm#chemo-radiation",
+    "title": "Esophageal Cancer Cases",
+    "section": "Chemo + Radiation",
+    "text": "Chemo + Radiation\nConcurrent chemotherapy and radiation followed by surgery = Trimodality therapy"
   },
   {
     "objectID": "eso_ca_cases.htm#cross-trial",
@@ -1487,8 +1515,15 @@
     "objectID": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma-1",
     "href": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma-1",
     "title": "Esophageal Cancer Cases",
-    "section": "T3 N0 M0 adenocarcinoma",
-    "text": "T3 N0 M0 adenocarcinoma\nFamily asks if there is a better treatment option than CROSS"
+    "section": "T3 N0 M0 Adenocarcinoma",
+    "text": "T3 N0 M0 Adenocarcinoma\nFamily asks if there is a better treatment option than CROSS"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#chemotherapy",
+    "href": "eso_ca_cases.htm#chemotherapy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Chemotherapy",
+    "text": "Chemotherapy\n“Sandwich” Chemotherapy may be superior to Trimodality therapy"
   },
   {
     "objectID": "eso_ca_cases.htm#esopec-trial",
@@ -1512,11 +1547,109 @@
     "text": "Case 7\nPatient returns after FLOT chemotherapy\nWhat are surgical options?"
   },
   {
+    "objectID": "eso_ca_cases.htm#surgery-for-esophageal-cancer",
+    "href": "eso_ca_cases.htm#surgery-for-esophageal-cancer",
+    "title": "Esophageal Cancer Cases",
+    "section": "Surgery for Esophageal Cancer",
+    "text": "Surgery for Esophageal Cancer\nSurgery for esophageal cancer is performed for:\n\nSuperficial Tumors (T1) not completely removed by endoscopy\nLocalized Tumors (T2N0)\nLocally Advanced (T3) after preoperative therapy."
+  },
+  {
+    "objectID": "eso_ca_cases.htm#goals-of-surgery",
+    "href": "eso_ca_cases.htm#goals-of-surgery",
+    "title": "Esophageal Cancer Cases",
+    "section": "Goals of Surgery",
+    "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#ivor-lewis-transthoracic-esophagectomy",
+    "href": "eso_ca_cases.htm#ivor-lewis-transthoracic-esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor\nRemoves lower 1/3 of esophagus\nRemoves surrounding lymph nodes\nReconstruction of GI tract"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#reconstruction",
+    "href": "eso_ca_cases.htm#reconstruction",
+    "title": "Esophageal Cancer Cases",
+    "section": "Reconstruction",
+    "text": "Reconstruction\n\n\nA new esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+  },
+  {
+    "objectID": "eso_ca_cases.htm#minimally-invasive-ivor-lewis",
+    "href": "eso_ca_cases.htm#minimally-invasive-ivor-lewis",
+    "title": "Esophageal Cancer Cases",
+    "section": "Minimally-invasive Ivor Lewis",
+    "text": "Minimally-invasive Ivor Lewis\n\n\n\nLaparoscopic mobilization of stomach\nConstruction of gastric conduit\nThoracic anastomosis"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#ivor-lewis-esophagectomy",
+    "href": "eso_ca_cases.htm#ivor-lewis-esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Ivor Lewis esophagectomy",
+    "text": "Ivor Lewis esophagectomy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#ivor-lewis-esophagectomy-1",
+    "href": "eso_ca_cases.htm#ivor-lewis-esophagectomy-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Ivor Lewis esophagectomy",
+    "text": "Ivor Lewis esophagectomy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#thoracic-circular-stapled-anastomosis",
+    "href": "eso_ca_cases.htm#thoracic-circular-stapled-anastomosis",
+    "title": "Esophageal Cancer Cases",
+    "section": "Thoracic Circular Stapled Anastomosis",
+    "text": "Thoracic Circular Stapled Anastomosis"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#open-ivor-lewis",
+    "href": "eso_ca_cases.htm#open-ivor-lewis",
+    "title": "Esophageal Cancer Cases",
+    "section": "Open Ivor Lewis",
+    "text": "Open Ivor Lewis\n\n\nWe use the mininally-invasive approach in 95% of cases\nIn some cases, an open approach is still necessary."
+  },
+  {
+    "objectID": "eso_ca_cases.htm#total-esophagectomy",
+    "href": "eso_ca_cases.htm#total-esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Total Esophagectomy",
+    "text": "Total Esophagectomy\n\n\nFor patients with tumors in the upper esophagus, we need to remove more of the esophagus\nWe need to remove the whole esophagus, including the portion in the neck"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#mckeown-esophagectomy",
+    "href": "eso_ca_cases.htm#mckeown-esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "McKeown Esophagectomy",
+    "text": "McKeown Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#transhiatal-esophagectomy",
+    "href": "eso_ca_cases.htm#transhiatal-esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Transhiatal Esophagectomy",
+    "text": "Transhiatal Esophagectomy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#colon-interposition",
+    "href": "eso_ca_cases.htm#colon-interposition",
+    "title": "Esophageal Cancer Cases",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#colon-interposition-1",
+    "href": "eso_ca_cases.htm#colon-interposition-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
+  },
+  {
     "objectID": "eso_ca_cases.htm#esophageal-cancer-treatment-categories",
     "href": "eso_ca_cases.htm#esophageal-cancer-treatment-categories",
     "title": "Esophageal Cancer Cases",
     "section": "Esophageal Cancer Treatment Categories",
-    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nDyplasia\nTis\nRadiofrequency Ablation\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nT1b T2\nSurgery\n\n\nLocally-advanced\nT3 or N+\nChemo or ChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
+    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nDyplasia\nTis\nRadiofrequency Ablation\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nT1b T2\nSurgery\n\n\n[Locally-advanced]\nT3 or N+\nChemo or ChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
   },
   {
     "objectID": "eso_ca_cases.htm#dyplasia",
@@ -1565,7 +1698,7 @@
     "href": "eso_ca_cases.htm#symptomatic-tumors-dysphagia",
     "title": "Esophageal Cancer Cases",
     "section": "Symptomatic Tumors (Dysphagia)",
-    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) Locally-advanced\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
+    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) [Locally-advanced]\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
   },
   {
     "objectID": "eso_ca_cases.htm#eus-in-patients-with-dysphagia",
@@ -1580,118 +1713,6 @@
     "title": "Esophageal Cancer Cases",
     "section": "PET Scan",
     "text": "PET Scan\nPET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis 1\nBlock et al. (1997)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#locally-advanced",
-    "href": "eso_ca_cases.htm#locally-advanced",
-    "title": "Esophageal Cancer Cases",
-    "section": "Locally-advanced",
-    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#cross-trial-1",
-    "href": "eso_ca_cases.htm#cross-trial-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "CROSS Trial",
-    "text": "CROSS Trial\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nage \\(\\tilde{x}\\)=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\nCROSS Trial Details\nChemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)\n\n\n(Shapiro et al. 2015)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#cross---overall-survival-1",
-    "href": "eso_ca_cases.htm#cross---overall-survival-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "CROSS - Overall Survival",
-    "text": "CROSS - Overall Survival\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#cross---survival-by-histology-1",
-    "href": "eso_ca_cases.htm#cross---survival-by-histology-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "CROSS - Survival by Histology",
-    "text": "CROSS - Survival by Histology\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#cross---adenocarcinooma-1",
-    "href": "eso_ca_cases.htm#cross---adenocarcinooma-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "CROSS - Adenocarcinooma",
-    "text": "CROSS - Adenocarcinooma\nMedian survival 43mo vs 27mo\nPathologic complete response in 23%"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#cross---squamous-cell-carcinoma-1",
-    "href": "eso_ca_cases.htm#cross---squamous-cell-carcinoma-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "CROSS - Squamous cell carcinoma",
-    "text": "CROSS - Squamous cell carcinoma\nMedian survival 82mo vs 21mo\nPathologic complete response in 40%\n\n\n(Shapiro et al. 2015)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#cross---sites-of-failure",
-    "href": "eso_ca_cases.htm#cross---sites-of-failure",
-    "title": "Esophageal Cancer Cases",
-    "section": "CROSS - Sites of Failure",
-    "text": "CROSS - Sites of Failure\n\n\nSites of failure over time\nChemoRT + Surgery vs Surgery\nChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure\n\n\n\n\n\n(Shapiro et al. 2015)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#neoadjuvant-chemo-for-esoca",
-    "href": "eso_ca_cases.htm#neoadjuvant-chemo-for-esoca",
-    "title": "Esophageal Cancer Cases",
-    "section": "Neoadjuvant Chemo for EsoCA",
-    "text": "Neoadjuvant Chemo for EsoCA\n\nMAGIC trial (gastric): ECF1\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF vs Surgery\n\nOEO2 Trial: (esophageal) Chemo\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) Chemo vs Surgery\n\nFLOT (gastric): FLOT2\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) FLOT vs ECF\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF\nEsoPEC: (esophageal):FLOT\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)FLOT vs ChemoRT\\(\\rightarrow\\)Surgery (CROSS)\n\nEpirubicin, Cisplatin, 5FU5FU, Leuvocorin, Oxaliplatin, Decetaxol"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#oeo2-clinical-trial",
-    "href": "eso_ca_cases.htm#oeo2-clinical-trial",
-    "title": "Esophageal Cancer Cases",
-    "section": "OEO2 Clinical Trial",
-    "text": "OEO2 Clinical Trial\n\n802 Esophageal adenocarcinoma and squamous cell\nRandomized to Chemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo vs Surgery alone\nChemotherapy with ECF (Epirubicin, Cisplatin, 5FU)\n5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)\n\n\n\n(Allum et al. 2009)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#neo-aegis-tral-cross-vs-magicflot",
-    "href": "eso_ca_cases.htm#neo-aegis-tral-cross-vs-magicflot",
-    "title": "Esophageal Cancer Cases",
-    "section": "Neo-Aegis Tral CROSS vs MAGIC/FLOT",
-    "text": "Neo-Aegis Tral CROSS vs MAGIC/FLOT\n\nAdenocarcinoma T2-3 N0-3 M0 Tumor length &lt;8cm\nChemoRT arm: carboplatin + paclitaxel + 4140cGy\nChemo arm: MAGIC (ECF) or FLOT (later in trial)\nNo difference in overall survival\nR0 resection 96% with CROSS vs 82% with chemo\npCR 12% with CROSS vs 4% with chemo\n\n\n\n(reynolds1015?)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#esopec-trial-1",
-    "href": "eso_ca_cases.htm#esopec-trial-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "EsoPEC Trial",
-    "text": "EsoPEC Trial\n\nAdenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men\nRandomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438\nCROSS: carboplatin/paclitaxel + 4140cGy \\(\\rightarrow\\) Surgery\nFLOT: FLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT\nExcluded: Squamous cell, gastric cancer, T1N0, T4b, M1"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#esopec-trial-results-1",
-    "href": "eso_ca_cases.htm#esopec-trial-results-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "EsoPEC Trial Results",
-    "text": "EsoPEC Trial Results\n\nSurgery performed in 371/438 patients\n90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)\nMedian survival 66mo in FLOT arm and 37mo in Cross arm\n3-year overall survival 57% FLOT vs 51% CROSS\n5-year overall survival 51% FLOT vs 29% CROSS\npCR 17% for FLOT and 10% CROSS"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#adjuvant-immunotherapy-checkmate-577-trial",
-    "href": "eso_ca_cases.htm#adjuvant-immunotherapy-checkmate-577-trial",
-    "title": "Esophageal Cancer Cases",
-    "section": "Adjuvant Immunotherapy: Checkmate 577 Trial",
-    "text": "Adjuvant Immunotherapy: Checkmate 577 Trial\nImmunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease\nStage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell\nChemoRT \\(\\rightarrow\\) Surgery with residual disease on pathology\nTreatment Group: Nivolumab every 2 weeks x 4 months \\(\\rightarrow\\) every month x 8 months\nControl Group: No adjuvant therapy\nResults: Better survival in group with adjuvant nivolumab\n\n\n(Kelly et al. 2021)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#nivolumab",
-    "href": "eso_ca_cases.htm#nivolumab",
-    "title": "Esophageal Cancer Cases",
-    "section": "Nivolumab",
-    "text": "Nivolumab\n\n\nPD-L1 agonist ligand\nInterferes with tumor cell down-regulation of T cells\nActive against stage IV esophageal cancer\n\n\n\n\nNivolumab mechanism of action"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#chekmate-577-trial",
-    "href": "eso_ca_cases.htm#chekmate-577-trial",
-    "title": "Esophageal Cancer Cases",
-    "section": "Chekmate 577 Trial",
-    "text": "Chekmate 577 Trial\nEsoCA patients who received ChemoRT\\(\\rightarrow\\) Surgery with residual disease (not pCR)\nRandomized to one year of immunotherapy (nivolumab) vs Observation\nAdjuvant nivolumab group had longer median survival: 22mo vs 11mo\n\n\n(Kelly et al. 2021)"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#checkmate-577-trial",
-    "href": "eso_ca_cases.htm#checkmate-577-trial",
-    "title": "Esophageal Cancer Cases",
-    "section": "Checkmate 577 Trial",
-    "text": "Checkmate 577 Trial\n\n\n\nAdjuvant Nivolumab vs Observation\n\n\n\n\n(Kelly et al. 2021)"
   },
   {
     "objectID": "eso_ca_cases.htm#surgery-for-squamous-cell-carcinoma",
@@ -1720,6 +1741,20 @@
     "title": "Esophageal Cancer Cases",
     "section": "Metastatic",
     "text": "Metastatic\nFOLFOX is first-line systemic therapy for metastatic GI cancers\n\nDose-limiting toxicity is frequently peripheral neuropathy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#orientation-handbook",
+    "href": "eso_ca_cases.htm#orientation-handbook",
+    "title": "Esophageal Cancer Cases",
+    "section": "Orientation Handbook",
+    "text": "Orientation Handbook"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#references",
+    "href": "eso_ca_cases.htm#references",
+    "title": "Esophageal Cancer Cases",
+    "section": "References",
+    "text": "References\n\n\n\n\nBlock, M. I., G. A. Patterson, R. S. Sundaresan, M. S. Bailey, F. L. Flanagan, F. Dehdashti, B. A. Siegel, and J. D. Cooper. 1997. “Improvement in Staging of Esophageal Cancer with the Addition of Positron Emission Tomography.” The Annals of Thoracic Surgery 64 (3): 770-776; discussion 776-777. https://doi.org/10.1016/s0003-4975(97)00619-x.\n\n\nRipley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit S. Bains, David R. Jones, Prasad S. Adusumilli, et al. 2016. “Pretreatment Dysphagia in Esophageal Cancer Patients May Eliminate the Need for Staging by Endoscopic Ultrasonography.” The Annals of Thoracic Surgery 101 (1): 226–30. https://doi.org/10.1016/j.athoracsur.2015.06.062.\n\n\nShaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, Herbert C. Wolfsen, Richard E. Sampliner, Kenneth K. Wang, Joseph A. Galanko, et al. 2009. “Radiofrequency Ablation in Barrett’s Esophagus with Dysplasia.” The New England Journal of Medicine 360 (22): 2277–88. https://doi.org/10.1056/NEJMoa0808145.\n\n\nShapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. “Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (CROSS): Long-Term Results of a Randomised Controlled Trial.” The Lancet. Oncology 16 (9): 1090–98. https://doi.org/10.1016/S1470-2045(15)00040-6."
   },
   {
     "objectID": "colectomy_los.html",
@@ -1992,7 +2027,7 @@
     "href": "index.html",
     "title": "GI Surgical Oncology",
     "section": "",
-    "text": "General Surgery Residency Didactics\nEsophageal Perforation SCORE\nEsophageal Cancer Lecture\n\n\nAcute Care Surgery of the GI Cancer Patient\nOverview\n\n\nPatient Education\nEsophageal Cancer\nEsophageal Cancer T3\nGastric Cancer\n\n\nForegut Cancer Working Group\nEsophagectomy Early Recovery Literature Review\nOne Stage Esophagectomy\nRobotic Esophagectomy Literature\nRobotic MIE Planning\nRobotic Gastrectomy\n\n\nEsophagectomy Techniques\n[One Stage Esophagectomy(one_stage_mie.htm)]\n\n\nEsophagectomy Decision-making\nRole of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery\nSurgical Decision Making\n\n\nGastric\nGastric Decision-making\n\n\nSarcopenia\nEsophageal Cancer and Sarcopenia\nGI Cancers and Sarcopenia\nColorectal Cancer and Sarcopenia\nDisparities and Sarcopenai\nSarcopenia and Chemotherapy\nChemotherapy Toxicity\nCT methods for Sarcopenia\nMachine Learning for CT segmentation\nComprehensive Geriatric Assessmnent\nMyosteatosis\nFrailty Index\nCachexia\n\n\nColectomy\nColectomy Length of Stay\n\n\nGeriatric Surgery\nLiterature Review\n\n\nDisparities\nGI Cancer Disparities\n\n\nBlood Management Program\nLiterature Review\n\n\nStatistics\nstatistics\n\n\nLCI Patient Education\nLCI Welcome"
+    "text": "General Surgery Residency Didactics\nEsophageal Perforation SCORE\nEsophageal Cancer Lecture\nEsophageal Cancer Cases\n\n\nAcute Care Surgery of the GI Cancer Patient\nOverview\n\n\nPatient Education\nEsophageal Cancer\nEsophageal Cancer T3\nGastric Cancer\n\n\nForegut Cancer Working Group\nEsophagectomy Early Recovery Literature Review\nOne Stage Esophagectomy\nRobotic Esophagectomy Literature\nRobotic MIE Planning\nRobotic Gastrectomy\n\n\nEsophagectomy Techniques\n[One Stage Esophagectomy(one_stage_mie.htm)]\n\n\nEsophagectomy Decision-making\nRole of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery\nSurgical Decision Making\n\n\nGastric\nGastric Decision-making\n\n\nSarcopenia\nEsophageal Cancer and Sarcopenia\nGI Cancers and Sarcopenia\nColorectal Cancer and Sarcopenia\nDisparities and Sarcopenai\nSarcopenia and Chemotherapy\nChemotherapy Toxicity\nCT methods for Sarcopenia\nMachine Learning for CT segmentation\nComprehensive Geriatric Assessmnent\nMyosteatosis\nFrailty Index\nCachexia\n\n\nColectomy\nColectomy Length of Stay\n\n\nGeriatric Surgery\nLiterature Review\n\n\nDisparities\nGI Cancer Disparities\n\n\nBlood Management Program\nLiterature Review\n\n\nStatistics\nstatistics\n\n\nLCI Patient Education\nLCI Welcome"
   },
   {
     "objectID": "covid19_lit.html",
