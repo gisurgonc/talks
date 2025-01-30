@@ -1456,20 +1456,6 @@
     "text": "PET scan\n\n\nA PET scan is most accurate method of staging esophageal cancer"
   },
   {
-    "objectID": "eso_ca_cases.htm#preoperative-evaluation",
-    "href": "eso_ca_cases.htm#preoperative-evaluation",
-    "title": "Esophageal Cancer Cases",
-    "section": "Preoperative Evaluation",
-    "text": "Preoperative Evaluation"
-  },
-  {
-    "objectID": "eso_ca_cases.htm#preoperative-evaluation-1",
-    "href": "eso_ca_cases.htm#preoperative-evaluation-1",
-    "title": "Esophageal Cancer Cases",
-    "section": "Preoperative Evaluation",
-    "text": "Preoperative Evaluation\n\n25th percentile: Grip Strength 26kg (men) / 16kg (women)"
-  },
-  {
     "objectID": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma",
     "href": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma",
     "title": "Esophageal Cancer Cases",
@@ -1481,7 +1467,7 @@
     "href": "eso_ca_cases.htm#mi-esophagectomy",
     "title": "Esophageal Cancer Cases",
     "section": "MI Esophagectomy",
-    "text": "MI Esophagectomy\nCorrect answer, wrong timing\nT3 N0 M0 adenocarcinoma"
+    "text": "MI Esophagectomy\nCorrect answer, wrong timing\nWhy?\nT3 N0 M0 adenocarcinoma"
   },
   {
     "objectID": "eso_ca_cases.htm#chemo-radiation",
@@ -1558,7 +1544,42 @@
     "href": "eso_ca_cases.htm#case-7",
     "title": "Esophageal Cancer Cases",
     "section": "Case 7",
+    "text": "Case 7\nPatient returns after FLOT chemotherapy\nWhat are risks of surgery?"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#preoperative-evaluation",
+    "href": "eso_ca_cases.htm#preoperative-evaluation",
+    "title": "Esophageal Cancer Cases",
+    "section": "Preoperative Evaluation",
+    "text": "Preoperative Evaluation"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#preoperative-evaluation-1",
+    "href": "eso_ca_cases.htm#preoperative-evaluation-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Preoperative Evaluation",
+    "text": "Preoperative Evaluation\n\n25th percentile: Grip Strength 26kg (men) / 16kg (women)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-7-1",
+    "href": "eso_ca_cases.htm#case-7-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 7",
     "text": "Case 7\nPatient returns after FLOT chemotherapy\nWhat are surgical options?"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#low-risk-adenocarcinoma",
+    "href": "eso_ca_cases.htm#low-risk-adenocarcinoma",
+    "title": "Esophageal Cancer Cases",
+    "section": "Low Risk Adenocarcinoma",
+    "text": "Low Risk Adenocarcinoma"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#high-risk-adenocarcinoma",
+    "href": "eso_ca_cases.htm#high-risk-adenocarcinoma",
+    "title": "Esophageal Cancer Cases",
+    "section": "High Risk Adenocarcinoma",
+    "text": "High Risk Adenocarcinoma"
   },
   {
     "objectID": "eso_ca_cases.htm#surgery-for-esophageal-cancer",
