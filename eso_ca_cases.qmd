@@ -307,6 +307,8 @@ which occured during EUS
 Autopsy showed T3 adenocarcinoma
 :::
 
+[EUS in Patients with Dysphagia]
+
 
 [Case 4]
 
@@ -720,6 +722,12 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 
 [^2]: @block770
 
+## Locally-advanced
+
+For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
+
+-   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
 
 ## Surgery for Squamous Cell Carcinoma
 
