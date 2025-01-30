@@ -1439,7 +1439,7 @@
     "href": "eso_ca_cases.htm#endoscopic-ultrasound",
     "title": "Esophageal Cancer Cases",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\nYou receive a hand-written note from the family\n\n\ninviting you the patient’s 70th birthday\n\n\nafter they died from an esophageal perforation\n\n\nwhich occured during EUS\n\n\nAutopsy showed T3 adenocarcinoma\n\nCase 4"
+    "text": "Endoscopic Ultrasound\n\nYou receive a hand-written note from the family\n\n\ninviting you the patient’s 70th birthday\n\n\nafter they died from an esophageal perforation\n\n\nwhich occured during EUS\n\n\nAutopsy showed T3 adenocarcinoma\n\nEUS in Patients with Dysphagia\nCase 4"
   },
   {
     "objectID": "eso_ca_cases.htm#ct-chestabdomenpelvis",
@@ -1649,7 +1649,7 @@
     "href": "eso_ca_cases.htm#esophageal-cancer-treatment-categories",
     "title": "Esophageal Cancer Cases",
     "section": "Esophageal Cancer Treatment Categories",
-    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nDyplasia\nTis\nRadiofrequency Ablation\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nT1b T2\nSurgery\n\n\n[Locally-advanced]\nT3 or N+\nChemo or ChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
+    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nDyplasia\nTis\nRadiofrequency Ablation\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nT1b T2\nSurgery\n\n\nLocally-advanced\nT3 or N+\nChemo or ChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
   },
   {
     "objectID": "eso_ca_cases.htm#dyplasia",
@@ -1698,7 +1698,7 @@
     "href": "eso_ca_cases.htm#symptomatic-tumors-dysphagia",
     "title": "Esophageal Cancer Cases",
     "section": "Symptomatic Tumors (Dysphagia)",
-    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) [Locally-advanced]\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
+    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with PET Scan\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) Locally-advanced\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
   },
   {
     "objectID": "eso_ca_cases.htm#eus-in-patients-with-dysphagia",
@@ -1713,6 +1713,13 @@
     "title": "Esophageal Cancer Cases",
     "section": "PET Scan",
     "text": "PET Scan\nPET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis 1\nBlock et al. (1997)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#locally-advanced",
+    "href": "eso_ca_cases.htm#locally-advanced",
+    "title": "Esophageal Cancer Cases",
+    "section": "Locally-advanced",
+    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery (CROSS Trial)\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
   },
   {
     "objectID": "eso_ca_cases.htm#surgery-for-squamous-cell-carcinoma",
