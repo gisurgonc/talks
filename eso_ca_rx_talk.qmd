@@ -7,8 +7,8 @@ format:
     height: 900
     logo: "atriumlogo.jpg"
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
-    #css: ["theme/theme.css"]
-    theme: default
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
     echo: false
   #nanotes_pdf: default
   pdf:
@@ -272,9 +272,9 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 
 ## Adjuvant Immunotherapy: Checkmate 577 Trial
 
-Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease 
+Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
 
-Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell 
+Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell
 
 ChemoRT $\rightarrow$ Surgery *with residual disease on pathology*
 
@@ -308,7 +308,6 @@ Active against stage IV esophageal cancer
 
 EsoCA patients who received ChemoRT$\rightarrow$ Surgery with residual disease (not pCR)
 
-
 Randomized to one year of immunotherapy (nivolumab) vs Observation
 
 Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
@@ -329,10 +328,9 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 Squamous Cell Carcinoma of the esophagus
 
-- responds well to chemo+RT
-- more difficul to get a surgical margin on the airway
-- additional benefit of surgery on top of chemoRT is uncertain
-
+-   responds well to chemo+RT
+-   more difficul to get a surgical margin on the airway
+-   additional benefit of surgery on top of chemoRT is uncertain
 
 ## FFCD 9102 2007 (Bedenne)
 
@@ -344,15 +342,15 @@ Patients with a clinical response were randomized:
 
 -   3 cycles of chemo + 2000 cGy RT -\> 2 year survival 40% Median 19.3mo
 
-*No difference in overall survival* 
+*No difference in overall survival*
 
 ## German Trial (Stahl)
 
 4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
 
-6500cGy RT + Chemo:  41% 2-year PFS. Mortality 3.5%
+6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
 
-*No difference in overall survival* 
+*No difference in overall survival*
 
 ## Metastatic
 
