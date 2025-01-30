@@ -3350,7 +3350,7 @@
     "href": "eso_ca_cases.htm#case-2",
     "title": "Esophageal Cancer Cases",
     "section": "Case 2",
-    "text": "Case 2\nPathology shows high-grade dysplasia\n\n\nTreatment Options:\n\n\nObservation\nEsophagectomy\n[Cryotherapy]\n[Irreversible Electroporation]\nRadio-frequency Ablation"
+    "text": "Case 2\nPathology shows high-grade dysplasia\n\n\nTreatment Options:\n\n\nObservation\nEsophagectomy\nCryotherapy\nIrreversible Electroporation\nRadio-frequency Ablation"
   },
   {
     "objectID": "eso_ca_cases.htm#observation",
@@ -3448,7 +3448,7 @@
     "href": "eso_ca_cases.htm#pet-scan",
     "title": "Esophageal Cancer Cases",
     "section": "PET scan",
-    "text": "PET scan\n\n\nA PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer."
+    "text": "PET scan\n\n\nA PET scan is most accurate method of staging esophageal cancer"
   },
   {
     "objectID": "eso_ca_cases.htm#locally-advanced",
@@ -3609,7 +3609,7 @@
     "href": "eso_ca_cases.htm#case-3",
     "title": "Esophageal Cancer Cases",
     "section": "Case 3",
-    "text": "Case 3\nEGD shows a nodule in the Barrett’s esophagus\n\n\nTreatment Options:\n\n\n[Surveillence]\nMinimally Invasive Esophagectomy\nEndoscopic Mucosal Resection\nRadio-frequency Ablation Barxx"
+    "text": "Case 3\nEGD shows a nodule in the Barrett’s esophagus\n\n\nTreatment Options:\n\n\nSurveillance\nMinimally Invasive Esophagectomy\nEndoscopic Mucosal Resection\nRadio-frequency Ablation Barxx"
   },
   {
     "objectID": "eso_ca_cases.htm#surveillance",
@@ -3630,7 +3630,7 @@
     "href": "eso_ca_cases.htm#endoscopic-mucosal-resection",
     "title": "Esophageal Cancer Cases",
     "section": "Endoscopic Mucosal Resection",
-    "text": "Endoscopic Mucosal Resection\nEndoscopic procedure to remove a superficial tumor from the inner layer of the esophagus\n\n[Case 4]"
+    "text": "Endoscopic Mucosal Resection\nEndoscopic procedure resects mucosal tumor\n\nCase 4"
   },
   {
     "objectID": "eso_ca_cases.htm#radio-frequency-ablation-barxx",
@@ -3658,14 +3658,14 @@
     "href": "eso_ca_cases.htm#barium-swallow",
     "title": "Esophageal Cancer Cases",
     "section": "Barium Swallow",
-    "text": "Barium Swallow\nCorrect answer, wrong century"
+    "text": "Barium Swallow\nCorrect answer, wrong century\nCase 4"
   },
   {
     "objectID": "eso_ca_cases.htm#endoscopic-ultrasound",
     "href": "eso_ca_cases.htm#endoscopic-ultrasound",
     "title": "Esophageal Cancer Cases",
     "section": "Endoscopic Ultrasound",
-    "text": "Endoscopic Ultrasound\n\nYou receive a hand-written note from the family\n\n\ninviting you the patient’s 70th birthday\n\n\nafter they died from an esophageal perforation\n\n\nwhich occured during EUS\n\n\nAutopsy showed T3 adenocarcinoma\n\nCase 5"
+    "text": "Endoscopic Ultrasound\n\nYou receive a hand-written note from the family\n\n\ninviting you the patient’s 70th birthday\n\n\nafter they died from an esophageal perforation\n\n\nwhich occured during EUS\n\n\nAutopsy showed T3 adenocarcinoma\n\nCase 4"
   },
   {
     "objectID": "eso_ca_cases.htm#ct-chestabdomenpelvis",
@@ -3679,14 +3679,14 @@
     "href": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma",
     "title": "Esophageal Cancer Cases",
     "section": "T3 N0 M0 adenocarcinoma",
-    "text": "T3 N0 M0 adenocarcinoma\nTreatment Options - First Treatment Course\nEsophagectomy [Chemo + Radiation] [Chemotherapy]"
+    "text": "T3 N0 M0 adenocarcinoma\nTreatment Options - First Treatment Course\n\nMI Esophagectomy\nChemo + Radiation\nChemotherapy"
   },
   {
     "objectID": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma-1",
     "href": "eso_ca_cases.htm#t3-n0-m0-adenocarcinoma-1",
     "title": "Esophageal Cancer Cases",
-    "section": "T3 N0 M0 adenocarcinoma",
-    "text": "T3 N0 M0 adenocarcinoma\nFamily asks if there is a better treatment option than CROSS"
+    "section": "T3 N0 M0 Adenocarcinoma",
+    "text": "T3 N0 M0 Adenocarcinoma\nFamily asks if there is a better treatment option than CROSS"
   },
   {
     "objectID": "eso_ca_cases.htm#case-7",
@@ -3728,7 +3728,7 @@
     "href": "eso_ca_cases.htm#ivor-lewis-esophagectomy",
     "title": "Esophageal Cancer Cases",
     "section": "Ivor Lewis esophagectomy",
-    "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. A new connection is made between the esophagus and the stomach, called an anastomosis."
+    "text": "Ivor Lewis esophagectomy"
   },
   {
     "objectID": "eso_ca_cases.htm#minimally-invasive-ivor-lewis",
@@ -3840,7 +3840,7 @@
     "href": "eso_ca_cases.htm#thoracic-circular-stapled-anastomosis",
     "title": "Esophageal Cancer Cases",
     "section": "Thoracic Circular Stapled Anastomosis",
-    "text": "Thoracic Circular Stapled Anastomosis\n\n&lt;source src=“https://deidt7p41jzcy.cloudfront.net/eso_eea.mp4” type=“video/mp4”"
+    "text": "Thoracic Circular Stapled Anastomosis"
   },
   {
     "objectID": "eso_ca_cases.htm#test-video",
@@ -3862,5 +3862,89 @@
     "title": "Esophageal Cancer Cases",
     "section": "Slide Title",
     "text": "Slide Title"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#cryotherapy",
+    "href": "eso_ca_cases.htm#cryotherapy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Cryotherapy",
+    "text": "Cryotherapy\nCorrect answer, wrong century (not the 22nd)\nCase 2"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#irreversible-electroporation",
+    "href": "eso_ca_cases.htm#irreversible-electroporation",
+    "title": "Esophageal Cancer Cases",
+    "section": "Irreversible Electroporation",
+    "text": "Irreversible Electroporation\n\nCase 2"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#ivor-lewis-esophagectomy-1",
+    "href": "eso_ca_cases.htm#ivor-lewis-esophagectomy-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Ivor Lewis esophagectomy",
+    "text": "Ivor Lewis esophagectomy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#oringer-anastomosis",
+    "href": "eso_ca_cases.htm#oringer-anastomosis",
+    "title": "Esophageal Cancer Cases",
+    "section": "Oringer Anastomosis",
+    "text": "Oringer Anastomosis\n\n\n\nConduit positioned posterior to esophagus\nEsophagus brought anterior to conduit\nLinear stapler\nClosure with suture"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#transhiatal-esophagectomy-1",
+    "href": "eso_ca_cases.htm#transhiatal-esophagectomy-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Transhiatal Esophagectomy",
+    "text": "Transhiatal Esophagectomy\n\n\nAll of esophagus removed \n\nConnection made in the neck"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#orientation-handbook",
+    "href": "eso_ca_cases.htm#orientation-handbook",
+    "title": "Esophageal Cancer Cases",
+    "section": "Orientation Handbook",
+    "text": "Orientation Handbook\n\n\n\n\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-4",
+    "href": "eso_ca_cases.htm#case-4",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 4",
+    "text": "Case 4\nYour patient from Case 2 returns with dysphagia and weight loss"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-4-adenocarcinoma",
+    "href": "eso_ca_cases.htm#case-4-adenocarcinoma",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 4 Adenocarcinoma",
+    "text": "Case 4 Adenocarcinoma\nPathology shows adenocarcinoma\nWorkup?"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#case-4-adenocarcinoma-1",
+    "href": "eso_ca_cases.htm#case-4-adenocarcinoma-1",
+    "title": "Esophageal Cancer Cases",
+    "section": "Case 4 Adenocarcinoma",
+    "text": "Case 4 Adenocarcinoma\nWorkup?\n\nBarium Swallow\nEndoscopic Ultrasound\nCT Chest/Abdomen/Pelvis"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#mi-esophagectomy",
+    "href": "eso_ca_cases.htm#mi-esophagectomy",
+    "title": "Esophageal Cancer Cases",
+    "section": "MI Esophagectomy",
+    "text": "MI Esophagectomy\nCorrect answer, wrong timing\nT3 N0 M0 adenocarcinoma"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#chemo-radiation",
+    "href": "eso_ca_cases.htm#chemo-radiation",
+    "title": "Esophageal Cancer Cases",
+    "section": "Chemo + Radiation",
+    "text": "Chemo + Radiation\nConcurrent chemotherapy and radiation followed by surgery = Trimodality therapy"
+  },
+  {
+    "objectID": "eso_ca_cases.htm#chemotherapy",
+    "href": "eso_ca_cases.htm#chemotherapy",
+    "title": "Esophageal Cancer Cases",
+    "section": "Chemotherapy",
+    "text": "Chemotherapy\n“Sandwich” Chemotherapy may be superior to Trimodality therapy"
   }
 ]

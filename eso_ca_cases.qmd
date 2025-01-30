@@ -153,9 +153,18 @@ Correct answer, wrong century (not the 20th)
 
 [Case 2]
 
-## Cyrotherapy
+## Cryotherapy
 
 Correct answer, wrong century (not the 22nd)
+
+[Case 2]
+
+
+
+## Irreversible Electroporation
+
+![](https://www.mcgill.ca/oss/files/oss/styles/hd/public/frankenstein3.jpg)
+
 
 [Case 2]
 
@@ -190,7 +199,7 @@ Treatment Options:
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
 
-- [Surveillence]
+- [Surveillance]
 - [Minimally Invasive Esophagectomy]
 - [Endoscopic Mucosal Resection]
 - [Radio-frequency Ablation Barxx]
@@ -234,7 +243,7 @@ Correct answer, wrong patient
 
 ## Endoscopic Mucosal Resection
 
-Endoscopic procedure to remove a superficial tumor from the inner layer of the esophagus
+Endoscopic procedure resects mucosal tumor
 
 ![](https://deidt7p41jzcy.cloudfront.net/emr_comm.png)
 
@@ -246,30 +255,34 @@ Correct answer, wrong question
 
 
 
-## Case 5
+## Case 4
 
 Your patient from Case 2 returns with dysphagia and weight loss
 
 
 ![](https://deidt7p41jzcy.cloudfront.net/eso_egd2.png)
-## Case 5
+
+
+## Case 4 Adenocarcinoma
 
 Pathology shows adenocarcinoma
 
 Workup?
 
 
-## Case 5 adenocarcinoma
+## Case 4 Adenocarcinoma
 
 Workup?
 
-[Barium Swallow]
-[Endoscopic Ultrasound]
-[CT Chest/Abdomen/Pelvis]
+- [Barium Swallow]
+- [Endoscopic Ultrasound]
+- [CT Chest/Abdomen/Pelvis]
 
 ## Barium Swallow
 
 Correct answer, wrong century
+
+[Case 4]
 
 ## Endoscopic Ultrasound
 
@@ -295,7 +308,7 @@ Autopsy showed T3 adenocarcinoma
 :::
 
 
-[Case 5]
+[Case 4]
 
 ## CT Chest/Abdomen/Pelvis
 
@@ -305,7 +318,7 @@ What test do you order next?
 
 :::::: columns
 ::: {.column width="40%"}
-A PET scan is similar to a CT scan, and uses a small amount of tracer to light up areas of cancer.
+A PET scan is most accurate method of staging esophageal cancer
 :::
 
 :::: {.column width="60%"}
@@ -323,11 +336,21 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 
 Treatment Options - First Treatment Course
 
-[Esophagectomy]
-[Chemo + Radiation]
-[Chemotherapy]
+- [MI Esophagectomy]
+- [Chemo + Radiation]
+- [Chemotherapy]
 
 
+## MI Esophagectomy
+
+Correct answer, wrong timing
+
+[T3 N0 M0 adenocarcinoma]
+
+
+## Chemo + Radiation
+
+Concurrent chemotherapy and radiation followed by surgery = Trimodality therapy
 
 ## CROSS Trial
 
@@ -379,10 +402,13 @@ Pathologic complete response in 40%
 [@shapiro1090]
 :::
 
-## T3 N0 M0 adenocarcinoma
+## T3 N0 M0 Adenocarcinoma
 
 Family asks if there is a better treatment option than CROSS
 
+## Chemotherapy
+
+"Sandwich" Chemotherapy may be superior to Trimodality therapy
 
 ## EsoPEC Trial
 
@@ -577,11 +603,11 @@ Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McK
 
 ::::: columns
 ::: {.column width="50%"}
-All of esophagus removed ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
+![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
 :::
 
 ::: {.column width="50%"}
-Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE_ai.png)
+![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE_ai.png)
 :::
 :::::
 
@@ -590,11 +616,11 @@ Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE
 
 ::::: columns
 ::: {.column width="50%"}
-All of esophagus removed ![](https://deidt7p41jzcy.cloudfront.net/F320700.gif)
+![](https://deidt7p41jzcy.cloudfront.net/F320700.gif)
 :::
 
 ::: {.column width="50%"}
-Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/F320701.gif)
+![](https://deidt7p41jzcy.cloudfront.net/F320701.gif)
 :::
 :::::
 
@@ -724,206 +750,6 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 
 [^2]: @block770
 
-## Locally-advanced
-
-For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
-
--   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
-
-## CROSS Trial
-
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   age $\tilde{x}$=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
-
-CROSS Trial Details
-
-Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
-
-::: aside
-[@shapiro1090]
-:::
-
-## CROSS - Overall Survival
-
-![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
-
-::: aside
-[@shapiro1090]
-:::
-
-## CROSS - Survival by Histology
-
-![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
-
-::: aside
-[@shapiro1090]
-:::
-
-## CROSS - Adenocarcinooma
-
-Median survival 43mo vs 27mo
-
-Pathologic complete response in 23%
-
-## CROSS - Squamous cell carcinoma
-
-Median survival 82mo vs 21mo
-
-Pathologic complete response in 40%
-
-::: aside
-[@shapiro1090]
-:::
-
-## CROSS - Sites of Failure
-
-::::: columns
-::: {.column width="30%"}
-Sites of failure over time
-
-ChemoRT + Surgery *vs* Surgery
-
-ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
-:::
-
-::: {.column width="70%"}
-![](images/eyck.png)
-:::
-:::::
-
-::: aside
-[@shapiro1090]
-:::
-
-## Neoadjuvant Chemo for EsoCA
-
--   MAGIC trial (gastric): ECF[^3]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
--   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^4]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
--   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
-
-[^3]: Epirubicin, Cisplatin, 5FU
-
-[^4]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
-
-## OEO2 Clinical Trial
-
--   802 Esophageal adenocarcinoma and squamous cell
-
--   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
-
--   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
-
--   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
-
-::: aside
-[@allum5062]
-:::
-
-## Neo-Aegis Tral CROSS vs MAGIC/FLOT
-
--   Adenocarcinoma T2-3 N0-3 M0 Tumor length \<8cm
-
--   ChemoRT arm: carboplatin + paclitaxel + 4140cGy
-
--   Chemo arm: MAGIC (ECF) or FLOT (later in trial)
-
--   No difference in overall survival
-
--   R0 resection 96% with CROSS vs 82% with chemo
-
--   pCR 12% with CROSS vs 4% with chemo
-
-::: aside
-[@reynolds1015]
-:::
-
-## EsoPEC Trial
-
--   Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men
-
--   Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
-
--   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
-
--   FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
-
--   Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
-
-## EsoPEC Trial Results
-
--   Surgery performed in 371/438 patients
-
--   90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)
-
--   Median survival 66mo in FLOT arm and 37mo in Cross arm
-
--   3-year overall survival 57% FLOT vs 51% CROSS
-
--   5-year overall survival 51% FLOT vs 29% CROSS
-
--   pCR 17% for FLOT and 10% CROSS
-
-## Adjuvant Immunotherapy: Checkmate 577 Trial
-
-Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease 
-
-Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell 
-
-ChemoRT $\rightarrow$ Surgery *with residual disease on pathology*
-
-Treatment Group: Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 8 months
-
-Control Group: No adjuvant therapy
-
-Results: Better survival in group with adjuvant nivolumab
-
-::: aside
-[@kelly1191]
-:::
-
-## Nivolumab
-
-::::: columns
-::: {.column width="60%"}
-PD-L1 agonist ligand
-
-Interferes with tumor cell down-regulation of T cells
-
-Active against stage IV esophageal cancer
-:::
-
-::: {.column width="40%"}
-![Nivolumab mechanism of action](images/nivo.png)
-:::
-:::::
-
-## Chekmate 577 Trial
-
-EsoCA patients who received ChemoRT$\rightarrow$ Surgery with residual disease (not pCR)
-
-
-Randomized to one year of immunotherapy (nivolumab) vs Observation
-
-Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
-
-::: aside
-[@kelly1191]
-:::
-
-## Checkmate 577 Trial
-
-![Adjuvant Nivolumab vs Observation](images/kelly_1191_fig3.png){fig-align="left"}
-
-::: aside
-[@kelly1191]
-:::
 
 ## Surgery for Squamous Cell Carcinoma
 
@@ -973,7 +799,7 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 :::::
 
 ::: aside
-[@shapiro1090]
+
 :::
 
-# References
+## References
