@@ -417,6 +417,206 @@ Patient returns after FLOT chemotherapy
 What are surgical options?
 
 
+## Surgery for Esophageal Cancer
+
+Surgery for esophageal cancer is performed for:
+
+-   Superficial Tumors (T1) not completely removed by endoscopy
+-   Localized Tumors (T2N0)
+-   Locally Advanced (T3) after preoperative therapy.
+
+## Goals of Surgery
+
+::::: columns
+::: {.column width="50%"}
+-   Remove tumor from esophagus
+-   Remove surrounding lymph nodes
+-   Create a new esophagus
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)
+:::
+:::::
+
+## Ivor Lewis (Transthoracic) Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+-   Removes tumor
+-   Removes lower 1/3 of esophagus
+-   Removes surrounding lymph nodes
+-   Reconstruction of GI tract
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)
+:::
+:::::
+
+## Reconstruction
+
+::::: columns
+::: {.column width="50%"}
+A new esophagus is created from the stomach in the abdomen by fashioning it into a tube.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection3_ai.png)
+:::
+:::::
+
+
+## Minimally-invasive Ivor Lewis
+
+::::: columns
+::: {.column width="50%"}
+-   Laparoscopic mobilization of stomach
+-   Construction of gastric conduit
+-   Thoracic anastomosis
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
+:::
+:::::
+
+
+## Ivor Lewis esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/C21-FF3.png)
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/C21-FF6.png)
+:::
+:::::
+
+
+
+
+## Ivor Lewis esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/C21-FF7.png)
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/C21-FF8.png)
+:::
+:::::
+
+
+
+
+## Thoracic Circular Stapled Anastomosis {background-video="https://deidt7p41jzcy.cloudfront.net/eso_eea.mp4" background-video-loop="true" background-video-muted="true"}
+
+
+## Open Ivor Lewis
+
+::::: columns
+::: {.column width="50%"}
+We use the mininally-invasive approach in 95% of cases
+
+In some cases, an open approach is still necessary.
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/IvorLewisArtboard.png)
+:::
+:::::
+
+## Total Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+For patients with tumors in the upper esophagus, we need to remove more of the esophagus
+
+We need to remove the whole esophagus, including the portion in the neck
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_ProxTumorArtboard.png)
+:::
+:::::
+
+## McKeown Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+All of esophagus removed ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
+:::
+
+::: {.column width="50%"}
+Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png)
+:::
+:::::
+
+## Oringer Anastomosis
+
+::::: columns
+::: {.column width="50%"}
+- Conduit positioned posterior to esophagus
+- Esophagus brought anterior to conduit
+- Linear stapler
+- Closure with suture
+
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/F320704.gif)
+:::
+:::::
+
+
+
+## Transhiatal Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+All of esophagus removed ![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png)
+:::
+
+::: {.column width="50%"}
+Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE_ai.png)
+:::
+:::::
+
+
+## Transhiatal Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+All of esophagus removed ![](https://deidt7p41jzcy.cloudfront.net/F320700.gif)
+:::
+
+::: {.column width="50%"}
+Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/F320701.gif)
+:::
+:::::
+
+
+
+
+## Colon Interposition
+
+::::: columns
+::: {.column width="50%"}
+If the stomach is not suitable to make a new esophagus, the colon can be used to replace the esophagus
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/colon-interposition2.jpg)
+:::
+:::::
+
+## Colon Interposition
+
+![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
+
 
 
 ## Esophageal Cancer Treatment Categories
@@ -760,8 +960,20 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 -   Dose-limiting toxicity is frequently peripheral neuropathy
 
-# Orientation Manual
+## Orientation Handbook
 
-{{< qrcode https://gisurgonc.github.io/orientation width=500 height=500 >}}
+::::: columns
+::: {.column width="30%"}
+
+:::
+
+::: {.column width="70%"}
+![](https://deidt7p41jzcy.cloudfront.net/handbook_qr.png)
+:::
+:::::
+
+::: aside
+[@shapiro1090]
+:::
 
 # References
