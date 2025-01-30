@@ -10,6 +10,8 @@ title: "GI Surgical Oncology"
 
 [Esophageal Cancer Lecture](eso_ca_rx_talk.htm)
 
+[Esophageal Cancer Cases](eso_ca_cases.htm)
+
 # Acute Care Surgery of the GI Cancer Patient
 
 [Overview](acs_gicancer_lit.qmd)
