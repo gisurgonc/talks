@@ -98,6 +98,8 @@ Mean age dx colon cancer 44-61
 Predominant right side colon cancer
 Lifetime penetrance 82%
 
+## Lynch Other Cancers
+
 - Endometrial
 - Stomach
 - Ovarian
@@ -111,8 +113,155 @@ Lifetime penetrance 82%
 Colonoscopy q1-2 years staring age 20-25
 
 Women with Lymch have 25-60% lifetime risk of endometrial cancer
-45-12% lifethime risk of ovarian cancer
+45-12% lifetime risk of ovarian cancer
 Male: 1.2% risk of breast cancer (0.1% in general populations)
+
+## MMR and MSI
+
+Greater than 90% of LS tumors are MSI-high (MSI-H) and/or lack expression of at least one
+of the MMR proteins by IHC. Ten percent to 15% of sporadic colon cancers exhibit abnormal IHC and are MSI-H most often due to abnormal
+methylation of the MLH1 gene promoter, rather than due to LS. Mutant BRAF V600E is found in many sporadic MSI-H CRCs and is rarely
+found in LS-related CRCs. There are some tumors that will have MLH1 methylation but lack a BRAF PV. 
+
+
+## DNA Mismatch Repair Proteins
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S0009898115000285-gr2.jpg)
+:::
+
+
+## DNA Mismatch Repair Proteins
+
+
+:::::: columns
+:::: {.column width="50%"}
+::: {style="font-size: 125%;"}
+MLH1
+PMS1
+MSH6
+MSH2
+MSH5
+
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S0009898115000285-gr2.jpg)
+:::
+::::
+::::::
+
+
+
+
+
+
+
+
+## DNA Mismatch Repair Proteins
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S2211715624001577-gr3.jpg)
+:::
+
+## Mismatch Repair Proteins in Lynch Syndrome
+
+Lynch Syndrome can be caused by loss of expression of:
+
+- MLH1
+- PMS1
+- MSH6
+- MSH2
+- MSH5
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+wild-type MLH1 and PMS2 form a stable heterodimer
+
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+
+::: {.content-hidden unless-format="docx"}
+
+:::
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+Mutant MLH1 fails to form a stable heterodimer
+
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+Mutant MLH1 fails to form a stable heterodimer $\rightarrow$ PMS2 is degraded
+
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+If MLH1 is mutated $\rightarrow$ PMS2 protein is *not* detected
+
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+## Colon Polyposis: >10 adenomatous polyps
+
+- Classical FAP
+- Attenuated FAP (AFAP)
+- MUTYH-associated polyposis (MAP)
+- Colonic adenomatous polyposis of unknown
+etiology (CPUE)
+
+## Colon Polyposis: >4 hamartomatous polyps
+
+- Puetz-Jaghers
+- Juvenile Polyposis Syndrome
+- Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
+
+## Serrated Colon Polyps
+
+≥5 serrated polyps/lesions proximal
+to the rectum, all being ≥5 mm in size,
+with ≥2 being ≥10 mm in size
+OR
+>20 serrated polyps/lesions of any size
+distributed throughout the large bowel,
+with ≥5 being proximal to the rectum
+
+## Muir-Torre Syndrome
+
+Muir-Torre syndrome refers to individuals with LS who
+have LS-associated skin findings of sebaceous adenomas/carcinomas or keratoacanthomas.
 
 ## BRCA 1/2
 
@@ -274,7 +423,7 @@ Pituitary tumors resected via transsphenoidal
   
 ## MEN 2 Prophylactic surgery
 
-Thyiroidectomy prophylactic
+Prophylactic total thyroidectomy
 
 Testing for pheochromoyctoma prior wtih adrenalectomy prior
 
@@ -282,24 +431,6 @@ Monitor calcitonin and CEA after thryoidectomy
 
 
 
-
-## Case 1
-
-:::::: columns
-:::: {.column width="50%"}
-::: {style="font-size: 125%;"}
-62M with longstanding reflux has first EGD.
-
-Reflux got worse during training for a triathalon
-:::
-::::
-
-:::: {.column width="50%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/barretts_comm.png)
-:::
-::::
-::::::
 
 
 
@@ -576,27 +707,9 @@ Autopsy showed T3 adenocarcinoma
 
 [Case 4]
 
-## CT Chest/Abdomen/Pelvis
+## MLH1 and PMS Dimer in Mismatch Repair
 
 What test do you order next?
-
-## PET scan
-
-:::::: columns
-::: {.column width="40%"}
-A PET scan is most accurate method of staging esophageal cancer
-:::
-
-:::: {.column width="60%"}
-::: {.content-visible unless-format="docx"}
-![](https://deidt7p41jzcy.cloudfront.net/PetImage.png)
-:::
-::::
-::::::
-
-::: {.content-hidden unless-format="docx"}
-In some cases, the PET scan is not performed until a CT scans bas been done.
-:::
 
 
 ## T3 N0 M0 adenocarcinoma
