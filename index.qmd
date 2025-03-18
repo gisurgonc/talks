@@ -12,6 +12,9 @@ title: "GI Surgical Oncology"
 
 [Esophageal Cancer Cases](eso_ca_cases.htm)
 
+
+[Rectal Cancer Adjuvant](rectal_crt_talk.qmd)
+
 # Acute Care Surgery of the GI Cancer Patient
 
 [Overview](acs_gicancer_lit.qmd)

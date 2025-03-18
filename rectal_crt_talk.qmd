@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer Treatment"
+title: "Rectal Cancer Adjuvant Treatment"
 format: 
   revealjs:
     slide-number: c/t
@@ -20,15 +20,9 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Esophageal Cancer Treatment Categories
+## History of Rectal Adjunctive Rx
 
-| Category             |   Stage    | Treatment                  |
-|----------------------|:----------:|:---------------------------|
-| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
-| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
-| [Localized Tumors]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
-| [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+![](.png)
 
 ## Dyplasia
 
