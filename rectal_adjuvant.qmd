@@ -14,21 +14,67 @@ format:
 editor: visual
 ---
 
-::: {#fig-elephant}
+## History of Rectal Adjunctive Therapy
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SNggmeilXDQ"></iframe>
+![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history_no_swedish.png)\]
+
+
+## History of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history.png)\]
+
+## History of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g009.jpg)\]
+
+## History of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g008.jpg)\]
+
+
+## History of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg)\]
+
+## History of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg)\]
+
+## History of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g005.jpg)\]
+## History of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g004.jpg)\]
+
+##
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)\]
+
+##
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g002.jpg)\]
+
+##
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g001.jpg)\]
+
+
+::: {#fig-elephant}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SNggmeilXDQ">
+
+</iframe>
 
 Elephant
 :::
 
 # Total Mesorectal Excision
 
-![](images/TME.jpeg){.absolute top=200 left=0 width="530" height="414"}
+![](images/TME.jpeg){.absolute top="200" left="0" width="530" height="414"}
 
 # Image
 
-![](images/TME.jpeg){.absolute top=200 }
-
+![](images/TME.jpeg){.absolute top="200"}
 
 # Image
 
@@ -70,10 +116,7 @@ Upper GI with gastrograffin (?)
 
 # Treatment
 
--Treatment of contamination
--Wide local drainage 
--Source control 
--Enteral feeding access
+-Treatment of contamination -Wide local drainage -Source control -Enteral feeding access
 
 # Surgical Options
 
