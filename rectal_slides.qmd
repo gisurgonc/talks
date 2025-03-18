@@ -19,69 +19,49 @@ bibliography: zotero.bib
 
 [Pathophysiology]
 
-| Category             |   Stage    | Treatment                  |
-|----------------------|:----------:|:---------------------------|
-| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
-| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
-| [Localized Tumors]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
-| [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+| Category               |   Stage    | Treatment                  |
+|------------------------|:----------:|:---------------------------|
+| \[Dyplasia\]           |    Tis     | Radiofrequency Ablation    |
+| \[Superficial Tumors\] |    T1a     | Endoscopic Therapy         |
+| \[Localized Tumors\]   |   T1b T2   | Surgery                    |
+| [Locally-advanced]     | T3 or N^+^ | ChemoRT → Surgery          |
+| [Metastatic]           |     M1     | Chemotherapy +/- Radiation |
 
-
-:::aside
+::: aside
 [@schaefer1]
 :::
 
-
 ## Pathophysiology
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
-Origin with bowel wall
-stomach- small intestine
-- colon - esophagus
-
+Origin with bowel wall stomach- small intestine - colon - esophagus
 :::
 
 ::: {.column width="50%"}
-Tyrosine kinase gain of function mutations
-- KIT2
-- PDGRFA3
-Genetic inactivation
-- NF14
-- succinate dehydrogenase (SDH)
+Tyrosine kinase gain of function mutations - KIT2 - PDGRFA3 Genetic inactivation - NF14 - succinate dehydrogenase (SDH)
 :::
+:::::
 
-::::
-
-:::aside
+::: aside
 [@shaheen2277]
 :::
 
-
 ## Rapido Trial
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="30%"}
-Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery
-vs
-ChemoRT $\rightarrow$  TME +/- Chemo
-
+Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery vs ChemoRT $\rightarrow$ TME +/- Chemo
 :::
 
 ::: {.column width="70%"}
 ![](images/shaheen.png)
 :::
+:::::
 
-::::
-
-:::aside
+::: aside
 Lancet Oncol December 7, 2020
 :::
-
-
 
 ## Total Neoadjuvant Therapy
 
@@ -89,25 +69,24 @@ Induction Chemotherapy
 
 Consolidation Chemotherapy
 
-
 ## KIT and PDGFR Mutations
 
 ![](images/kit_pdgrfa.png){fig-align="center"}
 
 ## EORTC 22921
 
-- Bossset Lancet Oncol p 184 2014
-  
+-   Bossset Lancet Oncol p 184 2014
+
 ## Prodige 23
 
 -   PHase 3 RCT n=461
-- mFOLFIRINOX -> CRT -> Surgery -> Adjuvant Chemo
+-   mFOLFIRINOX -\> CRT -\> Surgery -\> Adjuvant Chemo
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
 ## Symptomatic Tumors (Dysphagia)
 
-Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
+Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with \[PET Scan\]
 
 -   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
 -   Metastatic disease $\rightarrow$ [Metastatic]
@@ -115,49 +94,38 @@ Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlik
 
 ## ACOSOG ZZ9001
 
-GIST Tumors >3cm randomized:
-- 1 year of imatinib 40mg
-- Observation
+GIST Tumors \>3cm randomized: - 1 year of imatinib 40mg - Observation
 
-Recurrence-free survival 98% vs 83%
-No significant difference at 6 years
+Recurrence-free survival 98% vs 83% No significant difference at 6 years
 
 *Imatinib may simply delay recurrences*
 
-:::aside
+::: aside
 Ref
 :::
-
-
 
 ## SSG SVII
 
-High-risk GIST randomized:
-- 1 year of imatinib 400mg
-- 3 year of imatinib 400mg
+High-risk GIST randomized: - 1 year of imatinib 400mg - 3 year of imatinib 400mg
 
-5-year Recurrence-free survival 48% vs 66%
-5-year Overall Survival 82% vs 92%
+5-year Recurrence-free survival 48% vs 66% 5-year Overall Survival 82% vs 92%
 
-:::aside
+::: aside
 Ref
 :::
 
-
 ## Mutational Testing
 
-Genetic mutations can predict respoinse to imatinib [^2]
+Genetic mutations can predict respoinse to imatinib [^1]
 
-[^2]: Meheran JCO 2017
+[^1]: Meheran JCO 2017
 
 ## Locally-advanced
 
 For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
 
--   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
+-   ChemoRT $\rightarrow$ Surgery (\[CROSS Trial\])
 -   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
-
-
 
 ## Positive Margins
 
@@ -169,10 +137,9 @@ For patients with locally-advanced esophageal cancer, improved survival with adj
 -   median age=60
 -   longer survival with Chemo+RT $\rightarrow$ Surgery
 
-:::aside
+::: aside
 Gronchi JAMA Surg 2020
 :::
-
 
 ## Imatinib 1yr vs 3 yr
 
@@ -184,32 +151,31 @@ Gronchi JAMA Surg 2020
 -   median age=60
 -   longer survival with Chemo+RT $\rightarrow$ Surgery
 
-:::aside
+::: aside
 Joensuu JAMA Oncology 2020
 :::
 
-
 ## Wild-Type GIST
 
-- SDH-Deficient
-    - SDHx mutation
-    - SDH wild-type
-  - Associated with Carney-Stratakis syndrome
-- No SDH Deficiency
-  - NF1-GIST
-  - Sporadic Wild-Type GIST
+-   SDH-Deficient
+    -   SDHx mutation
+    -   SDH wild-type
+    -   Associated with Carney-Stratakis syndrome
+-   No SDH Deficiency
+    -   NF1-GIST
+    -   Sporadic Wild-Type GIST
 
-:::aside
+::: aside
 Weldon JCS 2017
 :::
 
 ## NF1-associated GIST
 
-- Multicentric (33%)
-- Median age 46
-- Small bowel >> Duodenum >> Stomach
+-   Multicentric (33%)
+-   Median age 46
+-   Small bowel \>\> Duodenum \>\> Stomach
 
-:::aside
+::: aside
 Weldon JCS 2017
 :::
 
@@ -217,21 +183,17 @@ Weldon JCS 2017
 
 ![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
 
-
-:::aside
+::: aside
 Joensuu Lancet March 2012
 :::
-
 
 ## CROSS - Survival by Histology
 
 ![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
 
-
-:::aside
+::: aside
 Miettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83
 :::
-
 
 ## CROSS - Pathologic Response
 
@@ -239,51 +201,41 @@ pCR seen in 23% of patients with adenocarcinoma
 
 pCR seen in 40% of patients with squamous cell carcinoma
 
-
-:::aside
+::: aside
 [@shapiro1090]
 :::
 
-
-
 ## CROSS - Sites of Failure
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="30%"}
-Sites of failure over time 
+Sites of failure over time
 
 ChemoRT + Surgery *vs* Surgery
 
 ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
-
 :::
 
 ::: {.column width="70%"}
 ![](images/eyck.png)
 :::
+:::::
 
-::::
-
-
-:::aside
+::: aside
 [@shapiro1090]
 :::
-
 
 ## Checkmate 577 Trial
 
 Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
 
-
-:::aside
+::: aside
 [@kelly1191]
 :::
 
 ## Nivolumab
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="60%"}
 PD-L1 agonist ligand
 
@@ -295,10 +247,7 @@ Active against stage IV esophageal cancer
 ::: {.column width="40%"}
 ![Nivolumab mechanism of action](images/nivo.png)
 :::
-
-::::
-
-
+:::::
 
 ## Chekmate 577 Trial
 
@@ -308,7 +257,7 @@ Randomized to one year of immunotherapy (nivolumab) vs Observation
 
 Adjuvant nivolumab group had better survival
 
-:::aside
+::: aside
 [@kelly1191]
 :::
 
@@ -316,21 +265,20 @@ Adjuvant nivolumab group had better survival
 
 ![Adjuvant Nivolumab vs Observation](images/kelly_1191_fig3.png){fig-align="left"}
 
-
-:::aside
+::: aside
 [@kelly1191]
 :::
 
 ## Neoadjuvant Chemo for EsoCA
 
--   MAGIC trial (gastric): ECF[^3]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+-   MAGIC trial (gastric): ECF[^2]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
 -   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^4]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+-   FLOT (gastric): FLOT[^3]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
 -   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
 
-[^3]: Epirubicin, Cisplatin, 5FU
+[^2]: Epirubicin, Cisplatin, 5FU
 
-[^4]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
+[^3]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
 
 ## OEO2 Clinical Trial
 
@@ -342,8 +290,7 @@ Adjuvant nivolumab group had better survival
 
 -   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
 
-
-:::aside
+::: aside
 [@allum5062]
 :::
 
