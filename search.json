@@ -2856,13 +2856,6 @@
     "text": "Dutch Trial Results"
   },
   {
-    "objectID": "rectal_adjuvant.htm#short-course-rt",
-    "href": "rectal_adjuvant.htm#short-course-rt",
-    "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Short-course RT",
-    "text": "Short-course RT\nAn alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.\nSwedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prioro to the widespread use of total mesorectal excision."
-  },
-  {
     "objectID": "rectal_adjuvant.htm#german-trial",
     "href": "rectal_adjuvant.htm#german-trial",
     "title": "Rectal Cancer Adjuvant Therapy",
@@ -2874,7 +2867,35 @@
     "href": "rectal_adjuvant.htm#german-trial-1",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "German Trial",
-    "text": "German Trial"
+    "text": "German Trial\n ## Short-course RT\nAn alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.\nSwedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision."
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#stockholm-iii",
+    "href": "rectal_adjuvant.htm#stockholm-iii",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Stockholm III",
+    "text": "Stockholm III\nStockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#stockholm-iii-1",
+    "href": "rectal_adjuvant.htm#stockholm-iii-1",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Stockholm III",
+    "text": "Stockholm III"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#overview-of-rectal-adjunctive-therapy-1",
+    "href": "rectal_adjuvant.htm#overview-of-rectal-adjunctive-therapy-1",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Overview of Rectal Adjunctive Therapy",
+    "text": "Overview of Rectal Adjunctive Therapy"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#adjuvant-chemotherapy",
+    "href": "rectal_adjuvant.htm#adjuvant-chemotherapy",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Adjuvant Chemotherapy",
+    "text": "Adjuvant Chemotherapy\nPostoperative (adjuvant) chemotherapy was shown to be effective in reducing distant metastasis and improving survival in the ECORT 22921 clinical trial."
   },
   {
     "objectID": "rectal_adjuvant.htm#timing-of-chemotherapy-and-chemort",
@@ -2924,20 +2945,6 @@
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "History of Rectal Adjunctive Therapy",
     "text": "History of Rectal Adjunctive Therapy"
-  },
-  {
-    "objectID": "rectal_adjuvant.htm#stockholm-iii",
-    "href": "rectal_adjuvant.htm#stockholm-iii",
-    "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Stockholm III",
-    "text": "Stockholm III\nStockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]"
-  },
-  {
-    "objectID": "rectal_adjuvant.htm#stockholm-iii-1",
-    "href": "rectal_adjuvant.htm#stockholm-iii-1",
-    "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Stockholm III",
-    "text": "Stockholm III"
   },
   {
     "objectID": "rectal_adjuvant.htm#history-of-rectal-adjunctive-therapy-1",
