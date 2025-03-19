@@ -27,7 +27,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-2f366650f320edcfcf53d73c80250a32.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -157,7 +177,7 @@
 <section id="dutch-trial" class="slide level2">
 <h2>Dutch Trial</h2>
 <p>Dutch trial combined postoperative chemoRT and protocol-driven surgery using total mesorectal excision (TME)</p>
-<p>Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME<span class="citation" data-cites="kapiteijn638">[@kapiteijn638]</span>. Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival</p>
+<p>Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME<span class="citation" data-cites="kapiteijn638">(<a href="#/section" role="doc-biblioref" onclick="">Kapiteijn et al. 2001</a>)</span>. Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival</p>
 </section>
 <section id="dutch-trial-results" class="slide level2">
 <h2>Dutch Trial Results</h2>
@@ -174,11 +194,11 @@
 <section id="short-course-rt" class="slide level2">
 <h2>Short-course RT</h2>
 <p>An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.</p>
-<p>Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%<span class="citation" data-cites="swedishrectalcancertrial980">[@swedishrectalcancertrial980]</span>. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.</p>
+<p>Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%<span class="citation" data-cites="swedishrectalcancertrial980">(<a href="#/section" role="doc-biblioref" onclick="">Swedish Rectal Cancer Trial et al. 1997</a>)</span>. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.</p>
 </section>
 <section id="stockholm-iii" class="slide level2">
 <h2>Stockholm III</h2>
-<p>Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery <span class="citation" data-cites="pettersson972">[@pettersson972]</span></p>
+<p>Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery <span class="citation" data-cites="pettersson972">(<a href="#/section" role="doc-biblioref" onclick="">Pettersson et al. 2015</a>)</span></p>
 </section>
 <section id="stockholm-iii-1" class="slide level2">
 <h2>Stockholm III</h2>
@@ -209,11 +229,11 @@
 </section>
 <section id="rapido-trial" class="slide level2">
 <h2>RAPIDO Trial</h2>
-<p>RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).<span class="citation" data-cites="bahadoer29">[@bahadoer29]</span> <span class="citation" data-cites="vandervalk75">[@vandervalk75]</span></p>
+<p>RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).<span class="citation" data-cites="bahadoer29">(<a href="#/section" role="doc-biblioref" onclick="">Bahadoer et al. 2021</a>)</span> <span class="citation" data-cites="vandervalk75">(<a href="#/section" role="doc-biblioref" onclick="">Valk et al. 2020</a>)</span></p>
 </section>
 <section id="prodige-23-trial" class="slide level2">
 <h2>PRODIGE-23 Trial</h2>
-<p>PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.<span class="citation" data-cites="conroy702">[@conroy702]</span></p>
+<p>PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.<span class="citation" data-cites="conroy702">(<a href="#/section" role="doc-biblioref" onclick="">Conroy et al. 2021</a>)</span></p>
 </section>
 <section id="rapido-and-prodige" class="slide level2">
 <h2>RAPIDO and PRODIGE</h2>
@@ -221,7 +241,7 @@
 <img data-src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg" class="r-stretch"></section>
 <section id="opra-clinical-trial" class="slide level2">
 <h2>OPRA Clinical Trial</h2>
-<p>OPRA clinical trial <span class="citation" data-cites="garcia-aguilar2546">[@garcia-aguilar2546]</span>. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also <span class="citation" data-cites="smith767">[@smith767]</span></p>
+<p>OPRA clinical trial <span class="citation" data-cites="garcia-aguilar2546">(<a href="#/section" role="doc-biblioref" onclick="">Garcia-Aguilar et al. 2022</a>)</span>. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also <span class="citation" data-cites="smith767">(<a href="#/section" role="doc-biblioref" onclick="">Smith et al. 2015</a>)</span></p>
 </section>
 <section id="history-of-rectal-adjunctive-therapy" class="slide level2">
 <h2>History of Rectal Adjunctive Therapy</h2>
@@ -232,12 +252,38 @@
 <p><img data-src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g005.jpg"> ## History of Rectal Adjunctive Therapy</p>
 <p><img data-src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g004.jpg"></p>
 </section>
-<section id="section" class="slide level2">
+<section id="section" class="slide level2 smaller scrollable">
 <h2></h2>
+<p><img data-src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg"> ## References</p>
 
 
-
-<img data-src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg" class="r-stretch"></section>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-bahadoer29" class="csl-entry" role="listitem">
+Bahadoer, Renu R., Esmée A. Dijkstra, Boudewijn van Etten, Corrie A. M. Marijnen, Hein Putter, Elma Meershoek-Klein Kranenbarg, Annet G. H. Roodvoets, et al. 2021. <span>“Short-Course Radiotherapy Followed by Chemotherapy Before Total Mesorectal Excision (<span>TME</span>) Versus Preoperative Chemoradiotherapy, <span>TME</span>, and Optional Adjuvant Chemotherapy in Locally Advanced Rectal Cancer (<span>RAPIDO</span>): A Randomised, Open-Label, Phase 3 Trial.”</span> <em>The Lancet. Oncology</em> 22 (1): 29–42. <a href="https://doi.org/10.1016/S1470-2045(20)30555-6">https://doi.org/10.1016/S1470-2045(20)30555-6</a>.
+</div>
+<div id="ref-conroy702" class="csl-entry" role="listitem">
+Conroy, Thierry, Jean-François Bosset, Pierre-Luc Etienne, Emmanuel Rio, Éric François, Nathalie Mesgouez-Nebout, Véronique Vendrely, et al. 2021. <span>“Neoadjuvant Chemotherapy with <span>FOLFIRINOX</span> and Preoperative Chemoradiotherapy for Patients with Locally Advanced Rectal Cancer (<span>UNICANCER</span>-<span>PRODIGE</span> 23): A Multicentre, Randomised, Open-Label, Phase 3 Trial.”</span> <em>The Lancet. Oncology</em> 22 (5): 702–15. <a href="https://doi.org/10.1016/S1470-2045(21)00079-6">https://doi.org/10.1016/S1470-2045(21)00079-6</a>.
+</div>
+<div id="ref-garcia-aguilar2546" class="csl-entry" role="listitem">
+Garcia-Aguilar, Julio, Sujata Patil, Marc J. Gollub, Jin K. Kim, Jonathan B. Yuval, Hannah M. Thompson, Floris S. Verheij, et al. 2022. <span>“Organ <span>Preservation</span> in <span>Patients</span> <span>With</span> <span>Rectal</span> <span>Adenocarcinoma</span> <span>Treated</span> <span>With</span> <span>Total</span> <span>Neoadjuvant</span> <span>Therapy</span>.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 40 (23): 2546–56. <a href="https://doi.org/10.1200/JCO.22.00032">https://doi.org/10.1200/JCO.22.00032</a>.
+</div>
+<div id="ref-kapiteijn638" class="csl-entry" role="listitem">
+Kapiteijn, E., C. A. Marijnen, I. D. Nagtegaal, H. Putter, W. H. Steup, T. Wiggers, H. J. Rutten, et al. 2001. <span>“Preoperative Radiotherapy Combined with Total Mesorectal Excision for Resectable Rectal Cancer.”</span> <em>The New England Journal of Medicine</em> 345 (9): 638–46. <a href="https://doi.org/10.1056/NEJMoa010580">https://doi.org/10.1056/NEJMoa010580</a>.
+</div>
+<div id="ref-pettersson972" class="csl-entry" role="listitem">
+Pettersson, D., E. Lörinc, T. Holm, H. Iversen, B. Cedermark, B. Glimelius, and A. Martling. 2015. <span>“Tumour Regression in the Randomized <span>Stockholm</span> <span>III</span> <span>Trial</span> of&nbsp;Radiotherapy Regimens for Rectal Cancer.”</span> <em>The British Journal of Surgery</em> 102 (8): 972–978; discussion 978. <a href="https://doi.org/10.1002/bjs.9811">https://doi.org/10.1002/bjs.9811</a>.
+</div>
+<div id="ref-smith767" class="csl-entry" role="listitem">
+Smith, J. Joshua, Oliver S. Chow, Marc J. Gollub, Garrett M. Nash, Larissa K. Temple, Martin R. Weiser, José G. Guillem, et al. 2015. <span>“Organ <span>Preservation</span> in <span>Rectal</span> <span>Adenocarcinoma</span>: A Phase <span>II</span> Randomized Controlled Trial Evaluating 3-Year Disease-Free Survival in Patients with Locally Advanced Rectal Cancer Treated with Chemoradiation Plus Induction or Consolidation Chemotherapy, and Total Mesorectal Excision or Nonoperative Management.”</span> <em>BMC Cancer</em> 15 (October): 767. <a href="https://doi.org/10.1186/s12885-015-1632-z">https://doi.org/10.1186/s12885-015-1632-z</a>.
+</div>
+<div id="ref-swedishrectalcancertrial980" class="csl-entry" role="listitem">
+Swedish Rectal Cancer Trial, B. Cedermark, M. Dahlberg, B. Glimelius, L. Påhlman, L. E. Rutqvist, and N. Wilking. 1997. <span>“Improved Survival with Preoperative Radiotherapy in Resectable Rectal Cancer.”</span> <em>The New England Journal of Medicine</em> 336 (14): 980–87. <a href="https://doi.org/10.1056/NEJM199704033361402">https://doi.org/10.1056/NEJM199704033361402</a>.
+</div>
+<div id="ref-vandervalk75" class="csl-entry" role="listitem">
+Valk, Maxime J. M. van der, Corrie A. M. Marijnen, Boudewijn van Etten, Esmée A. Dijkstra, Denise E. Hilling, Elma Meershoek-Klein Kranenbarg, Hein Putter, et al. 2020. <span>“Compliance and Tolerability of Short-Course Radiotherapy Followed by Preoperative Chemotherapy and Surgery for High-Risk Rectal Cancer - <span>Results</span> of the International Randomized <span>RAPIDO</span>-Trial.”</span> <em>Radiotherapy and Oncology: Journal of the European Society for Therapeutic Radiology and Oncology</em> 147 (June): 75–83. <a href="https://doi.org/10.1016/j.radonc.2020.03.011">https://doi.org/10.1016/j.radonc.2020.03.011</a>.
+</div>
+</div>
+</section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="atriumlogo.jpg" class="slide-logo"></p>
