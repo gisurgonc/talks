@@ -34,7 +34,7 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 ## GI Tumor Study Group
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
-# Total Mesorectal Excision
+## Total Mesorectal Excision
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g002.jpg)
 
@@ -58,6 +58,7 @@ German Trial compared preoperative ChemoRT vs postoperative ChemoRT
 ## German Trial
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g005.jpg)
+
 ## Short-course RT
 
 An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.
@@ -122,11 +123,6 @@ OPRA clinical trial [@garcia-aguilar2546]. 324 rectal cancer patients staged wit
 
 
 
-
-##
-
-##
-
 ## History of Rectal Adjunctive Therapy
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g005.jpg)
@@ -138,6 +134,4 @@ OPRA clinical trial [@garcia-aguilar2546]. 324 rectal cancer patients staged wit
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
 
-##
 
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g002.jpg)\]
