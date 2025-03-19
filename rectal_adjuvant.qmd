@@ -62,18 +62,18 @@ German Trial compared preoperative ChemoRT vs postoperative ChemoRT
 
 ## Short-course RT
 
-An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.
+An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone preoperative over a five day period.
 
 Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.
 
 
 ## Stockholm III
 
-Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in imporved rates of pathologic complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]
+Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in improved rates of pathological complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]
 
 ## Stockholm III
 
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg)
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg)
 
 
 
@@ -106,6 +106,12 @@ TNT approach moves all therapy to before surgery with goals to:
 
 RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29] [@vandervalk75]
 
+Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery 
+
+vs 
+
+ChemoRT $\rightarrow$ TME +/- Chemo
+
 ## PRODIGE-23 Trial
 
 PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.[@conroy702]
@@ -118,21 +124,6 @@ PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course ra
 
 OPRA clinical trial [@garcia-aguilar2546]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also [@smith767]
 
-## History of Rectal Adjunctive Therapy
 
-![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history.png)
-
-
-
-## History of Rectal Adjunctive Therapy
-
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g005.jpg)
-## History of Rectal Adjunctive Therapy
-
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g004.jpg)
-
-##
-
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
 ## References
 
