@@ -129,7 +129,7 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
 
 -   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo (\[EsoPEC Trial\])
 
 ## CROSS Trial
 
@@ -201,7 +201,6 @@ ChemoRT appears to reduce risk of local or local+distant failure, but not isolat
 [@shapiro1090]
 :::
 
-
 ## Adjuvant Immunotherapy: Checkmate 577 Trial
 
 Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
@@ -255,7 +254,6 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 ::: aside
 [@kelly1191]
 :::
-
 
 ## Neoadjuvant Chemo for EsoCA
 
@@ -360,8 +358,8 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 -   Dose-limiting toxicity is frequently peripheral neuropathy
 
-# Orientation Manual
+## Orientation Manual
 
 {{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
 
-# References
+## References
