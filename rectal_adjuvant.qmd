@@ -12,6 +12,7 @@ format:
       
     echo: false
 editor: visual
+bibliography: zotero.bib
 ---
 
 
@@ -133,5 +134,5 @@ OPRA clinical trial [@garcia-aguilar2546]. 324 rectal cancer patients staged wit
 ##
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
-
+## References
 
