@@ -2839,7 +2839,7 @@
     "href": "rectal_adjuvant.htm#gi-tumor-study-group",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "GI Tumor Study Group",
-    "text": "GI Tumor Study Group\n # Total Mesorectal Excision"
+    "text": "GI Tumor Study Group\n ## Total Mesorectal Excision"
   },
   {
     "objectID": "rectal_adjuvant.htm#dutch-trial",
@@ -2867,7 +2867,14 @@
     "href": "rectal_adjuvant.htm#german-trial-1",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "German Trial",
-    "text": "German Trial\n ## Short-course RT\nAn alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.\nSwedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision."
+    "text": "German Trial"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#short-course-rt",
+    "href": "rectal_adjuvant.htm#short-course-rt",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Short-course RT",
+    "text": "Short-course RT\nAn alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone properative over a five day period.\nSwedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision."
   },
   {
     "objectID": "rectal_adjuvant.htm#stockholm-iii",
@@ -2952,13 +2959,6 @@
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "History of Rectal Adjunctive Therapy",
     "text": "History of Rectal Adjunctive Therapy\n ## History of Rectal Adjunctive Therapy"
-  },
-  {
-    "objectID": "rectal_adjuvant.htm#section-3",
-    "href": "rectal_adjuvant.htm#section-3",
-    "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "",
-    "text": "]"
   },
   {
     "objectID": "geriatric_surgery_lit.html",
