@@ -82,144 +82,62 @@ Lymph nodes adjacent to celiac axis:
 
 
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
+
 ## Durch Trial: Cause of Death
 
 
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr4_lrg.jpg)
+
 ## Durch Trial: Disease-free Survival
 
 
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr5_lrg.jpg)
+
 ## Durch Trial: D2 vs D1 Lymphadenectomy
 
 
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
 
-
-
-
-## MRC Trial: D2 vs D1 Lymphadenectomy
+## Dutch Trial: D2 vs D1 
 
 Operative mortality higher with D2 (10% vs 4%)
 
-More complicatoins wtih D2 (43% vs 25%)
+More complications wtih D2 (43% vs 25%)
 
 More reoperations with D2 (18% vs 8%)
 
+## Dutch Trial: Total vs Subtotal gastrectomy
 
+Protocol did not dictate extend of gastric resection, but did require a proximal margin of 5cm if a subtotal gastrectomy performed.
 
+No difference in survival between total vs subtotal gastrectomy
 
+## Dutch Trial: Conclusions
 
-737 patients with gastric cancer registered
+D2 lymphadenectomy is associated with better local control of gastric cancer than D1 node dissection, but at an increased risk of mortality and complications.
 
-Staging laparotomy found 337 patients ineligible
+Can the toxicity of extended lymphadenectomy be reduced?
 
-- Liver or peritoneal metastasis
-- Para-aortic node involvement on frozen
+- Elimination of splenectomy (D1$\alpha$)
+- Mininally-invasive techniques
 
-400 patients randomized to D1 vs D2 lymphadenectomy
+## HIPEC - Ongoing Trials
 
-Distal gastrectomy allowed if proximal margin of 5cm
+GASTRICHIP:
 
-Total gastrectomy in all others
+HIPEC + D2 gastrectomy +perioperative chemotherapy
+vs
+D2 gastrectomy + perioperative chemotherapy
 
+## GASTRICHIP
 
-## MRC Trial: D2 vs D1 Lymphadenectomy
+105 patients randomized 2014 
+Adult patients with GC and histologically proven PM were randomly assigned (1:1) to perioperative chemotherapy and CRS alone (CRS-A) or CRS plus HIPEC (CRS + H). HIPEC comprised mitomycin C 15 mg/m2 and cisplatin 75 mg/m2 in 5 L of saline perfused for 60 minutes at 42°C. The primary end point was OS; secondary endpoints included progression-free survival (PFS), other distant metastasis-free survival (MFS), and safety. Analyses followed the intention-to-treat principle.
+Results
 
-737 patients with gastric cancer registered
+Between March 2014 and June 2018, 105 patients were randomly assigned (53 patients to CRS-A and 52 patients to CRS + H). The trial stopped prematurely because of slow recruitment. In 55 patients, treatment stopped before CRS mainly due to disease progression/death. Median OS was the same for both groups (CRS + H, 14.9 [97.2% CI, 8.7 to 17.7] months v CRS-A, 14.9 [97.2% CI, 7.0 to 19.4] months; P = .1647). The PFS was 3.5 months (95% CI, 3.0 to 7.0) in the CRS-A group and 7.1 months (95% CI, 3.7 to 10.5; P = .047) in the CRS + H group. The CRS + H group showed better MFS (10.2 months [95% CI, 7.7 to 14.7] v CRS-A, 9.2 months [95% CI, 6.8 to 11.5]; P = .0286). The incidence of grade ≥3 adverse events (AEs) was similar between groups (CRS-A, 38.1% v CRS + H, 43.6%; P = .79).
 
-Staging laparotomy found 337 patients ineligible
+There are multiple ongoing prospective trails exploring the utility of CRS + HIPEC in patients with PC from gastric and EGJ cancer. The GASTRICHIP study (NCT01882933) is randomizing patients to receive either HIPEC + D2 resection + perioperative chemotherapy or D2 resection + perioperative chemotherapy.76 The PERIOSCOPE-II trial (NCT03348150) aims to compare CRS + HIPEC to systemic chemotherapy in patients with PC from gastric cancer.77 The phase 3 CHIMERA trial (NCT04597294) is comparing FLOT + HIPEC to FLOT + surgery to evaluate the efficacy of HIPEC in patients with advanced gastric cancer.78 The PREVENT trial (NCT04447352) is a phase 3 randomized control trial exploring the use of preventive HIPEC + perioperative FLOT versus FLOT alone for diffuse type gastric and junctional cancer.79 Diffuse type gastric cancer is associated with a higher risk of PC than intestinal gastric cancer. If this intervention proves effective, it could potentially result in a new standard of therapy for diffuse type gastric cancer. Chemotherapy
 
-- Liver or peritoneal metastasis
-- Para-aortic node involvement on frozen
+Ahmad, Syed A.; Maithel, Shishir. Clinical Trials in Surgical Oncology, An Issue of Surgical Oncology Clinics of North America, E-Book (The Clinics: Surgery) (p. 71). (Function). Kindle Edition. 
 
-400 patients randomized to D1 vs D2 lymphadenectomy
-
-20409751
-
-## Esophageal Cancer Treatment Categories
-
-| Category             |   Stage    | Treatment                  |
-|----------------------|:----------:|:---------------------------|
-| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
-| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
-| [Localized Tumors]   |   T1b T2   | Surgery                    |
-| \[Locally-advanced\] | T3 or N^+^ | ChemoRT → Surgery          |
-| \[Metastatic\]       |     M1     | Chemotherapy +/- Radiation |
-
-## Dyplasia
-
-Radiofrequency Ablation for Dysplasia
-
-::::: columns
-::: {.column width="60%"}
-127 patients with dysplasia randomized:
-
--   Radio-frequency ablation
--   Sham ablation
-
-Low-grade dysplasia in 64
-
-High-grade dysplasia in 63
-:::
-
-::: {.column width="40%"}
-![](images/rfa_esophagus.png) ![Barxx](images/barxx.png)
-:::
-:::::
-
-::: aside
-[@shaheen2277]
-:::
-
-## Radiofrequency Ablation for Dysplasia
-
-::::: columns
-::: {.column width="30%"}
-Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
-:::
-
-::: {.column width="70%"}
-![](images/shaheen.png)
-:::
-:::::
-
-::: aside
-[@shaheen2277]
-:::
-
-## Superficial Tumors
-
-Workup of nodular Barretts:
-
--   Endoscopic Ultrasound
--   Endoscopic Mucosal Resection
-    -   Diagnostic (T staging)
-    -   May be therapeutic for T1a tumors
-
-## Endoscopic Musocal Resection
-
-![](images/EMR.jpg){fig-align="right"}
-
-## Localized Tumors
-
-Patients staged as uT2 N0 are candidates for primary surgery. *However:*
-
--   EUS has a 25% rate of understaging uT2 N0 tumors
--   Understaged patients who undergo primary surgery would need chemo or chemoRT postop
-
-## Small Tumors (minimal dysphagia)
-
--   EUS to distinguish T2 from T3 tumors
--   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
--   If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
-
-Patients with dysphagia almost always are T3 tumors (and don't need EUS)
-
-## Symptomatic Tumors (Dysphagia)
-
-Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with \[PET Scan\]
-
--   Disease confined to the esophagus and regional nodes $\rightarrow$ \[Locally-advanced\]
--   Metastatic disease $\rightarrow$ \[Metastatic\]
--   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
