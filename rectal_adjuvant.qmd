@@ -56,11 +56,19 @@ Local Recurrence
 
 No difference in overall survival
 
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
 ## Total Mesorectal Excision
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g002.jpg)
+## Total Mesorectal Excicsion (1986)
 
+115 rectal cancer patients underwent surgery over 7.5 years
+
+69 with anastomosis below 5cm
+
+Median followup of 4.2 years: 
+
+-3 pelvic recurrences
+-No staple-line recurrence
 
 ## Dutch Trial
 
@@ -72,11 +80,9 @@ Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiat
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g004.jpg)
 
-
-
 ## German Trial
 
-German Trial compared preoperative ChemoRT vs postoperative ChemoRT
+German Trial compared preoperative ChemoRT vs postoperative ChemoRT.  All patients received postoperative adjuvant chemotherapy
 
 ## German Trial
 
@@ -88,6 +94,9 @@ An alternative to preoperative chemoradiation over 6 weeks is to administer radi
 
 Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.
 
+## Swedish Rectal Cancer Trial
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
 
 ## Stockholm III
 
@@ -121,8 +130,20 @@ ChemoRT $\rightarrow$ Surgery $\rightarrow$ Chemotherapy
 TNT approach moves all therapy to before surgery with goals to:
 
 - Improve tolerance of chemotherapy
+- Reduce toxicity of chemotherapy
 - Improve compliance with chemotherapy
 - Improve clinical complete response
+
+## Total Neoadjuvant Therapy
+
+TNT approach moves all therapy to before surgery with goals to:
+
+- Improve tolerance of chemotherapy
+- Reduce toxicity of chemotherapy
+- Improve compliance with chemotherapy
+- Improve clinical complete response
+  $\rightarrow$ organ preservation
+
 
 ## RAPIDO Trial
 
