@@ -1712,7 +1712,14 @@
     "href": "rectal_adjuvant.htm#gi-tumor-study-group-1985-1",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "GI Tumor Study Group 1985",
-    "text": "GI Tumor Study Group 1985\nLocal Recurrence\n\n55%: Control with no further therapy\n50: Postop radiation alone 4000 or 4800cGy\n48: Postop chemotherapy 5FU+methyl-CCNU\n33%: Chemo + radiation\n\nNo difference in overall survival\n ## Total Mesorectal Excision"
+    "text": "GI Tumor Study Group 1985\nLocal Recurrence\n\n55%: Control with no further therapy\n50: Postop radiation alone 4000 or 4800cGy\n48: Postop chemotherapy 5FU+methyl-CCNU\n33%: Chemo + radiation\n\nNo difference in overall survival"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#total-mesorectal-excision",
+    "href": "rectal_adjuvant.htm#total-mesorectal-excision",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Total Mesorectal Excision",
+    "text": "Total Mesorectal Excision\n ## Total Mesorectal Excicsion (1986)\n115 rectal cancer patients underwent surgery over 7.5 years\n69 with anastomosis below 5cm\nMedian followup of 4.2 years:\n-3 pelvic recurrences -No staple-line recurrence"
   },
   {
     "objectID": "rectal_adjuvant.htm#dutch-trial",
@@ -1733,7 +1740,7 @@
     "href": "rectal_adjuvant.htm#german-trial",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "German Trial",
-    "text": "German Trial\nGerman Trial compared preoperative ChemoRT vs postoperative ChemoRT"
+    "text": "German Trial\nGerman Trial compared preoperative ChemoRT vs postoperative ChemoRT. All patients received postoperative adjuvant chemotherapy"
   },
   {
     "objectID": "rectal_adjuvant.htm#german-trial-1",
@@ -1748,6 +1755,13 @@
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Short-course RT",
     "text": "Short-course RT\nAn alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone preoperative over a five day period.\nSwedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%(Swedish Rectal Cancer Trial et al. 1997). Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision."
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#swedish-rectal-cancer-trial",
+    "href": "rectal_adjuvant.htm#swedish-rectal-cancer-trial",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Swedish Rectal Cancer Trial",
+    "text": "Swedish Rectal Cancer Trial"
   },
   {
     "objectID": "rectal_adjuvant.htm#stockholm-iii",
@@ -1789,7 +1803,14 @@
     "href": "rectal_adjuvant.htm#total-neoadjuvant-therapy",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Total Neoadjuvant Therapy",
-    "text": "Total Neoadjuvant Therapy\nTNT approach moves all therapy to before surgery with goals to:\n\nImprove tolerance of chemotherapy\nImprove compliance with chemotherapy\nImprove clinical complete response"
+    "text": "Total Neoadjuvant Therapy\nTNT approach moves all therapy to before surgery with goals to:\n\nImprove tolerance of chemotherapy\nReduce toxicity of chemotherapy\nImprove compliance with chemotherapy\nImprove clinical complete response"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#total-neoadjuvant-therapy-1",
+    "href": "rectal_adjuvant.htm#total-neoadjuvant-therapy-1",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Total Neoadjuvant Therapy",
+    "text": "Total Neoadjuvant Therapy\nTNT approach moves all therapy to before surgery with goals to:\n\nImprove tolerance of chemotherapy\nReduce toxicity of chemotherapy\nImprove compliance with chemotherapy\nImprove clinical complete response \\(\\rightarrow\\) organ preservation"
   },
   {
     "objectID": "rectal_adjuvant.htm#rapido-trial",
