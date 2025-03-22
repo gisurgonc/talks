@@ -1,0 +1,160 @@
+---
+title: "Esophageal Cancer Treatment"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Lymphadenectomy
+
+Retrospective data from Japan in the 1980's suggested superior survival after extended lymphadenectomy for gastric cancer.
+
+Extent of lympadenectomy can be categorized:
+
+D1: Perigastric D2: Central nodes + splenic hilum D2$\alpha$: Central nodes D3: Extended nodes
+
+## D1 Perigastric nodes
+
+Lymph node stations immediately adjacent to the stomach
+
+-   1:
+-   2:
+-   3: Lesser curvature
+-   4: Greater curvature
+-   5: Suprapyloric
+-   6: Infrapyloric
+
+## D2 Central Nodes + splenic hilum
+
+Lymph nodes adjacent to celiac axis:
+
+-   12a: Left side of porta hepatis
+-   8: Common hepatic artery
+-   7: Left gastric artery
+-   9: Celiac axis
+-   11: Proximal splenic artery
+-   10: Splenic hilum
+
+## D1$\alpha$ Central Nodes
+
+Lymph nodes adjacent to celiac axis:
+
+-   12a: Left side of porta hepatis
+-   8: Common hepatic artery
+-   7: Left gastric artery
+-   9: Celiac axis
+-   11: Proximal splenic artery
+-   ~~10: Splenic hilum~~
+
+
+## MRC Trial: D2 vs D1 Lymphadenectomy
+
+737 patients with gastric cancer registered
+
+Staging laparotomy found 337 patients ineligible
+
+400 patients randomized to D1 vs D2 lymphadenectomy
+
+
+
+## Esophageal Cancer Treatment Categories
+
+| Category             |   Stage    | Treatment                  |
+|----------------------|:----------:|:---------------------------|
+| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
+| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
+| [Localized Tumors]   |   T1b T2   | Surgery                    |
+| \[Locally-advanced\] | T3 or N^+^ | ChemoRT → Surgery          |
+| \[Metastatic\]       |     M1     | Chemotherapy +/- Radiation |
+
+## Dyplasia
+
+Radiofrequency Ablation for Dysplasia
+
+::::: columns
+::: {.column width="60%"}
+127 patients with dysplasia randomized:
+
+-   Radio-frequency ablation
+-   Sham ablation
+
+Low-grade dysplasia in 64
+
+High-grade dysplasia in 63
+:::
+
+::: {.column width="40%"}
+![](images/rfa_esophagus.png) ![Barxx](images/barxx.png)
+:::
+:::::
+
+::: aside
+[@shaheen2277]
+:::
+
+## Radiofrequency Ablation for Dysplasia
+
+::::: columns
+::: {.column width="30%"}
+Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
+:::
+
+::: {.column width="70%"}
+![](images/shaheen.png)
+:::
+:::::
+
+::: aside
+[@shaheen2277]
+:::
+
+## Superficial Tumors
+
+Workup of nodular Barretts:
+
+-   Endoscopic Ultrasound
+-   Endoscopic Mucosal Resection
+    -   Diagnostic (T staging)
+    -   May be therapeutic for T1a tumors
+
+## Endoscopic Musocal Resection
+
+![](images/EMR.jpg){fig-align="right"}
+
+## Localized Tumors
+
+Patients staged as uT2 N0 are candidates for primary surgery. *However:*
+
+-   EUS has a 25% rate of understaging uT2 N0 tumors
+-   Understaged patients who undergo primary surgery would need chemo or chemoRT postop
+
+## Small Tumors (minimal dysphagia)
+
+-   EUS to distinguish T2 from T3 tumors
+-   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
+-   If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
+
+Patients with dysphagia almost always are T3 tumors (and don't need EUS)
+
+## Symptomatic Tumors (Dysphagia)
+
+Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with \[PET Scan\]
+
+-   Disease confined to the esophagus and regional nodes $\rightarrow$ \[Locally-advanced\]
+-   Metastatic disease $\rightarrow$ \[Metastatic\]
+-   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.

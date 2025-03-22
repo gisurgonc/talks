@@ -32,7 +32,29 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 
 ![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history_no_swedish.png)
 
-## GI Tumor Study Group
+## GI Tumor Study Group 1985
+
+227 rectal cancer patients with curative surgical resection:
+
+\
+
+- 58: Control with no further therapy
+- 50: Postop radiation alone 4000 or 4800cGy
+- 48: Postop chemotherapy 5FU+methyl-CCNU
+- 46: Chemo + radiation
+
+[@gastrointestinaltumorstudygroup1465]
+
+## GI Tumor Study Group 1985
+
+Local Recurrence
+
+- 55%: Control with no further therapy
+- 50: Postop radiation alone 4000 or 4800cGy
+- 48: Postop chemotherapy 5FU+methyl-CCNU
+- 33%: Chemo + radiation
+
+No difference in overall survival
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
 ## Total Mesorectal Excision
