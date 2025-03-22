@@ -14,6 +14,13 @@
     "text": "D1 Perigastric nodes\nLymph node stations immediately adjacent to the stomach\n\n1:\n2:\n3: Lesser curvature\n4: Greater curvature\n5: Suprapyloric\n6: Infrapyloric"
   },
   {
+    "objectID": "gastric_ca_rx_talk.htm#d1-perigastric-nodes-1",
+    "href": "gastric_ca_rx_talk.htm#d1-perigastric-nodes-1",
+    "title": "Esophageal Cancer Treatment",
+    "section": "D1 Perigastric Nodes",
+    "text": "D1 Perigastric Nodes"
+  },
+  {
     "objectID": "gastric_ca_rx_talk.htm#d2-central-nodes-splenic-hilum",
     "href": "gastric_ca_rx_talk.htm#d2-central-nodes-splenic-hilum",
     "title": "Esophageal Cancer Treatment",
@@ -28,11 +35,32 @@
     "text": "D1\\(\\alpha\\) Central Nodes\nLymph nodes adjacent to celiac axis:\n\n12a: Left side of porta hepatis\n8: Common hepatic artery\n7: Left gastric artery\n9: Celiac axis\n11: Proximal splenic artery\n10: Splenic hilum"
   },
   {
+    "objectID": "gastric_ca_rx_talk.htm#d2-central-nodes",
+    "href": "gastric_ca_rx_talk.htm#d2-central-nodes",
+    "title": "Esophageal Cancer Treatment",
+    "section": "D2 Central Nodes",
+    "text": "D2 Central Nodes"
+  },
+  {
+    "objectID": "gastric_ca_rx_talk.htm#durch-trial-d2-vs-d1-lymphadenectomy",
+    "href": "gastric_ca_rx_talk.htm#durch-trial-d2-vs-d1-lymphadenectomy",
+    "title": "Esophageal Cancer Treatment",
+    "section": "Durch Trial: D2 vs D1 Lymphadenectomy",
+    "text": "Durch Trial: D2 vs D1 Lymphadenectomy"
+  },
+  {
     "objectID": "gastric_ca_rx_talk.htm#mrc-trial-d2-vs-d1-lymphadenectomy",
     "href": "gastric_ca_rx_talk.htm#mrc-trial-d2-vs-d1-lymphadenectomy",
     "title": "Esophageal Cancer Treatment",
     "section": "MRC Trial: D2 vs D1 Lymphadenectomy",
-    "text": "MRC Trial: D2 vs D1 Lymphadenectomy\n737 patients with gastric cancer registered\nStaging laparotomy found 337 patients ineligible\n400 patients randomized to D1 vs D2 lymphadenectomy"
+    "text": "MRC Trial: D2 vs D1 Lymphadenectomy\nOperative mortality higher with D2 (10% vs 4%)\nMore complicatoins wtih D2 (43% vs 25%)\nMore reoperations with D2 (18% vs 8%)\n737 patients with gastric cancer registered\nStaging laparotomy found 337 patients ineligible\n\nLiver or peritoneal metastasis\nPara-aortic node involvement on frozen\n\n400 patients randomized to D1 vs D2 lymphadenectomy\nDistal gastrectomy allowed if proximal margin of 5cm\nTotal gastrectomy in all others"
+  },
+  {
+    "objectID": "gastric_ca_rx_talk.htm#mrc-trial-d2-vs-d1-lymphadenectomy-1",
+    "href": "gastric_ca_rx_talk.htm#mrc-trial-d2-vs-d1-lymphadenectomy-1",
+    "title": "Esophageal Cancer Treatment",
+    "section": "MRC Trial: D2 vs D1 Lymphadenectomy",
+    "text": "MRC Trial: D2 vs D1 Lymphadenectomy\n737 patients with gastric cancer registered\nStaging laparotomy found 337 patients ineligible\n\nLiver or peritoneal metastasis\nPara-aortic node involvement on frozen\n\n400 patients randomized to D1 vs D2 lymphadenectomy\n20409751"
   },
   {
     "objectID": "gastric_ca_rx_talk.htm#esophageal-cancer-treatment-categories",
@@ -1719,14 +1747,28 @@
     "href": "rectal_adjuvant.htm#total-mesorectal-excision",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Total Mesorectal Excision",
-    "text": "Total Mesorectal Excision\n ## Total Mesorectal Excicsion (1986)\n115 rectal cancer patients underwent surgery over 7.5 years\n69 with anastomosis below 5cm\nMedian followup of 4.2 years:\n-3 pelvic recurrences -No staple-line recurrence"
+    "text": "Total Mesorectal Excision"
   },
   {
-    "objectID": "rectal_adjuvant.htm#dutch-trial",
-    "href": "rectal_adjuvant.htm#dutch-trial",
+    "objectID": "rectal_adjuvant.htm#total-mesorectal-excicsion-1986",
+    "href": "rectal_adjuvant.htm#total-mesorectal-excicsion-1986",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Dutch Trial",
-    "text": "Dutch Trial\nDutch trial combined postoperative chemoRT and protocol-driven surgery using total mesorectal excision (TME)\nDutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME(Kapiteijn et al. 2001). Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival"
+    "section": "Total Mesorectal Excicsion (1986)",
+    "text": "Total Mesorectal Excicsion (1986)\n115 rectal cancer patients1 underwent surgery over 7.5 years\n69 with anastomosis below 5cm\nMedian followup of 4.2 years:\n-3 pelvic recurrences -No staple-line recurrence\n(heal1479?)"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#dutch-postop-chemort-trial",
+    "href": "rectal_adjuvant.htm#dutch-postop-chemort-trial",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Dutch postop ChemoRT Trial",
+    "text": "Dutch postop ChemoRT Trial\nDutch trial combined postoperative chemoRT and protocol-driven surgery using total mesorectal excision (TME)\nRadiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#dutch-short-course-trial",
+    "href": "rectal_adjuvant.htm#dutch-short-course-trial",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Dutch Short-course Trial1",
+    "text": "Dutch Short-course Trial1\n1861 patients randomized:\n\npreop RT (5x 500cGy) \\(\\rightarrow\\) Surgery (TME)\nSurgery alone (TME)\n\nReduction in local recurrence\nNo difference in survival\nKapiteijn et al. (2001)"
   },
   {
     "objectID": "rectal_adjuvant.htm#dutch-trial-results",
