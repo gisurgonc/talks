@@ -163,9 +163,39 @@ PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course ra
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg)
 
-## OPRA Clinical Trial
+## OPRA Clinical Trial^[@garcia-aguilar2546]
 
-OPRA clinical trial [@garcia-aguilar2546]. 324 rectal cancer patients staged with MRI randomized to INCT (induction chemo followed by chemoRT) vs CNCT (Chemoradiation followed by chemotherapy). Patients with a response were offered watch and wait. Patients without a response were treated with surgery. No difference in disease-free survival or overall survival or metastasis-free survival. 304 patients were restaged and only 26% were recommended to have surgery. Among 225 patients in watch and wait, somewhat more patients with INCT had recurrences (40% of 105 = 42 patients vs 27% of 102 =32 patients). More organ preservation at 3 years with CNCT (60% CNCT vs 47% INCT).See also [@smith767]
+324 rectal cancer patients randomized
+
+Chemo $\rightarrow$ ChemoRT $\rightarrow$ Restaging
+
+ChemoRT $\rightarrow$ Chemo $\rightarrow$ Restaging
+
+Restaging:
+- Clinical response offered watch/wait
+- Non-responders $\rightarrow$ surgery
+
+
+## OPRA Clinical Trial^[@garcia-aguilar2546]
+
+304 patients restaged: Surgery recommended in 26%
+
+225 patients Watch and Wait
+
+Chemo $\rightarrow$ ChemoRT 40% recurrence 
+
+ChemoRT $\rightarrow$ Chemo 27% recurrence
+
+
+## OPRA Clinical Trial^[@garcia-aguilar2546]
+
+\
+
+225 patients Watch and Wait
+
+Chemo $\rightarrow$ ChemoRT 47% organ preservation 
+
+ChemoRT $\rightarrow$ Chemo 27% organ preservation
 
 
 ## References
