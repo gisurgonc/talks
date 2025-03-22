@@ -198,5 +198,80 @@ Chemo $\rightarrow$ ChemoRT 47% organ preservation
 ChemoRT $\rightarrow$ Chemo 27% organ preservation
 
 
+## OPRA Clinical Trial^[@garcia-aguilar2546]
+
+ChemoRT: 5000 to 5600 cGy with 5-FU or Capcitabine
+
+Chemo:  FOLFOX or CapeOx
+
+## OPRA Clinical Trial^[@garcia-aguilar2546]
+
+Restaging at 8 $\pm$ 4 weeks
+
+- MRI pelvis
+- CT chest/abdomen/pelvis
+- Digital rectal exam
+- Endoscopy
+
+Categorized:
+
+- Incomplete response $\rightarrow$
+- Near complete response $\rightarrow$ Watch/Wait
+- Complete response $\rightarrow$ Watch/Wait
+
+## Watch/Wait Surveillance^[@smith767]
+
+- DRE/Endoscopy q4 months x2 years $\rightarrow$ q6 months x3 years
+- Rectal MRI q6 months x2 years $\rightarrow$ annually x3 years
+
+
+
+## Watch and Wait - MSKCC ^[@smithe185896]
+
+Restrospective comparison two groups with rectan cancer:
+
+136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
+
+113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
+
+
+## Watch and Wait - MSKCC ^[@smithe185896]
+
+Restrospective comparison two groups with rectan cancer:
+
+136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
+
+- No plevic recurrences
+
+113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
+
+- 22 local regrowth on surveillance $\rightarrow$ Surgery
+  - Pelvic control mantained in 20 (91%)
+- Rectal preservation in 93 (82%)
+
+## Watch and Wait - MSKCC ^[@smithe185896]
+
+Restrospective comparison two groups with rectan cancer:
+
+136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
+
+- 94% survival at 5 years
+
+113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
+
+- 73% survival at 5 years
+
+Restrospective comparison two groups with rectan cancer:
+
+136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
+
+- 94% survival at 5 years
+
+113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
+
+- 73% survival at 5 years
+- Higher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)
+
+
 ## References
 
