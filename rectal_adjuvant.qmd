@@ -59,9 +59,10 @@ No difference in overall survival
 ## Total Mesorectal Excision
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g002.jpg)
+
 ## Total Mesorectal Excicsion (1986)
 
-115 rectal cancer patients underwent surgery over 7.5 years
+115 rectal cancer patients^[@heal1479] underwent surgery over 7.5 years
 
 69 with anastomosis below 5cm
 
@@ -70,11 +71,22 @@ Median followup of 4.2 years:
 -3 pelvic recurrences
 -No staple-line recurrence
 
-## Dutch Trial
+## Dutch postop ChemoRT Trial
 
 Dutch trial combined postoperative chemoRT and protocol-driven surgery using total mesorectal excision (TME)
 
-Dutch Rectal Cancer Trial (CKVO 95-04): Demonstrated the benefit of preop radiation in combination with TME[@kapiteijn638]. Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival
+Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival
+
+## Dutch Short-course Trial^[@kapiteijn638]
+
+1861 patients randomized:
+
+- preop RT (5x 500cGy) $\rightarrow$ Surgery (TME)
+- Surgery alone (TME)
+
+Reduction in local recurrence
+
+No difference in survival
 
 ## Dutch Trial Results
 

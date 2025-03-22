@@ -39,6 +39,10 @@ Lymph node stations immediately adjacent to the stomach
 -   5: Suprapyloric
 -   6: Infrapyloric
 
+## D1 Perigastric Nodes
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr1_lrg_D1_1980.png)
+
 ## D2 Central Nodes + splenic hilum
 
 Lymph nodes adjacent to celiac axis:
@@ -61,6 +65,38 @@ Lymph nodes adjacent to celiac axis:
 -   11: Proximal splenic artery
 -   ~~10: Splenic hilum~~
 
+## D2 Central Nodes
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr1_lrg_D2_1980.png)
+
+## Durch Trial: D2 vs D1 Lymphadenectomy
+
+
+## MRC Trial: D2 vs D1 Lymphadenectomy
+
+Operative mortality higher with D2 (10% vs 4%)
+
+More complicatoins wtih D2 (43% vs 25%)
+
+More reoperations with D2 (18% vs 8%)
+
+
+
+
+
+737 patients with gastric cancer registered
+
+Staging laparotomy found 337 patients ineligible
+
+- Liver or peritoneal metastasis
+- Para-aortic node involvement on frozen
+
+400 patients randomized to D1 vs D2 lymphadenectomy
+
+Distal gastrectomy allowed if proximal margin of 5cm
+
+Total gastrectomy in all others
+
 
 ## MRC Trial: D2 vs D1 Lymphadenectomy
 
@@ -68,9 +104,12 @@ Lymph nodes adjacent to celiac axis:
 
 Staging laparotomy found 337 patients ineligible
 
+- Liver or peritoneal metastasis
+- Para-aortic node involvement on frozen
+
 400 patients randomized to D1 vs D2 lymphadenectomy
 
-
+20409751
 
 ## Esophageal Cancer Treatment Categories
 
