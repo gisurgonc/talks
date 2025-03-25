@@ -149,6 +149,11 @@ Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fracti
 [@shapiro1090]
 :::
 
+## CROSS
+
+The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p < 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p < 0.001).
+
+
 ## CROSS - Overall Survival
 
 ![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
@@ -175,7 +180,7 @@ Pathologic complete response in 23%
 
 Median survival 82mo vs 21mo
 
-Pathologic complete response in 40%
+Pathologic complete response in 49%
 
 ::: aside
 [@shapiro1090]
