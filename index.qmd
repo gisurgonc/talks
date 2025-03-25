@@ -12,6 +12,8 @@ title: "GI Surgical Oncology"
 
 [Esophageal Cancer Cases](eso_ca_cases.htm)
 
+[Esophagectomy Postop](eso_postop_care.htm)
+
 [Gastric Cancer Lecture](gastric_ca_rx_talk.htm)
 
 
