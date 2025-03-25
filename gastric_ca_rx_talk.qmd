@@ -121,23 +121,86 @@ Can the toxicity of extended lymphadenectomy be reduced?
 - Elimination of splenectomy (D1$\alpha$)
 - Mininally-invasive techniques
 
+## MAGIC Trial - Perioperative Chemotherapy
+
+503 gastric cancer stage II adenocarcinoma of stomach, GE juncction or lower esophagus
+
+ECF Chemo $\rightarrow$ Surgery $\rightarrow$ ECF Chemot
+vs
+Surgery alone
+
+Chemotherapy: Epirubicin, ciplatin, 5FU
+
+Surgery 3-6 weeks after last dose of chemo
+Chemo 6-12 weeks after surgery
+
+## MAGIC - Perioperative Chemotherapy
+
+Tumor Location
+
+- Gastric 74%
+- GE junction 11%
+- Distal esophagus 15%
+
+## MAGIC- Perioperative Chemotheray
+Curative radical resection 79% with chemo vs. 70$ (p=0.03)
+
+Longer 5-year survival wtih chemo (36% vs 23%). p=0.0009
+
+Complete chemotherapy regimen (6 doses) in only 42%
+
+Of patients who completed preop chemotherapy and surgery, only 34% received postoperative chemotherapy.
+
+## FLOT - Perioperative Chemotherapy
+
+7616 patients with adenocarcinoma of GE junction or stomach randomized:
+
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF
+vs 
+FLOT $\rightarrow$ Surgery $\rightarrow$
+
+Longer survival with FLOT (median 50 months vs 35 months)
+
+## TOPGEAR
+
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF $\rightarrow$ ChemoRT
+vs
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF
+
 ## HIPEC - Ongoing Trials
 
-GASTRICHIP:
+GASTRICHIP:^[@glehen1]
 
-HIPEC + D2 gastrectomy +perioperative chemotherapy
+Patients with peritoneal diseae ftrom gastro cancer. 
+
+Chemo $\rightarrow$ Surgery with cytoreduction $\rightarrow$ Chemo
 vs
-D2 gastrectomy + perioperative chemotherapy
+Chemo $\rightarrow$ Surgery with cytoreduction + HIPEC $\rightarrow$ Chemo
 
-## GASTRICHIP
+## GASTRICHIP ^ [@glehen1]
 
-105 patients randomized 2014 
-Adult patients with GC and histologically proven PM were randomly assigned (1:1) to perioperative chemotherapy and CRS alone (CRS-A) or CRS plus HIPEC (CRS + H). HIPEC comprised mitomycin C 15 mg/m2 and cisplatin 75 mg/m2 in 5 L of saline perfused for 60 minutes at 42°C. The primary end point was OS; secondary endpoints included progression-free survival (PFS), other distant metastasis-free survival (MFS), and safety. Analyses followed the intention-to-treat principle.
-Results
+105 patients randomized 2014 - 2018. Trial closed due to slow accrual
 
-Between March 2014 and June 2018, 105 patients were randomly assigned (53 patients to CRS-A and 52 patients to CRS + H). The trial stopped prematurely because of slow recruitment. In 55 patients, treatment stopped before CRS mainly due to disease progression/death. Median OS was the same for both groups (CRS + H, 14.9 [97.2% CI, 8.7 to 17.7] months v CRS-A, 14.9 [97.2% CI, 7.0 to 19.4] months; P = .1647). The PFS was 3.5 months (95% CI, 3.0 to 7.0) in the CRS-A group and 7.1 months (95% CI, 3.7 to 10.5; P = .047) in the CRS + H group. The CRS + H group showed better MFS (10.2 months [95% CI, 7.7 to 14.7] v CRS-A, 9.2 months [95% CI, 6.8 to 11.5]; P = .0286). The incidence of grade ≥3 adverse events (AEs) was similar between groups (CRS-A, 38.1% v CRS + H, 43.6%; P = .79).
+55 patient treatment stopped prior to cytoreductive surgery due to disease progression
 
-There are multiple ongoing prospective trails exploring the utility of CRS + HIPEC in patients with PC from gastric and EGJ cancer. The GASTRICHIP study (NCT01882933) is randomizing patients to receive either HIPEC + D2 resection + perioperative chemotherapy or D2 resection + perioperative chemotherapy.76 The PERIOSCOPE-II trial (NCT03348150) aims to compare CRS + HIPEC to systemic chemotherapy in patients with PC from gastric cancer.77 The phase 3 CHIMERA trial (NCT04597294) is comparing FLOT + HIPEC to FLOT + surgery to evaluate the efficacy of HIPEC in patients with advanced gastric cancer.78 The PREVENT trial (NCT04447352) is a phase 3 randomized control trial exploring the use of preventive HIPEC + perioperative FLOT versus FLOT alone for diffuse type gastric and junctional cancer.79 Diffuse type gastric cancer is associated with a higher risk of PC than intestinal gastric cancer. If this intervention proves effective, it could potentially result in a new standard of therapy for diffuse type gastric cancer. Chemotherapy
+HIPEC with mitomycin and ciplatin for 60min at 42ªC.
 
-Ahmad, Syed A.; Maithel, Shishir. Clinical Trials in Surgical Oncology, An Issue of Surgical Oncology Clinics of North America, E-Book (The Clinics: Surgery) (p. 71). (Function). Kindle Edition. 
+Median survival 15 months in both groups (without a difference).
+
+## PERISCCOPE-II^[@koemans1]
+
+Comparison of cytoreductive surgery + HIPIC to systemic chemotherapy in patients with gastric cancer and peritoneal metastasis.
+
+
+## CHIMERA Trial
+
+FLOT + HIPIC vs FLOT + Surgery in advanced gastric cancer 78
+
+## PREVENT^[@gotze1]
+
+Diffuse-type gastric and GE junction adenocarcnoma:
+
+FLOT $\rightarrow$ Gastrectomy + HIPIC $\rightarrow$
+vs
+FLOT $\rightarrow$ Gastrectomy $\rightarrwo$
 
