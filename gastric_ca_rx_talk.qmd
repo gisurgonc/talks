@@ -202,5 +202,5 @@ Diffuse-type gastric and GE junction adenocarcnoma:
 
 FLOT $\rightarrow$ Gastrectomy + HIPIC $\rightarrow$
 vs
-FLOT $\rightarrow$ Gastrectomy $\rightarrwo$
+FLOT $\rightarrow$ Gastrectomy $\rightarrow$
 
