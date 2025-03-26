@@ -169,7 +169,7 @@ ECF $\rightarrow$ Surgery $\rightarrow$ ECF
 
 ## HIPEC - Ongoing Trials
 
-GASTRICHIP:^[@glehen1]
+GASTRICHIP:
 
 Patients with peritoneal diseae ftrom gastro cancer. 
 
@@ -177,7 +177,14 @@ Chemo $\rightarrow$ Surgery with cytoreduction $\rightarrow$ Chemo
 vs
 Chemo $\rightarrow$ Surgery with cytoreduction + HIPEC $\rightarrow$ Chemo
 
-## GASTRICHIP ^ [@glehen1]
+::: aside
+[@glehen1]
+:::
+
+
+
+
+## GASTRICHIP 
 
 105 patients randomized 2014 - 2018. Trial closed due to slow accrual
 
@@ -187,16 +194,24 @@ HIPEC with mitomycin and ciplatin for 60min at 42ªC.
 
 Median survival 15 months in both groups (without a difference).
 
-## PERISCCOPE-II^[@koemans1]
+::: aside
+[@glehen1]
+:::
+
+## PERISCCOPE-II
 
 Comparison of cytoreductive surgery + HIPIC to systemic chemotherapy in patients with gastric cancer and peritoneal metastasis.
 
+
+::: aside
+[@koemans1]
+:::
 
 ## CHIMERA Trial
 
 FLOT + HIPIC vs FLOT + Surgery in advanced gastric cancer 78
 
-## PREVENT^[@gotze1]
+## PREVENT
 
 Diffuse-type gastric and GE junction adenocarcnoma:
 
@@ -204,3 +219,6 @@ FLOT $\rightarrow$ Gastrectomy + HIPIC $\rightarrow$
 vs
 FLOT $\rightarrow$ Gastrectomy $\rightarrow$
 
+::: aside
+[@gotze1]
+:::

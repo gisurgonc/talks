@@ -109,7 +109,7 @@ Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlik
 
 ## EUS in Patients with Dysphagia
 
-Memorial Sloan Kettering[^1] patients with esophageal cancer:
+Memorial Sloan Kettering patients with esophageal cancer:
 
 -   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
 -   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
@@ -123,9 +123,11 @@ EUS can be omitted for patients with dysphagia, but is useful in patients *witho
 
 ## PET Scan
 
-PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis [^2]
+PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis
 
-[^2]: @block770
+::: aside
+@gotze1
+:::
 
 ## Locally-advanced
 
