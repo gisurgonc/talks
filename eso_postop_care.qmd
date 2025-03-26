@@ -164,11 +164,66 @@ If the stomach is not suitable to use as a conduit, the colon can be used to rep
 
 Significant complications
 
+-   Delayed gastric empyting
+-   Aspiration due to dysphagia
 -   Anastomotic leak (8%)
 -   Pneumonia (10%)
 -   Atrial Fibrillation (20%)
 -   Myocardial Infarction (5%)
 -   Chylothorax (5%)
+
+
+## Gastric emptying after Esophagectomy
+
+Vagus nerve normally stimulates gastric emptying
+
+Esophagectomy require dividing the vagus nere
+
+$\Rightarrow$ Esophagectomy can cause delayed gastric emptying
+
+- Nasogastric tube decompressed gastric conduite
+
+## Evaluation of Gastric Emptying
+
+Upper GI evaluated gastric emptying
+
+- Initial study on POD #2/3/4
+- Patient stands in fluoroscopy
+- Isovue injected via NG tube
+
+If stomach empties well $\rightarrow$ NG tube removed
+
+If stomach does not empty $\rightarrow$ repeat study in 2 days
+
+## Swallowing Evaluation
+
+30% of patients have abnormal swallowing after esophagectomy, which places them at risk for aspiration pneumonia.
+
+Likely due to disuse atrophy of swallowing muscles
+
+- Advanced age
+- Prolonged NPO after surgery
+- NPO prior to surgery due to esophageal obstruction
+
+## Swallowing Evaluation
+
+Modified Barium Swallow performed after NG tube removed
+
+Outcomes:
+
+- Pass for all consistencies (no aspiration or penetration) - 70%
+- Aspiration of thin liquids but OK for moderately thick liquinds - 15%
+- Aspiration witn moderately thick liquids - 15%
+
+## Modified Barium Swallow
+
+70% Pass - started with oral liquids 1oz/hour
+
+  - Advanced to protein shakes 2oz/hour if water tolerated
+  - Advanced to protein shakes 4oz/hour if tolerated
+  
+Patients discharged taking water, Gatorade, and protein shakes orally
+
 
 ## Anastomotic Leak
 
@@ -233,12 +288,83 @@ Cerfical anastomosis
 - Usually leaks into the neck
   - JP#4 drains the neck incision
 
+Usually start checking drain amylase on 4th-8th postop days
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
 :::
 :::::
+
+## CT esophagram to detect Anastomotic Leak
+
+Pre-contrast CT scan performed without contrast
+
+Water-soluble contrast instilled in the esophagus
+
+Constast CT scan peformed
+
+Radiologist looks for contrast extravisation from esophagus
+
+## CT Esophagram with NG tube in place
+
+CT esophagram sentivity is best if side-holes of NG tube are immediately adjacent to the anastomosis
+
+Sideholes extend 8.5cm up from the tip of the NG tube
+
+Best position of NG tube is with tip 5cm below the anastomosis
+
+$\Rightarrow$ NG tube needs to be optimally positioned **prior** to contrast instillation
+
+Once patient is positioned on the CT scanner:
+
+- "Scout" scan peformed to identify location of tip of NG tube relative to the anastomosis
+- Radiologist will measure the distance from the anastomosis to the tip of the NG tube.
+- NG tube is then withdrawn a distance which keeps the NG tube tip 5cm *below* the anastomosis. 
+- If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 113 - 6 = 7cm
+- NG tube manipulation will need to be done by an RN or physician
+
+## NG Tube Withdrawl - AMT Bridle
+
+NG tubes are kept in place with an AMT bridle.  A locking plastic clip holds the NG tube.
+
+In order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.
+
+The NG tube can then be withdrawn the required distance
+
+After CT Esophagram, NG tube can be (blindly) advanced to prior position
+
+Ideal position is with all 4 dots outside the nose
+
+## CT esophagram - Full Sequence
+
+Scout CT Scan obtained and NG position measured
+
+NG tube withdrawn by RN/physicin
+
+Pre-contrast CT scan performed without contrast
+
+Water-soluble contrast instilled in the esophagus
+
+Constast CT scan peformed
+
+NG tube returned to prior position
+
+## CT Esophagram without NG tube
+
+For patients who have had their NG tube removed, oral contrast can be given for CT esophagram *if* they have passed their Modified Barium Swallow.
+
+For patients who have their NG removed and have not been cleared for thin liquids by Modified Barium Swallow, CT esophagram carries a risk of aspiration.
+
+$\Rightarrow$ NG tube removal is delayed for patients with:
+
+- Elevated drain amylase
+- Leukocytosis
+- Fevers
+- Prolonged ventilation
+
+... until CT esophagram confirms that there is no evidence of leak
+
 
 ## Pneumonia
 

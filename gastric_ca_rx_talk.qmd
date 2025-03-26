@@ -72,9 +72,9 @@ Lymph nodes adjacent to celiac axis:
 ## Durch Trial: D2 vs D1 Lymphadenectomy
 
 
-![](https://deidt7p41jzcy.cloudfront.net/songun-gr2_lrg.gif)
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr2_lrg.png)
 
-## Durch Trial: Overall Survival
+## Dutch Trial: Overall Survival
 
 
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)

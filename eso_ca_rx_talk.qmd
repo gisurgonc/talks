@@ -111,12 +111,15 @@ Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlik
 
 Memorial Sloan Kettering[^1] patients with esophageal cancer:
 
-[^1]: @ripley226
-
 -   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
 -   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
 
 EUS can be omitted for patients with dysphagia, but is useful in patients *without* dysphagia.
+
+::: aside
+[@ripley226]
+:::
+
 
 ## PET Scan
 
@@ -315,7 +318,11 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 -   Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
-## EsoPEC: CROSS superior to FLOT
+::: aside
+[@hoeppner323]
+:::
+
+## EsoPEC: FLOT superior to CROSS
 
 -   Surgery performed in 371/438 patients
 
@@ -328,6 +335,11 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 -   5-year overall survival 51% FLOT vs 29% CROSS
 
 -   pCR 17% for FLOT and 10% CROSS
+
+::: aside
+[@hoeppner323]
+:::
+
 
 ## Surgery for Squamous Cell Carcinoma
 
@@ -349,6 +361,11 @@ Patients with a clinical response were randomized:
 
 *No difference in overall survival*
 
+::: aside
+[@bedene1160]
+:::
+
+
 ## German Trial (Stahl)
 
 4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
@@ -356,6 +373,11 @@ Patients with a clinical response were randomized:
 6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
 
 *No difference in overall survival*
+
+::: aside
+[@stahl2310]
+:::
+
 
 ## Metastatic
 
