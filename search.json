@@ -137,21 +137,21 @@
     "href": "gastric_ca_rx_talk.htm#hipec---ongoing-trials",
     "title": "Esophageal Cancer Treatment",
     "section": "HIPEC - Ongoing Trials",
-    "text": "HIPEC - Ongoing Trials\nGASTRICHIP:1\nPatients with peritoneal diseae ftrom gastro cancer.\nChemo \\(\\rightarrow\\) Surgery with cytoreduction \\(\\rightarrow\\) Chemo vs Chemo \\(\\rightarrow\\) Surgery with cytoreduction + HIPEC \\(\\rightarrow\\) Chemo\n(glehen1?)"
+    "text": "HIPEC - Ongoing Trials\nGASTRICHIP:\nPatients with peritoneal diseae ftrom gastro cancer.\nChemo \\(\\rightarrow\\) Surgery with cytoreduction \\(\\rightarrow\\) Chemo vs Chemo \\(\\rightarrow\\) Surgery with cytoreduction + HIPEC \\(\\rightarrow\\) Chemo\n\n\n(glehen1?)"
   },
   {
-    "objectID": "gastric_ca_rx_talk.htm#gastrichip-glehen1",
-    "href": "gastric_ca_rx_talk.htm#gastrichip-glehen1",
+    "objectID": "gastric_ca_rx_talk.htm#gastrichip",
+    "href": "gastric_ca_rx_talk.htm#gastrichip",
     "title": "Esophageal Cancer Treatment",
-    "section": "GASTRICHIP ^ (glehen1?)",
-    "text": "GASTRICHIP ^ (glehen1?)\n105 patients randomized 2014 - 2018. Trial closed due to slow accrual\n55 patient treatment stopped prior to cytoreductive surgery due to disease progression\nHIPEC with mitomycin and ciplatin for 60min at 42ªC.\nMedian survival 15 months in both groups (without a difference)."
+    "section": "GASTRICHIP",
+    "text": "GASTRICHIP\n105 patients randomized 2014 - 2018. Trial closed due to slow accrual\n55 patient treatment stopped prior to cytoreductive surgery due to disease progression\nHIPEC with mitomycin and ciplatin for 60min at 42ªC.\nMedian survival 15 months in both groups (without a difference).\n\n\n(glehen1?)"
   },
   {
     "objectID": "gastric_ca_rx_talk.htm#perisccope-ii",
     "href": "gastric_ca_rx_talk.htm#perisccope-ii",
     "title": "Esophageal Cancer Treatment",
-    "section": "PERISCCOPE-II1",
-    "text": "PERISCCOPE-II1\nComparison of cytoreductive surgery + HIPIC to systemic chemotherapy in patients with gastric cancer and peritoneal metastasis.\n(koemans1?)"
+    "section": "PERISCCOPE-II",
+    "text": "PERISCCOPE-II\nComparison of cytoreductive surgery + HIPIC to systemic chemotherapy in patients with gastric cancer and peritoneal metastasis.\n\n\n(koemans1?)"
   },
   {
     "objectID": "gastric_ca_rx_talk.htm#chimera-trial",
@@ -164,8 +164,8 @@
     "objectID": "gastric_ca_rx_talk.htm#prevent",
     "href": "gastric_ca_rx_talk.htm#prevent",
     "title": "Esophageal Cancer Treatment",
-    "section": "PREVENT1",
-    "text": "PREVENT1\nDiffuse-type gastric and GE junction adenocarcnoma:\nFLOT \\(\\rightarrow\\) Gastrectomy + HIPIC \\(\\rightarrow\\) vs FLOT \\(\\rightarrow\\) Gastrectomy \\(\\rightarrow\\)\n\n\n(gotze1?)"
+    "section": "PREVENT",
+    "text": "PREVENT\nDiffuse-type gastric and GE junction adenocarcnoma:\nFLOT \\(\\rightarrow\\) Gastrectomy + HIPIC \\(\\rightarrow\\) vs FLOT \\(\\rightarrow\\) Gastrectomy \\(\\rightarrow\\)\n\n\n\n\n(gotze1?)"
   },
   {
     "objectID": "eso_ca_rx_talk.htm#esophageal-cancer-treatment-categories",
@@ -228,14 +228,14 @@
     "href": "eso_ca_rx_talk.htm#eus-in-patients-with-dysphagia",
     "title": "Esophageal Cancer Treatment",
     "section": "EUS in Patients with Dysphagia",
-    "text": "EUS in Patients with Dysphagia\nMemorial Sloan Kettering[^1] patients with esophageal cancer:\n\n61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.\n53 without dysphagia, 25 (47%) were uT1-2 \\(\\rightarrow\\) candidates for primary surgery.\n\nEUS can be omitted for patients with dysphagia, but is useful in patients without dysphagia.\n\n\n(Ripley et al. 2016)"
+    "text": "EUS in Patients with Dysphagia\nMemorial Sloan Kettering patients with esophageal cancer:\n\n61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.\n53 without dysphagia, 25 (47%) were uT1-2 \\(\\rightarrow\\) candidates for primary surgery.\n\nEUS can be omitted for patients with dysphagia, but is useful in patients without dysphagia.\n\n\n(Ripley et al. 2016)"
   },
   {
     "objectID": "eso_ca_rx_talk.htm#pet-scan",
     "href": "eso_ca_rx_talk.htm#pet-scan",
     "title": "Esophageal Cancer Treatment",
     "section": "PET Scan",
-    "text": "PET Scan\nPET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis 1\nBlock et al. (1997)"
+    "text": "PET Scan\nPET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis\n\n\n(gotze1?)"
   },
   {
     "objectID": "eso_ca_rx_talk.htm#locally-advanced",
@@ -396,7 +396,7 @@
     "href": "eso_ca_rx_talk.htm#references",
     "title": "Esophageal Cancer Treatment",
     "section": "References",
-    "text": "References\n\n\n\n\nAllum, William H., Sally P. Stenning, John Bancewicz, Peter I. Clark, and Ruth E. Langley. 2009. “Long-Term Results of a Randomized Trial of Surgery with or Without Preoperative Chemotherapy in Esophageal Cancer.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 27 (30): 5062–67. https://doi.org/10.1200/JCO.2009.22.2083.\n\n\nBlock, M. I., G. A. Patterson, R. S. Sundaresan, M. S. Bailey, F. L. Flanagan, F. Dehdashti, B. A. Siegel, and J. D. Cooper. 1997. “Improvement in Staging of Esophageal Cancer with the Addition of Positron Emission Tomography.” The Annals of Thoracic Surgery 64 (3): 770-776; discussion 776-777. https://doi.org/10.1016/s0003-4975(97)00619-x.\n\n\nHoeppner, Jens, Thomas Brunner, Claudia Schmoor, Peter Bronsert, Birte Kulemann, Rainer Claus, Stefan Utzolino, et al. 2025. “Perioperative Chemotherapy or Preoperative Chemoradiotherapy in Esophageal Cancer.” The New England Journal of Medicine 392 (4): 323–35. https://doi.org/10.1056/NEJMoa2409408.\n\n\nKelly, Ronan J., Jaffer A. Ajani, Jaroslaw Kuzdzal, Thomas Zander, Eric Van Cutsem, Guillaume Piessen, Guillermo Mendez, et al. 2021. “Adjuvant Nivolumab in Resected Esophageal or Gastroesophageal Junction Cancer.” The New England Journal of Medicine 384 (13): 1191–1203. https://doi.org/10.1056/NEJMoa2032125.\n\n\nRipley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit S. Bains, David R. Jones, Prasad S. Adusumilli, et al. 2016. “Pretreatment Dysphagia in Esophageal Cancer Patients May Eliminate the Need for Staging by Endoscopic Ultrasonography.” The Annals of Thoracic Surgery 101 (1): 226–30. https://doi.org/10.1016/j.athoracsur.2015.06.062.\n\n\nShaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, Herbert C. Wolfsen, Richard E. Sampliner, Kenneth K. Wang, Joseph A. Galanko, et al. 2009. “Radiofrequency Ablation in Barrett’s Esophagus with Dysplasia.” The New England Journal of Medicine 360 (22): 2277–88. https://doi.org/10.1056/NEJMoa0808145.\n\n\nShapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. “Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (CROSS): Long-Term Results of a Randomised Controlled Trial.” The Lancet. Oncology 16 (9): 1090–98. https://doi.org/10.1016/S1470-2045(15)00040-6.\n\n\nStahl, Michael, Martin Stuschke, Nils Lehmann, Hans-Joachim Meyer, Martin K. Walz, Siegfried Seeber, Bodo Klump, et al. 2005. “Chemoradiation with and Without Surgery in Patients with Locally Advanced Squamous Cell Carcinoma of the Esophagus.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 23 (10): 2310–17. https://doi.org/10.1200/JCO.2005.00.034."
+    "text": "References\n\n\n\n\nAllum, William H., Sally P. Stenning, John Bancewicz, Peter I. Clark, and Ruth E. Langley. 2009. “Long-Term Results of a Randomized Trial of Surgery with or Without Preoperative Chemotherapy in Esophageal Cancer.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 27 (30): 5062–67. https://doi.org/10.1200/JCO.2009.22.2083.\n\n\nHoeppner, Jens, Thomas Brunner, Claudia Schmoor, Peter Bronsert, Birte Kulemann, Rainer Claus, Stefan Utzolino, et al. 2025. “Perioperative Chemotherapy or Preoperative Chemoradiotherapy in Esophageal Cancer.” The New England Journal of Medicine 392 (4): 323–35. https://doi.org/10.1056/NEJMoa2409408.\n\n\nKelly, Ronan J., Jaffer A. Ajani, Jaroslaw Kuzdzal, Thomas Zander, Eric Van Cutsem, Guillaume Piessen, Guillermo Mendez, et al. 2021. “Adjuvant Nivolumab in Resected Esophageal or Gastroesophageal Junction Cancer.” The New England Journal of Medicine 384 (13): 1191–1203. https://doi.org/10.1056/NEJMoa2032125.\n\n\nRipley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit S. Bains, David R. Jones, Prasad S. Adusumilli, et al. 2016. “Pretreatment Dysphagia in Esophageal Cancer Patients May Eliminate the Need for Staging by Endoscopic Ultrasonography.” The Annals of Thoracic Surgery 101 (1): 226–30. https://doi.org/10.1016/j.athoracsur.2015.06.062.\n\n\nShaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, Herbert C. Wolfsen, Richard E. Sampliner, Kenneth K. Wang, Joseph A. Galanko, et al. 2009. “Radiofrequency Ablation in Barrett’s Esophagus with Dysplasia.” The New England Journal of Medicine 360 (22): 2277–88. https://doi.org/10.1056/NEJMoa0808145.\n\n\nShapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. “Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (CROSS): Long-Term Results of a Randomised Controlled Trial.” The Lancet. Oncology 16 (9): 1090–98. https://doi.org/10.1016/S1470-2045(15)00040-6.\n\n\nStahl, Michael, Martin Stuschke, Nils Lehmann, Hans-Joachim Meyer, Martin K. Walz, Siegfried Seeber, Bodo Klump, et al. 2005. “Chemoradiation with and Without Surgery in Patients with Locally Advanced Squamous Cell Carcinoma of the Esophagus.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 23 (10): 2310–17. https://doi.org/10.1200/JCO.2005.00.034."
   },
   {
     "objectID": "eso_eras.html",
@@ -2804,63 +2804,63 @@
     "href": "rectal_adjuvant.htm#opra-clinical-trial3",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "OPRA Clinical Trial1",
-    "text": "OPRA Clinical Trial1\n324 rectal cancer patients randomized\nChemo \\(\\rightarrow\\) ChemoRT \\(\\rightarrow\\) Restaging\nChemoRT \\(\\rightarrow\\) Chemo \\(\\rightarrow\\) Restaging\nRestaging: - Clinical response offered watch/wait - Non-responders \\(\\rightarrow\\) surgery\nGarcia-Aguilar et al. (2022)"
+    "text": "OPRA Clinical Trial1\n324 rectal cancer patients randomized\nChemo \\(\\rightarrow\\) ChemoRT \\(\\rightarrow\\) Restaging\nChemoRT \\(\\rightarrow\\) Chemo \\(\\rightarrow\\) Restaging\nRestaging: - Clinical response offered watch/wait - Non-responders \\(\\rightarrow\\) surgery\n(gotze1?)\nGarcia-Aguilar et al. (2022)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#opra-clinical-trial4",
-    "href": "rectal_adjuvant.htm#opra-clinical-trial4",
+    "objectID": "rectal_adjuvant.htm#opra-clinical-trial",
+    "href": "rectal_adjuvant.htm#opra-clinical-trial",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "OPRA Clinical Trial1",
-    "text": "OPRA Clinical Trial1\n304 patients restaged: Surgery recommended in 26%\n225 patients Watch and Wait\nChemo \\(\\rightarrow\\) ChemoRT 40% recurrence\nChemoRT \\(\\rightarrow\\) Chemo 27% recurrence\nGarcia-Aguilar et al. (2022)"
+    "section": "OPRA Clinical Trial",
+    "text": "OPRA Clinical Trial\n304 patients restaged: Surgery recommended in 26%\n225 patients Watch and Wait\nChemo \\(\\rightarrow\\) ChemoRT 40% recurrence\nChemoRT \\(\\rightarrow\\) Chemo 27% recurrence\n\n\n(Garcia-Aguilar et al. 2022)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#opra-clinical-trial5",
-    "href": "rectal_adjuvant.htm#opra-clinical-trial5",
+    "objectID": "rectal_adjuvant.htm#opra-clinical-trial-1",
+    "href": "rectal_adjuvant.htm#opra-clinical-trial-1",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "OPRA Clinical Trial1",
-    "text": "OPRA Clinical Trial1\n\n\n225 patients Watch and Wait\nChemo \\(\\rightarrow\\) ChemoRT 47% organ preservation\nChemoRT \\(\\rightarrow\\) Chemo 27% organ preservation\nGarcia-Aguilar et al. (2022)"
+    "section": "OPRA Clinical Trial",
+    "text": "OPRA Clinical Trial\n\n\n225 patients Watch and Wait\nChemo \\(\\rightarrow\\) ChemoRT 47% organ preservation\nChemoRT \\(\\rightarrow\\) Chemo 27% organ preservation\n\n\n(Garcia-Aguilar et al. 2022)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#opra-clinical-trial6",
-    "href": "rectal_adjuvant.htm#opra-clinical-trial6",
+    "objectID": "rectal_adjuvant.htm#opra-clinical-trial-2",
+    "href": "rectal_adjuvant.htm#opra-clinical-trial-2",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "OPRA Clinical Trial1",
-    "text": "OPRA Clinical Trial1\nChemoRT: 5000 to 5600 cGy with 5-FU or Capcitabine\nChemo: FOLFOX or CapeOx\nGarcia-Aguilar et al. (2022)"
+    "section": "OPRA Clinical Trial",
+    "text": "OPRA Clinical Trial\nChemoRT: 5000 to 5600 cGy with 5-FU or Capcitabine\nChemo: FOLFOX or CapeOx\n\n\n(Garcia-Aguilar et al. 2022)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#opra-clinical-trial7",
-    "href": "rectal_adjuvant.htm#opra-clinical-trial7",
+    "objectID": "rectal_adjuvant.htm#opra-clinical-trial-3",
+    "href": "rectal_adjuvant.htm#opra-clinical-trial-3",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "OPRA Clinical Trial1",
-    "text": "OPRA Clinical Trial1\nRestaging at 8 \\(\\pm\\) 4 weeks\n\nMRI pelvis\nCT chest/abdomen/pelvis\nDigital rectal exam\nEndoscopy\n\nCategorized:\n\nIncomplete response \\(\\rightarrow\\)\nNear complete response \\(\\rightarrow\\) Watch/Wait\nComplete response \\(\\rightarrow\\) Watch/Wait\n\nGarcia-Aguilar et al. (2022)"
+    "section": "OPRA Clinical Trial",
+    "text": "OPRA Clinical Trial\nRestaging at 8 \\(\\pm\\) 4 weeks\n\nMRI pelvis\nCT chest/abdomen/pelvis\nDigital rectal exam\nEndoscopy\n\nCategorized:\n\nIncomplete response \\(\\rightarrow\\)\nNear complete response \\(\\rightarrow\\) Watch/Wait\nComplete response \\(\\rightarrow\\) Watch/Wait\n\n\n\n(Garcia-Aguilar et al. 2022)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#watchwait-surveillance8",
-    "href": "rectal_adjuvant.htm#watchwait-surveillance8",
+    "objectID": "rectal_adjuvant.htm#watchwait-surveillance",
+    "href": "rectal_adjuvant.htm#watchwait-surveillance",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Watch/Wait Surveillance1",
-    "text": "Watch/Wait Surveillance1\n\nDRE/Endoscopy q4 months x2 years \\(\\rightarrow\\) q6 months x3 years\nRectal MRI q6 months x2 years \\(\\rightarrow\\) annually x3 years\n\nSmith et al. (2015)"
+    "section": "Watch/Wait Surveillance",
+    "text": "Watch/Wait Surveillance\n\nDRE/Endoscopy q4 months x2 years \\(\\rightarrow\\) q6 months x3 years\nRectal MRI q6 months x2 years \\(\\rightarrow\\) annually x3 years\n\n\n\n(Smith et al. 2015)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc-9",
-    "href": "rectal_adjuvant.htm#watch-and-wait---mskcc-9",
+    "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc",
+    "href": "rectal_adjuvant.htm#watch-and-wait---mskcc",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Watch and Wait - MSKCC 1",
-    "text": "Watch and Wait - MSKCC 1\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\nSmith et al. (2019)"
+    "section": "Watch and Wait - MSKCC",
+    "text": "Watch and Wait - MSKCC\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n\n(@ Smith et al. 2019)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc-10",
-    "href": "rectal_adjuvant.htm#watch-and-wait---mskcc-10",
+    "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc-1",
+    "href": "rectal_adjuvant.htm#watch-and-wait---mskcc-1",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Watch and Wait - MSKCC 1",
-    "text": "Watch and Wait - MSKCC 1\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\nNo plevic recurrences\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n22 local regrowth on surveillance \\(\\rightarrow\\) Surgery\n\nPelvic control mantained in 20 (91%)\n\nRectal preservation in 93 (82%)\n\nSmith et al. (2019)"
+    "section": "Watch and Wait - MSKCC",
+    "text": "Watch and Wait - MSKCC\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\nNo plevic recurrences\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n22 local regrowth on surveillance \\(\\rightarrow\\) Surgery\n\nPelvic control mantained in 20 (91%)\n\nRectal preservation in 93 (82%)\n\n\n\n(@ Smith et al. 2019)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc-11",
-    "href": "rectal_adjuvant.htm#watch-and-wait---mskcc-11",
+    "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc-2",
+    "href": "rectal_adjuvant.htm#watch-and-wait---mskcc-2",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Watch and Wait - MSKCC 1",
-    "text": "Watch and Wait - MSKCC 1\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\n94% survival at 5 years\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n73% survival at 5 years\n\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\n94% survival at 5 years\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n73% survival at 5 years\nHigher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)\n\nSmith et al. (2019)"
+    "section": "Watch and Wait - MSKCC",
+    "text": "Watch and Wait - MSKCC\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\n94% survival at 5 years\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n73% survival at 5 years\n\nRestrospective comparison two groups with rectan cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\n94% survival at 5 years\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n73% survival at 5 years\nHigher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)\n\n\n\n(@ Smith et al. 2019)"
   },
   {
     "objectID": "rectal_adjuvant.htm#references",
