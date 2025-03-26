@@ -15,7 +15,6 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-
 ## Trans-abdominal Rectal Surgery
 
 Trans-abdominal procedures include
@@ -24,7 +23,7 @@ Trans-abdominal procedures include
 -   Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ
 -   Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.
 
-## Rectal Adjuvant Therapy 
+## Rectal Adjuvant Therapy
 
 Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence. Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.
 
@@ -38,10 +37,10 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 
 \
 
-- 58: Control with no further therapy
-- 50: Postop radiation alone 4000 or 4800cGy
-- 48: Postop chemotherapy 5FU+methyl-CCNU
-- 46: Chemo + radiation
+-   58: Control with no further therapy
+-   50: Postop radiation alone 4000 or 4800cGy
+-   48: Postop chemotherapy 5FU+methyl-CCNU
+-   46: Chemo + radiation
 
 [@gastrointestinaltumorstudygroup1465]
 
@@ -49,10 +48,10 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 
 Local Recurrence
 
-- 55%: Control with no further therapy
-- 50: Postop radiation alone 4000 or 4800cGy
-- 48: Postop chemotherapy 5FU+methyl-CCNU
-- 33%: Chemo + radiation
+-   55%: Control with no further therapy
+-   50: Postop radiation alone 4000 or 4800cGy
+-   48: Postop chemotherapy 5FU+methyl-CCNU
+-   33%: Chemo + radiation
 
 No difference in overall survival
 
@@ -62,14 +61,15 @@ No difference in overall survival
 
 ## Total Mesorectal Excicsion (1986)
 
-115 rectal cancer patients^[@heald1479] underwent surgery over 7.5 years
+115 rectal cancer patients[^1] underwent surgery over 7.5 years
+
+[^1]: @heald1479
 
 69 with anastomosis below 5cm
 
-Median followup of 4.2 years: 
+Median followup of 4.2 years:
 
--3 pelvic recurrences
--No staple-line recurrence
+-3 pelvic recurrences -No staple-line recurrence
 
 ## Dutch postop ChemoRT Trial
 
@@ -77,12 +77,14 @@ Dutch trial combined postoperative chemoRT and protocol-driven surgery using tot
 
 Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival
 
-## Dutch Short-course Trial^[@kapiteijn638]
+## Dutch Short-course Trial[^2]
+
+[^2]: @kapiteijn638
 
 1861 patients randomized:
 
-- preop RT (5x 500cGy) $\rightarrow$ Surgery (TME)
-- Surgery alone (TME)
+-   preop RT (5x 500cGy) $\rightarrow$ Surgery (TME)
+-   Surgery alone (TME)
 
 Reduction in local recurrence
 
@@ -94,7 +96,7 @@ No difference in survival
 
 ## German Trial
 
-German Trial compared preoperative ChemoRT vs postoperative ChemoRT.  All patients received postoperative adjuvant chemotherapy
+German Trial compared preoperative ChemoRT vs postoperative ChemoRT. All patients received postoperative adjuvant chemotherapy
 
 ## German Trial
 
@@ -118,12 +120,9 @@ Stockholm III trial showed that short-course radiation therapy performed 4-8 wee
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg)
 
-
-
 ## Overview of Rectal Adjunctive Therapy
 
 ![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history.png)
-
 
 ## Adjuvant Chemotherapy
 
@@ -131,7 +130,7 @@ Postoperative (adjuvant) chemotherapy was shown to be effective in reducing dist
 
 ## Timing of Chemotherapy and ChemoRT
 
-Adjuvant chemotherapy was traditionally given after surgery to patients with node-positive disease.  The surgical specimen was used to make decisions regarding postoperative chemotherapy
+Adjuvant chemotherapy was traditionally given after surgery to patients with node-positive disease. The surgical specimen was used to make decisions regarding postoperative chemotherapy
 
 With the advent to preoperative chemoRT, the information derived from the surgical pathology specimen was no longer available, so all patients were given postoperative adjuvant chemotherapy
 
@@ -141,29 +140,27 @@ ChemoRT $\rightarrow$ Surgery $\rightarrow$ Chemotherapy
 
 TNT approach moves all therapy to before surgery with goals to:
 
-- Improve tolerance of chemotherapy
-- Reduce toxicity of chemotherapy
-- Improve compliance with chemotherapy
-- Improve clinical complete response
+-   Improve tolerance of chemotherapy
+-   Reduce toxicity of chemotherapy
+-   Improve compliance with chemotherapy
+-   Improve clinical complete response
 
 ## Total Neoadjuvant Therapy
 
 TNT approach moves all therapy to before surgery with goals to:
 
-- Improve tolerance of chemotherapy
-- Reduce toxicity of chemotherapy
-- Improve compliance with chemotherapy
-- Improve clinical complete response
-  $\rightarrow$ organ preservation
-
+-   Improve tolerance of chemotherapy
+-   Reduce toxicity of chemotherapy
+-   Improve compliance with chemotherapy
+-   Improve clinical complete response $\rightarrow$ organ preservation
 
 ## RAPIDO Trial
 
 RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29] [@vandervalk75]
 
-Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery 
+Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery
 
-vs 
+vs
 
 ChemoRT $\rightarrow$ TME +/- Chemo
 
@@ -175,7 +172,9 @@ PRODIGE 23 randomized 461 patients with T3 or T4 recta cancers to long-course ra
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg)
 
-## OPRA Clinical Trial^[@garcia-aguilar2546]
+## OPRA Clinical Trial[^3]
+
+[^3]: @garcia-aguilar2546
 
 324 rectal cancer patients randomized
 
@@ -183,62 +182,67 @@ Chemo $\rightarrow$ ChemoRT $\rightarrow$ Restaging
 
 ChemoRT $\rightarrow$ Chemo $\rightarrow$ Restaging
 
-Restaging:
-- Clinical response offered watch/wait
-- Non-responders $\rightarrow$ surgery
+Restaging: - Clinical response offered watch/wait - Non-responders $\rightarrow$ surgery
 
+## OPRA Clinical Trial[^4]
 
-## OPRA Clinical Trial^[@garcia-aguilar2546]
+[^4]: @garcia-aguilar2546
 
 304 patients restaged: Surgery recommended in 26%
 
 225 patients Watch and Wait
 
-Chemo $\rightarrow$ ChemoRT 40% recurrence 
+Chemo $\rightarrow$ ChemoRT 40% recurrence
 
 ChemoRT $\rightarrow$ Chemo 27% recurrence
 
+## OPRA Clinical Trial[^5]
 
-## OPRA Clinical Trial^[@garcia-aguilar2546]
+[^5]: @garcia-aguilar2546
 
 \
 
 225 patients Watch and Wait
 
-Chemo $\rightarrow$ ChemoRT 47% organ preservation 
+Chemo $\rightarrow$ ChemoRT 47% organ preservation
 
 ChemoRT $\rightarrow$ Chemo 27% organ preservation
 
+## OPRA Clinical Trial[^6]
 
-## OPRA Clinical Trial^[@garcia-aguilar2546]
+[^6]: @garcia-aguilar2546
 
 ChemoRT: 5000 to 5600 cGy with 5-FU or Capcitabine
 
-Chemo:  FOLFOX or CapeOx
+Chemo: FOLFOX or CapeOx
 
-## OPRA Clinical Trial^[@garcia-aguilar2546]
+## OPRA Clinical Trial[^7]
+
+[^7]: @garcia-aguilar2546
 
 Restaging at 8 $\pm$ 4 weeks
 
-- MRI pelvis
-- CT chest/abdomen/pelvis
-- Digital rectal exam
-- Endoscopy
+-   MRI pelvis
+-   CT chest/abdomen/pelvis
+-   Digital rectal exam
+-   Endoscopy
 
 Categorized:
 
-- Incomplete response $\rightarrow$
-- Near complete response $\rightarrow$ Watch/Wait
-- Complete response $\rightarrow$ Watch/Wait
+-   Incomplete response $\rightarrow$
+-   Near complete response $\rightarrow$ Watch/Wait
+-   Complete response $\rightarrow$ Watch/Wait
 
-## Watch/Wait Surveillance^[@smith767]
+## Watch/Wait Surveillance[^8]
 
-- DRE/Endoscopy q4 months x2 years $\rightarrow$ q6 months x3 years
-- Rectal MRI q6 months x2 years $\rightarrow$ annually x3 years
+[^8]: @smith767
 
+-   DRE/Endoscopy q4 months x2 years $\rightarrow$ q6 months x3 years
+-   Rectal MRI q6 months x2 years $\rightarrow$ annually x3 years
 
+## Watch and Wait - MSKCC [^9]
 
-## Watch and Wait - MSKCC ^[@smithe185896]
+[^9]: @smithe185896
 
 Restrospective comparison two groups with rectan cancer:
 
@@ -246,44 +250,45 @@ Restrospective comparison two groups with rectan cancer:
 
 113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
 
+## Watch and Wait - MSKCC [^10]
 
-## Watch and Wait - MSKCC ^[@smithe185896]
-
-Restrospective comparison two groups with rectan cancer:
-
-136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
-
-- No plevic recurrences
-
-113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
-
-- 22 local regrowth on surveillance $\rightarrow$ Surgery
-  - Pelvic control mantained in 20 (91%)
-- Rectal preservation in 93 (82%)
-
-## Watch and Wait - MSKCC ^[@smithe185896]
+[^10]: @smithe185896
 
 Restrospective comparison two groups with rectan cancer:
 
 136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
 
-- 94% survival at 5 years
+-   No plevic recurrences
 
 113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
 
-- 73% survival at 5 years
+-   22 local regrowth on surveillance $\rightarrow$ Surgery
+    -   Pelvic control mantained in 20 (91%)
+-   Rectal preservation in 93 (82%)
+
+## Watch and Wait - MSKCC [^11]
+
+[^11]: @smithe185896
 
 Restrospective comparison two groups with rectan cancer:
 
 136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
 
-- 94% survival at 5 years
+-   94% survival at 5 years
 
 113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
 
-- 73% survival at 5 years
-- Higher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)
+-   73% survival at 5 years
 
+Restrospective comparison two groups with rectan cancer:
+
+136 preop ChemoRT $\rightarrow$ surgery $\Rightarrow$ pCR
+
+-   94% survival at 5 years
+
+113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
+
+-   73% survival at 5 years
+-   Higher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)
 
 ## References
-
