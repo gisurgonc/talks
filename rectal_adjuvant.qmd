@@ -184,9 +184,10 @@ ChemoRT $\rightarrow$ Chemo $\rightarrow$ Restaging
 
 Restaging: - Clinical response offered watch/wait - Non-responders $\rightarrow$ surgery
 
-## OPRA Clinical Trial[^4]
 
-[^4]: @garcia-aguilar2546
+@gotze1
+
+## OPRA Clinical Trial
 
 304 patients restaged: Surgery recommended in 26%
 
@@ -196,9 +197,13 @@ Chemo $\rightarrow$ ChemoRT 40% recurrence
 
 ChemoRT $\rightarrow$ Chemo 27% recurrence
 
-## OPRA Clinical Trial[^5]
+::: aside
+[@garcia-aguilar2546]
+:::
 
-[^5]: @garcia-aguilar2546
+
+
+## OPRA Clinical Trial
 
 \
 
@@ -208,17 +213,27 @@ Chemo $\rightarrow$ ChemoRT 47% organ preservation
 
 ChemoRT $\rightarrow$ Chemo 27% organ preservation
 
-## OPRA Clinical Trial[^6]
+::: aside
+[@garcia-aguilar2546]
+:::
 
-[^6]: @garcia-aguilar2546
+
+
+## OPRA Clinical Trial
 
 ChemoRT: 5000 to 5600 cGy with 5-FU or Capcitabine
 
 Chemo: FOLFOX or CapeOx
 
-## OPRA Clinical Trial[^7]
+::: aside
+[@garcia-aguilar2546]
+:::
 
-[^7]: @garcia-aguilar2546
+
+
+## OPRA Clinical Trial
+
+
 
 Restaging at 8 $\pm$ 4 weeks
 
@@ -233,16 +248,24 @@ Categorized:
 -   Near complete response $\rightarrow$ Watch/Wait
 -   Complete response $\rightarrow$ Watch/Wait
 
-## Watch/Wait Surveillance[^8]
+::: aside
+[@garcia-aguilar2546]
+:::
 
-[^8]: @smith767
+
+
+## Watch/Wait Surveillance
 
 -   DRE/Endoscopy q4 months x2 years $\rightarrow$ q6 months x3 years
 -   Rectal MRI q6 months x2 years $\rightarrow$ annually x3 years
 
-## Watch and Wait - MSKCC [^9]
+::: aside
+[@smith767]
+:::
 
-[^9]: @smithe185896
+
+
+## Watch and Wait - MSKCC 
 
 Restrospective comparison two groups with rectan cancer:
 
@@ -250,9 +273,12 @@ Restrospective comparison two groups with rectan cancer:
 
 113 preop ChemoRT $\Rightarrow$ complete clinical response (cCR)
 
-## Watch and Wait - MSKCC [^10]
+::: aside
+[@@smithe185896]
+:::
 
-[^10]: @smithe185896
+
+## Watch and Wait - MSKCC 
 
 Restrospective comparison two groups with rectan cancer:
 
@@ -266,9 +292,13 @@ Restrospective comparison two groups with rectan cancer:
     -   Pelvic control mantained in 20 (91%)
 -   Rectal preservation in 93 (82%)
 
-## Watch and Wait - MSKCC [^11]
+::: aside
+[@@smithe185896]
+:::
 
-[^11]: @smithe185896
+
+
+## Watch and Wait - MSKCC 
 
 Restrospective comparison two groups with rectan cancer:
 
@@ -290,5 +320,10 @@ Restrospective comparison two groups with rectan cancer:
 
 -   73% survival at 5 years
 -   Higher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)
+
+
+::: aside
+[@@smithe185896]
+:::
 
 ## References
