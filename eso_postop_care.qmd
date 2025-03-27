@@ -443,6 +443,24 @@ $\Rightarrow$ NG tube removal is delayed for patients with:
 ... until CT esophagram confirms that there is no evidence of leak
 
 
+## Risks of Cervical Anastomosis
+
+Leak
+
+- Elevated drain amylase (JP#4)
+- Cloudy drain fluid
+- Cervical wound infection
+
+Leak can frequently be treated by opening neck incision at the bedside
+
+## Leak Detection with Cervical Anastomosis
+
+Leak is generally clinically apparent due to wound infection or nature of JP drain output.
+
+Barium upper GI best study to look for leak
+
+
+
 ## Pneumonia
 
 ::::: columns
@@ -481,22 +499,6 @@ Diagnosis – EKG monitoring
 
 Treatment – amiodarone, β blockade
 
-
-## Risks of Cervical Anastomosis
-
-Leak
-
-- Elevated drain amylase (JP#4)
-- Cloudy drain fluid
-- Cervical wound infection
-
-Leak can frequently be treated by opening neck incision at the bedside
-
-## Leak Detection with Cervical Anastomosis
-
-Leak is generally clinically apparent due to wound infection or nature of JP drain output.
-
-Barium upper GI best study to look for leak
 
 
 ## Risks of Cervical Anastomosis
@@ -584,6 +586,56 @@ University of Virginia [@hu1302]
 Thoracic Duct
 Thoracic Duct
 Chylous Fluid Leak
+
+
+## Pneumonia
+
+::::: columns
+::: {.column width="50%"}
+Pneumonia occurs in 10% of patients after esophagectomy.
+
+  - Risk 5% in a patients with normal muscle mass
+  - Risk 20% in patients with low muscle mass
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_LungsArtboard.png)
+:::
+:::::
+
+
+## Thoracic Duct
+
+::::: columns
+::: {.column width="50%"}
+Pneumonia occurs in 10% of patients after esophagectomy.
+
+  - Risk 5% in a patients with normal muscle mass
+  - Risk 20% in patients with low muscle mass
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/thoracic_duct_large.png)
+:::
+:::::
+
+
+## Pneumonia
+
+::::: columns
+::: {.column width="50%"}
+Pneumonia occurs in 10% of patients after esophagectomy.
+
+  - Risk 5% in a patients with normal muscle mass
+  - Risk 20% in patients with low muscle mass
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_LungsArtboard.png)
+:::
+:::::
+
+
 
 
 ## Jejunostomy Small Bowel Necrosis
