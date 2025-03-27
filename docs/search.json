@@ -4800,5 +4800,579 @@
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "GI Tumor Study Group",
     "text": "GI Tumor Study Group"
+  },
+  {
+    "objectID": "eso_postop_care.htm#transthoracic-ivor-lewis-esophagectomy",
+    "href": "eso_postop_care.htm#transthoracic-ivor-lewis-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Transthoracic (Ivor Lewis) Esophagectomy",
+    "text": "Transthoracic (Ivor Lewis) Esophagectomy"
+  },
+  {
+    "objectID": "eso_postop_care.htm#goals-of-surgery",
+    "href": "eso_postop_care.htm#goals-of-surgery",
+    "title": "Esophagectomy Postop Care",
+    "section": "Goals of Surgery",
+    "text": "Goals of Surgery\n\n\n\nRemove tumor from esophagus\nRemove surrounding lymph nodes\nCreate a new esophagus"
+  },
+  {
+    "objectID": "eso_postop_care.htm#esophagectomy-categories",
+    "href": "eso_postop_care.htm#esophagectomy-categories",
+    "title": "Esophagectomy Postop Care",
+    "section": "Esophagectomy Categories",
+    "text": "Esophagectomy Categories\nResection Extent\n\nTotal (cervical incision)\nPartial (thoracic incision)\n\nAnastomosis = surgical junction between esophagus and its substitute\nEsophageal reconstruction\n\nStomach\nColon (2%)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#ivor-lewis-transthoracic-esophagectomy",
+    "href": "eso_postop_care.htm#ivor-lewis-transthoracic-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor and lower 1/3 esophagus\nRemoves surrounding lymph nodes\nGI tract reconstructed"
+  },
+  {
+    "objectID": "eso_postop_care.htm#reconstruction",
+    "href": "eso_postop_care.htm#reconstruction",
+    "title": "Esophagectomy Postop Care",
+    "section": "Reconstruction",
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+  },
+  {
+    "objectID": "eso_postop_care.htm#ivor-lewis-esophagectomy",
+    "href": "eso_postop_care.htm#ivor-lewis-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Ivor Lewis esophagectomy",
+    "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. An anastomosis is made in the chest between the esophagus and the stomach"
+  },
+  {
+    "objectID": "eso_postop_care.htm#minimally-invasive-ivor-lewis",
+    "href": "eso_postop_care.htm#minimally-invasive-ivor-lewis",
+    "title": "Esophagectomy Postop Care",
+    "section": "Minimally-invasive Ivor Lewis",
+    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "eso_postop_care.htm#minimally-invasive-esophagectomy",
+    "href": "eso_postop_care.htm#minimally-invasive-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Minimally-invasive Esophagectomy",
+    "text": "Minimally-invasive Esophagectomy"
+  },
+  {
+    "objectID": "eso_postop_care.htm#minimally-invasive-esophagectomy-1",
+    "href": "eso_postop_care.htm#minimally-invasive-esophagectomy-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit constructed with linear stapler"
+  },
+  {
+    "objectID": "eso_postop_care.htm#minimally-invasive-esophagectomy-2",
+    "href": "eso_postop_care.htm#minimally-invasive-esophagectomy-2",
+    "title": "Esophagectomy Postop Care",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit transposed into chest"
+  },
+  {
+    "objectID": "eso_postop_care.htm#minimally-invasive-esophagectomy-3",
+    "href": "eso_postop_care.htm#minimally-invasive-esophagectomy-3",
+    "title": "Esophagectomy Postop Care",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit transposed into chest\nCircular stapler used to construct anastomosis"
+  },
+  {
+    "objectID": "eso_postop_care.htm#minimally-invasive-esophagectomy-4",
+    "href": "eso_postop_care.htm#minimally-invasive-esophagectomy-4",
+    "title": "Esophagectomy Postop Care",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit transposed into chest\nCircular stapler used to construct anastomosis\nCompleted anastomosis"
+  },
+  {
+    "objectID": "eso_postop_care.htm#open-ivor-lewis",
+    "href": "eso_postop_care.htm#open-ivor-lewis",
+    "title": "Esophagectomy Postop Care",
+    "section": "Open Ivor Lewis",
+    "text": "Open Ivor Lewis\n\n\nMininally-invasive approach feasible in 95% of cases\nThoracotomy in 3%\nLaparotomy in 2%"
+  },
+  {
+    "objectID": "eso_postop_care.htm#total-esophagectomy",
+    "href": "eso_postop_care.htm#total-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Total Esophagectomy",
+    "text": "Total Esophagectomy\n\n\nFor patients with tumors in the upper esophagus, additional esophagus is removed and anastomosis performed in the neck"
+  },
+  {
+    "objectID": "eso_postop_care.htm#mckeown-esophagectomy",
+    "href": "eso_postop_care.htm#mckeown-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "McKeown Esophagectomy",
+    "text": "McKeown Esophagectomy\n\n\n Total esophagectomy\n\n Cervical anastomosis"
+  },
+  {
+    "objectID": "eso_postop_care.htm#colon-interposition",
+    "href": "eso_postop_care.htm#colon-interposition",
+    "title": "Esophagectomy Postop Care",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to use as a conduit, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "eso_postop_care.htm#colon-interposition-1",
+    "href": "eso_postop_care.htm#colon-interposition-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
+  },
+  {
+    "objectID": "eso_postop_care.htm#esophagectomy-complications",
+    "href": "eso_postop_care.htm#esophagectomy-complications",
+    "title": "Esophagectomy Postop Care",
+    "section": "Esophagectomy Complications",
+    "text": "Esophagectomy Complications\nSignificant complications\n\nDelayed gastric empyting\nAspiration due to dysphagia\nAnastomotic leak (8%)\nPneumonia (10%)\nAtrial Fibrillation (20%)\nMyocardial Infarction (5%)\nChylothorax (5%)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#gastric-emptying-after-esophagectomy",
+    "href": "eso_postop_care.htm#gastric-emptying-after-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Gastric emptying after Esophagectomy",
+    "text": "Gastric emptying after Esophagectomy\nVagus nerve normally stimulates gastric emptying\nEsophagectomy require dividing the vagus nere\n\\(\\Rightarrow\\) Esophagectomy can cause delayed gastric emptying\n\nNasogastric tube decompressed gastric conduite"
+  },
+  {
+    "objectID": "eso_postop_care.htm#evaluation-of-gastric-emptying",
+    "href": "eso_postop_care.htm#evaluation-of-gastric-emptying",
+    "title": "Esophagectomy Postop Care",
+    "section": "Evaluation of Gastric Emptying",
+    "text": "Evaluation of Gastric Emptying\nUpper GI evaluated gastric emptying\n\nInitial study on POD #2/3/4\nPatient stands in fluoroscopy\nIsovue injected via NG tube\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nIf stomach does not empty \\(\\rightarrow\\) repeat study in 2 days"
+  },
+  {
+    "objectID": "eso_postop_care.htm#swallowing-evaluation",
+    "href": "eso_postop_care.htm#swallowing-evaluation",
+    "title": "Esophagectomy Postop Care",
+    "section": "Swallowing Evaluation",
+    "text": "Swallowing Evaluation\n30% of patients have abnormal swallowing after esophagectomy, which places them at risk for aspiration pneumonia.\nLikely due to disuse atrophy of swallowing muscles\n\nAdvanced age\nProlonged NPO after surgery\nNPO prior to surgery due to esophageal obstruction"
+  },
+  {
+    "objectID": "eso_postop_care.htm#swallowing-evaluation-1",
+    "href": "eso_postop_care.htm#swallowing-evaluation-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Swallowing Evaluation",
+    "text": "Swallowing Evaluation\nModified Barium Swallow performed after NG tube removed\nOutcomes:\n\nPass for all consistencies (no aspiration or penetration) - 70%\nAspiration of thin liquids but OK for moderately thick liquinds - 15%\nAspiration witn moderately thick liquids - 15%"
+  },
+  {
+    "objectID": "eso_postop_care.htm#modified-barium-swallow",
+    "href": "eso_postop_care.htm#modified-barium-swallow",
+    "title": "Esophagectomy Postop Care",
+    "section": "Modified Barium Swallow",
+    "text": "Modified Barium Swallow\n70% Pass - started with oral liquids 1oz/hour\n\nAdvanced to protein shakes 2oz/hour if water tolerated\nAdvanced to protein shakes 4oz/hour if tolerated\n\nPatients discharged taking water, Gatorade, and protein shakes orally"
+  },
+  {
+    "objectID": "eso_postop_care.htm#anastomotic-leak",
+    "href": "eso_postop_care.htm#anastomotic-leak",
+    "title": "Esophagectomy Postop Care",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nAnastomosis can be performed:\nTotal esophagectomy: Cervical anastomosis\nPartial esophagectomy: Thoracic anastomosis"
+  },
+  {
+    "objectID": "eso_postop_care.htm#anastomotic-leak-1",
+    "href": "eso_postop_care.htm#anastomotic-leak-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf healing of anastomosis doesn’t occur:\n\nLeakage of fluid from the esophagus\nMediastinitis\nAmylase can be detected in drain fluid"
+  },
+  {
+    "objectID": "eso_postop_care.htm#anastomotic-leak-2",
+    "href": "eso_postop_care.htm#anastomotic-leak-2",
+    "title": "Esophagectomy Postop Care",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf leak occurs:\n\nSome leaks will seal with conservative management\nStent may be required to help healing\nAdditional surgery rarely required"
+  },
+  {
+    "objectID": "eso_postop_care.htm#drain-amylase-for-leak-detection",
+    "href": "eso_postop_care.htm#drain-amylase-for-leak-detection",
+    "title": "Esophagectomy Postop Care",
+    "section": "Drain Amylase for Leak Detection",
+    "text": "Drain Amylase for Leak Detection\n\n\nThoracic anastomosis\n\nUsually leaks into the right chest\n\nJP#2 drains the right chest\n\n\nCerfical anastomosis\n\nUsually leaks into the neck\n\nJP#4 drains the neck incision\n\n\nUsually start checking drain amylase on 4th-8th postop days"
+  },
+  {
+    "objectID": "eso_postop_care.htm#ct-esophagram-to-detect-anastomotic-leak",
+    "href": "eso_postop_care.htm#ct-esophagram-to-detect-anastomotic-leak",
+    "title": "Esophagectomy Postop Care",
+    "section": "CT esophagram to detect Anastomotic Leak",
+    "text": "CT esophagram to detect Anastomotic Leak\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nRadiologist looks for contrast extravisation from esophagus"
+  },
+  {
+    "objectID": "eso_postop_care.htm#ct-esophagram-with-ng-tube-in-place",
+    "href": "eso_postop_care.htm#ct-esophagram-with-ng-tube-in-place",
+    "title": "Esophagectomy Postop Care",
+    "section": "CT Esophagram with NG tube in place",
+    "text": "CT Esophagram with NG tube in place\nCT esophagram sentivity is best if side-holes of NG tube are immediately adjacent to the anastomosis\nSideholes extend 8.5cm up from the tip of the NG tube\nBest position of NG tube is with tip 5cm below the anastomosis\n\\(\\Rightarrow\\) NG tube needs to be optimally positioned prior to contrast instillation\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan peformed to identify location of tip of NG tube relative to the anastomosis\nRadiologist will measure the distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 113 - 6 = 7cm\nNG tube manipulation will need to be done by an RN or physician"
+  },
+  {
+    "objectID": "eso_postop_care.htm#ng-tube-withdrawl---amt-bridle",
+    "href": "eso_postop_care.htm#ng-tube-withdrawl---amt-bridle",
+    "title": "Esophagectomy Postop Care",
+    "section": "NG Tube Withdrawl - AMT Bridle",
+    "text": "NG Tube Withdrawl - AMT Bridle\nNG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.\nIn order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
+  },
+  {
+    "objectID": "eso_postop_care.htm#ct-esophagram---full-sequence",
+    "href": "eso_postop_care.htm#ct-esophagram---full-sequence",
+    "title": "Esophagectomy Postop Care",
+    "section": "CT esophagram - Full Sequence",
+    "text": "CT esophagram - Full Sequence\nScout CT Scan obtained and NG position measured\nNG tube withdrawn by RN/physicin\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nNG tube returned to prior position"
+  },
+  {
+    "objectID": "eso_postop_care.htm#ct-esophagram-without-ng-tube",
+    "href": "eso_postop_care.htm#ct-esophagram-without-ng-tube",
+    "title": "Esophagectomy Postop Care",
+    "section": "CT Esophagram without NG tube",
+    "text": "CT Esophagram without NG tube\nFor patients who have had their NG tube removed, oral contrast can be given for CT esophagram if they have passed their Modified Barium Swallow.\nFor patients who have their NG removed and have not been cleared for thin liquids by Modified Barium Swallow, CT esophagram carries a risk of aspiration.\n\\(\\Rightarrow\\) NG tube removal is delayed for patients with:\n\nElevated drain amylase\nLeukocytosis\nFevers\nProlonged ventilation\n\n… until CT esophagram confirms that there is no evidence of leak"
+  },
+  {
+    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis",
+    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis",
+    "title": "Esophagectomy Postop Care",
+    "section": "Risks of Cervical Anastomosis",
+    "text": "Risks of Cervical Anastomosis\nLeak\n\nElevated drain amylase (JP#4)\nCloudy drain fluid\nCervical wound infection\n\nLeak can frequently be treated by opening neck incision at the bedside"
+  },
+  {
+    "objectID": "eso_postop_care.htm#leak-detection-with-cervical-anastomosis",
+    "href": "eso_postop_care.htm#leak-detection-with-cervical-anastomosis",
+    "title": "Esophagectomy Postop Care",
+    "section": "Leak Detection with Cervical Anastomosis",
+    "text": "Leak Detection with Cervical Anastomosis\nLeak is generally clinically apparent due to wound infection or nature of JP drain output.\nBarium upper GI best study to look for leak"
+  },
+  {
+    "objectID": "eso_postop_care.htm#pneumonia",
+    "href": "eso_postop_care.htm#pneumonia",
+    "title": "Esophagectomy Postop Care",
+    "section": "Pneumonia",
+    "text": "Pneumonia\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
+  },
+  {
+    "objectID": "eso_postop_care.htm#preventing-pneumonia",
+    "href": "eso_postop_care.htm#preventing-pneumonia",
+    "title": "Esophagectomy Postop Care",
+    "section": "Preventing Pneumonia",
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+  },
+  {
+    "objectID": "eso_postop_care.htm#atrial-arrhythmia",
+    "href": "eso_postop_care.htm#atrial-arrhythmia",
+    "title": "Esophagectomy Postop Care",
+    "section": "Atrial arrhythmia",
+    "text": "Atrial arrhythmia\nAtrial fibrillation (and other arrhythmias)\nPrevention – beta blockade/amiodarone\nDiagnosis – EKG monitoring\nTreatment – amiodarone, β blockade"
+  },
+  {
+    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis-1",
+    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Risks of Cervical Anastomosis",
+    "text": "Risks of Cervical Anastomosis\nRecurrent laryngeal nerve palsy\n\nHoarse voice\nDiagnosis by FEES (speech therapy)\nRisk of aspiration\n\nRLN palsy generally improves over time\nMay require medialization of the affected cord"
+  },
+  {
+    "objectID": "eso_postop_care.htm#risks-of-surgery",
+    "href": "eso_postop_care.htm#risks-of-surgery",
+    "title": "Esophagectomy Postop Care",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nRisks related to Surgery\n\nAnastomotic leak (5%)\nStricture at anastomosis (15%)\nDeath within 90 days of surgery\n\nLow risk patients = 2%\nIntermediate risk = 10%\nHigh risk = 30%"
+  },
+  {
+    "objectID": "eso_postop_care.htm#risks-of-surgery-1",
+    "href": "eso_postop_care.htm#risks-of-surgery-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\n\nRisks of Death within 90 Days of Surgery\n\n\n\nAge &lt;75\nAge &gt;75\n\n\n\n\nNormal Muscle (75%)\n2%\n10%\n\n\nLow Muscle (25%)\n10%\n30%"
+  },
+  {
+    "objectID": "eso_postop_care.htm#thoracic-epidural-catheter",
+    "href": "eso_postop_care.htm#thoracic-epidural-catheter",
+    "title": "Esophagectomy Postop Care",
+    "section": "Thoracic Epidural Catheter",
+    "text": "Thoracic Epidural Catheter\n\nManaged by Anesthesia Pain Service\nFoley catheter removed after epidural out\nCan cause hypotension due to sympathectomy effect"
+  },
+  {
+    "objectID": "eso_postop_care.htm#urinary-rention-with-epidural-catheter",
+    "href": "eso_postop_care.htm#urinary-rention-with-epidural-catheter",
+    "title": "Esophagectomy Postop Care",
+    "section": "Urinary Rention with Epidural Catheter",
+    "text": "Urinary Rention with Epidural Catheter\nRandomized trial of early vs late removal of urenaty catheter after thoracic surgery\nEarly removal at 48hrs: 12% reinsertion\n\nOne urinary tract infection\n\nRemoval 6 hours after epidural removal: 3.2% reinsertion\n\nNo urinary tract infection in 126 patients\n\n\n\nMayo Clinic (allen925?)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#urinary-rention-with-epidural-catheter-1",
+    "href": "eso_postop_care.htm#urinary-rention-with-epidural-catheter-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Urinary Rention with Epidural Catheter",
+    "text": "Urinary Rention with Epidural Catheter\nEarly urinary removal catheter protocol (48hrs) compared with historical controls\nEarly removal at 48hrs: 28% retention\n\nUrinary tract infection 1%\n\nRemoval 6 hours after epidural removal: 12.4% retention (p=0.003)\n\nUninary tracdt infection 3.2% (p=0.28)\n\n\n\nUniversity of Virginia (hu1302?)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#multimodality-pain-management",
+    "href": "eso_postop_care.htm#multimodality-pain-management",
+    "title": "Esophagectomy Postop Care",
+    "section": "Multimodality Pain Management",
+    "text": "Multimodality Pain Management\n\nMorphine or Dilaudid PCA\nAcetaminophen 1000mg q6 hours ATC (not prn)\nGabapentin 300mg tid\nOxycodone elixir via jejunostomy\nNo Toradol or non-steroidal anti-inflammatories\n\nThoracic Duct Thoracic Duct Chylous Fluid Leak"
+  },
+  {
+    "objectID": "eso_postop_care.htm#pneumonia-1",
+    "href": "eso_postop_care.htm#pneumonia-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Pneumonia",
+    "text": "Pneumonia\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
+  },
+  {
+    "objectID": "eso_postop_care.htm#thoracic-duct",
+    "href": "eso_postop_care.htm#thoracic-duct",
+    "title": "Esophagectomy Postop Care",
+    "section": "Thoracic Duct",
+    "text": "Thoracic Duct\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
+  },
+  {
+    "objectID": "eso_postop_care.htm#thoracic-duct-leak",
+    "href": "eso_postop_care.htm#thoracic-duct-leak",
+    "title": "Esophagectomy Postop Care",
+    "section": "Thoracic Duct Leak",
+    "text": "Thoracic Duct Leak\n\n\nThoracic duct leak manifests as milky fluid in JP drains\n\nTest for triglycerides (to confirm chylous leak)\nAlso test for amylase (to confirm absense of leak)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#thoracic-duct-leak-treatment",
+    "href": "eso_postop_care.htm#thoracic-duct-leak-treatment",
+    "title": "Esophagectomy Postop Care",
+    "section": "Thoracic Duct Leak Treatment",
+    "text": "Thoracic Duct Leak Treatment\n\n\n\nLow fat diet\nMidodrine 5mg po/jejunostomy tid\nThoracic duct embolization\nSurgical thoracic duct ligation"
+  },
+  {
+    "objectID": "eso_postop_care.htm#thoracic-duct-1",
+    "href": "eso_postop_care.htm#thoracic-duct-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Thoracic Duct",
+    "text": "Thoracic Duct\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
+  },
+  {
+    "objectID": "eso_postop_care.htm#jejunostomy-small-bowel-necrosis",
+    "href": "eso_postop_care.htm#jejunostomy-small-bowel-necrosis",
+    "title": "Esophagectomy Postop Care",
+    "section": "Jejunostomy Small Bowel Necrosis",
+    "text": "Jejunostomy Small Bowel Necrosis\nAmong patients with a new jejunostomy tube: 1% incidence of necrosis (gangrene) of the jejunum Thought to be due to demand ischemia Can lead to bowel perforation More likely after major surgery"
+  },
+  {
+    "objectID": "eso_postop_care.htm#jejunal-necrosis---cincinnati-series",
+    "href": "eso_postop_care.htm#jejunal-necrosis---cincinnati-series",
+    "title": "Esophagectomy Postop Care",
+    "section": "Jejunal Necrosis - Cincinnati Series",
+    "text": "Jejunal Necrosis - Cincinnati Series\nEight patients over 14 years age 50-74\n\nPancreatectomy (n=6)\nEsophagectomy (n=2)\n\nPresentation 4 days after starting feeds\nSymptoms:\n\nAbdominal pain and distension\nTachycardia\nHypotension\nLeukocytosis\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-1",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-2",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-2",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-3",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-3",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis\nSegmental resection of jejunum."
+  },
+  {
+    "objectID": "eso_postop_care.htm#jejunostomy-associated-small-bowel-necrosis",
+    "href": "eso_postop_care.htm#jejunostomy-associated-small-bowel-necrosis",
+    "title": "Esophagectomy Postop Care",
+    "section": "Jejunostomy-associated Small Bowel Necrosis",
+    "text": "Jejunostomy-associated Small Bowel Necrosis\n\n\nKey lessons:\n\nEarly diagnosis is critical. Stop Tube Feeds!\nSigns can be subtle: distension or increased pain\nCT scan is diagnostic\nAdvance tube feeds slowly until bowel function\nCritical period is probably first 5 days postop"
+  },
+  {
+    "objectID": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy",
+    "href": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Nutritional Consequences of Esophagectomy",
+    "text": "Nutritional Consequences of Esophagectomy\nOropharyngeal\n\nDsyphagia and aspiration due to muscle wasting\n\nGastric\n\nSmall capacity of gastric conduit\nDelayed gastric emptying\n\nIntestinal - Tube feeding intolerance\nIf That’s Not Enough… - Increased metabolic needs due to healing + - Preoperative nutritional deficit"
+  },
+  {
+    "objectID": "eso_postop_care.htm#gastric-emptying---medical-strategies",
+    "href": "eso_postop_care.htm#gastric-emptying---medical-strategies",
+    "title": "Esophagectomy Postop Care",
+    "section": "Gastric Emptying - Medical Strategies",
+    "text": "Gastric Emptying - Medical Strategies\nMetoclopramine (Reglan®) – 10mg po/iv q6hrs\n\nSide effects\n\nDystonic reaction (esp in young)\nTardive Dyskinesia (&lt;1%)\n\n\nMirtazapine (Remeron®) 15mg po qHs\n-Anti-depressant promotes gastric emptying -Can cause vivid dreams"
+  },
+  {
+    "objectID": "eso_postop_care.htm#jejunostomy-feedings",
+    "href": "eso_postop_care.htm#jejunostomy-feedings",
+    "title": "Esophagectomy Postop Care",
+    "section": "Jejunostomy Feedings",
+    "text": "Jejunostomy Feedings\nOsmolite 1.5 starting POD#1 at 30mL/hr\n\nIncreased once bowel function returns (flatus)\nIncreased 10mL/hour every 12 hours (continuous)\nConverted to nocturnal (6pm to 10am)\n\nVital High Protein for BMI &gt;35 (decreased CHO/calorie content, increased protein)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#jejunostomy-feedings-1",
+    "href": "eso_postop_care.htm#jejunostomy-feedings-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Jejunostomy Feedings",
+    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (4pm-10am)\nFree Water Flushes: Patients can tolerate up to approximately 240mL (8oz) warm water bolus via syringe into j-tube at a time."
+  },
+  {
+    "objectID": "eso_postop_care.htm#free-water",
+    "href": "eso_postop_care.htm#free-water",
+    "title": "Esophagectomy Postop Care",
+    "section": "Free Water",
+    "text": "Free Water\nJejunostomy tube flushed in am\nFree water flushes: 240mL q4 hours while awake\nFree water can help prevent tube clogging or constipation\nPatients will need instruction on flushing tube"
+  },
+  {
+    "objectID": "eso_postop_care.htm#osmolite-1.5",
+    "href": "eso_postop_care.htm#osmolite-1.5",
+    "title": "Esophagectomy Postop Care",
+    "section": "Osmolite 1.5",
+    "text": "Osmolite 1.5\nNutritionally complete standard formula\n-High caloric density -Does not contain fiber -Reduces risk of clogging tube -Medium Chain Triglycerides (20%) -HCPCS Code: B4152"
+  },
+  {
+    "objectID": "eso_postop_care.htm#vital-1.5",
+    "href": "eso_postop_care.htm#vital-1.5",
+    "title": "Esophagectomy Postop Care",
+    "section": "Vital 1.5",
+    "text": "Vital 1.5\nNutritionally complete elemental formula - Appropriate for impaired GI function, malabsorption, or diarrhea -Contains FOS fiber -Promotes healthy gut flora -Proteins enzymatically hydrolyzed -Promote gastric emptying -Medium Chain Triglycerides (50%) -HCPCS Code: B4153"
+  },
+  {
+    "objectID": "eso_postop_care.htm#vital-high-protein",
+    "href": "eso_postop_care.htm#vital-high-protein",
+    "title": "Esophagectomy Postop Care",
+    "section": "Vital High Protein",
+    "text": "Vital High Protein\nNutritionally Complete elemental Formula Appropriate for patients with BMI &gt;35 Medium Chain Triglyceries (50%) HCPCS Code: B4153"
+  },
+  {
+    "objectID": "eso_postop_care.htm#jenunostomy-tube-feed-intolerance",
+    "href": "eso_postop_care.htm#jenunostomy-tube-feed-intolerance",
+    "title": "Esophagectomy Postop Care",
+    "section": "Jenunostomy Tube Feed Intolerance",
+    "text": "Jenunostomy Tube Feed Intolerance\nDiarrhea, bloating, or cramps\n-Check clostridium Difficile -Switch formulas (Osmolite 1.5 →Vital 1.5) -Cautious use of anti-motility agents (eg Lomotil)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#diabetic-patients-on-jejunostomy-feeds",
+    "href": "eso_postop_care.htm#diabetic-patients-on-jejunostomy-feeds",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diabetic Patients on Jejunostomy Feeds",
+    "text": "Diabetic Patients on Jejunostomy Feeds\nDiabetic patients may have more problems with elevated blood sugars with jejunostomy feedings vs oral intake due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones\nPatients with diabetes may need long-acting insulin in the evening when tube feeds started\nExample regimen:\n10 Units 70/30 at 4 pm AND 10 Units 70/30 at 10pm Early consultations with endocrinology"
+  },
+  {
+    "objectID": "eso_postop_care.htm#diabetic-patients---transition-to-nocturnal-feeds",
+    "href": "eso_postop_care.htm#diabetic-patients---transition-to-nocturnal-feeds",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diabetic Patients - Transition to Nocturnal Feeds",
+    "text": "Diabetic Patients - Transition to Nocturnal Feeds\nWhen patients leave the ICU, they will be on continuous tube feeds\nPatients with diabetes will have a continuous regimen of q6 (2N+1R) eg: 10 units N + 5 units R q6 hours\nMost patients will be transitioned to nocturnal feeds when on the ward"
+  },
+  {
+    "objectID": "eso_postop_care.htm#insulin---transition-to-nocturnal-feeds",
+    "href": "eso_postop_care.htm#insulin---transition-to-nocturnal-feeds",
+    "title": "Esophagectomy Postop Care",
+    "section": "Insulin - Transition to Nocturnal Feeds",
+    "text": "Insulin - Transition to Nocturnal Feeds\nTube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). \nInsulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion during the time off feeds. \nStop tube feeds at 12pm & check blood sugar\nDo not give noon dose of insulin\nDiscontinue q6 insulin when tube feeds stopped\nStart nocturnal tube feeds at 6pm \nAdminister nocturnal insulin at 6pm as ordered"
+  },
+  {
+    "objectID": "eso_postop_care.htm#diet-orders",
+    "href": "eso_postop_care.htm#diet-orders",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diet Orders",
+    "text": "Diet Orders\nIn general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.  \nPatients who pass their MBS for thin liquids are started on oral water 1oz per hour with medicines with sips of water. If oral water is tolerated, they are advanced the following day to Ensure High Protein 2oz q1hr (and continue with water 1oz per hour).\nSupplement Task Order is noted as “Supplement Regimen” and comes up as a nursing task, up to TID"
+  },
+  {
+    "objectID": "eso_postop_care.htm#diet-orders-1",
+    "href": "eso_postop_care.htm#diet-orders-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diet Orders",
+    "text": "Diet Orders\nPatients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water.\nPatients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube."
+  },
+  {
+    "objectID": "eso_postop_care.htm#diet-orders-2",
+    "href": "eso_postop_care.htm#diet-orders-2",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diet Orders",
+    "text": "Diet Orders\nNPO Diet Continue Tube Feeds. Under “Special Instructions”, one of the following is entered:\n\nMedicines with thickened water\nWater 1oz per hour + meds with water\nEnsure High Protein 2oz per hour + Water 1oz per hour + meds with water\n\nThe above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient."
+  },
+  {
+    "objectID": "eso_postop_care.htm#diet-orders-preop-npo",
+    "href": "eso_postop_care.htm#diet-orders-preop-npo",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diet Orders Preop NPO",
+    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR need an order for “NPO after MN” and their tube feeds should be held at midnight."
+  },
+  {
+    "objectID": "eso_postop_care.htm#nutrition-summary",
+    "href": "eso_postop_care.htm#nutrition-summary",
+    "title": "Esophagectomy Postop Care",
+    "section": "Nutrition Summary",
+    "text": "Nutrition Summary\n\nEvaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time)\nEmphasize fluid as the patient transitions to 100% oral/tube hydration\nMonitor tolerance to full liquids prior to discharge\nAssure blood sugars are checked & controlled"
+  },
+  {
+    "objectID": "eso_postop_care.htm#enteral-feeding-bag-details",
+    "href": "eso_postop_care.htm#enteral-feeding-bag-details",
+    "title": "Esophagectomy Postop Care",
+    "section": "Enteral Feeding Bag Details",
+    "text": "Enteral Feeding Bag Details\n-Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding -Open system; poured into top of bag -All connections should now be EnFit -Syringes for water flush -Infusion bag/tubing"
+  },
+  {
+    "objectID": "eso_postop_care.htm#patient-education-needs",
+    "href": "eso_postop_care.htm#patient-education-needs",
+    "title": "Esophagectomy Postop Care",
+    "section": "Patient Education Needs",
+    "text": "Patient Education Needs\nPost-esophagectomy diet\nAnti-dumping diet\nEnteral Feeding\nEnteral feeding pump\nMedication administration via tube\nFree water flushing\nDiabetic management"
+  },
+  {
+    "objectID": "eso_postop_care.htm#discharge-pod-67",
+    "href": "eso_postop_care.htm#discharge-pod-67",
+    "title": "Esophagectomy Postop Care",
+    "section": "Discharge POD #6/#7",
+    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nCoumadin or anticoagulation (if in atrial fibrillation)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#discharge-planning",
+    "href": "eso_postop_care.htm#discharge-planning",
+    "title": "Esophagectomy Postop Care",
+    "section": "Discharge Planning",
+    "text": "Discharge Planning\nJejunostomy tube feedings\n\nPump mangement\nFree water flushes\n\nMedications: Who is managing new meds?\nHome infusion: orders for tube feed formula/rate/duration\nHome nursing: Postop visit"
+  },
+  {
+    "objectID": "eso_postop_care.htm#patient-instructions",
+    "href": "eso_postop_care.htm#patient-instructions",
+    "title": "Esophagectomy Postop Care",
+    "section": "Patient Instructions",
+    "text": "Patient Instructions\nDriving: Off narcotics and pain-free\nShowering: OK at home\nLifting: No lifting &gt;10# for 6 weeks"
+  },
+  {
+    "objectID": "eso_postop_care.htm#postop-office-visit",
+    "href": "eso_postop_care.htm#postop-office-visit",
+    "title": "Esophagectomy Postop Care",
+    "section": "Postop Office Visit",
+    "text": "Postop Office Visit\nReview pathology Wean beta blockers Check wounds Look for late pleural effusion Advance diet Reduce tube feeds as diet advanced"
+  },
+  {
+    "objectID": "eso_postop_care.htm#minimally-invasive-esophagectomy-acknowledgements",
+    "href": "eso_postop_care.htm#minimally-invasive-esophagectomy-acknowledgements",
+    "title": "Esophagectomy Postop Care",
+    "section": "Minimally-invasive esophagectomy Acknowledgements",
+    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic\n\n\nTube Feed Comparisons (60mL x 16 hrs) Tube Feed Comparisons (75mL x 16 hrs)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#orientation-manual",
+    "href": "eso_postop_care.htm#orientation-manual",
+    "title": "Esophagectomy Postop Care",
+    "section": "Orientation Manual",
+    "text": "Orientation Manual"
+  },
+  {
+    "objectID": "eso_postop_care.htm#references",
+    "href": "eso_postop_care.htm#references",
+    "title": "Esophagectomy Postop Care",
+    "section": "References",
+    "text": "References\n\n\n\n\nGI Surgical Oncology Talks"
   }
 ]
