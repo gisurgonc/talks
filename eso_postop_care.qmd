@@ -815,7 +815,9 @@ Nutritionally Complete elemental Formula Appropriate for patients with BMI \>35 
 
 Diarrhea, bloating, or cramps
 
--Check clostridium Difficile -Switch formulas (Osmolite 1.5 →Vital 1.5) -Cautious use of anti-motility agents (eg Lomotil)
+-Check clostridium Difficile 
+-Switch formulas (Osmolite 1.5 →Vital 1.5) 
+-Cautious use of anti-motility agents (eg Lomotil)
 
 ## Diabetic Patients on Jejunostomy Feeds
 
@@ -851,9 +853,12 @@ Start nocturnal tube feeds at 6pm 
 
 Administer nocturnal insulin at 6pm as ordered
 
-# Oral Nutrition
+## Oral Nutrition
 
--Begin Ensure High Protein after passing MBS for THIN liquids -Sips of water 1oz q hour OR Ensure High Protein 4oz q2 hrs -Reglan, Remeron -CMC Home Infusion has dieticians on staff
+-Begin Ensure High Protein after passing MBS for THIN liquids 
+-Sips of water 1oz q hour OR Ensure High Protein 4oz q2 hrs -
+Reglan, Remeron 
+-CMC Home Infusion has dieticians on staff
 
 ## Diet Orders
 
