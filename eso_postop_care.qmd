@@ -788,27 +788,23 @@ Segmental resection of jejunum.
 
 
 
+## Jejunostomy-associated Small Bowel Necrosis
 
-Case Study – Patient AS
-54F with SMAD4 mutation and gastric polyposis
-Case Study – Patient AS
-Laparoscopic total gastrectomy with jejunostomy
-POD4: Abdominal distension and pain
-Leukocytosis to 42,000
-Case Study – Patient AS
-CT abdomen: Pneumatosis of small intestine
-Case Study – Patient AS
-CT abdomen: Pneumatosis of small intestine
-Case Study – Patient AS
-Abdominal  CT: Portal venous gas
-Small Bowel Necrosis from Jejunostomy Feeds
-Small Bowel Necrosis from Jejunostomy Feeds
-Key Points:
-Early diagnosis: Stop tube feeds immediately
-Diagnosis is difficult:  Distension appears to be the primary early symptom
+::::: columns
+::: {.column width="50%"}
+Key lessons:
 
-“Eternal vigilance is the price of liberty” 
-					– James Jackson
+- Early diagnosis is critical. **Stop Tube Feeds!**
+- Signs can be subtle: distension or increased pain
+- CT scan is diagnostic
+- Advance tube feeds slowly until bowel function
+- Critical period is probably first 5 days postop
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_or.png)
+:::
+:::::
 
 ## Nutritional Consequences of Esophagectomy
 
@@ -842,22 +838,7 @@ Mirtazapine (Remeron®) 15mg po qHs
   -Anti-depressant promotes gastric emptying
   -Can cause vivid dreams
   
-## Jejunostomy Feeding Tube
-Jejunostomy Tube
-14Fr
 
-## Jejunostomy Tube Feeds
-
-Nocturnal Jejunostomy Tube Feeds
-
-- Typically 60-75mL/hr overnight for 16 hours (6pm-10am)
-
-Jejunostomy tube flushed in am
-
-Free water flushes: 240mL 4x daily 
-
-Free water can help prevent tube clogging, constipation, and tolerance issues 
-Jejunostomy tube flushing keeps the lifeline alive
 
 ## Jejunostomy Feedings
 
@@ -875,87 +856,110 @@ Five cans = 75mL/hour x 16 hours (4pm-10am)
 
 Free Water Flushes: Patients can tolerate up to approximately 240mL (8oz) warm water bolus via syringe into j-tube at a time. 
 
-Please bolus water q4 hours while patient is awake (8AM, 12PM, 4PM, 8PM)
-Instruct patients while flushing water on how to do this themselves (for home)
+## Free Water
 
+Jejunostomy tube flushed in am
+
+Free water flushes: 240mL q4 hours while awake
+
+Free water can help prevent tube clogging or constipation
+
+Patients will need instruction on flushing tube
 
 ## Osmolite 1.5
 
 Nutritionally complete standard formula
-High caloric density 
-Does not contain fiber
-Reduces risk of clogging tube
-Medium Chain Triglycerides (20%)
-HCPCS Code: B4152
+
+-High caloric density 
+-Does not contain fiber
+-Reduces risk of clogging tube
+-Medium Chain Triglycerides (20%)
+-HCPCS Code: B4152
 
 
 ## Vital 1.5 
 Nutritionally complete elemental formula
-Appropriate for impaired GI function, malabsorption, and diarrhea
-Contains FOS fiber 
-Promotes healthy gut flora
-Proteins enzymatically hydrolyzed 
-Promote gastric emptying
-Medium Chain Triglycerides (50%)
-HCPCS Code: B4153 
+- Appropriate for impaired GI function, malabsorption, or diarrhea
+-Contains FOS fiber 
+-Promotes healthy gut flora
+-Proteins enzymatically hydrolyzed 
+-Promote gastric emptying
+-Medium Chain Triglycerides (50%)
+-HCPCS Code: B4153 
 
 
 
 ## Vital High Protein
-Nutritionally Complete Elemental Formula (peptide-based proteins)
-Appropriate for obese patients who do not tolerate standard formula (i.e. Promote or who have GI sensitivities in the ICU)
+Nutritionally Complete elemental Formula 
+Appropriate for patients with BMI >35
 Medium Chain Triglyceries (50%)
 HCPCS Code: B4153 
 
 
-## Jenunostomy Tube Feed Tolerance
-Diarrhea
-Check clostridium Difficile
-Switch formulas (Osmolite 1.5 →Vital 1.5)
-Cautious use of anti-motility agents (eg Lomotil)
-Hyperglycemia
-	Begin diabetic teaching early
-	Home insulin preferred to diabetic formulas
+## Jenunostomy Tube Feed Intolerance
+
+Diarrhea, bloating, or cramps
+
+-Check clostridium Difficile
+-Switch formulas (Osmolite 1.5 →Vital 1.5)
+-Cautious use of anti-motility agents (eg Lomotil)
 
 ## Diabetic Patients on Jejunostomy Feeds
 
 Diabetic patients may have more problems with elevated blood sugars with jejunostomy feedings vs oral intake
-Due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones
+due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones
+
 Patients with diabetes may need long-acting insulin in the evening when tube feeds started
+
 Example regimen:  
+
 10 Units 70/30 at 4 pm AND 10 Units 70/30 at 10pm
 Early consultations with endocrinology
-Transitioning to Nocturnal Tube Feeds
+
+## Diabetic Patients - Transition to Nocturnal Feeds
+
 When patients leave the ICU, they will be on continuous tube feeds
+
 Patients with diabetes will have a continuous regimen of q6 (2N+1R)
 eg: 10 units N + 5 units R q6 hours 
 
-Most patients will be transitioned to nocturnal feeds when moving to ward 
-Insulin when Transitioning to Nocturnal Tube Feeds
-Tube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). 
-Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion during the time off feeds. 
-Stop tube feeds at 12pm & check blood sugar
-Do not give noon dose of insulin
-Discontinue q6 insulin when tube feeds stopped
-Start nocturnal tube feeds at 6pm 
-Administer nocturnal insulin at 6pm as ordered
-Minimally Invasive Esophagectomy
-Nutrition
-Oral Diet
-Begin Ensure High Protein after passing MBS for THIN liquids
-Sips of water 1oz q hour  OR Ensure High Protein 4oz q2 hrs
-Reglan, Remeron
-CMC Home Infusion has dieticians on staff
+Most patients will be transitioned to nocturnal feeds when on the ward
 
-Patients often go home taking minimal needs orally
-Diet Orders
+## Insulin - Transition to Nocturnal Feeds
+
+Tube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). 
+
+Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion during the time off feeds. 
+
+Stop tube feeds at 12pm & check blood sugar
+
+Do not give noon dose of insulin
+
+Discontinue q6 insulin when tube feeds stopped
+
+Start nocturnal tube feeds at 6pm 
+
+Administer nocturnal insulin at 6pm as ordered
+
+# Oral Nutrition
+
+-Begin Ensure High Protein after passing MBS for THIN liquids
+-Sips of water 1oz q hour  OR Ensure High Protein 4oz q2 hrs
+-Reglan, Remeron
+-CMC Home Infusion has dieticians on staff
+
+## Diet Orders
 In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.  
 
 Patients who pass their MBS for thin liquids are started on oral water 1oz per hour with medicines with sips of water. If oral water is tolerated, they are advanced the following day to Ensure High Protein 2oz q1hr (and continue with water 1oz per hour).
 
 Supplement Task Order is noted as "Supplement Regimen" and comes up as a nursing task, up to TID 
-Diet Orders
+
+
+## Diet Orders
+
 Patients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water.
+
 Patients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube.
 
 ## Diet Orders
