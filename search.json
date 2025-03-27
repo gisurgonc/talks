@@ -3248,11 +3248,25 @@
     "text": "Thoracic Duct\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
   },
   {
-    "objectID": "eso_postop_care.htm#pneumonia-2",
-    "href": "eso_postop_care.htm#pneumonia-2",
+    "objectID": "eso_postop_care.htm#thoracic-duct-leak",
+    "href": "eso_postop_care.htm#thoracic-duct-leak",
     "title": "Esophagectomy Postop Care",
-    "section": "Pneumonia",
-    "text": "Pneumonia\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
+    "section": "Thoracic Duct Leak",
+    "text": "Thoracic Duct Leak\n\n\nThoracic duct leak manifests as milky fluid in JP drains\n\nTest for triglycerides (to confirm chylous leak)\nAlso test for amylase (to confirm absense of leak)"
+  },
+  {
+    "objectID": "eso_postop_care.htm#thoracic-duct-leak-treatment",
+    "href": "eso_postop_care.htm#thoracic-duct-leak-treatment",
+    "title": "Esophagectomy Postop Care",
+    "section": "Thoracic Duct Leak Treatment",
+    "text": "Thoracic Duct Leak Treatment\n\n\n\nLow fat diet\nMidodrine 5mg po/jejunostomy tid\nThoracic duct embolization\nSurgical thoracic duct ligation"
+  },
+  {
+    "objectID": "eso_postop_care.htm#thoracic-duct-1",
+    "href": "eso_postop_care.htm#thoracic-duct-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Thoracic Duct",
+    "text": "Thoracic Duct\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
   },
   {
     "objectID": "eso_postop_care.htm#jejunostomy-small-bowel-necrosis",
@@ -3266,7 +3280,35 @@
     "href": "eso_postop_care.htm#jejunal-necrosis---cincinnati-series",
     "title": "Esophagectomy Postop Care",
     "section": "Jejunal Necrosis - Cincinnati Series",
-    "text": "Jejunal Necrosis - Cincinnati Series\nEight patients over 14 years age 50-74\n\nPancreatectomy (n=6)\nEsophagectomy (n=2)\n\nPresentation 4 days after starting feeds\nSymptoms:\n\nAbdominal pain and distension\nTachycardia\nHypotension\nLeukocytosis\n\nCase Study – Patient AS 54F with SMAD4 mutation and gastric polyposis Case Study – Patient AS Laparoscopic total gastrectomy with jejunostomy POD4: Abdominal distension and pain Leukocytosis to 42,000 Case Study – Patient AS CT abdomen: Pneumatosis of small intestine Case Study – Patient AS CT abdomen: Pneumatosis of small intestine Case Study – Patient AS Abdominal CT: Portal venous gas Small Bowel Necrosis from Jejunostomy Feeds Small Bowel Necrosis from Jejunostomy Feeds Key Points: Early diagnosis: Stop tube feeds immediately Diagnosis is difficult: Distension appears to be the primary early symptom\n“Eternal vigilance is the price of liberty” – James Jackson"
+    "text": "Jejunal Necrosis - Cincinnati Series\nEight patients over 14 years age 50-74\n\nPancreatectomy (n=6)\nEsophagectomy (n=2)\n\nPresentation 4 days after starting feeds\nSymptoms:\n\nAbdominal pain and distension\nTachycardia\nHypotension\nLeukocytosis\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-1",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-2",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-2",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis"
+  },
+  {
+    "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-3",
+    "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-3",
+    "title": "Esophagectomy Postop Care",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis\nSegmental resection of jejunum.\n\n\n\nCase Study – Patient AS 54F with SMAD4 mutation and gastric polyposis Case Study – Patient AS Laparoscopic total gastrectomy with jejunostomy POD4: Abdominal distension and pain Leukocytosis to 42,000 Case Study – Patient AS CT abdomen: Pneumatosis of small intestine Case Study – Patient AS CT abdomen: Pneumatosis of small intestine Case Study – Patient AS Abdominal CT: Portal venous gas Small Bowel Necrosis from Jejunostomy Feeds Small Bowel Necrosis from Jejunostomy Feeds Key Points: Early diagnosis: Stop tube feeds immediately Diagnosis is difficult: Distension appears to be the primary early symptom\n“Eternal vigilance is the price of liberty” – James Jackson"
   },
   {
     "objectID": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy",
