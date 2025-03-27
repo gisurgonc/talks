@@ -3308,7 +3308,14 @@
     "href": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-3",
     "title": "Esophagectomy Postop Care",
     "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
-    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis\nSegmental resection of jejunum.\n\n\n\nCase Study – Patient AS 54F with SMAD4 mutation and gastric polyposis Case Study – Patient AS Laparoscopic total gastrectomy with jejunostomy POD4: Abdominal distension and pain Leukocytosis to 42,000 Case Study – Patient AS CT abdomen: Pneumatosis of small intestine Case Study – Patient AS CT abdomen: Pneumatosis of small intestine Case Study – Patient AS Abdominal CT: Portal venous gas Small Bowel Necrosis from Jejunostomy Feeds Small Bowel Necrosis from Jejunostomy Feeds Key Points: Early diagnosis: Stop tube feeds immediately Diagnosis is difficult: Distension appears to be the primary early symptom\n“Eternal vigilance is the price of liberty” – James Jackson"
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis\nSegmental resection of jejunum."
+  },
+  {
+    "objectID": "eso_postop_care.htm#jejunostomy-associated-small-bowel-necrosis",
+    "href": "eso_postop_care.htm#jejunostomy-associated-small-bowel-necrosis",
+    "title": "Esophagectomy Postop Care",
+    "section": "Jejunostomy-associated Small Bowel Necrosis",
+    "text": "Jejunostomy-associated Small Bowel Necrosis\n\n\nKey lessons:\n\nEarly diagnosis is critical. Stop Tube Feeds!\nSigns can be subtle: distension or increased pain\nCT scan is diagnostic\nAdvance tube feeds slowly until bowel function\nCritical period is probably first 5 days postop"
   },
   {
     "objectID": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy",
@@ -3325,20 +3332,6 @@
     "text": "Gastric Emptying - Medical Strategies\nMetoclopramine (Reglan®) – 10mg po/iv q6hrs\n\nSide effects\n\nDystonic reaction (esp in young)\nTardive Dyskinesia (&lt;1%)\n\n\nMirtazapine (Remeron®) 15mg po qHs\n-Anti-depressant promotes gastric emptying -Can cause vivid dreams"
   },
   {
-    "objectID": "eso_postop_care.htm#jejunostomy-feeding-tube",
-    "href": "eso_postop_care.htm#jejunostomy-feeding-tube",
-    "title": "Esophagectomy Postop Care",
-    "section": "Jejunostomy Feeding Tube",
-    "text": "Jejunostomy Feeding Tube\nJejunostomy Tube 14Fr"
-  },
-  {
-    "objectID": "eso_postop_care.htm#jejunostomy-tube-feeds",
-    "href": "eso_postop_care.htm#jejunostomy-tube-feeds",
-    "title": "Esophagectomy Postop Care",
-    "section": "Jejunostomy Tube Feeds",
-    "text": "Jejunostomy Tube Feeds\nNocturnal Jejunostomy Tube Feeds\n\nTypically 60-75mL/hr overnight for 16 hours (6pm-10am)\n\nJejunostomy tube flushed in am\nFree water flushes: 240mL 4x daily\nFree water can help prevent tube clogging, constipation, and tolerance issues Jejunostomy tube flushing keeps the lifeline alive"
-  },
-  {
     "objectID": "eso_postop_care.htm#jejunostomy-feedings",
     "href": "eso_postop_care.htm#jejunostomy-feedings",
     "title": "Esophagectomy Postop Care",
@@ -3350,46 +3343,81 @@
     "href": "eso_postop_care.htm#jejunostomy-feedings-1",
     "title": "Esophagectomy Postop Care",
     "section": "Jejunostomy Feedings",
-    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (4pm-10am)\nFree Water Flushes: Patients can tolerate up to approximately 240mL (8oz) warm water bolus via syringe into j-tube at a time.\nPlease bolus water q4 hours while patient is awake (8AM, 12PM, 4PM, 8PM) Instruct patients while flushing water on how to do this themselves (for home)"
+    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (4pm-10am)\nFree Water Flushes: Patients can tolerate up to approximately 240mL (8oz) warm water bolus via syringe into j-tube at a time."
+  },
+  {
+    "objectID": "eso_postop_care.htm#free-water",
+    "href": "eso_postop_care.htm#free-water",
+    "title": "Esophagectomy Postop Care",
+    "section": "Free Water",
+    "text": "Free Water\nJejunostomy tube flushed in am\nFree water flushes: 240mL q4 hours while awake\nFree water can help prevent tube clogging or constipation\nPatients will need instruction on flushing tube"
   },
   {
     "objectID": "eso_postop_care.htm#osmolite-1.5",
     "href": "eso_postop_care.htm#osmolite-1.5",
     "title": "Esophagectomy Postop Care",
     "section": "Osmolite 1.5",
-    "text": "Osmolite 1.5\nNutritionally complete standard formula High caloric density Does not contain fiber Reduces risk of clogging tube Medium Chain Triglycerides (20%) HCPCS Code: B4152"
+    "text": "Osmolite 1.5\nNutritionally complete standard formula\n-High caloric density -Does not contain fiber -Reduces risk of clogging tube -Medium Chain Triglycerides (20%) -HCPCS Code: B4152"
   },
   {
     "objectID": "eso_postop_care.htm#vital-1.5",
     "href": "eso_postop_care.htm#vital-1.5",
     "title": "Esophagectomy Postop Care",
     "section": "Vital 1.5",
-    "text": "Vital 1.5\nNutritionally complete elemental formula Appropriate for impaired GI function, malabsorption, and diarrhea Contains FOS fiber Promotes healthy gut flora Proteins enzymatically hydrolyzed Promote gastric emptying Medium Chain Triglycerides (50%) HCPCS Code: B4153"
+    "text": "Vital 1.5\nNutritionally complete elemental formula - Appropriate for impaired GI function, malabsorption, or diarrhea -Contains FOS fiber -Promotes healthy gut flora -Proteins enzymatically hydrolyzed -Promote gastric emptying -Medium Chain Triglycerides (50%) -HCPCS Code: B4153"
   },
   {
     "objectID": "eso_postop_care.htm#vital-high-protein",
     "href": "eso_postop_care.htm#vital-high-protein",
     "title": "Esophagectomy Postop Care",
     "section": "Vital High Protein",
-    "text": "Vital High Protein\nNutritionally Complete Elemental Formula (peptide-based proteins) Appropriate for obese patients who do not tolerate standard formula (i.e. Promote or who have GI sensitivities in the ICU) Medium Chain Triglyceries (50%) HCPCS Code: B4153"
+    "text": "Vital High Protein\nNutritionally Complete elemental Formula Appropriate for patients with BMI &gt;35 Medium Chain Triglyceries (50%) HCPCS Code: B4153"
   },
   {
-    "objectID": "eso_postop_care.htm#jenunostomy-tube-feed-tolerance",
-    "href": "eso_postop_care.htm#jenunostomy-tube-feed-tolerance",
+    "objectID": "eso_postop_care.htm#jenunostomy-tube-feed-intolerance",
+    "href": "eso_postop_care.htm#jenunostomy-tube-feed-intolerance",
     "title": "Esophagectomy Postop Care",
-    "section": "Jenunostomy Tube Feed Tolerance",
-    "text": "Jenunostomy Tube Feed Tolerance\nDiarrhea Check clostridium Difficile Switch formulas (Osmolite 1.5 →Vital 1.5) Cautious use of anti-motility agents (eg Lomotil) Hyperglycemia Begin diabetic teaching early Home insulin preferred to diabetic formulas"
+    "section": "Jenunostomy Tube Feed Intolerance",
+    "text": "Jenunostomy Tube Feed Intolerance\nDiarrhea, bloating, or cramps\n-Check clostridium Difficile -Switch formulas (Osmolite 1.5 →Vital 1.5) -Cautious use of anti-motility agents (eg Lomotil)"
   },
   {
     "objectID": "eso_postop_care.htm#diabetic-patients-on-jejunostomy-feeds",
     "href": "eso_postop_care.htm#diabetic-patients-on-jejunostomy-feeds",
     "title": "Esophagectomy Postop Care",
     "section": "Diabetic Patients on Jejunostomy Feeds",
-    "text": "Diabetic Patients on Jejunostomy Feeds\nDiabetic patients may have more problems with elevated blood sugars with jejunostomy feedings vs oral intake Due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones Patients with diabetes may need long-acting insulin in the evening when tube feeds started Example regimen:\n10 Units 70/30 at 4 pm AND 10 Units 70/30 at 10pm Early consultations with endocrinology Transitioning to Nocturnal Tube Feeds When patients leave the ICU, they will be on continuous tube feeds Patients with diabetes will have a continuous regimen of q6 (2N+1R) eg: 10 units N + 5 units R q6 hours\nMost patients will be transitioned to nocturnal feeds when moving to ward Insulin when Transitioning to Nocturnal Tube Feeds Tube feeding regimen will change from 24 hours to 16 hours (6pm-10AM).  Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion during the time off feeds.  Stop tube feeds at 12pm & check blood sugar Do not give noon dose of insulin Discontinue q6 insulin when tube feeds stopped Start nocturnal tube feeds at 6pm  Administer nocturnal insulin at 6pm as ordered Minimally Invasive Esophagectomy Nutrition Oral Diet Begin Ensure High Protein after passing MBS for THIN liquids Sips of water 1oz q hour OR Ensure High Protein 4oz q2 hrs Reglan, Remeron CMC Home Infusion has dieticians on staff\nPatients often go home taking minimal needs orally Diet Orders In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.  \nPatients who pass their MBS for thin liquids are started on oral water 1oz per hour with medicines with sips of water. If oral water is tolerated, they are advanced the following day to Ensure High Protein 2oz q1hr (and continue with water 1oz per hour).\nSupplement Task Order is noted as “Supplement Regimen” and comes up as a nursing task, up to TID  Diet Orders Patients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water. Patients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube."
+    "text": "Diabetic Patients on Jejunostomy Feeds\nDiabetic patients may have more problems with elevated blood sugars with jejunostomy feedings vs oral intake due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones\nPatients with diabetes may need long-acting insulin in the evening when tube feeds started\nExample regimen:\n10 Units 70/30 at 4 pm AND 10 Units 70/30 at 10pm Early consultations with endocrinology"
+  },
+  {
+    "objectID": "eso_postop_care.htm#diabetic-patients---transition-to-nocturnal-feeds",
+    "href": "eso_postop_care.htm#diabetic-patients---transition-to-nocturnal-feeds",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diabetic Patients - Transition to Nocturnal Feeds",
+    "text": "Diabetic Patients - Transition to Nocturnal Feeds\nWhen patients leave the ICU, they will be on continuous tube feeds\nPatients with diabetes will have a continuous regimen of q6 (2N+1R) eg: 10 units N + 5 units R q6 hours\nMost patients will be transitioned to nocturnal feeds when on the ward"
+  },
+  {
+    "objectID": "eso_postop_care.htm#insulin---transition-to-nocturnal-feeds",
+    "href": "eso_postop_care.htm#insulin---transition-to-nocturnal-feeds",
+    "title": "Esophagectomy Postop Care",
+    "section": "Insulin - Transition to Nocturnal Feeds",
+    "text": "Insulin - Transition to Nocturnal Feeds\nTube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). \nInsulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion during the time off feeds. \nStop tube feeds at 12pm & check blood sugar\nDo not give noon dose of insulin\nDiscontinue q6 insulin when tube feeds stopped\nStart nocturnal tube feeds at 6pm \nAdminister nocturnal insulin at 6pm as ordered"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders",
     "href": "eso_postop_care.htm#diet-orders",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diet Orders",
+    "text": "Diet Orders\nIn general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.  \nPatients who pass their MBS for thin liquids are started on oral water 1oz per hour with medicines with sips of water. If oral water is tolerated, they are advanced the following day to Ensure High Protein 2oz q1hr (and continue with water 1oz per hour).\nSupplement Task Order is noted as “Supplement Regimen” and comes up as a nursing task, up to TID"
+  },
+  {
+    "objectID": "eso_postop_care.htm#diet-orders-1",
+    "href": "eso_postop_care.htm#diet-orders-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diet Orders",
+    "text": "Diet Orders\nPatients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water.\nPatients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube."
+  },
+  {
+    "objectID": "eso_postop_care.htm#diet-orders-2",
+    "href": "eso_postop_care.htm#diet-orders-2",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders",
     "text": "Diet Orders\nNPO Diet Continue Tube Feeds. Under “Special Instructions”, one of the following is entered:\n\nMedicines with thickened water\nWater 1oz per hour + meds with water\nEnsure High Protein 2oz per hour + Water 1oz per hour + meds with water\n\nThe above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient."
