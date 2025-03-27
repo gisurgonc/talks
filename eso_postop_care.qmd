@@ -620,7 +620,44 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 :::::
 
 
-## Pneumonia
+
+## Thoracic Duct Leak
+
+::::: columns
+::: {.column width="50%"}
+Thoracic duct leak manifests as milky fluid in JP drains
+
+  - Test for triglycerides (to confirm chylous leak)
+  - Also test for amylase (to confirm absense of leak)
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
+:::
+:::::
+
+
+
+
+## Thoracic Duct Leak Treatment
+
+::::: columns
+::: {.column width="50%"}
+- Low fat diet
+- Midodrine 5mg po/jejunostomy tid
+- Thoracic duct embolization
+- Surgical thoracic duct ligation
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
+:::
+:::::
+
+
+
+
+## Thoracic Duct
 
 ::::: columns
 ::: {.column width="50%"}
@@ -631,9 +668,10 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_LungsArtboard.png)
+![](https://deidt7p41jzcy.cloudfront.net/thoracic_duct_zoom.png)
 :::
 :::::
+
 
 
 
@@ -661,6 +699,95 @@ Symptoms:
 - Tachycardia
 - Hypotension
 - Leukocytosis
+
+
+
+Postop Day 4: Abdominal distension and pain
+
+WBC:  42, 000
+
+CT: Pneumoatosis of small bowel
+
+
+
+## Case Study: 54F s/p total gastrectomy + jejunostomy
+
+::::: columns
+::: {.column width="50%"}
+Postop Day 4: Abdominal distension and pain
+
+WBC:  42, 000
+
+CT: Pneumoatosis of small bowel
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct.png)
+:::
+:::::
+
+
+
+## Case Study: 54F s/p total gastrectomy + jejunostomy
+
+::::: columns
+::: {.column width="50%"}
+Postop Day 4: Abdominal distension and pain
+
+WBC:  42, 000
+
+CT: Pneumoatosis of small bowel
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct2.png)
+:::
+:::::
+
+
+
+## Case Study: 54F s/p total gastrectomy + jejunostomy
+
+::::: columns
+::: {.column width="50%"}
+Postop Day 4: Abdominal distension and pain
+
+WBC:  42, 000
+
+CT: Pneumoatosis of small bowel
+
+OR: Segment of jejunum with patchy necrosis
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_or.png)
+:::
+:::::
+
+
+
+## Case Study: 54F s/p total gastrectomy + jejunostomy
+
+::::: columns
+::: {.column width="50%"}
+Postop Day 4: Abdominal distension and pain
+
+WBC:  42, 000
+
+CT: Pneumoatosis of small bowel
+
+OR: Segment of jejunum with patchy necrosis
+
+Segmental resection of jejunum. 
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_or.png)
+:::
+:::::
+
+
+
 
 Case Study – Patient AS
 54F with SMAD4 mutation and gastric polyposis
