@@ -17,8 +17,6 @@ bibliography: zotero.bib
 
 ## Transthoracic (Ivor Lewis) Esophagectomy
 
-
-
 ## Goals of Surgery
 
 ::::: columns
@@ -33,22 +31,19 @@ bibliography: zotero.bib
 :::
 :::::
 
-
 ## Esophagectomy Categories
 
 Resection Extent
 
-- Total (cervical incision)
-- Partial (thoracic incision)
-
-
+-   Total (cervical incision)
+-   Partial (thoracic incision)
 
 Anastomosis = surgical junction between esophagus and its substitute
 
 Esophageal reconstruction
 
-- Stomach
-- Colon (2%)
+-   Stomach
+-   Colon (2%)
 
 ## Ivor Lewis (Transthoracic) Esophagectomy
 
@@ -102,7 +97,6 @@ The new esophagus is now brought up into the chest. An anastomosis is made in th
 :::
 :::::
 
-
 ## Minimally-invasive Esophagectomy
 
 ::::: columns
@@ -114,7 +108,6 @@ The new esophagus is now brought up into the chest. An anastomosis is made in th
 ![](https://deidt7p41jzcy.cloudfront.net/mie_chest.png)
 :::
 :::::
-
 
 ## Minimally-invasive esophagectomy
 
@@ -128,7 +121,6 @@ Gastric conduit constructed with linear stapler
 :::
 :::::
 
-
 ## Minimally-invasive esophagectomy
 
 ::::: columns
@@ -140,8 +132,6 @@ Gastric conduit transposed into chest
 ![](https://deidt7p41jzcy.cloudfront.net/C21-FF6.png)
 :::
 :::::
-
-
 
 ## Minimally-invasive esophagectomy
 
@@ -156,9 +146,6 @@ Circular stapler used to construct anastomosis
 ![](https://deidt7p41jzcy.cloudfront.net/C21-FF7.png)
 :::
 :::::
-
-
-
 
 ## Minimally-invasive esophagectomy
 
@@ -175,9 +162,6 @@ Completed anastomosis
 ![](https://deidt7p41jzcy.cloudfront.net/C21-FF8.png)
 :::
 :::::
-
-
-
 
 ## Open Ivor Lewis
 
@@ -200,7 +184,6 @@ Laparotomy in 2%
 ::::: columns
 ::: {.column width="50%"}
 For patients with tumors in the upper esophagus, additional esophagus is removed and anastomosis performed in the neck
-
 :::
 
 ::: {.column width="50%"}
@@ -216,8 +199,7 @@ For patients with tumors in the upper esophagus, additional esophagus is removed
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png) 
-Cervical anastomosis
+![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png) Cervical anastomosis
 :::
 :::::
 
@@ -249,7 +231,6 @@ Significant complications
 -   Myocardial Infarction (5%)
 -   Chylothorax (5%)
 
-
 ## Gastric emptying after Esophagectomy
 
 Vagus nerve normally stimulates gastric emptying
@@ -258,15 +239,15 @@ Esophagectomy require dividing the vagus nere
 
 $\Rightarrow$ Esophagectomy can cause delayed gastric emptying
 
-- Nasogastric tube decompressed gastric conduite
+-   Nasogastric tube decompressed gastric conduite
 
 ## Evaluation of Gastric Emptying
 
 Upper GI evaluated gastric emptying
 
-- Initial study on POD #2/3/4
-- Patient stands in fluoroscopy
-- Isovue injected via NG tube
+-   Initial study on POD #2/3/4
+-   Patient stands in fluoroscopy
+-   Isovue injected via NG tube
 
 If stomach empties well $\rightarrow$ NG tube removed
 
@@ -278,9 +259,9 @@ If stomach does not empty $\rightarrow$ repeat study in 2 days
 
 Likely due to disuse atrophy of swallowing muscles
 
-- Advanced age
-- Prolonged NPO after surgery
-- NPO prior to surgery due to esophageal obstruction
+-   Advanced age
+-   Prolonged NPO after surgery
+-   NPO prior to surgery due to esophageal obstruction
 
 ## Swallowing Evaluation
 
@@ -288,19 +269,18 @@ Modified Barium Swallow performed after NG tube removed
 
 Outcomes:
 
-- Pass for all consistencies (no aspiration or penetration) - 70%
-- Aspiration of thin liquids but OK for moderately thick liquinds - 15%
-- Aspiration witn moderately thick liquids - 15%
+-   Pass for all consistencies (no aspiration or penetration) - 70%
+-   Aspiration of thin liquids but OK for moderately thick liquinds - 15%
+-   Aspiration witn moderately thick liquids - 15%
 
 ## Modified Barium Swallow
 
 70% Pass - started with oral liquids 1oz/hour
 
-  - Advanced to protein shakes 2oz/hour if water tolerated
-  - Advanced to protein shakes 4oz/hour if tolerated
-  
-Patients discharged taking water, Gatorade, and protein shakes orally
+-   Advanced to protein shakes 2oz/hour if water tolerated
+-   Advanced to protein shakes 4oz/hour if tolerated
 
+Patients discharged taking water, Gatorade, and protein shakes orally
 
 ## Anastomotic Leak
 
@@ -325,7 +305,7 @@ Partial esophagectomy: Thoracic anastomosis
 If healing of anastomosis doesn't occur:
 
 -   Leakage of fluid from the esophagus
--   Mediastinitis 
+-   Mediastinitis
 -   Amylase can be detected in drain fluid
 :::
 
@@ -354,16 +334,15 @@ If leak occurs:
 
 ::::: columns
 ::: {.column width="50%"}
-
 Thoracic anastomosis
 
-- Usually leaks into the right chest
-  - JP#2 drains the right chest
-  
+-   Usually leaks into the right chest
+    -   JP#2 drains the right chest
+
 Cerfical anastomosis
 
-- Usually leaks into the neck
-  - JP#4 drains the neck incision
+-   Usually leaks into the neck
+    -   JP#4 drains the neck incision
 
 Usually start checking drain amylase on 4th-8th postop days
 :::
@@ -395,15 +374,15 @@ $\Rightarrow$ NG tube needs to be optimally positioned **prior** to contrast ins
 
 Once patient is positioned on the CT scanner:
 
-- "Scout" scan peformed to identify location of tip of NG tube relative to the anastomosis
-- Radiologist will measure the distance from the anastomosis to the tip of the NG tube.
-- NG tube is then withdrawn a distance which keeps the NG tube tip 5cm *below* the anastomosis. 
-- If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 113 - 6 = 7cm
-- NG tube manipulation will need to be done by an RN or physician
+-   "Scout" scan peformed to identify location of tip of NG tube relative to the anastomosis
+-   Radiologist will measure the distance from the anastomosis to the tip of the NG tube.
+-   NG tube is then withdrawn a distance which keeps the NG tube tip 5cm *below* the anastomosis.
+-   If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 113 - 6 = 7cm
+-   NG tube manipulation will need to be done by an RN or physician
 
 ## NG Tube Withdrawl - AMT Bridle
 
-NG tubes are kept in place with an AMT bridle.  A locking plastic clip holds the NG tube.
+NG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.
 
 In order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.
 
@@ -435,21 +414,20 @@ For patients who have their NG removed and have not been cleared for thin liquid
 
 $\Rightarrow$ NG tube removal is delayed for patients with:
 
-- Elevated drain amylase
-- Leukocytosis
-- Fevers
-- Prolonged ventilation
+-   Elevated drain amylase
+-   Leukocytosis
+-   Fevers
+-   Prolonged ventilation
 
 ... until CT esophagram confirms that there is no evidence of leak
-
 
 ## Risks of Cervical Anastomosis
 
 Leak
 
-- Elevated drain amylase (JP#4)
-- Cloudy drain fluid
-- Cervical wound infection
+-   Elevated drain amylase (JP#4)
+-   Cloudy drain fluid
+-   Cervical wound infection
 
 Leak can frequently be treated by opening neck incision at the bedside
 
@@ -459,16 +437,14 @@ Leak is generally clinically apparent due to wound infection or nature of JP dra
 
 Barium upper GI best study to look for leak
 
-
-
 ## Pneumonia
 
 ::::: columns
 ::: {.column width="50%"}
 Pneumonia occurs in 10% of patients after esophagectomy.
 
-  - Risk 5% in a patients with normal muscle mass
-  - Risk 20% in patients with low muscle mass
+-   Risk 5% in a patients with normal muscle mass
+-   Risk 20% in patients with low muscle mass
 :::
 
 ::: {.column width="50%"}
@@ -499,20 +475,17 @@ Diagnosis – EKG monitoring
 
 Treatment – amiodarone, β blockade
 
-
-
 ## Risks of Cervical Anastomosis
 
 Recurrent laryngeal nerve palsy
 
-- Hoarse voice
-- Diagnosis by FEES (speech therapy)
-- Risk of aspiration
+-   Hoarse voice
+-   Diagnosis by FEES (speech therapy)
+-   Risk of aspiration
 
 RLN palsy generally improves over time
 
 May require medialization of the affected cord
-
 
 ## Risks of Surgery
 
@@ -536,11 +509,9 @@ Risks related to Surgery
 
 ## Thoracic Epidural Catheter
 
-- Managed by Anesthesia Pain Service
-- Foley catheter removed after epidural out
-- Can cause hypotension due to sympathectomy effect
-
-
+-   Managed by Anesthesia Pain Service
+-   Foley catheter removed after epidural out
+-   Can cause hypotension due to sympathectomy effect
 
 ## Urinary Rention with Epidural Catheter
 
@@ -548,11 +519,11 @@ Randomized trial of early vs late removal of urenaty catheter after thoracic sur
 
 Early removal at 48hrs: 12% reinsertion
 
-- One urinary tract infection
+-   One urinary tract infection
 
 Removal 6 hours after epidural removal: 3.2% reinsertion
 
-- No urinary tract infection in 126 patients
+-   No urinary tract infection in 126 patients
 
 ::: aside
 Mayo Clinic [@allen925]
@@ -564,11 +535,11 @@ Early urinary removal catheter protocol (48hrs) compared with historical control
 
 Early removal at 48hrs: 28% retention
 
-- Urinary tract infection 1%
+-   Urinary tract infection 1%
 
 Removal 6 hours after epidural removal: 12.4% retention (p=0.003)
 
-- Uninary tracdt infection 3.2% (p=0.28)
+-   Uninary tracdt infection 3.2% (p=0.28)
 
 ::: aside
 University of Virginia [@hu1302]
@@ -576,17 +547,13 @@ University of Virginia [@hu1302]
 
 ## Multimodality Pain Management
 
-- Morphine or Dilaudid PCA
-- Acetaminophen 1000mg q6 hours ATC (not prn)
-- Gabapentin 300mg tid
-- Oxycodone elixir via jejunostomy
-- No Toradol or non-steroidal anti-inflammatories
+-   Morphine or Dilaudid PCA
+-   Acetaminophen 1000mg q6 hours ATC (not prn)
+-   Gabapentin 300mg tid
+-   Oxycodone elixir via jejunostomy
+-   No Toradol or non-steroidal anti-inflammatories
 
-
-Thoracic Duct
-Thoracic Duct
-Chylous Fluid Leak
-
+Thoracic Duct Thoracic Duct Chylous Fluid Leak
 
 ## Pneumonia
 
@@ -594,8 +561,8 @@ Chylous Fluid Leak
 ::: {.column width="50%"}
 Pneumonia occurs in 10% of patients after esophagectomy.
 
-  - Risk 5% in a patients with normal muscle mass
-  - Risk 20% in patients with low muscle mass
+-   Risk 5% in a patients with normal muscle mass
+-   Risk 20% in patients with low muscle mass
 :::
 
 ::: {.column width="50%"}
@@ -603,15 +570,14 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 :::
 :::::
 
-
 ## Thoracic Duct
 
 ::::: columns
 ::: {.column width="50%"}
 Pneumonia occurs in 10% of patients after esophagectomy.
 
-  - Risk 5% in a patients with normal muscle mass
-  - Risk 20% in patients with low muscle mass
+-   Risk 5% in a patients with normal muscle mass
+-   Risk 20% in patients with low muscle mass
 :::
 
 ::: {.column width="50%"}
@@ -619,43 +585,35 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 :::
 :::::
 
-
-
 ## Thoracic Duct Leak
 
 ::::: columns
 ::: {.column width="50%"}
 Thoracic duct leak manifests as milky fluid in JP drains
 
-  - Test for triglycerides (to confirm chylous leak)
-  - Also test for amylase (to confirm absense of leak)
+-   Test for triglycerides (to confirm chylous leak)
+-   Also test for amylase (to confirm absense of leak)
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
 :::
 :::::
-
-
-
 
 ## Thoracic Duct Leak Treatment
 
 ::::: columns
 ::: {.column width="50%"}
-- Low fat diet
-- Midodrine 5mg po/jejunostomy tid
-- Thoracic duct embolization
-- Surgical thoracic duct ligation
+-   Low fat diet
+-   Midodrine 5mg po/jejunostomy tid
+-   Thoracic duct embolization
+-   Surgical thoracic duct ligation
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
 :::
 :::::
-
-
-
 
 ## Thoracic Duct
 
@@ -663,8 +621,8 @@ Thoracic duct leak manifests as milky fluid in JP drains
 ::: {.column width="50%"}
 Pneumonia occurs in 10% of patients after esophagectomy.
 
-  - Risk 5% in a patients with normal muscle mass
-  - Risk 20% in patients with low muscle mass
+-   Risk 5% in a patients with normal muscle mass
+-   Risk 20% in patients with low muscle mass
 :::
 
 ::: {.column width="50%"}
@@ -672,43 +630,31 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 :::
 :::::
 
-
-
-
-
 ## Jejunostomy Small Bowel Necrosis
 
-Among patients with a new jejunostomy tube:
-1% incidence of necrosis (gangrene) of the jejunum
-Thought to be due to demand ischemia
-Can lead to bowel perforation
-More likely after major surgery
+Among patients with a new jejunostomy tube: 1% incidence of necrosis (gangrene) of the jejunum Thought to be due to demand ischemia Can lead to bowel perforation More likely after major surgery
 
 ## Jejunal Necrosis - Cincinnati Series
 
 Eight patients over 14 years age 50-74
 
-- Pancreatectomy (n=6)
-- Esophagectomy (n=2)
+-   Pancreatectomy (n=6)
+-   Esophagectomy (n=2)
 
 Presentation 4 days after starting feeds
 
 Symptoms:
 
-- Abdominal pain and distension
-- Tachycardia
-- Hypotension
-- Leukocytosis
-
-
+-   Abdominal pain and distension
+-   Tachycardia
+-   Hypotension
+-   Leukocytosis
 
 Postop Day 4: Abdominal distension and pain
 
-WBC:  42, 000
+WBC: 42, 000
 
 CT: Pneumoatosis of small bowel
-
-
 
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
@@ -716,7 +662,7 @@ CT: Pneumoatosis of small bowel
 ::: {.column width="50%"}
 Postop Day 4: Abdominal distension and pain
 
-WBC:  42, 000
+WBC: 42, 000
 
 CT: Pneumoatosis of small bowel
 :::
@@ -726,15 +672,13 @@ CT: Pneumoatosis of small bowel
 :::
 :::::
 
-
-
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
 ::::: columns
 ::: {.column width="50%"}
 Postop Day 4: Abdominal distension and pain
 
-WBC:  42, 000
+WBC: 42, 000
 
 CT: Pneumoatosis of small bowel
 :::
@@ -744,15 +688,13 @@ CT: Pneumoatosis of small bowel
 :::
 :::::
 
-
-
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
 ::::: columns
 ::: {.column width="50%"}
 Postop Day 4: Abdominal distension and pain
 
-WBC:  42, 000
+WBC: 42, 000
 
 CT: Pneumoatosis of small bowel
 
@@ -764,29 +706,25 @@ OR: Segment of jejunum with patchy necrosis
 :::
 :::::
 
-
-
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
 ::::: columns
 ::: {.column width="50%"}
 Postop Day 4: Abdominal distension and pain
 
-WBC:  42, 000
+WBC: 42, 000
 
 CT: Pneumoatosis of small bowel
 
 OR: Segment of jejunum with patchy necrosis
 
-Segmental resection of jejunum. 
+Segmental resection of jejunum.
 :::
 
 ::: {.column width="50%"}
 ![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_or.png)
 :::
 :::::
-
-
 
 ## Jejunostomy-associated Small Bowel Necrosis
 
@@ -794,11 +732,11 @@ Segmental resection of jejunum.
 ::: {.column width="50%"}
 Key lessons:
 
-- Early diagnosis is critical. **Stop Tube Feeds!**
-- Signs can be subtle: distension or increased pain
-- CT scan is diagnostic
-- Advance tube feeds slowly until bowel function
-- Critical period is probably first 5 days postop
+-   Early diagnosis is critical. **Stop Tube Feeds!**
+-   Signs can be subtle: distension or increased pain
+-   CT scan is diagnostic
+-   Advance tube feeds slowly until bowel function
+-   Critical period is probably first 5 days postop
 :::
 
 ::: {.column width="50%"}
@@ -810,51 +748,44 @@ Key lessons:
 
 Oropharyngeal
 
-- Dsyphagia and aspiration due to muscle wasting
+-   Dsyphagia and aspiration due to muscle wasting
 
 Gastric
 
-- Small capacity of gastric conduit
-- Delayed gastric emptying
+-   Small capacity of gastric conduit
+-   Delayed gastric emptying
 
-Intestinal
-- Tube feeding intolerance
+Intestinal - Tube feeding intolerance
 
-If That’s Not Enough…
-- Increased metabolic needs due to healing
-			+
-- Preoperative nutritional deficit
+If That’s Not Enough… - Increased metabolic needs due to healing + - Preoperative nutritional deficit
 
 ## Gastric Emptying - Medical Strategies
 
 Metoclopramine (Reglan®) – 10mg po/iv q6hrs
 
-- Side effects 	
-  - Dystonic reaction (esp in young)
-  - Tardive Dyskinesia (<1%)
-  
+-   Side effects
+    -   Dystonic reaction (esp in young)
+    -   Tardive Dyskinesia (\<1%)
+
 Mirtazapine (Remeron®) 15mg po qHs
 
-  -Anti-depressant promotes gastric emptying
-  -Can cause vivid dreams
-  
-
+-Anti-depressant promotes gastric emptying -Can cause vivid dreams
 
 ## Jejunostomy Feedings
 
 Osmolite 1.5 starting POD#1 at 30mL/hr
 
-- Increased once bowel function returns (flatus)
-- Increased 10mL/hour every 12 hours (continuous)
-- Converted to nocturnal (6pm to 10am)
+-   Increased once bowel function returns (flatus)
+-   Increased 10mL/hour every 12 hours (continuous)
+-   Converted to nocturnal (6pm to 10am)
 
-Vital High Protein for BMI >35 (decreased CHO/calorie content, increased protein) 
+Vital High Protein for BMI \>35 (decreased CHO/calorie content, increased protein)
 
 ## Jejunostomy Feedings
 
 Five cans = 75mL/hour x 16 hours (4pm-10am)
 
-Free Water Flushes: Patients can tolerate up to approximately 240mL (8oz) warm water bolus via syringe into j-tube at a time. 
+Free Water Flushes: Patients can tolerate up to approximately 240mL (8oz) warm water bolus via syringe into j-tube at a time.
 
 ## Free Water
 
@@ -870,58 +801,37 @@ Patients will need instruction on flushing tube
 
 Nutritionally complete standard formula
 
--High caloric density 
--Does not contain fiber
--Reduces risk of clogging tube
--Medium Chain Triglycerides (20%)
--HCPCS Code: B4152
+-High caloric density -Does not contain fiber -Reduces risk of clogging tube -Medium Chain Triglycerides (20%) -HCPCS Code: B4152
 
+## Vital 1.5
 
-## Vital 1.5 
-Nutritionally complete elemental formula
-- Appropriate for impaired GI function, malabsorption, or diarrhea
--Contains FOS fiber 
--Promotes healthy gut flora
--Proteins enzymatically hydrolyzed 
--Promote gastric emptying
--Medium Chain Triglycerides (50%)
--HCPCS Code: B4153 
-
-
+Nutritionally complete elemental formula - Appropriate for impaired GI function, malabsorption, or diarrhea -Contains FOS fiber -Promotes healthy gut flora -Proteins enzymatically hydrolyzed -Promote gastric emptying -Medium Chain Triglycerides (50%) -HCPCS Code: B4153
 
 ## Vital High Protein
-Nutritionally Complete elemental Formula 
-Appropriate for patients with BMI >35
-Medium Chain Triglyceries (50%)
-HCPCS Code: B4153 
 
+Nutritionally Complete elemental Formula Appropriate for patients with BMI \>35 Medium Chain Triglyceries (50%) HCPCS Code: B4153 
 
 ## Jenunostomy Tube Feed Intolerance
 
 Diarrhea, bloating, or cramps
 
--Check clostridium Difficile
--Switch formulas (Osmolite 1.5 →Vital 1.5)
--Cautious use of anti-motility agents (eg Lomotil)
+-Check clostridium Difficile -Switch formulas (Osmolite 1.5 →Vital 1.5) -Cautious use of anti-motility agents (eg Lomotil)
 
 ## Diabetic Patients on Jejunostomy Feeds
 
-Diabetic patients may have more problems with elevated blood sugars with jejunostomy feedings vs oral intake
-due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones
+Diabetic patients may have more problems with elevated blood sugars with jejunostomy feedings vs oral intake due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones
 
 Patients with diabetes may need long-acting insulin in the evening when tube feeds started
 
-Example regimen:  
+Example regimen:
 
-10 Units 70/30 at 4 pm AND 10 Units 70/30 at 10pm
-Early consultations with endocrinology
+10 Units 70/30 at 4 pm AND 10 Units 70/30 at 10pm Early consultations with endocrinology
 
 ## Diabetic Patients - Transition to Nocturnal Feeds
 
 When patients leave the ICU, they will be on continuous tube feeds
 
-Patients with diabetes will have a continuous regimen of q6 (2N+1R)
-eg: 10 units N + 5 units R q6 hours 
+Patients with diabetes will have a continuous regimen of q6 (2N+1R) eg: 10 units N + 5 units R q6 hours
 
 Most patients will be transitioned to nocturnal feeds when on the ward
 
@@ -943,18 +853,15 @@ Administer nocturnal insulin at 6pm as ordered
 
 # Oral Nutrition
 
--Begin Ensure High Protein after passing MBS for THIN liquids
--Sips of water 1oz q hour  OR Ensure High Protein 4oz q2 hrs
--Reglan, Remeron
--CMC Home Infusion has dieticians on staff
+-Begin Ensure High Protein after passing MBS for THIN liquids -Sips of water 1oz q hour OR Ensure High Protein 4oz q2 hrs -Reglan, Remeron -CMC Home Infusion has dieticians on staff
 
 ## Diet Orders
+
 In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.  
 
 Patients who pass their MBS for thin liquids are started on oral water 1oz per hour with medicines with sips of water. If oral water is tolerated, they are advanced the following day to Ensure High Protein 2oz q1hr (and continue with water 1oz per hour).
 
 Supplement Task Order is noted as "Supplement Regimen" and comes up as a nursing task, up to TID 
-
 
 ## Diet Orders
 
@@ -966,9 +873,9 @@ Patients who fail for nectar thick liquids are kept NPO and their medicines are 
 
 NPO Diet Continue Tube Feeds. Under “Special Instructions”, one of the following is entered:
 
-- Medicines with thickened water
-- Water 1oz per hour + meds with water
-- Ensure High Protein 2oz per hour + Water 1oz per hour + meds with water
+-   Medicines with thickened water
+-   Water 1oz per hour + meds with water
+-   Ensure High Protein 2oz per hour + Water 1oz per hour + meds with water
 
 The above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient.
 
@@ -982,21 +889,16 @@ Patients who will return to the OR need an order for “NPO after MN” and thei
 
 ## Nutrition Summary
 
-
-- Evaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time) 
-- Emphasize fluid as the patient transitions to 100% oral/tube hydration 
-- Monitor tolerance to full liquids prior to discharge 
-- Assure blood sugars are checked & controlled 
+-   Evaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time)
+-   Emphasize fluid as the patient transitions to 100% oral/tube hydration
+-   Monitor tolerance to full liquids prior to discharge
+-   Assure blood sugars are checked & controlled
 
 ## Enteral Feeding Bag Details
 
--Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding
--Open system; poured into top of bag
--All connections should now be EnFit
--Syringes for water flush
--Infusion bag/tubing
+-Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding -Open system; poured into top of bag -All connections should now be EnFit -Syringes for water flush -Infusion bag/tubing
 
-## Patient Education Needs 
+## Patient Education Needs
 
 Post-esophagectomy diet
 
@@ -1011,7 +913,6 @@ Medication administration via tube
 Free water flushing
 
 Diabetic management
-
 
 ## Discharge POD #6/#7
 
@@ -1031,13 +932,12 @@ Anti-arrhythmics (if needed)
 
 Coumadin or anticoagulation (if in atrial fibrillation)
 
-
 ## Discharge Planning
 
 Jejunostomy tube feedings
 
-- Pump mangement
-- Free water flushes
+-   Pump mangement
+-   Free water flushes
 
 Medications: Who is managing new meds?
 
@@ -1051,66 +951,52 @@ Driving: Off narcotics and pain-free
 
 Showering: OK at home
 
-Lifting: No lifting >10# for 6 weeks
-
+Lifting: No lifting \>10# for 6 weeks
 
 ## Postop Office Visit
 
-Review pathology
-Wean beta blockers
-Check wounds
-Look for late pleural effusion
-Advance diet
-Reduce tube feeds as diet advanced
-
+Review pathology Wean beta blockers Check wounds Look for late pleural effusion Advance diet Reduce tube feeds as diet advanced
 
 ## Minimally-invasive esophagectomy Acknowledgements
-
 
 ::::: columns
 ::: {.column width="50%"}
 Thoracic Surgery
 
-- Mike Roach MD
-- Jeff Hagen MD
+-   Mike Roach MD
+-   Jeff Hagen MD
 
 Anesthesia
 
- - Loran Soliman MD
- 
+-   Loran Soliman MD
+
 Surgical Critical Care
 
 General Surgery Residents
 :::
 
 ::: {.column width="50%"}
-
 Nursing
 
-- STICU
-- 6 Tower
+-   STICU
+-   6 Tower
 
 Clinical Nutrition
 
-- Elizabeth Koch RD 
-- Meaghan Mikulas RD
-- Meredith Byrne RD
+-   Elizabeth Koch RD
+-   Meaghan Mikulas RD
+-   Meredith Byrne RD
 
 Levine Cancer Institute
 
-- GI Oncology Clinic
+-   GI Oncology Clinic
 :::
 :::::
 
-
-Tube Feed Comparisons (60mL x 16 hrs)
-Tube Feed Comparisons (75mL x 16 hrs)
+Tube Feed Comparisons (60mL x 16 hrs) Tube Feed Comparisons (75mL x 16 hrs)
 
 ## Orientation Manual
 
 {{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
 
-
-
 ## References
-
