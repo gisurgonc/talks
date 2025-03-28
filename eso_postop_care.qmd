@@ -15,8 +15,6 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## Transthoracic (Ivor Lewis) Esophagectomy
-
 ## Goals of Surgery
 
 ::::: columns
