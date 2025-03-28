@@ -2345,11 +2345,11 @@
     "text": "Drain Amylase for Leak Detection\n\n\nThoracic anastomosis\n\nUsually leaks into the right chest\n\nJP#2 drains the right chest\n\n\nCerfical anastomosis\n\nUsually leaks into the neck\n\nJP#4 drains the neck incision\n\n\nUsually start checking drain amylase on 4th-8th postop days"
   },
   {
-    "objectID": "eso_postop_care.htm#ct-esophagram-to-detect-anastomotic-leak",
-    "href": "eso_postop_care.htm#ct-esophagram-to-detect-anastomotic-leak",
+    "objectID": "eso_postop_care.htm#ct-esophagram-to-detect-thoracic-anastomotic-leak",
+    "href": "eso_postop_care.htm#ct-esophagram-to-detect-thoracic-anastomotic-leak",
     "title": "Esophagectomy Postop Care",
-    "section": "CT esophagram to detect Anastomotic Leak",
-    "text": "CT esophagram to detect Anastomotic Leak\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nRadiologist looks for contrast extravisation from esophagus"
+    "section": "CT esophagram to detect Thoracic Anastomotic Leak",
+    "text": "CT esophagram to detect Thoracic Anastomotic Leak\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nRadiologist looks for contrast extravisation from esophagus"
   },
   {
     "objectID": "eso_postop_care.htm#ct-esophagram-with-ng-tube-in-place",
@@ -2380,18 +2380,11 @@
     "text": "CT Esophagram without NG tube\nFor patients who have had their NG tube removed, oral contrast can be given for CT esophagram if they have passed their Modified Barium Swallow.\nFor patients who have their NG removed and have not been cleared for thin liquids by Modified Barium Swallow, CT esophagram carries a risk of aspiration.\n\\(\\Rightarrow\\) NG tube removal is delayed for patients with:\n\nElevated drain amylase\nLeukocytosis\nFevers\nProlonged ventilation\n\n… until CT esophagram confirms that there is no evidence of leak"
   },
   {
-    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis",
-    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis",
-    "title": "Esophagectomy Postop Care",
-    "section": "Risks of Cervical Anastomosis",
-    "text": "Risks of Cervical Anastomosis\nLeak\n\nElevated drain amylase (JP#4)\nCloudy drain fluid\nCervical wound infection\n\nLeak can frequently be treated by opening neck incision at the bedside"
-  },
-  {
     "objectID": "eso_postop_care.htm#leak-detection-with-cervical-anastomosis",
     "href": "eso_postop_care.htm#leak-detection-with-cervical-anastomosis",
     "title": "Esophagectomy Postop Care",
     "section": "Leak Detection with Cervical Anastomosis",
-    "text": "Leak Detection with Cervical Anastomosis\nLeak is generally clinically apparent due to wound infection or nature of JP drain output.\nBarium upper GI best study to look for leak"
+    "text": "Leak Detection with Cervical Anastomosis\nLeak is generally clinically apparent:\n\nElevated drain amylase (JP#4)\nCloudy drain fluid\nCervical wound infection\n\nBarium upper GI best study to look for leak"
   },
   {
     "objectID": "eso_postop_care.htm#pneumonia",
@@ -2415,8 +2408,8 @@
     "text": "Atrial arrhythmia\nAtrial fibrillation (and other arrhythmias)\nPrevention – beta blockade/amiodarone\nDiagnosis – EKG monitoring\nTreatment – amiodarone, β blockade"
   },
   {
-    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis-1",
-    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis-1",
+    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis",
+    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis",
     "title": "Esophagectomy Postop Care",
     "section": "Risks of Cervical Anastomosis",
     "text": "Risks of Cervical Anastomosis\nLeak\n\nElevated drain amylase (JP#4)\nCloudy drain fluid\nCervical wound infection\n\nLeak can frequently be treated by opening neck incision at the bedside"
@@ -2429,8 +2422,8 @@
     "text": "Leak Detection with Cervical Anastomosis\nLeak is generally clinically apparent due to wound infection or nature of JP drain output.\nBarium upper GI best study to look for leak"
   },
   {
-    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis-2",
-    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis-2",
+    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis-1",
+    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis-1",
     "title": "Esophagectomy Postop Care",
     "section": "Risks of Cervical Anastomosis",
     "text": "Risks of Cervical Anastomosis\nRecurrent laryngeal nerve palsy\n\nHoarse voice\nDiagnosis by FEES (speech therapy)\nRisk of aspiration\n\nRLN palsy generally improves over time\nMay require medialization of the affected cord"
