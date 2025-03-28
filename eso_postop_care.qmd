@@ -421,6 +421,7 @@ $\Rightarrow$ NG tube removal is delayed for patients with:
 
 ... until CT esophagram confirms that there is no evidence of leak
 
+<<<<<<< HEAD
 ## Risks of Cervical Anastomosis
 
 Leak
@@ -436,6 +437,8 @@ Leak can frequently be treated by opening neck incision at the bedside
 Leak is generally clinically apparent due to wound infection or nature of JP drain output.
 
 Barium upper GI best study to look for leak
+=======
+>>>>>>> parent of c757eab (954)
 
 ## Pneumonia
 
@@ -475,6 +478,27 @@ Diagnosis – EKG monitoring
 
 Treatment – amiodarone, β blockade
 
+<<<<<<< HEAD
+=======
+
+## Risks of Cervical Anastomosis
+
+Leak
+
+- Elevated drain amylase (JP#4)
+- Cloudy drain fluid
+- Cervical wound infection
+
+Leak can frequently be treated by opening neck incision at the bedside
+
+## Leak Detection with Cervical Anastomosis
+
+Leak is generally clinically apparent due to wound infection or nature of JP drain output.
+
+Barium upper GI best study to look for leak
+
+
+>>>>>>> parent of c757eab (954)
 ## Risks of Cervical Anastomosis
 
 Recurrent laryngeal nerve palsy
@@ -555,6 +579,7 @@ University of Virginia [@hu1302]
 
 Thoracic Duct Thoracic Duct Chylous Fluid Leak
 
+<<<<<<< HEAD
 ## Pneumonia
 
 ::::: columns
@@ -630,6 +655,8 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 :::
 :::::
 
+=======
+>>>>>>> parent of c757eab (954)
 ## Jejunostomy Small Bowel Necrosis
 
 Among patients with a new jejunostomy tube: 1% incidence of necrosis (gangrene) of the jejunum Thought to be due to demand ischemia Can lead to bowel perforation More likely after major surgery
