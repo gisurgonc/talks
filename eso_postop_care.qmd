@@ -470,25 +470,6 @@ Diagnosis – EKG monitoring
 Treatment – amiodarone, β blockade
 
 
-
-## Risks of Cervical Anastomosis
-
-Leak
-
-- Elevated drain amylase (JP#4)
-- Cloudy drain fluid
-- Cervical wound infection
-
-Leak can frequently be treated by opening neck incision at the bedside
-
-## Leak Detection with Cervical Anastomosis
-
-Leak is generally clinically apparent due to wound infection or nature of JP drain output.
-
-Barium upper GI best study to look for leak
-
-
-
 ## Risks of Cervical Anastomosis
 
 Recurrent laryngeal nerve palsy
@@ -500,17 +481,6 @@ Recurrent laryngeal nerve palsy
 RLN palsy generally improves over time
 
 May require medialization of the affected cord
-
-## Risks of Surgery
-
-Risks related to Surgery
-
--   Anastomotic leak (5%)
--   Stricture at anastomosis (15%)
--   Death within 90 days of surgery
-    -   Low risk patients = 2%
-    -   Intermediate risk = 10%
-    -   High risk = 30%
 
 ## Risks of Surgery
 
