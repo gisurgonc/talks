@@ -421,7 +421,7 @@ $\Rightarrow$ NG tube removal is delayed for patients with:
 
 ... until CT esophagram confirms that there is no evidence of leak
 
-<<<<<<< HEAD
+
 ## Risks of Cervical Anastomosis
 
 Leak
@@ -437,8 +437,7 @@ Leak can frequently be treated by opening neck incision at the bedside
 Leak is generally clinically apparent due to wound infection or nature of JP drain output.
 
 Barium upper GI best study to look for leak
-=======
->>>>>>> parent of c757eab (954)
+
 
 ## Pneumonia
 
@@ -478,8 +477,7 @@ Diagnosis – EKG monitoring
 
 Treatment – amiodarone, β blockade
 
-<<<<<<< HEAD
-=======
+
 
 ## Risks of Cervical Anastomosis
 
@@ -498,7 +496,7 @@ Leak is generally clinically apparent due to wound infection or nature of JP dra
 Barium upper GI best study to look for leak
 
 
->>>>>>> parent of c757eab (954)
+
 ## Risks of Cervical Anastomosis
 
 Recurrent laryngeal nerve palsy
@@ -579,84 +577,7 @@ University of Virginia [@hu1302]
 
 Thoracic Duct Thoracic Duct Chylous Fluid Leak
 
-<<<<<<< HEAD
-## Pneumonia
 
-::::: columns
-::: {.column width="50%"}
-Pneumonia occurs in 10% of patients after esophagectomy.
-
--   Risk 5% in a patients with normal muscle mass
--   Risk 20% in patients with low muscle mass
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_LungsArtboard.png)
-:::
-:::::
-
-## Thoracic Duct
-
-::::: columns
-::: {.column width="50%"}
-Pneumonia occurs in 10% of patients after esophagectomy.
-
--   Risk 5% in a patients with normal muscle mass
--   Risk 20% in patients with low muscle mass
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/thoracic_duct_large.png)
-:::
-:::::
-
-## Thoracic Duct Leak
-
-::::: columns
-::: {.column width="50%"}
-Thoracic duct leak manifests as milky fluid in JP drains
-
--   Test for triglycerides (to confirm chylous leak)
--   Also test for amylase (to confirm absense of leak)
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
-:::
-:::::
-
-## Thoracic Duct Leak Treatment
-
-::::: columns
-::: {.column width="50%"}
--   Low fat diet
--   Midodrine 5mg po/jejunostomy tid
--   Thoracic duct embolization
--   Surgical thoracic duct ligation
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
-:::
-:::::
-
-## Thoracic Duct
-
-::::: columns
-::: {.column width="50%"}
-Pneumonia occurs in 10% of patients after esophagectomy.
-
--   Risk 5% in a patients with normal muscle mass
--   Risk 20% in patients with low muscle mass
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/thoracic_duct_zoom.png)
-:::
-:::::
-
-=======
->>>>>>> parent of c757eab (954)
 ## Jejunostomy Small Bowel Necrosis
 
 Among patients with a new jejunostomy tube: 1% incidence of necrosis (gangrene) of the jejunum Thought to be due to demand ischemia Can lead to bowel perforation More likely after major surgery
