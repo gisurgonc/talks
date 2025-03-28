@@ -350,7 +350,7 @@ Usually start checking drain amylase on 4th-8th postop days
 :::
 :::::
 
-## CT esophagram to detect Anastomotic Leak
+## CT esophagram to detect Thoracic Anastomotic Leak
 
 Pre-contrast CT scan performed without contrast
 
@@ -420,19 +420,13 @@ $\Rightarrow$ NG tube removal is delayed for patients with:
 ... until CT esophagram confirms that there is no evidence of leak
 
 
-## Risks of Cervical Anastomosis
+## Leak Detection with Cervical Anastomosis
 
-Leak
+Leak is generally clinically apparent:
 
 -   Elevated drain amylase (JP#4)
 -   Cloudy drain fluid
 -   Cervical wound infection
-
-Leak can frequently be treated by opening neck incision at the bedside
-
-## Leak Detection with Cervical Anastomosis
-
-Leak is generally clinically apparent due to wound infection or nature of JP drain output.
 
 Barium upper GI best study to look for leak
 
