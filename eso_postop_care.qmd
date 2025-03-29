@@ -559,7 +559,12 @@ University of Virginia [@hu1302]
 
 ## Jejunostomy Small Bowel Necrosis
 
-Among patients with a new jejunostomy tube: 1% incidence of necrosis (gangrene) of the jejunum Thought to be due to demand ischemia Can lead to bowel perforation More likely after major surgery
+Among patients with a new jejunostomy tube: 
+
+- 1% incidence of necrosis (gangrene) of the jejunum
+- Due to demand ischemia 
+- Can lead to bowel perforation 
+- More likely after major surgery
 
 ## Jejunal Necrosis - Cincinnati Series
 
@@ -576,12 +581,6 @@ Symptoms:
 -   Tachycardia
 -   Hypotension
 -   Leukocytosis
-
-Postop Day 4: Abdominal distension and pain
-
-WBC: 42, 000
-
-CT: Pneumatosis of small bowel
 
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
