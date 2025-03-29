@@ -453,8 +453,9 @@ Barium upper GI best study to look for leak
 ::: {.column width="50%"}
 Pneumonia occurs in 10% of patients after esophagectomy.
 
--   Risk 5% in a patients with normal muscle mass
--   Risk 20% in patients with low muscle mass
+-   Normal muscle mass: Risk 5%
+-   Low muscle mass (<25 %ile): Risk 20%
+
 :::
 
 ::: {.column width="50%"}
@@ -464,7 +465,7 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 
 ## Preventing Pneumonia
 
-Several ways to help prevent pneumonia:
+Clearance of oropharygeal secretions::
 
 -   Deep breathing
 -   Coughing
@@ -481,14 +482,16 @@ Atrial fibrillation (and other arrhythmias)
 
 Prevention – beta blockade/amiodarone
 
+- Metoprolol 2.5mg IV q6 hours
+  - Can increase to 5mg IV
+  - Convert to 25-50mg enteral q12 hours 
+
 Diagnosis – EKG monitoring
 
-Treatment – amiodarone, β blockade
+Treatment – amiodarone, $\uparrow$β blockade
 
 
-## Risks of Cervical Anastomosis
-
-Recurrent laryngeal nerve palsy
+## Risks of Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy
 
 -   Hoarse voice
 -   Diagnosis by FEES (speech therapy)
@@ -515,7 +518,7 @@ May require medialization of the affected cord
 
 ## Urinary Rention with Epidural Catheter
 
-Randomized trial of early vs late removal of urenaty catheter after thoracic surgery
+Randomized trial of early vs late removal of urinary catheter after thoracic surgery
 
 Early removal at 48hrs: 12% reinsertion
 
@@ -539,7 +542,7 @@ Early removal at 48hrs: 28% retention
 
 Removal 6 hours after epidural removal: 12.4% retention (p=0.003)
 
--   Uninary tracdt infection 3.2% (p=0.28)
+-   Uninary tract infection 3.2% (p=0.28)
 
 ::: aside
 University of Virginia [@hu1302]
@@ -550,10 +553,8 @@ University of Virginia [@hu1302]
 -   Morphine or Dilaudid PCA
 -   Acetaminophen 1000mg q6 hours ATC (not prn)
 -   Gabapentin 300mg tid
--   Oxycodone elixir via jejunostomy
+-   Oxycodone (elixir via jejunostomy or tablets)
 -   No Toradol or non-steroidal anti-inflammatories
-
-Thoracic Duct Thoracic Duct Chylous Fluid Leak
 
 
 ## Jejunostomy Small Bowel Necrosis
