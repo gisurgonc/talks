@@ -293,7 +293,9 @@ Cleared for moderately thick but aspiration with thin:
 Aspiration with moderately thick liquids:
 
 - NPO
-- Medicines administed vai NG tube
+- Medicines administered via jejunostomy tube
+
+MBS is repeated every 3-4 days until discharge
 
 
 ## Anastomotic Leak
@@ -380,7 +382,7 @@ Radiologist looks for contrast extravisation from esophagus
 
 CT esophagram sentivity is best if side-holes of NG tube are immediately adjacent to the anastomosis
 
-Sideholes extend 8.5cm up from the tip of the NG tube
+Side-holes extend 8.5cm up from the tip of the NG tube
 
 Best position of NG tube is with tip 5cm below the anastomosis
 
@@ -391,7 +393,7 @@ Once patient is positioned on the CT scanner:
 -   "Scout" scan peformed to identify location of tip of NG tube relative to the anastomosis
 -   Radiologist will measure the distance from the anastomosis to the tip of the NG tube.
 -   NG tube is then withdrawn a distance which keeps the NG tube tip 5cm *below* the anastomosis.
--   If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 113 - 6 = 7cm
+  -   If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm
 -   NG tube manipulation will need to be done by an RN or physician
 
 ## NG Tube Withdrawl - AMT Bridle
@@ -727,11 +729,23 @@ Patients will need instruction on flushing tube
 
 Nutritionally complete standard formula
 
--High caloric density -Does not contain fiber -Reduces risk of clogging tube -Medium Chain Triglycerides (20%) -HCPCS Code: B4152
+- High caloric density 
+- Does not contain fiber 
+  - Reduces risk of clogging tube 
+- Medium Chain Triglycerides (20%) 
+- HCPCS Code: B4152
 
 ## Vital 1.5
 
-Nutritionally complete elemental formula - Appropriate for impaired GI function, malabsorption, or diarrhea -Contains FOS fiber -Promotes healthy gut flora -Proteins enzymatically hydrolyzed -Promote gastric emptying -Medium Chain Triglycerides (50%) -HCPCS Code: B4153
+Nutritionally complete elemental formula 
+
+- Appropriate for impaired GI function, malabsorption, or diarrhea 
+- Contains FOS fiber 
+  - Promotes healthy gut flora 
+  - Proteins enzymatically hydrolyzed 
+  - Promotes gastric emptying 
+- Medium Chain Triglycerides (50%) 
+- HCPCS Code: B4153
 
 ## Vital High Protein
 
@@ -926,7 +940,7 @@ Levine Cancer Institute
 
 Tube Feed Comparisons (60mL x 16 hrs) Tube Feed Comparisons (75mL x 16 hrs)
 
-## Orientation Manual
+## Orientation Hanbook
 
 {{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
 
