@@ -165,7 +165,7 @@ Completed anastomosis
 
 ::::: columns
 ::: {.column width="50%"}
-Mininally-invasive approach feasible in 95% of cases
+Mininally-invasive feasible in 95% of cases
 
 Thoracotomy in 3%
 
@@ -219,8 +219,6 @@ If the stomach is not suitable to use as a conduit, the colon can be used to rep
 
 ## Esophagectomy Complications
 
-Significant complications
-
 -   Delayed gastric emptying
 -   Aspiration due to dysphagia
 -   Anastomotic leak (8%)
@@ -237,11 +235,12 @@ Esophagectomy require dividing the vagus nere
 
 $\Rightarrow$ Esophagectomy can cause delayed gastric emptying
 
--   Nasogastric tube decompressed gastric conduite
+-   Nasogastric tube decompresses gastric conduit
+- Radiology test to determine when NG can be removed
 
 ## Evaluation of Gastric Emptying
 
-Upper GI evaluated gastric emptying
+Upper GI evaluates gastric emptying
 
 -   Initial study on POD #2/3/4
 -   Patient stands in fluoroscopy
@@ -253,9 +252,11 @@ If stomach does not empty $\rightarrow$ repeat study in 2 days
 
 ## Swallowing Evaluation
 
-30% of patients have abnormal swallowing after esophagectomy, which places them at risk for aspiration pneumonia.
+30% of patients have abnormal swallowing after esophagectomy
 
-Likely due to disuse atrophy of swallowing muscles
+$\rightarrow$ at risk for aspiration pneumonia.
+
+Due to disuse atrophy of swallowing muscles
 
 -   Advanced age
 -   Prolonged NPO after surgery
@@ -271,7 +272,7 @@ Outcomes:
 -   Aspiration of thin liquids but OK for moderately thick liquinds - 15%
 -   Aspiration witn moderately thick liquids - 15%
 
-## Modified Barium Swallow
+## Modified Barium Swallow -Pass
 
 70% Pass - started with oral liquids 1oz/hour
 
@@ -279,6 +280,21 @@ Outcomes:
 -   Advanced to protein shakes 4oz/hour if tolerated
 
 Patients discharged taking water, Gatorade, and protein shakes orally
+
+
+
+## Modified Barium Swallow - Fail
+
+Cleared for moderately thick but aspiration with thin:
+
+- NPO
+- Medicines with a sip of thickened water
+
+Aspiration with moderately thick liquids:
+
+- NPO
+- Medicines administed vai NG tube
+
 
 ## Anastomotic Leak
 
@@ -312,7 +328,7 @@ If healing of anastomosis doesn't occur:
 :::
 :::::
 
-## Anastomotic Leak
+## Thoracic Anastomotic Leak
 
 ::::: columns
 ::: {.column width="50%"}
