@@ -739,7 +739,7 @@ Nutritionally complete standard formula
 
 Nutritionally complete elemental formula 
 
-- Appropriate for impaired GI function, malabsorption, or diarrhea 
+- Appropriate for malabsorption or diarrhea 
 - Contains FOS fiber 
   - Promotes healthy gut flora 
   - Proteins enzymatically hydrolyzed 
@@ -749,7 +749,11 @@ Nutritionally complete elemental formula
 
 ## Vital High Protein
 
-Nutritionally Complete elemental Formula Appropriate for patients with BMI \>35 Medium Chain Triglyceries (50%) HCPCS Code: B4153 
+Nutritionally Complete elemental Formula 
+
+- Appropriate for patients with BMI \>35 
+- Medium Chain Triglyceries (50%) 
+- HCPCS Code: B4153 
 
 ## Jenunostomy Tube Feed Intolerance
 
@@ -761,19 +765,27 @@ Diarrhea, bloating, or cramps
 
 ## Diabetic Patients on Jejunostomy Feeds
 
-Diabetic patients may have more problems with elevated blood sugars with jejunostomy feedings vs oral intake due to food bypassing the duodenum and failing to stimulate pancreas through GI hormones
+May have more problems with elevated blood sugars 
 
-Patients with diabetes may need long-acting insulin in the evening when tube feeds started
+- Food bypasses duodenum
+- Reduced release of endogenous isulin
+
+$\Rightarrow$ may need long-acting insulin in the evening when tube feeds started
 
 Example regimen:
 
-10 Units 70/30 at 4 pm AND 10 Units 70/30 at 10pm Early consultations with endocrinology
+- 10 Units 70/30 at 6 pm 
+- 10 Units 70/30 at MN
+
+$\Rightarrow$ Early consultations with endocrinology
 
 ## Diabetic Patients - Transition to Nocturnal Feeds
 
 When patients leave the ICU, they will be on continuous tube feeds
 
-Patients with diabetes will have a continuous regimen of q6 (2N+1R) eg: 10 units N + 5 units R q6 hours
+Continuous insulin regimen of q6 (2N+1R) 
+
+- eg: 10 units N + 5 units R q6 hours
 
 Most patients will be transitioned to nocturnal feeds when on the ward
 
@@ -781,32 +793,38 @@ Most patients will be transitioned to nocturnal feeds when on the ward
 
 Tube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). 
 
-Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion during the time off feeds. 
+Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:
 
-Stop tube feeds at 12pm & check blood sugar
+Tube feeds stopped 12pm & check blood sugar
 
-Do not give noon dose of insulin
+q6 hr insulin discontinued when tube feeds stopped
 
-Discontinue q6 insulin when tube feeds stopped
+Noon dose of insulin is held
 
-Start nocturnal tube feeds at 6pm 
+Nocturnal tube feeds started at 6pm
 
-Administer nocturnal insulin at 6pm as ordered
+Nocturnal insulin given at 6pm as ordered
+
+Nocturnal insulin given at MN if ordered
+
+$\Rightarrwo$ Requires coordination between surgical and endocrinology teams and nursing
 
 ## Oral Nutrition
 
--Begin Ensure High Protein after passing MBS for THIN liquids 
--Sips of water 1oz q hour OR Ensure High Protein 4oz q2 hrs -
-Reglan, Remeron 
--CMC Home Infusion has dieticians on staff
+Once cleared for liquids by MBS
+
+- Water 1oz q hour orally 
+- Medications switched to oral
+- Protein shakes 2oz at a time if tolerated
+- Protein shakes 4oz at a time if tolerated
 
 ## Diet Orders
 
-In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.  
+In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.
 
-Patients who pass their MBS for thin liquids are started on oral water 1oz per hour with medicines with sips of water. If oral water is tolerated, they are advanced the following day to Ensure High Protein 2oz q1hr (and continue with water 1oz per hour).
+When patient is advanced to protein shakes:
 
-Supplement Task Order is noted as "Supplement Regimen" and comes up as a nursing task, up to TID 
+- Supplement Task Order is noted as "Supplement Regimen" and comes up as a nursing task, up to TID 
 
 ## Diet Orders
 
@@ -841,7 +859,11 @@ Patients who will return to the OR need an order for “NPO after MN” and thei
 
 ## Enteral Feeding Bag Details
 
--Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding -Open system; poured into top of bag -All connections should now be EnFit -Syringes for water flush -Infusion bag/tubing
+- Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding 
+- Open system; poured into top of bag 
+- All connections should now be EnFit 
+- Syringes for water flush 
+- Infusion bag/tubing
 
 ## Patient Education Needs
 
@@ -890,17 +912,31 @@ Home infusion: orders for tube feed formula/rate/duration
 
 Home nursing: Postop visit
 
+
 ## Patient Instructions
 
-Driving: Off narcotics and pain-free
+Driving: 
+- Off narcotics and pain-free
 
-Showering: OK at home
+Showering: 
+- OK to shower at home
+- No tub bath or swimming for 2 weeks
 
-Lifting: No lifting \>10# for 6 weeks
+Activity: 
+
+- No lifting \>10# for 6 weeks
+- OK to resume aerobic activity immediately
 
 ## Postop Office Visit
 
-Review pathology Wean beta blockers Check wounds Look for late pleural effusion Advance diet Reduce tube feeds as diet advanced
+- Review pathology 
+- Wean beta blockers 
+- Adjust anti-hypertensives
+- Check wounds 
+- Check for pleural effusion
+- Reduce tube feeds
+- Advance diet
+
 
 ## Minimally-invasive esophagectomy Acknowledgements
 
