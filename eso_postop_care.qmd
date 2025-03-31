@@ -806,7 +806,7 @@ Nocturnal insulin given at 6pm as ordered
 
 Nocturnal insulin given at MN if ordered
 
-$\Rightarrwo$ Requires coordination between surgical and endocrinology teams and nursing
+$\Rightarrow$ Requires coordination between surgical and endocrinology teams and nursing
 
 ## Oral Nutrition
 
