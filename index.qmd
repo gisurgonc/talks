@@ -47,7 +47,7 @@ title: "GI Surgical Oncology"
 
 # Esophagectomy Techniques
 
-[One Stage Esophagectomy](one_stage_mie.htm)
+[One Stage Esophagectomy](one_stage_mie.html)
 
 [ctDNA in Esophageal Cancer](eso_ctDNA_lit.html)
 
