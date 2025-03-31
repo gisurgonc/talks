@@ -661,7 +661,7 @@ Segmental resection of jejunum.
 Key lessons:
 
 -   Early diagnosis is critical. **Stop Tube Feeds!**
--   Signs can be subtle: distension or increased pain
+-   Signs can be subtle: distension or $\uparrow$ pain
 -   CT scan is diagnostic
 -   Advance tube feeds slowly until bowel function
 -   Critical period is probably first 5 days postop
@@ -685,7 +685,10 @@ Gastric
 
 Intestinal - Tube feeding intolerance
 
-If That’s Not Enough… - Increased metabolic needs due to healing + - Preoperative nutritional deficit
+If That’s Not Enough… 
+
+- Increased metabolic needs due to healing + 
+- Preoperative nutritional deficit
 
 ## Gastric Emptying - Medical Strategies
 
@@ -697,7 +700,9 @@ Metoclopramine (Reglan®) – 10mg po/iv q6hrs
 
 Mirtazapine (Remeron®) 15mg po qHs
 
--Anti-depressant promotes gastric emptying -Can cause vivid dreams
+- Anti-depressant 
+- Promotes gastric emptying 
+- Can cause vivid dreams
 
 ## Jejunostomy Feedings
 
@@ -713,17 +718,11 @@ Vital High Protein for BMI \>35 (decreased CHO/calorie content, increased protei
 
 Five cans = 75mL/hour x 16 hours (4pm-10am)
 
-Free Water Flushes: Patients can tolerate up to approximately 240mL (8oz) warm water bolus via syringe into j-tube at a time.
+Free Water Flushes
 
-## Free Water
-
-Jejunostomy tube flushed in am
-
-Free water flushes: 240mL q4 hours while awake
-
-Free water can help prevent tube clogging or constipation
-
-Patients will need instruction on flushing tube
+- Prevents tube clogging, constipation, hypernatremia
+- Flush tube in am after running feeds
+- 240mL q4 hours while awake (qid)
 
 ## Osmolite 1.5
 

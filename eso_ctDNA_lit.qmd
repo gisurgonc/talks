@@ -26,7 +26,7 @@ Elevated ctDNA baseline concentrations have also been reported to predict major 
 
 71 Leal A, van Grieken NCT, Palsgrove DN, et al. White blood cell and cell-free DNA analyses for detection of residual disease in gastric cancer. Nat Commun 2020; 11: 525.
 
-[@huffmane2200420] ctDNA levels were analyzed in the preoperative, postoperative, and surveillance settings in patients with EGC using a personalized multiplex polymerase chain reaction-based next-generation sequencing assay. Plasma samples (n = 943) from 295 patients at \> 70 institutions were collected before surgery, postoperatively, and/or serially during routine clinical follow-up from September 19, 2019, to February 21, 2022. A total of 295 patients with EGC were analyzed, and 212 patients with stages I-III disease were further explored. Pretreatment ctDNA was detected in 96% (23/24) of patients with preoperative time points. Postoperative ctDNA was detected in 23.5% (16/68) of patients with stage I-III EGC within 16 weeks (molecular residual disease window) after surgery without receiving systemic therapy. ctDNA detection at any time point after surgery (hazard ratio \[HR\], 23.6; 95% CI, 10.2 to 66.0; *P* \< .0001), within the molecular residual disease window (HR, 10.7; 95% CI, 4.3 to 29.3; *P* \< .0001), and during the surveillance period (HR, 17.7; 95% CI, 7.3 to 50.7; *P* \< .0001) was associated with shorter recurrence-free survival. In multivariable analysis, ctDNA status and clinical stage of disease were independently associated with outcomes.
+[@huffmane2200420] ctDNA levels were analyzed in the preoperative, postoperative, and surveillance settings in patients with EGC using a **personalized multiplex polymerase chain reaction-based next-generation sequencing assay**. Plasma samples (n = 943) from 295 patients at \> 70 institutions were collected before surgery, postoperatively, and/or serially during routine clinical follow-up from September 19, 2019, to February 21, 2022. A total of 295 patients with EGC were analyzed, and 212 patients with stages I-III disease were further explored. Pretreatment ctDNA was detected in 96% (23/24) of patients with preoperative time points. Postoperative ctDNA was detected in 23.5% (16/68) of patients with stage I-III EGC within 16 weeks (molecular residual disease window) after surgery without receiving systemic therapy. ctDNA detection at any time point after surgery (hazard ratio \[HR\], 23.6; 95% CI, 10.2 to 66.0; *P* \< .0001), within the molecular residual disease window (HR, 10.7; 95% CI, 4.3 to 29.3; *P* \< .0001), and during the surveillance period (HR, 17.7; 95% CI, 7.3 to 50.7; *P* \< .0001) was associated with shorter recurrence-free survival. In multivariable analysis, ctDNA status and clinical stage of disease were independently associated with outcomes.
 
 Copenhagen [@iden83]: Patients with resectable gastric and GEJ AC, undergoing perioperative chemotherapy and surgery, were prospectively enrolled. Serial plasma samples were collected at baseline, after one cycle of chemotherapy, after preoperative chemotherapy, and after surgery. ctDNA was assessed by a **ddPCR test (TriMeth),** which targets the gastrointestinal cancer-specific methylation patterns of the genes C9orf50, KCNQ5, and CLIP4.
 
@@ -45,3 +45,13 @@ an T, Zhang X-F, Liang C, Liao C-W, Li J-Y, Zhou Y-M. The prognostic value of a 
 Bite on Bite Biopsies (PreSane) Noordman BJ, Spaander MCW, Valkema R, et al. Detection of residual disease after neoadjuvant chemoradiotherapy for oesophageal cancer (preSANO): a prospective multicentre, diagnostic cohort study. Lancet Oncol 2018; 19: 965–74.
 
 Noordman BJ, Wijnhoven BPL, Lagarde SM, et al. Active surveillance in clinically complete responders after neoadjuvant chemoradiotherapy for esophageal or junctional cancer. Dis Esophagus 2017; 30: 1–8.
+
+Optimal therapy for esophageal ad GE junction adenocarcinoma involves peroperative ("neoadjuvant") chemoradiation or chemotherapy, followed by surgical resection.
+
+Simple paradigm made more complicated:
+
+-   pCR rate of 23% suggests that if these patients could be identified, some patients could be spared surgery
+
+-   CROSS trial: 30% of patients had cancer recurrence at 2 years
+
+    -   If these patients oculd b identified earlier - no surgery or more neoadjuvant
