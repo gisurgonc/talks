@@ -29,8 +29,6 @@ bibliography: zotero.bib
 :::
 :::::
 
-
-
 ## Ivor Lewis (Transthoracic) Esophagectomy
 
 ::::: columns
@@ -165,10 +163,6 @@ Laparotomy in 2%
 :::
 :::::
 
-
-
-
-
 ## Total Esophagectomy
 
 ::::: columns
@@ -229,8 +223,6 @@ Esophagectomy can cause delayed gastric emptying
 
 -   Nasogastric tube decompressed gastric conduit
 
-
-
 ## Evaluation of Gastric Emptying
 
 Upper GI evaluates gastric emptying
@@ -242,7 +234,6 @@ Upper GI evaluates gastric emptying
 If stomach empties well $\rightarrow$ NG tube removed
 
 If stomach does not empty $\rightarrow$ repeat study in 2 days
-
 
 ## Swallowing Evaluation
 
@@ -283,7 +274,6 @@ Patients who fail for nectar thick liquids are kept NPO and their medicines are 
 
 MBS is repeated every 3-4 days until discharge
 
-
 ## Anastomotic Leak
 
 ::::: columns
@@ -299,8 +289,6 @@ Partial esophagectomy: Thoracic anastomosis
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
 :::
 :::::
-
-
 
 ## Anastomotic Leak
 
@@ -318,7 +306,6 @@ If healing of anastomosis doesn't occur:
 :::
 :::::
 
-
 ## Anastomotic Leak
 
 ::::: columns
@@ -335,8 +322,6 @@ If leak occurs:
 :::
 :::::
 
-
-
 ## Drain Amylase for Leak Detection
 
 ::::: columns
@@ -346,7 +331,7 @@ Thoracic anastomosis
 -   Usually leaks into the right chest
     -   JP#2 drains the right chest
 
-Cerfical anastomosis
+Cervical anastomosis
 
 -   Usually leaks into the neck
     -   JP#4 drains the neck incision
@@ -369,9 +354,6 @@ Constast CT scan peformed
 
 Radiologist looks for contrast extravisation from esophagus
 
-
-
-
 ## CT Esophagram with NG tube in place
 
 ::::: columns
@@ -389,8 +371,6 @@ Once patient is positioned on the CT scanner:
 ![](https://deidt7p41jzcy.cloudfront.net/ng_esophagectomy.png)
 :::
 :::::
-
-
 
 ## NG Tube Withdrawl - AMT Bridle
 
@@ -411,9 +391,6 @@ Ideal position is with all 4 dots outside the nose
 ![](https://deidt7p41jzcy.cloudfront.net/amt_guitarpick.png)
 :::
 :::::
-
-
-
 
 ## CT esophagram - Full Sequence
 
@@ -453,8 +430,6 @@ $\Rightarrow$ NG tube removal is delayed for patients with:
 Leak can frequently be treated by opening neck incision at the bedside
 
 Barium swallow best study to look for leak
-
-
 
 ## Pneumonia
 
@@ -505,8 +480,6 @@ Recurrent laryngeal nerve palsy
 RLN palsy generally improves over time
 
 May require medialization of the affected cord
-
-
 
 ## Risks of Surgery
 
@@ -574,9 +547,6 @@ University of Virginia [@hu1302]
 -   Oxycodone elixir via jejunostomy
 -   No Toradol or non-steroidal anti-inflammatories
 
-
-
-
 ## Thoracic Duct
 
 ::::: columns
@@ -638,8 +608,6 @@ Thoracic duct leak $\rightarrow$ milky fluid in JP drains
 ![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
 :::
 :::::
-
-
 
 ## Jejunostomy Small Bowel Necrosis
 
@@ -755,8 +723,6 @@ Key lessons:
 :::
 :::::
 
-
-
 ## Nutritional Consequences of Esophagectomy
 
 Oropharyngeal
@@ -785,8 +751,8 @@ Metoclopramine (Reglan®) – 10mg po/iv q6hrs
 
 Mirtazapine (Remeron®) 15mg po qHs
 
-- Anti-depressant promotes gastric emptying 
-- Can cause vivid dreams
+-   Anti-depressant promotes gastric emptying
+-   Can cause vivid dreams
 
 ## Jejunostomy Feedings
 
@@ -796,16 +762,16 @@ Osmolite 1.5 starting POD#1 at 30mL/hr
 -   Increased 10mL/hour every 12 hours (continuous)
 -   Converted to nocturnal (6pm to 10am)
 
-Vital High Protein for BMI \>35 
+Vital High Protein for BMI \>35
 
-- decreased CHO/calorie content
-- increased protein
+-   decreased CHO/calorie content
+-   increased protein
 
 ## Jejunostomy Feedings
 
 Five cans = 75mL/hour x 16 hours (4pm-10am)
 
-Free Water Flushes: 
+Free Water Flushes:
 
 Most patients can tolerate 240mL (8oz) warm water bolus via syringe into j-tube at a time.
 
@@ -823,52 +789,52 @@ Patients will need instruction on flushing tube
 
 Nutritionally complete standard formula
 
-- High caloric density 
-- Does not contain fiber 
-- Reduces risk of clogging tube 
-- Medium Chain Triglycerides (20%) 
-- HCPCS Code: B4152
+-   High caloric density
+-   Does not contain fiber
+-   Reduces risk of clogging tube
+-   Medium Chain Triglycerides (20%)
+-   HCPCS Code: B4152
 
 ## Vital 1.5
 
-- Nutritionally complete elemental formula -
-- Appropriate for impaired GI function, malabsorption, or diarrhea
-- Contains FOS fiber
-  - Promotes healthy gut flora
-  - Proteins enzymatically hydrolyzed -
-  - Promote gastric emptying
+-   Nutritionally complete elemental formula -
+-   Appropriate for impaired GI function, malabsorption, or diarrhea
+-   Contains FOS fiber
+    -   Promotes healthy gut flora
+    -   Proteins enzymatically hydrolyzed -
+    -   Promote gastric emptying
 -   Medium Chain Triglycerides (50%) -
 -   HCPCS Code: B4153
 
 ## Vital High Protein
 
-Nutritionally Complete elemental Formula 
+Nutritionally Complete elemental Formula
 
-- Appropriate for patients with BMI \>35 
-- Medium Chain Triglyceries (50%) 
-- HCPCS Code: B4153
+-   Appropriate for patients with BMI \>35
+-   Medium Chain Triglyceries (50%)
+-   HCPCS Code: B4153
 
 ## Jenunostomy Tube Feed Intolerance
 
 Diarrhea, bloating, or cramps
 
-- Check clostridium Difficile 
-- Switch formulas (Osmolite 1.5 →Vital 1.5) 
-- Cautious use of anti-motility agents (eg Lomotil)
+-   Check clostridium Difficile
+-   Switch formulas (Osmolite 1.5 →Vital 1.5)
+-   Cautious use of anti-motility agents (eg Lomotil)
 
 ## Diabetic Patients on Jejunostomy Feeds
 
 Diabetic patients may have more problems with elevated blood sugars with jejunostomy feeds:
 
-- Food bypasses duodenum
-- Less stimulation of pancreatic insulin secretion
+-   Food bypasses duodenum
+-   Less stimulation of pancreatic insulin secretion
 
 May need long-acting insulin during tube feeds
 
 Example regimen:
 
-- 10 Units 70/30 at 6 pm 
-- 10 Units 70/30 at MN 
+-   10 Units 70/30 at 6 pm
+-   10 Units 70/30 at MN
 
 Early consultations with endocrinology
 
@@ -876,9 +842,9 @@ Early consultations with endocrinology
 
 When patients leave the ICU, they will be on continuous tube feeds
 
-Continuous insulin regimen of q6 (2N+1R) 
+Continuous insulin regimen of q6 (2N+1R)
 
-- eg: 10 units N + 5 units R q6 hours
+-   eg: 10 units N + 5 units R q6 hours
 
 Most patients will be transitioned to nocturnal feeds when on the ward
 
@@ -904,15 +870,14 @@ Nocturnal insulin given at MN if ordered
 
 Once cleared for liquis by passing MBS:
 
-- Water 1oz q hour orally 
-- Medications switched to oral
-- Protein shakes 2oz at a time if tolerated
-- Protein shakes 4oz at a time if tolerated
-
+-   Water 1oz q hour orally
+-   Medications switched to oral
+-   Protein shakes 2oz at a time if tolerated
+-   Protein shakes 4oz at a time if tolerated
 
 ## Diet Orders
 
-In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. 
+In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids.
 
 Ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.
 
@@ -945,11 +910,11 @@ Patients who will return to the OR need an order for “NPO after MN” and thei
 
 ## Enteral Feeding Bag Details
 
-- Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding 
-- Open system; poured into top of bag 
-- All connections should now be EnFit 
-- Syringes for water flush 
-- Infusion bag/tubing
+-   Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding
+-   Open system; poured into top of bag
+-   All connections should now be EnFit
+-   Syringes for water flush
+-   Infusion bag/tubing
 
 ## Patient Education Needs
 
@@ -1000,28 +965,24 @@ Home nursing: Postop visit
 
 ## Patient Instructions
 
-Driving: 
-- Off narcotics and pain-free
+Driving: - Off narcotics and pain-free
 
-Showering: 
-- OK to shower at home
-- No tub bath or swimming for 2 weeks
+Showering: - OK to shower at home - No tub bath or swimming for 2 weeks
 
-Activity: 
+Activity:
 
-- No lifting \>10# for 6 weeks
-- OK to resume aerobic activity immediately
+-   No lifting \>10# for 6 weeks
+-   OK to resume aerobic activity immediately
 
 ## Postop Office Visit
 
-- Review pathology 
-- Wean beta blockers 
-- Adjust anti-hypertensives
-- Check wounds 
-- Check for pleural effusion
-- Reduce tube feeds
-- Advance diet
-
+-   Review pathology
+-   Wean beta blockers
+-   Adjust anti-hypertensives
+-   Check wounds
+-   Check for pleural effusion
+-   Reduce tube feeds
+-   Advance diet
 
 ## Minimally-invasive esophagectomy Acknowledgements
 
@@ -1064,5 +1025,3 @@ Levine Cancer Institute
 {{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
 
 ## References
-
-
