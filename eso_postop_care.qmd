@@ -7,9 +7,8 @@ format:
     height: 900
     logo: "atriumlogo.jpg"
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
-    #css: ["theme/theme.css"]
-    theme: default
-      
+    theme: [simple, lci.scss]
+    #css: "lci_styles.css" 
     echo: false
 editor: visual
 bibliography: zotero.bib
@@ -592,13 +591,31 @@ Postop Day 4: Abdominal distension and pain
 
 WBC: 42, 000
 
-CT: Pneumoatosis of small bowel
+CT: Pneumatosis of small bowel
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct.png)
+![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct.png){.r-stretch}
 :::
 :::::
+
+## Case Study: 54F s/p total gastrectomy + jejunostomy
+
+:::::: {.r-stretch}
+::::: columns 
+::: {.column width="50%"} 
+Postop Day 4: Abdominal distension and pain
+
+WBC: 42, 000
+
+CT: Pneumatosis of small bowel
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct2.png){.r-stretch}
+:::
+:::::
+::::::
 
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
@@ -608,25 +625,9 @@ Postop Day 4: Abdominal distension and pain
 
 WBC: 42, 000
 
-CT: Pneumoatosis of small bowel
-:::
+CT: Pneumatosis of small bowel
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct2.png)
-:::
-:::::
-
-## Case Study: 54F s/p total gastrectomy + jejunostomy
-
-::::: columns
-::: {.column width="50%"}
-Postop Day 4: Abdominal distension and pain
-
-WBC: 42, 000
-
-CT: Pneumoatosis of small bowel
-
-OR: Segment of jejunum with patchy necrosis
+OR: Patchy necrosis of jejunum
 :::
 
 ::: {.column width="50%"}
@@ -642,9 +643,9 @@ Postop Day 4: Abdominal distension and pain
 
 WBC: 42, 000
 
-CT: Pneumoatosis of small bowel
+CT: Pneumatosis of small bowel
 
-OR: Segment of jejunum with patchy necrosis
+OR: Patchy necrosis of jejunum
 
 Segmental resection of jejunum.
 :::
