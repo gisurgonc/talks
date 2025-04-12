@@ -84,6 +84,14 @@ Workup of nodular Barretts:
 
 ![](images/EMR.jpg){fig-align="right"}
 
+## Endoscopic Submucosal Dissection
+
+Endoscopic resection uses needle-knife to dissect *below* submucosa
+
+Maybe suitable for T1b lesions *if* lesion is completely resected
+
+Risk of perforation
+
 ## Localized Tumors
 
 Patients staged as uT2 N0 are candidates for primary surgery. *However:*

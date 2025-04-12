@@ -151,7 +151,7 @@ Completed anastomosis
 
 ::::: columns
 ::: {.column width="50%"}
-Mininally-invasive approach feasible in 95% of cases
+Minimally-invasive approach feasible in 95% of cases
 
 Thoracotomy in 3%
 
@@ -205,7 +205,7 @@ If the stomach is not suitable to use as a conduit, the colon can be used to rep
 
 ## Esophagectomy Complications
 
--   Delayed gastric empyting
+-   Delayed gastric emptying
 -   Aspiration due to pharyngeal dysphagia
 -   Anastomotic leak (8%)
 -   Pneumonia (10%)
@@ -350,7 +350,7 @@ Pre-contrast CT scan performed without contrast
 
 Water-soluble contrast instilled in the esophagus
 
-Constast CT scan peformed
+Contrast CT scan performed
 
 Radiologist looks for contrast extravisation from esophagus
 
@@ -378,7 +378,7 @@ Once patient is positioned on the CT scanner:
 ::: {.column width="50%"}
 NG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.
 
-In order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.
+In order to open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.
 
 The NG tube can then be withdrawn the required distance
 
@@ -396,13 +396,13 @@ Ideal position is with all 4 dots outside the nose
 
 Scout CT Scan obtained and NG position measured
 
-NG tube withdrawn by RN/physicin
+NG tube withdrawn by RN/physician
 
 Pre-contrast CT scan performed without contrast
 
 Water-soluble contrast instilled in the esophagus
 
-Constast CT scan peformed
+Contrast CT scan performed
 
 NG tube returned to prior position
 
@@ -509,7 +509,7 @@ Risks related to Surgery
 
 ## Urinary Rention with Epidural Catheter
 
-Randomized trial of early vs late removal of urenaty catheter after thoracic surgery
+Randomized trial of early vs late removal of urinary catheter after thoracic surgery
 
 Early removal at 48hrs: 12% reinsertion
 
@@ -533,7 +533,7 @@ Early removal at 48hrs: 28% retention
 
 Removal 6 hours after epidural removal: 12.4% retention (p=0.003)
 
--   Uninary tracdt infection 3.2% (p=0.28)
+-   Urinary tract infection 3.2% (p=0.28)
 
 ::: aside
 University of Virginia [@hu1302]
@@ -675,7 +675,7 @@ Postop Day 4: Abdominal distension and pain
 
 WBC: 42, 000
 
-CT: Pneumoatosis of small bowel
+CT: Pneumatosis of small bowel
 
 OR: Segment of jejunum with patchy necrosis
 :::
@@ -693,7 +693,7 @@ Postop Day 4: Abdominal distension and pain
 
 WBC: 42, 000
 
-CT: Pneumoatosis of small bowel
+CT: Pneumatosis of small bowel
 
 OR: Segment of jejunum with patchy necrosis
 
@@ -727,7 +727,7 @@ Key lessons:
 
 Oropharyngeal
 
--   Dsyphagia and aspiration due to muscle wasting
+-   Dysphagia and aspiration due to muscle wasting
 
 Gastric
 
@@ -743,7 +743,7 @@ Metabolic demand:
 
 ## Gastric Emptying - Medical Strategies
 
-Metoclopramine (Reglan®) – 10mg po/iv q6hrs
+Metoclopramide (Reglan®) – 10mg po/iv q6hrs
 
 -   Side effects
     -   Dystonic reaction (esp in young)
@@ -811,7 +811,7 @@ Nutritionally complete standard formula
 Nutritionally Complete elemental Formula
 
 -   Appropriate for patients with BMI \>35
--   Medium Chain Triglyceries (50%)
+-   Medium Chain Triglycerides (50%)
 -   HCPCS Code: B4153
 
 ## Jenunostomy Tube Feed Intolerance
@@ -868,7 +868,7 @@ Nocturnal insulin given at MN if ordered
 
 ## Oral Nutrition
 
-Once cleared for liquis by passing MBS:
+Once cleared for liquids by passing MBS:
 
 -   Water 1oz q hour orally
 -   Medications switched to oral
@@ -912,7 +912,7 @@ Patients who will return to the OR need an order for “NPO after MN” and thei
 
 -   Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding
 -   Open system; poured into top of bag
--   All connections should now be EnFit
+-   All connections should now be En-fit
 -   Syringes for water flush
 -   Infusion bag/tubing
 
@@ -944,7 +944,7 @@ Oxycodone elixir 5-10mg oral/via tube q4-6 hours
 
 Metoprolol 25-50mg po bid
 
-Remeron 15mg po qhs
+Remeron 15mg po qHS
 
 Anti-arrhythmics (if needed)
 
@@ -954,7 +954,7 @@ Coumadin or anticoagulation (if in atrial fibrillation)
 
 Jejunostomy tube feedings
 
--   Pump mangement
+-   Pump management
 -   Free water flushes
 
 Medications: Who is managing new meds?
