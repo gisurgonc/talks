@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.6.43">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -55,10 +55,10 @@ div.csl-indent {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-d4d76bf8491c20bad77d141916dc28e1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-9afe6a7cc8d1b5c86842b77b9e65fa16.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-3e3de7b6b729b226fc3f040aa566cf19.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -87,6 +87,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -148,15 +177,15 @@ div.csl-indent {
 </header>
 
 
-<p>Melbourne <span class="citation" data-cites="cabalage120">(<a href="#ref-cabalage120" role="doc-biblioref"><strong>cabalage120?</strong></a>)</span></p>
-<p>Sixty-two patients with EAC were investigated for the presence of ctDNA using a <strong>tumor-informed</strong> approach. We designed a custom <strong>targeted amplicon sequencing</strong> panel of target specific primers covering mutational foci in 9 of the most commonly mutated genes in EAC. Serial blood samples were taken before and after neoadjuvant treatment (NAT), and during surveillance. Somatic mutations were detected in pre-treatment biopsy samples of 55 out of 62 (89%) EAC patients. Mutations in TP53 (80%) were the most common. Out of these 55 patients, 20 (36%) had detectable ctDNA at baseline. The majority (90%) of patients with detectable ctDNA had either locally advanced tumors, nodal involvement or metastatic disease. In patients with locally advanced tumors, disease free survival (DFS) was more accurately stratified using pre-treatment ctDNA status [HR 4.34 (95% CI 0.93-20.21); P = 0.05] compared to nodal status on PET-CT. In an exploratory subgroup analysis, patients who are node negative but ctDNA positive have inferior DFS [HR 11.71 (95% CI 1.16-118.80) P = 0.04]. In blood samples taken before and following NAT, clearance of ctDNA after NAT was associated with a favourable response to treatment. Furthermore, patients who are ctDNA positive during post-treatment surveillance are at high risk of relapse.</p>
+<p><strong>Rotterdam</strong> <span class="citation" data-cites="eyck35">(<a href="#ref-eyck35" role="doc-biblioref">Eyck et al., 2023</a>)</span> Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. J Pathol 2023; 259: 35–45. Samples taking before, 6 weeks after and 23 weeks after CRT. 29/31 patients had mutations detected on <em>tissue biopsy</em>. 24/31 patients had mutations detectable in cfDNA. Prei-itreatment cdTNA detected in 9 patients, four of whom had incurable disease progression before surgery (2 prior to ChemoRT and 2 prior to surgery). None of these 9 had a pCR. 6/9 had major residual disease after chemoRT. After ChemoRT, ctDNA was detected in 3 patients, two of whom had disease progression. Patients were examined wtih CT and EGD biopsies after ChemoRT as part of the SANO trial. ctDNA did not detect any additional patients with residual disease after ChemoRT. ctDNA analyzed with <a href="https://www.thermofisher.com/us/en/home/life-science/cancer-research/cancer-genomics/liquid-biopsy-cancer-research-applications/oncomine-cell-free-dna-assays-liquid-biopsy-clinical-research.html">Thermo Fisher Colon Oncoline kit</a>. <span class="math inline">\(\Rightarrow\)</span>. ctDNA can detect some patients with high-risk disease who are at risk for progression (and should have further staging investigations prior to surgery OR be offered watch/wait), but did not help detect patients after ChemoRT who had residual disease (who would be candidates for salvage esophagectomy)</p>
+<p>Melbourne <span class="citation" data-cites="cabalage120">(<a href="#ref-cabalage120" role="doc-biblioref"><strong>cabalage120?</strong></a>)</span> 62 patients with adenocarcinoma with <strong>tumor-informed</strong> approach. 9 genes analyzed with targeted amplicon sequencing. Pre-treatment biopsies showed mutations in 55/62 (63%). ctDNA at baseline in 20/55 (36%). The majority (90%) of patients with detectable ctDNA had either locally advanced tumors, nodal involvement or metastatic disease. In patients with locally advanced tumors, disease free survival (DFS) was more accurately stratified using pre-treatment ctDNA status [HR 4.34 (95% CI 0.93-20.21); P = 0.05] compared to nodal status on PET-CT. In an exploratory subgroup analysis, patients who are node negative but ctDNA positive have inferior DFS [HR 11.71 (95% CI 1.16-118.80) P = 0.04]. In blood samples taken before and following NAT, clearance of ctDNA after NAT was associated with a favourable response to treatment. Furthermore, patients who are ctDNA positive during post-treatment surveillance are at high risk of relapse.</p>
 <p>San Diego: <span class="citation" data-cites="kato6248">(<a href="#ref-kato6248" role="doc-biblioref">Kato et al., 2018</a>)</span> 55 GE adenocarcinoma (mostly advanced disease; 9, surgically resectable) ctDNA with Guardant (49/55) or Foundation. Esophagus =11, GEJ = 17, gastric = 27. Seventy-six percent of patients (42/55) had ≥1 genomic alteration [including variants of unknown significance (VUS)] and 69.1% (38/55) had ≥1 characterized alteration (excluding VUSs). The median number of alterations per patient was 2 (range, 0–15). TP53 (50.9%, 28/55), PIK3CA (16.4%, 9/55), ERBB2 (14.5%, 8/55), and KRAS (14.5%, 8/55) genes were most frequently affected characterized alterations. Thirty-one patients also had tissue NGS. Concordance between tissue and ctDNA ranged from 61.3% (TP53 alterations) to 87.1% (KRAS alterations). ERBB2 alterations were significantly associated with poor overall survival (HR, 14.06; 95% confidence interval, 2.44–81.03; P = 0.003 multivariate analysis). Among patients with ≥1 alteration, no 2 patients had identical molecular portfolios.</p>
 <p>Stanford: 45 patients receving chemoradiation for esophageal cancer. ctDNA analysis with deep squencing. Tumor-derived DNA represented 0.07% of all cell-free DNA. Detection of ctDNA following chemoradiotherapy was associated with tumor progression (hazard ratio, 18.7; P&lt;.0001), formation of distant metastases (hazard ratio, 32.1; P&lt;.0001), and shorter disease-specific survival times (hazard ratio, 23.1; P&lt;. 0001). A higher proportion of patients with tumor progression had new mutations detected in plasma samples collected after chemoradiotherapy than patients without progression (P=.03). Detection of ctDNA after chemoradiotherapy preceded radiographic evidence of tumor progression by an average of 2.8 months. Among patients who received chemoradiotherapy without surgery, combined ctDNA and metabolic imaging analysis predicted progression in 100% of patients with tumor progression, compared with 71% for only ctDNA detection and 57% for only metabolic imaging analysis</p>
 <p>Zaanan A, Didelot A, Broudin C, et al.&nbsp;Longitudinal circulating tumor DNA (ctDNA) analysis during treatment (Tx) of locally advanced resectable (LAR) gastric or gastroesophageal junction (G/GEJ) adenocarcinoma (ADENOCA): the PLAGAST prospective biomarker study. J Clin Oncol 2024; 42: 4028 (abstract).</p>
 <p>Elevated ctDNA baseline concentrations have also been reported to predict major residual disease after neoadjuvant chemoradiotherapy and disease progression before surgery.67,68 Several studies also identified ctDNA as a potential biomarker of recurrence and overall survival.67,69 In the ancillary study of the CRITICS trial (NCT00407186), Leal and colleagues identified post-neoadjuvant therapy or preoperative ctDNA as a predictive biomarker for pathological response (according to Mandard’s tumour regression grading [TRG] system0,70 with ctDNA analyses being consistent with TRG in 30 (70%) of 43 patients (p=0·03; Fisher’s exact test).71 Huffman and colleagues reported the largest cohort of patients with oesophagogastric cancers monitored with ctDNA.72 In their study, a personalised, multiplex PCRbased next-generation sequencing assay was used to retrospectively analyse ctDNA in 295 patients with oesophagogastric cancers presenting with different histology (squamous cell carcinomas and adenocarcinomas) profiles and spanning various disease stages (I–IV). In this cohort, 125 patients with stage I–III oesophagogastric cancers were analysed at any timepoint postoperatively (regardless of adjuvant treatment). The median recurrence-free survival was not reached in patients negative for ctDNA, whereas it was 9·6 months in patients positive for ctDNA (HR 23·6, 95% CI 10·2–66·0; p=0·0001).72 These results were observed irrespective of the anatomical localisation of the tumour. Recurrence rates were 5% in patients negative for ctDNA and 88% in patients positive for ctDNA. The patient population enrolled in this study was heterogeneous and further prospective studies are required. In the initial analysis of the PLAGAST study73 presented at the ASCO 2024 meeting, postoperative, tumour-informed ctDNA persistence was related to recurrence and overall survival. Additionally, the clearance of ctDNA after medical treatment could serve as a predictor of outcomes. To date, there are no available data for localised oesophagogastric adenocarcinoma, but in the metastatic setting, Kelly and colleagues observed in a phase 1–2 study a statistical correlation between mutation variant allele frequencies and overall response rate to ICIs in metastatic oesophagogastric adenocarcinoma.74 Patients with a decrease in variant allele frequencies at week 9 had a longer median OS (3.8 months, 95% CI 7·0–NR) than those with an increase in variant allele frequencies (8.2 months, 6·2–NR; HR 0·07, 95% CI 0·01–0·66).74 However, false-negative ctDNA results have been reported in patients with peritoneal carcinomatosis, restricting the utility of ctDNA as the sole predictive biomarker for oesophagogastric adenocarcinoma.75</p>
-<p>67 Eyck BM, Jansen MP, Noordman BJ, et al.&nbsp;Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. J Pathol 2023; 259: 35–45.</p>
 <p>68 Egyud M, Tejani M, Pennathur A, et al.&nbsp;Detection of circulating tumor DNA in plasma: a potential biomarker for esophageal adenocarcinoma. Ann Thorac Surg 2019; 108: 343–49.</p>
 <p>69 Azad TD, Chaudhuri AA, Fang P, et al.&nbsp;Circulating tumor DNA analysis for detection of minimal residual disease after chemoradiotherapy for localized esophageal cancer. Gastroenterology 2020; 158: 494–505.</p>
+<p>CRITICS trial <span class="citation" data-cites="leal525">(<a href="#ref-leal525" role="doc-biblioref"><strong>leal525?</strong></a>)</span></p>
 <p>71 Leal A, van Grieken NCT, Palsgrove DN, et al.&nbsp;White blood cell and cell-free DNA analyses for detection of residual disease in gastric cancer. Nat Commun 2020; 11: 525.</p>
 <p><span class="citation" data-cites="huffmane2200420">(<a href="#ref-huffmane2200420" role="doc-biblioref">Huffman et al., 2022</a>)</span> ctDNA levels were analyzed in the preoperative, postoperative, and surveillance settings in patients with EGC using a <strong>personalized multiplex polymerase chain reaction-based next-generation sequencing assay</strong>. Plasma samples (n = 943) from 295 patients at &gt; 70 institutions were collected before surgery, postoperatively, and/or serially during routine clinical follow-up from September 19, 2019, to February 21, 2022. A total of 295 patients with EGC were analyzed, and 212 patients with stages I-III disease were further explored. Pretreatment ctDNA was detected in 96% (23/24) of patients with preoperative time points. Postoperative ctDNA was detected in 23.5% (16/68) of patients with stage I-III EGC within 16 weeks (molecular residual disease window) after surgery without receiving systemic therapy. ctDNA detection at any time point after surgery (hazard ratio [HR], 23.6; 95% CI, 10.2 to 66.0;&nbsp;<em>P</em>&nbsp;&lt; .0001), within the molecular residual disease window (HR, 10.7; 95% CI, 4.3 to 29.3;&nbsp;<em>P</em>&nbsp;&lt; .0001), and during the surveillance period (HR, 17.7; 95% CI, 7.3 to 50.7;&nbsp;<em>P</em>&nbsp;&lt; .0001) was associated with shorter recurrence-free survival. In multivariable analysis, ctDNA status and clinical stage of disease were independently associated with outcomes.</p>
 <p>Copenhagen <span class="citation" data-cites="iden83">(<a href="#ref-iden83" role="doc-biblioref"><strong>iden83?</strong></a>)</span>: Patients with resectable gastric and GEJ AC, undergoing perioperative chemotherapy and surgery, were prospectively enrolled. Serial plasma samples were collected at baseline, after one cycle of chemotherapy, after preoperative chemotherapy, and after surgery. ctDNA was assessed by a <strong>ddPCR test (TriMeth),</strong> which targets the gastrointestinal cancer-specific methylation patterns of the genes C9orf50, KCNQ5, and CLIP4.</p>
@@ -177,11 +206,287 @@ div.csl-indent {
 <li>If these patients oculd b identified earlier - no surgery or more neoadjuvant</li>
 </ul></li>
 </ul>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 13%">
+<col style="width: 21%">
+<col style="width: 17%">
+<col style="width: 15%">
+<col style="width: 23%">
+<col style="width: 8%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Genes</th>
+<th>Col2</th>
+<th>Stanford</th>
+<th>Rotterdam</th>
+<th>Melbourne</th>
+<th>Col6</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><span class="citation" data-cites="hofste4417">(<a href="#ref-hofste4417" role="doc-biblioref"><strong>hofste4417?</strong></a>)</span></td>
+<td><span class="citation" data-cites="azad494">(<a href="#ref-azad494" role="doc-biblioref">Azad et al., 2020</a>)</span></td>
+<td><span class="citation" data-cites="eyck35">(<a href="#ref-eyck35" role="doc-biblioref">Eyck et al., 2023</a>)</span></td>
+<td><span class="citation" data-cites="cabalage120">(<a href="#ref-cabalage120" role="doc-biblioref"><strong>cabalage120?</strong></a>)</span></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>APC</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>ARID1A</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>AKT1</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>BRAF</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>CDKN2A</td>
+<td>x</td>
+<td>Common</td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>CTNNB1</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>EGFR</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>ERBB2</td>
+<td>x</td>
+<td>Common</td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>FBXW7</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>GNAS</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>KRAS</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>MAP2K1</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>NRAS</td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>NRG1</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>PIK3CA</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>RNF43</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>SMAD4</td>
+<td>x</td>
+<td></td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>SMARCA4</td>
+<td></td>
+<td></td>
+<td></td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>TGFB2</td>
+<td>x</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>TP53</td>
+<td>x</td>
+<td>Common</td>
+<td>X</td>
+<td>X</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 
 
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-azad494" class="csl-entry" role="listitem">
+Azad, T.D., Chaudhuri, A.A., Fang, P., Qiao, Y., Esfahani, M.S., Chabon, J.J., Hamilton, E.G., Yang, Y.D., Lovejoy, A., Newman, A.M., Kurtz, D.M., Jin, M., Schroers-Martin, J., Stehr, H., Liu, C.L., Hui, A.B.-Y., Patel, V., Maru, D., Lin, S.H., Alizadeh, A.A., Diehn, M., 2020. Circulating <span>Tumor</span> <span>DNA</span> <span>Analysis</span> for <span>Detection</span> of <span>Minimal</span> <span>Residual</span> <span>Disease</span> <span>After</span> <span>Chemoradiotherapy</span> for <span>Localized</span> <span>Esophageal</span> <span>Cancer</span>. Gastroenterology 158, 494–505.e6. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/31711920">31711920</a>
+</div>
+<div id="ref-eyck35" class="csl-entry" role="listitem">
+Eyck, B.M., Jansen, M.P., Noordman, B.J., Atmodimedjo, P.N., Wilk, B.J. van der, Martens, J.W., Helmijr, J.A., Beaufort, C.M., Mostert, B., Doukas, M., Wijnhoven, B.P., Lagarde, S.M., Lanschot, J.J.B. van, Dinjens, W.N., 2023. Detection of circulating tumour <span>DNA</span> after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. The Journal of Pathology 259, 35–45. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/36196486">36196486</a>
+</div>
 <div id="ref-huffmane2200420" class="csl-entry" role="listitem">
 Huffman, B.M., Aushev, V.N., Budde, G.L., Chao, J., Dayyani, F., Hanna, D., Botta, G.P., Catenacci, D.V.T., Maron, S.B., Krinshpun, S., Sharma, S., George, G.V., Malhotra, M., Jurdi, A., Moshkevich, S., Aleshin, A., Kasi, P.M., Klempner, S.J., 2022. Analysis of <span>Circulating</span> <span>Tumor</span> <span>DNA</span> to <span>Predict</span> <span>Risk</span> of <span>Recurrence</span> in <span>Patients</span> <span>With</span> <span>Esophageal</span> and <span>Gastric</span> <span>Cancers</span>. JCO precision oncology 6, e2200420. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/36480779">36480779</a>
 </div>
