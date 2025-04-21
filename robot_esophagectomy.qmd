@@ -12,11 +12,80 @@ Grimminger P P, Hadzijusufovic E, Babic B, Van Der Sluis P C, Lang H. Innovative
 
 ## Ivor Lewis Techniques
 
+### Pittsburgh 
+
+Abdominal Ports: Hiatus is marked as 1-2cm above xiphoid.  #2 Camera port just above umbilicus - should be within 23cm of hiatus. #1 subcostal. #3 midclavicular line within 15cm of hiatus. #4 just off subcostal margin. Liver retractor 5mm RLQ. Stapler port 12mm 1A between 1 and 2 and inferior. Port 1A can also be used as an alternate camera location for mobilization of the greater curvature.
+
+![](images/wisz_abdominal_ports.png)
+
+Abdominal dissection: 
+
+1) Hiatal dissection: Open lesser sac and dissect hiatus
+
+2) Retrogastric dissection: Start with left gastric artery at origin $\rightarrow$ R crus $\rightarrow$ L crus.
+
+**How often is entrance into the left pleura? How often is a drain required?**
+
+3) Gastric mobilization: Enter lesser sac. Stomach mobilized off lesser sac. Left gastric artery divided with stapler. ICG to outline right gastroepiploic artery. Pedicled omental flap using 2 proximal (superior) perforators.
+
+4) Pyloroplasty: Retraction stitches superior and inferior $\rightarrow$ opened longitudinally with ultrasonic shears $\rightarrow$ closed transverse with 5-6 sutures of 2-0 silk.
+
+5) Conduit: 45mm Stapler in port #1A (**what color stapler load?**). Arm 4 grasps fundus. Start on distal lesser curvature side. Marking stitch placed at the transition between gastric conduit and antral reservoir. **How far up the lesser curve (relative to the pylorus) is the conduit started?**
+
+6) Jejunostomy
+
+How is conduit placed into the chest? Is the hiatus opened?
+
+Chest ports:
+
+- Camera:  8th ICS at posterior axillary line (or 9th laterally)
+- Small grasping: 3rd ICS at mid/posterior axillary line (was 5mm)
+- Harmonic scalpel: 5th ICS mid-axillary line 
+- Bipolar: 9th ICS in line with tip of scapula. 
+- 12mm robotic stapler/assistant port placed just above the diaphragmatic refection. Port lies midway between camera and lateral 8mm robotic ports
+
+Robot cart driven over patient's right shoulder.
+
+![](images/wisz_thoracic_ports.png)
+
+Thoracic dissection: Anterior dissection first. Inferior pulmonary ligament. Subcarinal lymph nodes excised .
+
+Azygous vein divided with stapler. Vagus divided to prevent injury to RLN. Posterior dissection performed staying anterior to thoracic duct. Esophagus divided 3cm above azygous with robotic shears
+
+Conduit brought into chest and temporarily sutured to avoid retraction into the abdomen.
+
+Port removed (5th intercostal space??) $\rightarrow$ extended 4cm $\rightarrow$ specimen removed.  Or is specimen extracted through the 8mm port near the tip of scapula?
+
+Pursestring suture of 0 Prolene SH to depth of 3-5mm. Anvil introduced and pursestring tied. Second pursestring.
+
+DST XL 28mm EEA stapler introduced through port (posterior axillary line ICS8?) into open end of conduit $\rightarrow$ mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm
+
+Pittsburgh [@oksuyana116] [Video Here](http://www.asvide.com/articles/1677 "Video at AME")
+
+See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018
+
 German group [@egberts1485]
 
-## Circular Stapled Anastomosis
+4-arm robot [@zhang1284]. Zhang early outcomes of robot-assisted: propensity matched. Ann Surg Oncol26:1284 2019
 
-German Group [@egberts1]
+2021: [@witek6195] 
+
+2017[@okusanya116] 
+
+Technique paper with videos 2014: [@sarkaria211] 
+ 
+25 patients 2014-2016 [@okusanya179] 
+
+MSKCC 25 patients  2013 [@sarkariae107]
+
+MSKCC learning curve Innovations
+ 
+### Utrecht
+
+van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
+
+### Mainz Germany
+
 
 An 8-mm da Vinci port (which serves as arm 2 (R2)) is placed in the midline slightly above or at the umbilicus. Arm 3 (da Vinci 8 mm, R3) is positioned on the left mid-clavicular line (MCL) at least 8 cm away from R2 on a straight line, followed by the fourth arm (da Vinci 8 mm, R4) as far left lateral from R3 as possible. Arm 1 (da Vinci 8 mm, R1) is placed on right MCL at least 8 cm away from R2. Depending on the use of the EndoWrist® stapler, either a da Vinci 13-mm port or a standard da Vinci 8-mm port is used (if laparoscopic stapling is through a 12-mm assistant port). A 12-mm assistant port is triangulated midway inferior between R3 and R4. If a laparoscopic stapler is used, R1 (da Vinci 8 mm) is placed as lateral as possible on the right, 2–3 cm superior to the arm 2 port and at least 8 cm away from a 12-mm assistant port (A) used for the laparoscopic stapling. The assistant port (A) is then moved to the location of R1 (Fig. 3a). For liver retraction (LR), a 5-mm port is placed either subcostally on the right MCL (retraction with a laparoscopic grasper) or subxiphiodal for a Nathanson retractor
 
@@ -26,17 +95,25 @@ Liver Retraction Utilising a method for static retraction allows all da Vinci in
 
 Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018
 
-Mainz [@grimminger589]
+Mainz [@grimminger589] [@egberts1]
 
 30209678
 
-Pittsburgh [@okusanya116]
+De la Fuente Surg Endsoc 3339 2013. Hernandez J GI Surg 17:1346 2013
 
-Esophagogastric anastomosis A running “baseball” purse string suture is placed at the esophageal orifice with 0 polypropylene suture on an SH needle (Prolene, Ethicon, USA). The robotic graspers hold the orifice of the proximal esophagus. and the 28 mm anvil of the extra-long end-to-end anastomotic (EEA) stapler is inserted (DST XL, Covidien, USA). An additional purse string suture is placed to reinforce this staple purse string suture. The EEA stapler is introduced through the access incision and is placed through a gastrostomy in the proximal conduit. The stapler spike is advanced out through the lateral wall of the conduit just above the level of the vascular arcade insertion. The stapler and anvil are docked ensuring flush apposition of the tissues and appropriate orientation. The stapler is fired and the anastomosis completed.
+50 RAMIE cases: 25mm OrVil 1 anastomotic leak. median lymph node harvest =19  
 
-[@okusanya179]
 
-[@sarkaria211] Technique paper with videos
+## Circular Stapled Anastomosis
+
+Wee JO Ann Thor Surg 2016 p253
+
+Utrecht Ruurda 2005 Dig Surgery 2005 p313
+van Hillegerberg 2006 3 hold
+
+
+
+
 
 Tampa [@pointer111] Leak rate 16%. 30-day mortality 3%
 
@@ -74,13 +151,21 @@ Turkey [@batirel844796] - 30% stricture rate
 
 ## Reviews
 
+Upper GI International Robotic Association: The Da Vinci Ivor Lewis Esophagectomy Procedure Guide
+
 Lahey Clinic [@stock]
 
 NCDB: RMIE vs tMIE: 23% robotic. Similar 90-day mortality. RMIE had lower rate of positive margin and lower conversion to open [@ali6329]
 
 ## Robot vs Open
 
-Randomized ROBOT trial Utrecht [@degrootdoaa079]. No difference in surviaval or recurrence Protocol: van der Sluis P C, Ruurda J P, van der Horst S et al. Robotassisted minimally invasive thoraco-laparoscopic esophagectomy versus open transthoracic esophagectomy for resectable esophageal cancer, a randomized controlled trial (ROBOT trial). Trials 2012; 13: 230. doi: 10.1186/1745-6215-13-230.
+Randomized ROBOT trial Utrecht [@degrootdoaa079]. No difference in survival or recurrence [@vandersluid621]. Protocol: van der Sluis P C, Ruurda J P, van der Horst S et al. Robotassisted minimally invasive thoraco-laparoscopic esophagectomy versus open transthoracic esophagectomy for resectable esophageal cancer, a randomized controlled trial (ROBOT trial). Trials 2012; 13: 230. doi: 10.1186/1745-6215-13-230.
+
+Ongoing trials:
+
+REVATE. see [@chao346]. Trials 20:346
+
+RAMIE trial see [@yang608]. BMC Cancer 2019
 
 Specimen Extraction via Abdomen
 
@@ -93,5 +178,9 @@ Hand-sewn vs stapled esophageal anstomosis
 Kayani B, Garas G, Arshad M, Athanasiou T, Darzi A, Zacharakis E (2014) Is hand-sewn anastomosis superior to stapled anastomosis following oesophagectomy? Int J Surg 12(1):7–15
 
 11\. Castro PMV, Ribeiro FPG, Rocha ADF, Mazzurana M, Alvarez GA (2014) Hand-sewn versus stapler esophagogastric anastomosis after esophageal ressection: sistematic review and meta-analysis. Arq Bras Cir Dig 27(3):216–221
+
+Cervical Robot [@mori429]developed a non-transthoracic esophagectomy procedure combining RATHE and a video-assisted cervical approach. Dis Esophagus 29:429 2016
+
+[@nakauchi85]Robot-assisted mediastinoscopic esophagectomy for esophageal cancer: Esophagus 2019;16:85-92.
 
 {{< qrcode https://jmbuhr.de >}}
