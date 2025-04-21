@@ -68,7 +68,10 @@ German group [@egberts1485]
 
 4-arm robot [@zhang1284]. Zhang early outcomes of robot-assisted: propensity matched. Ann Surg Oncol26:1284 2019
 
-[Technique Paper 2021](https://gisurgonc.github.io/talks/images/witek2021.pdf) [@witek6195] 
+[Technique Paper 2021](https://gisurgonc.github.io/talks/images/witek2021.pdf)
+
+[Technique Paper 2021](https://gisurgonc.github.io/talks/pdfs/witek2021.pdf)
+[@witek6195] 
 
 2017[@okusanya116] 
 
