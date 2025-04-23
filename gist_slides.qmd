@@ -15,14 +15,16 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## GI Stromal Tumors
-
-
 ## ACOSOG ZZ9001
 
-GIST Tumors \>3cm randomized: - 1 year of imatinib 40mg - Observation
+GIST Tumors \>3cm randomized:
 
-Recurrence-free survival 98% vs 83% No significant difference at 6 years
+-   1 year of imatinib 40mg
+-   Observation
+
+Recurrence-free survival 98% vs 83%
+
+No significant difference at 6 years
 
 *Imatinib may simply delay recurrences*
 
@@ -32,9 +34,14 @@ Ref
 
 ## SSG SVII
 
-High-risk GIST randomized: - 1 year of imatinib 400mg - 3 year of imatinib 400mg
+High-risk GIST randomized:
 
-5-year Recurrence-free survival 48% vs 66% 5-year Overall Survival 82% vs 92%
+-   1 year of imatinib 400mg
+-   3 year of imatinib 400mg
+
+5-year Recurrence-free survival 48% vs 66%
+
+5-year Overall Survival 82% vs 92%
 
 ::: aside
 Ref
@@ -46,34 +53,13 @@ Genetic mutations can predict respoinse to imatinib [^1]
 
 [^1]: Meheran JCO 2017
 
-
-
--   ChemoRT $\rightarrow$ Surgery (\[CROSS Trial\])
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
-
 ## Positive Margins
-
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   median age=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
 
 ::: aside
 Gronchi JAMA Surg 2020
 :::
 
 ## Imatinib 1yr vs 3 yr
-
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   median age=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
 
 ::: aside
 Joensuu JAMA Oncology 2020
@@ -105,18 +91,32 @@ Weldon JCS 2017
 
 ## Recurrence Risk
 
++-------------------+-------------+--------------+
+| Risk              | Size        | Mitotic Rate |
++===================+=============+==============+
+| Very Low Risk     | \<2cm       | \<5          |
++-------------------+-------------+--------------+
+| Low Risk          | 2-5cm       | \<5          |
++-------------------+-------------+--------------+
+| Intermediate Risk | \<5cm\      | 6-10\        |
+|                   | 5-10cm      | \<5          |
++-------------------+-------------+--------------+
+| High Risk         | \>5cm\      | \>5 /50\     |
+|                   | \>10cm\     | Any\         |
+|                   | Any size    | \>10         |
++-------------------+-------------+--------------+
+
+: Mitotic rate per 50 hpf
+
 ::: aside
-Joensuu Lancet March 2012
+Fletcher Int J Surg Pathol 10:81 2022
 :::
 
-## CROSS - Risk Classification
-
-
+## AFIP Risk Classification
 
 ::: aside
 Miettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83
 :::
-
 
 # Orientation Manual
 

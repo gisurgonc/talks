@@ -2,8 +2,6 @@
 title: "GI Surgical Oncology"
 ---
 
-
-
 # General Surgery Residency Didactics
 
 [Esophageal Perforation SCORE](esoph_perf.htm)
@@ -16,6 +14,7 @@ title: "GI Surgical Oncology"
 
 [Gastric Cancer Lecture](gastric_ca_rx_talk.htm)
 
+[Gastric GIST](gist_slides.htm)
 
 [Rectal Cancer Adjuvant Therapy](rectal_adjuvant.qmd)
 
