@@ -1523,7 +1523,7 @@
     "href": "index.html",
     "title": "GI Surgical Oncology",
     "section": "",
-    "text": "General Surgery Residency Didactics\nEsophageal Perforation SCORE\nEsophageal Cancer Lecture\nEsophageal Cancer Cases\nEsophagectomy Postop Care\nGastric Cancer Lecture\nRectal Cancer Adjuvant Therapy\n\n\nAcute Care Surgery of the GI Cancer Patient\nOverview\n\n\nPatient Education\nEsophageal Cancer\nEsophageal Cancer T3\nGastric Cancer\n\n\nForegut Cancer Working Group\nEsophagectomy Early Recovery Literature Review\nOne Stage Esophagectomy\nRobotic Esophagectomy Literature\nRobotic MIE Planning\nRobotic Gastrectomy\n\n\nEsophagectomy Techniques\nOne Stage Esophagectomy\nctDNA in Esophageal Cancer\n\n\nEsophagectomy Decision-making\nRole of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery\nSurgical Decision Making\n\n\nGastric\nGastric Decision-making\n\n\nSarcopenia\nEsophageal Cancer and Sarcopenia\nGI Cancers and Sarcopenia\nColorectal Cancer and Sarcopenia\nDisparities and Sarcopenai\nSarcopenia and Chemotherapy\nChemotherapy Toxicity\nCT methods for Sarcopenia\nMachine Learning for CT segmentation\nComprehensive Geriatric Assessmnent\nMyosteatosis\nFrailty Index\nCachexia\n\n\nColectomy\nColectomy Length of Stay\n\n\nGeriatric Surgery\nLiterature Review\n\n\nDisparities\nGI Cancer Disparities\n\n\nBlood Management Program\nLiterature Review\n\n\nStatistics\nstatistics\n\n\nLCI Patient Education\nLCI Welcome"
+    "text": "General Surgery Residency Didactics\nEsophageal Perforation SCORE\nEsophageal Cancer Lecture\nEsophageal Cancer Cases\nEsophagectomy Postop Care\nGastric Cancer Lecture\nGastric GIST\nRectal Cancer Adjuvant Therapy\n\n\nAcute Care Surgery of the GI Cancer Patient\nOverview\n\n\nPatient Education\nEsophageal Cancer\nEsophageal Cancer T3\nGastric Cancer\n\n\nForegut Cancer Working Group\nEsophagectomy Early Recovery Literature Review\nOne Stage Esophagectomy\nRobotic Esophagectomy Literature\nRobotic MIE Planning\nRobotic Gastrectomy\n\n\nEsophagectomy Techniques\nOne Stage Esophagectomy\nctDNA in Esophageal Cancer\n\n\nEsophagectomy Decision-making\nRole of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery\nSurgical Decision Making\n\n\nGastric\nGastric Decision-making\n\n\nSarcopenia\nEsophageal Cancer and Sarcopenia\nGI Cancers and Sarcopenia\nColorectal Cancer and Sarcopenia\nDisparities and Sarcopenai\nSarcopenia and Chemotherapy\nChemotherapy Toxicity\nCT methods for Sarcopenia\nMachine Learning for CT segmentation\nComprehensive Geriatric Assessmnent\nMyosteatosis\nFrailty Index\nCachexia\n\n\nColectomy\nColectomy Length of Stay\n\n\nGeriatric Surgery\nLiterature Review\n\n\nDisparities\nGI Cancer Disparities\n\n\nBlood Management Program\nLiterature Review\n\n\nStatistics\nstatistics\n\n\nLCI Patient Education\nLCI Welcome"
   },
   {
     "objectID": "cachexia_lit.html",
@@ -2471,46 +2471,39 @@
     "text": "Metastatic\nFOLFOX is first-line systemic therapy for metastatic GI cancers\n\nDose-limiting toxicity is frequently peripheral neuropathy"
   },
   {
-    "objectID": "gist_slides.htm#gi-stromal-tumors",
-    "href": "gist_slides.htm#gi-stromal-tumors",
-    "title": "GI Stromal Tumors",
-    "section": "GI Stromal Tumors",
-    "text": "GI Stromal Tumors"
-  },
-  {
     "objectID": "gist_slides.htm#acosog-zz9001",
     "href": "gist_slides.htm#acosog-zz9001",
     "title": "GI Stromal Tumors",
     "section": "ACOSOG ZZ9001",
-    "text": "ACOSOG ZZ9001\nGIST Tumors &gt;3cm randomized: - 1 year of imatinib 40mg - Observation\nRecurrence-free survival 98% vs 83% No significant difference at 6 years\nImatinib may simply delay recurrences\n\n\nRef"
+    "text": "ACOSOG ZZ9001\nGIST Tumors &gt;3cm randomized:\n\n1 year of imatinib 40mg\nObservation\n\nRecurrence-free survival 98% vs 83%\nNo significant difference at 6 years\nImatinib may simply delay recurrences\n\n\nRef"
   },
   {
     "objectID": "gist_slides.htm#ssg-svii",
     "href": "gist_slides.htm#ssg-svii",
     "title": "GI Stromal Tumors",
     "section": "SSG SVII",
-    "text": "SSG SVII\nHigh-risk GIST randomized: - 1 year of imatinib 400mg - 3 year of imatinib 400mg\n5-year Recurrence-free survival 48% vs 66% 5-year Overall Survival 82% vs 92%\n\n\nRef"
+    "text": "SSG SVII\nHigh-risk GIST randomized:\n\n1 year of imatinib 400mg\n3 year of imatinib 400mg\n\n5-year Recurrence-free survival 48% vs 66%\n5-year Overall Survival 82% vs 92%\n\n\nRef"
   },
   {
     "objectID": "gist_slides.htm#mutational-testing",
     "href": "gist_slides.htm#mutational-testing",
     "title": "GI Stromal Tumors",
     "section": "Mutational Testing",
-    "text": "Mutational Testing\nGenetic mutations can predict respoinse to imatinib 1\n\nChemoRT \\(\\rightarrow\\) Surgery ([CROSS Trial])\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo ([EsoPEC Trial])\n\nMeheran JCO 2017"
+    "text": "Mutational Testing\nGenetic mutations can predict respoinse to imatinib 1\nMeheran JCO 2017"
   },
   {
     "objectID": "gist_slides.htm#positive-margins",
     "href": "gist_slides.htm#positive-margins",
     "title": "GI Stromal Tumors",
     "section": "Positive Margins",
-    "text": "Positive Margins\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nmedian age=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\nGronchi JAMA Surg 2020"
+    "text": "Positive Margins\n\n\nGronchi JAMA Surg 2020"
   },
   {
     "objectID": "gist_slides.htm#imatinib-1yr-vs-3-yr",
     "href": "gist_slides.htm#imatinib-1yr-vs-3-yr",
     "title": "GI Stromal Tumors",
     "section": "Imatinib 1yr vs 3 yr",
-    "text": "Imatinib 1yr vs 3 yr\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nmedian age=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\nJoensuu JAMA Oncology 2020"
+    "text": "Imatinib 1yr vs 3 yr\n\n\nJoensuu JAMA Oncology 2020"
   },
   {
     "objectID": "gist_slides.htm#wild-type-gist",
@@ -2531,14 +2524,14 @@
     "href": "gist_slides.htm#recurrence-risk",
     "title": "GI Stromal Tumors",
     "section": "Recurrence Risk",
-    "text": "Recurrence Risk\n\n\nJoensuu Lancet March 2012"
+    "text": "Recurrence Risk\n\nMitotic rate per 50 hpf\n\n\n\n\n\n\n\nRisk\nSize\nMitotic Rate\n\n\n\n\nVery Low Risk\n&lt;2cm\n&lt;5\n\n\nLow Risk\n2-5cm\n&lt;5\n\n\nIntermediate Risk\n&lt;5cm\n5-10cm\n6-10\n&lt;5\n\n\nHigh Risk\n&gt;5cm\n&gt;10cm\nAny size\n&gt;5 /50\nAny\n&gt;10\n\n\n\n\n\nFletcher Int J Surg Pathol 10:81 2022"
   },
   {
-    "objectID": "gist_slides.htm#cross---risk-classification",
-    "href": "gist_slides.htm#cross---risk-classification",
+    "objectID": "gist_slides.htm#afip-risk-classification",
+    "href": "gist_slides.htm#afip-risk-classification",
     "title": "GI Stromal Tumors",
-    "section": "CROSS - Risk Classification",
-    "text": "CROSS - Risk Classification\n\n\nMiettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83"
+    "section": "AFIP Risk Classification",
+    "text": "AFIP Risk Classification\n\n\nMiettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83"
   },
   {
     "objectID": "gi_sarcopenia_lit.htm#chemotherapy-toxicity",
