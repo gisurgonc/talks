@@ -132,26 +132,112 @@
 </div>
 
 </section>
+<section>
 <section id="sample-size-to-study-rare-events" class="title-slide slide level1 center">
 <h1>Sample Size to Study Rare Events</h1>
-<p>The hypothetical example is a study comparing two drugs with 152 participants in each arm.</p>
-<p>The primary outcome is whether a seizure develops after traumatic brain injury. The estimated incidence of seizure is 2%</p>
+<p>The hypothetical example is a study comparing two drugs with 150 participants in each arm. The primary outcome is whether a seizure develops after traumatic brain injury. The estimated incidence of seizure is 2%</p>
 <p>Several hypothetical possible outcomes of the study are then arbitrarily generated. For argument sake, the patients in the Drug A treatment arm experience 3 seizures. Various <em>synthetic</em> data sets are then generated with between 0 and 10 seizures in the Drug B group.</p>
-<p>cohort</p>
 </section>
-
-<section id="creating-a-data-frame" class="title-slide slide level1 center">
-<h1>creating a data frame</h1>
+<section id="scenario-1" class="slide level2">
+<h2>Scenario 1</h2>
+<p>In this scenario, Drug A is 100% effective and Drug B has no effect. The Drug A arm has zero seizures and the Drug B arm has 3 seizures:</p>
 <div class="cell">
 <div class="cell-output cell-output-stdout">
-<pre><code>  seizure drug
-1       3    A
-2     149    B</code></pre>
+<pre><code>  seizure no_seizure
+A       0        150
+B       3        147</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Fisher's Exact Test for Count Data
+
+data:  study.data
+p-value = 0.2475
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.000000 2.410439
+sample estimates:
+odds ratio 
+         0 </code></pre>
 </div>
 </div>
-
-
+<p>Fisher’s exact test shows no statistical difference between arms.</p>
 </section>
+<section id="scenario-2" class="slide level2">
+<h2>Scenario 2</h2>
+<p>In this scenario, Drug A is 100% effective and Drug B decreases the seizure threshold, resulting in more seizures than expected 5/150 = 3.3%</p>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>  seizure no_seizure
+A       0        150
+B       5        145</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Fisher's Exact Test for Count Data
+
+data:  study.data
+p-value = 0.06042
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.000000 1.077191
+sample estimates:
+odds ratio 
+         0 </code></pre>
+</div>
+</div>
+<p>In this scenario, Fisher’s exact test still does not demonstrate a statistically significant differene between groups.</p>
+</section>
+<section id="scenario-3" class="slide level2">
+<h2>Scenario 3</h2>
+<p>In this scenario, Drug A is 100% effective and Drug B decreases the seizure threshold, doubling the number of seizures:</p>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>  seizure no_seizure
+A       0        150
+B       6        144</code></pre>
+</div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+    Fisher's Exact Test for Count Data
+
+data:  study.data
+p-value = 0.0297
+alternative hypothesis: true odds ratio is not equal to 1
+95 percent confidence interval:
+ 0.0000000 0.8337829
+sample estimates:
+odds ratio 
+         0 </code></pre>
+</div>
+</div>
+<p>In this case, a study with 150 subjects per arm could detect a difference where one drug is 100% effective and the other drug doublesY the baseline seizure rate.</p>
+</section>
+<section id="power-calculation" class="slide level2">
+<h2>Power Calculation</h2>
+<p>Using the pwr package from R, in order to detect a difference between groups where one group has an event rate of 1% and the other group has an event rate of 2% (assuming 80% power and 0.05 significance):</p>
+<div class="cell">
+<div class="cell-output cell-output-stdout">
+<pre><code>
+     Difference of proportion power calculation for binomial distribution (arcsine transformation) 
+
+              h = 0.08345927
+              n = 2253.655
+      sig.level = 0.05
+          power = 0.8
+    alternative = two.sided
+
+NOTE: same sample sizes</code></pre>
+</div>
+</div>
+<p>These calculations suggest a study size of 2,253 patients per arm would be required.</p>
+</section>
+<section id="conclusion" class="slide level2">
+<h2>Conclusion</h2>
+<p>A trial with 150 subject per arm and a baseline event rate of 2% is not powered to detect a difference between arms except with the most wildly optimistic of assumptions regarding the differences between arms.</p>
+
+
+</section></section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
