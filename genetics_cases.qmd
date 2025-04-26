@@ -556,10 +556,6 @@ Correct answer, wrong century (not the 22nd)
 
 
 
-## Irreversible Electroporation
-
-![](https://www.mcgill.ca/oss/files/oss/styles/hd/public/frankenstein3.jpg)
-
 
 [Case 2]
 
