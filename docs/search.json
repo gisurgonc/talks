@@ -8811,5 +8811,698 @@
     "title": "Sample Size",
     "section": "Power Calculation",
     "text": "Power Calculation\nUsing the pwr package from R, in order to detect a difference between groups where one group has an event rate of 1% and the other group has an event rate of 2% (assuming 80% power and 0.05 significance):\n\n\n\n     Difference of proportion power calculation for binomial distribution (arcsine transformation) \n\n              h = 0.08345927\n              n = 2253.655\n      sig.level = 0.05\n          power = 0.8\n    alternative = two.sided\n\nNOTE: same sample sizes\n\n\nThese calculations suggest a study size of 2,253 patients per arm would be required."
+  },
+  {
+    "objectID": "eso_nonop.htm#locally-advanced-esophageal-cancer",
+    "href": "eso_nonop.htm#locally-advanced-esophageal-cancer",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Locally-advanced Esophageal Cancer",
+    "text": "Locally-advanced Esophageal Cancer\n\n\nOptimal Therapy for locally-advanced esophageal cancer:\n\nNeoadjuvant Therapy\nChemoradiation (CROSS)\nChemtherapy (FLOT)\nEsophagectomy"
+  },
+  {
+    "objectID": "eso_nonop.htm#section",
+    "href": "eso_nonop.htm#section",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "",
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;nutrition(Nutrition)\n\nB--&gt; C[Gastric Rx Options]\nB--&gt; D[Eso Rx Options]\n\nD--&gt;E[Eso Early Stage]\nD--&gt;F[Eso Advanced]\n\n\nE--&gt;eso_surgery[Esophagectomy]\nE--&gt;J[Eso ACA Locally Advanced]\n\nF--&gt;I[GE Metastatic]\nF--&gt;J\nF--&gt;K[Eso SCCA Locally Advanced]\n\nnutrition--&gt; jejunostomy[Jejunostomy]\nnutrition--&gt; gastrostomy[Gastrostomy]\n\nI--&gt;L[CV Port]\n\nK--&gt;L\nK--&gt;nutrition\n\nJ --&gt;eso_surgery[Esophagectomy]\nJ --&gt;nutrition\n\nexercise[Exercise]\n\neso_surgery--&gt;surgeon(surgeon)\neso_surgery--&gt;exercise\n\nclick A \"lci_intro.html\"\nclick B \"ge_dx_staging.html\"\nclick C \"gastric_rx_options.html\"\nclick D \"eso_rx_options.html\"\nclick E \"eso_advanced.html\"\nclick F \"eso_advanced.html\"\nclick G \"endoscopic_rx.html\"\nclick eso_surgery \"eso_surgery.html\"\nclick I \"ge_metastatic.html\"\nclick J \"eso_aca_locally_advanced.html\"\nclick K \"eso_scca_locally_advanced.html\"\nclick L \"cv_port.html\"\nclick nutrition \"nutrition.html\"\nclick jejunostomy \"jejunostomy.html\"\nclick gastrostomy \"gastrostomy.html\"\nclick exercise \"exercise.html\""
+  },
+  {
+    "objectID": "eso_nonop.htm#ivor-lewis-transthoracic-esophagectomy",
+    "href": "eso_nonop.htm#ivor-lewis-transthoracic-esophagectomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Ivor Lewis (Transthoracic) Esophagectomy",
+    "text": "Ivor Lewis (Transthoracic) Esophagectomy\n\n\n\nRemoves tumor and lower 1/3 esophagus\nRemoves surrounding lymph nodes\nGI tract reconstructed"
+  },
+  {
+    "objectID": "eso_nonop.htm#reconstruction",
+    "href": "eso_nonop.htm#reconstruction",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Reconstruction",
+    "text": "Reconstruction\n\n\nNew esophagus is created from the stomach in the abdomen by fashioning it into a tube."
+  },
+  {
+    "objectID": "eso_nonop.htm#ivor-lewis-esophagectomy",
+    "href": "eso_nonop.htm#ivor-lewis-esophagectomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Ivor Lewis esophagectomy",
+    "text": "Ivor Lewis esophagectomy\n\n\nThe new esophagus is now brought up into the chest. An anastomosis is made in the chest between the esophagus and the stomach"
+  },
+  {
+    "objectID": "eso_nonop.htm#minimally-invasive-ivor-lewis",
+    "href": "eso_nonop.htm#minimally-invasive-ivor-lewis",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Minimally-invasive Ivor Lewis",
+    "text": "Minimally-invasive Ivor Lewis\n\n\n\nSmall incisions abdomen and chest\nSurgical telescope and instruments\nSmaller incisions \\(\\rightarrow\\) faster recovery and less discomfort"
+  },
+  {
+    "objectID": "eso_nonop.htm#minimally-invasive-esophagectomy",
+    "href": "eso_nonop.htm#minimally-invasive-esophagectomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Minimally-invasive Esophagectomy",
+    "text": "Minimally-invasive Esophagectomy"
+  },
+  {
+    "objectID": "eso_nonop.htm#minimally-invasive-esophagectomy-1",
+    "href": "eso_nonop.htm#minimally-invasive-esophagectomy-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit constructed with linear stapler"
+  },
+  {
+    "objectID": "eso_nonop.htm#minimally-invasive-esophagectomy-2",
+    "href": "eso_nonop.htm#minimally-invasive-esophagectomy-2",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit transposed into chest"
+  },
+  {
+    "objectID": "eso_nonop.htm#minimally-invasive-esophagectomy-3",
+    "href": "eso_nonop.htm#minimally-invasive-esophagectomy-3",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit transposed into chest\nCircular stapler used to construct anastomosis"
+  },
+  {
+    "objectID": "eso_nonop.htm#minimally-invasive-esophagectomy-4",
+    "href": "eso_nonop.htm#minimally-invasive-esophagectomy-4",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Minimally-invasive esophagectomy",
+    "text": "Minimally-invasive esophagectomy\n\n\nGastric conduit transposed into chest\nCircular stapler used to construct anastomosis\nCompleted anastomosis"
+  },
+  {
+    "objectID": "eso_nonop.htm#open-ivor-lewis",
+    "href": "eso_nonop.htm#open-ivor-lewis",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Open Ivor Lewis",
+    "text": "Open Ivor Lewis\n\n\nMininally-invasive approach feasible in 95% of cases\nThoracotomy in 3%\nLaparotomy in 2%"
+  },
+  {
+    "objectID": "eso_nonop.htm#total-esophagectomy",
+    "href": "eso_nonop.htm#total-esophagectomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Total Esophagectomy",
+    "text": "Total Esophagectomy\n\n\nFor patients with tumors in the upper esophagus, additional esophagus is removed and anastomosis performed in the neck"
+  },
+  {
+    "objectID": "eso_nonop.htm#mckeown-esophagectomy",
+    "href": "eso_nonop.htm#mckeown-esophagectomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "McKeown Esophagectomy",
+    "text": "McKeown Esophagectomy\n\n\n Total esophagectomy\n\n Cervical anastomosis"
+  },
+  {
+    "objectID": "eso_nonop.htm#colon-interposition",
+    "href": "eso_nonop.htm#colon-interposition",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition\n\n\nIf the stomach is not suitable to use as a conduit, the colon can be used to replace the esophagus"
+  },
+  {
+    "objectID": "eso_nonop.htm#colon-interposition-1",
+    "href": "eso_nonop.htm#colon-interposition-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Colon Interposition",
+    "text": "Colon Interposition"
+  },
+  {
+    "objectID": "eso_nonop.htm#esophagectomy-complications",
+    "href": "eso_nonop.htm#esophagectomy-complications",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Esophagectomy Complications",
+    "text": "Esophagectomy Complications\n\nDelayed gastric empyting\nAspiration due to pharyngeal dysphagia\nAnastomotic leak (8%)\nPneumonia (10%)\nAtrial Fibrillation (20%)\nMyocardial Infarction (5%)\nChylothorax (5%)"
+  },
+  {
+    "objectID": "eso_nonop.htm#gastric-emptying-after-esophagectomy",
+    "href": "eso_nonop.htm#gastric-emptying-after-esophagectomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Gastric emptying after Esophagectomy",
+    "text": "Gastric emptying after Esophagectomy\nVagus nerve normally stimulates gastric emptying\nEsophagectomy require dividing the vagus nerve\nEsophagectomy can cause delayed gastric emptying\n\nNasogastric tube decompressed gastric conduit"
+  },
+  {
+    "objectID": "eso_nonop.htm#evaluation-of-gastric-emptying",
+    "href": "eso_nonop.htm#evaluation-of-gastric-emptying",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Evaluation of Gastric Emptying",
+    "text": "Evaluation of Gastric Emptying\nUpper GI evaluates gastric emptying\n\nInitial study on POD #2/3/4\nPatient stands in fluoroscopy\nIsovue injected via NG tube\n\nIf stomach empties well \\(\\rightarrow\\) NG tube removed\nIf stomach does not empty \\(\\rightarrow\\) repeat study in 2 days"
+  },
+  {
+    "objectID": "eso_nonop.htm#swallowing-evaluation",
+    "href": "eso_nonop.htm#swallowing-evaluation",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Swallowing Evaluation",
+    "text": "Swallowing Evaluation\n30% of patients have abnormal swallowing after esophagectomy\n\\(\\rightarrow\\) Risk for aspiration pneumonia\nLikely due to disuse atrophy of swallowing muscles\n\nAdvanced age\nProlonged NPO after surgery\nNPO prior to surgery due to esophageal obstruction"
+  },
+  {
+    "objectID": "eso_nonop.htm#swallowing-evaluation-1",
+    "href": "eso_nonop.htm#swallowing-evaluation-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Swallowing Evaluation",
+    "text": "Swallowing Evaluation\nModified Barium Swallow performed after NG tube removed\nPossible Outcomes:\n\nNo aspiration with all consistencies “Pass” - 70%\nAspiration of thin liquids but OK for moderately thick liquids - 15%\nAspiration with moderately thick liquids - 15%"
+  },
+  {
+    "objectID": "eso_nonop.htm#modified-barium-swallow-pass",
+    "href": "eso_nonop.htm#modified-barium-swallow-pass",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Modified Barium Swallow “Pass”",
+    "text": "Modified Barium Swallow “Pass”\n70% Pass - started with oral liquids 1oz/hour\n\nAdvanced to protein shakes 2oz/hour if water tolerated\nAdvanced to protein shakes 4oz/hour if 2oz tolerated\n\nPatients discharged taking water, Gatorade, and protein shakes orally"
+  },
+  {
+    "objectID": "eso_nonop.htm#modified-barium-swallow-fail",
+    "href": "eso_nonop.htm#modified-barium-swallow-fail",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Modified Barium Swallow “Fail”",
+    "text": "Modified Barium Swallow “Fail”\nPatients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water.\nPatients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube.\nMBS is repeated every 3-4 days until discharge"
+  },
+  {
+    "objectID": "eso_nonop.htm#anastomotic-leak",
+    "href": "eso_nonop.htm#anastomotic-leak",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nAnastomosis can be performed:\nTotal esophagectomy: Cervical anastomosis\nPartial esophagectomy: Thoracic anastomosis"
+  },
+  {
+    "objectID": "eso_nonop.htm#anastomotic-leak-1",
+    "href": "eso_nonop.htm#anastomotic-leak-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf healing of anastomosis doesn’t occur:\n\nLeakage of fluid from the esophagus\nMediastinitis\nAmylase can be detected in drain fluid"
+  },
+  {
+    "objectID": "eso_nonop.htm#anastomotic-leak-2",
+    "href": "eso_nonop.htm#anastomotic-leak-2",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Anastomotic Leak",
+    "text": "Anastomotic Leak\n\n\nIf leak occurs:\n\nSome leaks will seal with conservative management\nStent may be required to help healing\nAdditional surgery rarely required"
+  },
+  {
+    "objectID": "eso_nonop.htm#drain-amylase-for-leak-detection",
+    "href": "eso_nonop.htm#drain-amylase-for-leak-detection",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Drain Amylase for Leak Detection",
+    "text": "Drain Amylase for Leak Detection\n\n\nThoracic anastomosis\n\nUsually leaks into the right chest\n\nJP#2 drains the right chest\n\n\nCerfical anastomosis\n\nUsually leaks into the neck\n\nJP#4 drains the neck incision\n\n\nUsually start checking drain amylase on 4th-8th postop days"
+  },
+  {
+    "objectID": "eso_nonop.htm#ct-esophagram-to-detect-anastomotic-leak",
+    "href": "eso_nonop.htm#ct-esophagram-to-detect-anastomotic-leak",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CT esophagram to detect Anastomotic Leak",
+    "text": "CT esophagram to detect Anastomotic Leak\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nRadiologist looks for contrast extravisation from esophagus"
+  },
+  {
+    "objectID": "eso_nonop.htm#ct-esophagram-with-ng-tube-in-place",
+    "href": "eso_nonop.htm#ct-esophagram-with-ng-tube-in-place",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CT Esophagram with NG tube in place",
+    "text": "CT Esophagram with NG tube in place\n\n\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan performed to identify location of tip of NG tube relative to the anastomosis\nRadiologist measures distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 113 - 6 = 7cm\nNG tube manipulation done by RN or physician"
+  },
+  {
+    "objectID": "eso_nonop.htm#ng-tube-withdrawl---amt-bridle",
+    "href": "eso_nonop.htm#ng-tube-withdrawl---amt-bridle",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "NG Tube Withdrawl - AMT Bridle",
+    "text": "NG Tube Withdrawl - AMT Bridle\n\n\nNG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.\nIn order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
+  },
+  {
+    "objectID": "eso_nonop.htm#ct-esophagram---full-sequence",
+    "href": "eso_nonop.htm#ct-esophagram---full-sequence",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CT esophagram - Full Sequence",
+    "text": "CT esophagram - Full Sequence\nScout CT Scan obtained and NG position measured\nNG tube withdrawn by RN/physicin\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nNG tube returned to prior position"
+  },
+  {
+    "objectID": "eso_nonop.htm#ct-esophagram-without-ng-tube",
+    "href": "eso_nonop.htm#ct-esophagram-without-ng-tube",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CT Esophagram without NG tube",
+    "text": "CT Esophagram without NG tube\nFor patients who have had their NG tube removed, oral contrast can be given for CT esophagram if they have passed their Modified Barium Swallow.\nFor patients who have their NG removed and have not been cleared for thin liquids by Modified Barium Swallow, CT esophagram carries a risk of aspiration.\n\\(\\Rightarrow\\) NG tube removal is delayed for patients with:\n\nElevated drain amylase\nLeukocytosis\nFevers\nProlonged ventilation\n\n… until CT esophagram confirms that there is no evidence of leak"
+  },
+  {
+    "objectID": "eso_nonop.htm#leak-of-cervical-anastomosis",
+    "href": "eso_nonop.htm#leak-of-cervical-anastomosis",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Leak of Cervical Anastomosis",
+    "text": "Leak of Cervical Anastomosis\n\nElevated drain amylase (JP#4)\nCloudy drain fluid\nCervical wound infection\n\nLeak can frequently be treated by opening neck incision at the bedside\nBarium swallow best study to look for leak"
+  },
+  {
+    "objectID": "eso_nonop.htm#pneumonia",
+    "href": "eso_nonop.htm#pneumonia",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Pneumonia",
+    "text": "Pneumonia\n\n\nPneumonia occurs in 10% of patients after esophagectomy.\n\nRisk 5% in a patients with normal muscle mass\nRisk 20% in patients with low muscle mass"
+  },
+  {
+    "objectID": "eso_nonop.htm#preventing-pneumonia",
+    "href": "eso_nonop.htm#preventing-pneumonia",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Preventing Pneumonia",
+    "text": "Preventing Pneumonia\nSeveral ways to help prevent pneumonia:\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+  },
+  {
+    "objectID": "eso_nonop.htm#atrial-arrhythmia",
+    "href": "eso_nonop.htm#atrial-arrhythmia",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Atrial arrhythmia",
+    "text": "Atrial arrhythmia\nAtrial fibrillation (and other arrhythmias)\nPrevention – beta blockade/amiodarone\nDiagnosis – EKG monitoring\nTreatment – amiodarone, β blockade"
+  },
+  {
+    "objectID": "eso_nonop.htm#risks-of-cervical-anastomosis",
+    "href": "eso_nonop.htm#risks-of-cervical-anastomosis",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Risks of Cervical Anastomosis",
+    "text": "Risks of Cervical Anastomosis\nRecurrent laryngeal nerve palsy\n\nHoarse voice\nDiagnosis by FEES (speech therapy)\nRisk of aspiration\n\nRLN palsy generally improves over time\nMay require medialization of the affected cord"
+  },
+  {
+    "objectID": "eso_nonop.htm#risks-of-surgery",
+    "href": "eso_nonop.htm#risks-of-surgery",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\nRisks related to Surgery\n\nAnastomotic leak (5%)\nStricture at anastomosis (15%)\nDeath within 90 days of surgery\n\nLow risk patients = 2%\nIntermediate risk = 10%\nHigh risk = 30%"
+  },
+  {
+    "objectID": "eso_nonop.htm#risks-of-surgery-1",
+    "href": "eso_nonop.htm#risks-of-surgery-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Risks of Surgery",
+    "text": "Risks of Surgery\n\nRisks of Death within 90 Days of Surgery\n\n\n\nAge &lt;75\nAge &gt;75\n\n\n\n\nNormal Muscle (75%)\n2%\n10%\n\n\nLow Muscle (25%)\n10%\n30%"
+  },
+  {
+    "objectID": "eso_nonop.htm#thoracic-epidural-catheter",
+    "href": "eso_nonop.htm#thoracic-epidural-catheter",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Thoracic Epidural Catheter",
+    "text": "Thoracic Epidural Catheter\n\nManaged by Anesthesia Pain Service\nFoley catheter removed after epidural out\nCan cause hypotension due to sympathectomy effect"
+  },
+  {
+    "objectID": "eso_nonop.htm#urinary-rention-with-epidural-catheter",
+    "href": "eso_nonop.htm#urinary-rention-with-epidural-catheter",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Urinary Rention with Epidural Catheter",
+    "text": "Urinary Rention with Epidural Catheter\nRandomized trial of early vs late removal of urenaty catheter after thoracic surgery\nEarly removal at 48hrs: 12% reinsertion\n\nOne urinary tract infection\n\nRemoval 6 hours after epidural removal: 3.2% reinsertion\n\nNo urinary tract infection in 126 patients\n\n\n\nMayo Clinic (allen925?)"
+  },
+  {
+    "objectID": "eso_nonop.htm#urinary-retention-with-epidural-catheter",
+    "href": "eso_nonop.htm#urinary-retention-with-epidural-catheter",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Urinary Retention with Epidural Catheter",
+    "text": "Urinary Retention with Epidural Catheter\nEarly urinary removal catheter protocol (48hrs) compared with historical controls\nEarly removal at 48hrs: 28% retention\n\nUrinary tract infection 1%\n\nRemoval 6 hours after epidural removal: 12.4% retention (p=0.003)\n\nUninary tracdt infection 3.2% (p=0.28)\n\n\n\nUniversity of Virginia (hu1302?)"
+  },
+  {
+    "objectID": "eso_nonop.htm#multimodality-pain-management",
+    "href": "eso_nonop.htm#multimodality-pain-management",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Multimodality Pain Management",
+    "text": "Multimodality Pain Management\n\nMorphine or Dilaudid PCA\nAcetaminophen 1000mg q6 hours ATC (not prn)\nGabapentin 300mg tid\nOxycodone elixir via jejunostomy\nNo Toradol or non-steroidal anti-inflammatories"
+  },
+  {
+    "objectID": "eso_nonop.htm#thoracic-duct",
+    "href": "eso_nonop.htm#thoracic-duct",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Thoracic Duct",
+    "text": "Thoracic Duct\n\n\nThoracic duct transport dietary fat absorbed from intestine\nFat is packaged in lipid micelles\nSimilar to how fat is kept in suspension in milk"
+  },
+  {
+    "objectID": "eso_nonop.htm#thoracic-duct-1",
+    "href": "eso_nonop.htm#thoracic-duct-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Thoracic Duct",
+    "text": "Thoracic Duct\n\n\nThoracic duct carries clear fluid between meals, so injury is easy in the operating room\nInjury causes leakage of chylous fluid\nWhen patient starts eating, this fluid will turn milky"
+  },
+  {
+    "objectID": "eso_nonop.htm#thoracic-duct-leak",
+    "href": "eso_nonop.htm#thoracic-duct-leak",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Thoracic Duct Leak",
+    "text": "Thoracic Duct Leak\n\n\nThoracic duct leak \\(\\rightarrow\\) milky fluid in JP drains\n\nTest for triglycerides (to confirm chylous leak)\nAlso test for amylase (to confirm no leak)"
+  },
+  {
+    "objectID": "eso_nonop.htm#thoracic-duct-leak-treatment",
+    "href": "eso_nonop.htm#thoracic-duct-leak-treatment",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Thoracic Duct Leak Treatment",
+    "text": "Thoracic Duct Leak Treatment\n\n\n\nLow fat diet\nMidodrine 5mg po/jejunostomy tid\nThoracic duct embolization\nSurgical thoracic duct ligation"
+  },
+  {
+    "objectID": "eso_nonop.htm#jejunostomy-small-bowel-necrosis",
+    "href": "eso_nonop.htm#jejunostomy-small-bowel-necrosis",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Jejunostomy Small Bowel Necrosis",
+    "text": "Jejunostomy Small Bowel Necrosis\nAmong patients with a new jejunostomy tube:\n1% incidence of necrosis (gangrene) of the jejunum\nThought to be due to demand ischemia\nCan lead to bowel perforation\nMore likely when major surgery is performed along with jejunostomy"
+  },
+  {
+    "objectID": "eso_nonop.htm#jejunal-necrosis---cincinnati-series",
+    "href": "eso_nonop.htm#jejunal-necrosis---cincinnati-series",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Jejunal Necrosis - Cincinnati Series",
+    "text": "Jejunal Necrosis - Cincinnati Series\nEight patients over 14 years age 50-74\n\nPancreatectomy (n=6)\nEsophagectomy (n=2)\n\nPresentation 4 days after starting feeds:\n\nAbdominal pain and distension\nTachycardia\nHypotension\nLeukocytosis"
+  },
+  {
+    "objectID": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy",
+    "href": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42,000\nCT: Pneumatosis of small bowel"
+  },
+  {
+    "objectID": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-1",
+    "href": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumatosis of small bowel"
+  },
+  {
+    "objectID": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-2",
+    "href": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-2",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis"
+  },
+  {
+    "objectID": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-3",
+    "href": "eso_nonop.htm#case-study-54f-sp-total-gastrectomy-jejunostomy-3",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Case Study: 54F s/p total gastrectomy + jejunostomy",
+    "text": "Case Study: 54F s/p total gastrectomy + jejunostomy\n\n\nPostop Day 4: Abdominal distension and pain\nWBC: 42, 000\nCT: Pneumoatosis of small bowel\nOR: Segment of jejunum with patchy necrosis\nSegmental resection of jejunum."
+  },
+  {
+    "objectID": "eso_nonop.htm#jejunostomy-associated-small-bowel-necrosis",
+    "href": "eso_nonop.htm#jejunostomy-associated-small-bowel-necrosis",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Jejunostomy-associated Small Bowel Necrosis",
+    "text": "Jejunostomy-associated Small Bowel Necrosis\n\n\nKey lessons:\n\nEarly diagnosis is critical: Stop Tube Feeds!\nSubtle signs: distension or increased pain\nCT scan is diagnostic\nAdvance tube feeds slowly until flatus\nCritical period is first 5 days postop"
+  },
+  {
+    "objectID": "eso_nonop.htm#nutritional-consequences-of-esophagectomy",
+    "href": "eso_nonop.htm#nutritional-consequences-of-esophagectomy",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Nutritional Consequences of Esophagectomy",
+    "text": "Nutritional Consequences of Esophagectomy\nOropharyngeal\n\nDsyphagia and aspiration due to muscle wasting\n\nGastric\n\nSmall capacity of gastric conduit\nDelayed gastric emptying\n\nIntestinal - Tube feeding intolerance\nMetabolic demand:\n\nIncreased metabolic needs due to healing\nPreoperative nutritional deficit"
+  },
+  {
+    "objectID": "eso_nonop.htm#gastric-emptying---medical-strategies",
+    "href": "eso_nonop.htm#gastric-emptying---medical-strategies",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Gastric Emptying - Medical Strategies",
+    "text": "Gastric Emptying - Medical Strategies\nMetoclopramine (Reglan®) – 10mg po/iv q6hrs\n\nSide effects\n\nDystonic reaction (esp in young)\nTardive Dyskinesia (&lt;1%)\n\n\nMirtazapine (Remeron®) 15mg po qHs\n\nAnti-depressant promotes gastric emptying\nCan cause vivid dreams"
+  },
+  {
+    "objectID": "eso_nonop.htm#jejunostomy-feedings",
+    "href": "eso_nonop.htm#jejunostomy-feedings",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Jejunostomy Feedings",
+    "text": "Jejunostomy Feedings\nOsmolite 1.5 starting POD#1 at 30mL/hr\n\nIncreased once bowel function returns (flatus)\nIncreased 10mL/hour every 12 hours (continuous)\nConverted to nocturnal (6pm to 10am)\n\nVital High Protein for BMI &gt;35\n\ndecreased CHO/calorie content\nincreased protein"
+  },
+  {
+    "objectID": "eso_nonop.htm#jejunostomy-feedings-1",
+    "href": "eso_nonop.htm#jejunostomy-feedings-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Jejunostomy Feedings",
+    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (4pm-10am)\nFree Water Flushes:\nMost patients can tolerate 240mL (8oz) warm water bolus via syringe into j-tube at a time."
+  },
+  {
+    "objectID": "eso_nonop.htm#free-water",
+    "href": "eso_nonop.htm#free-water",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Free Water",
+    "text": "Free Water\nJejunostomy tube flushed in am\nFree water flushes: 240mL q4 hours while awake (qid)\nFree water can help prevent tube clogging or constipation\nPatients will need instruction on flushing tube"
+  },
+  {
+    "objectID": "eso_nonop.htm#osmolite-1.5",
+    "href": "eso_nonop.htm#osmolite-1.5",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Osmolite 1.5",
+    "text": "Osmolite 1.5\nNutritionally complete standard formula\n\nHigh caloric density\nDoes not contain fiber\nReduces risk of clogging tube\nMedium Chain Triglycerides (20%)\nHCPCS Code: B4152"
+  },
+  {
+    "objectID": "eso_nonop.htm#vital-1.5",
+    "href": "eso_nonop.htm#vital-1.5",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Vital 1.5",
+    "text": "Vital 1.5\n\nNutritionally complete elemental formula -\nAppropriate for impaired GI function, malabsorption, or diarrhea\nContains FOS fiber\n\nPromotes healthy gut flora\nProteins enzymatically hydrolyzed -\nPromote gastric emptying\n\nMedium Chain Triglycerides (50%) -\nHCPCS Code: B4153"
+  },
+  {
+    "objectID": "eso_nonop.htm#vital-high-protein",
+    "href": "eso_nonop.htm#vital-high-protein",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Vital High Protein",
+    "text": "Vital High Protein\nNutritionally Complete elemental Formula\n\nAppropriate for patients with BMI &gt;35\nMedium Chain Triglyceries (50%)\nHCPCS Code: B4153"
+  },
+  {
+    "objectID": "eso_nonop.htm#jenunostomy-tube-feed-intolerance",
+    "href": "eso_nonop.htm#jenunostomy-tube-feed-intolerance",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Jenunostomy Tube Feed Intolerance",
+    "text": "Jenunostomy Tube Feed Intolerance\nDiarrhea, bloating, or cramps\n\nCheck clostridium Difficile\nSwitch formulas (Osmolite 1.5 →Vital 1.5)\nCautious use of anti-motility agents (eg Lomotil)"
+  },
+  {
+    "objectID": "eso_nonop.htm#diabetic-patients-on-jejunostomy-feeds",
+    "href": "eso_nonop.htm#diabetic-patients-on-jejunostomy-feeds",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Diabetic Patients on Jejunostomy Feeds",
+    "text": "Diabetic Patients on Jejunostomy Feeds\nDiabetic patients may have more problems with elevated blood sugars with jejunostomy feeds:\n\nFood bypasses duodenum\nLess stimulation of pancreatic insulin secretion\n\nMay need long-acting insulin during tube feeds\nExample regimen:\n\n10 Units 70/30 at 6 pm\n10 Units 70/30 at MN\n\nEarly consultations with endocrinology"
+  },
+  {
+    "objectID": "eso_nonop.htm#diabetic-patients---transition-to-nocturnal-feeds",
+    "href": "eso_nonop.htm#diabetic-patients---transition-to-nocturnal-feeds",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Diabetic Patients - Transition to Nocturnal Feeds",
+    "text": "Diabetic Patients - Transition to Nocturnal Feeds\nWhen patients leave the ICU, they will be on continuous tube feeds\nContinuous insulin regimen of q6 (2N+1R)\n\neg: 10 units N + 5 units R q6 hours\n\nMost patients will be transitioned to nocturnal feeds when on the ward"
+  },
+  {
+    "objectID": "eso_nonop.htm#insulin---transition-to-nocturnal-feeds",
+    "href": "eso_nonop.htm#insulin---transition-to-nocturnal-feeds",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Insulin - Transition to Nocturnal Feeds",
+    "text": "Insulin - Transition to Nocturnal Feeds\nTube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). \nInsulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:\nTube feeds stopped 12pm & check blood sugar\nq6 hr insulin discontinued when tube feeds stopped\nNoon dose of insulin is held\nNocturnal tube feeds started at 6pm\nNocturnal insulin given at 6pm as ordered\nNocturnal insulin given at MN if ordered"
+  },
+  {
+    "objectID": "eso_nonop.htm#oral-nutrition",
+    "href": "eso_nonop.htm#oral-nutrition",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Oral Nutrition",
+    "text": "Oral Nutrition\nOnce cleared for liquis by passing MBS:\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if tolerated\nProtein shakes 4oz at a time if tolerated"
+  },
+  {
+    "objectID": "eso_nonop.htm#diet-orders",
+    "href": "eso_nonop.htm#diet-orders",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Diet Orders",
+    "text": "Diet Orders\nIn general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids.\nOrdered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.\nSupplement Task Order is noted as “Supplement Regimen” and comes up as a nursing task, up to TID"
+  },
+  {
+    "objectID": "eso_nonop.htm#diet-orders-1",
+    "href": "eso_nonop.htm#diet-orders-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Diet Orders",
+    "text": "Diet Orders\nNPO Diet Continue Tube Feeds. Under “Special Instructions”, one of the following is entered:\n\nMedicines with thickened water\nWater 1oz per hour + meds with water\nEnsure High Protein 2oz per hour + Water 1oz per hour + meds with water\n\nThe above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient."
+  },
+  {
+    "objectID": "eso_nonop.htm#diet-orders-preop-npo",
+    "href": "eso_nonop.htm#diet-orders-preop-npo",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Diet Orders Preop NPO",
+    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR need an order for “NPO after MN” and their tube feeds should be held at midnight."
+  },
+  {
+    "objectID": "eso_nonop.htm#nutrition-summary",
+    "href": "eso_nonop.htm#nutrition-summary",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Nutrition Summary",
+    "text": "Nutrition Summary\n\nEvaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time)\nEmphasize fluid as the patient transitions to 100% oral/tube hydration\nMonitor tolerance to full liquids prior to discharge\nAssure blood sugars are checked & controlled"
+  },
+  {
+    "objectID": "eso_nonop.htm#enteral-feeding-bag-details",
+    "href": "eso_nonop.htm#enteral-feeding-bag-details",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Enteral Feeding Bag Details",
+    "text": "Enteral Feeding Bag Details\n\nHome ePump bags can fit approximately 1000mL (4 cartons) of tube feeding\nOpen system; poured into top of bag\nAll connections should now be EnFit\nSyringes for water flush\nInfusion bag/tubing"
+  },
+  {
+    "objectID": "eso_nonop.htm#patient-education-needs",
+    "href": "eso_nonop.htm#patient-education-needs",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Patient Education Needs",
+    "text": "Patient Education Needs\nPost-esophagectomy diet\nAnti-dumping diet\nEnteral Feeding\nEnteral feeding pump\nMedication administration via tube\nFree water flushing\nDiabetic management"
+  },
+  {
+    "objectID": "eso_nonop.htm#discharge-pod-67",
+    "href": "eso_nonop.htm#discharge-pod-67",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Discharge POD #6/#7",
+    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nCoumadin or anticoagulation (if in atrial fibrillation)"
+  },
+  {
+    "objectID": "eso_nonop.htm#discharge-planning",
+    "href": "eso_nonop.htm#discharge-planning",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Discharge Planning",
+    "text": "Discharge Planning\nJejunostomy tube feedings\n\nPump mangement\nFree water flushes\n\nMedications: Who is managing new meds?\nHome infusion: orders for tube feed formula/rate/duration\nHome nursing: Postop visit"
+  },
+  {
+    "objectID": "eso_nonop.htm#patient-instructions",
+    "href": "eso_nonop.htm#patient-instructions",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Patient Instructions",
+    "text": "Patient Instructions\nDriving: - Off narcotics and pain-free\nShowering: - OK to shower at home - No tub bath or swimming for 2 weeks\nActivity:\n\nNo lifting &gt;10# for 6 weeks\nOK to resume aerobic activity immediately"
+  },
+  {
+    "objectID": "eso_nonop.htm#postop-office-visit",
+    "href": "eso_nonop.htm#postop-office-visit",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Postop Office Visit",
+    "text": "Postop Office Visit\n\nReview pathology\nWean beta blockers\nAdjust anti-hypertensives\nCheck wounds\nCheck for pleural effusion\nReduce tube feeds\nAdvance diet"
+  },
+  {
+    "objectID": "eso_nonop.htm#minimally-invasive-esophagectomy-acknowledgements",
+    "href": "eso_nonop.htm#minimally-invasive-esophagectomy-acknowledgements",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Minimally-invasive esophagectomy Acknowledgements",
+    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic"
+  },
+  {
+    "objectID": "eso_nonop.htm#orientation-manual",
+    "href": "eso_nonop.htm#orientation-manual",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Orientation Manual",
+    "text": "Orientation Manual"
+  },
+  {
+    "objectID": "eso_nonop.htm#references",
+    "href": "eso_nonop.htm#references",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "References",
+    "text": "References\n\n\n\n\nGI Surgical Oncology Talks\n\n\n\n\nShapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. “Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (CROSS): Long-Term Results of a Randomised Controlled Trial.” The Lancet. Oncology 16 (9): 1090–98. https://doi.org/10.1016/S1470-2045(15)00040-6."
+  },
+  {
+    "objectID": "eso_nonop.htm#cross-trial",
+    "href": "eso_nonop.htm#cross-trial",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS Trial",
+    "text": "CROSS Trial\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nage \\(\\tilde{x}\\)=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\nCROSS Trial Details\nChemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.htm#cross-pathologic-complete-response",
+    "href": "eso_nonop.htm#cross-pathologic-complete-response",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS: Pathologic Complete Response",
+    "text": "CROSS: Pathologic Complete Response\nAdenocarcinoma: pCR in 23%\nSquamous cell carcinoma: pCR in 49%\n\\(\\Rightarrow\\) Can some patients be spared surgery?\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.htm#cross",
+    "href": "eso_nonop.htm#cross",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS",
+    "text": "CROSS\nThe median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p &lt; 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p &lt; 0.001)."
+  },
+  {
+    "objectID": "eso_nonop.htm#cross---overall-survival",
+    "href": "eso_nonop.htm#cross---overall-survival",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Overall Survival",
+    "text": "CROSS - Overall Survival\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.htm#cross---survival-by-histology",
+    "href": "eso_nonop.htm#cross---survival-by-histology",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Survival by Histology",
+    "text": "CROSS - Survival by Histology\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.htm#cross---adenocarcinooma",
+    "href": "eso_nonop.htm#cross---adenocarcinooma",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Adenocarcinooma",
+    "text": "CROSS - Adenocarcinooma\nMedian survival 43mo vs 27mo\nPathologic complete response in 23%"
+  },
+  {
+    "objectID": "eso_nonop.htm#cross---squamous-cell-carcinoma",
+    "href": "eso_nonop.htm#cross---squamous-cell-carcinoma",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Squamous cell carcinoma",
+    "text": "CROSS - Squamous cell carcinoma\nMedian survival 82mo vs 21mo\nPathologic complete response in 49%\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.htm#cross-locally-advanced-esophageal-cancer",
+    "href": "eso_nonop.htm#cross-locally-advanced-esophageal-cancer",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS: Locally-advanced Esophageal Cancer",
+    "text": "CROSS: Locally-advanced Esophageal Cancer\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nage \\(\\tilde{x}\\)=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.htm#section-1",
+    "href": "eso_nonop.htm#section-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "",
+    "text": "flowchart LR\nA[LCI Introduction] --&gt;B(GastroEsophageal Dx Staging)\nA--&gt;nutrition(Nutrition)\n\nB--&gt; C[Gastric Rx Options]\nB--&gt; D[Eso Rx Options]\n\nD--&gt;E[Eso Early Stage]\nD--&gt;F[Eso Advanced]\n\n\nE--&gt;eso_surgery[Esophagectomy]\nE--&gt;J[Eso ACA Locally Advanced]\n\nF--&gt;I[GE Metastatic]\nF--&gt;J\nF--&gt;K[Eso SCCA Locally Advanced]\n\nnutrition--&gt; jejunostomy[Jejunostomy]\nnutrition--&gt; gastrostomy[Gastrostomy]\n\nI--&gt;L[CV Port]\n\nK--&gt;L\nK--&gt;nutrition\n\nJ --&gt;eso_surgery[Esophagectomy]\nJ --&gt;nutrition\n\nexercise[Exercise]\n\neso_surgery--&gt;surgeon(surgeon)\neso_surgery--&gt;exercise\n\nclick A \"lci_intro.html\"\nclick B \"ge_dx_staging.html\"\nclick C \"gastric_rx_options.html\"\nclick D \"eso_rx_options.html\"\nclick E \"eso_advanced.html\"\nclick F \"eso_advanced.html\"\nclick G \"endoscopic_rx.html\"\nclick eso_surgery \"eso_surgery.html\"\nclick I \"ge_metastatic.html\"\nclick J \"eso_aca_locally_advanced.html\"\nclick K \"eso_scca_locally_advanced.html\"\nclick L \"cv_port.html\"\nclick nutrition \"nutrition.html\"\nclick jejunostomy \"jejunostomy.html\"\nclick gastrostomy \"gastrostomy.html\"\nclick exercise \"exercise.html\""
+  },
+  {
+    "objectID": "eso_nonop.htm#cross-trial-schema",
+    "href": "eso_nonop.htm#cross-trial-schema",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS Trial Schema",
+    "text": "CROSS Trial Schema\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\n\n\nC--&gt;I[Surgery]"
+  },
+  {
+    "objectID": "eso_nonop.htm#real-world-cross-schema",
+    "href": "eso_nonop.htm#real-world-cross-schema",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Real-World CROSS Schema",
+    "text": "Real-World CROSS Schema\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\nC --&gt;F[Fitness Evaluation]\n\nF--&gt; G[High Risk]\n\nF--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
+  },
+  {
+    "objectID": "eso_nonop.htm#real-world-cross-schema-1",
+    "href": "eso_nonop.htm#real-world-cross-schema-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Real-World CROSS Schema",
+    "text": "Real-World CROSS Schema\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nC --&gt;K[Persistent Disease]\n\nC --&gt;L[No Detectable Disease]\n\nL--&gt;N[Active Surveillance]\n\nN --&gt; O[Isolated Local Recurrence]\n\nO --&gt; M\n\nN --&gt; P[Metastatic Disease]\n\nP --&gt; E\n\nD --&gt; E[Systemic Therapy]\n\nK --&gt;M[Fitness Evaluation]\n\nM--&gt; G[High Risk]\n\nM--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
+  },
+  {
+    "objectID": "eso_nonop.htm#active-surveillance",
+    "href": "eso_nonop.htm#active-surveillance",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Active Surveillance",
+    "text": "Active Surveillance\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Clinical Response Evaluation]\n\nC --&gt;D[Metastatic Disease]\n\nC --&gt;K[Persistent Disease]\n\nC --&gt;L[No Detectable Disease]\n\nL--&gt;N[Active Surveillance]\n\nN --&gt; O[Isolated Local Recurrence]\n\nO --&gt; M\n\nN --&gt; P[Metastatic Disease]\n\nP --&gt; E\n\nD --&gt; E[Systemic Therapy]\n\nK --&gt;M[Fitness Evaluation]\n\nM--&gt; G[High Risk]\n\nM--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
+  },
+  {
+    "objectID": "eso_nonop.htm#sano-surgery-as-necessary-only",
+    "href": "eso_nonop.htm#sano-surgery-as-necessary-only",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "SANO (Surgery As Necessary Only)",
+    "text": "SANO (Surgery As Necessary Only)\n776 Patient with esophageal cancer enrolled\nTwo rounds of clinical response evaluation\n274 with Complete Clinical Response (35%) Randomized:\n\n156 Active Surveillance (\\(rightarrow\\) Surgery for local recurrence)\n118 Surgery\n\n\n\n(vanderwilk425?)"
+  },
+  {
+    "objectID": "eso_nonop.htm#sano-clinical-respone-evaluation",
+    "href": "eso_nonop.htm#sano-clinical-respone-evaluation",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "SANO Clinical Respone Evaluation",
+    "text": "SANO Clinical Respone Evaluation\nEGD at 6 weeks with bite-on-bite biopsies\nSecond evaluation at 12 weeks if first biopsies negative:\n\nPET\nEUS-FNA of suspected lymph nodes\nEGD with bite-on-bite biopsies"
+  },
+  {
+    "objectID": "eso_nonop.htm#clinical-response-evaluation",
+    "href": "eso_nonop.htm#clinical-response-evaluation",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Clinical Response Evaluation",
+    "text": "Clinical Response Evaluation\n761 First Clinical Response Evaluation (EGD)\n\n232 Isolated local disease\n40 Persistent stricture\n2 metastatic disease\n\n420 Second Clinical Response Evaluation (EGD+PET+FNA)\n\n115 Isolated local disease\n19 Persistent stricture\n40 metastatic disease\n\n\\(\\Rightarrow\\) 274 with clinical complete response (cCR)"
+  },
+  {
+    "objectID": "eso_nonop.htm#clinical-response-evaluation-1",
+    "href": "eso_nonop.htm#clinical-response-evaluation-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Clinical Response Evaluation",
+    "text": "Clinical Response Evaluation\n761 First Clinical Response Evaluation (EGD)\n\n232 Isolated local disease\n40 Persistent stricture\n2 metastatic disease\n\n420 Second Clinical Response Evaluation (EGD+PET+FNA)\n\n115 Isolated local disease\n19 Persistent stricture\n40 metastatic disease\n\n\\(\\Rightarrow\\) 115 Patient had local disease missed at first EGD"
+  },
+  {
+    "objectID": "eso_nonop.htm#persistent-disease",
+    "href": "eso_nonop.htm#persistent-disease",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Persistent disease",
+    "text": "Persistent disease\nSurgery performed with two weeks in patients without metastatic disease and:\n\nPositive EGD biopsies\nHigh-grade dysplasia on EGD\nStricture which prohibited passage of scope"
+  },
+  {
+    "objectID": "eso_nonop.htm#subsequent-evaluation",
+    "href": "eso_nonop.htm#subsequent-evaluation",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Subsequent Evaluation",
+    "text": "Subsequent Evaluation\n\nEvery 3 months in first year\nEvery 4 months in Year 2\nEvery 6 months in Year 3\nAnnually Years 4 and 5\n\nafter positive biopsies\nSecond evaluation at 12 weeks if first biopsies negative:\n\nPET\nEUS-FNA of suspected lymph nodes\nEGD with bite-on-bite biopsies"
   }
 ]
