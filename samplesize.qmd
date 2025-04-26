@@ -1,0 +1,24 @@
+---
+title: "Sample Size"
+---
+
+# Sample Size to Study Rare Events
+
+The hypothetical example is a study comparing two drugs with 152 participants in each arm.
+
+The primary outcome is whether a seizure develops after traumatic brain injury.  The estimated incidence of seizure is 2%
+
+Several hypothetical possible outcomes of the study are then arbitrarily generated.  For argument sake, the patients in the Drug A treatment arm experience 3 seizures.  Various *synthetic* data sets are then generated with between 0 and 10 seizures in the Drug B group.
+
+cohort
+
+# creating a data frame
+```{r}
+study.data <- data.frame(
+    seizure = c(3, 152-3), 
+    drug = c("A","B"),
+    stringsAsFactors = FALSE
+)
+# print the data frame
+print(study.data)
+```
