@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>talks - Robotic Esophagectomy</title>
+<title>Robotic Esophagectomy – talks</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -46,7 +66,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -55,12 +81,42 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -69,29 +125,27 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">talks</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
-  <li class="dropdown-header">
- <span class="menu-text">about.qmd</span></li>
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
-</div>
           </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -104,9 +158,21 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#ivor-lewis-techniques" id="toc-ivor-lewis-techniques" class="nav-link active" data-scroll-target="#ivor-lewis-techniques">Ivor Lewis Techniques</a>
+  <ul class="collapse">
+  <li><a href="#pittsburgh" id="toc-pittsburgh" class="nav-link" data-scroll-target="#pittsburgh">Pittsburgh</a></li>
+  <li><a href="#utrecht" id="toc-utrecht" class="nav-link" data-scroll-target="#utrecht">Utrecht</a></li>
+  </ul></li>
+  <li><a href="#circular-stapled-anastomosis" id="toc-circular-stapled-anastomosis" class="nav-link" data-scroll-target="#circular-stapled-anastomosis">Circular Stapled Anastomosis</a></li>
+  <li><a href="#hand-sewn-anastomosis" id="toc-hand-sewn-anastomosis" class="nav-link" data-scroll-target="#hand-sewn-anastomosis">Hand-sewn Anastomosis</a></li>
+  <li><a href="#triangular-stapler-anastomosis" id="toc-triangular-stapler-anastomosis" class="nav-link" data-scroll-target="#triangular-stapler-anastomosis">Triangular stapler Anastomosis</a></li>
+  <li><a href="#rln-dissection-from-chest" id="toc-rln-dissection-from-chest" class="nav-link" data-scroll-target="#rln-dissection-from-chest">RLN dissection from chest</a></li>
+  <li><a href="#reviews" id="toc-reviews" class="nav-link" data-scroll-target="#reviews">Reviews</a></li>
+  <li><a href="#robot-vs-open" id="toc-robot-vs-open" class="nav-link" data-scroll-target="#robot-vs-open">Robot vs Open</a></li>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#review" id="toc-review" class="nav-link" data-scroll-target="#review">Review</a></li>
   </ul>
-</nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="robot_esophagectomy.htm"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -126,20 +192,210 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
 
-<section id="introduction" class="level1">
-<h1>Introduction</h1>
-<div id="qrcode" class="qrcode"></div>
+
+<section id="ivor-lewis-techniques" class="level2">
+<h2 class="anchored" data-anchor-id="ivor-lewis-techniques">Ivor Lewis Techniques</h2>
+<section id="pittsburgh" class="level3">
+<h3 class="anchored" data-anchor-id="pittsburgh">Pittsburgh</h3>
+<p><em>Equipment</em></p>
+<ul>
+<li>Nathanson retractor (3 sizes available)</li>
+<li>Mediflex ‘Strong Arm’ table-mounted fixed retractor</li>
+</ul>
+<p>Position: Reverse Trendeleburg with tipped to Right (left side up)</p>
+<p><em>Abdominal Ports:</em> Ports oriented transversely approx 2-3cm below right gastroepiploic arcade</p>
+<ul>
+<li>#2 Camera port just above umbilicus and to left of midline (to allow better view of left upper quadrant). Port should be within 23cm of hiatus</li>
+<li>#1 subcostal right upper quadrant 12mm stapler port</li>
+<li>#3 midclavicular line left upper quadrant within 15cm of hiatus.</li>
+<li>#4 just off subcostal margin in left upper quadrant.</li>
+<li>RLQ assisting port (with AirSeal)</li>
+<li>LLQ assistant port</li>
+</ul>
+<p><img src="images/wisz_abdominal_ports.png" class="img-fluid"></p>
+<p>Abdominal dissection:</p>
+<ol type="1">
+<li><p>Hiatal dissection: Open pars flaccida into lesser sac and dissect hiatus. Will not perform extensive hiatal dissection at this stage due to risk of pneumothorax.</p></li>
+<li><p>Retrogastric dissection: Start with left gastric artery at origin <span class="math inline">\(\rightarrow\)</span> R crus <span class="math inline">\(\rightarrow\)</span> L crus. Can then proceed over anterior surface of pancreas. Beware of splenic artery. Can dissect short gastrics from posterior.</p></li>
+<li><p>Gastric mobilization: Enter lesser sac. Stomach mobilized off lesser sac.Left gastric vein divided with vessel sealer. Left gastric artery secured with locking Weck clip or vascular stapler.</p></li>
+</ol>
+<p>Greater curvature mobilized. Entrance into lesser sac from the this area to left of midline. Omentum not dissected off colon. Plane dissected distally between colon mesentery and RGEA. Can grasp stomach on lesser curvature with Arm 4 (to avoid grasping future conduit). Pedicled omental flap using 2 proximal (superior) omental vessels. Follow vessels for &lt;10cm. Divide left gastroepiploic artery. Take remaining short gastrics to complete dissection.</p>
+<ol start="4" type="1">
+<li><p>Pyloroplasty: Retraction stitches superior and inferior <span class="math inline">\(\rightarrow\)</span> opened longitudinally with ultrasonic shears <span class="math inline">\(\rightarrow\)</span> closed transverse with 5-6 sutures of 2-0 silk. (UTSW no longer performs pyloroplasty)</p></li>
+<li><p>Conduit: Arm #4 grasps fundus to straighten conduit. Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. *Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest. Arm 3 (or assistant) is used to ‘hook’ conduit towards pylorus in order to straighten conduit. Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with “U” stitch to avoid possibility of torsion. Omental flap sutured to superior aspect of conduit.</p></li>
+<li><p>Jejunostomy performed laparoscopically</p></li>
+</ol>
+<p>Chest ports:</p>
+<ul>
+<li><ol start="2" type="1">
+<li>Camera: 8th/9th ICS at posterior axillary line (or 9th laterally)</li>
+</ol></li>
+<li><ol start="4" type="1">
+<li>Robotic Assist: 3rd ICS at mid/posterior axillary line <span class="math inline">\(\rightarrow\)</span> Small Grasping Retractor</li>
+</ol></li>
+<li><ol start="3" type="1">
+<li>Right Hand: 5th ICS mid-axillary line <span class="math inline">\(\rightarrow\)</span> Vessel Sealer or Syncro Seal</li>
+</ol></li>
+<li><ol type="1">
+<li>Left Hand/Staplers (linear and EEA): 9th ICS in line with tip of scapula. If too far posterior, will fight with spine (which can be a problem for the stapler). Estimate location of diaphragm - midway between iliac crest and tip of scapula. Force Bipolar. 12mm stapler port passed through Green Alexis port</li>
+</ol></li>
+<li>Bedside Assist port inferior near diaphragm (used for Airseal). Midway between (1) and (2).</li>
+</ul>
+<p>(In prior descriptions, Left and Stapler ports were transposed) Robot cart driven over patient’s right shoulder.</p>
+<p><img src="images/wisz_thoracic_ports.png" class="img-fluid"></p>
+<p>Thoracic dissection: Anterior dissection first. Inferior pulmonary ligament. Subcarinal lymph nodes excised .</p>
+<p>Azygous vein divided with stapler. Vagus divided to prevent injury to RLN. Posterior dissection performed staying anterior to thoracic duct. Esophagus divided 3cm above azygous with robotic shears. Important to dissect airway (R and L mainstem bronchus) prior to completing proximal dissection of esophagus to avoid airway injury.</p>
+<p>Conduit brought into chest and temporarily sutured to diaphragm to avoid retraction into the abdomen.</p>
+<p>Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally <span class="math inline">\(\rightarrow\)</span> anvil introduced <span class="math inline">\(\rightarrow\)</span> pushed superiorly <span class="math inline">\(\rightarrow\)</span> oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.</p>
+<p>DST XL 28mm EEA stapler introduced through port (1) (posterior axillary line ICS8) into open end of conduit <span class="math inline">\(\rightarrow\)</span> mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm</p>
+<p>19Fr Blake drain placed along conduit <span class="math inline">\(\rightarrow\)</span> removed in clinic.</p>
+<p>NG tube advanced by anesthesia and location in stomach confirmed visually.</p>
+<p>Pittsburgh <span class="citation" data-cites="oksuyana116">(<a href="#ref-oksuyana116" role="doc-biblioref"><strong>oksuyana116?</strong></a>)</span> <a href="http://www.asvide.com/articles/1677" title="Video at AME">Video Here</a></p>
+<p>See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018</p>
+<p>German group <span class="citation" data-cites="egberts1485">(<a href="#ref-egberts1485" role="doc-biblioref">Egberts et al., 2019</a>)</span></p>
+<p>4-arm robot <span class="citation" data-cites="zhang1284">(<a href="#ref-zhang1284" role="doc-biblioref"><strong>zhang1284?</strong></a>)</span>. Zhang early outcomes of robot-assisted: propensity matched. Ann Surg Oncol26:1284 2019</p>
+<p><a href="https://gisurgonc.github.io/talks/images/witek2021.pdf">Technique Paper 2021</a></p>
+<p><a href="https://gisurgonc.github.io/talks/pdfs/witek2021.pdf">Technique Paper 2021</a> <span class="citation" data-cites="witek6195">(<a href="#ref-witek6195" role="doc-biblioref"><strong>witek6195?</strong></a>)</span></p>
+<p>2017<span class="citation" data-cites="okusanya116">(<a href="#ref-okusanya116" role="doc-biblioref">Okusanya et al., 2017a</a>)</span></p>
+<p>Technique paper with videos 2014: <span class="citation" data-cites="sarkaria211">(<a href="#ref-sarkaria211" role="doc-biblioref">Sarkaria and Rizk, 2014</a>)</span></p>
+<p>25 patients 2014-2016 <span class="citation" data-cites="okusanya179">(<a href="#ref-okusanya179" role="doc-biblioref">Okusanya et al., 2017b</a>)</span></p>
+<p>MSKCC 25 patients 2013 <span class="citation" data-cites="sarkariae107">(<a href="#ref-sarkariae107" role="doc-biblioref"><strong>sarkariae107?</strong></a>)</span></p>
+<p>MSKCC learning curve Innovations</p>
+</section>
+<section id="utrecht" class="level3">
+<h3 class="anchored" data-anchor-id="utrecht">Utrecht</h3>
+<p>van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA</p>
+<p>Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018</p>
+<p>Mainz <span class="citation" data-cites="grimminger589">(<a href="#ref-grimminger589" role="doc-biblioref">Grimminger et al., 2019</a>)</span> <span class="citation" data-cites="egberts1">(<a href="#ref-egberts1" role="doc-biblioref">Egberts et al., 2017</a>)</span></p>
+<p>30209678</p>
+<p>De la Fuente Surg Endsoc 3339 2013. Hernandez J GI Surg 17:1346 2013</p>
+<p>50 RAMIE cases: 25mm OrVil 1 anastomotic leak. median lymph node harvest =19</p>
+</section>
+</section>
+<section id="circular-stapled-anastomosis" class="level2">
+<h2 class="anchored" data-anchor-id="circular-stapled-anastomosis">Circular Stapled Anastomosis</h2>
+<p>Wee JO Ann Thor Surg 2016 p253</p>
+<p>Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold</p>
+<p>Tampa <span class="citation" data-cites="pointer111">(<a href="#ref-pointer111" role="doc-biblioref">Pointer et al., 2022</a>)</span> Leak rate 16%. 30-day mortality 3%</p>
+<p>Technique: Amaral M, Pimiento J, Fontaine JP. Robotic esophagectomy: the Moffitt Cancer Center experience. Ann Cardiothorac Surg. 2017;6:186–189.</p>
+<p>Austria <span class="citation" data-cites="potscher469">(<a href="#ref-potscher469" role="doc-biblioref">Pötscher et al., 2019</a>)</span> 33 cases</p>
+</section>
+<section id="hand-sewn-anastomosis" class="level2">
+<h2 class="anchored" data-anchor-id="hand-sewn-anastomosis">Hand-sewn Anastomosis</h2>
+<p>Italy <span class="citation" data-cites="huscher1034">(<a href="#ref-huscher1034" role="doc-biblioref">Huscher et al., 2023</a>)</span> 40 patients over 4 years</p>
+<p>All patients underwent a fast-track surgical protocol. The Da Vinci ® Si robotic system was positioned perpendicular to the patient’s right side and docked to the trocars. For the abdominal part of the procedure, the patient was positioned in a supine position. The four robotic trocars were placed in a horizontal line at or above the umbilicus (Fig. 1). In the abdomen, CO2 insufflation with 14 mmHg of pressure was used. Targeting to the stomach was performed. The surgical assistant was located on the left side of the table. A tip-up fenestrated grasper in trocar 1 was used to elevate the left lobe of the liver and for certain retraction movements during the abdominal part. The fenestrated bipolar forceps were used in the 12-mm trocar (no. 2) with a reduction cartridge, and later the 12-mm trocar was used for the robotic Endo Wrist ® stapler 45 mm to form the gastric conduit, beginning from the lesser curvature near the crow foot and continued towards the fundus, parallel to the greater curvature. After the abdominal dissection and creation of the conduit for reconstruction, Indocyanine Green (ICG) test was performed to evaluate adequate perfusion of the gastric conduit. For the thoracic part of the procedure (Fig. 2), the patient was positioned in a prone position (the operation table was tilted 19° towards the prone) and three robotic trocars and one laparoscopic trocar were inserted on the right chest. A single-lumen tube was used for intubation and the right lung was not deflated and disconnected from ventilation. In the chest, CO2 insufflation with 8 mmHg of pressure was enough to obtain an optimal working volume. The pulmonary ligament was divided. Hereafter, the parietal pleura was dissected at the anterior side of the esophagus from the diaphragm, up to the azygos vein. The azygos vein was ligated with Hem-o-lok and divided. At the posterior side of the esophagus, the parietal pleura is dissected cranially to caudally along the azygos vein, including the thoracic duct. The thoracic duct was clipped with a 10-mm endoclip. To facilitate esophagus mobilization, a Penrose drain was placed around the esophagus to manipulate the esophagus for further mobilization. The thoracic esophagus was mobilized and transected at the level of the azygos vein. The esophagus was resected en bloc with the surrounding mediastinal lymph nodes. The resected specimen will contain right-side paratracheal (station 2R), tracheobronchial (station 4), aortopulmonary window (station 5), carinal (station 7), and periesophageal (station 8) lymph nodes. The reconstruction time started with the anchoring of the gastric conduit to the esophageal stump with two 3–0 silk stay sutures. The conduit was opened on the anterior wall by the adoption of a monopolar hook. An end-to-side roboticsewn anastomosis was created by the adoption of two 3–0 running barbed sutures (V-loc – Medtronic, USA – Fig. 3).11, 12 After completion of the anterior wall, a nasogastric tube was passed through the half-completed anastomosis. Once the anastomosis was completed, 3–0 silk interrupted sutures were placed circumferentially to reinforce it (Fig. 4; Video). Before and after anastomosis fashioning, an ICG test was performed to evaluate adequate perfusion of conduit. In addition, the conduit cul-de-sac was suspended at the posterior thoracic wall by two stitches. The specimen was extracted through a small thoracotomy and a right-sided chest tube was placed. No postoperative swallow tests were performed. In the absence of clinical signs of anastomotic dehiscence (for example, luminal contents through the drain or wound site/local inflammation; fever (&gt; 38 °C) or leukocytosis (&gt; 10,000/L); leak may also be detected on imaging studies), patients started with sips of water at the day 3 and the oral intake was gradually increased to solid food. Enhanced recovery after surgery (ERAS) guidelines were used in the postoperative protocol.</p>
+<p>Leak rate 4/40 = 10%</p>
+<p>Stricture 10/40 = 25%</p>
+<p>Italy 30 patients <span class="citation" data-cites="marano941">(<a href="#ref-marano941" role="doc-biblioref">Marano et al., 2023</a>)</span></p>
+<p>Single‐lung ventilation is introduced, and the patient is placed in the left lateral decubitus position, tilted 45° compared to the prone position. For both robotic systems, the cart is docked from the right side of the patient. In addition, three robotic ports are put in place as well as two thoracoscopic ports for the assistant. dV®SiTM port layout for this stage has previously been described [24]. It’s worthy of mention that an additional 5 mm port for the assistant is placed between the intercostal spaces (ICS) 6 and 10, along the posterior axillary line. Figure 2 shows the dV®XiTM trocar position (three-arms technique) in a slight U shape: robotic arm#1(R1) for the grasper or the bipolar forceps at the ICS 9, robotic arm#2 (R2) for the 30° down scope at the ICS 6, posterior to the posterior axillary line and robotic arm#3 (R3) for the monopolar cautery hook, the needle driver or the clip applier at the ICS 4, anterior to the scapular rim. Furthermore assistant port #1(A1, 12-mm) is located in the ILC 8, and assistant port #2 (A2, 5 mm) between R2 and R3 at the posterior axillary line. The targeting area is identified at the level of the Azygos arch. A 7–8 mmHg pneumothorax is then induced. Starting at the anterior side of the esophagus, the parietal pleura is cut from the level of the azygos arch down to the diaphragm where the pulmonary ligament is divided. The azygos arch is then sectioned with robotic Weck Hem-o-lok clips (Teleflex, Morrisville, NC, USA) and a right paratracheal lymphadenectomy is performed. Next, the dissection of the parietal pleura is deepened towards the esophageal hiatus until the aorta becomes exposed. Subsequently, the right vagus nerve is sectioned just below the carina, preserving its bronchial branches. The dissection of the esophagus is extended below the tracheal bifurcation and a Penrose drain is placed around the esophagus to facilitate traction.</p>
+<p>The dissection of the esophagus is then continued along the pericardium down to the diaphragm and the thoracic duct is clipped with robotic clips. The resection of the esophagus en-bloc with periesophageal, bronchial and subcarinal nodes (stations # 107–111) and the thoracic duct is fully completed from the diaphragm up to the azygos arch. The proximal esophagus is divided using a robotic cautery hook above the level of the azygos vein. At this point, the instruments in R1 and R3 are reversed to be able to carefully pull the esophago-gastric bloc and the gastric conduit up through the hiatus until the marker suture becomes visible. The specimen and conduit thus are disconnected, and the specimen is placed in a plastic bag which will be removed through the enlarged incision of the assistant port. Thereafter, four supportive 4-0 polyglactin 910 (Ethicon Inc.&nbsp;USA) stitches are put in between the mucosae and the muscularis externa layer of the esophagus at the four cardinal points to evert the esophageal mucosae. Next, the proximal esophagus is dilatated using a Foley catheter inflated with 10 cc of sterile water for approximately 2–3 min. After having assessed both gastric conduit and esophageal perfusion with ICG fluorescence, a gastrotomy is performed at the most proximal portion of the conduit, maintaining at least 2 cm of distance from the stapler line. A single-layer robot-sewn esophagogastric anastomosis is performed above the level of the azygos arch with two separate running self-locking barbed sutures (Filbloc® 3/0, Assut Europe, Italy or alternatively V-LocTM 3/0, Medtronic, USA) that run in the same direction from 3 to 9 o’clock. Of note is the fact that, after having applied the first stitch on the posterior wall we customarily pass the needle back below the first stitch to evert the posterior esophageal and gastric layer and improve their visualization. Once the posterior aspect of the anastomosis is complete, a NGT is placed under direct vision inside the stomach distally to the anastomosis, thus accomplishing the closure of anterior surface. Finally, a few tension release stitches are put in between the mediastinal pleura and seromuscular layer of the gastric tube. The anastomosis is checked for intraoperative leaks with methylene blue and a 28-Fr chest drain is inserted via the R1 robotic trocar, posteriorly to anastomosis, with the apex in the upper chest (Video).</p>
+<p>Stricture 8/30 = 27%</p>
+</section>
+<section id="triangular-stapler-anastomosis" class="level2">
+<h2 class="anchored" data-anchor-id="triangular-stapler-anastomosis">Triangular stapler Anastomosis</h2>
+<p>Turkey <span class="citation" data-cites="batirel844796">(<a href="#ref-batirel844796" role="doc-biblioref">Batirel, 2022</a>)</span> - 30% stricture rate</p>
+</section>
+<section id="rln-dissection-from-chest" class="level2">
+<h2 class="anchored" data-anchor-id="rln-dissection-from-chest">RLN dissection from chest</h2>
+<p><span class="citation" data-cites="chao">(<a href="#ref-chao" role="doc-biblioref"><strong>chao?</strong></a>)</span></p>
+</section>
+<section id="reviews" class="level2">
+<h2 class="anchored" data-anchor-id="reviews">Reviews</h2>
+<p>Upper GI International Robotic Association: The Da Vinci Ivor Lewis Esophagectomy Procedure Guide</p>
+<p>Lahey Clinic <span class="citation" data-cites="stock">(<a href="#ref-stock" role="doc-biblioref"><strong>stock?</strong></a>)</span></p>
+<p>NCDB: RMIE vs tMIE: 23% robotic. Similar 90-day mortality. RMIE had lower rate of positive margin and lower conversion to open <span class="citation" data-cites="ali6329">(<a href="#ref-ali6329" role="doc-biblioref">Ali et al., 2021</a>)</span></p>
+</section>
+<section id="robot-vs-open" class="level2">
+<h2 class="anchored" data-anchor-id="robot-vs-open">Robot vs Open</h2>
+<p>Randomized ROBOT trial Utrecht <span class="citation" data-cites="degrootdoaa079">(<a href="#ref-degrootdoaa079" role="doc-biblioref">Groot et al., 2020</a>)</span>. No difference in survival or recurrence <span class="citation" data-cites="vandersluid621">(<a href="#ref-vandersluid621" role="doc-biblioref"><strong>vandersluid621?</strong></a>)</span>. Protocol: van der Sluis P C, Ruurda J P, van der Horst S et al.&nbsp;Robotassisted minimally invasive thoraco-laparoscopic esophagectomy versus open transthoracic esophagectomy for resectable esophageal cancer, a randomized controlled trial (ROBOT trial). Trials 2012; 13: 230. doi: 10.1186/1745-6215-13-230.</p>
+<p>Ongoing trials:</p>
+<p>REVATE. see <span class="citation" data-cites="chao346">(<a href="#ref-chao346" role="doc-biblioref"><strong>chao346?</strong></a>)</span>. Trials 20:346</p>
+<p>RAMIE trial see <span class="citation" data-cites="yang608">(<a href="#ref-yang608" role="doc-biblioref"><strong>yang608?</strong></a>)</span>. BMC Cancer 2019</p>
+<p>Specimen Extraction via Abdomen</p>
+<p>Recurrence: Abate E, DeMeester S R, Zehetner J et al.&nbsp;Recurrence after esophagectomy for adenocarcinoma: defining optimal followup intervals and testing. J Am Coll Surg 2010; 210: 428–35. doi: 10.1016/j.jamcollsurg.2010.01.006. Oppedijk V, Van Der Gaast A, Van Lanschot J J B et al.&nbsp;Patterns of recurrence after surgery alone versus preoperative chemoradiotherapy and surgery in the CROSS trials. J Clin Oncol 2014; 32: 385–91. doi: 10.1200/JCO.2013.51.2186. Blackham A U, Syeda S M, Schell M J et al.&nbsp;Recurrence patterns and associated factors of locoregional failure following neoadjuvant chemoradiation and surgery for esophageal cancer. J Surg Oncol 2018; 117: 150–159. doi: 10.1002/jso.24808.</p>
+<p>MIRO trial - Hybrid vs Open</p>
+<p>Hand-sewn vs stapled esophageal anstomosis</p>
+<p>Kayani B, Garas G, Arshad M, Athanasiou T, Darzi A, Zacharakis E (2014) Is hand-sewn anastomosis superior to stapled anastomosis following oesophagectomy? Int J Surg 12(1):7–15</p>
+<p>11. Castro PMV, Ribeiro FPG, Rocha ADF, Mazzurana M, Alvarez GA (2014) Hand-sewn versus stapler esophagogastric anastomosis after esophageal ressection: sistematic review and meta-analysis. Arq Bras Cir Dig 27(3):216–221</p>
+<p>Cervical Robot <span class="citation" data-cites="mori429">(<a href="#ref-mori429" role="doc-biblioref"><strong>mori429?</strong></a>)</span>developed a non-transthoracic esophagectomy procedure combining RATHE and a video-assisted cervical approach. Dis Esophagus 29:429 2016</p>
+<p><span class="citation" data-cites="nakauchi85">(<a href="#ref-nakauchi85" role="doc-biblioref">Nakauchi et al., 2019</a>)</span>Robot-assisted mediastinoscopic esophagectomy for esophageal cancer: Esophagus 2019;16:85-92.</p>
+</section>
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>Grimminger P P, Hadzijusufovic E, Babic B, Van Der Sluis P C, Lang H. Innovative fully robotic 4-arm Ivor Lewis esophagectomy for esophageal cancer (RAMIE4). Dis Esophagus 2020; 33: doz015. doi: 10.1093/dote/doz015.</p>
+</section>
+<section id="review" class="level2">
+<h2 class="anchored" data-anchor-id="review">Review</h2>
+<p><span class="citation" data-cites="chan1">(<a href="#ref-chan1" role="doc-biblioref">Chan and Villa Sanchez, 2023</a>)</span></p>
+<p>Internatioal Upper GI Association: Kingma BF, Grimminger PP, van der Sluis PC et al (2020) World- wide techniques and outcomes in robot-assisted minimally inva- sive esophagectomy (RAMIE). Ann Surg.</p>
+<p>Berlth F, Mann C, Uzun E et al (2020) Technical details of the abdominal part during full robotic-assisted minimally invasive esophagectomy. Dis Esophagus</p>
+<p>van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van Hillegersberg R (2018) Learning curve for robot-assisted mini- mally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10. 1016/j. athor acsur. 2018. 01. 038 26. Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020) A structured training pathway to implement robot-assisted mini- mally invasive esophagectomy: the learning curve results from a high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/ doaa0 47 28. Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019) Modular step-up approach to robot-assisted transthoracic esophagectomy-experience of a German high volume center. Transl G</p>
+<p>Comparision of Robotic vs VATS (Pittsburgh) Propensity matched. Median node harvest 32 vs 29</p>
+<div id="" class="qrcode"></div>
 <script type="text/javascript">
-var qrcode = new QRCode("qrcode", {"width":128,"height":128,"text":"https://jmbuhr.de","colorDark":"#000000","colorLight":"#ffffff"});
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"colorLight":"#ffffff","text":"https://jmbuhr.de","colorDark":"#000000","width":128,"height":128});
+  script.remove();
+})();
 </script>
     
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-ali6329" class="csl-entry" role="listitem">
+Ali, A.M., Bachman, K.C., Worrell, S.G., Gray, K.E., Perry, Y., Linden, P.A., Towe, C.W., 2021. Robotic minimally invasive esophagectomy provides superior surgical resection. Surgical Endoscopy 35, 6329–6334. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/33174098">33174098</a>
+</div>
+<div id="ref-batirel844796" class="csl-entry" role="listitem">
+Batirel, H., 2022. Uniportal <span>VATS</span> <span>Approach</span> in <span>Esophageal</span> <span>Cancer</span> – <span>How</span> to <span>Do</span> <span>It</span> <span>Update</span>. Frontiers in Surgery 9, 844796. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/35402499">35402499</a>
+</div>
+<div id="ref-chan1" class="csl-entry" role="listitem">
+Chan, E., Villa Sanchez, M., 2023. Narrative review of worldwide data on outcomes of robotic esophagectomy. Annals of Esophagus 6, 1.
+</div>
+<div id="ref-egberts1485" class="csl-entry" role="listitem">
+Egberts, J.-H., Biebl, M., Perez, D.R., Mees, S.T., Grimminger, P.P., Müller-Stich, B.P., Stein, H., Fuchs, H., Bruns, C.J., Hackert, T., Lang, H., Pratschke, J., Izbicki, J., Weitz, J., Becker, T., 2019. Robot-<span>Assisted</span> <span>Oesophagectomy</span>: <span>Recommendations</span> <span>Towards</span> a <span>Standardised</span> <span>Ivor</span> <span>Lewis</span> <span>Procedure</span>. Journal of Gastrointestinal Surgery: Official Journal of the Society for Surgery of the Alimentary Tract 23, 1485–1492. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/30937716">30937716</a>
+</div>
+<div id="ref-egberts1" class="csl-entry" role="listitem">
+Egberts, J.-H., Stein, H., Aselmann, H., Hendricks, A., Becker, T., 2017. Fully robotic da <span>Vinci</span> <span>Ivor</span>-<span>Lewis</span> esophagectomy in four-arm technique-problems and solutions. Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus 30, 1–9. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/28881889">28881889</a>
+</div>
+<div id="ref-grimminger589" class="csl-entry" role="listitem">
+Grimminger, P.P., Tagkalos, E., Hadzijusufovic, E., Corvinus, F., Babic, B., Lang, H., 2019. Change from <span>Hybrid</span> to <span>Fully</span> <span>Minimally</span> <span>Invasive</span> and <span>Robotic</span> <span>Esophagectomy</span> is <span>Possible</span> without <span>Compromises</span>. The Thoracic and Cardiovascular Surgeon 67, 589–596. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/30216947">30216947</a>
+</div>
+<div id="ref-degrootdoaa079" class="csl-entry" role="listitem">
+Groot, E.M. de, Horst, S. van der, Kingma, B.F., Goense, L., Sluis, P.C. van der, Ruurda, J.P., Hillegersberg, R. van, 2020. Robot-assisted minimally invasive thoracolaparoscopic esophagectomy versus open esophagectomy: Long-term follow-up of a randomized clinical trial. Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus 33, doaa079. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/33241302">33241302</a>
+</div>
+<div id="ref-huscher1034" class="csl-entry" role="listitem">
+Huscher, C.G.S., Cobellis, F., Lazzarin, G., 2023. Intrathoracic <span>Robotic</span>-<span>Sewn</span> <span>Anastomosis</span> <span>During</span> <span>Ivor</span> <span>Lewis</span> <span>Esophagectomy</span> for <span>Cancer</span>: <span>Back</span> to <span>Basics</span>? Journal of Gastrointestinal Surgery: Official Journal of the Society for Surgery of the Alimentary Tract 27, 1034–1041. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/36732403">36732403</a>
+</div>
+<div id="ref-marano941" class="csl-entry" role="listitem">
+Marano, A., Salomone, S., Pellegrino, L., Geretto, P., Robella, M., Borghi, F., 2023. Robot-assisted esophagectomy with robot-sewn intrathoracic anastomosis (<span>Ivor</span> <span>Lewis</span>): Surgical technique and early results. Updates in Surgery 75, 941–952. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/36510101">36510101</a>
+</div>
+<div id="ref-nakauchi85" class="csl-entry" role="listitem">
+Nakauchi, M., Uyama, I., Suda, K., Shibasaki, S., Kikuchi, K., Kadoya, S., Ishida, Y., Inaba, K., 2019. Robot-assisted mediastinoscopic esophagectomy for esophageal cancer: The first clinical series. Esophagus: Official Journal of the Japan Esophageal Society 16, 85–92. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/30074105">30074105</a>
+</div>
+<div id="ref-okusanya116" class="csl-entry" role="listitem">
+Okusanya, O.T., Hess, N.R., Luketich, J.D., Sarkaria, I.S., 2017a. Technique of robotic assisted minimally invasive esophagectomy (<span>RAMIE</span>). Journal of Visualized Surgery 3, 116. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/29078676">29078676</a>
+</div>
+<div id="ref-okusanya179" class="csl-entry" role="listitem">
+Okusanya, O.T., Sarkaria, I.S., Hess, N.R., Nason, K.S., Sanchez, M.V., Levy, R.M., Pennathur, A., Luketich, J.D., 2017b. Robotic assisted minimally invasive esophagectomy (<span>RAMIE</span>): The <span>University</span> of <span>Pittsburgh</span> <span>Medical</span> <span>Center</span> initial experience. Annals of Cardiothoracic Surgery 6, 179–185. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/28447008">28447008</a>
+</div>
+<div id="ref-pointer111" class="csl-entry" role="listitem">
+Pointer, D.T., Saeed, S., Naffouje, S.A., Mehta, R., Hoffe, S.E., Dineen, S.P., Fleming, J.B., Fontaine, J.P., Pimiento, J.M., 2022. Outcomes of 350 <span>Robotic</span>-assisted <span>Esophagectomies</span> at a <span>High</span>-volume <span>Cancer</span> <span>Center</span>: <span>A</span> <span>Contemporary</span> <span>Propensity</span>-score <span>Matched</span> <span>Analysis</span>. Annals of Surgery 276, 111–118. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/33201093">33201093</a>
+</div>
+<div id="ref-potscher469" class="csl-entry" role="listitem">
+Pötscher, A., Bittermann, C., Längle, F., 2019. Robot-assisted esophageal surgery using the da <span>Vinci</span>® <span>Xi</span> system: Operative technique and initial experiences. Journal of Robotic Surgery 13, 469–474. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/30209678">30209678</a>
+</div>
+<div id="ref-sarkaria211" class="csl-entry" role="listitem">
+Sarkaria, I.S., Rizk, N.P., 2014. Robotic-assisted minimally invasive esophagectomy: The <span>Ivor</span> <span>Lewis</span> approach. Thoracic Surgery Clinics 24, 211–222, vii. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/24780426">24780426</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -175,18 +431,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -218,11 +463,50 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
-  function tippyHover(el, contentFn) {
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -232,8 +516,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -245,7 +538,130 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -289,6 +705,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -314,6 +731,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -374,6 +817,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
