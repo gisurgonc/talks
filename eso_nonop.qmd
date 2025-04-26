@@ -1,5 +1,5 @@
 ---
-title: "Nonoperative Treatment of Esophageal Cancer"
+title: "Selective Surgery for Locally-advanced Esophageal Cancer"
 format: 
   revealjs:
     slide-number: c/t
@@ -14,6 +14,73 @@ format:
 editor: visual
 bibliography: zotero.bib
 ---
+
+
+## CROSS: Locally-advanced Esophageal Cancer
+
+-   368 esophageal cancer patients randomized:
+    -   Surgery alone
+    -   Chemo+RT $\rightarrow$ Surgery
+-   75% adenocarcinoma
+-   age $\tilde{x}$=60
+-   longer survival with Chemo+RT $\rightarrow$ Surgery
+
+::: aside
+[@shapiro1090]
+:::
+
+
+## CROSS: Pathologic Complete Response
+
+Adenocarcinoma: pCR in 23%
+
+Squamous cell carcinoma: pCR in 49%
+
+$\Rightarrow$ Can some patients be spared surgery?
+
+::: aside
+[@shapiro1090]
+:::
+
+
+
+## CROSS
+
+The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p < 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p < 0.001).
+
+
+## CROSS - Overall Survival
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Survival by Histology
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Adenocarcinooma
+
+Median survival 43mo vs 27mo
+
+Pathologic complete response in 23%
+
+## CROSS - Squamous cell carcinoma
+
+Median survival 82mo vs 21mo
+
+Pathologic complete response in 49%
+
+::: aside
+[@shapiro1090]
+:::
+
 
 ## Locally-advanced Esophageal Cancer
 
@@ -33,1096 +100,220 @@ Optimal Therapy for locally-advanced esophageal cancer:
 :::
 :::::
 
-##
+
+## CROSS Trial Schema
 
 ```{mermaid}
 flowchart LR
-A[LCI Introduction] -->B(GastroEsophageal Dx Staging)
-A-->nutrition(Nutrition)
+A[Locally-advanced EsoCa] -->B(ChemoRT)
 
-B--> C[Gastric Rx Options]
-B--> D[Eso Rx Options]
+B--> C[Restaging]
 
-D-->E[Eso Early Stage]
-D-->F[Eso Advanced]
+C -->D[Metastatic Disease]
+
+D --> E[Systemic Therapy]
 
 
-E-->eso_surgery[Esophagectomy]
-E-->J[Eso ACA Locally Advanced]
 
-F-->I[GE Metastatic]
-F-->J
-F-->K[Eso SCCA Locally Advanced]
+C-->I[Surgery]
 
-nutrition--> jejunostomy[Jejunostomy]
-nutrition--> gastrostomy[Gastrostomy]
 
-I-->L[CV Port]
 
-K-->L
-K-->nutrition
 
-J -->eso_surgery[Esophagectomy]
-J -->nutrition
 
-exercise[Exercise]
-
-eso_surgery-->surgeon(surgeon)
-eso_surgery-->exercise
-
-click A "lci_intro.html"
-click B "ge_dx_staging.html"
-click C "gastric_rx_options.html"
-click D "eso_rx_options.html"
-click E "eso_advanced.html"
-click F "eso_advanced.html"
-click G "endoscopic_rx.html"
-click eso_surgery "eso_surgery.html"
-click I "ge_metastatic.html"
-click J "eso_aca_locally_advanced.html"
-click K "eso_scca_locally_advanced.html"
-click L "cv_port.html"
-click nutrition "nutrition.html"
-click jejunostomy "jejunostomy.html"
-click gastrostomy "gastrostomy.html"
-click exercise "exercise.html"
 
 
 ```
 
 
-## Ivor Lewis (Transthoracic) Esophagectomy
-
-::::: columns
-::: {.column width="50%"}
--   Removes tumor and lower 1/3 esophagus
--   Removes surrounding lymph nodes
--   GI tract reconstructed
-:::
+## Real-World CROSS Schema
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection2_ai.png)
-:::
-:::::
+```{mermaid}
+flowchart LR
+A[Locally-advanced EsoCa] -->B(ChemoRT)
 
-## Reconstruction
+B--> C[Restaging]
 
-::::: columns
-::: {.column width="50%"}
-New esophagus is created from the stomach in the abdomen by fashioning it into a tube.
-:::
+C -->D[Metastatic Disease]
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection3_ai.png)
-:::
-:::::
+D --> E[Systemic Therapy]
 
-## Ivor Lewis esophagectomy
+C -->F[Fitness Evaluation]
 
-::::: columns
-::: {.column width="50%"}
-The new esophagus is now brought up into the chest. An anastomosis is made in the chest between the esophagus and the stomach
-:::
+F--> G[High Risk]
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
-:::
-:::::
+F-->H[Low Risk]
 
-## Minimally-invasive Ivor Lewis
+H-->I[Surgery]
 
-::::: columns
-::: {.column width="50%"}
--   Small incisions abdomen and chest
--   Surgical telescope and instruments
--   Smaller incisions $\rightarrow$ faster recovery and less discomfort
-:::
+G--> E
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/MIE_IvorLewisArtboard.png)
-:::
-:::::
+```
 
-## Minimally-invasive Esophagectomy
 
-::::: columns
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/mie_abd.png)
-:::
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/mie_chest.png)
-:::
-:::::
 
-## Minimally-invasive esophagectomy
+## Active Surveillance
 
-::::: columns
-::: {.column width="50%"}
-Gastric conduit constructed with linear stapler
-:::
+```{mermaid}
+flowchart LR
+A[Locally-advanced EsoCa] -->B(ChemoRT)
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/C21-FF3.png)
-:::
-:::::
+B--> C[Clinical Response Evaluation]
 
-## Minimally-invasive esophagectomy
+C -->D[Metastatic Disease]
 
-::::: columns
-::: {.column width="50%"}
-Gastric conduit transposed into chest
-:::
+C -->K[Persistent Disease]
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/C21-FF6.png)
-:::
-:::::
+C -->L[No Detectable Disease]
 
-## Minimally-invasive esophagectomy
+L-->N[Active Surveillance]
 
-::::: columns
-::: {.column width="50%"}
-Gastric conduit transposed into chest
+N --> O[Isolated Local Recurrence]
 
-Circular stapler used to construct anastomosis
-:::
+O --> M
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/C21-FF7.png)
-:::
-:::::
+N --> P[Metastatic Disease]
 
-## Minimally-invasive esophagectomy
+P --> E
 
-::::: columns
-::: {.column width="50%"}
-Gastric conduit transposed into chest
+D --> E[Systemic Therapy]
 
-Circular stapler used to construct anastomosis
+K -->M[Fitness Evaluation]
 
-Completed anastomosis
-:::
+M--> G[High Risk]
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/C21-FF8.png)
-:::
-:::::
+M-->H[Low Risk]
 
-## Open Ivor Lewis
+H-->I[Surgery]
 
-::::: columns
-::: {.column width="50%"}
-Mininally-invasive approach feasible in 95% of cases
+G--> E
 
-Thoracotomy in 3%
+```
 
-Laparotomy in 2%
-:::
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/IvorLewisArtboard.png)
-:::
-:::::
+## SANO (Surgery As Necessary Only)
 
+776 Patient with esophageal cancer treated with chemoRT
 
+Clinical response evaluation after chemoRT
 
+274 with Complete Clinical Response (35%) randomized:
 
+  - 156 Active Surveillance ($\rightarrow$ Surgery for local recurrence)
+  - 118 Surgery
+  
 
-## Total Esophagectomy
-
-::::: columns
-::: {.column width="50%"}
-For patients with tumors in the upper esophagus, additional esophagus is removed and anastomosis performed in the neck
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_ProxTumorArtboard.png)
-:::
-:::::
-
-## McKeown Esophagectomy
-
-::::: columns
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_ResectionTotalArtboard.png) Total esophagectomy
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McKeownArtboard.png) Cervical anastomosis
-:::
-:::::
-
-## Colon Interposition
-
-::::: columns
-::: {.column width="50%"}
-If the stomach is not suitable to use as a conduit, the colon can be used to replace the esophagus
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/colon-interposition2.jpg)
-:::
-:::::
-
-## Colon Interposition
-
-![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
-
-## Esophagectomy Complications
-
--   Delayed gastric empyting
--   Aspiration due to pharyngeal dysphagia
--   Anastomotic leak (8%)
--   Pneumonia (10%)
--   Atrial Fibrillation (20%)
--   Myocardial Infarction (5%)
--   Chylothorax (5%)
-
-## Gastric emptying after Esophagectomy
-
-Vagus nerve normally stimulates gastric emptying
-
-Esophagectomy require dividing the vagus nerve
-
-Esophagectomy can cause delayed gastric emptying
-
--   Nasogastric tube decompressed gastric conduit
-
-
-
-## Evaluation of Gastric Emptying
-
-Upper GI evaluates gastric emptying
-
--   Initial study on POD #2/3/4
--   Patient stands in fluoroscopy
--   Isovue injected via NG tube
-
-If stomach empties well $\rightarrow$ NG tube removed
-
-If stomach does not empty $\rightarrow$ repeat study in 2 days
-
-
-## Swallowing Evaluation
-
-30% of patients have abnormal swallowing after esophagectomy
-
-$\rightarrow$ Risk for aspiration pneumonia
-
-Likely due to disuse atrophy of swallowing muscles
-
--   Advanced age
--   Prolonged NPO after surgery
--   NPO prior to surgery due to esophageal obstruction
-
-## Swallowing Evaluation
-
-Modified Barium Swallow performed after NG tube removed
-
-Possible Outcomes:
-
--   No aspiration with all consistencies "Pass" - 70%
--   Aspiration of thin liquids but OK for moderately thick liquids - 15%
--   Aspiration with moderately thick liquids - 15%
-
-## Modified Barium Swallow "Pass"
-
-70% Pass - started with oral liquids 1oz/hour
-
--   Advanced to protein shakes 2oz/hour if water tolerated
--   Advanced to protein shakes 4oz/hour if 2oz tolerated
-
-Patients discharged taking water, Gatorade, and protein shakes orally
-
-## Modified Barium Swallow "Fail"
-
-Patients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water.
-
-Patients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube.
-
-MBS is repeated every 3-4 days until discharge
-
-
-## Anastomotic Leak
-
-::::: columns
-::: {.column width="50%"}
-Anastomosis can be performed:
-
-Total esophagectomy: Cervical anastomosis
-
-Partial esophagectomy: Thoracic anastomosis
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Anastomosis.png)
-:::
-:::::
-
-
-
-## Anastomotic Leak
-
-::::: columns
-::: {.column width="50%"}
-If healing of anastomosis doesn't occur:
-
--   Leakage of fluid from the esophagus
--   Mediastinitis
--   Amylase can be detected in drain fluid
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
-:::
-:::::
-
-
-## Anastomotic Leak
-
-::::: columns
-::: {.column width="50%"}
-If leak occurs:
-
--   Some leaks will seal with conservative management
--   Stent may be required to help healing
--   Additional surgery rarely required
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
-:::
-:::::
-
-
-
-## Drain Amylase for Leak Detection
-
-::::: columns
-::: {.column width="50%"}
-Thoracic anastomosis
-
--   Usually leaks into the right chest
-    -   JP#2 drains the right chest
-
-Cerfical anastomosis
-
--   Usually leaks into the neck
-    -   JP#4 drains the neck incision
-
-Usually start checking drain amylase on 4th-8th postop days
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_IvorLewis_Leak.png)
-:::
-:::::
-
-## CT esophagram to detect Anastomotic Leak
-
-Pre-contrast CT scan performed without contrast
-
-Water-soluble contrast instilled in the esophagus
-
-Constast CT scan peformed
-
-Radiologist looks for contrast extravisation from esophagus
-
-
-
-
-## CT Esophagram with NG tube in place
-
-::::: columns
-::: {.column width="50%"}
-Once patient is positioned on the CT scanner:
-
--   "Scout" scan performed to identify location of tip of NG tube relative to the anastomosis
--   Radiologist measures distance from the anastomosis to the tip of the NG tube.
--   NG tube is then withdrawn a distance which keeps the NG tube tip 5cm *below* the anastomosis.
--   If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 113 - 6 = 7cm
--   NG tube manipulation done by RN or physician
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/ng_esophagectomy.png)
-:::
-:::::
-
-
-
-## NG Tube Withdrawl - AMT Bridle
-
-::::: columns
-::: {.column width="50%"}
-NG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.
-
-In order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.
-
-The NG tube can then be withdrawn the required distance
-
-After CT Esophagram, NG tube can be (blindly) advanced to prior position
-
-Ideal position is with all 4 dots outside the nose
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/amt_guitarpick.png)
-:::
-:::::
-
-
-
-
-## CT esophagram - Full Sequence
-
-Scout CT Scan obtained and NG position measured
-
-NG tube withdrawn by RN/physicin
-
-Pre-contrast CT scan performed without contrast
-
-Water-soluble contrast instilled in the esophagus
-
-Constast CT scan peformed
-
-NG tube returned to prior position
-
-## CT Esophagram without NG tube
-
-For patients who have had their NG tube removed, oral contrast can be given for CT esophagram *if* they have passed their Modified Barium Swallow.
-
-For patients who have their NG removed and have not been cleared for thin liquids by Modified Barium Swallow, CT esophagram carries a risk of aspiration.
-
-$\Rightarrow$ NG tube removal is delayed for patients with:
-
--   Elevated drain amylase
--   Leukocytosis
--   Fevers
--   Prolonged ventilation
-
-... until CT esophagram confirms that there is no evidence of leak
-
-## Leak of Cervical Anastomosis
-
--   Elevated drain amylase (JP#4)
--   Cloudy drain fluid
--   Cervical wound infection
-
-Leak can frequently be treated by opening neck incision at the bedside
-
-Barium swallow best study to look for leak
-
-
-
-## Pneumonia
-
-::::: columns
-::: {.column width="50%"}
-Pneumonia occurs in 10% of patients after esophagectomy.
-
--   Risk 5% in a patients with normal muscle mass
--   Risk 20% in patients with low muscle mass
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/Eso_LungsArtboard.png)
-:::
-:::::
-
-## Preventing Pneumonia
-
-Several ways to help prevent pneumonia:
-
--   Deep breathing
--   Coughing
--   Walking
-
-After surgery, this means:
-
--   Sitting in a chair most of the day
--   Walking in the halls as soon as possible
-
-## Atrial arrhythmia
-
-Atrial fibrillation (and other arrhythmias)
-
-Prevention – beta blockade/amiodarone
-
-Diagnosis – EKG monitoring
-
-Treatment – amiodarone, β blockade
-
-## Risks of Cervical Anastomosis
-
-Recurrent laryngeal nerve palsy
-
--   Hoarse voice
--   Diagnosis by FEES (speech therapy)
--   Risk of aspiration
-
-RLN palsy generally improves over time
-
-May require medialization of the affected cord
-
-
-
-## Risks of Surgery
-
-Risks related to Surgery
-
--   Anastomotic leak (5%)
--   Stricture at anastomosis (15%)
--   Death within 90 days of surgery
-    -   Low risk patients = 2%
-    -   Intermediate risk = 10%
-    -   High risk = 30%
-
-## Risks of Surgery
-
-|                     | Age \<75 | Age \>75 |
-|---------------------|:--------:|:--------:|
-| Normal Muscle (75%) |    2%    |   10%    |
-| Low Muscle (25%)    |   10%    |   30%    |
-
-: Risks of Death within 90 Days of Surgery
-
-## Thoracic Epidural Catheter
-
--   Managed by Anesthesia Pain Service
--   Foley catheter removed after epidural out
--   Can cause hypotension due to sympathectomy effect
-
-## Urinary Rention with Epidural Catheter
-
-Randomized trial of early vs late removal of urenaty catheter after thoracic surgery
-
-Early removal at 48hrs: 12% reinsertion
-
--   One urinary tract infection
-
-Removal 6 hours after epidural removal: 3.2% reinsertion
-
--   No urinary tract infection in 126 patients
 
 ::: aside
-Mayo Clinic [@allen925]
+[@vanderwilk425]
 :::
 
-## Urinary Retention with Epidural Catheter
 
-Early urinary removal catheter protocol (48hrs) compared with historical controls
+## SANO Clinical Respone Evaluation
 
-Early removal at 48hrs: 28% retention
+EGD at 6 weeks with bite-on-bite biopsies
 
--   Urinary tract infection 1%
+Second evaluation at 12 weeks if first biopsies negative:
 
-Removal 6 hours after epidural removal: 12.4% retention (p=0.003)
+- PET
+- EUS-FNA of suspected lymph nodes
+- EGD with bite-on-bite biopsies
 
--   Uninary tracdt infection 3.2% (p=0.28)
+## Clinical Response Evaluation
 
-::: aside
-University of Virginia [@hu1302]
-:::
+761 First Clinical Response Evaluation (EGD)
 
-## Multimodality Pain Management
+- 232 Isolated local disease documented by biopsy
+- 40 Persistent stricture
+- 2 metastatic disease
 
--   Morphine or Dilaudid PCA
--   Acetaminophen 1000mg q6 hours ATC (not prn)
--   Gabapentin 300mg tid
--   Oxycodone elixir via jejunostomy
--   No Toradol or non-steroidal anti-inflammatories
+## Clinical Response Evaluation
 
+761 First Clinical Response Evaluation (EGD)
 
+- 232 Isolated local disease documented by biopsy
+- 40 Persistent stricture
+- 2 metastatic disease
 
 
-## Thoracic Duct
+420 Second Clinical Response Evaluation (EGD+PET+FNA)
 
-::::: columns
-::: {.column width="50%"}
-Thoracic duct transport dietary fat absorbed from intestine
+- 115 Isolated local disease documented by biopsy
+- 19 Persistent stricture
+- 40 metastatic disease
 
-Fat is packaged in lipid micelles
+$\Rightarrow$ 274 with clinical complete response (cCR)
 
-Similar to how fat is kept in suspension in milk
-:::
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/thoracic_duct_large.png)
-:::
-:::::
+## Clinical Response Evaluation
 
-## Thoracic Duct
+761 First Clinical Response Evaluation (EGD)
 
-::::: columns
-::: {.column width="50%"}
-Thoracic duct carries clear fluid between meals, so injury is easy in the operating room
+- 232 Isolated local disease
+- 40 Persistent stricture
+- 2 metastatic disease
 
-Injury causes leakage of chylous fluid
+420 Second Clinical Response Evaluation (EGD+PET+FNA)
 
-When patient starts eating, this fluid will turn milky
-:::
+- **115 Isolated local disease** (missed at first EGD)
+- 19 Persistent stricture
+- 40 metastatic disease
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/thoracic_duct_zoom.png)
-:::
-:::::
+$\Rightarrow$ 115 Patient had local disease missed at first EGD
 
-## Thoracic Duct Leak
 
-::::: columns
-::: {.column width="50%"}
-Thoracic duct leak $\rightarrow$ milky fluid in JP drains
 
--   Test for triglycerides (to confirm chylous leak)
--   Also test for amylase (to confirm no leak)
-:::
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
-:::
-:::::
+## Persistent disease
 
-## Thoracic Duct Leak Treatment
+Surgery performed with two weeks in patients without metastatic disease and:
 
-::::: columns
-::: {.column width="50%"}
--   Low fat diet
--   Midodrine 5mg po/jejunostomy tid
--   Thoracic duct embolization
--   Surgical thoracic duct ligation
-:::
+- Positive EGD biopsies
+- High-grade dysplasia on EGD
+- Stricture which prohibited passage of scope
 
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/chyle_jp.png)
-:::
-:::::
+## Subsequent Evaluation
 
+- Every 3 months in first year
+- Every 4 months in Year 2
+- Every 6 months in Year 3
+- Annually Years 4 and 5
 
+## Active Surveillance Outcomes (n=198)
 
-## Jejunostomy Small Bowel Necrosis
+33 (17%) developed metastatic disease
+- 22 detected at 6 months (third clinical response evaluation)
 
-Among patients with a new jejunostomy tube:
+69 (35%) had persistent complete clinical response  
 
-1% incidence of necrosis (gangrene) of the jejunum
+96 (48%) had isolated local recurrence 
 
-Thought to be due to demand ischemia
+## Results
 
-Can lead to bowel perforation
+![](images/sano_2a.png)
+No difference in overall survival at median followup of 38 months
+Median survival 34 months for active surveillance and 50 months for surgery
 
-More likely when major surgery is performed along with jejunostomy
+## SANO - Key Points
 
-## Jejunal Necrosis - Cincinnati Series
+Active Surveillance was non-inferior using predefined criteria
 
-Eight patients over 14 years age 50-74
+- Non-inferior was defined as survival difference <15%
 
--   Pancreatectomy (n=6)
--   Esophagectomy (n=2)
+Disease-free and Overall survival was numerically better with immediate surgery
 
-Presentation 4 days after starting feeds:
+Survival curves appear to cross at 2 years favoring immediate surgery
 
--   Abdominal pain and distension
--   Tachycardia
--   Hypotension
--   Leukocytosis
+Outcomes were not stratified by histology 
 
-## Case Study: 54F s/p total gastrectomy + jejunostomy
+## Proposed Pathway Changes
 
-::::: columns
-::: {.column width="50%"}
-Postop Day 4: Abdominal distension and pain
+Active Surveillance is a reasonable option in informed patients
 
-WBC: 42,000
+Clinical response evaluation should consist of:
 
-CT: Pneumatosis of small bowel
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct.png)
-:::
-:::::
-
-## Case Study: 54F s/p total gastrectomy + jejunostomy
-
-::::: columns
-::: {.column width="50%"}
-Postop Day 4: Abdominal distension and pain
-
-WBC: 42, 000
-
-CT: Pneumatosis of small bowel
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_ct2.png)
-:::
-:::::
-
-## Case Study: 54F s/p total gastrectomy + jejunostomy
-
-::::: columns
-::: {.column width="50%"}
-Postop Day 4: Abdominal distension and pain
-
-WBC: 42, 000
-
-CT: Pneumoatosis of small bowel
-
-OR: Segment of jejunum with patchy necrosis
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_or.png)
-:::
-:::::
-
-## Case Study: 54F s/p total gastrectomy + jejunostomy
-
-::::: columns
-::: {.column width="50%"}
-Postop Day 4: Abdominal distension and pain
-
-WBC: 42, 000
-
-CT: Pneumoatosis of small bowel
-
-OR: Segment of jejunum with patchy necrosis
-
-Segmental resection of jejunum.
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_or.png)
-:::
-:::::
-
-## Jejunostomy-associated Small Bowel Necrosis
-
-::::: columns
-::: {.column width="50%"}
-Key lessons:
-
--   Early diagnosis is critical: **Stop Tube Feeds!**
--   Subtle signs: distension or increased pain
--   CT scan is diagnostic
--   Advance tube feeds slowly until flatus
--   Critical period is first 5 days postop
-:::
-
-::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/sb_necrosis_or.png)
-:::
-:::::
-
-
-
-## Nutritional Consequences of Esophagectomy
-
-Oropharyngeal
-
--   Dsyphagia and aspiration due to muscle wasting
-
-Gastric
-
--   Small capacity of gastric conduit
--   Delayed gastric emptying
-
-Intestinal - Tube feeding intolerance
-
-Metabolic demand:
-
--   Increased metabolic needs due to healing
--   Preoperative nutritional deficit
-
-## Gastric Emptying - Medical Strategies
-
-Metoclopramine (Reglan®) – 10mg po/iv q6hrs
-
--   Side effects
-    -   Dystonic reaction (esp in young)
-    -   Tardive Dyskinesia (\<1%)
-
-Mirtazapine (Remeron®) 15mg po qHs
-
-- Anti-depressant promotes gastric emptying 
-- Can cause vivid dreams
-
-## Jejunostomy Feedings
-
-Osmolite 1.5 starting POD#1 at 30mL/hr
-
--   Increased once bowel function returns (flatus)
--   Increased 10mL/hour every 12 hours (continuous)
--   Converted to nocturnal (6pm to 10am)
-
-Vital High Protein for BMI \>35 
-
-- decreased CHO/calorie content
-- increased protein
-
-## Jejunostomy Feedings
-
-Five cans = 75mL/hour x 16 hours (4pm-10am)
-
-Free Water Flushes: 
-
-Most patients can tolerate 240mL (8oz) warm water bolus via syringe into j-tube at a time.
-
-## Free Water
-
-Jejunostomy tube flushed in am
-
-Free water flushes: 240mL q4 hours while awake (qid)
-
-Free water can help prevent tube clogging or constipation
-
-Patients will need instruction on flushing tube
-
-## Osmolite 1.5
-
-Nutritionally complete standard formula
-
-- High caloric density 
-- Does not contain fiber 
-- Reduces risk of clogging tube 
-- Medium Chain Triglycerides (20%) 
-- HCPCS Code: B4152
-
-## Vital 1.5
-
-- Nutritionally complete elemental formula -
-- Appropriate for impaired GI function, malabsorption, or diarrhea
-- Contains FOS fiber
-  - Promotes healthy gut flora
-  - Proteins enzymatically hydrolyzed -
-  - Promote gastric emptying
--   Medium Chain Triglycerides (50%) -
--   HCPCS Code: B4153
-
-## Vital High Protein
-
-Nutritionally Complete elemental Formula 
-
-- Appropriate for patients with BMI \>35 
-- Medium Chain Triglyceries (50%) 
-- HCPCS Code: B4153
-
-## Jenunostomy Tube Feed Intolerance
-
-Diarrhea, bloating, or cramps
-
-- Check clostridium Difficile 
-- Switch formulas (Osmolite 1.5 →Vital 1.5) 
-- Cautious use of anti-motility agents (eg Lomotil)
-
-## Diabetic Patients on Jejunostomy Feeds
-
-Diabetic patients may have more problems with elevated blood sugars with jejunostomy feeds:
-
-- Food bypasses duodenum
-- Less stimulation of pancreatic insulin secretion
-
-May need long-acting insulin during tube feeds
-
-Example regimen:
-
-- 10 Units 70/30 at 6 pm 
-- 10 Units 70/30 at MN 
-
-Early consultations with endocrinology
-
-## Diabetic Patients - Transition to Nocturnal Feeds
-
-When patients leave the ICU, they will be on continuous tube feeds
-
-Continuous insulin regimen of q6 (2N+1R) 
-
-- eg: 10 units N + 5 units R q6 hours
-
-Most patients will be transitioned to nocturnal feeds when on the ward
-
-## Insulin - Transition to Nocturnal Feeds
-
-Tube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). 
-
-Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:
-
-Tube feeds stopped 12pm & check blood sugar
-
-q6 hr insulin discontinued when tube feeds stopped
-
-Noon dose of insulin is held
-
-Nocturnal tube feeds started at 6pm
-
-Nocturnal insulin given at 6pm as ordered
-
-Nocturnal insulin given at MN if ordered
-
-## Oral Nutrition
-
-Once cleared for liquis by passing MBS:
-
-- Water 1oz q hour orally 
-- Medications switched to oral
-- Protein shakes 2oz at a time if tolerated
-- Protein shakes 4oz at a time if tolerated
-
-
-## Diet Orders
-
-In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. 
-
-Ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.
-
-Supplement Task Order is noted as "Supplement Regimen" and comes up as a nursing task, up to TID 
-
-## Diet Orders
-
-NPO Diet Continue Tube Feeds. Under “Special Instructions”, one of the following is entered:
-
--   Medicines with thickened water
--   Water 1oz per hour + meds with water
--   Ensure High Protein 2oz per hour + Water 1oz per hour + meds with water
-
-The above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient.
-
-## Diet Orders Preop NPO
-
-\
-
-Preop NPO Orders
-
-Patients who will return to the OR need an order for “NPO after MN” and their tube feeds should be held at midnight.
-
-## Nutrition Summary
-
--   Evaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time)
--   Emphasize fluid as the patient transitions to 100% oral/tube hydration
--   Monitor tolerance to full liquids prior to discharge
--   Assure blood sugars are checked & controlled
-
-## Enteral Feeding Bag Details
-
-- Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding 
-- Open system; poured into top of bag 
-- All connections should now be EnFit 
-- Syringes for water flush 
-- Infusion bag/tubing
-
-## Patient Education Needs
-
-Post-esophagectomy diet
-
-Anti-dumping diet
-
-Enteral Feeding
-
-Enteral feeding pump
-
-Medication administration via tube
-
-Free water flushing
-
-Diabetic management
-
-## Discharge POD #6/#7
-
-Tube feeds 75mL/hr x 16hrs
-
-Protein shakes IF cleared by MBS
-
-Reglan 10mg po qid
-
-Oxycodone elixir 5-10mg oral/via tube q4-6 hours
-
-Metoprolol 25-50mg po bid
-
-Remeron 15mg po qhs
-
-Anti-arrhythmics (if needed)
-
-Coumadin or anticoagulation (if in atrial fibrillation)
-
-## Discharge Planning
-
-Jejunostomy tube feedings
-
--   Pump mangement
--   Free water flushes
-
-Medications: Who is managing new meds?
-
-Home infusion: orders for tube feed formula/rate/duration
-
-Home nursing: Postop visit
-
-## Patient Instructions
-
-Driving: 
-- Off narcotics and pain-free
-
-Showering: 
-- OK to shower at home
-- No tub bath or swimming for 2 weeks
-
-Activity: 
-
-- No lifting \>10# for 6 weeks
-- OK to resume aerobic activity immediately
-
-## Postop Office Visit
-
-- Review pathology 
-- Wean beta blockers 
-- Adjust anti-hypertensives
-- Check wounds 
-- Check for pleural effusion
-- Reduce tube feeds
-- Advance diet
-
-
-## Minimally-invasive esophagectomy Acknowledgements
-
-::::: columns
-::: {.column width="50%"}
-Thoracic Surgery
-
--   Mike Roach MD
--   Jeff Hagen MD
-
-Anesthesia
-
--   Loran Soliman MD
-
-Surgical Critical Care
-
-General Surgery Residents
-:::
-
-::: {.column width="50%"}
-Nursing
-
--   STICU
--   6 Tower
-
-Clinical Nutrition
-
--   Elizabeth Koch RD
--   Meaghan Mikulas RD
--   Meredith Byrne RD
-
-Levine Cancer Institute
-
--   GI Oncology Clinic
-:::
-:::::
-
-## Orientation Manual
-
-{{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
-
-## References
-
-
+- EGD at 6 weeks
+- Repeat EGD at 12 weeks if negative
+- PET scan at 12 weeks
+- EUS-FNA of suspicious nodes on PET
