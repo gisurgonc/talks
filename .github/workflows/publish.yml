@@ -27,6 +27,7 @@ jobs:
           packages: |
             any::rmarkdown
             any::knitr
+            any::pwr
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
