@@ -3357,14 +3357,14 @@
     "href": "eso_postop_care.htm#oral-nutrition",
     "title": "Esophagectomy Postop Care",
     "section": "Oral Nutrition",
-    "text": "Oral Nutrition\nOnce cleared for liquids by MBS\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if tolerated\nProtein shakes 4oz at a time if tolerated"
+    "text": "Oral Nutrition\nOnce cleared for liquids by MBS\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if water tolerated\nProtein shakes 4oz at a time if 2 oz tolerated"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders",
     "href": "eso_postop_care.htm#diet-orders",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders",
-    "text": "Diet Orders\nIn general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.\nWhen patient is advanced to protein shakes:\n\nSupplement Task Order is noted as “Supplement Regimen” and comes up as a nursing task, up to TID"
+    "text": "Diet Orders\nIn general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for NPO and their oral liquids are designated through a Nursing Task\nWhen patient is advanced to protein shakes:\n\nEnter a Nursing Task for supplements tid"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders-1",
@@ -3378,14 +3378,14 @@
     "href": "eso_postop_care.htm#diet-orders-2",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders",
-    "text": "Diet Orders\nNPO Diet Continue Tube Feeds. Under “Special Instructions”, one of the following is entered:\n\nMedicines with thickened water\nWater 1oz per hour + meds with water\nEnsure High Protein 2oz per hour + Water 1oz per hour + meds with water\n\nThe above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient."
+    "text": "Diet Orders\nDiet NPO.\nNPO Except: Check “Other” and specify in diet comments.\n\nMedicines with thickened water\nWater 1oz per hour + meds with water\nGLucerna 2oz per hour + Water 1oz per hour + meds with water\n\nThe above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient."
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders-preop-npo",
     "href": "eso_postop_care.htm#diet-orders-preop-npo",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders Preop NPO",
-    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR need an order for “NPO after MN” and their tube feeds should be held at midnight."
+    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR need and NPO order AND need a separate order to hold tube feeds."
   },
   {
     "objectID": "eso_postop_care.htm#nutrition-summary",
