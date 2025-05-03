@@ -728,11 +728,11 @@
     "text": "Swallowing Evaluation\nModified Barium Swallow performed after NG tube removed\nOutcomes:\n\nPass for all consistencies (no aspiration or penetration) - 70%\nAspiration of thin liquids but OK for moderately thick liquids - 15%\nAspiration with moderately thick liquids - 15%"
   },
   {
-    "objectID": "eso_postop_care.htm#modified-barium-swallow--pass",
-    "href": "eso_postop_care.htm#modified-barium-swallow--pass",
+    "objectID": "eso_postop_care.htm#modified-barium-swallow---pass",
+    "href": "eso_postop_care.htm#modified-barium-swallow---pass",
     "title": "Esophagectomy Postop Care",
-    "section": "Modified Barium Swallow -Pass",
-    "text": "Modified Barium Swallow -Pass\n70% Pass - started with oral liquids 1oz/hour\n\nAdvanced to protein shakes 2oz/hour if water tolerated\nAdvanced to protein shakes 4oz/hour if tolerated\n\nPatients discharged taking water, Gatorade, and protein shakes orally"
+    "section": "Modified Barium Swallow - Pass",
+    "text": "Modified Barium Swallow - Pass\n70% Pass - started with oral liquids 1oz/hour\n\nAdvanced to protein shakes 2oz/hour if water tolerated\nAdvanced to protein shakes 4oz/hour if tolerated\n\nPatients discharged taking water, Gatorade, and protein shakes orally"
   },
   {
     "objectID": "eso_postop_care.htm#modified-barium-swallow---fail",
@@ -740,6 +740,13 @@
     "title": "Esophagectomy Postop Care",
     "section": "Modified Barium Swallow - Fail",
     "text": "Modified Barium Swallow - Fail\nCleared for moderately thick but aspiration with thin:\n\nNPO\nMedicines with a sip of thickened water\n\nAspiration with moderately thick liquids:\n\nNPO\nMedicines administered via jejunostomy tube\n\nMBS is repeated every 3-4 days until discharge"
+  },
+  {
+    "objectID": "eso_postop_care.htm#npo-orders",
+    "href": "eso_postop_care.htm#npo-orders",
+    "title": "Esophagectomy Postop Care",
+    "section": "NPO Orders",
+    "text": "NPO Orders"
   },
   {
     "objectID": "eso_postop_care.htm#anastomotic-leak",
@@ -781,14 +788,21 @@
     "href": "eso_postop_care.htm#ct-esophagram-with-ng-tube-in-place",
     "title": "Esophagectomy Postop Care",
     "section": "CT Esophagram with NG tube in place",
-    "text": "CT Esophagram with NG tube in place\nCT esophagram sensitivity is best if side-holes of NG tube are immediately adjacent to the anastomosis\nSide-holes extend 8.5cm up from the tip of the NG tube\nBest position of NG tube is with tip 5cm below the anastomosis\n\\(\\Rightarrow\\) NG tube needs to be optimally positioned prior to contrast instillation\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan performed to identify location of tip of NG tube relative to the anastomosis\nRadiologist will measure the distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm\nNG tube manipulation will need to be done by an RN or physician"
+    "text": "CT Esophagram with NG tube in place\nCT esophagram sensitivity is best if side-holes of NG tube are immediately adjacent to the anastomosis\nSide-holes extend 8.5cm up from the tip of the NG tube\nBest position of NG tube is with tip 5cm below the anastomosis\n\\(\\Rightarrow\\) NG tube needs to be optimally positioned prior to contrast instillation"
+  },
+  {
+    "objectID": "eso_postop_care.htm#ct-esophagram-with-ng-tube-in-place-1",
+    "href": "eso_postop_care.htm#ct-esophagram-with-ng-tube-in-place-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "CT Esophagram with NG tube in place",
+    "text": "CT Esophagram with NG tube in place\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan performed to identify location of tip of NG tube relative to the anastomosis\nRadiologist will measure the distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm\nNG tube manipulation will need to be done by an RN or physician"
   },
   {
     "objectID": "eso_postop_care.htm#ng-tube-withdrawl---amt-bridle",
     "href": "eso_postop_care.htm#ng-tube-withdrawl---amt-bridle",
     "title": "Esophagectomy Postop Care",
     "section": "NG Tube Withdrawl - AMT Bridle",
-    "text": "NG Tube Withdrawl - AMT Bridle\nNG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.\nIn order to open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
+    "text": "NG Tube Withdrawl - AMT Bridle\nNG tubes kept in place with an AMT bridle. Locking plastic clip holds the NG tube.\nTo open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
   },
   {
     "objectID": "eso_postop_care.htm#ct-esophagram---full-sequence",
@@ -833,11 +847,11 @@
     "text": "Atrial arrhythmia\nAtrial fibrillation (and other arrhythmias)\nPrevention – beta blockade/amiodarone\n\nMetoprolol 2.5mg IV q6 hours\n\nCan increase to 5mg IV\nConvert to 25-50mg enteral q12 hours\n\n\nDiagnosis – EKG monitoring\nTreatment – amiodarone, \\(\\uparrow\\)β blockade"
   },
   {
-    "objectID": "eso_postop_care.htm#risks-of-cervical-anastomosis---recurrent-laryngeal-nerve-palsy",
-    "href": "eso_postop_care.htm#risks-of-cervical-anastomosis---recurrent-laryngeal-nerve-palsy",
+    "objectID": "eso_postop_care.htm#cervical-anastomosis---recurrent-laryngeal-nerve-palsy",
+    "href": "eso_postop_care.htm#cervical-anastomosis---recurrent-laryngeal-nerve-palsy",
     "title": "Esophagectomy Postop Care",
-    "section": "Risks of Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy",
-    "text": "Risks of Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy\n\nHoarse voice\nDiagnosis by FEES (speech therapy)\nRisk of aspiration\n\nRLN palsy generally improves over time\nMay require medialization of the affected cord"
+    "section": "Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy",
+    "text": "Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy\n\nHoarse voice\nDiagnosis by FEES (speech therapy)\nRisk of aspiration\n\nRLN palsy generally improves over time\nMay require medialization of the affected cord"
   },
   {
     "objectID": "eso_postop_care.htm#risks-of-surgery",
@@ -854,18 +868,11 @@
     "text": "Thoracic Epidural Catheter\n\nManaged by Anesthesia Pain Service\nFoley catheter removed after epidural out\nCan cause hypotension due to sympathectomy effect"
   },
   {
-    "objectID": "eso_postop_care.htm#urinary-rention-with-epidural-catheter",
-    "href": "eso_postop_care.htm#urinary-rention-with-epidural-catheter",
+    "objectID": "eso_postop_care.htm#urinary-retention-with-epidural-catheter",
+    "href": "eso_postop_care.htm#urinary-retention-with-epidural-catheter",
     "title": "Esophagectomy Postop Care",
-    "section": "Urinary Rention with Epidural Catheter",
-    "text": "Urinary Rention with Epidural Catheter\nRandomized trial of early vs late removal of urinary catheter after thoracic surgery\nEarly removal at 48hrs: 12% reinsertion\n\nOne urinary tract infection\n\nRemoval 6 hours after epidural removal: 3.2% reinsertion\n\nNo urinary tract infection in 126 patients\n\n\n\nMayo Clinic (allen925?)"
-  },
-  {
-    "objectID": "eso_postop_care.htm#urinary-rention-with-epidural-catheter-1",
-    "href": "eso_postop_care.htm#urinary-rention-with-epidural-catheter-1",
-    "title": "Esophagectomy Postop Care",
-    "section": "Urinary Rention with Epidural Catheter",
-    "text": "Urinary Rention with Epidural Catheter\nEarly urinary removal catheter protocol (48hrs) compared with historical controls\nEarly removal at 48hrs: 28% retention\n\nUrinary tract infection 1%\n\nRemoval 6 hours after epidural removal: 12.4% retention (p=0.003)\n\nUrinary tract infection 3.2% (p=0.28)\n\n\n\nUniversity of Virginia (hu1302?)"
+    "section": "Urinary Retention with Epidural Catheter",
+    "text": "Urinary Retention with Epidural Catheter\nRandomized trial of early vs late removal of urinary catheter after thoracic surgery\nEarly removal at 48hrs: 12% reinsertion\n\nOne urinary tract infection\n\nRemoval 6 hours after epidural removal: 3.2% reinsertion\n\nNo urinary tract infection in 126 patients\n\n\n\nMayo Clinic (allen925?)"
   },
   {
     "objectID": "eso_postop_care.htm#multimodality-pain-management",
@@ -880,13 +887,6 @@
     "title": "Esophagectomy Postop Care",
     "section": "Jejunostomy Small Bowel Necrosis",
     "text": "Jejunostomy Small Bowel Necrosis\nAmong patients with a new jejunostomy tube:\n\n1% incidence of necrosis (gangrene) of the jejunum\nDue to demand ischemia\nCan lead to bowel perforation\nMore likely after major surgery"
-  },
-  {
-    "objectID": "eso_postop_care.htm#jejunal-necrosis---cincinnati-series",
-    "href": "eso_postop_care.htm#jejunal-necrosis---cincinnati-series",
-    "title": "Esophagectomy Postop Care",
-    "section": "Jejunal Necrosis - Cincinnati Series",
-    "text": "Jejunal Necrosis - Cincinnati Series\nEight patients over 14 years age 50-74\n\nPancreatectomy (n=6)\nEsophagectomy (n=2)\n\nPresentation 4 days after starting feeds\nSymptoms:\n\nAbdominal pain and distension\nTachycardia\nHypotension\nLeukocytosis"
   },
   {
     "objectID": "eso_postop_care.htm#case-study-54f-sp-total-gastrectomy-jejunostomy",
@@ -921,14 +921,21 @@
     "href": "eso_postop_care.htm#jejunostomy-associated-small-bowel-necrosis",
     "title": "Esophagectomy Postop Care",
     "section": "Jejunostomy-associated Small Bowel Necrosis",
-    "text": "Jejunostomy-associated Small Bowel Necrosis\n\n\nKey lessons:\n\nEarly diagnosis is critical. Stop Tube Feeds!\nSigns can be subtle: distension or \\(\\uparrow\\) pain\nCT scan is diagnostic\nAdvance tube feeds slowly until bowel function\nCritical period is probably first 5 days postop"
+    "text": "Jejunostomy-associated Small Bowel Necrosis\n\n\n\nEarly diagnosis is critical: Stop Tube Feeds!\nSigns can be subtle: distension or \\(\\uparrow\\) pain\nCT scan is diagnostic\nAdvance feeds slowly until bowel function\nCritical period is first 5 days postop"
   },
   {
     "objectID": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy",
     "href": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy",
     "title": "Esophagectomy Postop Care",
     "section": "Nutritional Consequences of Esophagectomy",
-    "text": "Nutritional Consequences of Esophagectomy\nOropharyngeal\n\nDsyphagia and aspiration due to muscle wasting\n\nGastric\n\nSmall capacity of gastric conduit\nDelayed gastric emptying\n\nIntestinal - Tube feeding intolerance\nIf That’s Not Enough…\n\nIncreased metabolic needs due to healing +\nPreoperative nutritional deficit"
+    "text": "Nutritional Consequences of Esophagectomy\nOropharyngeal\n\nDsyphagia and aspiration due to muscle wasting\n\nGastric\n\nSmall capacity of gastric conduit\nDelayed gastric emptying\n\nIntestinal - Tube feeding intolerance"
+  },
+  {
+    "objectID": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy-1",
+    "href": "eso_postop_care.htm#nutritional-consequences-of-esophagectomy-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Nutritional Consequences of Esophagectomy",
+    "text": "Nutritional Consequences of Esophagectomy\nIf That’s Not Enough…\n\nIncreased metabolic needs due to healing +\nPreoperative nutritional deficit"
   },
   {
     "objectID": "eso_postop_care.htm#gastric-emptying---medical-strategies",
@@ -949,7 +956,7 @@
     "href": "eso_postop_care.htm#jejunostomy-feedings-1",
     "title": "Esophagectomy Postop Care",
     "section": "Jejunostomy Feedings",
-    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (4pm-10am)\nFree Water Flushes\n\nPrevents tube clogging, constipation, hypernatremia\nFlush tube in am after running feeds\n240mL q4 hours while awake (qid)"
+    "text": "Jejunostomy Feedings\nFive cartons = 75mL/hour x 16 hours (4pm-10am) Four cartons = 60mL/hour x 16 hours (4pm-10am)\nFree Water Flushes\n\nPrevents tube clogging, constipation, hypernatremia\nFlush tube in am after running feeds\n240mL q4 hours while awake (qid)"
   },
   {
     "objectID": "eso_postop_care.htm#osmolite-1.5",
@@ -973,18 +980,18 @@
     "text": "Vital High Protein\nNutritionally Complete elemental Formula\n\nAppropriate for patients with BMI &gt;35\nMedium Chain Triglycerides (50%)\nHCPCS Code: B4153"
   },
   {
-    "objectID": "eso_postop_care.htm#jenunostomy-tube-feed-intolerance",
-    "href": "eso_postop_care.htm#jenunostomy-tube-feed-intolerance",
+    "objectID": "eso_postop_care.htm#diarrhea-with-jejunostomy-feeds",
+    "href": "eso_postop_care.htm#diarrhea-with-jejunostomy-feeds",
     "title": "Esophagectomy Postop Care",
-    "section": "Jenunostomy Tube Feed Intolerance",
-    "text": "Jenunostomy Tube Feed Intolerance\nDiarrhea, bloating, or cramps\n-Check clostridium Difficile -Switch formulas (Osmolite 1.5 →Vital 1.5) -Cautious use of anti-motility agents (eg Lomotil)"
+    "section": "Diarrhea with Jejunostomy Feeds",
+    "text": "Diarrhea with Jejunostomy Feeds\n\nCheck clostridium Difficile\nSwitch formulas (Osmolite 1.5 →Vital 1.5)\nCautious use of anti-motility agents (eg Lomotil)"
   },
   {
     "objectID": "eso_postop_care.htm#diabetic-patients-on-jejunostomy-feeds",
     "href": "eso_postop_care.htm#diabetic-patients-on-jejunostomy-feeds",
     "title": "Esophagectomy Postop Care",
     "section": "Diabetic Patients on Jejunostomy Feeds",
-    "text": "Diabetic Patients on Jejunostomy Feeds\nMay have more problems with elevated blood sugars\n\nFood bypasses duodenum\nReduced release of endogenous insulin\n\n\\(\\Rightarrow\\) may need long-acting insulin in the evening when tube feeds started\nExample regimen:\n\n10 Units 70/30 at 6 pm\n10 Units 70/30 at MN\n\n\\(\\Rightarrow\\) Early consultations with endocrinology"
+    "text": "Diabetic Patients on Jejunostomy Feeds\nMay have more problems with elevated blood sugars\n\nFood bypasses duodenum\nReduced release of endogenous insulin\n\n\\(\\Rightarrow\\) may need long-acting insulin in the evening when tube feeds started\n\\(\\Rightarrow\\) Early consultations with endocrinology"
   },
   {
     "objectID": "eso_postop_care.htm#diabetic-patients---transition-to-nocturnal-feeds",
@@ -998,56 +1005,49 @@
     "href": "eso_postop_care.htm#insulin---transition-to-nocturnal-feeds",
     "title": "Esophagectomy Postop Care",
     "section": "Insulin - Transition to Nocturnal Feeds",
-    "text": "Insulin - Transition to Nocturnal Feeds\nTube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). \nInsulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:\nTube feeds stopped 12pm & check blood sugar\nq6 hr insulin discontinued when tube feeds stopped\nNoon dose of insulin is held\nNocturnal tube feeds started at 6pm\nNocturnal insulin given at 6pm as ordered\nNocturnal insulin given at MN if ordered\n\\(\\Rightarrow\\) Requires coordination between surgical and endocrinology teams and nursing"
+    "text": "Insulin - Transition to Nocturnal Feeds\nTube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). \nInsulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:\n\nTube feeds stopped 12pm & check blood sugar\nq6 hr insulin discontinued when tube feeds stopped\nNoon dose of insulin is held\nNocturnal tube feeds started at 6pm\nNocturnal insulin given at 6pm as ordered\nNocturnal insulin given at MN if ordered\n\n\\(\\Rightarrow\\) Requires coordination between surgical and endocrinology teams and nursing"
   },
   {
-    "objectID": "eso_postop_care.htm#oral-nutrition",
-    "href": "eso_postop_care.htm#oral-nutrition",
+    "objectID": "eso_postop_care.htm#oral-nutrition-once-cleared-for-thin-liquids-by-mbs",
+    "href": "eso_postop_care.htm#oral-nutrition-once-cleared-for-thin-liquids-by-mbs",
     "title": "Esophagectomy Postop Care",
-    "section": "Oral Nutrition",
-    "text": "Oral Nutrition\nOnce cleared for thin liquids by MBS\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if water tolerated\nProtein shakes 4oz at a time if 2 oz tolerated"
+    "section": "Oral Nutrition once cleared for thin liquids by MBS",
+    "text": "Oral Nutrition once cleared for thin liquids by MBS\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if water tolerated\nProtein shakes 4oz at a time if 2 oz tolerated\n\nEnsure Max Protein will be available soon!"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders",
     "href": "eso_postop_care.htm#diet-orders",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders",
-    "text": "Diet Orders\nFresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead:\n\nNPO\nSupplement Intake Regimen\n\nWhen patient is advanced to protein shakes:\n\nEnter a Supplement Regimen"
+    "text": "Diet Orders\nPost-esophagectomy patients are NOT ordered for clear liquids or full liquids.\nInstead:\n\nNPO\nPermitted liquids in “NPO Except”\n\nWhen patient is advanced to protein shakes:\n\nEnter a Supplement Intake Regimen"
   },
   {
-    "objectID": "eso_postop_care.htm#npo-orders",
-    "href": "eso_postop_care.htm#npo-orders",
+    "objectID": "eso_postop_care.htm#npo-orders-1",
+    "href": "eso_postop_care.htm#npo-orders-1",
     "title": "Esophagectomy Postop Care",
     "section": "NPO Orders",
-    "text": "NPO Orders\n ## Supplement Intake Regimen"
+    "text": "NPO Orders"
   },
   {
-    "objectID": "eso_postop_care.htm#diet-orders-1",
-    "href": "eso_postop_care.htm#diet-orders-1",
+    "objectID": "eso_postop_care.htm#supplement-intake-regimen",
+    "href": "eso_postop_care.htm#supplement-intake-regimen",
     "title": "Esophagectomy Postop Care",
-    "section": "Diet Orders",
-    "text": "Diet Orders\nPatients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water.\nPatients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube."
-  },
-  {
-    "objectID": "eso_postop_care.htm#diet-options",
-    "href": "eso_postop_care.htm#diet-options",
-    "title": "Esophagectomy Postop Care",
-    "section": "Diet Options",
-    "text": "Diet Options\nDiet NPO.\nNPO Except: Check “Other” and specify in diet comments.\n\nMedicines with thickened water. or\nWater 1oz per hour + meds with water. or\nEnsure Max Protein + Water + meds with water 2-4oz at at time"
+    "section": "Supplement Intake Regimen",
+    "text": "Supplement Intake Regimen"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders-preop-npo",
     "href": "eso_postop_care.htm#diet-orders-preop-npo",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders Preop NPO",
-    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR need and NPO order AND need a separate order to hold tube feeds."
+    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR:\n\nNPO order AND\nHold Tube Feeds order"
   },
   {
     "objectID": "eso_postop_care.htm#nutrition-summary",
     "href": "eso_postop_care.htm#nutrition-summary",
     "title": "Esophagectomy Postop Care",
     "section": "Nutrition Summary",
-    "text": "Nutrition Summary\n\nEvaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time)\nEmphasize fluid as the patient transitions to 100% oral/tube hydration\nMonitor tolerance to full liquids prior to discharge\nAssure blood sugars are checked & controlled"
+    "text": "Nutrition Summary\n\nEvaluate tolerance to j-tube feeds and make adjustments as necessary\nformula\nrate\nduration\nEmphasize fluid as the patient transitions to 100% oral/tube hydration\nMonitor tolerance to full liquids prior to discharge\nAssure blood sugars are checked & controlled"
   },
   {
     "objectID": "eso_postop_care.htm#enteral-feeding-bag-details",
@@ -1068,7 +1068,7 @@
     "href": "eso_postop_care.htm#discharge-pod-67",
     "title": "Esophagectomy Postop Care",
     "section": "Discharge POD #6/#7",
-    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nCoumadin or anticoagulation (if in atrial fibrillation)"
+    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nAnticoagulation (if in atrial fibrillation)"
   },
   {
     "objectID": "eso_postop_care.htm#discharge-planning",
@@ -1082,7 +1082,7 @@
     "href": "eso_postop_care.htm#patient-instructions",
     "title": "Esophagectomy Postop Care",
     "section": "Patient Instructions",
-    "text": "Patient Instructions\nDriving: - Off narcotics and pain-free\nShowering: - OK to shower at home - No tub bath or swimming for 2 weeks\nActivity:\n\nNo lifting &gt;10# for 6 weeks\nOK to resume aerobic activity immediately"
+    "text": "Patient Instructions\nDriving:\n\nOff narcotics and pain-free\n\nShowering:\n\nOK to shower at home\nNo tub bath or swimming for 2 weeks\n\nActivity:\n\nNo lifting &gt;10# for 6 weeks\nOK to resume aerobic activity immediately"
   },
   {
     "objectID": "eso_postop_care.htm#postop-office-visit",
@@ -1096,7 +1096,7 @@
     "href": "eso_postop_care.htm#minimally-invasive-esophagectomy-acknowledgements",
     "title": "Esophagectomy Postop Care",
     "section": "Minimally-invasive esophagectomy Acknowledgements",
-    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic\n\n\nTube Feed Comparisons (60mL x 16 hrs) Tube Feed Comparisons (75mL x 16 hrs)"
+    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic"
   },
   {
     "objectID": "eso_postop_care.htm#orientation-hanbook",
