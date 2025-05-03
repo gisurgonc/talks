@@ -811,7 +811,7 @@ $\Rightarrow$ Requires coordination between surgical and endocrinology teams and
 
 ## Oral Nutrition
 
-Once cleared for liquids by MBS
+Once cleared for thin liquids by MBS
 
 - Water 1oz q hour orally 
 - Medications switched to oral
@@ -820,7 +820,10 @@ Once cleared for liquids by MBS
 
 ## Diet Orders
 
-In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for NPO and their oral liquids are designated through a Supplement Regimen order
+Fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead:
+
+- NPO
+- Supplement Intake Regimen
 
 When patient is advanced to protein shakes:
 
@@ -829,7 +832,7 @@ When patient is advanced to protein shakes:
 ## NPO Orders
 
 ![](images/NPO_orders.png)
-## Supplement Regimen
+## Supplement Intake Regimen
 
 ![](images/Supplement_orders.png)
 
@@ -846,9 +849,9 @@ Diet NPO.
 
 NPO Except: Check "Other" and specify in diet comments.
 
--   Medicines with thickened water
--   Water 1oz per hour + meds with water
--   Ensure Max Protein 2oz per hour + Water 1oz per hour + meds with water
+-   Medicines with thickened water. or
+-   Water 1oz per hour + meds with water. or
+-   Ensure Max Protein + Water + meds with water 2-4oz at at time
 
 ## Diet Orders Preop NPO
 
