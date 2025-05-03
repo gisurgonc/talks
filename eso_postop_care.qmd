@@ -164,7 +164,7 @@ Completed anastomosis
 
 ::::: columns
 ::: {.column width="50%"}
-Mininally-invasive feasible in 95% of cases
+Minimally-invasive feasible in 95% of cases
 
 Thoracotomy in 3%
 
@@ -230,7 +230,7 @@ If the stomach is not suitable to use as a conduit, the colon can be used to rep
 
 Vagus nerve normally stimulates gastric emptying
 
-Esophagectomy require dividing the vagus nere
+Esophagectomy require dividing the vagus nerve
 
 $\Rightarrow$ Esophagectomy can cause delayed gastric emptying
 
@@ -268,8 +268,8 @@ Modified Barium Swallow performed after NG tube removed
 Outcomes:
 
 -   Pass for all consistencies (no aspiration or penetration) - 70%
--   Aspiration of thin liquids but OK for moderately thick liquinds - 15%
--   Aspiration witn moderately thick liquids - 15%
+-   Aspiration of thin liquids but OK for moderately thick liquids - 15%
+-   Aspiration with moderately thick liquids - 15%
 
 ## Modified Barium Swallow -Pass
 
@@ -354,7 +354,7 @@ Thoracic anastomosis
 -   Usually leaks into the right chest
     -   JP#2 drains the right chest
 
-Cerfical anastomosis
+Cervical anastomosis
 
 -   Usually leaks into the neck
     -   JP#4 drains the neck incision
@@ -373,13 +373,13 @@ Pre-contrast CT scan performed without contrast
 
 Water-soluble contrast instilled in the esophagus
 
-Constast CT scan peformed
+Contrast CT scan performed
 
 Radiologist looks for contrast extravisation from esophagus
 
 ## CT Esophagram with NG tube in place
 
-CT esophagram sentivity is best if side-holes of NG tube are immediately adjacent to the anastomosis
+CT esophagram sensitivity is best if side-holes of NG tube are immediately adjacent to the anastomosis
 
 Side-holes extend 8.5cm up from the tip of the NG tube
 
@@ -389,7 +389,7 @@ $\Rightarrow$ NG tube needs to be optimally positioned **prior** to contrast ins
 
 Once patient is positioned on the CT scanner:
 
--   "Scout" scan peformed to identify location of tip of NG tube relative to the anastomosis
+-   "Scout" scan performed to identify location of tip of NG tube relative to the anastomosis
 -   Radiologist will measure the distance from the anastomosis to the tip of the NG tube.
 -   NG tube is then withdrawn a distance which keeps the NG tube tip 5cm *below* the anastomosis.
   -   If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm
@@ -399,7 +399,7 @@ Once patient is positioned on the CT scanner:
 
 NG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.
 
-In order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.
+In order to open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.
 
 The NG tube can then be withdrawn the required distance
 
@@ -411,13 +411,13 @@ Ideal position is with all 4 dots outside the nose
 
 Scout CT Scan obtained and NG position measured
 
-NG tube withdrawn by RN/physicin
+NG tube withdrawn by RN/physician
 
 Pre-contrast CT scan performed without contrast
 
 Water-soluble contrast instilled in the esophagus
 
-Constast CT scan peformed
+Contrast CT scan performed
 
 NG tube returned to prior position
 
@@ -466,7 +466,7 @@ Pneumonia occurs in 10% of patients after esophagectomy.
 
 ## Preventing Pneumonia
 
-Clearance of oropharygeal secretions::
+Clearance of oropharyngeal secretions::
 
 -   Deep breathing
 -   Coughing
@@ -543,7 +543,7 @@ Early removal at 48hrs: 28% retention
 
 Removal 6 hours after epidural removal: 12.4% retention (p=0.003)
 
--   Uninary tract infection 3.2% (p=0.28)
+-   Urinary tract infection 3.2% (p=0.28)
 
 ::: aside
 University of Virginia [@hu1302]
@@ -693,7 +693,7 @@ If That’s Not Enough…
 
 ## Gastric Emptying - Medical Strategies
 
-Metoclopramine (Reglan®) – 10mg po/iv q6hrs
+Metoclopramide (Reglan®) – 10mg po/iv q6hrs
 
 -   Side effects
     -   Dystonic reaction (esp in young)
@@ -752,7 +752,7 @@ Nutritionally complete elemental formula
 Nutritionally Complete elemental Formula 
 
 - Appropriate for patients with BMI \>35 
-- Medium Chain Triglyceries (50%) 
+- Medium Chain Triglycerides (50%) 
 - HCPCS Code: B4153 
 
 ## Jenunostomy Tube Feed Intolerance
@@ -768,7 +768,7 @@ Diarrhea, bloating, or cramps
 May have more problems with elevated blood sugars 
 
 - Food bypasses duodenum
-- Reduced release of endogenous isulin
+- Reduced release of endogenous insulin
 
 $\Rightarrow$ may need long-acting insulin in the evening when tube feeds started
 
@@ -911,7 +911,7 @@ Coumadin or anticoagulation (if in atrial fibrillation)
 
 Jejunostomy tube feedings
 
--   Pump mangement
+-   Pump management
 -   Free water flushes
 
 Medications: Who is managing new meds?
