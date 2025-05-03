@@ -820,11 +820,19 @@ Once cleared for liquids by MBS
 
 ## Diet Orders
 
-In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for NPO and their oral liquids are designated through a Nursing Task
+In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for NPO and their oral liquids are designated through a Supplement Regimen order
 
 When patient is advanced to protein shakes:
 
-- Enter a Nursing Task for supplements tid
+- Enter a Supplement Regimen
+
+## NPO Orders
+
+![](images/NPO_orders.png)
+## Supplement Regimen
+
+![](images/Supplement_orders.png)
+
 
 ## Diet Orders
 
@@ -832,7 +840,7 @@ Patients who are cleared for nectar thick on MBS (but are not cleared for thin l
 
 Patients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube.
 
-## Diet Orders
+## Diet Options
 
 Diet NPO.
 
@@ -840,9 +848,7 @@ NPO Except: Check "Other" and specify in diet comments.
 
 -   Medicines with thickened water
 -   Water 1oz per hour + meds with water
--   GLucerna 2oz per hour + Water 1oz per hour + meds with water
-
-The above ordering should be used instead of ‘clear liquid diet’ or ‘full liquid diet’ in the fresh post-op esophagectomy patient.
+-   Ensure Max Protein 2oz per hour + Water 1oz per hour + meds with water
 
 ## Diet Orders Preop NPO
 
