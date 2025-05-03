@@ -845,7 +845,7 @@
 </section>
 <section id="oral-nutrition" class="slide level2">
 <h2>Oral Nutrition</h2>
-<p>Once cleared for liquids by MBS</p>
+<p>Once cleared for thin liquids by MBS</p>
 <ul>
 <li>Water 1oz q hour orally</li>
 <li>Medications switched to oral</li>
@@ -855,7 +855,11 @@
 </section>
 <section id="diet-orders" class="slide level2">
 <h2>Diet Orders</h2>
-<p>In general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for NPO and their oral liquids are designated through a Supplement Regimen order</p>
+<p>Fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead:</p>
+<ul>
+<li>NPO</li>
+<li>Supplement Intake Regimen</li>
+</ul>
 <p>When patient is advanced to protein shakes:</p>
 <ul>
 <li>Enter a Supplement Regimen</li>
@@ -863,7 +867,7 @@
 </section>
 <section id="npo-orders" class="slide level2">
 <h2>NPO Orders</h2>
-<p><img data-src="images/NPO_orders.png"> ## Supplement Regimen</p>
+<p><img data-src="images/NPO_orders.png"> ## Supplement Intake Regimen</p>
 <p><img data-src="images/Supplement_orders.png"></p>
 </section>
 <section id="diet-orders-1" class="slide level2">
@@ -876,9 +880,9 @@
 <p>Diet NPO.</p>
 <p>NPO Except: Check “Other” and specify in diet comments.</p>
 <ul>
-<li>Medicines with thickened water</li>
-<li>Water 1oz per hour + meds with water</li>
-<li>Ensure Max Protein 2oz per hour + Water 1oz per hour + meds with water</li>
+<li>Medicines with thickened water. or</li>
+<li>Water 1oz per hour + meds with water. or</li>
+<li>Ensure Max Protein + Water + meds with water 2-4oz at at time</li>
 </ul>
 </section>
 <section id="diet-orders-preop-npo" class="slide level2">
@@ -1003,6 +1007,19 @@
   var script = document.currentScript;
   var qrcode = script.previousElementSibling;
   qrcode.qrcode = new QRCode(qrcode, {"colorDark":"#000000","colorLight":"#ffffff","height":"500","text":"https://gisurgonc.github.io/handbook","width":"500"});
+  script.remove();
+})();
+</script>
+    
+</section>
+<section id="esophagectomy-postop-care-talk" class="slide level2">
+<h2>Esophagectomy Postop Care Talk</h2>
+<div id="" class="qrcode"></div>
+<script type="text/javascript">
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"colorDark":"#000000","colorLight":"#ffffff","height":"500","text":"https://gisurgonc.github.io/talks/eso_postop_care.htm","width":"500"});
   script.remove();
 })();
 </script>

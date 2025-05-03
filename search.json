@@ -1005,21 +1005,21 @@
     "href": "eso_postop_care.htm#oral-nutrition",
     "title": "Esophagectomy Postop Care",
     "section": "Oral Nutrition",
-    "text": "Oral Nutrition\nOnce cleared for liquids by MBS\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if water tolerated\nProtein shakes 4oz at a time if 2 oz tolerated"
+    "text": "Oral Nutrition\nOnce cleared for thin liquids by MBS\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if water tolerated\nProtein shakes 4oz at a time if 2 oz tolerated"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders",
     "href": "eso_postop_care.htm#diet-orders",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders",
-    "text": "Diet Orders\nIn general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for NPO and their oral liquids are designated through a Supplement Regimen order\nWhen patient is advanced to protein shakes:\n\nEnter a Supplement Regimen"
+    "text": "Diet Orders\nFresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead:\n\nNPO\nSupplement Intake Regimen\n\nWhen patient is advanced to protein shakes:\n\nEnter a Supplement Regimen"
   },
   {
     "objectID": "eso_postop_care.htm#npo-orders",
     "href": "eso_postop_care.htm#npo-orders",
     "title": "Esophagectomy Postop Care",
     "section": "NPO Orders",
-    "text": "NPO Orders\n ## Supplement Regimen"
+    "text": "NPO Orders\n ## Supplement Intake Regimen"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders-1",
@@ -1033,7 +1033,7 @@
     "href": "eso_postop_care.htm#diet-options",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Options",
-    "text": "Diet Options\nDiet NPO.\nNPO Except: Check “Other” and specify in diet comments.\n\nMedicines with thickened water\nWater 1oz per hour + meds with water\nEnsure Max Protein 2oz per hour + Water 1oz per hour + meds with water"
+    "text": "Diet Options\nDiet NPO.\nNPO Except: Check “Other” and specify in diet comments.\n\nMedicines with thickened water. or\nWater 1oz per hour + meds with water. or\nEnsure Max Protein + Water + meds with water 2-4oz at at time"
   },
   {
     "objectID": "eso_postop_care.htm#diet-orders-preop-npo",
@@ -1104,6 +1104,13 @@
     "title": "Esophagectomy Postop Care",
     "section": "Orientation Hanbook",
     "text": "Orientation Hanbook"
+  },
+  {
+    "objectID": "eso_postop_care.htm#esophagectomy-postop-care-talk",
+    "href": "eso_postop_care.htm#esophagectomy-postop-care-talk",
+    "title": "Esophagectomy Postop Care",
+    "section": "Esophagectomy Postop Care Talk",
+    "text": "Esophagectomy Postop Care Talk"
   },
   {
     "objectID": "eso_postop_care.htm#references",
