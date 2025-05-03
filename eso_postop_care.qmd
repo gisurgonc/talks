@@ -542,21 +542,6 @@ Removal 6 hours after epidural removal: 3.2% reinsertion
 Mayo Clinic [@allen925]
 :::
 
-## Urinary Retention with Epidural Catheter
-
-Early urinary removal catheter protocol (48hrs) compared with historical controls
-
-Early removal at 48hrs: 28% retention
-
--   Urinary tract infection 1%
-
-Removal 6 hours after epidural removal: 12.4% retention (p=0.003)
-
--   Urinary tract infection 3.2% (p=0.28)
-
-::: aside
-University of Virginia [@hu1302]
-:::
 
 ## Multimodality Pain Management
 
@@ -576,21 +561,6 @@ Among patients with a new jejunostomy tube:
 - Can lead to bowel perforation 
 - More likely after major surgery
 
-## Jejunal Necrosis - Cincinnati Series
-
-Eight patients over 14 years age 50-74
-
--   Pancreatectomy (n=6)
--   Esophagectomy (n=2)
-
-Presentation 4 days after starting feeds
-
-Symptoms:
-
--   Abdominal pain and distension
--   Tachycardia
--   Hypotension
--   Leukocytosis
 
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
