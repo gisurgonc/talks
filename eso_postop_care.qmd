@@ -991,4 +991,8 @@ Tube Feed Comparisons (60mL x 16 hrs) Tube Feed Comparisons (75mL x 16 hrs)
 
 {{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
 
+## Esophagectomy Postop Care Talk
+
+{{< qrcode https://gisurgonc.github.io/talks/eso_postop_care.htm width=500 height=500 >}}
+
 ## References
