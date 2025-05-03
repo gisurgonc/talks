@@ -271,7 +271,7 @@ Outcomes:
 -   Aspiration of thin liquids but OK for moderately thick liquids - 15%
 -   Aspiration with moderately thick liquids - 15%
 
-## Modified Barium Swallow -Pass
+## Modified Barium Swallow - Pass
 
 70% Pass - started with oral liquids 1oz/hour
 
@@ -295,6 +295,12 @@ Aspiration with moderately thick liquids:
 - Medicines administered via jejunostomy tube
 
 MBS is repeated every 3-4 days until discharge
+
+
+## NPO Orders
+
+![](images/NPO_orders.png)
+
 
 
 ## Anastomotic Leak
@@ -387,6 +393,9 @@ Best position of NG tube is with tip 5cm below the anastomosis
 
 $\Rightarrow$ NG tube needs to be optimally positioned **prior** to contrast instillation
 
+
+## CT Esophagram with NG tube in place
+
 Once patient is positioned on the CT scanner:
 
 -   "Scout" scan performed to identify location of tip of NG tube relative to the anastomosis
@@ -397,9 +406,9 @@ Once patient is positioned on the CT scanner:
 
 ## NG Tube Withdrawl - AMT Bridle
 
-NG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.
+NG tubes kept in place with an AMT bridle. Locking plastic clip holds the NG tube.
 
-In order to open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.
+To open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.
 
 The NG tube can then be withdrawn the required distance
 
@@ -492,7 +501,7 @@ Diagnosis – EKG monitoring
 Treatment – amiodarone, $\uparrow$β blockade
 
 
-## Risks of Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy
+## Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy
 
 -   Hoarse voice
 -   Diagnosis by FEES (speech therapy)
@@ -517,7 +526,7 @@ May require medialization of the affected cord
 -   Foley catheter removed after epidural out
 -   Can cause hypotension due to sympathectomy effect
 
-## Urinary Rention with Epidural Catheter
+## Urinary Retention with Epidural Catheter
 
 Randomized trial of early vs late removal of urinary catheter after thoracic surgery
 
@@ -533,7 +542,7 @@ Removal 6 hours after epidural removal: 3.2% reinsertion
 Mayo Clinic [@allen925]
 :::
 
-## Urinary Rention with Epidural Catheter
+## Urinary Retention with Epidural Catheter
 
 Early urinary removal catheter protocol (48hrs) compared with historical controls
 
@@ -659,13 +668,12 @@ Segmental resection of jejunum.
 
 ::::: columns
 ::: {.column width="50%"}
-Key lessons:
 
--   Early diagnosis is critical. **Stop Tube Feeds!**
+-   Early diagnosis is critical: **Stop Tube Feeds!**
 -   Signs can be subtle: distension or $\uparrow$ pain
 -   CT scan is diagnostic
--   Advance tube feeds slowly until bowel function
--   Critical period is probably first 5 days postop
+-   Advance feeds slowly until bowel function
+-   Critical period is first 5 days postop
 :::
 
 ::: {.column width="50%"}
@@ -686,10 +694,14 @@ Gastric
 
 Intestinal - Tube feeding intolerance
 
+
+## Nutritional Consequences of Esophagectomy
+
 If That’s Not Enough… 
 
 - Increased metabolic needs due to healing + 
 - Preoperative nutritional deficit
+
 
 ## Gastric Emptying - Medical Strategies
 
@@ -717,7 +729,8 @@ Vital High Protein for BMI \>35 (decreased CHO/calorie content, increased protei
 
 ## Jejunostomy Feedings
 
-Five cans = 75mL/hour x 16 hours (4pm-10am)
+Five cartons = 75mL/hour x 16 hours (4pm-10am)
+Four cartons = 60mL/hour x 16 hours (4pm-10am)
 
 Free Water Flushes
 
@@ -755,13 +768,11 @@ Nutritionally Complete elemental Formula
 - Medium Chain Triglycerides (50%) 
 - HCPCS Code: B4153 
 
-## Jenunostomy Tube Feed Intolerance
+## Diarrhea with Jejunostomy Feeds
 
-Diarrhea, bloating, or cramps
-
--Check clostridium Difficile 
--Switch formulas (Osmolite 1.5 →Vital 1.5) 
--Cautious use of anti-motility agents (eg Lomotil)
+- Check clostridium Difficile 
+- Switch formulas (Osmolite 1.5 →Vital 1.5) 
+- Cautious use of anti-motility agents (eg Lomotil)
 
 ## Diabetic Patients on Jejunostomy Feeds
 
@@ -771,11 +782,6 @@ May have more problems with elevated blood sugars
 - Reduced release of endogenous insulin
 
 $\Rightarrow$ may need long-acting insulin in the evening when tube feeds started
-
-Example regimen:
-
-- 10 Units 70/30 at 6 pm 
-- 10 Units 70/30 at MN
 
 $\Rightarrow$ Early consultations with endocrinology
 
@@ -795,63 +801,47 @@ Tube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). 
 
 Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:
 
-Tube feeds stopped 12pm & check blood sugar
-
-q6 hr insulin discontinued when tube feeds stopped
-
-Noon dose of insulin is held
-
-Nocturnal tube feeds started at 6pm
-
-Nocturnal insulin given at 6pm as ordered
-
-Nocturnal insulin given at MN if ordered
+- Tube feeds stopped 12pm & check blood sugar
+- q6 hr insulin discontinued when tube feeds stopped
+- Noon dose of insulin is held
+- Nocturnal tube feeds started at 6pm
+- Nocturnal insulin given at 6pm as ordered
+- Nocturnal insulin given at MN if ordered
 
 $\Rightarrow$ Requires coordination between surgical and endocrinology teams and nursing
 
-## Oral Nutrition
 
-Once cleared for thin liquids by MBS
+## Oral Nutrition once cleared for thin liquids by MBS
 
 - Water 1oz q hour orally 
 - Medications switched to oral
 - Protein shakes 2oz at a time if water tolerated
 - Protein shakes 4oz at a time if 2 oz tolerated
 
+Ensure Max Protein will be available soon!
+
 ## Diet Orders
 
-Fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead:
+Post-esophagectomy patients are NOT ordered for clear liquids or full liquids. 
+
+Instead:
 
 - NPO
-- Supplement Intake Regimen
+- Permitted liquids in "NPO Except"
 
 When patient is advanced to protein shakes:
 
-- Enter a Supplement Regimen
+- Enter a Supplement Intake Regimen
 
 ## NPO Orders
 
 ![](images/NPO_orders.png)
+
+
 ## Supplement Intake Regimen
 
 ![](images/Supplement_orders.png)
 
-
-## Diet Orders
-
-Patients who are cleared for nectar thick on MBS (but are not cleared for thin liquids) are kept NPO and are given medicines with sips of thickened water.
-
-Patients who fail for nectar thick liquids are kept NPO and their medicines are given via jejunostomy tube.
-
-## Diet Options
-
-Diet NPO.
-
-NPO Except: Check "Other" and specify in diet comments.
-
--   Medicines with thickened water. or
--   Water 1oz per hour + meds with water. or
--   Ensure Max Protein + Water + meds with water 2-4oz at at time
 
 ## Diet Orders Preop NPO
 
@@ -859,11 +849,18 @@ NPO Except: Check "Other" and specify in diet comments.
 
 Preop NPO Orders
 
-Patients who will return to the OR need and NPO order AND need a separate order to hold tube feeds.
+Patients who will return to the OR:
+
+- NPO order AND 
+- Hold Tube Feeds order
 
 ## Nutrition Summary
 
--   Evaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time)
+-   Evaluate tolerance to j-tube feeds and make adjustments as necessary
+
+  - formula
+  - rate
+  - duration
 -   Emphasize fluid as the patient transitions to 100% oral/tube hydration
 -   Monitor tolerance to full liquids prior to discharge
 -   Assure blood sugars are checked & controlled
@@ -908,7 +905,7 @@ Remeron 15mg po qhs
 
 Anti-arrhythmics (if needed)
 
-Coumadin or anticoagulation (if in atrial fibrillation)
+Anticoagulation (if in atrial fibrillation)
 
 ## Discharge Planning
 
@@ -927,9 +924,11 @@ Home nursing: Postop visit
 ## Patient Instructions
 
 Driving: 
+
 - Off narcotics and pain-free
 
 Showering: 
+
 - OK to shower at home
 - No tub bath or swimming for 2 weeks
 
@@ -984,8 +983,6 @@ Levine Cancer Institute
 -   GI Oncology Clinic
 :::
 :::::
-
-Tube Feed Comparisons (60mL x 16 hrs) Tube Feed Comparisons (75mL x 16 hrs)
 
 ## Orientation Hanbook
 
