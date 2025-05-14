@@ -20,10 +20,9 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-
 ## Case 1
 
-:::::: columns
+::::::: columns
 :::: {.column width="50%"}
 ::: {style="font-size: 125%;"}
 62M with longstanding reflux has first EGD.
@@ -37,15 +36,12 @@ Reflux got worse during training for a triathalon
 ![](https://deidt7p41jzcy.cloudfront.net/barretts_comm.png)
 :::
 ::::
-::::::
-
-
+:::::::
 
 ## Case 1
 
 Pathology shows Barrett's metaplasia without dysplasia
 
-
 :::::: columns
 ::: {.column width="50%"}
 What is appropriate follow up?
@@ -55,12 +51,9 @@ Biopsy strategy?
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
 :::
 ::::
 ::::::
-
-
 
 ## Case 1 Barrett's metaplasia without dysplasia
 
@@ -73,17 +66,15 @@ What is appropriate follow up?
 ::: {.content-visible unless-format="docx"}
 AGA Guidelines
 
-- No dysplasia: 3-5 years
-- Low grade dysplasia: 6-12 months
-- High grade dysplasia 3 months
-  - (in the absence of ablation)
+-   No dysplasia: 3-5 years
+-   Low grade dysplasia: 6-12 months
+-   High grade dysplasia 3 months
+    -   (in the absence of ablation)
 :::
 ::::
 ::::::
 
-
 ## Case 1 Barrett's metaplasia without dysplasia
-
 
 :::::: columns
 ::: {.column width="50%"}
@@ -94,21 +85,17 @@ Biopsy strategy?
 ::: {.content-visible unless-format="docx"}
 AGA Guidelines
 
-- White light endoscopy
-- 4-quadrant biopsy every 2cm
-- Mucosal irregularity biopsied separately
-- 4-quadrant biopsy every 1cm if dysplasia)
-
+-   White light endoscopy
+-   4-quadrant biopsy every 2cm
+-   Mucosal irregularity biopsied separately
+-   4-quadrant biopsy every 1cm if dysplasia)
 :::
 ::::
 ::::::
-
-
 
 ## Case 2
 
 Pathology shows high-grade dysplasia
-
 
 :::::: columns
 ::: {.column width="50%"}
@@ -117,37 +104,30 @@ Treatment Options:
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
-- [Observation]
-- [Esophagectomy]
-- [Cryotherapy]
-- [Irreversible Electroporation]
-- [Radio-frequency Ablation]
-
-
+-   [Observation]
+-   [Esophagectomy]
+-   [Cryotherapy]
+-   [Irreversible Electroporation]
+-   [Radio-frequency Ablation]
 :::
 ::::
 ::::::
 
-
 ## Observation
 
-:::{.fragment}
-You receive a hand-written note from the family 
+::: fragment
+You receive a hand-written note from the family
 :::
 
-:::{.fragment}
-inviting you to the funeral of the patient 
+::: fragment
+inviting you to the funeral of the patient
 :::
 
-:::{.fragment}
+::: fragment
 who passed after a heroic battle with esophageal cancer
 :::
 
-
-
 [Case 2]
-
 
 ## Esophagectomy
 
@@ -161,12 +141,9 @@ Correct answer, wrong century (not the 22nd)
 
 [Case 2]
 
-
-
 ## Irreversible Electroporation
 
 ![](https://source.washu.edu/app/uploads/2018/09/frankenstein-760x507.jpg)
-
 
 [Case 2]
 
@@ -192,7 +169,6 @@ Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
 
 EGD shows a nodule in the Barrett's esophagus
 
-
 :::::: columns
 ::: {.column width="50%"}
 Treatment Options:
@@ -200,42 +176,33 @@ Treatment Options:
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
-- [Surveillance]
-- [Minimally Invasive Esophagectomy]
-- [Endoscopic Mucosal Resection]
-- [Radio-frequency Ablation Barxx]
-
-
+-   [Surveillance]
+-   [Minimally Invasive Esophagectomy]
+-   [Endoscopic Mucosal Resection]
+-   [Radio-frequency Ablation Barxx]
 :::
 ::::
 ::::::
 
-
-
-
-
 ## Surveillance
 
-:::{.fragment}
-You receive a hand-written note from the family 
+::: fragment
+You receive a hand-written note from the family
 :::
 
-:::{.fragment}
-inviting you the patient's 70th birthday 
+::: fragment
+inviting you the patient's 70th birthday
 :::
 
-:::{.fragment}
+::: fragment
 after being treated at a competing medical center
 :::
 
-:::{.fragment}
+::: fragment
 for esophageal cancer
 :::
 
-
 [Case 3]
-
 
 ## Minimally Invasive Esophagectomy
 
@@ -255,15 +222,11 @@ Endoscopic procedure resects mucosal tumor
 
 Correct answer, wrong question
 
-
-
 ## Case 4
 
 Your patient from Case 2 returns with dysphagia and weight loss
 
-
 ![](https://deidt7p41jzcy.cloudfront.net/eso_egd2.png)
-
 
 ## Case 4 Adenocarcinoma
 
@@ -271,14 +234,13 @@ Pathology shows adenocarcinoma
 
 Workup?
 
-
 ## Case 4 Adenocarcinoma
 
 Workup?
 
-- [Barium Swallow]
-- [Endoscopic Ultrasound]
-- [CT Chest/Abdomen/Pelvis]
+-   [Barium Swallow]
+-   [Endoscopic Ultrasound]
+-   [CT Chest/Abdomen/Pelvis]
 
 ## Barium Swallow
 
@@ -288,29 +250,27 @@ Correct answer, wrong century
 
 ## Endoscopic Ultrasound
 
-
-:::{.fragment}
-You receive a hand-written note from the family 
+::: fragment
+You receive a hand-written note from the family
 :::
 
-:::{.fragment}
-inviting you the patient's funeral 
+::: fragment
+inviting you the patient's funeral
 :::
 
-:::{.fragment}
+::: fragment
 after they died from an esophageal perforation
 :::
 
-:::{.fragment}
+::: fragment
 which occured during EUS
 :::
 
-:::{.fragment}
+::: fragment
 Autopsy showed T3 adenocarcinoma
 :::
 
 [EUS in Patients with Dysphagia]
-
 
 [Case 4]
 
@@ -336,15 +296,13 @@ A PET scan is most accurate method of staging esophageal cancer
 In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
 
-
 ## T3 N0 M0 adenocarcinoma
 
 Treatment Options - First Treatment Course
 
-- [MI Esophagectomy]
-- [Chemo + Radiation]
-- [Chemotherapy]
-
+-   [MI Esophagectomy]
+-   [Chemo + Radiation](#chemo-radiation)
+-   [Chemotherapy]
 
 ## MI Esophagectomy
 
@@ -354,8 +312,7 @@ Why?
 
 [T3 N0 M0 adenocarcinoma]
 
-
-## Chemo + Radiation
+## Chemo + Radiation {#chemo-radiation}
 
 Concurrent chemotherapy and radiation followed by surgery = Trimodality therapy
 
@@ -443,13 +400,11 @@ Family asks if there is a better treatment option than CROSS
 
 -   pCR 17% for FLOT and 10% CROSS
 
-
 ## Case 7
 
 Patient returns after FLOT chemotherapy
 
 What are risks of surgery?
-
 
 ## Preoperative Evaluation
 
@@ -461,8 +416,6 @@ What are risks of surgery?
 
 25th percentile: Grip Strength 26kg (men) / 16kg (women)
 
-
-
 ## Case 7
 
 Patient returns after FLOT chemotherapy
@@ -473,10 +426,9 @@ What are surgical options?
 
 ![](https://deidt7p41jzcy.cloudfront.net/decision_low.png)
 
-
 ## High Risk Adenocarcinoma
-![](https://deidt7p41jzcy.cloudfront.net/surg_high.png)
 
+![](https://deidt7p41jzcy.cloudfront.net/surg_high.png)
 
 ## Surgery for Esophageal Cancer
 
@@ -527,7 +479,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
 ## Minimally-invasive Ivor Lewis
 
 ::::: columns
@@ -542,7 +493,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
 ## Ivor Lewis esophagectomy
 
 ::::: columns
@@ -554,9 +504,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 ![](https://deidt7p41jzcy.cloudfront.net/C21-FF6.png)
 :::
 :::::
-
-
-
 
 ## Ivor Lewis esophagectomy
 
@@ -570,11 +517,7 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
-
-
 ## Thoracic Circular Stapled Anastomosis {background-video="https://deidt7p41jzcy.cloudfront.net/eso_eea.mp4" background-video-loop="true" background-video-muted="true"}
-
 
 ## Open Ivor Lewis
 
@@ -616,7 +559,6 @@ Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McK
 :::
 :::::
 
-
 ## Transhiatal Esophagectomy
 
 ::::: columns
@@ -628,9 +570,6 @@ Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McK
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE_ai.png)
 :::
 :::::
-
-
-
 
 ## Colon Interposition
 
@@ -648,8 +587,6 @@ If the stomach is not suitable to make a new esophagus, the colon can be used to
 
 ![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
 
-
-
 ## Esophageal Cancer Treatment Categories
 
 | Category             |   Stage    | Treatment                  |
@@ -659,7 +596,6 @@ If the stomach is not suitable to make a new esophagus, the colon can be used to
 | [Localized Tumors]   |   T1b T2   | Surgery                    |
 | [Locally-advanced]   | T3 or N^+^ | Chemo or ChemoRT → Surgery |
 | [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
-
 
 ## Dyplasia
 
@@ -766,10 +702,9 @@ For patients with locally-advanced esophageal cancer, improved survival with adj
 
 Squamous Cell Carcinoma of the esophagus
 
-- responds well to chemo+RT
-- more difficul to get a surgical margin on the airway
-- additional benefit of surgery on top of chemoRT is uncertain
-
+-   responds well to chemo+RT
+-   more difficul to get a surgical margin on the airway
+-   additional benefit of surgery on top of chemoRT is uncertain
 
 ## FFCD 9102 2007 (Bedenne)
 
@@ -781,15 +716,15 @@ Patients with a clinical response were randomized:
 
 -   3 cycles of chemo + 2000 cGy RT -\> 2 year survival 40% Median 19.3mo
 
-*No difference in overall survival* 
+*No difference in overall survival*
 
 ## German Trial (Stahl)
 
 4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
 
-6500cGy RT + Chemo:  41% 2-year PFS. Mortality 3.5%
+6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
 
-*No difference in overall survival* 
+*No difference in overall survival*
 
 ## Metastatic
 
@@ -801,7 +736,6 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 ::::: columns
 ::: {.column width="30%"}
-
 :::
 
 ::: {.column width="70%"}
@@ -810,7 +744,6 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 :::::
 
 ::: aside
-
 :::
 
 ## References

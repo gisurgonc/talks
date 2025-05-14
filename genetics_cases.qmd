@@ -34,59 +34,54 @@ MYC
 
 ## Tumor Suppressor Genes
 
-
-
 ## FAP Prophylactic Surgery
 
-- Total proctocolectomy with ileoal pouch
-- Total colectomy with ileorectal anastomosis
-- Proctocolectomy with end ileostomy
+-   Total proctocolectomy with ileoal pouch
+-   Total colectomy with ileorectal anastomosis
+-   Proctocolectomy with end ileostomy
 
 ## Lynch Syndrome Prophylactic Surgery
 
-- No role for prophylactic colon surgery
-- Prophylactic hysterectomy with BSO
+-   No role for prophylactic colon surgery
+-   Prophylactic hysterectomy with BSO
 
 ## BRCA 1/2 Prophylactic Surgery
 
-- Bilateral mastectomy reduces lifetime risk 90%
-- Surveillance is a reasonable option
-  - Yearly mammogram
-  - Yearly breast MRI
-  
+-   Bilateral mastectomy reduces lifetime risk 90%
+-   Surveillance is a reasonable option
+    -   Yearly mammogram
+    -   Yearly breast MRI
+
 ## BRAC 1/2 Prophyactic Surgery
 
-- Prophylactic BOS age 35-40 or after childbearing
-- Reduces risk of ovarian cancer 80%
-- Surveillance not as effective
-  - Transvaginal ultrasound
-  - CA-125 screening
-  
+-   Prophylactic BOS age 35-40 or after childbearing
+-   Reduces risk of ovarian cancer 80%
+-   Surveillance not as effective
+    -   Transvaginal ultrasound
+    -   CA-125 screening
+
 ## MEN 2A/2B or FMTC Prophylactic surgery
 
-- Timing of thyroidectomy depends upon risk category
-- Highest risk:  Throidectomy within first year of life
-- High risk: Thyroidectomy by age 5 or if calcinonin elevated
-- Moderate risk: surveillance starting age 5
-  - physical exam
-  - neck ultrasound
-  - serum calcitonin
-  
+-   Timing of thyroidectomy depends upon risk category
+-   Highest risk: Throidectomy within first year of life
+-   High risk: Thyroidectomy by age 5 or if calcinonin elevated
+-   Moderate risk: surveillance starting age 5
+    -   physical exam
+    -   neck ultrasound
+    -   serum calcitonin
+
 ## FAP
 
 Median age of dx 39
 
-- Duodenal and ampullary tumors
-- Gastric polyps
-- Thyroid tumors
-- Desmoid tumors
+-   Duodenal and ampullary tumors
+-   Gastric polyps
+-   Thyroid tumors
+-   Desmoid tumors
 
 ## FAP screening
 
-Colonoscopy age 10-12
-EGD for duodenal polyps at age 20-30
-CT 1-3 years after colectomy and q5 yers in those with family hx of desmoids
-
+Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after colectomy and q5 yers in those with family hx of desmoids
 
 ## Lynch
 
@@ -94,35 +89,27 @@ Amdterdam Criteria
 
 (Bethesda Criteria)
 
-Mean age dx colon cancer 44-61
-Predominant right side colon cancer
-Lifetime penetrance 82%
+Mean age dx colon cancer 44-61 Predominant right side colon cancer Lifetime penetrance 82%
 
 ## Lynch Other Cancers
 
-- Endometrial
-- Stomach
-- Ovarian
-- Urinary tract
-- Biliary Tract
-- Small bowel
-- CNS
+-   Endometrial
+-   Stomach
+-   Ovarian
+-   Urinary tract
+-   Biliary Tract
+-   Small bowel
+-   CNS
 
 ## Lynch Screening
 
 Colonoscopy q1-2 years staring age 20-25
 
-Women with Lymch have 25-60% lifetime risk of endometrial cancer
-45-12% lifetime risk of ovarian cancer
-Male: 1.2% risk of breast cancer (0.1% in general populations)
+Women with Lymch have 25-60% lifetime risk of endometrial cancer 45-12% lifetime risk of ovarian cancer Male: 1.2% risk of breast cancer (0.1% in general populations)
 
 ## MMR and MSI
 
-Greater than 90% of LS tumors are MSI-high (MSI-H) and/or lack expression of at least one
-of the MMR proteins by IHC. Ten percent to 15% of sporadic colon cancers exhibit abnormal IHC and are MSI-H most often due to abnormal
-methylation of the MLH1 gene promoter, rather than due to LS. Mutant BRAF V600E is found in many sporadic MSI-H CRCs and is rarely
-found in LS-related CRCs. There are some tumors that will have MLH1 methylation but lack a BRAF PV. 
-
+Greater than 90% of LS tumors are MSI-high (MSI-H) and/or lack expression of at least one of the MMR proteins by IHC. Ten percent to 15% of sporadic colon cancers exhibit abnormal IHC and are MSI-H most often due to abnormal methylation of the MLH1 gene promoter, rather than due to LS. Mutant BRAF V600E is found in many sporadic MSI-H CRCs and is rarely found in LS-related CRCs. There are some tumors that will have MLH1 methylation but lack a BRAF PV.
 
 ## DNA Mismatch Repair Proteins
 
@@ -130,19 +117,12 @@ found in LS-related CRCs. There are some tumors that will have MLH1 methylation 
 ![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S0009898115000285-gr2.jpg)
 :::
 
-
 ## DNA Mismatch Repair Proteins
 
-
-:::::: columns
+::::::: columns
 :::: {.column width="50%"}
 ::: {style="font-size: 125%;"}
-MLH1
-PMS1
-MSH6
-MSH2
-MSH5
-
+MLH1 PMS1 MSH6 MSH2 MSH5
 :::
 ::::
 
@@ -151,14 +131,7 @@ MSH5
 ![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S0009898115000285-gr2.jpg)
 :::
 ::::
-::::::
-
-
-
-
-
-
-
+:::::::
 
 ## DNA Mismatch Repair Proteins
 
@@ -170,135 +143,110 @@ MSH5
 
 Lynch Syndrome can be caused by loss of expression of:
 
-- MLH1
-- PMS1
-- MSH6
-- MSH2
-- MSH5
+-   MLH1
+-   PMS1
+-   MSH6
+-   MSH2
+-   MSH5
 
 ## MLH1 and PMS Dimer in Mismatch Repair
 
 wild-type MLH1 and PMS2 form a stable heterodimer
 
-
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
 :::
 
-
 ::: {.content-hidden unless-format="docx"}
-
 :::
 
 ## MLH1 and PMS Dimer in Mismatch Repair
 
 Mutant MLH1 fails to form a stable heterodimer
 
-
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
 :::
 
-
 ::: {.content-hidden unless-format="docx"}
 In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
-
 
 ## MLH1 and PMS Dimer in Mismatch Repair
 
 Mutant MLH1 fails to form a stable heterodimer $\rightarrow$ PMS2 is degraded
 
-
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
 :::
 
-
 ::: {.content-hidden unless-format="docx"}
 In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
-
 
 ## MLH1 and PMS Dimer in Mismatch Repair
 
 If MLH1 is mutated $\rightarrow$ PMS2 protein is *not* detected
 
-
 ::: {.content-visible unless-format="docx"}
 ![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
 :::
-
 
 ::: {.content-hidden unless-format="docx"}
 In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
 
-## Colon Polyposis: >10 adenomatous polyps
+## Colon Polyposis: \>10 adenomatous polyps
 
-- Classical FAP
-- Attenuated FAP (AFAP)
-- MUTYH-associated polyposis (MAP)
-- Colonic adenomatous polyposis of unknown
-etiology (CPUE)
+-   Classical FAP
+-   Attenuated FAP (AFAP)
+-   MUTYH-associated polyposis (MAP)
+-   Colonic adenomatous polyposis of unknown etiology (CPUE)
 
-## Colon Polyposis: >4 hamartomatous polyps
+## Colon Polyposis: \>4 hamartomatous polyps
 
-- Puetz-Jaghers
-- Juvenile Polyposis Syndrome
-- Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
+-   Puetz-Jaghers
+-   Juvenile Polyposis Syndrome
+-   Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
 
 ## Serrated Colon Polyps
 
-≥5 serrated polyps/lesions proximal
-to the rectum, all being ≥5 mm in size,
-with ≥2 being ≥10 mm in size
-OR
->20 serrated polyps/lesions of any size
-distributed throughout the large bowel,
-with ≥5 being proximal to the rectum
+≥5 serrated polyps/lesions proximal to the rectum, all being ≥5 mm in size, with ≥2 being ≥10 mm in size OR \>20 serrated polyps/lesions of any size distributed throughout the large bowel, with ≥5 being proximal to the rectum
 
 ## Muir-Torre Syndrome
 
-Muir-Torre syndrome refers to individuals with LS who
-have LS-associated skin findings of sebaceous adenomas/carcinomas or keratoacanthomas.
+Muir-Torre syndrome refers to individuals with LS who have LS-associated skin findings of sebaceous adenomas/carcinomas or keratoacanthomas.
 
 ## BRCA 1/2
 
 BRCA1: 87% ifetime risk of breast cancer and 40-60% risk of ovarian vanver
 
-BRCA2: 80% ifetime breast cancer 1nd 15-27% ovarian cancer
-  - Elevated risk of prostate, pancreas, melanoma
-  
-Male carriers of BRCA2: 8.9% lifetime risk of breast cancer
+BRCA2: 80% ifetime breast cancer 1nd 15-27% ovarian cancer - Elevated risk of prostate, pancreas, melanoma
 
+Male carriers of BRCA2: 8.9% lifetime risk of breast cancer
 
 ## BRCA risk factors:
 
-- Breast cancer dx before age 40
-- Bilateral breast vcancer
-- Breast and ovarian cancer
-- 2 family members with breast cancer < age 50
-- Family history of breast and ovian
-- Family history of male breast cancer
-
+-   Breast cancer dx before age 40
+-   Bilateral breast vcancer
+-   Breast and ovarian cancer
+-   2 family members with breast cancer \< age 50
+-   Family history of breast and ovian
+-   Family history of male breast cancer
 
 ## Attenuated FAP
 
-~30 polyps
-70% penetrance by age 80
-- mean age at dx 50-55
-
+\~30 polyps 70% penetrance by age 80 - mean age at dx 50-55
 
 ## Li-Fraumeni
 
 Mutation of TP53 tumor suppressor gene
 
-- Breast cancer 90% by age 50
-- Sarcoma
-- Leukemia
-- Brain tumors
-- Andrenocortical carcinoma
+-   Breast cancer 90% by age 50
+-   Sarcoma
+-   Leukemia
+-   Brain tumors
+-   Andrenocortical carcinoma
 
 ## Breast cancer in Li-Fraumeni
 
@@ -306,20 +254,19 @@ Mastectomy favored to avoid radiation therapy
 
 Bilateral prophylactic mastectomy recommended
 
-
 ## p16 = CDKNA2A mutation
 
-- Increased risk of melanoma
-  - Familial Atypical Multiple Mole Melanoma (FAMMM)
-  - Familiarl llAtyopical Multiple Mole-Pancreatic Carcinoma (FAMMMPC)
-- Melanoma penetrance 58-92% by 80
-- Pancreatic cancer penetracne 17% by age 75
+-   Increased risk of melanoma
+    -   Familial Atypical Multiple Mole Melanoma (FAMMM)
+    -   Familiarl llAtyopical Multiple Mole-Pancreatic Carcinoma (FAMMMPC)
+-   Melanoma penetrance 58-92% by 80
+-   Pancreatic cancer penetracne 17% by age 75
 
 ## FAMMM
 
-- Malignant melanoma in one or more first degree or second-degree relatives
-- High total body nevus count
-- Nevi with certain features on microsopcy
+-   Malignant melanoma in one or more first degree or second-degree relatives
+-   High total body nevus count
+-   Nevi with certain features on microsopcy
 
 Genetic testing not performed as only 50% of FAMMM harbor a mutation in CDKNA2A
 
@@ -327,36 +274,32 @@ Genetic testing not performed as only 50% of FAMMM harbor a mutation in CDKNA2A
 
 Mutation in NF1 tumor suppressor gene
 
-- Multiple neurofibromas
-- Cafe au lait spots
-- Lisch nodules (hamaartoma of the iris)
+-   Multiple neurofibromas
+-   Cafe au lait spots
+-   Lisch nodules (hamaartoma of the iris)
 
-Risk of
-- NPNST
-- PHeochromocytoma
-- Astrocytoma
-- Leukemai
+Risk of - NPNST - PHeochromocytoma - Astrocytoma - Leukemai
 
 ## NF1 diagnosis
 
 Two or more of the following 6 criteria:
 
-- Six or more café-au-lait macules
-- Two or more neurofibromas or one plexiform neurofibroma
-- Axillary or inguinal freckling
-- Optic glioma
-- Two or more Lisch nodules
-- Characteristic osseous lesions
-- A first degree relative with NF1
+-   Six or more café-au-lait macules
+-   Two or more neurofibromas or one plexiform neurofibroma
+-   Axillary or inguinal freckling
+-   Optic glioma
+-   Two or more Lisch nodules
+-   Characteristic osseous lesions
+-   A first degree relative with NF1
 
 ## Neurofibromatosis 2
 
 NF2 gene
 
-- Multiple neurofibromas
-- Cafe au lait spots
-- Bilateral vestibular shwannomas
-- CNS tumors
+-   Multiple neurofibromas
+-   Cafe au lait spots
+-   Bilateral vestibular shwannomas
+-   CNS tumors
 
 Most affected develop bilateral schwannomas by age 30 with average age of death 26
 
@@ -366,61 +309,55 @@ Annual surveillance MRI stating age 10-12 and hearing evaluationm
 
 Cowden Syndrome Mutation in *PTEN* tumor suppressor gene
 
-- Mucocutaneous facial lesions
-- Macrocephaly
-- Bilateral breast cancer
-- Thyroid and endometrial tumors
-- Hamartomatous polyposis of the GI tract
+-   Mucocutaneous facial lesions
+-   Macrocephaly
+-   Bilateral breast cancer
+-   Thyroid and endometrial tumors
+-   Hamartomatous polyposis of the GI tract
 
 ## MEN1
 
-- Mutation of MENIN tumor supressor
+-   Mutation of MENIN tumor supressor
 
-- Parathyroid
-- Pitutiary
-- Pancreatic islet cells
+-   Parathyroid
 
-Hyperparathyoidism usually first presentaiotn
-Most common pancreatic tumor is non-functional
+-   Pitutiary
+
+-   Pancreatic islet cells
+
+Hyperparathyoidism usually first presentaiotn Most common pancreatic tumor is non-functional
 
 Dx by 2/3 of following:
 
-- Parathyroid adenoma/hyperplasia
-- Pancratic islet cell tumors
-- Pituatiary tumors
+-   Parathyroid adenoma/hyperplasia
+-   Pancratic islet cell tumors
+-   Pituatiary tumors
 
 ## MEN1 screening
 
-Surveilance with serum prolactin, IGF-1, factin glucose and insuslin starting age 5
-Calcium,, chormogranin A, pancrea polypeptide glucaocon AP age 8
-Serum gastrin starting age 20
-Brain MRI starting age 5
-Abdomeal CT/MRI stagting age20
+Surveilance with serum prolactin, IGF-1, factin glucose and insuslin starting age 5 Calcium,, chormogranin A, pancrea polypeptide glucaocon AP age 8 Serum gastrin starting age 20 Brain MRI starting age 5 Abdomeal CT/MRI stagting age20
 
 ## MEN1 surgical treatment
 
 Parathyroidectomy 3.5 gland or 4 gladn with autotransplantation
 
-Pancreatic tumor resection if >2cm
+Pancreatic tumor resection if \>2cm
 
 Pituitary tumors resected via transsphenoidal
 
 ## MEN2 Famly of Syndromes
 
-- RET proto-oncogene
-- Medullary thyroid cancer in almost 100%
+-   RET proto-oncogene
 
-- MEN2A
-  - pheochromocytoma in 50%
-  - Parathyroid hyperplasia in 20-30%
-  
--MEN2B
-  - pheochromocytoma in 50%
-  - Megacolon
-  - Marfinoid habitus
-  - Ganglioneromas
-  - Mucosal neuromas
-  
+-   Medullary thyroid cancer in almost 100%
+
+-   MEN2A
+
+    -   pheochromocytoma in 50%
+    -   Parathyroid hyperplasia in 20-30%
+
+-MEN2B - pheochromocytoma in 50% - Megacolon - Marfinoid habitus - Ganglioneromas - Mucosal neuromas
+
 ## MEN 2 Prophylactic surgery
 
 Prophylactic total thyroidectomy
@@ -429,16 +366,10 @@ Testing for pheochromoyctoma prior wtih adrenalectomy prior
 
 Monitor calcitonin and CEA after thryoidectomy
 
-
-
-
-
-
 ## Case 1
 
 Pathology shows Barrett's metaplasia without dysplasia
 
-
 :::::: columns
 ::: {.column width="50%"}
 What is appropriate follow up?
@@ -448,12 +379,9 @@ Biopsy strategy?
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
 :::
 ::::
 ::::::
-
-
 
 ## Case 1 Barrett's metaplasia without dysplasia
 
@@ -466,17 +394,15 @@ What is appropriate follow up?
 ::: {.content-visible unless-format="docx"}
 AGA Guidelines
 
-- No dysplasia: 3-5 years
-- Low grade dysplasia: 6-12 months
-- High grade dysplasia 3 months
-  - (in the absence of ablation)
+-   No dysplasia: 3-5 years
+-   Low grade dysplasia: 6-12 months
+-   High grade dysplasia 3 months
+    -   (in the absence of ablation)
 :::
 ::::
 ::::::
 
-
 ## Case 1 Barrett's metaplasia without dysplasia
-
 
 :::::: columns
 ::: {.column width="50%"}
@@ -487,21 +413,17 @@ Biopsy strategy?
 ::: {.content-visible unless-format="docx"}
 AGA Guidelines
 
-- White light endoscopy
-- 4-quadrant biopsy every 2cm
-- Mucosal irregularity biopsied separately
-- 4-quadrant biopsy every 1cm if dysplasia)
-
+-   White light endoscopy
+-   4-quadrant biopsy every 2cm
+-   Mucosal irregularity biopsied separately
+-   4-quadrant biopsy every 1cm if dysplasia)
 :::
 ::::
 ::::::
-
-
 
 ## Case 2
 
 Pathology shows high-grade dysplasia
-
 
 :::::: columns
 ::: {.column width="50%"}
@@ -510,37 +432,30 @@ Treatment Options:
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
-- [Observation]
-- [Esophagectomy]
-- [Cryotherapy]
-- [Irreversible Electroporation]
-- [Radio-frequency Ablation]
-
-
+-   [Observation]
+-   [Esophagectomy]
+-   [Cryotherapy]
+-   \[Irreversible Electroporation\]
+-   [Radio-frequency Ablation]
 :::
 ::::
 ::::::
 
-
 ## Observation
 
-:::{.fragment}
-You receive a hand-written note from the family 
+::: fragment
+You receive a hand-written note from the family
 :::
 
-:::{.fragment}
-inviting you to the funeral of the patient 
+::: fragment
+inviting you to the funeral of the patient
 :::
 
-:::{.fragment}
+::: fragment
 who passed after a heroic battle with esophageal cancer
 :::
 
-
-
 [Case 2]
-
 
 ## Esophagectomy
 
@@ -553,9 +468,6 @@ Correct answer, wrong century (not the 20th)
 Correct answer, wrong century (not the 22nd)
 
 [Case 2]
-
-
-
 
 [Case 2]
 
@@ -581,7 +493,6 @@ Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
 
 EGD shows a nodule in the Barrett's esophagus
 
-
 :::::: columns
 ::: {.column width="50%"}
 Treatment Options:
@@ -589,42 +500,33 @@ Treatment Options:
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
-
-- [Surveillance]
-- [Minimally Invasive Esophagectomy]
-- [Endoscopic Mucosal Resection]
-- [Radio-frequency Ablation Barxx]
-
-
+-   [Surveillance]
+-   [Minimally Invasive Esophagectomy]
+-   [Endoscopic Mucosal Resection]
+-   [Radio-frequency Ablation Barxx]
 :::
 ::::
 ::::::
 
-
-
-
-
 ## Surveillance
 
-:::{.fragment}
-You receive a hand-written note from the family 
+::: fragment
+You receive a hand-written note from the family
 :::
 
-:::{.fragment}
-inviting you the patient's 70th birthday 
+::: fragment
+inviting you the patient's 70th birthday
 :::
 
-:::{.fragment}
+::: fragment
 after being treated at a competing medical center
 :::
 
-:::{.fragment}
+::: fragment
 for esophageal cancer
 :::
 
-
 [Case 3]
-
 
 ## Minimally Invasive Esophagectomy
 
@@ -644,15 +546,11 @@ Endoscopic procedure resects mucosal tumor
 
 Correct answer, wrong question
 
-
-
 ## Case 4
 
 Your patient from Case 2 returns with dysphagia and weight loss
 
-
 ![](https://deidt7p41jzcy.cloudfront.net/eso_egd2.png)
-
 
 ## Case 4 Adenocarcinoma
 
@@ -660,14 +558,13 @@ Pathology shows adenocarcinoma
 
 Workup?
 
-
 ## Case 4 Adenocarcinoma
 
 Workup?
 
-- [Barium Swallow]
-- [Endoscopic Ultrasound]
-- [CT Chest/Abdomen/Pelvis]
+-   [Barium Swallow]
+-   [Endoscopic Ultrasound]
+-   \[CT Chest/Abdomen/Pelvis\]
 
 ## Barium Swallow
 
@@ -677,29 +574,27 @@ Correct answer, wrong century
 
 ## Endoscopic Ultrasound
 
-
-:::{.fragment}
-You receive a hand-written note from the family 
+::: fragment
+You receive a hand-written note from the family
 :::
 
-:::{.fragment}
-inviting you the patient's funeral 
+::: fragment
+inviting you the patient's funeral
 :::
 
-:::{.fragment}
+::: fragment
 after they died from an esophageal perforation
 :::
 
-:::{.fragment}
+::: fragment
 which occured during EUS
 :::
 
-:::{.fragment}
+::: fragment
 Autopsy showed T3 adenocarcinoma
 :::
 
 [EUS in Patients with Dysphagia]
-
 
 [Case 4]
 
@@ -707,15 +602,13 @@ Autopsy showed T3 adenocarcinoma
 
 What test do you order next?
 
-
 ## T3 N0 M0 adenocarcinoma
 
 Treatment Options - First Treatment Course
 
-- [MI Esophagectomy]
-- [Chemo + Radiation]
-- [Chemotherapy]
-
+-   [MI Esophagectomy]
+-   [Chemo + Radiation](#chemo-radiation)
+-   [Chemotherapy]
 
 ## MI Esophagectomy
 
@@ -725,8 +618,7 @@ Why?
 
 [T3 N0 M0 adenocarcinoma]
 
-
-## Chemo + Radiation
+## Chemo + Radiation {#chemo-radiation}
 
 Concurrent chemotherapy and radiation followed by surgery = Trimodality therapy
 
@@ -814,13 +706,11 @@ Family asks if there is a better treatment option than CROSS
 
 -   pCR 17% for FLOT and 10% CROSS
 
-
 ## Case 7
 
 Patient returns after FLOT chemotherapy
 
 What are risks of surgery?
-
 
 ## Preoperative Evaluation
 
@@ -832,8 +722,6 @@ What are risks of surgery?
 
 25th percentile: Grip Strength 26kg (men) / 16kg (women)
 
-
-
 ## Case 7
 
 Patient returns after FLOT chemotherapy
@@ -844,10 +732,9 @@ What are surgical options?
 
 ![](https://deidt7p41jzcy.cloudfront.net/decision_low.png)
 
-
 ## High Risk Adenocarcinoma
-![](https://deidt7p41jzcy.cloudfront.net/surg_high.png)
 
+![](https://deidt7p41jzcy.cloudfront.net/surg_high.png)
 
 ## Surgery for Esophageal Cancer
 
@@ -898,7 +785,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
 ## Minimally-invasive Ivor Lewis
 
 ::::: columns
@@ -913,7 +799,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
 ## Ivor Lewis esophagectomy
 
 ::::: columns
@@ -925,9 +810,6 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 ![](https://deidt7p41jzcy.cloudfront.net/C21-FF6.png)
 :::
 :::::
-
-
-
 
 ## Ivor Lewis esophagectomy
 
@@ -941,11 +823,7 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 :::
 :::::
 
-
-
-
 ## Thoracic Circular Stapled Anastomosis {background-video="https://deidt7p41jzcy.cloudfront.net/eso_eea.mp4" background-video-loop="true" background-video-muted="true"}
-
 
 ## Open Ivor Lewis
 
@@ -987,7 +865,6 @@ Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McK
 :::
 :::::
 
-
 ## Transhiatal Esophagectomy
 
 ::::: columns
@@ -999,9 +876,6 @@ Connection made in the neck ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_McK
 ![](https://deidt7p41jzcy.cloudfront.net/Eso_MIE_THE_ai.png)
 :::
 :::::
-
-
-
 
 ## Colon Interposition
 
@@ -1019,8 +893,6 @@ If the stomach is not suitable to make a new esophagus, the colon can be used to
 
 ![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
 
-
-
 ## Esophageal Cancer Treatment Categories
 
 | Category             |   Stage    | Treatment                  |
@@ -1030,7 +902,6 @@ If the stomach is not suitable to make a new esophagus, the colon can be used to
 | [Localized Tumors]   |   T1b T2   | Surgery                    |
 | [Locally-advanced]   | T3 or N^+^ | Chemo or ChemoRT → Surgery |
 | [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
-
 
 ## Dyplasia
 
@@ -1137,10 +1008,9 @@ For patients with locally-advanced esophageal cancer, improved survival with adj
 
 Squamous Cell Carcinoma of the esophagus
 
-- responds well to chemo+RT
-- more difficul to get a surgical margin on the airway
-- additional benefit of surgery on top of chemoRT is uncertain
-
+-   responds well to chemo+RT
+-   more difficul to get a surgical margin on the airway
+-   additional benefit of surgery on top of chemoRT is uncertain
 
 ## FFCD 9102 2007 (Bedenne)
 
@@ -1152,15 +1022,15 @@ Patients with a clinical response were randomized:
 
 -   3 cycles of chemo + 2000 cGy RT -\> 2 year survival 40% Median 19.3mo
 
-*No difference in overall survival* 
+*No difference in overall survival*
 
 ## German Trial (Stahl)
 
 4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
 
-6500cGy RT + Chemo:  41% 2-year PFS. Mortality 3.5%
+6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
 
-*No difference in overall survival* 
+*No difference in overall survival*
 
 ## Metastatic
 
@@ -1172,7 +1042,6 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 ::::: columns
 ::: {.column width="30%"}
-
 :::
 
 ::: {.column width="70%"}
@@ -1181,7 +1050,6 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 :::::
 
 ::: aside
-
 :::
 
 ## References
