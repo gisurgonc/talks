@@ -769,7 +769,9 @@ Vital High Protein for BMI \>35
 
 ## Jejunostomy Feedings
 
-Five cans = 75mL/hour x 16 hours (4pm-10am)
+Five cans = 75mL/hour x 16 hours (6pm-10am)
+
+Four cans = 60mL/hour x 16 hours (6pm-10am)
 
 Free Water Flushes:
 
@@ -777,7 +779,7 @@ Most patients can tolerate 240mL (8oz) warm water bolus via syringe into j-tube 
 
 ## Free Water
 
-Jejunostomy tube flushed in am
+Jejunostomy tube flushed in am after finishing feeding
 
 Free water flushes: 240mL q4 hours while awake (qid)
 
@@ -934,7 +936,7 @@ Diabetic management
 
 ## Discharge POD #6/#7
 
-Tube feeds 75mL/hr x 16hrs
+Tube feeds 60mL/hour *or* 75mL/hr x 16hrs
 
 Protein shakes IF cleared by MBS
 
