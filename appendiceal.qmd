@@ -11,7 +11,7 @@ format:
     theme: default
       
     echo: false
-editor: visualgit 
+editor: visual
 ---
 
 ## Low-grade mucinous Neoplasms (LAMN)
