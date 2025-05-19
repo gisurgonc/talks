@@ -1585,22 +1585,22 @@
     "objectID": "gist_slides.html#acosog-zz9001",
     "href": "gist_slides.html#acosog-zz9001",
     "title": "GI Stromal Tumors",
-    "section": "ACOSOG ZZ9001",
-    "text": "ACOSOG ZZ9001\nGIST Tumors &gt;3cm randomized: - 1 year of imatinib 40mg - Observation\nRecurrence-free survival 98% vs 83% No significant difference at 6 years\nImatinib may simply delay recurrences\n\n\nRef"
+    "section": "",
+    "text": "GIST Tumors &gt;3cm randomized:\n\n1 year of imatinib 40mg\nObservation\n\nRecurrence-free survival 98% vs 83%\nNo significant difference at 6 years\nImatinib may simply delay recurrences\n\n\nRef"
   },
   {
     "objectID": "gist_slides.html#ssg-svii",
     "href": "gist_slides.html#ssg-svii",
     "title": "GI Stromal Tumors",
     "section": "SSG SVII",
-    "text": "SSG SVII\nHigh-risk GIST randomized: - 1 year of imatinib 400mg - 3 year of imatinib 400mg\n5-year Recurrence-free survival 48% vs 66% 5-year Overall Survival 82% vs 92%\n\n\nRef"
+    "text": "SSG SVII\nHigh-risk GIST randomized:\n\n1 year of imatinib 400mg\n3 year of imatinib 400mg\n\n5-year Recurrence-free survival 48% vs 66%\n5-year Overall Survival 82% vs 92%\n\n\nRef"
   },
   {
     "objectID": "gist_slides.html#mutational-testing",
     "href": "gist_slides.html#mutational-testing",
     "title": "GI Stromal Tumors",
     "section": "Mutational Testing",
-    "text": "Mutational Testing\nGenetic mutations can predict respoinse to imatinib 1\n\nChemoRT \\(\\rightarrow\\) Surgery ([CROSS Trial])\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo ([EsoPEC Trial])\n\nMeheran JCO 2017"
+    "text": "Mutational Testing\nGenetic mutations can predict response to imatinib 1"
   },
   {
     "objectID": "gist_slides.html#locally-advanced",
@@ -1614,14 +1614,14 @@
     "href": "gist_slides.html#positive-margins",
     "title": "GI Stromal Tumors",
     "section": "Positive Margins",
-    "text": "Positive Margins\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nmedian age=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\nGronchi JAMA Surg 2020"
+    "text": "Positive Margins\n\n\nGronchi JAMA Surg 2020"
   },
   {
     "objectID": "gist_slides.html#imatinib-1yr-vs-3-yr",
     "href": "gist_slides.html#imatinib-1yr-vs-3-yr",
     "title": "GI Stromal Tumors",
     "section": "Imatinib 1yr vs 3 yr",
-    "text": "Imatinib 1yr vs 3 yr\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nmedian age=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\nJoensuu JAMA Oncology 2020"
+    "text": "Imatinib 1yr vs 3 yr\n\n\nJoensuu JAMA Oncology 2020"
   },
   {
     "objectID": "gist_slides.html#wild-type-gist",
@@ -1642,7 +1642,7 @@
     "href": "gist_slides.html#recurrence-risk",
     "title": "GI Stromal Tumors",
     "section": "Recurrence Risk",
-    "text": "Recurrence Risk\n\n\nJoensuu Lancet March 2012"
+    "text": "Recurrence Risk\n\nMitotic rate per 50 hpf\n\n\n\n\n\n\n\nRisk\nSize\nMitotic Rate\n\n\n\n\nVery Low Risk\n&lt;2cm\n&lt;5\n\n\nLow Risk\n2-5cm\n&lt;5\n\n\nIntermediate Risk\n&lt;5cm\n5-10cm\n6-10\n&lt;5\n\n\nHigh Risk\n&gt;5cm\n&gt;10cm\nAny size\n&gt;5 /50\nAny\n&gt;10\n\n\n\n\n\nFletcher Int J Surg Pathol 10:81 2022"
   },
   {
     "objectID": "gist_slides.html#cross---survival-by-histology",
@@ -5548,7 +5548,7 @@
     "href": "eso_ctDNA_lit.html",
     "title": "ctDNA in Esophageal Cancer",
     "section": "",
-    "text": "Rotterdam (Eyck et al., 2023) Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. J Pathol 2023; 259: 35–45. Samples taking before, 6 weeks after and 23 weeks after CRT. 29/31 patients had mutations detected on tissue biopsy. 24/31 patients had mutations detectable in cfDNA. Prei-itreatment cdTNA detected in 9 patients, four of whom had incurable disease progression before surgery (2 prior to ChemoRT and 2 prior to surgery). None of these 9 had a pCR. 6/9 had major residual disease after chemoRT. After ChemoRT, ctDNA was detected in 3 patients, two of whom had disease progression. Patients were examined wtih CT and EGD biopsies after ChemoRT as part of the SANO trial. ctDNA did not detect any additional patients with residual disease after ChemoRT. ctDNA analyzed with Thermo Fisher Colon Oncoline kit. \\(\\Rightarrow\\). ctDNA can detect some patients with high-risk disease who are at risk for progression (and should have further staging investigations prior to surgery OR be offered watch/wait), but did not help detect patients after ChemoRT who had residual disease (who would be candidates for salvage esophagectomy)\nRotterdam Restaging after chemoradiation.\nMelbourne (cabalage120?) 62 patients with adenocarcinoma with tumor-informed approach. 9 genes analyzed with targeted amplicon sequencing. Pre-treatment biopsies showed mutations in 55/62 (63%). ctDNA at baseline in 20/55 (36%). The majority (90%) of patients with detectable ctDNA had either locally advanced tumors, nodal involvement or metastatic disease. In patients with locally advanced tumors, disease free survival (DFS) was more accurately stratified using pre-treatment ctDNA status [HR 4.34 (95% CI 0.93-20.21); P = 0.05] compared to nodal status on PET-CT. In an exploratory subgroup analysis, patients who are node negative but ctDNA positive have inferior DFS [HR 11.71 (95% CI 1.16-118.80) P = 0.04]. In blood samples taken before and following NAT, clearance of ctDNA after NAT was associated with a favourable response to treatment. Furthermore, patients who are ctDNA positive during post-treatment surveillance are at high risk of relapse.\nSan Diego: (Kato et al., 2018) 55 GE adenocarcinoma (mostly advanced disease; 9, surgically resectable) ctDNA with Guardant (49/55) or Foundation. Esophagus =11, GEJ = 17, gastric = 27. Seventy-six percent of patients (42/55) had ≥1 genomic alteration [including variants of unknown significance (VUS)] and 69.1% (38/55) had ≥1 characterized alteration (excluding VUSs). The median number of alterations per patient was 2 (range, 0–15). TP53 (50.9%, 28/55), PIK3CA (16.4%, 9/55), ERBB2 (14.5%, 8/55), and KRAS (14.5%, 8/55) genes were most frequently affected characterized alterations. Thirty-one patients also had tissue NGS. Concordance between tissue and ctDNA ranged from 61.3% (TP53 alterations) to 87.1% (KRAS alterations). ERBB2 alterations were significantly associated with poor overall survival (HR, 14.06; 95% confidence interval, 2.44–81.03; P = 0.003 multivariate analysis). Among patients with ≥1 alteration, no 2 patients had identical molecular portfolios.\nStanford: 45 patients receving chemoradiation for esophageal cancer. ctDNA analysis with deep squencing. Tumor-derived DNA represented 0.07% of all cell-free DNA. Detection of ctDNA following chemoradiotherapy was associated with tumor progression (hazard ratio, 18.7; P&lt;.0001), formation of distant metastases (hazard ratio, 32.1; P&lt;.0001), and shorter disease-specific survival times (hazard ratio, 23.1; P&lt;. 0001). A higher proportion of patients with tumor progression had new mutations detected in plasma samples collected after chemoradiotherapy than patients without progression (P=.03). Detection of ctDNA after chemoradiotherapy preceded radiographic evidence of tumor progression by an average of 2.8 months. Among patients who received chemoradiotherapy without surgery, combined ctDNA and metabolic imaging analysis predicted progression in 100% of patients with tumor progression, compared with 71% for only ctDNA detection and 57% for only metabolic imaging analysis\nZaanan A, Didelot A, Broudin C, et al. Longitudinal circulating tumor DNA (ctDNA) analysis during treatment (Tx) of locally advanced resectable (LAR) gastric or gastroesophageal junction (G/GEJ) adenocarcinoma (ADENOCA): the PLAGAST prospective biomarker study. J Clin Oncol 2024; 42: 4028 (abstract).\nElevated ctDNA baseline concentrations have also been reported to predict major residual disease after neoadjuvant chemoradiotherapy and disease progression before surgery.67,68 Several studies also identified ctDNA as a potential biomarker of recurrence and overall survival.67,69 In the ancillary study of the CRITICS trial (NCT00407186), Leal and colleagues identified post-neoadjuvant therapy or preoperative ctDNA as a predictive biomarker for pathological response (according to Mandard’s tumour regression grading [TRG] system0,70 with ctDNA analyses being consistent with TRG in 30 (70%) of 43 patients (p=0·03; Fisher’s exact test).71 Huffman and colleagues reported the largest cohort of patients with oesophagogastric cancers monitored with ctDNA.72 In their study, a personalised, multiplex PCRbased next-generation sequencing assay was used to retrospectively analyse ctDNA in 295 patients with oesophagogastric cancers presenting with different histology (squamous cell carcinomas and adenocarcinomas) profiles and spanning various disease stages (I–IV). In this cohort, 125 patients with stage I–III oesophagogastric cancers were analysed at any timepoint postoperatively (regardless of adjuvant treatment). The median recurrence-free survival was not reached in patients negative for ctDNA, whereas it was 9·6 months in patients positive for ctDNA (HR 23·6, 95% CI 10·2–66·0; p=0·0001).72 These results were observed irrespective of the anatomical localisation of the tumour. Recurrence rates were 5% in patients negative for ctDNA and 88% in patients positive for ctDNA. The patient population enrolled in this study was heterogeneous and further prospective studies are required. In the initial analysis of the PLAGAST study73 presented at the ASCO 2024 meeting, postoperative, tumour-informed ctDNA persistence was related to recurrence and overall survival. Additionally, the clearance of ctDNA after medical treatment could serve as a predictor of outcomes. To date, there are no available data for localised oesophagogastric adenocarcinoma, but in the metastatic setting, Kelly and colleagues observed in a phase 1–2 study a statistical correlation between mutation variant allele frequencies and overall response rate to ICIs in metastatic oesophagogastric adenocarcinoma.74 Patients with a decrease in variant allele frequencies at week 9 had a longer median OS (3.8 months, 95% CI 7·0–NR) than those with an increase in variant allele frequencies (8.2 months, 6·2–NR; HR 0·07, 95% CI 0·01–0·66).74 However, false-negative ctDNA results have been reported in patients with peritoneal carcinomatosis, restricting the utility of ctDNA as the sole predictive biomarker for oesophagogastric adenocarcinoma.75\n68 Egyud M, Tejani M, Pennathur A, et al. Detection of circulating tumor DNA in plasma: a potential biomarker for esophageal adenocarcinoma. Ann Thorac Surg 2019; 108: 343–49.\n69 Azad TD, Chaudhuri AA, Fang P, et al. Circulating tumor DNA analysis for detection of minimal residual disease after chemoradiotherapy for localized esophageal cancer. Gastroenterology 2020; 158: 494–505.\nChidambaram S, Markar SR. Clinical utility and applicability of circulating tumor DNA testing in esophageal cancer: a systematic review and meta-analysis. Dis Esophagus. 2022;35:doab046.\nCRITICS trial (leal525?)\n71 Leal A, van Grieken NCT, Palsgrove DN, et al. White blood cell and cell-free DNA analyses for detection of residual disease in gastric cancer. Nat Commun 2020; 11: 525.\n(Huffman et al., 2022) ctDNA levels were analyzed in the preoperative, postoperative, and surveillance settings in patients with EGC using a personalized multiplex polymerase chain reaction-based next-generation sequencing assay. Plasma samples (n = 943) from 295 patients at &gt; 70 institutions were collected before surgery, postoperatively, and/or serially during routine clinical follow-up from September 19, 2019, to February 21, 2022. A total of 295 patients with EGC were analyzed, and 212 patients with stages I-III disease were further explored. Pretreatment ctDNA was detected in 96% (23/24) of patients with preoperative time points. Postoperative ctDNA was detected in 23.5% (16/68) of patients with stage I-III EGC within 16 weeks (molecular residual disease window) after surgery without receiving systemic therapy. ctDNA detection at any time point after surgery (hazard ratio [HR], 23.6; 95% CI, 10.2 to 66.0; P &lt; .0001), within the molecular residual disease window (HR, 10.7; 95% CI, 4.3 to 29.3; P &lt; .0001), and during the surveillance period (HR, 17.7; 95% CI, 7.3 to 50.7; P &lt; .0001) was associated with shorter recurrence-free survival. In multivariable analysis, ctDNA status and clinical stage of disease were independently associated with outcomes.\nCopenhagen (iden83?): Patients with resectable gastric and GEJ AC, undergoing perioperative chemotherapy and surgery, were prospectively enrolled. Serial plasma samples were collected at baseline, after one cycle of chemotherapy, after preoperative chemotherapy, and after surgery. ctDNA was assessed by a ddPCR test (TriMeth), which targets the gastrointestinal cancer-specific methylation patterns of the genes C9orf50, KCNQ5, and CLIP4.\nResults: ctDNA analysis was performed on 229 plasma samples from 86 patients. At baseline, ctDNA was detected in 56% of patients, which decreased to 37% following one cycle of chemotherapy, 25% after preoperative chemotherapy and 15% after surgical resection. The presence of ctDNA after one cycle of chemotherapy was associated with reduced recurrence-free survival (RFS) (HR = 2.54, 95% confidence interval (CI) 1.33-4.85, p = 0.005) and overall survival (OS) (HR = 2.23, 95% CI 1.07-4.62, p = 0.032). Similarly, ctDNA after surgery was associated with significantly shorter RFS (HR = 6.22, 95% CI 2.39-16.2, p &lt; 0.001) and OS (HR = 6.37, 95% CI 2.10-19.3, p = 0.001). Multivariable regression analysis confirmed ctDNA after surgery as an independent prognostic factor (p &lt; 0.001).\nWo JY, Clark JW, Eyler CE, Mino-Kenudson M, Klempner SJ, Allen JN, et al. Results and molecular correlates from a pilot study of neoadjuvant induction FOLFIRINOX followed by chemoradiation and surgery for gastroesophageal adenocarcinomas. Clin Cancer Res. 2021;27:6343–53.\nPET alters management in 16% of cases of gastric cancer (smyth5481?)\nESMO guidlines recommend PET for esophagus but not gastric\ndMMR and MsiHI - 5FU/platin ie inefficient and deleteriousReynolds JV, Preston SR, O’Neill B, et al. Trimodality therapy versus perioperative chemotherapy in the management of locally advanced adenocarcinoma of the oesophagus and oesophagogastric junction (Neo-AEGIS): an open-label, randomised, phase 3 trial. Lancet Gastroenterol Hepatol 2023; 8: 1015–27.\nBut neoadjuvant FLOT indocued 27% pCR in the DNATE study (lorenzen410?) Lorenzen S, Götze TO, Thuss-Patience P, et al. Perioperative atezolizumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable esophagogastric cancer: interim results from the randomized, multicenter, phase II/III DANTE/IKF-s633 Trial. J Clin Oncol 2024; 42: 410–20.\nan T, Zhang X-F, Liang C, Liao C-W, Li J-Y, Zhou Y-M. The prognostic value of a pathologic complete response after neoadjuvant therapy for digestive cancer: systematic review and meta-analysis of 21 studies. Ann Surg Oncol 2019; 26: 1412–20.\nBite on Bite Biopsies (PreSane) Noordman BJ, Spaander MCW, Valkema R, et al. Detection of residual disease after neoadjuvant chemoradiotherapy for oesophageal cancer (preSANO): a prospective multicentre, diagnostic cohort study. Lancet Oncol 2018; 19: 965–74.\nNoordman BJ, Wijnhoven BPL, Lagarde SM, et al. Active surveillance in clinically complete responders after neoadjuvant chemoradiotherapy for esophageal or junctional cancer. Dis Esophagus 2017; 30: 1–8.\nOptimal therapy for esophageal ad GE junction adenocarcinoma involves peroperative (“neoadjuvant”) chemoradiation or chemotherapy, followed by surgical resection.\nSimple paradigm made more complicated:\n\npCR rate of 23% suggests that if these patients could be identified, some patients could be spared surgery\nCROSS trial: 30% of patients had cancer recurrence at 2 years\n\nIf these patients oculd b identified earlier - no surgery or more neoadjuvant\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenes\nCol2\nStanford\nRotterdam\nMelbourne\nCol6\n\n\n\n\n\n(hofste4417?)\n(Azad et al., 2020)\n(Eyck et al., 2023)\n(cabalage120?)\n\n\n\nAPC\nx\n\nX\nX\n\n\n\nARID1A\nx\n\n\nX\n\n\n\nAKT1\n\n\nX\n\n\n\n\nBRAF\nx\n\nX\n\n\n\n\nCDKN2A\nx\nCommon\n\nX\n\n\n\nCTNNB1\nx\n\nX\n\n\n\n\nEGFR\n\n\nX\n\n\n\n\nERBB2\nx\nCommon\nX\n\n\n\n\nFBXW7\nx\n\nX\n\n\n\n\nGNAS\nx\n\nX\n\n\n\n\nKRAS\nx\n\nX\nX\n\n\n\nMAP2K1\n\n\nX\n\n\n\n\nNRAS\n\n\nX\n\n\n\n\nNRG1\n\n\n\nX\n\n\n\nPIK3CA\nx\n\nX\nX\n\n\n\nRNF43\nx\n\n\n\n\n\n\nSMAD4\nx\n\nX\nX\n\n\n\nSMARCA4\n\n\n\nX\n\n\n\nTGFB2\nx\n\n\n\n\n\n\nTP53\nx\nCommon\nX\nX\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReferences\n\nAzad, T.D., Chaudhuri, A.A., Fang, P., Qiao, Y., Esfahani, M.S., Chabon, J.J., Hamilton, E.G., Yang, Y.D., Lovejoy, A., Newman, A.M., Kurtz, D.M., Jin, M., Schroers-Martin, J., Stehr, H., Liu, C.L., Hui, A.B.-Y., Patel, V., Maru, D., Lin, S.H., Alizadeh, A.A., Diehn, M., 2020. Circulating Tumor DNA Analysis for Detection of Minimal Residual Disease After Chemoradiotherapy for Localized Esophageal Cancer. Gastroenterology 158, 494–505.e6. https://vb3lk7eb4t.search.serialssolutions.com/?id=31711920\n\n\nEyck, B.M., Jansen, M.P., Noordman, B.J., Atmodimedjo, P.N., Wilk, B.J. van der, Martens, J.W., Helmijr, J.A., Beaufort, C.M., Mostert, B., Doukas, M., Wijnhoven, B.P., Lagarde, S.M., Lanschot, J.J.B. van, Dinjens, W.N., 2023. Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. The Journal of Pathology 259, 35–45. https://vb3lk7eb4t.search.serialssolutions.com/?id=36196486\n\n\nHuffman, B.M., Aushev, V.N., Budde, G.L., Chao, J., Dayyani, F., Hanna, D., Botta, G.P., Catenacci, D.V.T., Maron, S.B., Krinshpun, S., Sharma, S., George, G.V., Malhotra, M., Jurdi, A., Moshkevich, S., Aleshin, A., Kasi, P.M., Klempner, S.J., 2022. Analysis of Circulating Tumor DNA to Predict Risk of Recurrence in Patients With Esophageal and Gastric Cancers. JCO precision oncology 6, e2200420. https://vb3lk7eb4t.search.serialssolutions.com/?id=36480779\n\n\nKato, S., Okamura, R., Baumgartner, J.M., Patel, H., Leichman, L., Kelly, K., Sicklick, J.K., Fanta, P.T., Lippman, S.M., Kurzrock, R., 2018. Analysis of Circulating Tumor DNA and Clinical Correlates in Patients with Esophageal, Gastroesophageal Junction, and Gastric Adenocarcinoma. Clinical Cancer Research: An Official Journal of the American Association for Cancer Research 24, 6248–6256. https://vb3lk7eb4t.search.serialssolutions.com/?id=30348637"
+    "text": "Rotterdam (Eyck et al., 2023) Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. J Pathol 2023; 259: 35–45. Samples taking before, 6 weeks after and 23 weeks after CRT. 29/31 patients had mutations detected on tissue biopsy. 24/31 (77%) had mutations potentially detectable in cfDNA. Pretreatment ctDNA detected in 9 (9/24 = 38%( patients, four of whom had incurable disease progression before surgery (2 prior to ChemoRT and 2 prior to surgery). None of these 9 had a pCR. 6/9 had major residual disease after chemoRT. After ChemoRT, ctDNA was detected in 3 patients (3/24 = 12.5%), two of whom had disease progression. Patients were examined wtih CT and EGD biopsies after ChemoRT as part of the SANO trial. ctDNA did not detect any additional patients with residual disease after ChemoRT. ctDNA analyzed with Thermo Fisher Colon Oncoline kit. \\(\\Rightarrow\\). ctDNA can detect some patients with high-risk disease who are at risk for progression (and should have further staging investigations prior to surgery OR be offered watch/wait), but did not help detect patients after ChemoRT who had residual disease (who would be candidates for salvage esophagectomy)\nRotterdam Restaging after chemoradiation.\nMelbourne (cabalage120?) 62 patients with adenocarcinoma with tumor-informed approach. 9 genes analyzed with targeted amplicon sequencing. Pre-treatment biopsies showed mutations in 55/62 (63%). ctDNA at baseline in 20/55 (36%). The majority (90%) of patients with detectable ctDNA had either locally advanced tumors, nodal involvement or metastatic disease. In patients with locally advanced tumors, disease free survival (DFS) was more accurately stratified using pre-treatment ctDNA status [HR 4.34 (95% CI 0.93-20.21); P = 0.05] compared to nodal status on PET-CT. In an exploratory subgroup analysis, patients who are node negative but ctDNA positive have inferior DFS [HR 11.71 (95% CI 1.16-118.80) P = 0.04]. In blood samples taken before and following NAT, clearance of ctDNA after NAT was associated with a favourable response to treatment. Furthermore, patients who are ctDNA positive during post-treatment surveillance are at high risk of relapse.\nSan Diego: (Kato et al., 2018) 55 GE adenocarcinoma (mostly advanced disease; 9, surgically resectable) ctDNA with Guardant (49/55) or Foundation. Esophagus =11, GEJ = 17, gastric = 27. Seventy-six percent of patients (42/55) had ≥1 genomic alteration [including variants of unknown significance (VUS)] and 69.1% (38/55) had ≥1 characterized alteration (excluding VUSs). The median number of alterations per patient was 2 (range, 0–15). TP53 (50.9%, 28/55), PIK3CA (16.4%, 9/55), ERBB2 (14.5%, 8/55), and KRAS (14.5%, 8/55) genes were most frequently affected characterized alterations. Thirty-one patients also had tissue NGS. Concordance between tissue and ctDNA ranged from 61.3% (TP53 alterations) to 87.1% (KRAS alterations). ERBB2 alterations were significantly associated with poor overall survival (HR, 14.06; 95% confidence interval, 2.44–81.03; P = 0.003 multivariate analysis). Among patients with ≥1 alteration, no 2 patients had identical molecular portfolios.\nStanford: (Azad et al., 2020): 45 patients receving chemoradiation for esophageal cancer. ctDNA analysis with deep squencing. Tumor-derived DNA represented 0.07% of all cell-free DNA. Detection of ctDNA following chemoradiotherapy was associated with tumor progression (hazard ratio, 18.7; P&lt;.0001), formation of distant metastases (hazard ratio, 32.1; P&lt;.0001), and shorter disease-specific survival times (hazard ratio, 23.1; P&lt;. 0001). A higher proportion of patients with tumor progression had new mutations detected in plasma samples collected after chemoradiotherapy than patients without progression (P=.03). Detection of ctDNA after chemoradiotherapy preceded radiographic evidence of tumor progression by an average of 2.8 months. Among patients who received chemoradiotherapy without surgery, combined ctDNA and metabolic imaging analysis predicted progression in 100% of patients with tumor progression, compared with 71% for only ctDNA detection and 57% for only metabolic imaging analysis. Before ChemoRT, ctDNA detected in 27/45 = 60%. After ChemoRT, ctDNA detected in 5/31 = 16%.\nZaanan A, Didelot A, Broudin C, et al. Longitudinal circulating tumor DNA (ctDNA) analysis during treatment (Tx) of locally advanced resectable (LAR) gastric or gastroesophageal junction (G/GEJ) adenocarcinoma (ADENOCA): the PLAGAST prospective biomarker study. J Clin Oncol 2024; 42: 4028 (abstract).\nElevated ctDNA baseline concentrations have also been reported to predict major residual disease after neoadjuvant chemoradiotherapy and disease progression before surgery.67,68 Several studies also identified ctDNA as a potential biomarker of recurrence and overall survival.67,69 In the ancillary study of the CRITICS trial (NCT00407186), Leal and colleagues identified post-neoadjuvant therapy or preoperative ctDNA as a predictive biomarker for pathological response (according to Mandard’s tumour regression grading [TRG] system0,70 with ctDNA analyses being consistent with TRG in 30 (70%) of 43 patients (p=0·03; Fisher’s exact test).71 Huffman and colleagues reported the largest cohort of patients with oesophagogastric cancers monitored with ctDNA.72 In their study, a personalised, multiplex PCRbased next-generation sequencing assay was used to retrospectively analyse ctDNA in 295 patients with oesophagogastric cancers presenting with different histology (squamous cell carcinomas and adenocarcinomas) profiles and spanning various disease stages (I–IV). In this cohort, 125 patients with stage I–III oesophagogastric cancers were analysed at any timepoint postoperatively (regardless of adjuvant treatment). The median recurrence-free survival was not reached in patients negative for ctDNA, whereas it was 9·6 months in patients positive for ctDNA (HR 23·6, 95% CI 10·2–66·0; p=0·0001).72 These results were observed irrespective of the anatomical localisation of the tumour. Recurrence rates were 5% in patients negative for ctDNA and 88% in patients positive for ctDNA. The patient population enrolled in this study was heterogeneous and further prospective studies are required. In the initial analysis of the PLAGAST study73 presented at the ASCO 2024 meeting, postoperative, tumour-informed ctDNA persistence was related to recurrence and overall survival. Additionally, the clearance of ctDNA after medical treatment could serve as a predictor of outcomes. To date, there are no available data for localised oesophagogastric adenocarcinoma, but in the metastatic setting, Kelly and colleagues observed in a phase 1–2 study a statistical correlation between mutation variant allele frequencies and overall response rate to ICIs in metastatic oesophagogastric adenocarcinoma.74 Patients with a decrease in variant allele frequencies at week 9 had a longer median OS (3.8 months, 95% CI 7·0–NR) than those with an increase in variant allele frequencies (8.2 months, 6·2–NR; HR 0·07, 95% CI 0·01–0·66).74 However, false-negative ctDNA results have been reported in patients with peritoneal carcinomatosis, restricting the utility of ctDNA as the sole predictive biomarker for oesophagogastric adenocarcinoma.75\n68 Egyud M, Tejani M, Pennathur A, et al. Detection of circulating tumor DNA in plasma: a potential biomarker for esophageal adenocarcinoma. Ann Thorac Surg 2019; 108: 343–49.\nChidambaram S, Markar SR. Clinical utility and applicability of circulating tumor DNA testing in esophageal cancer: a systematic review and meta-analysis. Dis Esophagus. 2022;35:doab046.\nCRITICS trial (leal525?)\n71 Leal A, van Grieken NCT, Palsgrove DN, et al. White blood cell and cell-free DNA analyses for detection of residual disease in gastric cancer. Nat Commun 2020; 11: 525.\n(Huffman et al., 2022) ctDNA levels were analyzed in the preoperative, postoperative, and surveillance settings in patients with EGC using a personalized multiplex polymerase chain reaction-based next-generation sequencing assay. Plasma samples (n = 943) from 295 patients at &gt; 70 institutions were collected before surgery, postoperatively, and/or serially during routine clinical follow-up from September 19, 2019, to February 21, 2022. A total of 295 patients with EGC were analyzed, and 212 patients with stages I-III disease were further explored. Pretreatment ctDNA was detected in 96% (23/24) of patients with preoperative time points. Postoperative ctDNA was detected in 23.5% (16/68) of patients with stage I-III EGC within 16 weeks (molecular residual disease window) after surgery without receiving systemic therapy. ctDNA detection at any time point after surgery (hazard ratio [HR], 23.6; 95% CI, 10.2 to 66.0; P &lt; .0001), within the molecular residual disease window (HR, 10.7; 95% CI, 4.3 to 29.3; P &lt; .0001), and during the surveillance period (HR, 17.7; 95% CI, 7.3 to 50.7; P &lt; .0001) was associated with shorter recurrence-free survival. In multivariable analysis, ctDNA status and clinical stage of disease were independently associated with outcomes.\nCopenhagen (iden83?): Patients with resectable gastric and GEJ AC, undergoing perioperative chemotherapy and surgery, were prospectively enrolled. Serial plasma samples were collected at baseline, after one cycle of chemotherapy, after preoperative chemotherapy, and after surgery. ctDNA was assessed by a ddPCR test (TriMeth), which targets the gastrointestinal cancer-specific methylation patterns of the genes C9orf50, KCNQ5, and CLIP4.\nResults: ctDNA analysis was performed on 229 plasma samples from 86 patients. At baseline, ctDNA was detected in 56% of patients, which decreased to 37% following one cycle of chemotherapy, 25% after preoperative chemotherapy and 15% after surgical resection. The presence of ctDNA after one cycle of chemotherapy was associated with reduced recurrence-free survival (RFS) (HR = 2.54, 95% confidence interval (CI) 1.33-4.85, p = 0.005) and overall survival (OS) (HR = 2.23, 95% CI 1.07-4.62, p = 0.032). Similarly, ctDNA after surgery was associated with significantly shorter RFS (HR = 6.22, 95% CI 2.39-16.2, p &lt; 0.001) and OS (HR = 6.37, 95% CI 2.10-19.3, p = 0.001). Multivariable regression analysis confirmed ctDNA after surgery as an independent prognostic factor (p &lt; 0.001).\nWo JY, Clark JW, Eyler CE, Mino-Kenudson M, Klempner SJ, Allen JN, et al. Results and molecular correlates from a pilot study of neoadjuvant induction FOLFIRINOX followed by chemoradiation and surgery for gastroesophageal adenocarcinomas. Clin Cancer Res. 2021;27:6343–53.\nPET alters management in 16% of cases of gastric cancer (smyth5481?)\nESMO guidlines recommend PET for esophagus but not gastric\ndMMR and MsiHI - 5FU/platin ie inefficient and deleteriousReynolds JV, Preston SR, O’Neill B, et al. Trimodality therapy versus perioperative chemotherapy in the management of locally advanced adenocarcinoma of the oesophagus and oesophagogastric junction (Neo-AEGIS): an open-label, randomised, phase 3 trial. Lancet Gastroenterol Hepatol 2023; 8: 1015–27.\nBut neoadjuvant FLOT indocued 27% pCR in the DNATE study (lorenzen410?) Lorenzen S, Götze TO, Thuss-Patience P, et al. Perioperative atezolizumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable esophagogastric cancer: interim results from the randomized, multicenter, phase II/III DANTE/IKF-s633 Trial. J Clin Oncol 2024; 42: 410–20.\nan T, Zhang X-F, Liang C, Liao C-W, Li J-Y, Zhou Y-M. The prognostic value of a pathologic complete response after neoadjuvant therapy for digestive cancer: systematic review and meta-analysis of 21 studies. Ann Surg Oncol 2019; 26: 1412–20.\nBite on Bite Biopsies (PreSane) Noordman BJ, Spaander MCW, Valkema R, et al. Detection of residual disease after neoadjuvant chemoradiotherapy for oesophageal cancer (preSANO): a prospective multicentre, diagnostic cohort study. Lancet Oncol 2018; 19: 965–74.\nNoordman BJ, Wijnhoven BPL, Lagarde SM, et al. Active surveillance in clinically complete responders after neoadjuvant chemoradiotherapy for esophageal or junctional cancer. Dis Esophagus 2017; 30: 1–8.\nOptimal therapy for esophageal ad GE junction adenocarcinoma involves peroperative (“neoadjuvant”) chemoradiation or chemotherapy, followed by surgical resection.\nSimple paradigm made more complicated:"
   },
   {
     "objectID": "eso_ca_rx_talk.html#endoscopic-submucosal-dissection",
@@ -7060,14 +7060,14 @@
     "href": "eso_postopcare.html#jejunostomy-feedings-1",
     "title": "Esophagectomy Postop Care",
     "section": "Jejunostomy Feedings",
-    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (4pm-10am)\nFree Water Flushes:\nMost patients can tolerate 240mL (8oz) warm water bolus via syringe into j-tube at a time."
+    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (6pm-10am)\nFour cans = 60mL/hour x 16 hours (6pm-10am)\nFree Water Flushes:\nMost patients can tolerate 240mL (8oz) warm water bolus via syringe into j-tube at a time."
   },
   {
     "objectID": "eso_postopcare.html#free-water",
     "href": "eso_postopcare.html#free-water",
     "title": "Esophagectomy Postop Care",
     "section": "Free Water",
-    "text": "Free Water\nJejunostomy tube flushed in am\nFree water flushes: 240mL q4 hours while awake (qid)\nFree water can help prevent tube clogging or constipation\nPatients will need instruction on flushing tube"
+    "text": "Free Water\nJejunostomy tube flushed in am after finishing feeding\nFree water flushes: 240mL q4 hours while awake (qid)\nFree water can help prevent tube clogging or constipation\nPatients will need instruction on flushing tube"
   },
   {
     "objectID": "eso_postopcare.html#osmolite-1.5",
@@ -7172,7 +7172,7 @@
     "href": "eso_postopcare.html#discharge-pod-67",
     "title": "Esophagectomy Postop Care",
     "section": "Discharge POD #6/#7",
-    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qHS\nAnti-arrhythmics (if needed)\nCoumadin or anticoagulation (if in atrial fibrillation)"
+    "text": "Discharge POD #6/#7\nTube feeds 60mL/hour or 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qHS\nAnti-arrhythmics (if needed)\nCoumadin or anticoagulation (if in atrial fibrillation)"
   },
   {
     "objectID": "eso_postopcare.html#discharge-planning",
@@ -7200,7 +7200,7 @@
     "href": "eso_postopcare.html#minimally-invasive-esophagectomy-acknowledgements",
     "title": "Esophagectomy Postop Care",
     "section": "Minimally-invasive esophagectomy Acknowledgements",
-    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic"
+    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Lee RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic"
   },
   {
     "objectID": "eso_postopcare.html#orientation-manual",
@@ -7305,7 +7305,7 @@
     "href": "eso_postop_care.html#open-ivor-lewis",
     "title": "Esophagectomy Postop Care",
     "section": "Open Ivor Lewis",
-    "text": "Open Ivor Lewis\n\n\nMininally-invasive feasible in 95% of cases\nThoracotomy in 3%\nLaparotomy in 2%"
+    "text": "Open Ivor Lewis\n\n\nMinimally-invasive feasible in 95% of cases\nThoracotomy in 3%\nLaparotomy in 2%"
   },
   {
     "objectID": "eso_postop_care.html#total-esophagectomy",
@@ -7347,7 +7347,7 @@
     "href": "eso_postop_care.html#gastric-emptying-after-esophagectomy",
     "title": "Esophagectomy Postop Care",
     "section": "Gastric emptying after Esophagectomy",
-    "text": "Gastric emptying after Esophagectomy\nVagus nerve normally stimulates gastric emptying\nEsophagectomy require dividing the vagus nere\n\\(\\Rightarrow\\) Esophagectomy can cause delayed gastric emptying\n\nNasogastric tube decompresses gastric conduit\nRadiology test to determine when NG can be removed"
+    "text": "Gastric emptying after Esophagectomy\nVagus nerve normally stimulates gastric emptying\nEsophagectomy require dividing the vagus nerve\n\\(\\Rightarrow\\) Esophagectomy can cause delayed gastric emptying\n\nNasogastric tube decompresses gastric conduit\nRadiology test to determine when NG can be removed"
   },
   {
     "objectID": "eso_postop_care.html#evaluation-of-gastric-emptying",
@@ -7368,7 +7368,7 @@
     "href": "eso_postop_care.html#swallowing-evaluation-1",
     "title": "Esophagectomy Postop Care",
     "section": "Swallowing Evaluation",
-    "text": "Swallowing Evaluation\nModified Barium Swallow performed after NG tube removed\nOutcomes:\n\nPass for all consistencies (no aspiration or penetration) - 70%\nAspiration of thin liquids but OK for moderately thick liquinds - 15%\nAspiration witn moderately thick liquids - 15%"
+    "text": "Swallowing Evaluation\nModified Barium Swallow performed after NG tube removed\nOutcomes:\n\nPass for all consistencies (no aspiration or penetration) - 70%\nAspiration of thin liquids but OK for moderately thick liquids - 15%\nAspiration with moderately thick liquids - 15%"
   },
   {
     "objectID": "eso_postop_care.html#modified-barium-swallow--pass",
@@ -7410,35 +7410,35 @@
     "href": "eso_postop_care.html#drain-amylase-for-leak-detection",
     "title": "Esophagectomy Postop Care",
     "section": "Drain Amylase for Leak Detection",
-    "text": "Drain Amylase for Leak Detection\n\n\nThoracic anastomosis\n\nUsually leaks into the right chest\n\nJP#2 drains the right chest\n\n\nCerfical anastomosis\n\nUsually leaks into the neck\n\nJP#4 drains the neck incision\n\n\nUsually start checking drain amylase on 4th-8th postop days"
+    "text": "Drain Amylase for Leak Detection\n\n\nThoracic anastomosis\n\nUsually leaks into the right chest\n\nJP#2 drains the right chest\n\n\nCervical anastomosis\n\nUsually leaks into the neck\n\nJP#4 drains the neck incision\n\n\nUsually start checking drain amylase on 4th-8th postop days"
   },
   {
     "objectID": "eso_postop_care.html#ct-esophagram-to-detect-thoracic-anastomotic-leak",
     "href": "eso_postop_care.html#ct-esophagram-to-detect-thoracic-anastomotic-leak",
     "title": "Esophagectomy Postop Care",
     "section": "CT esophagram to detect Thoracic Anastomotic Leak",
-    "text": "CT esophagram to detect Thoracic Anastomotic Leak\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nRadiologist looks for contrast extravisation from esophagus"
+    "text": "CT esophagram to detect Thoracic Anastomotic Leak\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nContrast CT scan performed\nRadiologist looks for contrast extravisation from esophagus"
   },
   {
     "objectID": "eso_postop_care.html#ct-esophagram-with-ng-tube-in-place",
     "href": "eso_postop_care.html#ct-esophagram-with-ng-tube-in-place",
     "title": "Esophagectomy Postop Care",
     "section": "CT Esophagram with NG tube in place",
-    "text": "CT Esophagram with NG tube in place\nCT esophagram sentivity is best if side-holes of NG tube are immediately adjacent to the anastomosis\nSide-holes extend 8.5cm up from the tip of the NG tube\nBest position of NG tube is with tip 5cm below the anastomosis\n\\(\\Rightarrow\\) NG tube needs to be optimally positioned prior to contrast instillation\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan peformed to identify location of tip of NG tube relative to the anastomosis\nRadiologist will measure the distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm\nNG tube manipulation will need to be done by an RN or physician"
+    "text": "CT Esophagram with NG tube in place\nCT esophagram sensitivity is best if side-holes of NG tube are immediately adjacent to the anastomosis\nSide-holes extend 8.5cm up from the tip of the NG tube\nBest position of NG tube is with tip 5cm below the anastomosis\n\\(\\Rightarrow\\) NG tube needs to be optimally positioned prior to contrast instillation"
   },
   {
     "objectID": "eso_postop_care.html#ng-tube-withdrawl---amt-bridle",
     "href": "eso_postop_care.html#ng-tube-withdrawl---amt-bridle",
     "title": "Esophagectomy Postop Care",
     "section": "NG Tube Withdrawl - AMT Bridle",
-    "text": "NG Tube Withdrawl - AMT Bridle\nNG tubes are kept in place with an AMT bridle. A locking plastic clip holds the NG tube.\nIn order to open the locking clip, a guitar pick (or a thumbnai) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
+    "text": "NG Tube Withdrawl - AMT Bridle\nNG tubes kept in place with an AMT bridle. Locking plastic clip holds the NG tube.\nTo open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
   },
   {
     "objectID": "eso_postop_care.html#ct-esophagram---full-sequence",
     "href": "eso_postop_care.html#ct-esophagram---full-sequence",
     "title": "Esophagectomy Postop Care",
     "section": "CT esophagram - Full Sequence",
-    "text": "CT esophagram - Full Sequence\nScout CT Scan obtained and NG position measured\nNG tube withdrawn by RN/physicin\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nConstast CT scan peformed\nNG tube returned to prior position"
+    "text": "CT esophagram - Full Sequence\nScout CT Scan obtained and NG position measured\nNG tube withdrawn by RN/physician\nPre-contrast CT scan performed without contrast\nWater-soluble contrast instilled in the esophagus\nContrast CT scan performed\nNG tube returned to prior position"
   },
   {
     "objectID": "eso_postop_care.html#ct-esophagram-without-ng-tube",
@@ -7466,7 +7466,7 @@
     "href": "eso_postop_care.html#preventing-pneumonia",
     "title": "Esophagectomy Postop Care",
     "section": "Preventing Pneumonia",
-    "text": "Preventing Pneumonia\nClearance of oropharygeal secretions::\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
+    "text": "Preventing Pneumonia\nClearance of oropharyngeal secretions::\n\nDeep breathing\nCoughing\nWalking\n\nAfter surgery, this means:\n\nSitting in a chair most of the day\nWalking in the halls as soon as possible"
   },
   {
     "objectID": "eso_postop_care.html#atrial-arrhythmia",
@@ -7564,21 +7564,21 @@
     "href": "eso_postop_care.html#jejunostomy-associated-small-bowel-necrosis",
     "title": "Esophagectomy Postop Care",
     "section": "Jejunostomy-associated Small Bowel Necrosis",
-    "text": "Jejunostomy-associated Small Bowel Necrosis\n\n\nKey lessons:\n\nEarly diagnosis is critical. Stop Tube Feeds!\nSigns can be subtle: distension or \\(\\uparrow\\) pain\nCT scan is diagnostic\nAdvance tube feeds slowly until bowel function\nCritical period is probably first 5 days postop"
+    "text": "Jejunostomy-associated Small Bowel Necrosis\n\n\n\nEarly diagnosis is critical: Stop Tube Feeds!\nSigns can be subtle: distension or \\(\\uparrow\\) pain\nCT scan is diagnostic\nAdvance feeds slowly until bowel function\nCritical period is first 5 days postop"
   },
   {
     "objectID": "eso_postop_care.html#nutritional-consequences-of-esophagectomy",
     "href": "eso_postop_care.html#nutritional-consequences-of-esophagectomy",
     "title": "Esophagectomy Postop Care",
     "section": "Nutritional Consequences of Esophagectomy",
-    "text": "Nutritional Consequences of Esophagectomy\nOropharyngeal\n\nDsyphagia and aspiration due to muscle wasting\n\nGastric\n\nSmall capacity of gastric conduit\nDelayed gastric emptying\n\nIntestinal - Tube feeding intolerance\nIf That’s Not Enough…\n\nIncreased metabolic needs due to healing +\nPreoperative nutritional deficit"
+    "text": "Nutritional Consequences of Esophagectomy\nOropharyngeal\n\nDsyphagia and aspiration due to muscle wasting\n\nGastric\n\nSmall capacity of gastric conduit\nDelayed gastric emptying\n\nIntestinal - Tube feeding intolerance"
   },
   {
     "objectID": "eso_postop_care.html#gastric-emptying---medical-strategies",
     "href": "eso_postop_care.html#gastric-emptying---medical-strategies",
     "title": "Esophagectomy Postop Care",
     "section": "Gastric Emptying - Medical Strategies",
-    "text": "Gastric Emptying - Medical Strategies\nMetoclopramine (Reglan®) – 10mg po/iv q6hrs\n\nSide effects\n\nDystonic reaction (esp in young)\nTardive Dyskinesia (&lt;1%)\n\n\nMirtazapine (Remeron®) 15mg po qHs\n\nAnti-depressant\nPromotes gastric emptying\nCan cause vivid dreams"
+    "text": "Gastric Emptying - Medical Strategies\nMetoclopramide (Reglan®) – 10mg po/iv q6hrs\n\nSide effects\n\nDystonic reaction (esp in young)\nTardive Dyskinesia (&lt;1%)\n\n\nMirtazapine (Remeron®) 15mg po qHs\n\nAnti-depressant\nPromotes gastric emptying\nCan cause vivid dreams"
   },
   {
     "objectID": "eso_postop_care.html#jejunostomy-feedings",
@@ -7592,7 +7592,7 @@
     "href": "eso_postop_care.html#jejunostomy-feedings-1",
     "title": "Esophagectomy Postop Care",
     "section": "Jejunostomy Feedings",
-    "text": "Jejunostomy Feedings\nFive cans = 75mL/hour x 16 hours (4pm-10am)\nFree Water Flushes\n\nPrevents tube clogging, constipation, hypernatremia\nFlush tube in am after running feeds\n240mL q4 hours while awake (qid)"
+    "text": "Jejunostomy Feedings\nFive cartons = 75mL/hour x 16 hours (4pm-10am) Four cartons = 60mL/hour x 16 hours (4pm-10am)\nFree Water Flushes\n\nPrevents tube clogging, constipation, hypernatremia\nFlush tube in am after running feeds\n240mL q4 hours while awake (qid)"
   },
   {
     "objectID": "eso_postop_care.html#osmolite-1.5",
@@ -7613,7 +7613,7 @@
     "href": "eso_postop_care.html#vital-high-protein",
     "title": "Esophagectomy Postop Care",
     "section": "Vital High Protein",
-    "text": "Vital High Protein\nNutritionally Complete elemental Formula\n\nAppropriate for patients with BMI &gt;35\nMedium Chain Triglyceries (50%)\nHCPCS Code: B4153"
+    "text": "Vital High Protein\nNutritionally Complete elemental Formula\n\nAppropriate for patients with BMI &gt;35\nMedium Chain Triglycerides (50%)\nHCPCS Code: B4153"
   },
   {
     "objectID": "eso_postop_care.html#jenunostomy-tube-feed-intolerance",
@@ -7627,7 +7627,7 @@
     "href": "eso_postop_care.html#diabetic-patients-on-jejunostomy-feeds",
     "title": "Esophagectomy Postop Care",
     "section": "Diabetic Patients on Jejunostomy Feeds",
-    "text": "Diabetic Patients on Jejunostomy Feeds\nMay have more problems with elevated blood sugars\n\nFood bypasses duodenum\nReduced release of endogenous isulin\n\n\\(\\Rightarrow\\) may need long-acting insulin in the evening when tube feeds started\nExample regimen:\n\n10 Units 70/30 at 6 pm\n10 Units 70/30 at MN\n\n\\(\\Rightarrow\\) Early consultations with endocrinology"
+    "text": "Diabetic Patients on Jejunostomy Feeds\nMay have more problems with elevated blood sugars\n\nFood bypasses duodenum\nReduced release of endogenous insulin\n\n\\(\\Rightarrow\\) may need long-acting insulin in the evening when tube feeds started\n\\(\\Rightarrow\\) Early consultations with endocrinology"
   },
   {
     "objectID": "eso_postop_care.html#diabetic-patients---transition-to-nocturnal-feeds",
@@ -7641,7 +7641,7 @@
     "href": "eso_postop_care.html#insulin---transition-to-nocturnal-feeds",
     "title": "Esophagectomy Postop Care",
     "section": "Insulin - Transition to Nocturnal Feeds",
-    "text": "Insulin - Transition to Nocturnal Feeds\nTube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). \nInsulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:\nTube feeds stopped 12pm & check blood sugar\nq6 hr insulin discontinued when tube feeds stopped\nNoon dose of insulin is held\nNocturnal tube feeds started at 6pm\nNocturnal insulin given at 6pm as ordered\nNocturnal insulin given at MN if ordered\n\\(\\Rightarrow\\) Requires coordination between surgical and endocrinology teams and nursing"
+    "text": "Insulin - Transition to Nocturnal Feeds\nTube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). \nInsulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:\n\nTube feeds stopped 12pm & check blood sugar\nq6 hr insulin discontinued when tube feeds stopped\nNoon dose of insulin is held\nNocturnal tube feeds started at 6pm\nNocturnal insulin given at 6pm as ordered\nNocturnal insulin given at MN if ordered\n\n\\(\\Rightarrow\\) Requires coordination between surgical and endocrinology teams and nursing"
   },
   {
     "objectID": "eso_postop_care.html#oral-nutrition",
@@ -7655,7 +7655,7 @@
     "href": "eso_postop_care.html#diet-orders",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders",
-    "text": "Diet Orders\nIn general, fresh post-op esophagectomy patients are NOT ordered for clear liquids or full liquids. Instead, they are ordered for “Tube Feeding (Optional Tray)” and their oral liquids are designated under “Supplements” on the order pane.\nWhen patient is advanced to protein shakes:\n\nSupplement Task Order is noted as “Supplement Regimen” and comes up as a nursing task, up to TID"
+    "text": "Diet Orders\nPost-esophagectomy patients are NOT ordered for clear liquids or full liquids.\nInstead:\n\nNPO\nPermitted liquids in “NPO Except”\n\nWhen patient is advanced to protein shakes:\n\nEnter a Supplement Intake Regimen"
   },
   {
     "objectID": "eso_postop_care.html#diet-orders-1",
@@ -7676,14 +7676,14 @@
     "href": "eso_postop_care.html#diet-orders-preop-npo",
     "title": "Esophagectomy Postop Care",
     "section": "Diet Orders Preop NPO",
-    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR need an order for “NPO after MN” and their tube feeds should be held at midnight."
+    "text": "Diet Orders Preop NPO\n\n\nPreop NPO Orders\nPatients who will return to the OR:\n\nNPO order AND\nHold Tube Feeds order"
   },
   {
     "objectID": "eso_postop_care.html#nutrition-summary",
     "href": "eso_postop_care.html#nutrition-summary",
     "title": "Esophagectomy Postop Care",
     "section": "Nutrition Summary",
-    "text": "Nutrition Summary\n\nEvaluate tolerance to j-tube feeds and make adjustments as necessary (formula, rate/time)\nEmphasize fluid as the patient transitions to 100% oral/tube hydration\nMonitor tolerance to full liquids prior to discharge\nAssure blood sugars are checked & controlled"
+    "text": "Nutrition Summary\n\nEvaluate tolerance to j-tube feeds and make adjustments as necessary\nformula\nrate\nduration\nEmphasize fluid as the patient transitions to 100% oral/tube hydration\nMonitor tolerance to full liquids prior to discharge\nAssure blood sugars are checked & controlled"
   },
   {
     "objectID": "eso_postop_care.html#enteral-feeding-bag-details",
@@ -7704,21 +7704,21 @@
     "href": "eso_postop_care.html#discharge-pod-67",
     "title": "Esophagectomy Postop Care",
     "section": "Discharge POD #6/#7",
-    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nCoumadin or anticoagulation (if in atrial fibrillation)"
+    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nAnticoagulation (if in atrial fibrillation)"
   },
   {
     "objectID": "eso_postop_care.html#discharge-planning",
     "href": "eso_postop_care.html#discharge-planning",
     "title": "Esophagectomy Postop Care",
     "section": "Discharge Planning",
-    "text": "Discharge Planning\nJejunostomy tube feedings\n\nPump mangement\nFree water flushes\n\nMedications: Who is managing new meds?\nHome infusion: orders for tube feed formula/rate/duration\nHome nursing: Postop visit"
+    "text": "Discharge Planning\nJejunostomy tube feedings\n\nPump management\nFree water flushes\n\nMedications: Who is managing new meds?\nHome infusion: orders for tube feed formula/rate/duration\nHome nursing: Postop visit"
   },
   {
     "objectID": "eso_postop_care.html#patient-instructions",
     "href": "eso_postop_care.html#patient-instructions",
     "title": "Esophagectomy Postop Care",
     "section": "Patient Instructions",
-    "text": "Patient Instructions\nDriving: - Off narcotics and pain-free\nShowering: - OK to shower at home - No tub bath or swimming for 2 weeks\nActivity:\n\nNo lifting &gt;10# for 6 weeks\nOK to resume aerobic activity immediately"
+    "text": "Patient Instructions\nDriving:\n\nOff narcotics and pain-free\n\nShowering:\n\nOK to shower at home\nNo tub bath or swimming for 2 weeks\n\nActivity:\n\nNo lifting &gt;10# for 6 weeks\nOK to resume aerobic activity immediately"
   },
   {
     "objectID": "eso_postop_care.html#postop-office-visit",
@@ -7732,7 +7732,7 @@
     "href": "eso_postop_care.html#minimally-invasive-esophagectomy-acknowledgements",
     "title": "Esophagectomy Postop Care",
     "section": "Minimally-invasive esophagectomy Acknowledgements",
-    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic\n\n\n\nTube Feed Comparisons (60mL x 16 hrs) Tube Feed Comparisons (75mL x 16 hrs)"
+    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic"
   },
   {
     "objectID": "eso_postop_care.html#orientation-hanbook",
@@ -9504,5 +9504,544 @@
     "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
     "section": "Subsequent Evaluation",
     "text": "Subsequent Evaluation\n\nEvery 3 months in first year\nEvery 4 months in Year 2\nEvery 6 months in Year 3\nAnnually Years 4 and 5\n\nafter positive biopsies\nSecond evaluation at 12 weeks if first biopsies negative:\n\nPET\nEUS-FNA of suspected lymph nodes\nEGD with bite-on-bite biopsies"
+  },
+  {
+    "objectID": "eso_ctDNA_genes.html",
+    "href": "eso_ctDNA_genes.html",
+    "title": "ctDNA Genes Esophageal Cancer",
+    "section": "",
+    "text": "Genes\nRadboud1\nStanford\nRotterdam\nMelbourne\nPillar 34\nPillar 104\n\n\n\n\n\n\n\n\n(Azad et al., 2020)\n(Eyck et al., 2023)\n(cabalage120?)\n\n\n\n\n\n\nAPC\nx\n\nX\nX\n\n\n\n\n\n\nARID1A\nx\n\n\nX\n\n\n\n\n\n\nAKT1\n\n\nX\n\nX\n\n\n\n\n\nBRAF\nx\n\nX\n\nX\n\n\n\n\n\nCDKN2A\nx\nCommon\n\nX\n\n\n\n\n\n\nCTNNB1\nx\n\nX\n\nX\n\n\n\n\n\nEGFR\n\n\nX\n\nX\n\n\n\n\n\nERBB2\nx\nCommon\nX\n\nX\n\n\n\n\n\nFBXW7\nx\n\nX\n\n\n\n\n\n\n\nGNAS\nx\n\nX\n\nX\n\n\n\n\n\nKRAS\nx\n\nX\nX\nX\n\n\n\n\n\nMAP2K1\n\n\nX\n\n\n\n\n\n\n\nNRAS\n\n\nX\n\nX\n\n\n\n\n\nNRG1\n\n\n\nX\n\n\n\n\n\n\nPIK3CA\nx\n\nX\nX\nX\n\n\n\n\n\nRNF43\nx\n\n\n\nX\n\n\n\n\n\nSMAD4\nx\n\nX\nX\nX\n\n\n\n\n\nSMARCA4\n\n\n\nX\n\n\n\n\n\n\nTGFB2\nx\n\n\n\n\n\n\n\n\n\nTP53\nx\nCommon\nX\nX\nX"
+  },
+  {
+    "objectID": "eso_ctDNA_genes.html#footnotes",
+    "href": "eso_ctDNA_genes.html#footnotes",
+    "title": "ctDNA Genes Esophageal Cancer",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nRadboud Netherlands (hofste4417?)↩︎"
+  },
+  {
+    "objectID": "eso_postop_care.html#modified-barium-swallow---pass",
+    "href": "eso_postop_care.html#modified-barium-swallow---pass",
+    "title": "Esophagectomy Postop Care",
+    "section": "Modified Barium Swallow - Pass",
+    "text": "Modified Barium Swallow - Pass\n70% Pass - started with oral liquids 1oz/hour\n\nAdvanced to protein shakes 2oz/hour if water tolerated\nAdvanced to protein shakes 4oz/hour if tolerated\n\nPatients discharged taking water, Gatorade, and protein shakes orally"
+  },
+  {
+    "objectID": "eso_postop_care.html#npo-orders",
+    "href": "eso_postop_care.html#npo-orders",
+    "title": "Esophagectomy Postop Care",
+    "section": "NPO Orders",
+    "text": "NPO Orders"
+  },
+  {
+    "objectID": "eso_postop_care.html#ct-esophagram-with-ng-tube-in-place-1",
+    "href": "eso_postop_care.html#ct-esophagram-with-ng-tube-in-place-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "CT Esophagram with NG tube in place",
+    "text": "CT Esophagram with NG tube in place\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan performed to identify location of tip of NG tube relative to the anastomosis\nRadiologist will measure the distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm\nNG tube manipulation will need to be done by an RN or physician"
+  },
+  {
+    "objectID": "eso_postop_care.html#cervical-anastomosis---recurrent-laryngeal-nerve-palsy",
+    "href": "eso_postop_care.html#cervical-anastomosis---recurrent-laryngeal-nerve-palsy",
+    "title": "Esophagectomy Postop Care",
+    "section": "Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy",
+    "text": "Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy\n\nHoarse voice\nDiagnosis by FEES (speech therapy)\nRisk of aspiration\n\nRLN palsy generally improves over time\nMay require medialization of the affected cord"
+  },
+  {
+    "objectID": "eso_postop_care.html#urinary-retention-with-epidural-catheter",
+    "href": "eso_postop_care.html#urinary-retention-with-epidural-catheter",
+    "title": "Esophagectomy Postop Care",
+    "section": "Urinary Retention with Epidural Catheter",
+    "text": "Urinary Retention with Epidural Catheter\nRandomized trial of early vs late removal of urinary catheter after thoracic surgery\nEarly removal at 48hrs: 12% reinsertion\n\nOne urinary tract infection\n\nRemoval 6 hours after epidural removal: 3.2% reinsertion\n\nNo urinary tract infection in 126 patients\n\n\n\nMayo Clinic (allen925?)"
+  },
+  {
+    "objectID": "eso_postop_care.html#nutritional-consequences-of-esophagectomy-1",
+    "href": "eso_postop_care.html#nutritional-consequences-of-esophagectomy-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "Nutritional Consequences of Esophagectomy",
+    "text": "Nutritional Consequences of Esophagectomy\nIf That’s Not Enough…\n\nIncreased metabolic needs due to healing +\nPreoperative nutritional deficit"
+  },
+  {
+    "objectID": "eso_postop_care.html#diarrhea-with-jejunostomy-feeds",
+    "href": "eso_postop_care.html#diarrhea-with-jejunostomy-feeds",
+    "title": "Esophagectomy Postop Care",
+    "section": "Diarrhea with Jejunostomy Feeds",
+    "text": "Diarrhea with Jejunostomy Feeds\n\nCheck clostridium Difficile\nSwitch formulas (Osmolite 1.5 →Vital 1.5)\nCautious use of anti-motility agents (eg Lomotil)"
+  },
+  {
+    "objectID": "eso_postop_care.html#oral-nutrition-once-cleared-for-thin-liquids-by-mbs",
+    "href": "eso_postop_care.html#oral-nutrition-once-cleared-for-thin-liquids-by-mbs",
+    "title": "Esophagectomy Postop Care",
+    "section": "Oral Nutrition once cleared for thin liquids by MBS",
+    "text": "Oral Nutrition once cleared for thin liquids by MBS\n\nWater 1oz q hour orally\nMedications switched to oral\nProtein shakes 2oz at a time if water tolerated\nProtein shakes 4oz at a time if 2 oz tolerated\n\nEnsure Max Protein will be available soon!"
+  },
+  {
+    "objectID": "eso_postop_care.html#npo-orders-1",
+    "href": "eso_postop_care.html#npo-orders-1",
+    "title": "Esophagectomy Postop Care",
+    "section": "NPO Orders",
+    "text": "NPO Orders"
+  },
+  {
+    "objectID": "eso_postop_care.html#supplement-intake-regimen",
+    "href": "eso_postop_care.html#supplement-intake-regimen",
+    "title": "Esophagectomy Postop Care",
+    "section": "Supplement Intake Regimen",
+    "text": "Supplement Intake Regimen"
+  },
+  {
+    "objectID": "eso_postop_care.html#esophagectomy-postop-care-talk",
+    "href": "eso_postop_care.html#esophagectomy-postop-care-talk",
+    "title": "Esophagectomy Postop Care",
+    "section": "Esophagectomy Postop Care Talk",
+    "text": "Esophagectomy Postop Care Talk"
+  },
+  {
+    "objectID": "genetics_cases.html#references",
+    "href": "genetics_cases.html#references",
+    "title": "Esophageal Cancer Cases",
+    "section": "References",
+    "text": "References"
+  },
+  {
+    "objectID": "colon_slides.html",
+    "href": "colon_slides.html",
+    "title": "Rectal Cancer",
+    "section": "",
+    "text": "(wanbahrume794?)"
+  },
+  {
+    "objectID": "colon_slides.html#gastrograffin-challange-for-malignant-small-bowel-obstruction",
+    "href": "colon_slides.html#gastrograffin-challange-for-malignant-small-bowel-obstruction",
+    "title": "Rectal Cancer",
+    "section": "",
+    "text": "(wanbahrume794?)"
+  },
+  {
+    "objectID": "colon_slides.html#gi-stromal-tumors",
+    "href": "colon_slides.html#gi-stromal-tumors",
+    "title": "Rectal Cancer",
+    "section": "GI Stromal Tumors",
+    "text": "GI Stromal Tumors\nPathophysiology\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\n[Dyplasia]\nTis\nRadiofrequency Ablation\n\n\n[Superficial Tumors]\nT1a\nEndoscopic Therapy\n\n\n[Localized Tumors]\nT1b T2\nSurgery\n\n\nLocally-advanced\nT3 or N+\nChemoRT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation\n\n\n\n\n\n(Schaefer, DeMatteo, and Serrano 2022)"
+  },
+  {
+    "objectID": "colon_slides.html#pathophysiology",
+    "href": "colon_slides.html#pathophysiology",
+    "title": "Rectal Cancer",
+    "section": "Pathophysiology",
+    "text": "Pathophysiology\n\n\nOrigin with bowel wall stomach- small intestine - colon - esophagus\n\nTyrosine kinase gain of function mutations - KIT2 - PDGRFA3 Genetic inactivation - NF14 - succinate dehydrogenase (SDH)\n\n\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "colon_slides.html#rapido-trial",
+    "href": "colon_slides.html#rapido-trial",
+    "title": "Rectal Cancer",
+    "section": "Rapido Trial",
+    "text": "Rapido Trial\n\n\nShort-course RT \\(\\rightarrow\\) Chemo \\(\\rightarrow\\) Surgery vs ChemoRT \\(\\rightarrow\\) TME +/- Chemo\n\n\n\n\n\n\nLancet Oncol December 7, 2020"
+  },
+  {
+    "objectID": "colon_slides.html#total-neoadjuvant-therapy",
+    "href": "colon_slides.html#total-neoadjuvant-therapy",
+    "title": "Rectal Cancer",
+    "section": "Total Neoadjuvant Therapy",
+    "text": "Total Neoadjuvant Therapy\nInduction Chemotherapy\nConsolidation Chemotherapy"
+  },
+  {
+    "objectID": "colon_slides.html#kit-and-pdgfr-mutations",
+    "href": "colon_slides.html#kit-and-pdgfr-mutations",
+    "title": "Rectal Cancer",
+    "section": "KIT and PDGFR Mutations",
+    "text": "KIT and PDGFR Mutations"
+  },
+  {
+    "objectID": "colon_slides.html#eortc-22921",
+    "href": "colon_slides.html#eortc-22921",
+    "title": "Rectal Cancer",
+    "section": "EORTC 22921",
+    "text": "EORTC 22921\n\nBossset Lancet Oncol p 184 2014"
+  },
+  {
+    "objectID": "colon_slides.html#prodige-23",
+    "href": "colon_slides.html#prodige-23",
+    "title": "Rectal Cancer",
+    "section": "Prodige 23",
+    "text": "Prodige 23\n\nPHase 3 RCT n=461\nmFOLFIRINOX -&gt; CRT -&gt; Surgery -&gt; Adjuvant Chemo\n\nPatients with dysphagia almost always are T3 tumors (and don’t need EUS)"
+  },
+  {
+    "objectID": "colon_slides.html#symptomatic-tumors-dysphagia",
+    "href": "colon_slides.html#symptomatic-tumors-dysphagia",
+    "title": "Rectal Cancer",
+    "section": "Symptomatic Tumors (Dysphagia)",
+    "text": "Symptomatic Tumors (Dysphagia)\nPatients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]\n\nDisease confined to the esophagus and regional nodes \\(\\rightarrow\\) Locally-advanced\nMetastatic disease \\(\\rightarrow\\) Metastatic\nN3 \\(\\rightarrow\\) induction chemotherapy followed by chemoradiation and surgical evaluation."
+  },
+  {
+    "objectID": "colon_slides.html#acosog-zz9001",
+    "href": "colon_slides.html#acosog-zz9001",
+    "title": "Rectal Cancer",
+    "section": "ACOSOG ZZ9001",
+    "text": "ACOSOG ZZ9001\nGIST Tumors &gt;3cm randomized: - 1 year of imatinib 40mg - Observation\nRecurrence-free survival 98% vs 83% No significant difference at 6 years\nImatinib may simply delay recurrences\n\n\nRef"
+  },
+  {
+    "objectID": "colon_slides.html#ssg-svii",
+    "href": "colon_slides.html#ssg-svii",
+    "title": "Rectal Cancer",
+    "section": "SSG SVII",
+    "text": "SSG SVII\nHigh-risk GIST randomized: - 1 year of imatinib 400mg - 3 year of imatinib 400mg\n5-year Recurrence-free survival 48% vs 66% 5-year Overall Survival 82% vs 92%\n\n\nRef"
+  },
+  {
+    "objectID": "colon_slides.html#mutational-testing",
+    "href": "colon_slides.html#mutational-testing",
+    "title": "Rectal Cancer",
+    "section": "Mutational Testing",
+    "text": "Mutational Testing\nGenetic mutations can predict respoinse to imatinib 1"
+  },
+  {
+    "objectID": "colon_slides.html#locally-advanced",
+    "href": "colon_slides.html#locally-advanced",
+    "title": "Rectal Cancer",
+    "section": "Locally-advanced",
+    "text": "Locally-advanced\nFor patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:\n\nChemoRT \\(\\rightarrow\\) Surgery ([CROSS Trial])\nChemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo (EsoPEC Trial)"
+  },
+  {
+    "objectID": "colon_slides.html#positive-margins",
+    "href": "colon_slides.html#positive-margins",
+    "title": "Rectal Cancer",
+    "section": "Positive Margins",
+    "text": "Positive Margins\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nmedian age=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\nGronchi JAMA Surg 2020"
+  },
+  {
+    "objectID": "colon_slides.html#imatinib-1yr-vs-3-yr",
+    "href": "colon_slides.html#imatinib-1yr-vs-3-yr",
+    "title": "Rectal Cancer",
+    "section": "Imatinib 1yr vs 3 yr",
+    "text": "Imatinib 1yr vs 3 yr\n\n368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nT3: 80%. T2: 17%\nmedian age=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\nJoensuu JAMA Oncology 2020"
+  },
+  {
+    "objectID": "colon_slides.html#wild-type-gist",
+    "href": "colon_slides.html#wild-type-gist",
+    "title": "Rectal Cancer",
+    "section": "Wild-Type GIST",
+    "text": "Wild-Type GIST\n\nSDH-Deficient\n\nSDHx mutation\nSDH wild-type\nAssociated with Carney-Stratakis syndrome\n\nNo SDH Deficiency\n\nNF1-GIST\nSporadic Wild-Type GIST\n\n\n\n\nWeldon JCS 2017"
+  },
+  {
+    "objectID": "colon_slides.html#nf1-associated-gist",
+    "href": "colon_slides.html#nf1-associated-gist",
+    "title": "Rectal Cancer",
+    "section": "NF1-associated GIST",
+    "text": "NF1-associated GIST\n\nMulticentric (33%)\nMedian age 46\nSmall bowel &gt;&gt; Duodenum &gt;&gt; Stomach\n\n\n\nWeldon JCS 2017"
+  },
+  {
+    "objectID": "colon_slides.html#recurrence-risk",
+    "href": "colon_slides.html#recurrence-risk",
+    "title": "Rectal Cancer",
+    "section": "Recurrence Risk",
+    "text": "Recurrence Risk\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\nJoensuu Lancet March 2012"
+  },
+  {
+    "objectID": "colon_slides.html#cross---survival-by-histology",
+    "href": "colon_slides.html#cross---survival-by-histology",
+    "title": "Rectal Cancer",
+    "section": "CROSS - Survival by Histology",
+    "text": "CROSS - Survival by Histology\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\nMiettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83"
+  },
+  {
+    "objectID": "colon_slides.html#cross---pathologic-response",
+    "href": "colon_slides.html#cross---pathologic-response",
+    "title": "Rectal Cancer",
+    "section": "CROSS - Pathologic Response",
+    "text": "CROSS - Pathologic Response\npCR seen in 23% of patients with adenocarcinoma\npCR seen in 40% of patients with squamous cell carcinoma\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "colon_slides.html#cross---sites-of-failure",
+    "href": "colon_slides.html#cross---sites-of-failure",
+    "title": "Rectal Cancer",
+    "section": "CROSS - Sites of Failure",
+    "text": "CROSS - Sites of Failure\n\n\nSites of failure over time\nChemoRT + Surgery vs Surgery\nChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure\n\n\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "colon_slides.html#checkmate-577-trial",
+    "href": "colon_slides.html#checkmate-577-trial",
+    "title": "Rectal Cancer",
+    "section": "Checkmate 577 Trial",
+    "text": "Checkmate 577 Trial\nImmunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "colon_slides.html#nivolumab",
+    "href": "colon_slides.html#nivolumab",
+    "title": "Rectal Cancer",
+    "section": "Nivolumab",
+    "text": "Nivolumab\n\n\nPD-L1 agonist ligand\nInterferes with tumor cell down-regulation of T cells\nActive against stage IV esophageal cancer\n\n\n\n\nNivolumab mechanism of action"
+  },
+  {
+    "objectID": "colon_slides.html#chekmate-577-trial",
+    "href": "colon_slides.html#chekmate-577-trial",
+    "title": "Rectal Cancer",
+    "section": "Chekmate 577 Trial",
+    "text": "Chekmate 577 Trial\nEsoCA patients who received ChemoRT\\(\\rightarrow\\) Surgery with residual disease (not pCR)\nRandomized to one year of immunotherapy (nivolumab) vs Observation\nAdjuvant nivolumab group had better survival\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "colon_slides.html#checkmate-577-trial-1",
+    "href": "colon_slides.html#checkmate-577-trial-1",
+    "title": "Rectal Cancer",
+    "section": "Checkmate 577 Trial",
+    "text": "Checkmate 577 Trial\n\n\n\nAdjuvant Nivolumab vs Observation\n\n\n\n\n(Kelly et al. 2021)"
+  },
+  {
+    "objectID": "colon_slides.html#neoadjuvant-chemo-for-esoca",
+    "href": "colon_slides.html#neoadjuvant-chemo-for-esoca",
+    "title": "Rectal Cancer",
+    "section": "Neoadjuvant Chemo for EsoCA",
+    "text": "Neoadjuvant Chemo for EsoCA\n\nMAGIC trial (gastric): ECF2\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF vs Surgery\n\nOEO2 Trial: (esophageal) Chemo\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) Chemo vs Surgery\n\nFLOT (gastric): FLOT3\\(\\rightarrow\\)Surgery\\(\\rightarrow\\) FLOT vs ECF\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)ECF\nEsoPEC: (esophageal):FLOT\\(\\rightarrow\\)Surgery\\(\\rightarrow\\)FLOT vs ChemoRT\\(\\rightarrow\\)Surgery (CROSS)"
+  },
+  {
+    "objectID": "colon_slides.html#oeo2-clinical-trial",
+    "href": "colon_slides.html#oeo2-clinical-trial",
+    "title": "Rectal Cancer",
+    "section": "OEO2 Clinical Trial",
+    "text": "OEO2 Clinical Trial\n\n802 Esophageal adenocarcinoma and squamous cell\nRandomized to Chemo \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Chemo vs Surgery alone\nChemotherapy with ECF (Epirubicin, Cisplatin, 5FU)\n5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)\n\n\n\n(Allum et al. 2009)"
+  },
+  {
+    "objectID": "colon_slides.html#esopec-trial",
+    "href": "colon_slides.html#esopec-trial",
+    "title": "Rectal Cancer",
+    "section": "EsoPEC Trial",
+    "text": "EsoPEC Trial\n\nEsophageal cancer\nRandomized to CROSS vs FLOT\nBetter survival with FLOT"
+  },
+  {
+    "objectID": "colon_slides.html#metastatic",
+    "href": "colon_slides.html#metastatic",
+    "title": "Rectal Cancer",
+    "section": "Metastatic",
+    "text": "Metastatic\nFOLFOX is first-line systemic therapy for metastatic GI cancers\n\nDose-limiting toxicity is frequently peripheral neuropathy"
+  },
+  {
+    "objectID": "colon_slides.html#footnotes",
+    "href": "colon_slides.html#footnotes",
+    "title": "Rectal Cancer",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMeheran JCO 2017↩︎\nEpirubicin, Cisplatin, 5FU↩︎\n5FU, Leuvocorin, Oxaliplatin, Decetaxol↩︎"
+  },
+  {
+    "objectID": "appendiceal.html",
+    "href": "appendiceal.html",
+    "title": "Appendiceal neoplasms",
+    "section": "",
+    "text": "In the ovary, this would be a cystadenoma\nNot invasive - equivalent of a polyp\nIf rutured, can cause PMP = pseudomyxoma peritonei"
+  },
+  {
+    "objectID": "appendiceal.html#low-grade-mucinous-neoplasms-lamn",
+    "href": "appendiceal.html#low-grade-mucinous-neoplasms-lamn",
+    "title": "Appendiceal neoplasms",
+    "section": "",
+    "text": "In the ovary, this would be a cystadenoma\nNot invasive - equivalent of a polyp\nIf rutured, can cause PMP = pseudomyxoma peritonei"
+  },
+  {
+    "objectID": "appendiceal.html#mucinous-adenocarcinoma",
+    "href": "appendiceal.html#mucinous-adenocarcinoma",
+    "title": "Appendiceal neoplasms",
+    "section": "Mucinous adenocarcinoma",
+    "text": "Mucinous adenocarcinoma\nIn the ovary - mucinous carcinoma"
+  },
+  {
+    "objectID": "appendiceal.html#high-grade-mucinous-neoplasms",
+    "href": "appendiceal.html#high-grade-mucinous-neoplasms",
+    "title": "Appendiceal neoplasms",
+    "section": "High grade mucinous neoplasms",
+    "text": "High grade mucinous neoplasms\n??Not technically invasive"
+  },
+  {
+    "objectID": "eso_ctDNA_lit.html#footnotes",
+    "href": "eso_ctDNA_lit.html#footnotes",
+    "title": "ctDNA in Esophageal Cancer",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nRadboud Netherlands↩︎"
+  },
+  {
+    "objectID": "eso_nonop.html",
+    "href": "eso_nonop.html",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "",
+    "text": "368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nage \\(\\tilde{x}\\)=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.html#cross-locally-advanced-esophageal-cancer",
+    "href": "eso_nonop.html#cross-locally-advanced-esophageal-cancer",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "",
+    "text": "368 esophageal cancer patients randomized:\n\nSurgery alone\nChemo+RT \\(\\rightarrow\\) Surgery\n\n75% adenocarcinoma\nage \\(\\tilde{x}\\)=60\nlonger survival with Chemo+RT \\(\\rightarrow\\) Surgery\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.html#cross-pathologic-complete-response",
+    "href": "eso_nonop.html#cross-pathologic-complete-response",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS: Pathologic Complete Response",
+    "text": "CROSS: Pathologic Complete Response\nAdenocarcinoma: pCR in 23%\nSquamous cell carcinoma: pCR in 49%\n\\(\\Rightarrow\\) Can some patients be spared surgery?\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.html#cross",
+    "href": "eso_nonop.html#cross",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS",
+    "text": "CROSS\nThe median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p &lt; 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p &lt; 0.001)."
+  },
+  {
+    "objectID": "eso_nonop.html#cross---overall-survival",
+    "href": "eso_nonop.html#cross---overall-survival",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Overall Survival",
+    "text": "CROSS - Overall Survival\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.html#cross---survival-by-histology",
+    "href": "eso_nonop.html#cross---survival-by-histology",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Survival by Histology",
+    "text": "CROSS - Survival by Histology\n\n\n\nSurgery vs ChemoRT \\(\\rightarrow\\) Surgery\n\n\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.html#cross---adenocarcinooma",
+    "href": "eso_nonop.html#cross---adenocarcinooma",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Adenocarcinooma",
+    "text": "CROSS - Adenocarcinooma\nMedian survival 43mo vs 27mo\nPathologic complete response in 23%"
+  },
+  {
+    "objectID": "eso_nonop.html#cross---squamous-cell-carcinoma",
+    "href": "eso_nonop.html#cross---squamous-cell-carcinoma",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS - Squamous cell carcinoma",
+    "text": "CROSS - Squamous cell carcinoma\nMedian survival 82mo vs 21mo\nPathologic complete response in 49%\n\n\n(Shapiro et al. 2015)"
+  },
+  {
+    "objectID": "eso_nonop.html#locally-advanced-esophageal-cancer",
+    "href": "eso_nonop.html#locally-advanced-esophageal-cancer",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Locally-advanced Esophageal Cancer",
+    "text": "Locally-advanced Esophageal Cancer\n\n\nOptimal Therapy for locally-advanced esophageal cancer:\n\nNeoadjuvant Therapy\nChemoradiation (CROSS)\nChemtherapy (FLOT)\nEsophagectomy"
+  },
+  {
+    "objectID": "eso_nonop.html#cross-trial-schema",
+    "href": "eso_nonop.html#cross-trial-schema",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "CROSS Trial Schema",
+    "text": "CROSS Trial Schema\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\n\n\nC--&gt;I[Surgery]"
+  },
+  {
+    "objectID": "eso_nonop.html#real-world-cross-schema",
+    "href": "eso_nonop.html#real-world-cross-schema",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Real-World CROSS Schema",
+    "text": "Real-World CROSS Schema\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\nC --&gt;F[Fitness Evaluation]\n\nF--&gt; G[High Risk]\n\nF--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
+  },
+  {
+    "objectID": "eso_nonop.html#active-surveillance",
+    "href": "eso_nonop.html#active-surveillance",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Active Surveillance",
+    "text": "Active Surveillance\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Clinical Response Evaluation]\n\nC --&gt;D[Metastatic Disease]\n\nC --&gt;K[Persistent Disease]\n\nC --&gt;L[No Detectable Disease]\n\nL--&gt;N[Active Surveillance]\n\nN --&gt; O[Isolated Local Recurrence]\n\nO --&gt; M\n\nN --&gt; P[Metastatic Disease]\n\nP --&gt; E\n\nD --&gt; E[Systemic Therapy]\n\nK --&gt;M[Fitness Evaluation]\n\nM--&gt; G[High Risk]\n\nM--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
+  },
+  {
+    "objectID": "eso_nonop.html#sano-surgery-as-necessary-only",
+    "href": "eso_nonop.html#sano-surgery-as-necessary-only",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "SANO (Surgery As Necessary Only)",
+    "text": "SANO (Surgery As Necessary Only)\n776 Patient with esophageal cancer treated with chemoRT\nClinical response evaluation after chemoRT\n274 with Complete Clinical Response (35%) randomized:\n\n156 Active Surveillance (\\(\\rightarrow\\) Surgery for local recurrence)\n118 Surgery\n\n\n\n(vanderwilk425?)"
+  },
+  {
+    "objectID": "eso_nonop.html#sano-clinical-respone-evaluation",
+    "href": "eso_nonop.html#sano-clinical-respone-evaluation",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "SANO Clinical Respone Evaluation",
+    "text": "SANO Clinical Respone Evaluation\nEGD at 6 weeks with bite-on-bite biopsies\nSecond evaluation at 12 weeks if first biopsies negative:\n\nPET\nEUS-FNA of suspected lymph nodes\nEGD with bite-on-bite biopsies"
+  },
+  {
+    "objectID": "eso_nonop.html#clinical-response-evaluation",
+    "href": "eso_nonop.html#clinical-response-evaluation",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Clinical Response Evaluation",
+    "text": "Clinical Response Evaluation\n761 First Clinical Response Evaluation (EGD)\n\n232 Isolated local disease documented by biopsy\n40 Persistent stricture\n2 metastatic disease"
+  },
+  {
+    "objectID": "eso_nonop.html#clinical-response-evaluation-1",
+    "href": "eso_nonop.html#clinical-response-evaluation-1",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Clinical Response Evaluation",
+    "text": "Clinical Response Evaluation\n761 First Clinical Response Evaluation (EGD)\n\n232 Isolated local disease documented by biopsy\n40 Persistent stricture\n2 metastatic disease\n\n420 Second Clinical Response Evaluation (EGD+PET+FNA)\n\n115 Isolated local disease documented by biopsy\n19 Persistent stricture\n40 metastatic disease\n\n\\(\\Rightarrow\\) 274 with clinical complete response (cCR)"
+  },
+  {
+    "objectID": "eso_nonop.html#clinical-response-evaluation-2",
+    "href": "eso_nonop.html#clinical-response-evaluation-2",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Clinical Response Evaluation",
+    "text": "Clinical Response Evaluation\n761 First Clinical Response Evaluation (EGD)\n\n232 Isolated local disease\n40 Persistent stricture\n2 metastatic disease\n\n420 Second Clinical Response Evaluation (EGD+PET+FNA)\n\n115 Isolated local disease (missed at first EGD)\n19 Persistent stricture\n40 metastatic disease\n\n\\(\\Rightarrow\\) 115 Patient had local disease missed at first EGD"
+  },
+  {
+    "objectID": "eso_nonop.html#persistent-disease",
+    "href": "eso_nonop.html#persistent-disease",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Persistent disease",
+    "text": "Persistent disease\nSurgery performed with two weeks in patients without metastatic disease and:\n\nPositive EGD biopsies\nHigh-grade dysplasia on EGD\nStricture which prohibited passage of scope"
+  },
+  {
+    "objectID": "eso_nonop.html#subsequent-evaluation",
+    "href": "eso_nonop.html#subsequent-evaluation",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Subsequent Evaluation",
+    "text": "Subsequent Evaluation\n\nEvery 3 months in first year\nEvery 4 months in Year 2\nEvery 6 months in Year 3\nAnnually Years 4 and 5"
+  },
+  {
+    "objectID": "eso_nonop.html#active-surveillance-outcomes-n198",
+    "href": "eso_nonop.html#active-surveillance-outcomes-n198",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Active Surveillance Outcomes (n=198)",
+    "text": "Active Surveillance Outcomes (n=198)\n33 (17%) developed metastatic disease - 22 detected at 6 months (third clinical response evaluation)\n69 (35%) had persistent complete clinical response\n96 (48%) had isolated local recurrence"
+  },
+  {
+    "objectID": "eso_nonop.html#results",
+    "href": "eso_nonop.html#results",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Results",
+    "text": "Results\n No difference in overall survival at median followup of 38 months Median survival 34 months for active surveillance and 50 months for surgery"
+  },
+  {
+    "objectID": "eso_nonop.html#sano---key-points",
+    "href": "eso_nonop.html#sano---key-points",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "SANO - Key Points",
+    "text": "SANO - Key Points\nActive Surveillance was non-inferior using predefined criteria\n\nNon-inferior was defined as survival difference &lt;15%\n\nDisease-free and Overall survival was numerically better with immediate surgery\nSurvival curves appear to cross at 2 years favoring immediate surgery\nOutcomes were not stratified by histology"
+  },
+  {
+    "objectID": "eso_nonop.html#proposed-pathway-changes",
+    "href": "eso_nonop.html#proposed-pathway-changes",
+    "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
+    "section": "Proposed Pathway Changes",
+    "text": "Proposed Pathway Changes\nActive Surveillance is a reasonable option in informed patients\nClinical response evaluation should consist of:\n\nEGD at 6 weeks\nRepeat EGD at 12 weeks if negative\nPET scan at 12 weeks\nEUS-FNA of suspicious nodes on PET"
+  },
+  {
+    "objectID": "gist_slides.html",
+    "href": "gist_slides.html",
+    "title": "GI Stromal Tumors",
+    "section": "",
+    "text": "GIST Tumors &gt;3cm randomized:\n\n1 year of imatinib 40mg\nObservation\n\nRecurrence-free survival 98% vs 83%\nNo significant difference at 6 years\nImatinib may simply delay recurrences\n\n\nRef"
+  },
+  {
+    "objectID": "gist_slides.html#afip-risk-classification",
+    "href": "gist_slides.html#afip-risk-classification",
+    "title": "GI Stromal Tumors",
+    "section": "AFIP Risk Classification",
+    "text": "AFIP Risk Classification\n&lt;&lt;&lt;&lt;&lt;&lt;&lt; Updated upstream +———–+—————-+——————+—————–+——————-+—————+—+ | Group | Size | Mitotic rate | Gastric | Jejunal/Ileum | Duodenal | | +———–+—————-+——————+—————–+——————-+—————+—+ | 1 | ≤ 2 cm** | ≤ 5 per 50 hpf | None (0%) | None (0%) | None (0%) | | +———–+—————-+——————+—————–+——————-+—————+—+ | 2 | &gt;2 ≤ 5 cm | | Very Low (1.9%) | Low (4.3%)        | Low (8.3%)    |   | |           |                |  \"               |                 |                   |               |   | |           |                | | | | | | +———–+—————-+——————+—————–+——————-+—————+—+ | 3a | &gt; 5 ≤ 10 cm | | Low (3.6%)      | Moderate (24%) ǂ  | High† (34%) ǂ |   | |           |                |  \"               |                 |                   |               |   | |           |                | | | | | | +———–+—————-+——————+—————–+——————-+—————+—+ | 3b | &gt; 10 cm | | Moderate (12%)  | High (52%)        |               |   | |           |                |  \"               |                 |                   |               |   | |           |                | | | | | | +———–+—————-+——————+—————–+——————-+—————+—+ | 4 | ≤ 2 cm | &gt; 5 per 50 hpf | None†. | High (50%) | § | | +———–+—————-+——————+—————–+——————-+—————+—+ | 5 | &gt; 2 cm ≤ 5 cm | | Moderate (16%)  | High (73%)        | High (50%)    |   | |           |                |  \"               |                 |                   |               |   | |           |                | | | | | | +———–+—————-+——————+—————–+——————-+—————+—+ | 6a | &gt; 5 cm ≤ 10cm | | High (52%)      | High (85%)        | High (86%)ǂ   |   | |           |                |  \"               |                 |                   |               |   | |           |                | | | | | | +———–+—————-+——————+—————–+——————-+—————+—+ | 6b | &gt; 10 cm | | High (86%)      | High (90%)        |               |   | |           |                |  \"               |                 |                   |               |   | |           |                | | | | | | +———–+—————-+——————+—————–+——————-+—————+—+ ======= Risk of metastasis or GIST-related death +———–+—————-+——————+—————-+——————-+—————+ | Group | Size | Mitotic rate | Gastric | Jejunal/Ileum | Duodenal | +———–+—————-+——————+—————-+——————-+—————+ | 1 | ≤ 2 cm** | ≤ 5 per 50 hpf | None (0%) | None (0%) | None (0%) | +———–+—————-+——————+—————-+——————-+—————+ | 2 | &gt;2 ≤ 5 cm | ” | Very Low (1.9%)| Low (4.3%) | Low (8.3%) | +———–+—————-+——————+—————-+——————-+—————+ | 3a | &gt; 5 ≤ 10 cm | ” | Low (3.6%) | Moderate (24%) ǂ | High† (34%) ǂ | +———–+—————-+——————+—————-+——————-+—————+ | 3b | &gt; 10 cm | ” | Moderate (12%) | High (52%) | High† (34%) ǂ | +———–+—————-+——————+—————-+——————-+—————+ | 4 | ≤ 2 cm | &gt; 5 per 50 hpf | None† | High (50%) | § | +———–+—————-+——————+—————-+——————-+—————+ | 5 | &gt; 2 cm ≤ 5 cm | ” | Moderate (16%) | High (73%) | High (50%) | +———–+—————-+——————+—————-+——————-+—————+ | 6a | &gt; 5 cm ≤ 10cm | ” | High (52%) | High (85%) | High (86%)ǂ | +———–+—————-+——————+—————-+——————-+—————+ | 6b | &gt; 10 cm | ” | High (86%) | High (90%) | High (86%)ǂ | +———–+—————-+——————+—————-+——————-+—————+ † Small number of cases § No cases in study ǂ Combined 3a & 3b and 6a & 6b **Note: Only tumors &lt;2 cm with mitotic rate &lt;5 per 50 HPFs seem to remain consistently free of metastases in follow-up studies; all other categories involve metastatic risk &gt;&gt;&gt;&gt;&gt;&gt;&gt; Stashed changes\n\n\nMiettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83"
+  },
+  {
+    "objectID": "gist_slides.html#footnotes",
+    "href": "gist_slides.html#footnotes",
+    "title": "GI Stromal Tumors",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nMeheran JCO 2017↩︎"
+  },
+  {
+    "objectID": "eso_ctDNA_genes.htm#references",
+    "href": "eso_ctDNA_genes.htm#references",
+    "title": "ctDNA Genes Esophageal Cancer",
+    "section": "",
+    "text": "Genes\nRadboud1\nStanford\nRotterdam\nMelbourne\nPillar 34\nPillar 104\n\n\n\n\n\n\n\n\n(Azad et al., 2020)\n(Eyck et al., 2023)\n(cabalage120?)\n\n\n\n\n\n\nAPC\nx\n\nX\nX\n\n\n\n\n\n\nARID1A\nx\n\n\nX\n\n\n\n\n\n\nAKT1\n\n\nX\n\nX\n\n\n\n\n\nBRAF\nx\n\nX\n\nX\n\n\n\n\n\nCDKN2A\nx\nCommon\n\nX\n\n\n\n\n\n\nCTNNB1\nx\n\nX\n\nX\n\n\n\n\n\nEGFR\n\n\nX\n\nX\n\n\n\n\n\nERBB2\nx\nCommon\nX\n\nX\n\n\n\n\n\nFBXW7\nx\n\nX\n\n\n\n\n\n\n\nGNAS\nx\n\nX\n\nX\n\n\n\n\n\nKRAS\nx\n\nX\nX\nX\n\n\n\n\n\nMAP2K1\n\n\nX\n\n\n\n\n\n\n\nNRAS\n\n\nX\n\nX\n\n\n\n\n\nNRG1\n\n\n\nX\n\n\n\n\n\n\nPIK3CA\nx\n\nX\nX\nX\n\n\n\n\n\nRNF43\nx\n\n\n\nX\n\n\n\n\n\nSMAD4\nx\n\nX\nX\nX\n\n\n\n\n\nSMARCA4\n\n\n\nX\n\n\n\n\n\n\nTGFB2\nx\n\n\n\n\n\n\n\n\n\nTP53\nx\nCommon\nX\nX\nX\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAzad, T.D., Chaudhuri, A.A., Fang, P., Qiao, Y., Esfahani, M.S., Chabon, J.J., Hamilton, E.G., Yang, Y.D., Lovejoy, A., Newman, A.M., Kurtz, D.M., Jin, M., Schroers-Martin, J., Stehr, H., Liu, C.L., Hui, A.B.-Y., Patel, V., Maru, D., Lin, S.H., Alizadeh, A.A., Diehn, M., 2020. Circulating Tumor DNA Analysis for Detection of Minimal Residual Disease After Chemoradiotherapy for Localized Esophageal Cancer. Gastroenterology 158, 494–505.e6. https://vb3lk7eb4t.search.serialssolutions.com/?id=31711920\n\n\nEyck, B.M., Jansen, M.P., Noordman, B.J., Atmodimedjo, P.N., Wilk, B.J. van der, Martens, J.W., Helmijr, J.A., Beaufort, C.M., Mostert, B., Doukas, M., Wijnhoven, B.P., Lagarde, S.M., Lanschot, J.J.B. van, Dinjens, W.N., 2023. Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. The Journal of Pathology 259, 35–45. https://vb3lk7eb4t.search.serialssolutions.com/?id=36196486\n\n\nRadboud Netherlands (hofste4417?)"
   }
 ]

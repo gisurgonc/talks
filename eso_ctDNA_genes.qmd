@@ -1,0 +1,52 @@
+---
+title: "ctDNA Genes Esophageal Cancer"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+| Genes | Radboud[^1] | Stanford[^2] | Rotterdam[^3] | Melbourne[^4] | Pillar 34[^5] | Pillar 104[^6] |   |   |
+|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| APC | x |  | X | X |  | X |  |  |
+| ARID1A | x |  |  | X |  | X |  |  |
+| AKT1 |  |  | X |  | X | X |  |  |
+| BRAF | x |  | X |  | X | X |  |  |
+| CDKN2A | x | Common |  | X |  | X |  |  |
+| CTNNB1 | x |  | X |  | X | X |  |  |
+| EGFR |  |  | X |  | X | X |  |  |
+| ERBB2 | x | Common | X |  | X | X |  |  |
+| FBXW7 | x |  | X |  |  | X |  |  |
+| GNAS | x |  | X |  | X | X |  |  |
+| KRAS | x |  | X | X | X | X |  |  |
+| MAP2K1 |  |  | X |  |  | X |  |  |
+| NRAS |  |  | X |  | X | X |  |  |
+| NRG1 |  |  |  | X |  |  |  |  |
+| PIK3CA | x |  | X | X | X | X |  |  |
+| RNF43 | x |  |  |  | X |  |  |  |
+| SMAD4 | x |  | X | X | X | X |  |  |
+| SMARCA4 |  |  |  | X |  |  |  |  |
+| TGFB2 | x |  |  |  |  |  |  |  |
+| TP53 | x | Common | X | X | X | X |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+
+[^1]: Radboud Netherlands [@hofste4417]
+
+[^2]: Stanford [@azad494]
+
+[^3]: Rotterdam [@eyck35]
+
+[^4]: Melbourne [@cabalage120]
+
+[^5]: Essential LBx Panel
+
+[^6]: Core Lbx Panel
