@@ -48,6 +48,8 @@ title: "GI Surgical Oncology"
 
 [One Stage Esophagectomy](one_stage_mie.html)
 
+[Robot Esophagectomy](robot_esophagectomy.html)
+
 [ctDNA in Esophageal Cancer](eso_ctDNA_lit.html)
 
 # Esophagectomy Decision-making
