@@ -8,54 +8,63 @@ link-citations: true
 
 ## Ivor Lewis Techniques
 
-### Pittsburgh 
+### Pittsburgh
 
 *Equipment*
 
-- Nathanson retractor (3 sizes available)
-- Mediflex 'Strong Arm' table-mounted fixed retractor
+-   Nathanson retractor (3 sizes available)
+-   Mediflex 'Strong Arm' table-mounted fixed retractor
 
 Position: Reverse Trendeleburg with tipped to Right (left side up)
 
 *Abdominal Ports:* Ports oriented transversely approx 2-3cm below right gastroepiploic arcade
 
-- #2 Camera port just above umbilicus and to left of midline (to allow better view of left upper quadrant).  Port should be within 23cm of hiatus 
-- #1 subcostal right upper quadrant 12mm stapler port
-- #3 midclavicular line left upper quadrant within 15cm of hiatus. 
-- #4 just off subcostal margin in left upper quadrant. 
-- RLQ assisting port (with AirSeal)
-- LLQ assistant port
+-   #2 Camera port just above umbilicus and to left of midline (to allow better view of left upper quadrant). Port should be within 23cm of hiatus
+-   #1 subcostal right upper quadrant 12mm stapler port
+-   #3 midclavicular line left upper quadrant within 15cm of hiatus.
+-   #4 just off subcostal margin in left upper quadrant.
+-   RLQ assisting port (with AirSeal)
+-   LLQ assistant port
 
 ![](images/wisz_abdominal_ports.png)
 
-Abdominal dissection: 
+Abdominal dissection:
 
-1) Hiatal dissection: Open pars flaccida into lesser sac and dissect hiatus. Will not perform extensive hiatal dissection at this stage due to risk of pneumothorax. 
+1)  Hiatal dissection: Open pars flaccida into lesser sac and dissect hiatus. Will not perform extensive hiatal dissection at this stage due to risk of pneumothorax.
 
-2) Retrogastric dissection: Start with left gastric artery at origin $\rightarrow$ R crus $\rightarrow$ L crus. Can then proceed over anterior surface of pancreas. Beware of splenic artery.  Can dissect short gastrics from posterior.  
+2)  Retrogastric dissection: Start with left gastric artery at origin $\rightarrow$ R crus $\rightarrow$ L crus. Can then proceed over anterior surface of pancreas. Beware of splenic artery. Can dissect short gastrics from posterior.
 
-3) Gastric mobilization: Enter lesser sac. Stomach mobilized off lesser sac.Left gastric vein divided with vessel sealer. Left gastric artery secured with locking Weck clip or vascular stapler. 
+3)  Gastric mobilization: Enter lesser sac. Stomach mobilized off lesser sac.Left gastric vein divided with vessel sealer. Left gastric artery secured with locking Weck clip or vascular stapler.
 
-Greater curvature mobilized. Entrance into lesser sac from the this area to left of midline. Omentum not dissected off colon. Plane dissected distally between colon mesentery and RGEA. Can grasp stomach on lesser curvature with Arm 4 (to avoid grasping future conduit). Pedicled omental flap using 2 proximal (superior) omental vessels. Follow vessels for <10cm. Divide left gastroepiploic artery. Take remaining short gastrics to complete dissection.  
+Greater curvature mobilized. Entrance into lesser sac from the this area to left of midline. Omentum not dissected off colon. Plane dissected distally between colon mesentery and RGEA. Can grasp stomach on lesser curvature with Arm 4 (to avoid grasping future conduit). Pedicled omental flap using 2 proximal (superior) omental vessels. Follow vessels for \<10cm. Divide left gastroepiploic artery. Take remaining short gastrics to complete dissection.
 
-4) Pyloroplasty: Retraction stitches superior and inferior $\rightarrow$ opened longitudinally with ultrasonic shears $\rightarrow$ closed transverse with 5-6 sutures of 2-0 silk. (UTSW no longer performs pyloroplasty)
+4)  Pyloroplasty: Retraction stitches superior and inferior $\rightarrow$ opened longitudinally with ultrasonic shears $\rightarrow$ closed transverse with 5-6 sutures of 2-0 silk. (UTSW no longer performs pyloroplasty)
 
-5) Conduit: Arm #4 grasps fundus to straighten conduit.  Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. *Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest.  Arm 3 (or assistant) is used to 'hook' conduit towards pylorus in order to straighten conduit.  Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with "U" stitch to avoid possibility of torsion.  Omental flap sutured to superior aspect of conduit.
+5)  Conduit: Arm #4 grasps fundus to straighten conduit. Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. \*Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest. Arm 3 (or assistant) is used to 'hook' conduit towards pylorus in order to straighten conduit. Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with "U" stitch to avoid possibility of torsion. Omental flap sutured to superior aspect of conduit.
 
-6) Jejunostomy performed laparoscopically
-
-
+6)  Jejunostomy performed laparoscopically
 
 Chest ports:
 
-- (2) Camera:  8th/9th ICS at posterior axillary line (or 9th laterally)
-- (4) Robotic Assist: 3rd ICS at mid/posterior axillary line $\rightarrow$ Small Grasping Retractor
-- (3) Right Hand: 5th ICS mid-axillary line $\rightarrow$ Vessel Sealer or Syncro Seal
-- (1) Left Hand/Staplers (linear and EEA): 9th ICS in line with tip of scapula. If too far posterior, will fight with spine (which can be a problem for the stapler). Estimate location of diaphragm - midway between iliac crest and tip of scapula. Force Bipolar.  12mm stapler port passed through Green Alexis port
-- Bedside Assist port inferior near diaphragm (used for Airseal). Midway between (1) and (2).
+-   
 
-(In prior descriptions, Left and Stapler ports were transposed)
-Robot cart driven over patient's right shoulder.
+    (2) Camera: 8th/9th ICS at posterior axillary line (or 9th laterally)
+
+-   
+
+    (4) Robotic Assist: 3rd ICS at mid/posterior axillary line $\rightarrow$ Small Grasping Retractor
+
+-   
+
+    (3) Right Hand: 5th ICS mid-axillary line $\rightarrow$ Vessel Sealer or Syncro Seal
+
+-   
+
+    (1) Left Hand/Staplers (linear and EEA): 9th ICS in line with tip of scapula. If too far posterior, will fight with spine (which can be a problem for the stapler). Estimate location of diaphragm - midway between iliac crest and tip of scapula. Force Bipolar. 12mm stapler port passed through Green Alexis port
+
+-   Bedside Assist port inferior near diaphragm (used for Airseal). Midway between (1) and (2).
+
+(In prior descriptions, Left and Stapler ports were transposed) Robot cart driven over patient's right shoulder.
 
 ![](images/wisz_thoracic_ports.png)
 
@@ -65,7 +74,7 @@ Azygous vein divided with stapler. Vagus divided to prevent injury to RLN. Poste
 
 Conduit brought into chest and temporarily sutured to diaphragm to avoid retraction into the abdomen.
 
-Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally $\rightarrow$ anvil introduced $\rightarrow$ pushed superiorly $\rightarrow$ oriented cephalad-caudad.  Pursestring tied. Second pursestring of 0 Prolene placed inside of first.
+Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally $\rightarrow$ anvil introduced $\rightarrow$ pushed superiorly $\rightarrow$ oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.
 
 DST XL 28mm EEA stapler introduced through port (1) (posterior axillary line ICS8) into open end of conduit $\rightarrow$ mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm
 
@@ -73,10 +82,7 @@ DST XL 28mm EEA stapler introduced through port (1) (posterior axillary line ICS
 
 NG tube advanced by anesthesia and location in stomach confirmed visually.
 
-
-
 Pittsburgh [@oksuyana116] [Video Here](http://www.asvide.com/articles/1677 "Video at AME")
-
 
 ### Baylor
 
@@ -84,46 +90,33 @@ Pittsburgh [@oksuyana116] [Video Here](http://www.asvide.com/articles/1677 "Vide
 
 ![](https://deidt7p41jzcy.cloudfront.net/burt_abdomen.png)
 
-Camera just above umbilicus
-5mm RUQ liver retractor
-10mm assistant in right rectus
-
+Camera just above umbilicus 5mm RUQ liver retractor 10mm assistant in right rectus
 
 Abdominal Phase (Steps 1-8)
-1.Division of gastroesophageal and phrenoesophageal ligaments and right crural dissection. Port placement is detailed in Video 1. An energy device is used to divide the gastrohepatic ligament and the esophagus is dissected from the right crus. Dissection is carried anteriorly where the phrenoesophageal ligament is divided.
-Disssection posterior to esophagus
 
-2.Division of left gastric artery and vein. The left gastric  artery and vein are dissected and surrounding lymph nodes are swept toward the stomach; they can be removed at this time or with the specimen later. The artery and vein are divided with a vascular cartridge stapler.
+1.Division of gastroesophageal and phrenoesophageal ligaments and right crural dissection. An energy device is used to divide the gastrohepatic ligament and the esophagus is dissected from the right crus. Dissection is carried anteriorly where the phrenoesophageal ligament is divided. Disssection posterior to esophagus
 
-Dissection from lesser curvature
-3.Preparation of right gastroepiploic pedicle. The right gastroepiploic artery and vein are identified, the lesser sac is entered, and a healthy pedicle of right gastroepiploic adipose is created. Dissection continues towards the pylorus and then cranially along the stomach's greater curvature.
-4.Creation of pedicled omental flap and division of short gastric arteries and veins. A pedicled omental flap is designed based on right gastroepiploic and short gastric arterial inflow, and the highest short gastric vessels are divided.
-5.Mediastinal dissection. A Penrose drain is placed around the esophagus, approximated to itself (ie with a stapler), and used for retraction to circumferentially dissect the mediastinal esophagus to the level of the inferior pulmonary veins. The Penrose is tucked into the mediastinum.
+2.Division of left gastric artery and vein. Common hepatic artery nodes taken with specimen. The left gastric artery and vein are dissected and surrounding lymph nodes are swept toward the stomach; they can be removed at this time or with the specimen later. The artery and vein are divided with Weck clips or a vascular cartridge stapler.
 
+Dissection from lesser curvature 3.Preparation of right gastroepiploic pedicle. The right gastroepiploic artery and vein are identified, the lesser sac is entered, and a healthy pedicle of right gastroepiploic adipose is created. Dissection continues towards the pylorus and then cranially along the stomach's greater curvature.
+
+4.Creation of pedicled omental flap and division of short gastric arteries and veins. A pedicled omental flap is designed based on right gastroepiploic and short gastric arterial inflow, and the highest short gastric vessels are divided. 5.Mediastinal dissection. A Penrose drain is placed around the esophagus, approximated to itself (ie with a stapler), and used for retraction to circumferentially dissect the mediastinal esophagus to the level of the inferior pulmonary veins. The Penrose is tucked into the mediastinum.
 
 6.Creation of gastric conduit. The lesser curvature adipose is divided between the caudal 2 branches of the right gastric artery and a 4-cm wide conduit is created with serial applications of green staple cartridges. The conduit is never itself directly grasped.
-7.Treatment of the pylorus (chemical pyloroplasty). The pylorus can be treated in various ways. Here, botulism toxin is injected laparoscopically into several regions of its muscle.
-8.Laparoscopic feeding jejunostomy tube. A 14F jejunostomy tube is placed 40 cm from the ligament of Treitz, shown here using T fasteners.
-Thoracic Phase (Steps 9-15)
+
+Assistant retracts the gastric fundus toward the left upper quadrant. Tip up has gastric tip length 60mm to help gauge diameter of gastric tube (5cm).
+
+Can leave GE junction and conduit still connected OR divide completely and re-suture.
+
+Suture JP2 to the GE junction to pull it into the chest cavity.
+
+End of first staple line is tagged with Vicryl suture as a marker to guide transposition of conduit into chest.
+
+7.Treatment of the pylorus (chemical pyloroplasty). The pylorus can be treated in various ways. Here, botulism toxin is injected laparoscopically into several regions of its muscle. 8.Laparoscopic feeding jejunostomy tube. A 14F jejunostomy tube is placed 40 cm from the ligament of Treitz, shown here using T fasteners. Thoracic Phase (Steps 9-15)
 
 ![](https://deidt7p41jzcy.cloudfront.net/burt_thorax.png)
 
-
-9.Division of inferior pulmonary ligament and station 9 nodal dissection. Port placement is detailed in Video 1. The inferior pulmonary ligament is divided and station 9 lymph nodes are removed.
-10.Entry into mediastinum, dissection of distal esophagus, station 8 nodal dissection. The mediastinum is entered and the Penrose drain is retrieved and used for retraction to dissect the distal esophagus. Station 8 lymph does are removed and/or dissected in such a way that they are removed with the specimen.
-11.Dissection of mid-esophagus and station 7/8/10 lymph nodes. The mid-esophagus is dissected from the airway with precise application of energy. Station 7, 8, and 10 lymph nodes are removed.
-12.Division of azygous vein, dissection of upper esophagus, station 2/4 nodal dissection. The azygous vein is divided with a vascular stapler cartridge and the upper esophagus is dissected. A paratracheal nodal dissection is completed.
-13.Completion of conduit and removal of specimen. The conduit is delivered into the thorax and it is separated from the specimen with green staple cartridges. The specimen is removed through the assistant port incision.
-14.Anastomosis. The staple line of the upper thoracic esophagus is removed sharply, the geometry of the anastomosis is planned, and a small gastrotomy is made on the conduit. A green cartridge unites the esophagus and conduit and the common enterotomy is closed, here using two running layers.
-15.Omental flap buttress. The omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
-
-
-Upper GI International Robotic Association
-
-[Robotic Procedure Guide Ivor Lewis Esophagectomy](https://deidt7p41jzcy.cloudfront.net/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf)
-
-[Robotic Procedure Guide Ivor Lewis Esophagectomy](pdfs/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf)
-
+9.Division of inferior pulmonary ligament and station 9 nodal dissection. Port placement is detailed in Video 1. The inferior pulmonary ligament is divided and station 9 lymph nodes are removed. 10.Entry into mediastinum, dissection of distal esophagus, station 8 nodal dissection. The mediastinum is entered and the Penrose drain is retrieved and used for retraction to dissect the distal esophagus. Station 8 lymph does are removed and/or dissected in such a way that they are removed with the specimen. 11.Dissection of mid-esophagus and station 7/8/10 lymph nodes. The mid-esophagus is dissected from the airway with precise application of energy. Station 7, 8, and 10 lymph nodes are removed. 12.Division of azygous vein, dissection of upper esophagus, station 2/4 nodal dissection. The azygous vein is divided with a vascular stapler cartridge and the upper esophagus is dissected. A paratracheal nodal dissection is completed. 13.Completion of conduit and removal of specimen. The conduit is delivered into the thorax and it is separated from the specimen with green staple cartridges. The specimen is removed through the assistant port incision. 14.Anastomosis. The staple line of the upper thoracic esophagus is removed sharply, the geometry of the anastomosis is planned, and a small gastrotomy is made on the conduit. A green cartridge unites the esophagus and conduit and the common enterotomy is closed, here using two running layers. 15.Omental flap buttress. The omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
 
 See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018
 
@@ -133,25 +126,17 @@ German group [@egberts1485]
 
 [Technique Paper 2021](https://gisurgonc.github.io/talks/images/witek2021.pdf)
 
-[Technique Paper 2021](https://gisurgonc.github.io/talks/pdfs/witek2021.pdf)
-[@witek6195] 
+[Technique Paper 2021](https://gisurgonc.github.io/talks/pdfs/witek2021.pdf) [@witek6195]
 
-2017[@okusanya116] 
+2017[@okusanya116]
 
-Technique paper with videos 2014: [@sarkaria211] 
- 
-25 patients 2014-2016 [@okusanya179] 
+Technique paper with videos 2014: [@sarkaria211]
 
-MSKCC 25 patients  2013 [@sarkariae107]
+25 patients 2014-2016 [@okusanya179]
+
+MSKCC 25 patients 2013 [@sarkariae107]
 
 MSKCC learning curve Innovations
- 
-### Utrecht
-
-van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
-
-
-Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018
 
 Mainz [@grimminger589] [@egberts1]
 
@@ -159,27 +144,19 @@ Mainz [@grimminger589] [@egberts1]
 
 De la Fuente Surg Endsoc 3339 2013. Hernandez J GI Surg 17:1346 2013
 
-50 RAMIE cases: 25mm OrVil 1 anastomotic leak. median lymph node harvest =19  
-
+50 RAMIE cases: 25mm OrVil 1 anastomotic leak. median lymph node harvest =19
 
 ## Circular Stapled Anastomosis
 
 Wee JO Ann Thor Surg 2016 p253
 
-Utrecht Ruurda 2005 Dig Surgery 2005 p313
-van Hillegerberg 2006 3 hold
-
-
-
-
+Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold
 
 Tampa [@pointer111] Leak rate 16%. 30-day mortality 3%
 
 Technique: Amaral M, Pimiento J, Fontaine JP. Robotic esophagectomy: the Moffitt Cancer Center experience. Ann Cardiothorac Surg. 2017;6:186–189.
 
 Austria [@potscher469] 33 cases
-
-
 
 ## Hand-sewn Anastomosis
 
@@ -249,33 +226,11 @@ Grimminger P P, Hadzijusufovic E, Babic B, Van Der Sluis P C, Lang H. Innovative
 
 [@chan1]
 
-Internatioal Upper GI Association: Kingma BF, Grimminger PP, van der Sluis PC et al (2020) World-
-wide techniques and outcomes in robot-assisted minimally inva-
-sive esophagectomy (RAMIE). Ann Surg. 
+Internatioal Upper GI Association: Kingma BF, Grimminger PP, van der Sluis PC et al (2020) World- wide techniques and outcomes in robot-assisted minimally inva- sive esophagectomy (RAMIE). Ann Surg.
 
-Berlth F, Mann C, Uzun E et al (2020) Technical details of the
-abdominal part during full robotic-assisted minimally invasive
-esophagectomy. Dis Esophagus
+Berlth F, Mann C, Uzun E et al (2020) Technical details of the abdominal part during full robotic-assisted minimally invasive esophagectomy. Dis Esophagus
 
- van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van
-Hillegersberg R (2018) Learning curve for robot-assisted mini-
-mally invasive thoracoscopic esophagectomy: results from 312
-cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10.
-1016/j. athor acsur. 2018. 01. 038
-26. Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency
-in robotic-assisted minimally invasive esophagectomy while maxi-
-mizing safety during procedure development. Innov Technol Tech
-Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/
-IMI. 00000 00000 000297
-27 FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020)
-A structured training pathway to implement robot-assisted mini-
-mally invasive esophagectomy: the learning curve results from a
-high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/
-doaa0 47
-28. Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019)
-Modular step-up approach to robot-assisted transthoracic
-esophagectomy-experience of a German high volume center.
-Transl G
+van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van Hillegersberg R (2018) Learning curve for robot-assisted mini- mally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10. 1016/j. athor acsur. 2018. 01. 038 26. Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020) A structured training pathway to implement robot-assisted mini- mally invasive esophagectomy: the learning curve results from a high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/ doaa0 47 28. Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019) Modular step-up approach to robot-assisted transthoracic esophagectomy-experience of a German high volume center. Transl G
 
 Comparision of Robotic vs VATS (Pittsburgh) Propensity matched. Median node harvest 32 vs 29
 
