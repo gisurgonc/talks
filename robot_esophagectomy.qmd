@@ -8,82 +8,6 @@ link-citations: true
 
 ## Ivor Lewis Techniques
 
-### Pittsburgh
-
-*Equipment*
-
--   Nathanson retractor (3 sizes available)
--   Mediflex 'Strong Arm' table-mounted fixed retractor
-
-Position: Reverse Trendeleburg with tipped to Right (left side up)
-
-*Abdominal Ports:* Ports oriented transversely approx 2-3cm below right gastroepiploic arcade
-
--   #2 Camera port just above umbilicus and to left of midline (to allow better view of left upper quadrant). Port should be within 23cm of hiatus
--   #1 subcostal right upper quadrant 12mm stapler port
--   #3 midclavicular line left upper quadrant within 15cm of hiatus.
--   #4 just off subcostal margin in left upper quadrant.
--   RLQ assisting port (with AirSeal)
--   LLQ assistant port
-
-![](images/wisz_abdominal_ports.png)
-
-Abdominal dissection:
-
-1)  Hiatal dissection: Open pars flaccida into lesser sac and dissect hiatus. Will not perform extensive hiatal dissection at this stage due to risk of pneumothorax.
-
-2)  Retrogastric dissection: Start with left gastric artery at origin $\rightarrow$ R crus $\rightarrow$ L crus. Can then proceed over anterior surface of pancreas. Beware of splenic artery. Can dissect short gastrics from posterior.
-
-3)  Gastric mobilization: Enter lesser sac. Stomach mobilized off lesser sac.Left gastric vein divided with vessel sealer. Left gastric artery secured with locking Weck clip or vascular stapler.
-
-Greater curvature mobilized. Entrance into lesser sac from the this area to left of midline. Omentum not dissected off colon. Plane dissected distally between colon mesentery and RGEA. Can grasp stomach on lesser curvature with Arm 4 (to avoid grasping future conduit). Pedicled omental flap using 2 proximal (superior) omental vessels. Follow vessels for \<10cm. Divide left gastroepiploic artery. Take remaining short gastrics to complete dissection.
-
-4)  Pyloroplasty: Retraction stitches superior and inferior $\rightarrow$ opened longitudinally with ultrasonic shears $\rightarrow$ closed transverse with 5-6 sutures of 2-0 silk. (UTSW no longer performs pyloroplasty)
-
-5)  Conduit: Arm #4 grasps fundus to straighten conduit. Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. \*Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest. Arm 3 (or assistant) is used to 'hook' conduit towards pylorus in order to straighten conduit. Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with "U" stitch to avoid possibility of torsion. Omental flap sutured to superior aspect of conduit.
-
-6)  Jejunostomy performed laparoscopically
-
-Chest ports:
-
--   
-
-    (2) Camera: 8th/9th ICS at posterior axillary line (or 9th laterally)
-
--   
-
-    (4) Robotic Assist: 3rd ICS at mid/posterior axillary line $\rightarrow$ Small Grasping Retractor
-
--   
-
-    (3) Right Hand: 5th ICS mid-axillary line $\rightarrow$ Vessel Sealer or Syncro Seal
-
--   
-
-    (1) Left Hand/Staplers (linear and EEA): 9th ICS in line with tip of scapula. If too far posterior, will fight with spine (which can be a problem for the stapler). Estimate location of diaphragm - midway between iliac crest and tip of scapula. Force Bipolar. 12mm stapler port passed through Green Alexis port
-
--   Bedside Assist port inferior near diaphragm (used for Airseal). Midway between (1) and (2).
-
-(In prior descriptions, Left and Stapler ports were transposed) Robot cart driven over patient's right shoulder.
-
-![](images/wisz_thoracic_ports.png)
-
-Thoracic dissection: Anterior dissection first. Inferior pulmonary ligament. Subcarinal lymph nodes excised .
-
-Azygous vein divided with stapler. Vagus divided to prevent injury to RLN. Posterior dissection performed staying anterior to thoracic duct. Esophagus divided 3cm above azygous with robotic shears. Important to dissect airway (R and L mainstem bronchus) prior to completing proximal dissection of esophagus to avoid airway injury.
-
-Conduit brought into chest and temporarily sutured to diaphragm to avoid retraction into the abdomen.
-
-Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally $\rightarrow$ anvil introduced $\rightarrow$ pushed superiorly $\rightarrow$ oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.
-
-DST XL 28mm EEA stapler introduced through port (1) (posterior axillary line ICS8) into open end of conduit $\rightarrow$ mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm
-
-19Fr Blake drain placed along conduit $\rightarrow$ removed in clinic.
-
-NG tube advanced by anesthesia and location in stomach confirmed visually.
-
-Pittsburgh [@oksuyana116] [Video Here](http://www.asvide.com/articles/1677 "Video at AME")
-
 ### Baylor
 
 [Movie](https://deidt7p41jzcy.cloudfront.net/burt_baylor.mp4)
@@ -118,19 +42,12 @@ End of first staple line is tagged with Vicryl suture as a marker to guide trans
 
 9.Division of inferior pulmonary ligament and station 9 nodal dissection. Port placement is detailed in Video 1. The inferior pulmonary ligament is divided and station 9 lymph nodes are removed. 10.Entry into mediastinum, dissection of distal esophagus, station 8 nodal dissection. The mediastinum is entered and the Penrose drain is retrieved and used for retraction to dissect the distal esophagus. Station 8 lymph does are removed and/or dissected in such a way that they are removed with the specimen. 11.Dissection of mid-esophagus and station 7/8/10 lymph nodes. The mid-esophagus is dissected from the airway with precise application of energy. Station 7, 8, and 10 lymph nodes are removed. 12.Division of azygous vein, dissection of upper esophagus, station 2/4 nodal dissection. The azygous vein is divided with a vascular stapler cartridge and the upper esophagus is dissected. A paratracheal nodal dissection is completed. 13.Completion of conduit and removal of specimen. The conduit is delivered into the thorax and it is separated from the specimen with green staple cartridges. The specimen is removed through the assistant port incision. 14.Anastomosis. The staple line of the upper thoracic esophagus is removed sharply, the geometry of the anastomosis is planned, and a small gastrotomy is made on the conduit. A green cartridge unites the esophagus and conduit and the common enterotomy is closed, here using two running layers. 15.Omental flap buttress. The omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
 
-See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018
 
 German group [@egberts1485]
 
 4-arm robot [@zhang1284]. Zhang early outcomes of robot-assisted: propensity matched. Ann Surg Oncol26:1284 2019
 
-[Technique Paper 2021](https://gisurgonc.github.io/talks/images/witek2021.pdf)
 
-[Technique Paper 2021](https://gisurgonc.github.io/talks/pdfs/witek2021.pdf) [@witek6195]
-
-2017[@okusanya116]
-
-Technique paper with videos 2014: [@sarkaria211]
 
 25 patients 2014-2016 [@okusanya179]
 
@@ -150,7 +67,6 @@ De la Fuente Surg Endsoc 3339 2013. Hernandez J GI Surg 17:1346 2013
 
 Wee JO Ann Thor Surg 2016 p253
 
-Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold
 
 Tampa [@pointer111] Leak rate 16%. 30-day mortality 3%
 
@@ -233,5 +149,93 @@ Berlth F, Mann C, Uzun E et al (2020) Technical details of the abdominal part du
 van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van Hillegersberg R (2018) Learning curve for robot-assisted mini- mally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10. 1016/j. athor acsur. 2018. 01. 038 26. Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020) A structured training pathway to implement robot-assisted mini- mally invasive esophagectomy: the learning curve results from a high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/ doaa0 47 28. Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019) Modular step-up approach to robot-assisted transthoracic esophagectomy-experience of a German high volume center. Transl G
 
 Comparision of Robotic vs VATS (Pittsburgh) Propensity matched. Median node harvest 32 vs 29
+
+Mainz [@grimminger589] [@egberts1]
+
+30209678
+
+De la Fuente Surg Endsoc 3339 2013. Hernandez J GI Surg 17:1346 2013
+
+50 RAMIE cases: 25mm OrVil 1 anastomotic leak. median lymph node harvest =19
+
+## Circular Stapled Anastomosis
+
+Wee JO Ann Thor Surg 2016 p253
+
+Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold
+
+Tampa [@pointer111] Leak rate 16%. 30-day mortality 3%
+
+Technique: Amaral M, Pimiento J, Fontaine JP. Robotic esophagectomy: the Moffitt Cancer Center experience. Ann Cardiothorac Surg. 2017;6:186–189.
+
+Austria [@potscher469] 33 cases
+
+## Hand-sewn Anastomosis
+
+Italy [@huscher1034] 40 patients over 4 years
+
+All patients underwent a fast-track surgical protocol. The Da Vinci ® Si robotic system was positioned perpendicular to the patient’s right side and docked to the trocars. For the abdominal part of the procedure, the patient was positioned in a supine position. The four robotic trocars were placed in a horizontal line at or above the umbilicus (Fig. 1). In the abdomen, CO2 insufflation with 14 mmHg of pressure was used. Targeting to the stomach was performed. The surgical assistant was located on the left side of the table. A tip-up fenestrated grasper in trocar 1 was used to elevate the left lobe of the liver and for certain retraction movements during the abdominal part. The fenestrated bipolar forceps were used in the 12-mm trocar (no. 2) with a reduction cartridge, and later the 12-mm trocar was used for the robotic Endo Wrist ® stapler 45 mm to form the gastric conduit, beginning from the lesser curvature near the crow foot and continued towards the fundus, parallel to the greater curvature. After the abdominal dissection and creation of the conduit for reconstruction, Indocyanine Green (ICG) test was performed to evaluate adequate perfusion of the gastric conduit. For the thoracic part of the procedure (Fig. 2), the patient was positioned in a prone position (the operation table was tilted 19° towards the prone) and three robotic trocars and one laparoscopic trocar were inserted on the right chest. A single-lumen tube was used for intubation and the right lung was not deflated and disconnected from ventilation. In the chest, CO2 insufflation with 8 mmHg of pressure was enough to obtain an optimal working volume. The pulmonary ligament was divided. Hereafter, the parietal pleura was dissected at the anterior side of the esophagus from the diaphragm, up to the azygos vein. The azygos vein was ligated with Hem-o-lok and divided. At the posterior side of the esophagus, the parietal pleura is dissected cranially to caudally along the azygos vein, including the thoracic duct. The thoracic duct was clipped with a 10-mm endoclip. To facilitate esophagus mobilization, a Penrose drain was placed around the esophagus to manipulate the esophagus for further mobilization. The thoracic esophagus was mobilized and transected at the level of the azygos vein. The esophagus was resected en bloc with the surrounding mediastinal lymph nodes. The resected specimen will contain right-side paratracheal (station 2R), tracheobronchial (station 4), aortopulmonary window (station 5), carinal (station 7), and periesophageal (station 8) lymph nodes. The reconstruction time started with the anchoring of the gastric conduit to the esophageal stump with two 3–0 silk stay sutures. The conduit was opened on the anterior wall by the adoption of a monopolar hook. An end-to-side roboticsewn anastomosis was created by the adoption of two 3–0 running barbed sutures (V-loc – Medtronic, USA – Fig. 3).11, 12 After completion of the anterior wall, a nasogastric tube was passed through the half-completed anastomosis. Once the anastomosis was completed, 3–0 silk interrupted sutures were placed circumferentially to reinforce it (Fig. 4; Video). Before and after anastomosis fashioning, an ICG test was performed to evaluate adequate perfusion of conduit. In addition, the conduit cul-de-sac was suspended at the posterior thoracic wall by two stitches. The specimen was extracted through a small thoracotomy and a right-sided chest tube was placed. No postoperative swallow tests were performed. In the absence of clinical signs of anastomotic dehiscence (for example, luminal contents through the drain or wound site/local inflammation; fever (\> 38 °C) or leukocytosis (\> 10,000/L); leak may also be detected on imaging studies), patients started with sips of water at the day 3 and the oral intake was gradually increased to solid food. Enhanced recovery after surgery (ERAS) guidelines were used in the postoperative protocol.
+
+Leak rate 4/40 = 10%
+
+Stricture 10/40 = 25%
+
+Italy 30 patients [@marano941]
+
+Single‐lung ventilation is introduced, and the patient is placed in the left lateral decubitus position, tilted 45° compared to the prone position. For both robotic systems, the cart is docked from the right side of the patient. In addition, three robotic ports are put in place as well as two thoracoscopic ports for the assistant. dV®SiTM port layout for this stage has previously been described \[24\]. It’s worthy of mention that an additional 5 mm port for the assistant is placed between the intercostal spaces (ICS) 6 and 10, along the posterior axillary line. Figure 2 shows the dV®XiTM trocar position (three-arms technique) in a slight U shape: robotic arm#1(R1) for the grasper or the bipolar forceps at the ICS 9, robotic arm#2 (R2) for the 30° down scope at the ICS 6, posterior to the posterior axillary line and robotic arm#3 (R3) for the monopolar cautery hook, the needle driver or the clip applier at the ICS 4, anterior to the scapular rim. Furthermore assistant port #1(A1, 12-mm) is located in the ILC 8, and assistant port #2 (A2, 5 mm) between R2 and R3 at the posterior axillary line. The targeting area is identified at the level of the Azygos arch. A 7–8 mmHg pneumothorax is then induced. Starting at the anterior side of the esophagus, the parietal pleura is cut from the level of the azygos arch down to the diaphragm where the pulmonary ligament is divided. The azygos arch is then sectioned with robotic Weck Hem-o-lok clips (Teleflex, Morrisville, NC, USA) and a right paratracheal lymphadenectomy is performed. Next, the dissection of the parietal pleura is deepened towards the esophageal hiatus until the aorta becomes exposed. Subsequently, the right vagus nerve is sectioned just below the carina, preserving its bronchial branches. The dissection of the esophagus is extended below the tracheal bifurcation and a Penrose drain is placed around the esophagus to facilitate traction.
+
+The dissection of the esophagus is then continued along the pericardium down to the diaphragm and the thoracic duct is clipped with robotic clips. The resection of the esophagus en-bloc with periesophageal, bronchial and subcarinal nodes (stations \# 107–111) and the thoracic duct is fully completed from the diaphragm up to the azygos arch. The proximal esophagus is divided using a robotic cautery hook above the level of the azygos vein. At this point, the instruments in R1 and R3 are reversed to be able to carefully pull the esophago-gastric bloc and the gastric conduit up through the hiatus until the marker suture becomes visible. The specimen and conduit thus are disconnected, and the specimen is placed in a plastic bag which will be removed through the enlarged incision of the assistant port. Thereafter, four supportive 4-0 polyglactin 910 (Ethicon Inc. USA) stitches are put in between the mucosae and the muscularis externa layer of the esophagus at the four cardinal points to evert the esophageal mucosae. Next, the proximal esophagus is dilatated using a Foley catheter inflated with 10 cc of sterile water for approximately 2–3 min. After having assessed both gastric conduit and esophageal perfusion with ICG fluorescence, a gastrotomy is performed at the most proximal portion of the conduit, maintaining at least 2 cm of distance from the stapler line. A single-layer robot-sewn esophagogastric anastomosis is performed above the level of the azygos arch with two separate running self-locking barbed sutures (Filbloc® 3/0, Assut Europe, Italy or alternatively V-LocTM 3/0, Medtronic, USA) that run in the same direction from 3 to 9 o’clock. Of note is the fact that, after having applied the first stitch on the posterior wall we customarily pass the needle back below the first stitch to evert the posterior esophageal and gastric layer and improve their visualization. Once the posterior aspect of the anastomosis is complete, a NGT is placed under direct vision inside the stomach distally to the anastomosis, thus accomplishing the closure of anterior surface. Finally, a few tension release stitches are put in between the mediastinal pleura and seromuscular layer of the gastric tube. The anastomosis is checked for intraoperative leaks with methylene blue and a 28-Fr chest drain is inserted via the R1 robotic trocar, posteriorly to anastomosis, with the apex in the upper chest (Video).
+
+Stricture 8/30 = 27%
+
+
+### Vagus nerve preservation
+
+Fujita Pulmonary vagus nerve preservation for preserving respiratory function Jpn J Surg 18:31 [@fujita31]
+
+Pulmonary vagus nerve preservation during esophagectomy [@weijs3816]
+
+Surgical anatomy of esophagus [@weijsS675]
+
+Meso-esophagus [@cuesta2576]
+
+Supracarinal esophagus [@cuesta1863]
+
+Topography of pulmonary vagus nerve [@weijs431]
+
+
+### Upper mediastinal lymphadenectomy
+
+?? Intraoperative RLN monitoring??
+
+Utrecht [@vanderhorstS834]
+
+Extended thoracic esophagectomy with RAMIE [@vanderhorst218]
+
+
+
+
+### Anatomy
+
+[@cuesta2576]
+
+### Complications
+
+ECCO consortium [@low286]
+
+The primary outcomes were anastomotic leak and conduit necrosis, as defined by the ECCG framework.7  Anastomotic leak was defined as a full-thickness gastro-intestinal defect involving the esophagus, anastomosis, staple line, or conduit, irrespective of presentation or method of identification. These were further categorized as follows:
+Type I: Local defect requiring no change in therapy, or treated medically or with dietary modification.
+Type II: Localized defect, requiring interventional but not surgical therapy, for example interventional radiology drain, stent, or bedside opening and packing of incision.
+Type III: Localized defect requiring surgical therapy.
+
+Conduit necrosis was defined as postoperative identification of necrosis or ischemia affecting the gastric conduit, and was further categorized as:
+Type I: Focal necrosis identified endoscopically, requiring additional monitoring or nonsurgical therapy.
+Type II: Focal necrosis identified endoscopically, and not associated with free anastomotic or conduit leak, which required surgical therapy not involving esophageal diversion.
+Type III: Extensive necrosis treated with conduit resection with diversion.
+
+
+OGAA GI Audit [@oesophago-gastricanastomosisstudygrouponbehalfofthewestmidlandsresearchcollaborativee382]
+
+OGAA Protocol [@evansdoz007]
 
 {{< qrcode https://jmbuhr.de >}}
