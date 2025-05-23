@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Robotic Esophagectomy Utrecht – talks</title>
+<title>Robotic Esophagectomy Sarkaria – talks</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -40,7 +60,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-9f806cdee0c24efa10f8929fcc6fb23f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script>
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,6 +88,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -110,20 +158,16 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#utrecht" id="toc-utrecht" class="nav-link active" data-scroll-target="#utrecht">Utrecht</a>
-  <ul class="collapse">
-  <li><a href="#abdominal-phase" id="toc-abdominal-phase" class="nav-link" data-scroll-target="#abdominal-phase">Abdominal Phase</a></li>
-  </ul></li>
-  <li><a href="#thoracic-phase" id="toc-thoracic-phase" class="nav-link" data-scroll-target="#thoracic-phase">Thoracic Phase</a></li>
+  <li><a href="#ivor-lewis-sarkaria" id="toc-ivor-lewis-sarkaria" class="nav-link active" data-scroll-target="#ivor-lewis-sarkaria">Ivor Lewis Sarkaria</a></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="robot_esophagectomy_utrecht.htm"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="robot_esophagectomy_sw.htm"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Robotic Esophagectomy Utrecht</h1>
+<h1 class="title">Robotic Esophagectomy Sarkaria</h1>
 </div>
 
 
@@ -140,63 +184,80 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="utrecht" class="level2">
-<h2 class="anchored" data-anchor-id="utrecht">Utrecht</h2>
-<p>Upper GI International Robotic Association</p>
-<p><a href="https://deidt7p41jzcy.cloudfront.net/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf">Robotic Procedure Guide Ivor Lewis Esophagectomy</a></p>
-<p><a href="pdfs/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf">Robotic Procedure Guide Ivor Lewis Esophagectomy</a></p>
-<section id="abdominal-phase" class="level3">
-<h3 class="anchored" data-anchor-id="abdominal-phase">Abdominal Phase</h3>
-<p>Positioning: Reverse trendelenburg 20-25degrees and 10 degree rotation to right</p>
-<p>Inject IC Green under ultrasound guidance into groin nodes with 25Ga needle</p>
+<section id="ivor-lewis-sarkaria" class="level2">
+<h2 class="anchored" data-anchor-id="ivor-lewis-sarkaria">Ivor Lewis Sarkaria</h2>
+<p><em>Equipment</em></p>
+<ul>
+<li>Nathanson retractor (3 sizes available)</li>
+<li>Mediflex ‘Strong Arm’ table-mounted fixed retractor</li>
+</ul>
+<p>Position: Reverse Trendeleburg with tipped to Right (left side up)</p>
+<p><em>Abdominal Ports:</em> Ports oriented transversely approx 2-3cm below right gastroepiploic arcade</p>
+<ul>
+<li>#2 Camera port just above umbilicus and to left of midline (to allow better view of left upper quadrant). Port should be within 23cm of hiatus</li>
+<li>#1 subcostal right upper quadrant 12mm stapler port</li>
+<li>#3 midclavicular line left upper quadrant within 15cm of hiatus.</li>
+<li>#4 just off subcostal margin in left upper quadrant.</li>
+<li>RLQ assisting port (with AirSeal)</li>
+<li>LLQ assistant port</li>
+</ul>
+<p><img src="images/wisz_abdominal_ports.png" class="img-fluid"></p>
+<p>Abdominal dissection:</p>
 <ol type="1">
-<li>Division of gastroesophageal and phrenoesophageal ligaments and right crural dissection. An energy device is used to divide the gastrohepatic ligament and the esophagus is dissected from the right crus. Dissection is carried anteriorly where the phrenoesophageal ligament is divided. Disssection posterior to esophagus</li>
-<li>Division of left gastric artery and vein. Common hepatic artery nodes taken with specimen. The left gastric artery and vein are dissected and surrounding lymph nodes are swept toward the stomach; they can be removed at this time or with the specimen later. The artery and vein are divided with Weck clips or a vascular cartridge stapler.</li>
-<li>Mediastinal dissection. A Penrose drain is placed around the esophagus, approximated to itself (ie with a stapler), and used for retraction to circumferentially dissect the mediastinal esophagus to the level of the inferior pulmonary veins. The Penrose is tucked into the mediastinum.</li>
-<li>Preparation of right gastroepiploic pedicle. The right gastroepiploic artery and vein are identified, the lesser sac is entered, and a healthy pedicle of right gastroepiploic adipose is created. Dissection continues towards the pylorus and then cranially along the stomach’s greater curvature.</li>
-<li>Creation of pedicled omental flap and division of short gastric arteries and veins. A pedicled omental flap is designed based on right gastroepiploic and short gastric arterial inflow, and the highest short gastric vessels are divided.</li>
-<li>Creation of gastric conduit. The lesser curvature adipose is divided between the caudal 2 branches of the right gastric artery and a 4-cm wide conduit is created with serial applications of green staple cartridges. The conduit is never itself directly grasped.</li>
+<li><p>Hiatal dissection: Open pars flaccida into lesser sac and dissect hiatus. Will not perform extensive hiatal dissection at this stage due to risk of pneumothorax.</p></li>
+<li><p>Retrogastric dissection: Start with left gastric artery at origin <span class="math inline">\(\rightarrow\)</span> R crus <span class="math inline">\(\rightarrow\)</span> L crus. Can then proceed over anterior surface of pancreas. Beware of splenic artery. Can dissect short gastrics from posterior.</p></li>
+<li><p>Gastric mobilization: Enter lesser sac. Stomach mobilized off lesser sac.Left gastric vein divided with vessel sealer. Left gastric artery secured with locking Weck clip or vascular stapler.</p></li>
 </ol>
-<p>Assistant retracts the gastric fundus toward the left upper quadrant. Tip up has gastric tip length 60mm to help gauge diameter of gastric tube (5cm).</p>
-<p>Can leave GE junction and conduit still connected OR divide completely and re-suture.</p>
-<p>Suture JP2 to the GE junction to pull it into the chest cavity.</p>
-<p>End of first staple line is tagged with Vicryl suture as a marker to guide transposition of conduit into chest. 7. Pyloroplasty. Tip Up retracts antrum to patient left. Open longitudinally with scissors. Stay sutures. Close with interrupted 3-0 silk RB-1 8. Feeding jejunostomy</p>
-</section>
-</section>
-<section id="thoracic-phase" class="level2">
-<h2 class="anchored" data-anchor-id="thoracic-phase">Thoracic Phase</h2>
-<p>Modified prone position. Slight reverse trendelenburg to keep shoulder higher than hip (to avoid collisions). Rotate patient ventrally so that posterior axillary line is highest part parallel to floor (right tilt or foam trangular wedge)</p>
-<ol type="1">
-<li>Divide azygous vein (stapler or Weck clips)</li>
-<li>Dissect esophagus circumferentially</li>
-<li>Division of inferior pulmonary ligament and station 9 nodal dissection. The inferior pulmonary ligament is divided and station 9 lymph nodes are removed. 4.Entry into mediastinum, dissection of distal esophagus, station 8 nodal dissection. The mediastinum is entered and the Penrose drain is retrieved and used for retraction to dissect the distal esophagus. Station 8 lymph does are removed and/or dissected in such a way that they are removed with the specimen.</li>
-<li>Dissection of mid-esophagus and station 7/8/10 lymph nodes. The mid-esophagus is dissected from the airway with precise application of energy. Station 7, 8, and 10 lymph nodes are removed.</li>
-<li>Division of azygous vein, dissection of upper esophagus, station 2/4 nodal dissection. The azygous vein is divided with a vascular stapler cartridge and the upper esophagus is dissected. A paratracheal nodal dissection is completed. 7.Completion of conduit and removal of specimen. The conduit is delivered into the thorax and it is separated from the specimen with green staple cartridges. This is done using a laparoscopic graster. Stomach is pulled into the chest until the Vicryl marker suture is seen. The specimen is removed through the assistant port incision. An Alexis port is used to seal the extractio site.</li>
-<li>Division of esophagus just above level of azygous vein. ICG can be used to check perfusion.</li>
+<p>Greater curvature mobilized. Entrance into lesser sac from the this area to left of midline. Omentum not dissected off colon. Plane dissected distally between colon mesentery and RGEA. Can grasp stomach on lesser curvature with Arm 4 (to avoid grasping future conduit). Pedicled omental flap using 2 proximal (superior) omental vessels. Follow vessels for &lt;10cm. Divide left gastroepiploic artery. Take remaining short gastrics to complete dissection.</p>
+<ol start="4" type="1">
+<li><p>Pyloroplasty: Retraction stitches superior and inferior <span class="math inline">\(\rightarrow\)</span> opened longitudinally with ultrasonic shears <span class="math inline">\(\rightarrow\)</span> closed transverse with 5-6 sutures of 2-0 silk. (UTSW no longer performs pyloroplasty)</p></li>
+<li><p>Conduit: Arm #4 grasps fundus to straighten conduit. Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. *Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest. Arm 3 (or assistant) is used to ‘hook’ conduit towards pylorus in order to straighten conduit. Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with “U” stitch to avoid possibility of torsion. Omental flap sutured to superior aspect of conduit.</p></li>
+<li><p>Jejunostomy performed laparoscopically</p></li>
 </ol>
-<p>14.Anastomosis. The staple line of the upper thoracic esophagus is removed sharply, the geometry of the anastomosis is planned, and a small gastrotomy is made on the conduit. A green cartridge unites the esophagus and conduit and the common enterotomy is closed, here using two running layers. 15.Omental flap buttress. The omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.</p>
-<p>van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA</p>
-<p>Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018</p>
-<p>Internatioal Upper GI Association: Kingma BF, Grimminger PP, van der Sluis PC et al (2020) World- wide techniques and outcomes in robot-assisted minimally inva- sive esophagectomy (RAMIE). Ann Surg.</p>
-<p>van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van Hillegersberg R (2018) Learning curve for robot-assisted mini- mally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10. 1016/j. athor acsur. 2018. 01. 038 26. Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020) A structured training pathway to implement robot-assisted mini- mally invasive esophagectomy: the learning curve results from a high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/ doaa0 47 28. Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019) Modular step-up approach to robot-assisted transthoracic esophagectomy-experience of a German high volume center. Transl G</p>
-<p>Upper GI International Robotic Association</p>
-<p>Learning curve plateau at 22 cases <span class="citation" data-cites="degroot1537">(<a href="#ref-degroot1537" role="doc-biblioref"><strong>degroot1537?</strong></a>)</span></p>
-<p>Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold</p>
-<div id="" class="qrcode"></div>
-<script type="text/javascript">
-(function() {
-  var script = document.currentScript;
-  var qrcode = script.previousElementSibling;
-  qrcode.qrcode = new QRCode(qrcode, {"colorDark":"#000000","colorLight":"#ffffff","height":128,"text":"https://jmbuhr.de","width":128});
-  script.remove();
-})();
-</script>
-    
+<p>Chest ports:</p>
+<ul>
+<li><ol start="2" type="1">
+<li>Camera: 8th/9th ICS at posterior axillary line (or 9th laterally)</li>
+</ol></li>
+<li><ol start="4" type="1">
+<li>Robotic Assist: 3rd ICS at mid/posterior axillary line <span class="math inline">\(\rightarrow\)</span> Small Grasping Retractor</li>
+</ol></li>
+<li><ol start="3" type="1">
+<li>Right Hand: 5th ICS mid-axillary line <span class="math inline">\(\rightarrow\)</span> Vessel Sealer or Syncro Seal</li>
+</ol></li>
+<li><ol type="1">
+<li>Left Hand/Staplers (linear and EEA): 9th ICS in line with tip of scapula. If too far posterior, will fight with spine (which can be a problem for the stapler). Estimate location of diaphragm - midway between iliac crest and tip of scapula. Force Bipolar. 12mm stapler port passed through Green Alexis port</li>
+</ol></li>
+<li>Bedside Assist port inferior near diaphragm (used for Airseal). Midway between (1) and (2).</li>
+</ul>
+<p>(In prior descriptions, Left and Stapler ports were transposed) Robot cart driven over patient’s right shoulder.</p>
+<p><img src="images/wisz_thoracic_ports.png" class="img-fluid"></p>
+<p>Thoracic dissection: Anterior dissection first. Inferior pulmonary ligament. Subcarinal lymph nodes excised .</p>
+<p>Azygous vein divided with stapler. Vagus divided to prevent injury to RLN. Posterior dissection performed staying anterior to thoracic duct. Esophagus divided 3cm above azygous with robotic shears. Important to dissect airway (R and L mainstem bronchus) prior to completing proximal dissection of esophagus to avoid airway injury.</p>
+<p>Conduit brought into chest and temporarily sutured to diaphragm to avoid retraction into the abdomen.</p>
+<p>Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally <span class="math inline">\(\rightarrow\)</span> anvil introduced <span class="math inline">\(\rightarrow\)</span> pushed superiorly <span class="math inline">\(\rightarrow\)</span> oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.</p>
+<p>DST XL 28mm EEA stapler introduced through port (1) (posterior axillary line ICS8) into open end of conduit <span class="math inline">\(\rightarrow\)</span> mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm</p>
+<p>19Fr Blake drain placed along conduit <span class="math inline">\(\rightarrow\)</span> removed in clinic.</p>
+<p>NG tube advanced by anesthesia and location in stomach confirmed visually.</p>
+<p>Pittsburgh <span class="citation" data-cites="oksuyana116">(<a href="#ref-oksuyana116" role="doc-biblioref"><strong>oksuyana116?</strong></a>)</span> <a href="http://www.asvide.com/articles/1677" title="Video at AME">Video Here</a></p>
+<p>See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018</p>
+<p><a href="https://gisurgonc.github.io/talks/images/witek2021.pdf">Technique Paper 2021</a></p>
+<p><a href="https://gisurgonc.github.io/talks/pdfs/witek2021.pdf">Technique Paper 2021</a> <span class="citation" data-cites="witek6195">(<a href="#ref-witek6195" role="doc-biblioref"><strong>witek6195?</strong></a>)</span></p>
+<p>2017<span class="citation" data-cites="okusanya116">(<a href="#ref-okusanya116" role="doc-biblioref">Okusanya et al., 2017</a>)</span></p>
+<p>Technique paper with videos 2014: <span class="citation" data-cites="sarkaria211">(<a href="#ref-sarkaria211" role="doc-biblioref">Sarkaria and Rizk, 2014</a>)</span></p>
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-okusanya116" class="csl-entry" role="listitem">
+Okusanya, O.T., Hess, N.R., Luketich, J.D., Sarkaria, I.S., 2017. Technique of robotic assisted minimally invasive esophagectomy (<span>RAMIE</span>). Journal of Visualized Surgery 3, 116. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/29078676">29078676</a>
+</div>
+<div id="ref-sarkaria211" class="csl-entry" role="listitem">
+Sarkaria, I.S., Rizk, N.P., 2014. Robotic-assisted minimally invasive esophagectomy: The <span>Ivor</span> <span>Lewis</span> approach. Thoracic Surgery Clinics 24, 211–222, vii. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/24780426">24780426</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
