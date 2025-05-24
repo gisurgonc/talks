@@ -128,7 +128,6 @@ EUS can be omitted for patients with dysphagia, but is useful in patients *witho
 [@ripley226]
 :::
 
-
 ## PET Scan
 
 PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis
@@ -164,8 +163,7 @@ Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fracti
 
 ## CROSS
 
-The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p < 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p < 0.001).
-
+The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p \< 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p \< 0.001).
 
 ## CROSS - Overall Survival
 
@@ -275,14 +273,14 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 ## Neoadjuvant Chemo for EsoCA
 
--   MAGIC trial (gastric): ECF[^3]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+-   MAGIC trial (gastric): ECF[^1]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
 -   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^4]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+-   FLOT (gastric): FLOT[^2]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
 -   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
 
-[^3]: Epirubicin, Cisplatin, 5FU
+[^1]: Epirubicin, Cisplatin, 5FU
 
-[^4]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
+[^2]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
 
 ## OEO2 Clinical Trial
 
@@ -350,7 +348,6 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 [@hoeppner323]
 :::
 
-
 ## Surgery for Squamous Cell Carcinoma
 
 Squamous Cell Carcinoma of the esophagus
@@ -375,7 +372,6 @@ Patients with a clinical response were randomized:
 [@bedene1160]
 :::
 
-
 ## German Trial (Stahl)
 
 4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
@@ -387,7 +383,6 @@ Patients with a clinical response were randomized:
 ::: aside
 [@stahl2310]
 :::
-
 
 ## Metastatic
 

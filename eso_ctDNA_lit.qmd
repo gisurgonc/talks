@@ -6,6 +6,8 @@ csl: elsevier-stanford.csl
 link-citations: true
 ---
 
+## ctDNA in Esophageal Cancer
+
 **Rotterdam** [@eyck35] Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. J Pathol 2023; 259: 35–45. Samples taking before, 6 weeks after and 23 weeks after CRT. 29/31 patients had mutations detected on *tissue biopsy*. 24/31 (77%) had mutations potentially detectable in cfDNA. Pretreatment ctDNA detected in 9 (9/24 = 38%( patients, four of whom had incurable disease progression before surgery (2 prior to ChemoRT and 2 prior to surgery). None of these 9 had a pCR. 6/9 had major residual disease after chemoRT. After ChemoRT, ctDNA was detected in 3 patients (3/24 = 12.5%), two of whom had disease progression. Patients were examined wtih CT and EGD biopsies after ChemoRT as part of the SANO trial. ctDNA did not detect any additional patients with residual disease after ChemoRT. ctDNA analyzed with [Thermo Fisher Colon Oncoline kit](https://www.thermofisher.com/us/en/home/life-science/cancer-research/cancer-genomics/liquid-biopsy-cancer-research-applications/oncomine-cell-free-dna-assays-liquid-biopsy-clinical-research.html). $\Rightarrow$. ctDNA can detect some patients with high-risk disease who are at risk for progression (and should have further staging investigations prior to surgery OR be offered watch/wait), but did not help detect patients after ChemoRT who had residual disease (who would be candidates for salvage esophagectomy)
 
 **Rotterdam** Restaging after chemoradiation.
