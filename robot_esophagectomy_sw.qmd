@@ -21,10 +21,10 @@ Position: Reverse Trendeleburg with tipped to Right (left side up)
 -   #1 subcostal right upper quadrant 12mm stapler port
 -   #3 midclavicular line left upper quadrant within 15cm of hiatus.
 -   #4 just off subcostal margin in left upper quadrant.
--   RLQ assisting port (with AirSeal)
--   LLQ assistant port
+-   RLQ assisting port (with AirSeal) at level of umbilicus in rectus
+-   LLQ assistant port 5mm just below umbilicus in rectus
 
-![](images/wisz_abdominal_ports.png)
+![](images/sarkaria_abdomen.png)
 
 Abdominal dissection:
 
@@ -38,9 +38,11 @@ Greater curvature mobilized. Entrance into lesser sac from the this area to left
 
 4)  Pyloroplasty: Retraction stitches superior and inferior $\rightarrow$ opened longitudinally with ultrasonic shears $\rightarrow$ closed transverse with 5-6 sutures of 2-0 silk. (UTSW no longer performs pyloroplasty)
 
-5)  Conduit: Arm #4 grasps fundus to straighten conduit. Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. \*Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest. Arm 3 (or assistant) is used to 'hook' conduit towards pylorus in order to straighten conduit. Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with "U" stitch to avoid possibility of torsion. Omental flap sutured to superior aspect of conduit.
+5)  Conduit: Arm #4 grasps fundus to straighten conduit and pulls it up to left hemidiaphgram. Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. \*Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest. Arm 3 (or assistant) is used to 'hook' conduit towards pylorus in order to straighten conduit. Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with "U" stitch to avoid possibility of torsion. Omental flap sutured to superior aspect of conduit.
 
 6)  Jejunostomy performed laparoscopically
+
+![](images/sarkaria_thorax.png)
 
 Chest ports:
 
@@ -82,9 +84,7 @@ NG tube advanced by anesthesia and location in stomach confirmed visually.
 
 Pittsburgh [@oksuyana116] [Video Here](http://www.asvide.com/articles/1677 "Video at AME")
 
-
 See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018
-
 
 [Technique Paper 2021](https://gisurgonc.github.io/talks/images/witek2021.pdf)
 
