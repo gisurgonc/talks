@@ -16,19 +16,12 @@ title: "GI Surgical Oncology"
 
 [Gastric GIST](gist_slides.htm)
 
-[Rectal Cancer Adjuvant Therapy](rectal_adjuvant.qmd)
+[Rectal Cancer Adjuvant Therapy](rectal_adjuvant.htm)
 
 # Acute Care Surgery of the GI Cancer Patient
 
 [Overview](acs_gicancer_lit.qmd)
 
-# Patient Education
-
-[Esophageal Cancer](/images/EsoCaFull.pdf)
-
-[Esophageal Cancer T3](/images/EsoCaT3.pdf)
-
-[Gastric Cancer](/images/Gastric.pdf)
 
 # Foregut Cancer Working Group
 
@@ -36,12 +29,9 @@ title: "GI Surgical Oncology"
 
 [One Stage Esophagectomy](one_stage_mie.htm)
 
-[Robotic Esophagectomy Literature](robot_esophagectomy.html)
-
 [Robotic MIE Planning](robotic_mie.htm)
 
 [Robotic Gastrectomy](robot_gastrectomy.html)
-
 
 
 # Esophagectomy Techniques
@@ -50,13 +40,23 @@ title: "GI Surgical Oncology"
 
 [Robot Esophagectomy](robot_esophagectomy.html)
 
-[ctDNA in Esophageal Cancer](eso_ctDNA_lit.html)
+[Robot Esophagectomy - SW](robot_esophagectomy_sw.html)
+[Robot Esophagectomy - Utrecht](robot_esophagectomy_utrecht.html)
+[Robot Esophagectomy](robot_esophagectomy.html)
 
 # Esophagectomy Decision-making
 
 Role of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery
 
-[Surgical Decision Making](es_cancertx_lit.html)
+[Surgical Decision Making](eso_cancertx_lit.html)
+
+[Nonoperative Mangement](eso_nonop.html)
+
+# Esophageal Cancer Staging
+
+[ctDNA in Esophageal Cancer](eso_ctDNA_lit.html)
+
+[ctDNA Genes](eso_ctDNA_genes.html)
 
 # Gastric
 
@@ -70,7 +70,7 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Colorectal Cancer and Sarcopenia](crc_sarcopenia_lit.html)
 
-[Disparities and Sarcopenai](disparities_sarcopenia.html)
+[Disparities and Sarcopenia](disparities_sarcopenia.html)
 
 [Sarcopenia and Chemotherapy](chemo_sarcopenia_lit.html)
 
@@ -87,6 +87,10 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 [Frailty Index](frailtyindex_lit.html)
 
 [Cachexia](cachexia_lit.html)
+
+[CGA and sarcopenia](cga_sarcopenia_lit.html)
+
+[Chemotherapy Toxicity](chemotox.html)
 
 # Colectomy
 
