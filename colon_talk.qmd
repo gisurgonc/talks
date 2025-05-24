@@ -10,7 +10,7 @@ format:
     logo: "atriumlogo.jpg"
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
     #css: ["theme/theme.css"]
-    theme: [simple, talks_styles.scss]
+    theme: [simple, lci.scss]
     echo: false
     transition: fade
     pdf-separate-fragments: true      
