@@ -1,0 +1,14 @@
+---
+title: "Nonoperative Management of Esophageal Cancer"
+editor: visual
+bibliography: zotero.bib
+---
+
+# Non-operative management of esophageal cancer
+
+Interval between neoadjuvant therapy and surgery
+
+NeoRES trial: [@nilsson1015] randomized trial: worse outcome with longer interval
+
+DUA observational [@wang808]: worse outcome with longer interval
+
