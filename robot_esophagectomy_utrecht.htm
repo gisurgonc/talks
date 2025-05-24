@@ -28,7 +28,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -139,7 +159,7 @@
 <p><a href="https://deidt7p41jzcy.cloudfront.net/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf">Robotic Procedure Guide Ivor Lewis Esophagectomy</a></p>
 <p><a href="pdfs/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf">Robotic Procedure Guide Ivor Lewis Esophagectomy</a></p>
 <h3 id="abdominal-phase">Abdominal Phase</h3>
-<p>Positioning: Reverse trendelenburg 20-25degrees and 10 degree rotation to right</p>
+<p>Positioning: Reverse Trendelenburg 20-25degrees and 10 degree rotation to right</p>
 <p>Inject IC Green under ultrasound guidance into groin nodes with 25Ga needle</p>
 <ol type="1">
 <li>Division of gastroesophageal and phrenoesophageal ligaments and right crural dissection. An energy device is used to divide the gastrohepatic ligament and the esophagus is dissected from the right crus. Dissection is carried anteriorly where the phrenoesophageal ligament is divided. Disssection posterior to esophagus</li>
@@ -154,7 +174,7 @@
 <p>Suture JP2 to the GE junction to pull it into the chest cavity.</p>
 <p>End of first staple line is tagged with Vicryl suture as a marker to guide transposition of conduit into chest. 7. Pyloroplasty. Tip Up retracts antrum to patient left. Open longitudinally with scissors. Stay sutures. Close with interrupted 3-0 silk RB-1 8. Feeding jejunostomy</p>
 </section>
-<section id="thoracic-phase" class="slide level2">
+<section id="thoracic-phase" class="slide level2 smaller scrollable">
 <h2>Thoracic Phase</h2>
 <p>Modified prone position. Slight reverse trendelenburg to keep shoulder higher than hip (to avoid collisions). Rotate patient ventrally so that posterior axillary line is highest part parallel to floor (right tilt or foam trangular wedge)</p>
 <ol type="1">
@@ -171,8 +191,8 @@
 <p>Internatioal Upper GI Association: Kingma BF, Grimminger PP, van der Sluis PC et al (2020) World- wide techniques and outcomes in robot-assisted minimally inva- sive esophagectomy (RAMIE). Ann Surg.</p>
 <p>van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van Hillegersberg R (2018) Learning curve for robot-assisted mini- mally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10. 1016/j. athor acsur. 2018. 01. 038 26. Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020) A structured training pathway to implement robot-assisted mini- mally invasive esophagectomy: the learning curve results from a high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/ doaa0 47 28. Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019) Modular step-up approach to robot-assisted transthoracic esophagectomy-experience of a German high volume center. Transl G</p>
 <p>Upper GI International Robotic Association</p>
-<p>Registry Audit 2025 <span class="citation" data-cites="kooij823">(<a href="" role="doc-biblioref" onclick="return false;"><strong>kooij823?</strong></a>)</span> Stratified by era: 2016-18, 2019-20, 2021-13. Anastomotic leak 22%/22%/16% for Ivor Lewis and 14-11% for McKeown. 30-day mortality 3%/3%/4%</p>
-<p>Learning curve plateau at 22 cases <span class="citation" data-cites="degroot1537">(<a href="" role="doc-biblioref" onclick="return false;"><strong>degroot1537?</strong></a>)</span></p>
+<p>Registry Audit 2025 <span class="citation" data-cites="kooij823">(<a href="#/thoracic-phase" role="doc-biblioref" onclick="">Kooij et al., 2025</a>)</span> Stratified by era: 2016-18, 2019-20, 2021-13. Anastomotic leak 22%/22%/16% for Ivor Lewis and 14-11% for McKeown. 30-day mortality 3%/3%/4%</p>
+<p>Learning curve plateau at 22 cases <span class="citation" data-cites="degroot1537">(<a href="#/thoracic-phase" role="doc-biblioref" onclick=""><strong>degroot1537?</strong></a>)</span></p>
 <p>Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold</p>
 <div id="" class="qrcode"></div>
 <script type="text/javascript">
@@ -186,6 +206,11 @@
     
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-kooij823" class="csl-entry" role="listitem">
+Kooij, C.D., Jongh, C. de, Kingma, B.F., Berge Henegouwen, M.I. van, Gisbertz, S.S., Chao, Y.-K., Chiu, P.W., Rouanet, P., Mourregot, A., Immanuel, A., Mala, T., Boxel, G.I. van, Carter, N.C., Li, H., Fuchs, H.F., Bruns, C.J., Giacopuzzi, S., Kalff, J.C., Hölzen, J.-P., Juratli, M.A., Benedix, F., Lorenz, E., Egberts, J.-H., Haveman, J.W., Etten, B. van, Müller, B.P., Grimminger, P.P., Berlth, F., Piessen, G., Berg, J.W. van den, Milone, M., Luketich, J.D., Sarkaria, I.S., Sallum, R.A.A., Det, M.J. van, Kouwenhoven, E.A., Brüwer, M., Harustiak, T., Kinoshita, T., Fujita, T., Daiko, H., Li, Z., Ruurda, J.P., Hillegersberg, R. van, UGIRA Study Group, 2025. The <span>Current</span> <span>State</span> of <span>Robot</span>-<span>Assisted</span> <span>Minimally</span> <span>Invasive</span> <span>Esophagectomy</span> (<span>RAMIE</span>): <span>Outcomes</span> from the <span>Upper</span> <span>GI</span> <span>International</span> <span>Robotic</span> <span>Association</span> (<span>UGIRA</span>) <span>Esophageal</span> <span>Registry</span>. Annals of Surgical Oncology 32, 823–833. https://vb3lk7eb4t.search.serialssolutions.com/?id=<a href="https://www.ncbi.nlm.nih.gov/pubmed/39496901">39496901</a>
+</div>
+</div>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">

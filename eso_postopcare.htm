@@ -28,7 +28,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -583,7 +603,7 @@
 </ul>
 
 <aside><div>
-<p>Mayo Clinic <span class="citation" data-cites="allen925">(<a href="" role="doc-biblioref" onclick="return false;"><strong>allen925?</strong></a>)</span></p>
+<p>Mayo Clinic <span class="citation" data-cites="allen925">(<a href="#/references" role="doc-biblioref" onclick="">Allen et al. 2016</a>)</span></p>
 </div></aside></section>
 <section id="urinary-retention-with-epidural-catheter" class="slide level2">
 <h2>Urinary Retention with Epidural Catheter</h2>
@@ -598,7 +618,7 @@
 </ul>
 
 <aside><div>
-<p>University of Virginia <span class="citation" data-cites="hu1302">(<a href="" role="doc-biblioref" onclick="return false;"><strong>hu1302?</strong></a>)</span></p>
+<p>University of Virginia <span class="citation" data-cites="hu1302">(<a href="#/references" role="doc-biblioref" onclick="">Hu et al. 2014</a>)</span></p>
 </div></aside></section>
 <section id="multimodality-pain-management" class="slide level2">
 <h2>Multimodality Pain Management</h2>
@@ -1038,10 +1058,18 @@
 </script>
     
 </section>
-<section id="references" class="slide level2">
+<section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-allen925" class="csl-entry" role="listitem">
+Allen, Mark S., Shanda H. Blackmon, Francis C. Nichols, Stephen D. Cassivi, William S. Harmsen, Bettie Lechtenberg, Karlyn Pierson, Dennis A. Wigle, and K. Robert Shen. 2016. <span>“Optimal <span>Timing</span> of <span>Urinary</span> <span>Catheter</span> <span>Removal</span> <span>After</span> <span>Thoracic</span> <span>Operations</span>: <span>A</span>&nbsp;<span>Randomized</span> <span>Controlled</span> <span>Study</span>.”</span> <em>The Annals of Thoracic Surgery</em> 102 (3): 925–30. <a href="https://doi.org/10.1016/j.athoracsur.2016.03.115">https://doi.org/10.1016/j.athoracsur.2016.03.115</a>.
+</div>
+<div id="ref-hu1302" class="csl-entry" role="listitem">
+Hu, Yinin, Sarah J. Craig, John C. Rowlingson, Steve P. Morton, Christopher J. Thomas, Matthew B. Persinger, James Isbell, Christine L. Lau, and Benjamin D. Kozower. 2014. <span>“Early Removal of Urinary Catheter After Surgery Requiring Thoracic Epidural: A Prospective Trial.”</span> <em>Journal of Cardiothoracic and Vascular Anesthesia</em> 28 (5): 1302–6. <a href="https://doi.org/10.1053/j.jvca.2014.05.009">https://doi.org/10.1053/j.jvca.2014.05.009</a>.
+</div>
+</div>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
