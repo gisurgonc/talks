@@ -1,6 +1,8 @@
 ---
-title: "Rectal Cancer"
+title: "Colon Cancer"
 format: 
+  pptx: 
+    reference-doc: talks.pptx
   revealjs:
     slide-number: c/t
     width: 1600
@@ -8,21 +10,20 @@ format:
     logo: "atriumlogo.jpg"
     footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
     #css: ["theme/theme.css"]
-    theme: default
-      
+    theme: [simple, talks_styles.scss]
     echo: false
+    transition: fade
+    pdf-separate-fragments: true      
+  html: default
 editor: visual
 bibliography: zotero.bib
 ---
 
-## Gastrograffin CHallange for malignant small bowel obstruction
-
+## Gastrograffin Challange for malignant small bowel obstruction
 
 ::: aside
 [@wanbahrume794]
 :::
-
-
 
 ## GI Stromal Tumors
 
@@ -319,6 +320,6 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 # Orientation Manual
 
-{{< qrcode https://gisurgonc.github.io/orientation width=500 height=500 >}}
+{{< rrqr https://gisurgonc.github.io/orientation width=500 height=500 >}}
 
 # References
