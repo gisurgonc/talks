@@ -10,56 +10,35 @@ ERAS society guidelines [@low299].
 
 Systmatic review of enhanced recovery for esophagectomy [@findlay413]
 
-## Published experience 
+## Published experience
 
 The AME esophagectomy group randomized 118 patients between an early recovery program and standard care. The early recovery group had fewer pulmonary complications (17% vs 33%) and fewer overall complications (33% vs 52%). No difference in anastomotic leakage (12% vs 16%). No difference in length of stay or pain scores[@shen9113].
 
-
 Meta-analysis [@pisarskae0174382], included 2042 patients (1058 in an ERAS group vs 984 in a traditional group), revealed a significantly shorter hospital stay and fewer non-surgical and pulmonary complications in the ERAS group, but no effect on overall morbidity, mortality or readmission rates.
 
-Meta-analysis of 13 reports of enhanced recovery protocols performed a regression analysis to identify factors which may be important in length of stay reductions.  These factors included immediate extubation, early gastrograffin study, early urinary catheter removal, early feeding with at least sips of water on the first postoperative day, early enteral feeding, and epidural catheter removal within 4 days[@markar1].
+Meta-analysis of 13 reports of enhanced recovery protocols performed a regression analysis to identify factors which may be important in length of stay reductions. These factors included immediate extubation, early gastrograffin study, early urinary catheter removal, early feeding with at least sips of water on the first postoperative day, early enteral feeding, and epidural catheter removal within 4 days[@markar1].
 
 Virginia Mason ERAS [@schmidt931]
 
 ## Nutritional Assessment
 
-Patients with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer and the effects of neoadjuvant therapy. Preoperative evaluation should include history of  weight loss, dysphagia, odynophagia. 
+Patients with esophageal cancer frequently suffer from undernutrition due to GI tract obstruction and the pro-inflammatory effects of cancer and the effects of neoadjuvant therapy. Preoperative evaluation should include history of weight loss, dysphagia, odynophagia.
 
 Malnutrition Screening Tool is a simple two-question screening tool which can triage patients for more detailed nutritional evaluation.[@skipper709] [@shaw47]
 
 Malnutrition can be graded as mild, moderate, or severe [@white730]
 
-Moderate malnutrition is characterized by weight loss of 5% in 1 month, 7.5% in 3 months, or 10% in 6 months. Severe malnutrition is characterized by weight loss >7.5% in 3 months, and >10% in 6 months, or >20% in 1 year.
- 
+Moderate malnutrition is characterized by weight loss of 5% in 1 month, 7.5% in 3 months, or 10% in 6 months. Severe malnutrition is characterized by weight loss \>7.5% in 3 months, and \>10% in 6 months, or \>20% in 1 year.
+
 Nutrition support from has been suggested to improve outcomes after esophagectomy in retrospective studies.[@ligthart-melis587] ESPN (ASPEN?) guidelines suggest strategies for nutritional support in cancer patients.[@arends11]
 
-See Bower and Martin  19373870
+See Bower and Martin 19373870
 
 Criteria for utility of feeding tubes with esophageal cancer[@huerter948]
 
-J tubes; 
-46
+J tubes; 46
 
-Ben-David
-K
-, Kim
-T
-, Caban
-A M
-, Rossidis
-G
-, Rodriguez
-S S
-, Hochwald
-S N
-. Pre-therapy laparoscopic feeding jejunostomy is safe and effective in patients undergoing minimally invasive esophagectomy for cancer
-. J Gastrointest Surg
-2013
-; 17
-: 1352
-–8
-.
-
+Ben-David K , Kim T , Caban A M , Rossidis G , Rodriguez S S , Hochwald S N . Pre-therapy laparoscopic feeding jejunostomy is safe and effective in patients undergoing minimally invasive esophagectomy for cancer . J Gastrointest Surg 2013 ; 17 : 1352 –8 .
 
 1 - No weight loss
 
@@ -108,7 +87,15 @@ A meta-analysis of over 1000 patients treated with percutaneous endoscopic gastr
 
 Anecdotal data suggests that esophagectommy with gastric conduit can safely be performed after gastrostomy, particularly if placement is done via laparoscopy and if the tube can be removed prior to esophagectomy to allow the tract to heal. PEG placement (via endoscopy) runs a small but finite risk of seeding of the gastrostomy tract with tumor.[@ellrichmann526]
 
-\newpage
+## Preoperative Inspiratory Muscle Training
+
+IMT prior to CABG reduced risk of pulmonary complications [@hulzebos1851]
+
+Randomized trial of IMT in esophagectomy patients did not decrease rate of pneumonia [@valkenet502]
+
+IMT appears to increase diaphragmatic excursion, but in a small study (42 patients), did not reduce pulmonary complications [@mizusawa9352]
+
+IMT does not appear to reduce pulmonary complications after esophagectomy \[2overbook290\]
 
 ## Frailty
 
@@ -131,6 +118,8 @@ Routine pre- and post-neoadjuvant chemotherapy fitness testing is not indicated 
 Does VO2peak Provide a Prognostic Value in Esophagectomy and Gastrectomy for Post-operative Outcomes?[@niels1812]
 
 ## Nutritional Repletion
+
+Malnutrition increases risk of complications after esophagectomy [@nozoe396]. PNI is associated with risk of postoperative complications.
 
 **Question:**
 
@@ -210,6 +199,8 @@ Standardized hemodynamic protocols [@klevebroS692]
 
 PROSPECT pain management after VATS: [@feray311]
 
+PEPMEN trial: no difference between paravertebral and epidural in MIE [@feenstra]
+
 Review of paravertebral vs epidural analgesia for thoracotomy [@dinge96233]
 
 Reiew of paravertebral and epidural analgesia for thoracic surgery [@baidya626]
@@ -223,7 +214,6 @@ Paravertebral vs epidural [@dinge96233]
 Pain management [@visser1]
 
 ## Avoidance of hypothermia
-
 
 \newpage
 
@@ -257,9 +247,7 @@ A single-center trial of early feeding randomized 196 patients to direct oral fe
 
 ### Diabetic management with feeding jejunostomy
 
-
-Intraoperative hypothermia is associated with increased risk of postoperative infections.  Active warming with forced air blankets are routinesly used (eg upper and lower-body Bair Huggers where possible)
-
+Intraoperative hypothermia is associated with increased risk of postoperative infections. Active warming with forced air blankets are routinesly used (eg upper and lower-body Bair Huggers where possible)
 
 # Postoperative Care
 
@@ -269,15 +257,13 @@ The ERAS society guidelines recommend routine nasogastric decompression post-eso
 
 [@weijs1]
 
-
-
 ## Chest drainage
 
 [@refai820] - early chest tube removal
 
-The right chest is routinely drained to remove fluid and evacuate air (particularly in patients with intrapleural adhesive disease).  A transhiatal Blake or JP drain can perform much of this function with less discomfort
+The right chest is routinely drained to remove fluid and evacuate air (particularly in patients with intrapleural adhesive disease). A transhiatal Blake or JP drain can perform much of this function with less discomfort
 
-** Transhiatal drainage of the right chest is performed with a 19FR Blake drain labeled JP2)**
+\*\* Transhiatal drainage of the right chest is performed with a 19FR Blake drain labeled JP2)\*\*
 
 ## Atrial fibrillation prophylaxix
 
@@ -295,10 +281,9 @@ New onset atrial fibrillation occurs in up to 20% of patients after esophagectom
 
 The Society for Thoracic Surgery recommends several options for atrial fibrillation prophylaxis:
 
-- Metoprolol
-- Cardiazem
-- Amiodarone
-
+-   Metoprolol
+-   Cardiazem
+-   Amiodarone
 
 ## Proton pump inhibitors
 
@@ -309,10 +294,6 @@ A Swedish trial of 80 patients after esophagectomy randomized them to postoperat
 ### Drain amylase
 
 Tang H, Xue L, Hong J, Tao X, Xu Z, Wu B. A method for early diagnosis and treatment of intrathoracic esophageal anastomotic leakage: prophylactic placement of a drainage tube adjacent to the anastomosis. J Gastrointest Surg. 2012;16:722–727.
-
-
-
-
 
 ## Pyloric drainage
 
@@ -325,7 +306,6 @@ The benefit of the method of pyloric drainage is controversial[@akkerman1512] Py
 ### Drain amylase
 
 Monitoring of drain amylase is a cost-effective a sensitive method of detection of anastomotic leak [@linden1794] [@baker181]
-
 
 ### Markers of systemic inflammation
 
@@ -344,3 +324,13 @@ CanadianN[@nelson1092]
 ## Surgeon Volume and survival
 
 [@markar718]
+
+Pulmonary omplications
+
+Preventio of pulmonary complications [@weijs6509]
+
+Interval between neoadjuvant therapy and surgery
+
+NeoRES trial: [@nilsson1015] randomized trial: worse outcome with longer interval
+
+DUA observational [@wang808]: worse outcome with longer interval
