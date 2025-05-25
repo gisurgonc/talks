@@ -1,12 +1,12 @@
 ---
-title: "Risk Calculation in Minimally-invasive Esophagectomy"
+title: "Surgical Decision-making in Locally Advanced Adenocarcinoma of Esophagus"
 format: 
   revealjs:
     slide-number: c/t
     width: 1600
     height: 900
     logo: "atriumlogo.jpg"
-    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    footer: "[Atrium Levine Cancer](https://gisurgonc.github.io/talks/)"
     theme: [simple, lci.scss]
     #css: "lci_styles.css" 
     echo: false

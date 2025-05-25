@@ -2,6 +2,10 @@
 title: "GI Surgical Oncology"
 ---
 
+# Body Composition and Surgical Risk Assessment
+
+[Esophagectomy Risk Calculation](eso_bc_risk_talk.htm)
+
 # General Surgery Residency Didactics
 
 [Esophageal Perforation SCORE](esoph_perf.htm)
