@@ -13,3 +13,7 @@ link-citations: true
 [@degouw]
 
 Algorithm for Staging including ctDNA: [@defizeS288]
+
+PET alters management in 16% of cases of gastric cancer [@smyth5481]
+
+ESMO guidlines recommend PET for esophagus but not gastric
