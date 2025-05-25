@@ -72,14 +72,6 @@ Wo JY, Clark JW, Eyler CE, Mino-Kenudson M, Klempner SJ, Allen JN, et al. Result
 
 dMMR and MsiHI - 5FU/platin ie inefficient and deleteriousReynolds JV, Preston SR, O’Neill B, et al. Trimodality therapy versus perioperative chemotherapy in the management of locally advanced adenocarcinoma of the oesophagus and oesophagogastric junction (Neo-AEGIS): an open-label, randomised, phase 3 trial. Lancet Gastroenterol Hepatol 2023; 8: 1015–27.
 
-But neoadjuvant FLOT indocued 27% pCR in the DNATE study [@lorenzen410] Lorenzen S, Götze TO, Thuss-Patience P, et al. Perioperative atezolizumab plus fluorouracil, leucovorin, oxaliplatin, and docetaxel for resectable esophagogastric cancer: interim results from the randomized, multicenter, phase II/III DANTE/IKF-s633 Trial. J Clin Oncol 2024; 42: 410–20.
-
-an T, Zhang X-F, Liang C, Liao C-W, Li J-Y, Zhou Y-M. The prognostic value of a pathologic complete response after neoadjuvant therapy for digestive cancer: systematic review and meta-analysis of 21 studies. Ann Surg Oncol 2019; 26: 1412–20.
-
-Bite on Bite Biopsies (PreSane) Noordman BJ, Spaander MCW, Valkema R, et al. Detection of residual disease after neoadjuvant chemoradiotherapy for oesophageal cancer (preSANO): a prospective multicentre, diagnostic cohort study. Lancet Oncol 2018; 19: 965–74.
-
-Noordman BJ, Wijnhoven BPL, Lagarde SM, et al. Active surveillance in clinically complete responders after neoadjuvant chemoradiotherapy for esophageal or junctional cancer. Dis Esophagus 2017; 30: 1–8.
-
 Optimal therapy for esophageal ad GE junction adenocarcinoma involves peroperative ("neoadjuvant") chemoradiation or chemotherapy, followed by surgical resection.
 
 Simple paradigm made more complicated:
