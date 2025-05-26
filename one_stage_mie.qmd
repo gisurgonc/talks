@@ -1,9 +1,26 @@
 ---
 title: "One Stage Esophagectomy"
-format: revealjs
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
 ---
 
-## Ivor Lewis Esophagectomy - 2 Stage
+## 2 Stage Ivor Lewis Esophagectomy
 
 ::::: columns
 ::: {.column width="50%"}
@@ -20,7 +37,7 @@ Abdominal Phase
 :::
 :::::
 
-## Ivor Lewis Esophagectomy - 2 Stage
+## 2 Stage Ivor Lewis Esophagectomy
 
 ::::: columns
 ::: {.column width="50%"}
@@ -42,11 +59,11 @@ Chest Phase
 :::
 :::::
 
-## Intracorporeal Conduit Construction
+## 2 Stage Ivor Lewis Esophagectomy - Conduit
 
 ::::: columns
 ::: {.column width="50%"}
--   Conduit constructed within abdomen
+-   Intracorporeal conduit construction
 -   Limitations on stretch of stomach
 -   Limited ability to identify cardia/lesser curve tumors
 :::
@@ -56,7 +73,7 @@ Chest Phase
 :::
 :::::
 
-## "Corkscrew" position - One Stage
+## One Stage Esophagectomy "corkscrew"
 
 Allows simultaneous access to abdomen and chest in one prep
 
@@ -80,10 +97,10 @@ Extracorporeal construction of conduit:
 ## Abdominal Phase I
 
 -   Stomach mobilized
--   Left gastric arter divided
+-   Left gastric artery divided
 -   Hiatus dissected
 -   Esophagus looped with Penrose
--   transhiatal drain placed in left pleura
+-   Transhiatal drain placed in left and right pleurae
 
 ## Chest Phase I
 

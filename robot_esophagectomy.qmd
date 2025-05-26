@@ -6,42 +6,6 @@ csl: elsevier-stanford.csl
 link-citations: true
 ---
 
-## Ivor Lewis Techniques
-
-### Baylor
-
-[Movie](https://deidt7p41jzcy.cloudfront.net/burt_baylor.mp4)
-
-![](https://deidt7p41jzcy.cloudfront.net/burt_abdomen.png)
-
-Camera just above umbilicus 5mm RUQ liver retractor 10mm assistant in right rectus
-
-Abdominal Phase (Steps 1-8)
-
-1.Division of gastroesophageal and phrenoesophageal ligaments and right crural dissection. An energy device is used to divide the gastrohepatic ligament and the esophagus is dissected from the right crus. Dissection is carried anteriorly where the phrenoesophageal ligament is divided. Disssection posterior to esophagus
-
-2.Division of left gastric artery and vein. Common hepatic artery nodes taken with specimen. The left gastric artery and vein are dissected and surrounding lymph nodes are swept toward the stomach; they can be removed at this time or with the specimen later. The artery and vein are divided with Weck clips or a vascular cartridge stapler.
-
-Dissection from lesser curvature 3.Preparation of right gastroepiploic pedicle. The right gastroepiploic artery and vein are identified, the lesser sac is entered, and a healthy pedicle of right gastroepiploic adipose is created. Dissection continues towards the pylorus and then cranially along the stomach's greater curvature.
-
-4.Creation of pedicled omental flap and division of short gastric arteries and veins. A pedicled omental flap is designed based on right gastroepiploic and short gastric arterial inflow, and the highest short gastric vessels are divided. 5.Mediastinal dissection. A Penrose drain is placed around the esophagus, approximated to itself (ie with a stapler), and used for retraction to circumferentially dissect the mediastinal esophagus to the level of the inferior pulmonary veins. The Penrose is tucked into the mediastinum.
-
-6.Creation of gastric conduit. The lesser curvature adipose is divided between the caudal 2 branches of the right gastric artery and a 4-cm wide conduit is created with serial applications of green staple cartridges. The conduit is never itself directly grasped.
-
-Assistant retracts the gastric fundus toward the left upper quadrant. Tip up has gastric tip length 60mm to help gauge diameter of gastric tube (5cm).
-
-Can leave GE junction and conduit still connected OR divide completely and re-suture.
-
-Suture JP2 to the GE junction to pull it into the chest cavity.
-
-End of first staple line is tagged with Vicryl suture as a marker to guide transposition of conduit into chest.
-
-7.Treatment of the pylorus (chemical pyloroplasty). The pylorus can be treated in various ways. Here, botulism toxin is injected laparoscopically into several regions of its muscle. 8.Laparoscopic feeding jejunostomy tube. A 14F jejunostomy tube is placed 40 cm from the ligament of Treitz, shown here using T fasteners. Thoracic Phase (Steps 9-15)
-
-![](https://deidt7p41jzcy.cloudfront.net/burt_thorax.png)
-
-9.Division of inferior pulmonary ligament and station 9 nodal dissection. Port placement is detailed in Video 1. The inferior pulmonary ligament is divided and station 9 lymph nodes are removed. 10.Entry into mediastinum, dissection of distal esophagus, station 8 nodal dissection. The mediastinum is entered and the Penrose drain is retrieved and used for retraction to dissect the distal esophagus. Station 8 lymph does are removed and/or dissected in such a way that they are removed with the specimen. 11.Dissection of mid-esophagus and station 7/8/10 lymph nodes. The mid-esophagus is dissected from the airway with precise application of energy. Station 7, 8, and 10 lymph nodes are removed. 12.Division of azygous vein, dissection of upper esophagus, station 2/4 nodal dissection. The azygous vein is divided with a vascular stapler cartridge and the upper esophagus is dissected. A paratracheal nodal dissection is completed. 13.Completion of conduit and removal of specimen. The conduit is delivered into the thorax and it is separated from the specimen with green staple cartridges. The specimen is removed through the assistant port incision. 14.Anastomosis. The staple line of the upper thoracic esophagus is removed sharply, the geometry of the anastomosis is planned, and a small gastrotomy is made on the conduit. A green cartridge unites the esophagus and conduit and the common enterotomy is closed, here using two running layers. 15.Omental flap buttress. The omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
-
 German group [@egberts1485]
 
 4-arm robot [@zhang1284]. Zhang early outcomes of robot-assisted: propensity matched. Ann Surg Oncol26:1284 2019
@@ -98,15 +62,13 @@ Turkey [@batirel844796] - 30% stricture rate
 
 ## Reviews
 
-Upper GI International Robotic Association: The Da Vinci Ivor Lewis Esophagectomy Procedure Guide
-
 Lahey Clinic [@stock]
 
 NCDB: RMIE vs tMIE: 23% robotic. Similar 90-day mortality. RMIE had lower rate of positive margin and lower conversion to open [@ali6329]
 
 ## Robot vs Open
 
-Randomized ROBOT trial Utrecht [@degrootdoaa079]. No difference in survival or recurrence [@vandersluid621]. Protocol: van der Sluis P C, Ruurda J P, van der Horst S et al. Robotassisted minimally invasive thoraco-laparoscopic esophagectomy versus open transthoracic esophagectomy for resectable esophageal cancer, a randomized controlled trial (ROBOT trial). Trials 2012; 13: 230. doi: 10.1186/1745-6215-13-230.
+Randomized ROBOT trial Utrecht [@degrootdoaa079]. No difference in survival or recurrence [@vandersluis621]. Protocol: van der Sluis P C, Ruurda J P, van der Horst S et al. Robotassisted minimally invasive thoraco-laparoscopic esophagectomy versus open transthoracic esophagectomy for resectable esophageal cancer, a randomized controlled trial (ROBOT trial). Trials 2012; 13: 230. doi: 10.1186/1745-6215-13-230.
 
 Ongoing trials:
 
@@ -126,11 +88,13 @@ Kayani B, Garas G, Arshad M, Athanasiou T, Darzi A, Zacharakis E (2014) Is hand-
 
 11\. Castro PMV, Ribeiro FPG, Rocha ADF, Mazzurana M, Alvarez GA (2014) Hand-sewn versus stapler esophagogastric anastomosis after esophageal ressection: sistematic review and meta-analysis. Arq Bras Cir Dig 27(3):216–221
 
+Cervical Approach
+
 Cervical Robot [@mori429]developed a non-transthoracic esophagectomy procedure combining RATHE and a video-assisted cervical approach. Dis Esophagus 29:429 2016
 
 [@nakauchi85]Robot-assisted mediastinoscopic esophagectomy for esophageal cancer: Esophagus 2019;16:85-92.
 
-## Introduction
+## 
 
 Grimminger P P, Hadzijusufovic E, Babic B, Van Der Sluis P C, Lang H. Innovative fully robotic 4-arm Ivor Lewis esophagectomy for esophageal cancer (RAMIE4). Dis Esophagus 2020; 33: doz015. doi: 10.1093/dote/doz015.
 
@@ -221,5 +185,11 @@ Conduit necrosis was defined as postoperative identification of necrosis or isch
 OGAA GI Audit [@oesophago-gastricanastomosisstudygrouponbehalfofthewestmidlandsresearchcollaborativee382]
 
 OGAA Protocol [@evansdoz007]
+
+Clinical Trials
+
+ROBOT-I Trial
+
+ROBOT-II Trial
 
 {{< qrcode https://jmbuhr.de >}}

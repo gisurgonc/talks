@@ -40,13 +40,15 @@ title: "GI Surgical Oncology"
 
 # Esophagectomy Techniques
 
-[One Stage Esophagectomy](one_stage_mie.html)
+[One Stage Esophagectomy](one_stage_mie.htm)
 
 [Robot Esophagectomy](robot_esophagectomy.html)
 
 [Robot Esophagectomy - SW](robot_esophagectomy_sw.html)
+
 [Robot Esophagectomy - Utrecht](robot_esophagectomy_utrecht.html)
-[Robot Esophagectomy](robot_esophagectomy.html)
+
+[Robot Esophagectomy - Baylor](robot_esophagectomy_baylor.html)
 
 # Esophagectomy Decision-making
 

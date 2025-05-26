@@ -66,7 +66,7 @@ Chest ports:
 
 (In prior descriptions, Left and Stapler ports were transposed) Robot cart driven over patient's right shoulder.
 
-![](images/wisz_thoracic_ports.png)
+
 
 Thoracic dissection: Anterior dissection first. Inferior pulmonary ligament. Subcarinal lymph nodes excised .
 
@@ -93,3 +93,5 @@ See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018
 2017[@okusanya116]
 
 Technique paper with videos 2014: [@sarkaria211]
+
+Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 
