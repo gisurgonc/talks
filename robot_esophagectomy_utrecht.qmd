@@ -142,6 +142,9 @@ A robot-assisted, single-layer running, **hand-sewn technique** was applied to f
 
 **Circular stapled anastomosis**: The creation of the gastric tube is deliberately incomplete. The small gastric curvature later serves to introduce the circular stapling device in the thoracic part of the operation and is resected afterward. From our point of view, the main advantage of this method is the possibility to determine the needed length of the gastric tube in the thoracic part of the operation. The anastomosis begins with the introduction of the circular stapler anvil in the transected esophageal stump. The fixation of the anvil is secured by a pursestring suture (Stratafix 3.0). For this fixation, we use a barbed suture, which delivers a very good result especially with the robot.19 For this purpose, the bougie (24Ch) that was introduced to prevent an esophageal spasm is withdrawn. The minor curvature is now brought to the thoracic wall and incised through the assistant port. A circular stapling device with a diameter of 29 mm can now be inserted. Now, a suitable location for anastomosis can be selected near the greater curvature. Here, particular attention should be paid to the correct length of the gastric tube: the anastomosis should not be under tension, but a gastric tube that is too long can lead to emptying disorders postoperatively due to the formation of a siphon and might be not well perfused. For that reason, routinely fluorescence angiography with indocyanine green is performed to ensure adequate perfusion of the gastric tube. After selecting the appropriate location, the mandrel is extended and connected to the anvil. An assistant puts the gastric tube under slight tension and completes the anastomosis. After insertion of a bougie past the anastomosis, the minor curvature is transected with a linear stapling device, and the specimen is salvaged via the assistant port. This is followed by the circular stitch over of the anastomosis and the proximal row of the gastric staple line. It can be helpful to change the camera to arm 2, resulting in a superior overview and improved freedom of movement for the bedside surgeon.
 
+
+### Stapled Anastomosis 
+
 MIE collected series of 646 cases found plateau of anastomotic leak at 8% [@vanworkum88]
 
 
@@ -166,7 +169,7 @@ Registry Audit 2025 [@kooij823] Stratified by era: 2016-18, 2019-20, 2021-13. An
 
 #### 2018 - Abdominal robotic phase 
 
-Learning curve plateau at 22 cases [@degroot1537].  Robot incorporated for abdominal phase in 2018, then 70 cases 2018-2021. Leak 20%
+Learning curve plateau at 22 cases [@degroot1537].  Robot incorporated for abdominal phase in 2018, then 70 Ivor Lewis cases 2018-2021. New surgeon proctored 2020. 70 cases/3 years: Leak 14/70(20%) = Grade 1 3(4%) + Grade 2 8(11%) + Grade 3 3(4%). 1 hospital death. Abdominal operation time median 180 (110-233)
 
 
 van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
@@ -174,4 +177,4 @@ van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
 
 Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold
 
-{{< qrcode https://jmbuhr.de >}}
+## References
