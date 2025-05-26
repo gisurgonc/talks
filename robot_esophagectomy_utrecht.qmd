@@ -18,10 +18,11 @@ Upper GI International Robotic Association
 
 Positioning: Reverse Trendelenburg 20-25degrees and 10 degree rotation to right
 
-Inject IC Green under ultrasound guidance into groin nodes with 25Ga needle
+![](images/UGIRA21.jpg)
+Liver retraction. 
 
 1.  Division of gastroesophageal and phrenoesophageal ligaments and right crural dissection. An energy device is used to divide the gastrohepatic ligament and the esophagus is dissected from the right crus. Dissection is carried anteriorly where the phrenoesophageal ligament is divided. Disssection posterior to esophagus
-2.  Division of left gastric artery and vein. Common hepatic artery nodes taken with specimen. The left gastric artery and vein are dissected and surrounding lymph nodes are swept toward the stomach; they can be removed at this time or with the specimen later. The artery and vein are divided with Weck clips or a vascular cartridge stapler.
+2.  Division of left gastric artery and vein. Common hepatic artery nodes taken with specimen. The left gastric artery and vein are dissected and surrounding lymph nodes are swept toward the stomach; they can be removed at this time or with the specimen later. The artery and vein are divided with Weck clips or a vascular cartridge stapler. Posterior stomach dissected in medial to lateral fashion.
 3.  Mediastinal dissection. A Penrose drain is placed around the esophagus, approximated to itself (ie with a stapler), and used for retraction to circumferentially dissect the mediastinal esophagus to the level of the inferior pulmonary veins. The Penrose is tucked into the mediastinum.
 4.  Preparation of right gastroepiploic pedicle. The right gastroepiploic artery and vein are identified, the lesser sac is entered, and a healthy pedicle of right gastroepiploic adipose is created. Dissection continues towards the pylorus and then cranially along the stomach's greater curvature.
 5.  Creation of pedicled omental flap and division of short gastric arteries and veins. A pedicled omental flap is designed based on right gastroepiploic and short gastric arterial inflow, and the highest short gastric vessels are divided.
@@ -33,36 +34,143 @@ Can leave GE junction and conduit still connected OR divide completely and re-su
 
 Suture JP2 to the GE junction to pull it into the chest cavity.
 
-End of first staple line is tagged with Vicryl suture as a marker to guide transposition of conduit into chest. 7. Pyloroplasty. Tip Up retracts antrum to patient left. Open longitudinally with scissors. Stay sutures. Close with interrupted 3-0 silk RB-1 8. Feeding jejunostomy
+End of first staple line is tagged with Vicryl suture as a marker to guide transposition of conduit into chest. 
+
+7. Pyloroplasty. Tip Up retracts antrum to patient left. Open longitudinally with scissors. Stay sutures. Close with interrupted 3-0 silk RB-1 8. Feeding jejunostomy
 
 ## Thoracic Phase
 
-Modified prone position. Slight reverse trendelenburg to keep shoulder higher than hip (to avoid collisions). Rotate patient ventrally so that posterior axillary line is highest part parallel to floor (right tilt or foam trangular wedge)
+Modified prone position on a bean bag with break at the level of the tip of the scapula. Axillary roll.   Right arm is kept low at a 90 degree angle, allowing the scapula to move medially.  Slight reverse trendelenburg to keep shoulder higher than hip (to avoid collisions). Rotate patient ventrally so that posterior axillary line is highest part parallel to floor (right tilt or foam trangular wedge)
+
+![](images/UGIRA22.jpg)
+
+Arm#4 4th ICS 1cm medial to scapula
+Arm #3 6th IS more medial than 4th arm and closet to posterior axillary line. Camera Port. 
+Arm #2 8th ICS
+Arm #1 13mm on the scapular line or posterior on 10th ICS
+A1 Asssitant 9th ICS triangulated beween 1 and 2. Alexis port used for extraction incision
+A2 Assistant 5th ICS. Alexis port used for extraction and ?circular stapler
+
+DaVinci docking with "Anatomy: Cardiac"
+Target on azygous vein
 
 1.  Divide azygous vein (stapler or Weck clips)
-2.  Dissect esophagus circumferentially
-3.  Division of inferior pulmonary ligament and station 9 nodal dissection. The inferior pulmonary ligament is divided and station 9 lymph nodes are removed. 4.Entry into mediastinum, dissection of distal esophagus, station 8 nodal dissection. The mediastinum is entered and the Penrose drain is retrieved and used for retraction to dissect the distal esophagus. Station 8 lymph does are removed and/or dissected in such a way that they are removed with the specimen.
-4.  Dissection of mid-esophagus and station 7/8/10 lymph nodes. The mid-esophagus is dissected from the airway with precise application of energy. Station 7, 8, and 10 lymph nodes are removed.
-5.  Division of azygous vein, dissection of upper esophagus, station 2/4 nodal dissection. The azygous vein is divided with a vascular stapler cartridge and the upper esophagus is dissected. A paratracheal nodal dissection is completed. 7.Completion of conduit and removal of specimen. The conduit is delivered into the thorax and it is separated from the specimen with green staple cartridges. This is done using a laparoscopic graster. Stomach is pulled into the chest until the Vicryl marker suture is seen. The specimen is removed through the assistant port incision. An Alexis port is used to seal the extractio site.
+
+2.  Dissect esophagus circumferentially. Upper mediastinal dissectin is carried out above right and left upper laryngeal nerves on top of right subclavian artery to level of cervical nodes
+
+3. Divide esophagus with stapler just above level of azygous vein
+
+
+>3.  Division of inferior pulmonary ligament and station 9 nodal dissection. The inferior pulmonary ligament is divided and station 9 lymph nodes are removed. 
+
+>4.Entry into mediastinum, dissection of distal esophagus, station 8 nodal dissection. The mediastinum is entered and the Penrose drain is retrieved and used for retraction to dissect the distal esophagus. Station 8 lymph does are removed and/or dissected in such a way that they are removed with the specimen.
+
+>4.  Dissection of mid-esophagus and station 7/8/10 lymph nodes. The mid-esophagus is dissected from the airway with precise application of energy. Station 7, 8, and 10 lymph nodes are removed.
+
+>5.  Division of azygous vein, dissection of upper esophagus, station 2/4 nodal dissection. The azygous vein is divided with a vascular stapler cartridge and the upper esophagus is dissected. A paratracheal nodal dissection is completed. 
+
+7.Completion of conduit and removal of specimen. The conduit is delivered into the thorax and it is separated from the specimen with green staple cartridges. This is done using a laparoscopic graster. Stomach is pulled into the chest until the **Vicryl marker suture** is seen. The specimen is removed through the assistant port incision. An Alexis port is used to seal the extraction site.
+
 6.  Division of esophagus just above level of azygous vein. ICG can be used to check perfusion.
 
-14.Anastomosis. The staple line of the upper thoracic esophagus is removed sharply, the geometry of the anastomosis is planned, and a small gastrotomy is made on the conduit. A green cartridge unites the esophagus and conduit and the common enterotomy is closed, here using two running layers. 15.Omental flap buttress. The omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
 
-van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
+### Circular stapled anastomosis
+
+Large needle driver to grasp anvil
+
+**Camera moved back to Port 3 (from 2) to visualize anastomosis better **
+
+**Port #1 may need to be remove for visibiity**
+
+*Intact minor gastric curvature of the transected specimen is brought out of the chest through the mini-thoracotomy. To insert the circular staper handle the stomach conduit is opene by incision the stapler line previusly created at the antrum in the minor curvaturell. The incision is made in the distal third of the antrum to introduce the stapler handle as far away from the gastro-esophageal crossing and allow a large distance to the grea*
+
+![](images/UGIRA52.png)
+
+### Hand-sewn Anastomosis
+
+Posterior running 4-0 Stratafix running posterior wall
+
+![](images/UGIRA60a.png)
+
+###
+
+Conduit and esophagus opened anterior to staple lines, which are incorporated into the staple line. Take care to ensure incision length is the same on conduit vs esophagus.
+
+Next the lumen of the esophagus is held up with a Cadiere Forceps by the da Vinci, while the assistant exposes the gastric tube in order to minimize the tension on the tissue . The second layer of the back wall is created by a running Stratafix Spiral® 3-0 (SH) suture placed transmural. The suture is started dorsally (9 o’clock position) and continued to ventrally (3o’clock) via the 6 o'clock position with the needle inside-out on the esophagus and outside-in on the gastric conduit. The knot is placed extraluminally.
+
+![](images/UGIRA60b.png)
+
+###
+
+The anterior front wall is closed with 2 Stratafix Spiral 3-0 sutures starting one each at the dorsal and ventral edge of the remaining opening.  The first suture is started dorsally (9 o’clock) and run to the middle of the opening at 12 o’clock. The second suture is run from
+ventrally 3 o´clock finishing ventral at 12 o´clock, meeting the first suture line. The securing knot is placed extraluminally.
+
+![](images/UGIRA60c.png)
+
+The previously mobilized mediastinal pleura is closed with either single stitches or a running suture on top of anastomosis starting at azygos stump for about 4 cm distal, and pulling in small piece of omentum for protection. This enables fixation of the gastric tube and reinforcement of the anastomosis.
+
+### Linear Stapled Anastomosis
+
+The esophageal stump is opened on the right side with cold scissors or monopolar cautery hook proximal to the transecting stapler line
+
+The site for linear stapler insertion is measured to be at least 6 cm distal to the transecting staple line on the gastric conduit. The incision is made using monopolar cautery close to the gastroepiploic arcade
+
+Four retraction sutures are placed (dorsal, ventral, medial and lateral) around the opened esophageal lumen, making sure to fixate the mucosa to the rest of the esophageal wall. These retraction sutures will serve for applying optimal retraction on the stump for anastomotic suturing as well as help guide the esophageal stump over the stapler anvil.
+
+The EndoWrist stapler anvil and cartridge jaw (30 mm length) are inserted into the appropriate lumens while the console surgeon guides the tissue onto the stapler with the da Vinci instruments.
+Once sufficient tissue overlap is achieved (approximately 60 mm) the stapler is fired (blue reload) and the gastric conduit and esophageal stump are connected dorsally side-to-side
+
+34Fr gastric tube inserted.  Anterior wall closed with two 4-0 Stratafix sutures run from each side toward the middle.
+
+15.Omental flap buttress. The omental flap is positioned between the conduit and airway and the anastomosis is loosely wrapped.
+
+
 
 Grimminger PP, Hadzijusufovic E, Lang H: Robotic-Assisted Ivor Lewis Esophagectomy (RAMIE) with a Standardized Intrathoracic Circular End-to-side Stapled Anastomosis and a Team of Two (Surgeon and Assistant Only). Thorac Cardiovasc Surg 66:404406, 2018
 
 
+#### Hand-sewn anastomosis
+
+**Hand-sewn Anastomosis** [@ngdoaf019]
+Anastomotic leakage  occurred in 11 patients (12.4%), which involved a grade I leak in four patients (4.5%), grade II leak in one patient (1.1%), and grade III leakage in six patients (6.7%).  Stricture rate was 32.6% (29 patients) at 1 year post-operatively for which dilation was needed for all patients.
+
+**Hand-sewn vs Stapled** [@degrootdoaa055] Compared Utrecht to Sweden 2016-2019.  68 hand-sewn vs 60 stapled. Hand-sewn leak rate was 40% for cases 1-10 and 10% for cases 59-68. Overall leakage after hand-sewn in 22 patients (32%): Grade 1 =5(7%), Grade 2= 7(10%), Grade 3 10 (15%). see [@egberts1485]
+
+Overall leakage after stapled anastomosis in 10 (17%). Stapled anastomosis leak rate 10% for cases 1-10 and 20% for cases 51-60.
+
+A robot-assisted, single-layer running, **hand-sewn technique** was applied to first close the posterior wall and then the anterior wall by two separate suturing wires that were placed in identical direction to end at the same site (i.e. from 9 to 3 o’clock). If possible, the tip of the gastric conduit was removed, and an omental wrap was positioned around the anastomosis. The surgical technique was refined during the inclusion period. The first 13 cases were end-to-end (E-T-E) anastomoses. After consecutive case 13, a transit was made to an end-toside (E-T-S) anastomosis in order to be able to better tailor the level of the anastomosis at the level of the gastric tube. Furthermore, at consecutive case 18, the surgical team switched from using V-Loc 3.0 barbed suture wires (Medtronic) to Stratafix 3.0 (Ethicon) barbed suture wires. The reason for the change was that the more rigid v-lock suture could damage the esophageal wall at the level of the stiches. Starting with consecutive case 21, four supportive stitches were placed in the esophagus (i.e. at 12, 3, 6 and 9 o’clock) before initiating the suturing. Finally, to avoid traction on the anastomosis, four tension-release stitches (i.e. at 12, 3, 6 and 9 o’clock) were placed in the serosa of the esophagus and gastric conduit from consecutive case 47 onward. Consequently, the final anastomotic technique involved an E-T-S intrathoracic anastomosis that was created by the successive placement of four supportive stitches, single layer continuous suturing of the posterior and anterior wall with two separate Stratafix wires, four tension release stiches and an omental wrap. The incision in the gastric conduit for creating the anastomosis was made as far as possible from the longitudinal staple line and near the omentum.
+
+**Circular stapled anastomosis**: The creation of the gastric tube is deliberately incomplete. The small gastric curvature later serves to introduce the circular stapling device in the thoracic part of the operation and is resected afterward. From our point of view, the main advantage of this method is the possibility to determine the needed length of the gastric tube in the thoracic part of the operation. The anastomosis begins with the introduction of the circular stapler anvil in the transected esophageal stump. The fixation of the anvil is secured by a pursestring suture (Stratafix 3.0). For this fixation, we use a barbed suture, which delivers a very good result especially with the robot.19 For this purpose, the bougie (24Ch) that was introduced to prevent an esophageal spasm is withdrawn. The minor curvature is now brought to the thoracic wall and incised through the assistant port. A circular stapling device with a diameter of 29 mm can now be inserted. Now, a suitable location for anastomosis can be selected near the greater curvature. Here, particular attention should be paid to the correct length of the gastric tube: the anastomosis should not be under tension, but a gastric tube that is too long can lead to emptying disorders postoperatively due to the formation of a siphon and might be not well perfused. For that reason, routinely fluorescence angiography with indocyanine green is performed to ensure adequate perfusion of the gastric tube. After selecting the appropriate location, the mandrel is extended and connected to the anvil. An assistant puts the gastric tube under slight tension and completes the anastomosis. After insertion of a bougie past the anastomosis, the minor curvature is transected with a linear stapling device, and the specimen is salvaged via the assistant port. This is followed by the circular stitch over of the anastomosis and the proximal row of the gastric staple line. It can be helpful to change the camera to arm 2, resulting in a superior overview and improved freedom of movement for the bedside surgeon.
+
+MIE collected series of 646 cases found plateau of anastomotic leak at 8% [@vanworkum88]
+
 
 Internatioal Upper GI Association: Kingma BF, Grimminger PP, van der Sluis PC et al (2020) World- wide techniques and outcomes in robot-assisted minimally inva- sive esophagectomy (RAMIE). Ann Surg.
 
-van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van Hillegersberg R (2018) Learning curve for robot-assisted mini- mally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10. 1016/j. athor acsur. 2018. 01. 038 26. Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020) A structured training pathway to implement robot-assisted mini- mally invasive esophagectomy: the learning curve results from a high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/ doaa0 47 28. Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019) Modular step-up approach to robot-assisted transthoracic esophagectomy-experience of a German high volume center. Transl G
+van der Sluis PC, Ruurda JP, van der Horst S, Goense L, van Hillegersberg R (2018) Learning curve for robot-assisted mini- mally invasive thoracoscopic esophagectomy: results from 312 cases. Ann Thorac Surg 106(1):264–271. https:// doi. org/ 10. 1016/j. athor acsur. 2018. 01. 038 26. 
+
+
+FeikeKingma B, Hadzijusufovic E, van der Sluis PC et al (2020) A structured training pathway to implement robot-assisted mini- mally invasive esophagectomy: the learning curve results from a high-volume center. Dis Esophagus. https:// doi. org/ 10. 1093/ dote/ doaa0 47 28. 
+
+Fuchs HF, Müller DT, Leers JM, Schröder W, Bruns CJ (2019) Modular step-up approach to robot-assisted transthoracic esophagectomy-experience of a German high volume center. Transl G
 
 Upper GI International Robotic Association
 
 Registry Audit 2025 [@kooij823] Stratified by era: 2016-18, 2019-20, 2021-13. Anastomotic leak 22%/22%/16% for Ivor Lewis and 14-11% for McKeown. 30-day mortality 3%/3%/4%
 
-Learning curve plateau at 22 cases [@degroot1537]
+### Utrecht Evolution
+
+2003 - Robotic thoracic phase and McKeown [@ruurda313]
+
+2016 - Ivor Lewis hand-sewn robotic
+
+#### 2018 - Abdominal robotic phase 
+
+Learning curve plateau at 22 cases [@degroot1537].  Robot incorporated for abdominal phase in 2018, then 70 cases 2018-2021. Leak 20%
+
+
+van der Sluis Ann Surg Oncol22 Supp3:S1350-6 - ICG for RGEA
+
 
 Utrecht Ruurda 2005 Dig Surgery 2005 p313 van Hillegerberg 2006 3 hold
 

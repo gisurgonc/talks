@@ -20,7 +20,7 @@ author:
   - Jonathan C Salo MD
 ---
 
-## Esophagectomy for Esophageal Cancer
+## Locally-advanced adenocarcinoma of the esophgaus
 
 Despite advanced in minimally-invasive techniques, esophagectomy carries a risk of perioperative morbidity and mortality, particularly in frail patients.
 
