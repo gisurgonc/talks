@@ -42,6 +42,8 @@ title: "GI Surgical Oncology"
 
 [One Stage Esophagectomy](one_stage_mie.htm)
 
+[Anastomostic Techniques](eso_anastomosis.htm)
+
 [Robot Esophagectomy](robot_esophagectomy.html)
 
 [Robot Esophagectomy - SW](robot_esophagectomy_sw.html)
