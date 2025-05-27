@@ -67,9 +67,12 @@ Muscle mass and quality can be measured from staging CT scans and have been show
 ## Conclusions
 
 CT-derived muscle measurements accurately risk-stratify patients undergoing minimally-invasive esophagectomy:\
-Normal Muscle and Age \<75: 
+
+Normal Muscle and Age \<75: 
 
 -   1.8% mortality (n=281)\
-    Low Muscle and Age 75+:  3
 
--   032% mortality (n=28)
+\
+Low Muscle and Age 75+: 
+
+-   32% mortality (n=28)
