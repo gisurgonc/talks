@@ -1,0 +1,25 @@
+---
+title: "Esophagectomy Anastomosis"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+Cervical anastomosis has 5x higher leak rate than thoracic.
+
+Aortic calcifications and risk of leak [@goense247]
+
+## Circular Stapled Anastomosis
+
+Mainz 28mm Circular Stapler - leak rate 12-14% [@froiiodoac044]
+
+Utrecht - No differnce 28 vs 25 [@tagkalos2242]
+
+## Linear Stapled Anastomosis
+
+Kukar, Ben-Kafir,
+
+Italy Fabbi [@fabbi2681]. 256 patients were included; of those, 220 received the anastomosis with a circular stapler (CS group), and 36 received the anastomosis with a linear stapler (LS group). The rate of anastomotic leakage did not differ in the two groups (9.6% CS vs. 5.6% LS, p = 0.438), as well as the rate of anastomotic stricture in the 3-month follow-up (0.9% CS vs. 2.8% LS, p = 0.367). 
+
+## References
