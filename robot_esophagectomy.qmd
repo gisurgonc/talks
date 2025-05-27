@@ -20,7 +20,9 @@ Mainz [@capovilladoab088] Stapled anastomosis Leak rate 10% 90-day mortality 1.9
 
 Mainz [@grimminger589] [@egberts1] [@egberts1485]
 
-## Hand-sewn Anastomosis RAMIW
+No difference in stricture rate 25mm vs 28mm van Hillegesberg and Glimminger [@tagkalos2242]
+
+## Hand-sewn Anastomosis RAMIE
 
 Italy [@huscher1034] 40 patients over 4 years
 
@@ -37,6 +39,8 @@ Single‐lung ventilation is introduced, and the patient is placed in the left l
 The dissection of the esophagus is then continued along the pericardium down to the diaphragm and the thoracic duct is clipped with robotic clips. The resection of the esophagus en-bloc with periesophageal, bronchial and subcarinal nodes (stations \# 107–111) and the thoracic duct is fully completed from the diaphragm up to the azygos arch. The proximal esophagus is divided using a robotic cautery hook above the level of the azygos vein. At this point, the instruments in R1 and R3 are reversed to be able to carefully pull the esophago-gastric bloc and the gastric conduit up through the hiatus until the marker suture becomes visible. The specimen and conduit thus are disconnected, and the specimen is placed in a plastic bag which will be removed through the enlarged incision of the assistant port. Thereafter, four supportive 4-0 polyglactin 910 (Ethicon Inc. USA) stitches are put in between the mucosae and the muscularis externa layer of the esophagus at the four cardinal points to evert the esophageal mucosae. Next, the proximal esophagus is dilatated using a Foley catheter inflated with 10 cc of sterile water for approximately 2–3 min. After having assessed both gastric conduit and esophageal perfusion with ICG fluorescence, a gastrotomy is performed at the most proximal portion of the conduit, maintaining at least 2 cm of distance from the stapler line. A single-layer robot-sewn esophagogastric anastomosis is performed above the level of the azygos arch with two separate running self-locking barbed sutures (Filbloc® 3/0, Assut Europe, Italy or alternatively V-LocTM 3/0, Medtronic, USA) that run in the same direction from 3 to 9 o’clock. Of note is the fact that, after having applied the first stitch on the posterior wall we customarily pass the needle back below the first stitch to evert the posterior esophageal and gastric layer and improve their visualization. Once the posterior aspect of the anastomosis is complete, a NGT is placed under direct vision inside the stomach distally to the anastomosis, thus accomplishing the closure of anterior surface. Finally, a few tension release stitches are put in between the mediastinal pleura and seromuscular layer of the gastric tube. The anastomosis is checked for intraoperative leaks with methylene blue and a 28-Fr chest drain is inserted via the R1 robotic trocar, posteriorly to anastomosis, with the apex in the upper chest (Video).
 
 Stricture 8/30 = 27%
+
+## Linear Stapler RAMIE
 
 4-arm robot [@zhang1284]. Zhang early outcomes of robot-assisted: propensity matched. Ann Surg Oncol26:1284 2019
 
