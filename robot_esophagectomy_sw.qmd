@@ -12,6 +12,7 @@ link-citations: true
 
 -   Nathanson retractor (3 sizes available)
 -   Mediflex 'Strong Arm' table-mounted fixed retractor
+- Endoscopic Bookwalter
 
 Position: Reverse Trendeleburg with tipped to Right (left side up)
 
