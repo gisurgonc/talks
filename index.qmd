@@ -40,9 +40,11 @@ title: "GI Surgical Oncology"
 
 # Esophagectomy Techniques
 
+[Robot Esophagectomy - CMC](robot_esophagectomy_cmc.html)
+
 [One Stage Esophagectomy](one_stage_mie.htm)
 
-[Anastomostic Techniques](eso_anastomosis.htm)
+[Anastomostic Techniques](eso_anastomosis.html)
 
 [Robot Esophagectomy](robot_esophagectomy.html)
 

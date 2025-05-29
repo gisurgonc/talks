@@ -133,7 +133,7 @@ EUS can be omitted for patients with dysphagia, but is useful in patients *witho
 PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis
 
 ::: aside
-@gotze1
+
 :::
 
 ## Locally-advanced
@@ -369,7 +369,7 @@ Patients with a clinical response were randomized:
 *No difference in overall survival*
 
 ::: aside
-[@bedene1160]
+[@bedenne1160]
 :::
 
 ## German Trial (Stahl)
