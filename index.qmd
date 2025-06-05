@@ -22,6 +22,8 @@ title: "GI Surgical Oncology"
 
 [Rectal Cancer Adjuvant Therapy](rectal_adjuvant.htm)
 
+[Cancer Genetics](genetics_slides.htm)
+
 # Acute Care Surgery of the GI Cancer Patient
 
 [Overview](acs_gicancer_lit.qmd)
@@ -31,18 +33,18 @@ title: "GI Surgical Oncology"
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
 
-[One Stage Esophagectomy](one_stage_mie.htm)
 
-[Robotic MIE Planning](robotic_mie.htm)
 
 [Robotic Gastrectomy](robot_gastrectomy.html)
 
 
 # Esophagectomy Techniques
 
-[Robot Esophagectomy - CMC](robot_esophagectomy_cmc.html)
-
 [One Stage Esophagectomy](one_stage_mie.htm)
+
+[Robotic MIE Planning](robotic_mie.htm)
+
+[Robot Esophagectomy - CMC](robot_esophagectomy_cmc.html)
 
 [Anastomostic Techniques](eso_anastomosis.html)
 
@@ -60,7 +62,9 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Surgical Decision Making](eso_cancertx_lit.html)
 
-[Nonoperative Mangement](eso_nonop.html)
+[Surgical Decision-Making Slides ASCO GI](eso_bc_decision_talk.htm)
+
+[Nonoperative Mangement](eso_nonop_talk.htm).  [Lit](eso_nonop_lit.html)
 
 # Esophageal Cancer Staging
 
