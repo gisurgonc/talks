@@ -47,6 +47,18 @@ High-risk GIST randomized:
 [@joensuu1265]
 :::
 
+## French Sarcoma group IMADGIST Trial
+
+High-risk GIST treated with 3 years of imatinib randomized:
+
+-   Observation
+-   Additional 3 years of imatinib
+
+::: aside
+Ref
+:::
+
+
 ## Scandinavian Sarcoma Group XXII
 
 High-risk GIST treated with 3 years of imatinib randomized:
@@ -81,12 +93,6 @@ Genetic mutations can predict response to imatinib [^1]
 
 ::: aside
 Gronchi JAMA Surg 2020
-:::
-
-## Imatinib 1yr vs 3 yr
-
-::: aside
-Joensuu JAMA Oncology 2020
 :::
 
 ## Wild-Type GIST
