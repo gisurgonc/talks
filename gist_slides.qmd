@@ -54,8 +54,10 @@ High-risk GIST treated with 3 years of imatinib randomized:
 -   Observation
 -   Additional 3 years of imatinib
 
+Longer disease-free survival with 6 years of imatinib
+
 ::: aside
-Ref
+[@blay1157]
 :::
 
 
@@ -73,10 +75,14 @@ Ref
 
 ## Persist-5 Trial
 
-High-risk GIST randomized:
+Single-arm study to evalute tolerance of 5 years of imatinib
+- Tumors >2cm with >5 mitoses/hpf OR
+- non-gastric primary
 
--   3 years adjuvant imatinib
--   5 years adjuvant imatinib
+- 51% of patients discontinued therapy at some point
+- 7/91 patients recurred
+  - 1 during imatinib therapy
+  - 6 within 2 years of discontinuation of imatinib
 
 ::: aside
 [@Raute184060]
