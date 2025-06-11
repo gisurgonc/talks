@@ -32,7 +32,7 @@ No significant difference at 6 years
 Ref
 :::
 
-## SSG SVII
+## Scandinavian Sarcoma Group XVIII
 
 High-risk GIST randomized:
 
@@ -44,8 +44,32 @@ High-risk GIST randomized:
 5-year Overall Survival 82% vs 92%
 
 ::: aside
+[@joensuu1265]
+:::
+
+## Scandinavian Sarcoma Group XXII
+
+High-risk GIST treated with 3 years of imatinib randomized:
+
+-   Observation
+-   Additional 2 years of imatinib
+
+::: aside
 Ref
 :::
+
+
+## Persist-5 Trial
+
+High-risk GIST randomized:
+
+-   3 years adjuvant imatinib
+-   5 years adjuvant imatinib
+
+::: aside
+[@Raute184060]
+:::
+
 
 ## Mutational Testing
 
@@ -91,20 +115,20 @@ Weldon JCS 2017
 
 ## Recurrence Risk
 
-+-------------------+----------+--------------+
-| Risk              | Size     | Mitotic Rate |
-+===================+==========+==============+
-| Very Low Risk     | \<2cm    | \<5          |
-+-------------------+----------+--------------+
-| Low Risk          | 2-5cm    | \<5          |
-+-------------------+----------+--------------+
-| Intermediate Risk | \<5cm\   | 6-10\        |
-|                   | 5-10cm   | \<5          |
-+-------------------+----------+--------------+
-| High Risk         | \>5cm\   | \>5 /50\     |
-|                   | \>10cm\  | Any\         |
-|                   | Any size | \>10         |
-+-------------------+----------+--------------+
++-------------------+-------------+--------------+
+| Risk              | Size        | Mitotic Rate |
++===================+=============+==============+
+| Very Low Risk     | \<2cm       | \<5          |
++-------------------+-------------+--------------+
+| Low Risk          | 2-5cm       | \<5          |
++-------------------+-------------+--------------+
+| Intermediate Risk | \<5cm\      | 6-10\        |
+|                   | 5-10cm      | \<5          |
++-------------------+-------------+--------------+
+| High Risk         | \>5cm\      | \>5 /50\     |
+|                   | \>10cm\     | Any\         |
+|                   | Any size    | \>10         |
++-------------------+-------------+--------------+
 
 : Mitotic rate per 50 hpf
 
