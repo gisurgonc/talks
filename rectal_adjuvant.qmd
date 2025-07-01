@@ -42,7 +42,10 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 -   48: Postop chemotherapy 5FU+methyl-CCNU
 -   46: Chemo + radiation
 
+::: aside
 [@gastrointestinaltumorstudygroup1465]
+:::
+
 
 ## GI Tumor Study Group 1985
 
@@ -61,15 +64,21 @@ No difference in overall survival
 
 ## Total Mesorectal Excicsion (1986)
 
-115 rectal cancer patients[^1] underwent surgery over 7.5 years
+115 rectal cancer patients underwent surgery over 7.5 years
 
-[^1]: @heald1479
+::: aside
+[@heald1479]
+:::
+
+
 
 69 with anastomosis below 5cm
 
 Median followup of 4.2 years:
 
--3 pelvic recurrences -No staple-line recurrence
+-   3 pelvic recurrences
+
+-   No staple-line recurrence
 
 ## Dutch postop ChemoRT Trial
 
@@ -77,18 +86,21 @@ Dutch trial combined postoperative chemoRT and protocol-driven surgery using tot
 
 Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival
 
-## Dutch Short-course Trial[^2]
+## Dutch Preop Short-course Trial
 
-[^2]: @kapiteijn638
 
 1861 patients randomized:
 
 -   preop RT (5x 500cGy) $\rightarrow$ Surgery (TME)
 -   Surgery alone (TME)
 
-Reduction in local recurrence
+Reduction in local recurrence (2.4% vs 8.2%)
 
 No difference in survival
+
+::: aside
+[@kapiteijn638]
+:::
 
 ## Dutch Trial Results
 
@@ -132,9 +144,19 @@ No differences between groups in:
 
 ## Short-course RT
 
-An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone preoperative over a five day period.
+Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. 
 
-Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%[@swedishrectalcancertrial980]. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.
+Local recurrence was 9% in the therapy group vs 26% in the control group
+
+Overall survival at 5 years of 58% vs 48% (p=0.004) 
+
+Disease-specific survival at 9 years 74% vs 65%. (p=0.002)
+
+Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.
+
+:::aside
+[@swedishrectalcancertrial980]
+:::
 
 ## Swedish Rectal Cancer Trial
 
@@ -142,7 +164,17 @@ Swedish Rectal Cancer Trial compared surgery alone with preoperative short-cours
 
 ## Stockholm III
 
-Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in improved rates of pathological complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery [@pettersson972]
+840 patients with rectal cancer randomized to preoperative radiation:
+
+- Short course (5 x 5Gy) with surgery the following week
+- Short course (5 x 5 Gy) with surgery 4- weeks later
+- Long-course  (25 x 2Gy) with surgery 4-8 weeks later
+
+With short-course radiation, elayed surgery resulted in higher rates of pCR (11.8% vs 1.7%)
+
+:::[aside]
+[@pettersson972]
+:::
 
 ## Stockholm III
 
@@ -194,7 +226,19 @@ ChemoRT $\rightarrow$ TME +/- Chemo
 
 ## PRODIGE-23 Trial
 
-PRODIGE 23 randomized 461 patients with T3 or T4 rectal cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.[@conroy702]
+PRODIGE 23 randomized 461 patients with T3 or T4 rectal cancers:
+
+Long-course radiation $\rightarrow$ surgery
+
+Induction chemotherapy $\rightarrow$ Long-course radiation $\rightarrow$ surgery
+
+-   Increased 3-year survival (76% vs 69%)
+
+-   Increased pathologic complete response of 28% vs 12%
+
+::: aside
+[@conroy702]
+:::
 
 ## RAPIDO and PRODIGE
 
@@ -205,7 +249,6 @@ PRODIGE 23 randomized 461 patients with T3 or T4 rectal cancers to long-course r
 Retrospective studies demonstrated that among patients with a complete clinical response to chemoradiation for rectal cancer, some patients can be managed without surgery.
 
 Subsequent trials of neoadjuvant therapy included non-operative management as a treatment option in patients with a complete clinical response to neoadjuvant therapy.
-
 
 ## Watch and Wait - MSKCC
 
@@ -272,7 +315,11 @@ Chemo $\rightarrow$ ChemoRT $\rightarrow$ Restaging
 
 ChemoRT $\rightarrow$ Chemo $\rightarrow$ Restaging
 
-Restaging: - Clinical response offered watch/wait - Non-responders $\rightarrow$ surgery
+Restaging:
+
+-   Clinical response offered watch/wait
+
+-   Non-responders $\rightarrow$ surgery
 
 ::: aside
 [@garcia-aguilar2546]
@@ -343,6 +390,5 @@ ChemoRT $\rightarrow$ Chemo 54% organ preservation
 ::: aside
 [@smith767]
 :::
-
 
 ## References
