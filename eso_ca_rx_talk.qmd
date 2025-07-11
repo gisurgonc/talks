@@ -99,7 +99,7 @@ Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 -   EUS has a 25% rate of understaging uT2 N0 tumors
 -   Understaged patients who undergo primary surgery would need chemo or chemoRT postop
 
-## Asymptomatic Tumors (minimal dysphagia)
+## Asymptomatic Tumors (minimal dysphagia) 
 
 -   EUS to distinguish T2 from T3 tumors
 -   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
