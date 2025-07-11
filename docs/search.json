@@ -12695,7 +12695,7 @@
     "href": "rectal_adjuvant.htm#short-course-rt",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Short-course RT",
-    "text": "Short-course RT\nAn alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone preoperative over a five day period.\nSwedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%(Swedish Rectal Cancer Trial et al. 1997). Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision."
+    "text": "Short-course RT\nSwedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery.\nLocal recurrence was 9% in the therapy group vs 26% in the control group\nOverall survival at 5 years of 58% vs 48% (p=0.004)\nDisease-specific survival at 9 years 74% vs 65%. (p=0.002)\nOf note, this trial was performed in the era prior to the widespread use of total mesorectal excision.\n\n\n(Swedish Rectal Cancer Trial et al. 1997)"
   },
   {
     "objectID": "rectal_adjuvant.htm#swedish-rectal-cancer-trial",
@@ -12709,7 +12709,7 @@
     "href": "rectal_adjuvant.htm#stockholm-iii",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Stockholm III",
-    "text": "Stockholm III\nStockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in improved rates of pathological complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery (Pettersson et al. 2015)"
+    "text": "Stockholm III\n840 patients with rectal cancer randomized to preoperative radiation:\n\nShort course (5 x 5Gy) with surgery the following week\nShort course (5 x 5 Gy) with surgery 4- weeks later\nLong-course (25 x 2Gy) with surgery 4-8 weeks later\n\nWith short-course radiation, elayed surgery resulted in higher rates of pCR (11.8% vs 1.7%)\n\n(Pettersson et al. 2015)"
   },
   {
     "objectID": "rectal_adjuvant.htm#stockholm-iii-1",
@@ -12857,5 +12857,12 @@
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Dutch Short-course Trial",
     "text": "Dutch Short-course Trial\n\n1861 patients randomized:\n\npreop RT (5x 500cGy) \\(\\rightarrow\\) Surgery (TME)\nSurgery alone (TME)\n\nReduction in local recurrence\nNo difference in survival\n\n(Kapiteijn et al. 2001)"
+  },
+  {
+    "objectID": "rectal_adjuvant.htm#dutch-preop-short-course-trial",
+    "href": "rectal_adjuvant.htm#dutch-preop-short-course-trial",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Dutch Preop Short-course Trial",
+    "text": "Dutch Preop Short-course Trial\n1861 patients randomized:\n\npreop RT (5x 500cGy) \\(\\rightarrow\\) Surgery (TME)\nSurgery alone (TME)\n\nReduction in local recurrence (2.4% vs 8.2%)\nNo difference in survival\n\n\n(Kapiteijn et al. 2001)"
   }
 ]
