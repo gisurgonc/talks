@@ -115,7 +115,7 @@ Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlik
 -   Metastatic disease $\rightarrow$ [Metastatic]
 -   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
 
-## EUS in Patients with Dysphagia..
+## EUS in Patients with Dysphagia
 
 Memorial Sloan Kettering patients with esophageal cancer:
 
