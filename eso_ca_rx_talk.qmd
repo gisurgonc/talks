@@ -107,7 +107,7 @@ Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
-## Symptomatic Tumors (Dysphagia)
+## Symptomatic Tumors (dysphagia)
 
 Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
 
