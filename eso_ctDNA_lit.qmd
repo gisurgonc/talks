@@ -81,3 +81,11 @@ Simple paradigm made more complicated:
 -   CROSS trial: 30% of patients had cancer recurrence at 2 years
 
     -   If these patients oculd b identified earlier - no surgery or more neoadjuvant
+
+## Detection of residual disease after chemoradiation
+
+Cologne: 80 patients with localy-advanced esophageal cancer were treated by cheoradiation followed by esophagectomy. Pathology of resection specimen was predictive of survival. To predict histopathologic response, EGD had a sensitivityof 605, Rebiopsy 39%, and EUS 7%. [@schneider248]
+
+Reveiw of CT, EUS, PET for assessment of response to chemoRT [@westerterp842] Maximum oint values for sensitivity and specificity were 54% for CT, 86% for EUS, 85% for PET.
+
+Munich: 40 patient with adenocarcinoma GE junction treated with trimodality therapy. Reduction in SUV was -54% in responders vs -15% in non-responders. pCT in 53% of metanbolic responders but in only 5% of non-responders. [@weber3058]
