@@ -14,8 +14,6 @@ Neoadjuvant chemoradiation has been demonstrated to be a useful adjunct to surge
 
 There is clearly heterogeneity of tumor sensitivity to chemoradiation, as borne out by the observation from the CROSS trial of trimodality therapy, in which a pathologic complete response was noted in 23% of patients with adenocarcinoma and 49% of patients with squamous cell carcinoma. At the other end of spectrum, 30% of patients treated with trimodality therapy experienced systemic failure by 2 year after completion of treatment.
 
-The TOPGEAR study was designed to reduce the risk of systemic recurrence by the use of induction chemotherapy prior to chemoradiation. The study did not show a difference in overall survival.
-
 An understanding of the risk of systemic recurrence is crucial for rational decision-making regarding neoadjuvant therapy. Patients at low risk of systemic failure may be best treated with trimodality therapy along the lines of the CROSS trial, while patients at elevated risk of systemic failure may benefit from induction chemotherapy followed by chemoradiation.
 
 For patients who have completed neoadjuvant therapy and had no evidence of metastatic disease on restaging, optimal therapy is to proceed to surgery. The ideal candidates for surgical therapy are those who have persistent local disease but have a low risk of occult metastatic disease.
@@ -84,8 +82,12 @@ Simple paradigm made more complicated:
 
 ## Detection of residual disease after chemoradiation
 
-Cologne: 80 patients with localy-advanced esophageal cancer were treated by cheoradiation followed by esophagectomy. Pathology of resection specimen was predictive of survival. To predict histopathologic response, EGD had a sensitivityof 605, Rebiopsy 39%, and EUS 7%. [@schneider248]
+Cologne: 80 patients with localy-advanced esophageal cancer were treated by cheoradiation followed by esophagectomy. Pathology of resection specimen was predictive of survival. To predict histopathologic response, EGD had a sensitivityof 605, Rebiopsy 39%, and EUS 7%. [@schneider902]
 
 Reveiw of CT, EUS, PET for assessment of response to chemoRT [@westerterp842] Maximum oint values for sensitivity and specificity were 54% for CT, 86% for EUS, 85% for PET.
 
+### PET for detection of residual disease after chemoradiation
+
 Munich: 40 patient with adenocarcinoma GE junction treated with trimodality therapy. Reduction in SUV was -54% in responders vs -15% in non-responders. pCT in 53% of metanbolic responders but in only 5% of non-responders. [@weber3058]
+
+RPMI: 77 patients with adenocarcinoma of the esophagus treated with trimodality therapy. Delta SUV value of \<45% was predictive of residual disease with a positive predictive value of 92% [@kukar555]\]
