@@ -28,7 +28,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-f563837468303362081e247dddd440d0.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -158,7 +178,7 @@
 <p>5-year Overall Survival 82% vs 92%</p>
 
 <aside><div>
-<p><span class="citation" data-cites="joensuu1265">(<a href="" role="doc-biblioref" onclick="return false;"><strong>joensuu1265?</strong></a>)</span></p>
+<p><span class="citation" data-cites="joensuu1265">(<a href="#/references" role="doc-biblioref" onclick="">Joensuu et al. 2012</a>)</span></p>
 </div></aside></section>
 <section id="french-sarcoma-group-imadgist-trial" class="slide level2">
 <h2>French Sarcoma group IMADGIST Trial</h2>
@@ -170,7 +190,7 @@
 <p>Longer disease-free survival with 6 years of imatinib</p>
 
 <aside><div>
-<p><span class="citation" data-cites="blay1157">(<a href="" role="doc-biblioref" onclick="return false;"><strong>blay1157?</strong></a>)</span></p>
+<p><span class="citation" data-cites="blay1157">(<a href="#/references" role="doc-biblioref" onclick="">Blay et al. 2024</a>)</span></p>
 </div></aside></section>
 <section id="scandinavian-sarcoma-group-xxii" class="slide level2">
 <h2>Scandinavian Sarcoma Group XXII</h2>
@@ -196,7 +216,7 @@
 </ul>
 
 <aside><div>
-<p><span class="citation" data-cites="Raute184060">(<a href="" role="doc-biblioref" onclick="return false;"><strong>Raute184060?</strong></a>)</span></p>
+<p><span class="citation" data-cites="Raute184060">(<a href="#/references" role="doc-biblioref" onclick=""><strong>Raute184060?</strong></a>)</span></p>
 </div></aside></section>
 <section id="mutational-testing" class="slide level2">
 <h2>Mutational Testing</h2>
@@ -301,10 +321,18 @@ Any<br>
     
 </section>
 
-<section id="references" class="title-slide slide level1 center">
+<section id="references" class="title-slide slide level1 smaller scrollable">
 <h1>References</h1>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-blay1157" class="csl-entry" role="listitem">
+Blay, J.-Y., C. Schiffler, O. Bouché, M. Brahmi, F. Duffaud, M. Toulmonde, B. Landi, et al. 2024. <span>“A Randomized Study of 6 Versus 3 Years of Adjuvant Imatinib in Patients with Localized <span>GIST</span> at High Risk of Relapse.”</span> <em>Annals of Oncology: Official Journal of the European Society for Medical Oncology</em> 35 (12): 1157–68. <a href="https://doi.org/10.1016/j.annonc.2024.08.2343">https://doi.org/10.1016/j.annonc.2024.08.2343</a>.
+</div>
+<div id="ref-joensuu1265" class="csl-entry" role="listitem">
+Joensuu, Heikki, Mikael Eriksson, Kirsten Sundby Hall, Jörg T. Hartmann, Daniel Pink, Jochen Schütte, Giuliano Ramadori, et al. 2012. <span>“One Vs Three Years of Adjuvant Imatinib for Operable Gastrointestinal Stromal Tumor: A Randomized Trial.”</span> <em>JAMA</em> 307 (12): 1265–72. <a href="https://doi.org/10.1001/jama.2012.347">https://doi.org/10.1001/jama.2012.347</a>.
+</div>
+</div>
 </section>
 
 
