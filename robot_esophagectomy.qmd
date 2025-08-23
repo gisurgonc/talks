@@ -190,10 +190,18 @@ OGAA GI Audit [@oesophago-gastricanastomosisstudygrouponbehalfofthewestmidlandsr
 
 OGAA Protocol [@evansdoz007]
 
-Clinical Trials
+## Clinical Trials
 
 ROBOT-I Trial
 
 ROBOT-II Trial
+
+## Pylorus
+
+Botox - UCSD [@fuchs433]. Robotic total esophageactomy: 27 no Botox vs 14 Botox. Intraoperative endoscopic Botox 200U in 10cc of saline.  No patients in botox group required endoscopic therapy.  One patient in no botox group needed pyloroplasty 3 months later.
+
+Botox Moffitt: [@saeed6046] 238 Botox 108 pyloroplasty 129 pyloromyotomy. Pyloric surgery has less delayed gastric emptying (16% vs 9.3%).  Less delayed gastric emptying with pyloroplasty (2%) vs 16% with either Botox or pyloromyotomy.
+
+PROPPER trial will randomize between preop ballon dilation (performed 1 day before surgery) vs sham procedure [@mann221]
 
 {{< qrcode https://jmbuhr.de >}}

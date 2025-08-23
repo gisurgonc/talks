@@ -99,7 +99,7 @@ Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 -   EUS has a 25% rate of understaging uT2 N0 tumors
 -   Understaged patients who undergo primary surgery would need chemo or chemoRT postop
 
-## Small Tumors (minimal dysphagia)
+## Asymptomatic Tumors (minimal dysphagia) 
 
 -   EUS to distinguish T2 from T3 tumors
 -   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
@@ -107,7 +107,7 @@ Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
-## Symptomatic Tumors (Dysphagia)
+## Symptomatic Tumors (dysphagia)
 
 Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
 
