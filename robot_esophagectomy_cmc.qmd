@@ -378,15 +378,17 @@ POD #5 Epidural catheter removed if not done prior. Foley catheter removed once 
 
 ## Resources
 
+
 Upper GI International Robotic Association
 
 [Robotic Procedure Guide Ivor Lewis Esophagectomy](https://ugira.org/wp-content/uploads/2019/09/Robotic-Procedure-Guide-Ivor-Lewis-Esophagectomy.pdf)
 
 Atlas of Robotic Upper GI Surgery Ch 14 Peter Grimminger
 
+
 #### Sarkaria
 
-RAMIE Technique paper [@okuysanya116]
+RAMIE Technique paper [@oksuanya116]
 
 [@witek6195]
 
@@ -402,7 +404,6 @@ Bedside Assist [@vanderhosrtdoaa071]
 
 Circular stapler and hand-sewn [@degrootdoaa079]
 
-No difference between 25mm and 28mm stapled anastomosis [@tagkalos2242]
 
 #### Mainz
 
