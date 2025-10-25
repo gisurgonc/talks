@@ -46,6 +46,8 @@ title: "GI Surgical Oncology"
 
 [Robot Esophagectomy - CMC](robot_esophagectomy_cmc.html)
 
+[Robot/VATS Esophagectomy](RAMIE_VATS_talk.html)
+
 [Anastomostic Techniques](eso_anastomosis.html)
 
 [Robot Esophagectomy](robot_esophagectomy.html)
