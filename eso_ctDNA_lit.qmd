@@ -1,5 +1,4 @@
 ---
-GIt ---
 title: "ctDNA in Esophageal Cancer"
 editor: visual
 bibliography: zotero.bib
