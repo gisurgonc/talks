@@ -28,13 +28,13 @@ Abdominal Phase
 
 -   Mobilize stomach
 -   Divide Left Gastric
-- Celiac lymph node dissection
+-   Celiac lymph node dissection
 -   Create conduit
 -   Transpose conduit $\rightarrow$ chest
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_tumor.png)
+![](images/GEJ_tumor.png)
 :::
 :::::
 
@@ -52,11 +52,11 @@ Abdominal Phase
 Chest Phase
 
 -   Extract specimen through mini-thoracotomy
-- Construct anastomosis
+-   Construct anastomosis
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_2Stage.png)
+![](images/GEJ_2Stage.png)
 :::
 :::::
 
@@ -70,7 +70,7 @@ Chest Phase
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png)
+![](images/GEJ_intracorporeal.png)
 :::
 :::::
 
@@ -78,10 +78,10 @@ Chest Phase
 
 Allows simultaneous access to abdomen and chest in one prep
 
-- Abdomen I: Mobilize stomach$\rightarrow$ Dissect hiatus
-- Chest I: Dissect esophagus $\rightarrow$ Divide esophagus 
-- Abdomen II: Extract specimen $\rightarrow$ Construct conduit $\rightarrow$ Transpose conduit
-- Chest II: Anastomosis (circular stapler)
+-   Abdomen I: Mobilize stomach$\rightarrow$ Dissect hiatus
+-   Chest I: Dissect esophagus $\rightarrow$ Divide esophagus
+-   Abdomen II: Extract specimen $\rightarrow$ Construct conduit $\rightarrow$ Transpose conduit
+-   Chest II: Anastomosis (circular stapler)
 
 Extracorporeal construction of conduit:
 
@@ -90,11 +90,11 @@ Extracorporeal construction of conduit:
 
 ::::: columns
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/11605_2018_4063_Fig1_HTML.png)
+![](images/11605_2018_4063_Fig1_HTML.png)
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/11605_2018_4063_Fig2_HTML.png)
+![](images/11605_2018_4063_Fig2_HTML.png)
 :::
 :::::
 
@@ -114,7 +114,7 @@ Extracorporeal construction of conduit:
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_thoracic_division.png)
+![](images/GEJ_thoracic_division.png)
 :::
 :::::
 
@@ -122,14 +122,14 @@ Extracorporeal construction of conduit:
 
 ::::: columns
 ::: {.column width="50%"}
-- Esophagus extracted
-- Extracorporeal construction of conduit
-- Pyloromyotomy
-- Conduit constructed
+-   Esophagus extracted
+-   Extracorporeal construction of conduit
+-   Pyloromyotomy
+-   Conduit constructed
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal2.png)
+![](images/GEJ_extracorporeal2.png)
 :::
 :::::
 
@@ -137,16 +137,16 @@ Extracorporeal construction of conduit:
 
 ::::: columns
 ::: {.column width="50%"}
-- Esophagus extracted
-- Extracorporeal construction of conduit
-- Pyloromyotomy
-- Conduit constructed
+-   Esophagus extracted
+-   Extracorporeal construction of conduit
+-   Pyloromyotomy
+-   Conduit constructed
     -   Place stomach on stretch
     -   Palpate GE junction/lesser curvature
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal3.png)
+![](images/GEJ_extracorporeal3.png)
 :::
 :::::
 
@@ -154,14 +154,14 @@ Extracorporeal construction of conduit:
 
 ::::: columns
 ::: {.column width="50%"}
-- Extracorporeal construction of conduit
-- Pyloromyotomy
-- Conduit constructed
-- Conduit transposed into chest (hand-assisted)
+-   Extracorporeal construction of conduit
+-   Pyloromyotomy
+-   Conduit constructed
+-   Conduit transposed into chest (hand-assisted)
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal4.png)
+![](images/GEJ_extracorporeal4.png)
 :::
 :::::
 
@@ -173,15 +173,15 @@ Anastomosis completed - 25mm Circular stapler
 :::
 
 ::: {.column width="50%"}
-![](https://deidt7p41jzcy.cloudfront.net/GEJ_2Stage.png)
+![](images/GEJ_2Stage.png)
 :::
 :::::
 
 ## Robotic Esophagectomy Training
 
-- Society for Surgical Oncology Course (Hawkins)
-- Case observation at UT Southwestern - Netu Sarkaria (w/Mike Roach)
-- ORSI Cadaver Course - Richard van Hillesgberger (w/Mike Roach)
+-   Society for Surgical Oncology Course (Hawkins)
+-   Case observation at UT Southwestern - Netu Sarkaria (w/Mike Roach)
+-   ORSI Cadaver Course - Richard van Hillesgberger (w/Mike Roach)
 
 ## Hybrid Robotic/VATS Esophagectomy
 
@@ -192,38 +192,49 @@ Abdominal Phase Supine - Robotic
 -   Conduit constructed with linear stapler
 -   Conduit sutured to GE junction
 
+## Conduit transposed to Chest
+
+::::: columns
+::: {.column width="50%"}
+Conduit Sutured to GE junction
+:::
+
+::: {.column width="50%"}
+![](images/conduit_sutured.png)
+:::
+:::::
+
 Chest Phase Semi-lateral - VATS
 
-- Mobilize and divide esophagus
-- Transpose conduit into chest (traction)
-- Extract specimen between ribs
-- Circular stapled anastomosis (OrVil 25mm)
+-   Mobilize and divide esophagus
+-   Transpose conduit into chest (traction)
+-   Extract specimen between ribs
+-   Circular stapled anastomosis (OrVil 25mm)
 
 ## Robotic Esophagectomy Experience 2021-2024
 
-- XX cases May
-  - Transthoracic (Ivor Lewis): X
-  - Tri-incisional (McKeown): Y
-    - 1 leak + stricture + RLN palsy
-    - 1 RLN palsy
+-   XX cases May
+    -   Transthoracic (Ivor Lewis): X
+    -   Tri-incisional (McKeown): Y
+        -   1 leak + stricture + RLN palsy
+        -   1 RLN palsy
 
 ## Hybrid Robotic/VATS Experience 2025
 
-- 10 cases May - October (5 planned Nov-Jan)
-  - Surgical Oncology Block (Friday Room 45): 4
-  - Open Robot Time: 6
+-   10 cases May - October (5 planned Nov-Jan)
+    -   Surgical Oncology Block (Friday Room 45): 4
+    -   Open Robot Time: 6
 
-  
 ## Hybrid Robotic/VATS Experience
 
 10 cases
 
-- 1 leakpostop day #9 (discussed at M&M)
-- Delayed gastric emptying in 3
-  - Treated with postop pyloric dilation and Botox
-  - Somewhat longer length of stay
-- Adequate lymph node harvest
-- Increased operative time (but improving)
+-   1 leakpostop day #9 (discussed at M&M)
+-   Delayed gastric emptying in 3
+    -   Treated with postop pyloric dilation and Botox
+    -   Somewhat longer length of stay
+-   Adequate lymph node harvest
+-   Increased operative time (but improving)
 
 ## Hybrid Robotic/VATS Problems
 
@@ -259,12 +270,12 @@ Robust clinical research platform
 
 ## January 2029
 
-- Outpatient clinical evaluation and care
-- Assist in OR 3 days/week
-- Clinical research
-- 60% full-time equivalent
-- No night/weekend call
-- No primary surgical responsibility
+-   Outpatient clinical evaluation and care
+-   Assist in OR 3 days/week
+-   Clinical research
+-   60% full-time equivalent
+-   No night/weekend call
+-   No primary surgical responsibility
 
 ## Clinical Research
 
@@ -274,9 +285,9 @@ Vascular evaluation of conduit is critical to understanding and preventing leaks
 
 Need a technology for evaluating conduit perfusion
 
-- Reproduceable by different surgical teams (across Advocate)
-- Quantitation of perfusion
-- Mapping of perfusion (relative to final location of anastomosis)
+-   Reproducible by different surgical teams (across Advocate)
+-   Quantitation of perfusion
+-   Mapping of perfusion (relative to final location of anastomosis)
 
 Conduit perfusion will serve as an intermediate endpoint in research to prevent leaks
 
@@ -284,19 +295,40 @@ Conduit perfusion will serve as an intermediate endpoint in research to prevent 
 
 Consults in 2025:
 
-- Esophageal cancer:
-  - Resection:
-  
-- Gastric cancer:
-  - Resection:
-  
+-   Esophageal cancer:
+    -   Resection:
+-   Gastric cancer:
+    -   Resection:
+
 ## Collaboration with Winston-Salem
 
-- Machine-learning evaluation of PET in gastric cancer
-- Body composition analysis in esophagectomy
+-   Machine-learning evaluation of PET in gastric cancer
+-   Body composition analysis in esophagectomy
 
 ## Body Composition and Mortality after Esophagectomy
 
+![](images/Eso_BC/scatterplot1221_cmc.png)
+
 ## Body Composition and Surgical Decision-making
 
+Retrospective Review of Adenocarcinoma of the Esophagus
 
+Patients stratified by risk of perioperative mortality
+
+-   Age
+-   Body Composition
+
+Two Risk Cohorts:
+
+-   High Risk (Highest risk quartile)
+-   Low Risk (Bottom 3 quartiles)
+
+## Low Risk of Perioperative Mortality 
+
+![](images/Eso_BC/esoaca_q234_1221CMC_gg.png) 
+
+## High Risk of Perioperative Mortality
+
+![](images/Eso_BC/esoaca_q14_1221CMC_gg.png) 
+
+## Surgical Decision-making in Esophageal Adenocarcinoma
