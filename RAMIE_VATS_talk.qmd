@@ -213,23 +213,22 @@ Chest Phase Semi-lateral - VATS
 
 ## Robotic Esophagectomy Experience 2021-2024
 
--   XX cases May
-    -   Transthoracic (Ivor Lewis): X
-    -   Tri-incisional (McKeown): Y
+-   5 cases 2018 co-surgery with Jeff Hagen/Mike Roach
+    -   Tri-incisional (McKeown): 
         -   1 leak + stricture + RLN palsy
         -   1 RLN palsy
 
 ## Hybrid Robotic/VATS Experience 2025
 
--   10 cases May - October (5 planned Nov-Jan)
+-   14 cases May - October (5 planned Nov-Jan)
     -   Surgical Oncology Block (Friday Room 45): 4
-    -   Open Robot Time: 6
+    -   Open Robot Time: 10
 
 ## Hybrid Robotic/VATS Experience
 
-10 cases
+14 cases
 
--   1 leakpostop day #9 (discussed at M&M)
+-   Anatomotic leaks in 2 (14%)
 -   Delayed gastric emptying in 3
     -   Treated with postop pyloric dilation and Botox
     -   Somewhat longer length of stay
@@ -271,11 +270,10 @@ Robust clinical research platform
 ## January 2029
 
 -   Outpatient clinical evaluation and care
--   Assist in OR 3 days/week
--   Clinical research
--   60% full-time equivalent
+-   Assist in OR 1-3 days/week
 -   No night/weekend call
 -   No primary surgical responsibility
+-   Option for some remote work from Durham
 
 ## Clinical Research
 
