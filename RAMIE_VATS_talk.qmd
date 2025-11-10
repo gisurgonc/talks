@@ -289,15 +289,6 @@ Need a technology for evaluating conduit perfusion
 
 Conduit perfusion will serve as an intermediate endpoint in research to prevent leaks
 
-## Clinical Volume
-
-Consults in 2025:
-
--   Esophageal cancer:
-    -   Resection:
--   Gastric cancer:
-    -   Resection:
-
 ## Collaboration with Winston-Salem
 
 -   Machine-learning evaluation of PET in gastric cancer
@@ -328,5 +319,3 @@ Two Risk Cohorts:
 ## High Risk of Perioperative Mortality
 
 ![](images/Eso_BC/esoaca_q14_1221CMC_gg.png) 
-
-## Surgical Decision-making in Esophageal Adenocarcinoma
