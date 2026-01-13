@@ -297,7 +297,7 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 ## Neo-Aegis Tral CROSS vs MAGIC/FLOT
 
--   Adenocarcinoma T2-3 N0-3 M0 Tumor length \<8cm
+-   **Adenocarcinoma** T2-3 N0-3 M0 Tumor length \<8cm
 
 -   ChemoRT arm: carboplatin + paclitaxel + 4140cGy
 
@@ -315,7 +315,7 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 ## EsoPEC Trial CROSS vs FLOT
 
--   Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men
+-   **Adenocarcinoma esophagus** - T1 N+ or T2-4a M0. Median age =63. 89% men
 
 -   Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
 

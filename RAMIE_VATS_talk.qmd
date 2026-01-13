@@ -214,7 +214,7 @@ Chest Phase Semi-lateral - VATS
 ## Robotic Esophagectomy Experience 2021-2024
 
 -   5 cases 2018 co-surgery with Jeff Hagen/Mike Roach
-    -   Tri-incisional (McKeown): 
+    -   Tri-incisional (McKeown):
         -   1 leak + stricture + RLN palsy
         -   1 RLN palsy
 
@@ -312,10 +312,10 @@ Two Risk Cohorts:
 -   High Risk (Highest risk quartile)
 -   Low Risk (Bottom 3 quartiles)
 
-## Low Risk of Perioperative Mortality 
+## Low Risk of Perioperative Mortality
 
-![](images/Eso_BC/esoaca_q234_1221CMC_gg.png) 
+![](images/Eso_BC/esoaca_q234_1221CMC_gg.png)
 
 ## High Risk of Perioperative Mortality
 
-![](images/Eso_BC/esoaca_q14_1221CMC_gg.png) 
+![](images/Eso_BC/esoaca_q14_1221CMC_gg.png)
