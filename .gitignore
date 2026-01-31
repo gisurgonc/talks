@@ -9,3 +9,5 @@
 /docs/
 /site_libs/
 /var/
+
+**/*.quarto_ipynb
