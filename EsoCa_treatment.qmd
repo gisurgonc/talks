@@ -41,7 +41,7 @@ bibliography: zotero.bib
 
 :::: {.columns align="center"}
 ::: {.column width="50%"}
-![T1 Tumor](images/t1a_nolabel.png){fig-align="center"}
+![T1 Tumor](images/t1a_nolabel.pngd){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
