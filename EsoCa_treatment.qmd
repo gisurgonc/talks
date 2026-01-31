@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer Treatment"
+title: "CMC Esophageal Cancer Program"
 format: 
   revealjs:
     slide-number: c/t
@@ -26,13 +26,11 @@ bibliography: zotero.bib
 |----------------------|:----------:|:---------------------------|
 | [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
 | [Localized Tumors]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]   | T3 or N^+^ | Chemo$\pm$ RT → Surgery    |
+| [Locally advanced]   | T3 or N^+^ | Chemo$\pm$ RT → Surgery    |
 | [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
 
 
-## Superficial Tumors
-
-Workup of nodular Barretts esophagus:
+## Superficial Tumor Workup
 
 -   Endoscopic Ultrasound
 -   Endoscopic Mucosal Resection
@@ -43,13 +41,13 @@ Workup of nodular Barretts esophagus:
 
 :::: {.columns align="center"}
 ::: {.column width="50%"}
-![](images/t1a_nolabel){fig-align="center"}
+![T1 Tumor](images/t1a_nolabel){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
 
 
-![](images/t1a_lift2.png){fig-align="center"}
+![Saline Lift](images/t1a_lift2.png){fig-align="center"}
 :::
 ::::
 
@@ -58,7 +56,7 @@ Workup of nodular Barretts esophagus:
 
 :::: {.columns align="center"}
 ::: {.column width="50%"}
-![](images/tumor_EMR_snare.png){fig-align="center"}
+![Snare Excision](images/tumor_EMR_snare.png){fig-align="center"}
 :::
 
 ::: {.column width="50%"}
@@ -74,8 +72,9 @@ Workup of nodular Barretts esophagus:
 ::: {.column width="50%"}
 - Clear Margins
 - Size <2cm
-- No Lymphovascular
+- No Lymphovascular/Perineural Invasion
 - Well-differentiated
+
 
 - Overall good prognosis
 - EGD in 6 months for surveillance
@@ -93,8 +92,9 @@ Workup of nodular Barretts esophagus:
 ::: {.column width="50%"}
 - Involved Margins
 - Size >2cm
-- Lymphovascular invasion
+- Lymphovascular/Perineural Invasion
 - Poorly differentiated
+
 
 - High risk for recurrence
 - EGD in 3 months for surveillance
@@ -110,9 +110,11 @@ Workup of nodular Barretts esophagus:
 
 :::: {.columns align="center"}
 ::: {.column width="50%"}
-Patients with positive deep margin on EMR are likely understaged.
+Positive deep margin on EMR: likely understaged.
 
-Strong consideration for surgery due to risk of lymph node metastasis
+High risk of lymph node metastasis
+
+Recommendation for Surgery
 :::
 
 ::: {.column width="50%"}
@@ -121,28 +123,30 @@ Strong consideration for surgery due to risk of lymph node metastasis
 ::::
 
 
-## Localized Tumors
+## Localized Esophageal Tumors
 
 Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 
 -   EUS has a 25% rate of understaging uT2 N0 tumors
--   Understaged patients who undergo primary surgery need chemo or chemoRT postop
+-   Understaged patients treated with surgery need chemo or chemoRT postop
 
-## Asymptomatic Tumors (minimal dysphagia)
+## Asymptomatic Esophageal Tumors (minimal dysphagia)
 
 -   EUS to distinguish T2 from T3 tumors
--   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
--   If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
+  -   uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
+  -   uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
-## Symptomatic Tumors (dysphagia)
+## Symptomatic Esophageal Tumors (dysphagia)
 
-Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
+Patients with: 
 
--   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
--   Metastatic disease $\rightarrow$ [Metastatic]
--   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
+- Dysphagia to solids
+- Weight loss
+- Tumor length \>3cm are unlikely to have T1-2 tumors 
+
+$\Rightarrow$ Initial evaluation with PET
 
 ## EUS in Patients with Dysphagia
 
@@ -151,7 +155,7 @@ Memorial Sloan Kettering patients with esophageal cancer:
 -   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
 -   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
 
-EUS can be omitted for patients with dysphagia, but is useful in patients *without* dysphagia.
+EUS can be omitted for patients with dysphagia, but is useful in those *without* dysphagia.
 
 ::: aside
 [@ripley226]
@@ -163,11 +167,15 @@ EUS can be omitted for patients with dysphagia, but is useful in patients *witho
 
 :::: {.columns align="center"}
 ::: {.column width="50%"}
-CROSS Regimen
+Standard Treatment: ChemoRT (CROSS Regimen)
 
-Weekly Carboplatin + Paclitaxel
+- Weekly Carboplatin + Paclitaxel
+- 5040 cGy radiation in 28 fractions
 
-5040 cGy radiation in 28 fractions
+
+CROSS trial had 49% pCR for squamous cell carcinoma
+
+$\Rightarrow$ Majority of patients never need surgery
 :::
 
 ::: {.column width="50%"}
@@ -175,31 +183,26 @@ Weekly Carboplatin + Paclitaxel
 :::
 ::::
 
-## Restaging after ChemoRT - SCCa
-
-PET at 6 weeks
-
-EGD at 6 weeks
-
-CROSS trial had 49% pCR for squamous cell carcinoma
-
-$\doublerightarrow$ Majority of patients never need surgery
 
 ## Restaging after ChemoRT - SCCa
 
 ![Restaging after ChemoRT](images/CRT_surgical_candidate.jpg){fig-align="left"}
+
 ## Immediate Surgery Strategy
 
-![ChemoRT $\rightarrow\ Surgery](images/CRT_immediate_surgery.jpg){fig-align="left"}
+![ChemoRT  $\rightarrow$  Immediate Surgery](images/CRT_immediate_surgery.jpg){fig-align="left"}
 
-Difficult to justify immediate surgery for squamous cell carcinoma with 50% pCR rate
+Difficult to justify immediate surgery for squamous cell with 50% pCR rate
+
 
 ## Restaging after ChemoRT - SCCa
 
 ![Restaging after ChemoRT](images/CRT_restaging_EGD.jpg){fig-align="left"}
+
 ## Restaging after ChemoRT - SCCa
 
 ![ChemoRT $\rightarrow$ EGD Positive](images/CRT_restaging_EGD_pos.jpg){fig-align="left"}
+
 ## Restaging after ChemoRT - SCCa
 
 ![ChemoRT $\rightarrow$ EGD Negative](images/CRT_restaging_EGD_neg.jpg){fig-align="left"}
@@ -207,27 +210,51 @@ Difficult to justify immediate surgery for squamous cell carcinoma with 50% pCR 
 ## Active Surveillance for SCCa Esophagus
 
 ![ChemoRT $\rightarrow$ EGD Negative](images/CRT_AS_outcome_SCCA.jpg){fig-align="left"}
-## SANO trial
 
-![SANO Cinital Trial Schema](images/CRT_AS_outcome_SCCA.jpg){fig-align="left"}
+
+
 
 ## SANO Surveillance Schema
 
-![SANO Cinital Trial Schema](images/SANO_schema_notext.jpg){fig-align="left"}
+![SANO Clinical Trial Schema](images/SANO_schema_notext.jpg){fig-align="left"}
+
+::: aside
+[@vanderwilkS1470]
+:::
+
+
 ## SANO Surveillance Schema
 
-![SANO Cinital Trial Schema](images/SANO_schema_text.jpg){fig-align="left"}
+![SANO Clinical Trial Schema](images/SANO_schema_text.jpg){fig-align="left"}
+
+::: aside
+[@vanderwilkS1470]
+:::
+
 
 ## Adenocarcinoma
 
-CROSS data would suggest benefit from preoperative ChemoRT is less dramativ with adenocarcinoma
+CROSS data would suggest benefit from preoperative ChemoRT is less dramatic with adenocarcinoma
+
+
+
+
+
+:::: {.columns align="center"}
+::: {.column width="50%"}
+CROSS data: benefit from preoperative ChemoRT is less dramatic with adenocarcinoma
+:::
+
+::: {.column width="50%"}
+![Surgery vs ChemoRT$\rightarrow$ Surgery by Histology](images/shapiro_1090_fig2b.png){fig-align="center"}
+:::
+::::
+
 
 ## CROSS Treatment Failures
 
-![Relapse-free Survival](images/shapiro_1090_fig2b.png){fig-align="left"}
 
-##
-![ChemoRT $\rightarrow$ EGD](images/eyck_modified.png){fig-align="left"}
+![Primary benefit of chemoRT is reducing locoregional and mixed failuressi](images/eyck_modified.png){fig-align="left"}
 
 ::: aside
 [@shapiro1090]
@@ -236,10 +263,11 @@ CROSS data would suggest benefit from preoperative ChemoRT is less dramativ with
 
 
 
-## ESOPEC: FLOT Perioperative Chemo vs CROSS ChemoRT
+## ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)
 
 
 ![ChemoRT $\rightarrow$ EGD](images/ESOPEC_survival_modified.png){fig-align="left"}
+
 ::: aside
 [@hoeppner323]
 :::
@@ -251,10 +279,9 @@ CROSS data would suggest benefit from preoperative ChemoRT is less dramativ with
 **Chemo + Radiation**
 
 -   Better tolerated
--   Candidates for adjuvant immunotx
 -   Port usually placed
 -   More dysphagia (last 2 weeks of Tx)
--   Dysphagia resolved 2-3 weeks later
+-   Dysphagia resolves 2-3 weeks later
 -   More likely to need feeding tube
 :::
 
@@ -269,50 +296,78 @@ CROSS data would suggest benefit from preoperative ChemoRT is less dramativ with
 :::
 :::::
 
-## Esophagectomy at CMC
 
-Minimally-invasive approach
-500+ cases since 2007
-Laparoscopic/VATS $\rightarrow$ Robotic
-8% anastomotic leak
-5.5% 90-day mortality
+
+## Active Surveillance for Adenocarcinoma after ChemoRT
+
+![ChemoRT $\rightarrow$ EGD Negative](images/CRT_AS_outcome_ACA.jpg){fig-align="left"}
+
+
+
+
+## Esophagectomy at Carolinas Medical Center
+
+- Minimally-invasive approach
+- 500+ cases since 2007 (JCS)
+- Laparoscopic/VATS $\rightarrow$ Robotic
+- Anastomotic leak 8%
+- 90-day mortality 5.5%
 
 ## Frailty Assessment
 
-![Grip Strength $\rightarrow$ CT Body Composition](images/CMC_slides/HGS_CT.png){fig-align="left"}
+![Grip Strength $\rightarrow$ CT Body Composition for evaluation of frailty](images/CMC_slides/HGS_CT.png){fig-align="left"}
+
+::: aside
+[@colcord3040]
+:::
 
 
 ## Body Composition and Age Predict Operative Mortality
 
-![90-day mortality =$f(age + body composition)$](images/CMC_slides/BC_90Day_XY.png){fig-align="left"}
+![90-day mortality after esophagectomy=$f$(age + body composition)](images/CMC_slides/BC_90Day_XY.png){fig-align="left"}
 
+::: aside
+[@sanderfera]
+:::
 
 ## Body Composition and Age Predict Operative Mortality
 
-![90-day mortality =$f(age + body composition)$](images/CMC_slides/BC_90Day_Matrix.png){fig-align="left"}
+![90-day mortality esophagectomy =$f$(age + body composition)](images/CMC_slides/BC_90Day_Matrix.png){fig-align="left"}
 
 
 
-## Can Body Composition Predict Benefit of Surgery
+## Can Body Composition Predict Benefit of Surgery?
 
-316 esophageal cancer treated with chemo + radiation​
+316 esophageal cancer treated initially with chemo + radiation​
 
 - Surgery in 254
 - No surgery in 62
 
 Cohort stratified by age and body composition
-- Low Risk (top 75%)
-- High Risk (bottom 25%)
+
+- Low Risk (Lower risk 75%)
+- High Risk (Higher risk 25%)
 
 ## Survival Benefit of Surgery - Normal Muscle
 
 ![90-day mortality =$f(age + body composition)$](images/CMC_slides/LowRisk_label.png){fig-align="left"}
 
+::: aside
+[@sanderferb]
+:::
+
+
 ## Survival Benefit of Surgery - Low Muscle
 
 ![90-day mortality =$f(age + body composition)$](images/CMC_slides/HighRisk_label.png){fig-align="left"}
 
-##  {background-color="#b22222"}
+
+::: aside
+[@sanderferb]
+:::
+
+
+##  {background-color="#b2b2b2"}
 
 ## Locally Advanced
 
