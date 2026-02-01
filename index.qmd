@@ -24,6 +24,11 @@ title: "GI Surgical Oncology"
 
 [Cancer Genetics](genetics_slides.htm)
 
+
+# LCI Esophageal Cancer Program
+
+[LCI Esophageal Cancer Treatment](EsoCa_treatment.qmd)
+
 # Acute Care Surgery of the GI Cancer Patient
 
 [Overview](acs_gicancer_lit.qmd)
@@ -32,8 +37,6 @@ title: "GI Surgical Oncology"
 # Foregut Cancer Working Group
 
 [Esophagectomy Early Recovery Literature Review](eso_eras.html)
-
-
 
 [Robotic Gastrectomy](robot_gastrectomy.html)
 
