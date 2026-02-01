@@ -1,5 +1,6 @@
 ---
-title: "CMC Esophageal Cancer Program"
+title: "Esophageal Cancer Program"
+subtitle: "Levine Cancer Institute"
 format: 
   revealjs:
     slide-number: c/t
