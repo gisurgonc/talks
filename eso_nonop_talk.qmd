@@ -1,0 +1,295 @@
+---
+title: "Selective Surgery for Locally-advanced Esophageal Cancer"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    #css: ["theme/theme.css"]
+    theme: default
+      
+    echo: false
+editor: visual
+bibliography: zotero.bib
+---
+
+## CROSS: Locally-advanced Esophageal Cancer
+
+-   368 esophageal cancer patients randomized:
+    -   Surgery alone
+    -   Chemo+RT $\rightarrow$ Surgery
+-   75% adenocarcinoma
+-   age $\tilde{x}$=60
+-   longer survival with Chemo+RT $\rightarrow$ Surgery
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS: Pathologic Complete Response
+
+Adenocarcinoma: pCR in 23%
+
+Squamous cell carcinoma: pCR in 49%
+
+$\Rightarrow$ Can some patients be spared surgery?
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS
+
+The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p \< 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p \< 0.001).
+
+## CROSS - Overall Survival
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Survival by Histology
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Adenocarcinooma
+
+Median survival 43mo vs 27mo
+
+Pathologic complete response in 23%
+
+## CROSS - Squamous cell carcinoma
+
+Median survival 82mo vs 21mo
+
+Pathologic complete response in 49%
+
+::: aside
+[@shapiro1090]
+:::
+
+## Locally-advanced Esophageal Cancer
+
+::::: columns
+::: {.column width="50%"}
+Optimal Therapy for locally-advanced esophageal cancer:
+
+-   Neoadjuvant Therapy
+-   Chemoradiation (CROSS)
+-   Chemtherapy (FLOT)
+-   Esophagectomy
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/Eso_Resection1_ai.png)
+:::
+:::::
+
+## CROSS Trial Schema
+
+```{mermaid}
+flowchart LR
+A[Locally-advanced EsoCa] -->B(ChemoRT)
+
+B--> C[Restaging]
+
+C -->D[Metastatic Disease]
+
+D --> E[Systemic Therapy]
+
+
+
+C-->I[Surgery]
+
+
+
+
+
+
+
+```
+
+## Real-World CROSS Schema
+
+```{mermaid}
+flowchart LR
+A[Locally-advanced EsoCa] -->B(ChemoRT)
+
+B--> C[Restaging]
+
+C -->D[Metastatic Disease]
+
+D --> E[Systemic Therapy]
+
+C -->F[Fitness Evaluation]
+
+F--> G[High Risk]
+
+F-->H[Low Risk]
+
+H-->I[Surgery]
+
+G--> E
+
+```
+
+## Active Surveillance
+
+```{mermaid}
+flowchart LR
+A[Locally-advanced EsoCa] -->B(ChemoRT)
+
+B--> C[Clinical Response Evaluation]
+
+C -->D[Metastatic Disease]
+
+C -->K[Persistent Disease]
+
+C -->L[No Detectable Disease]
+
+L-->N[Active Surveillance]
+
+N --> O[Isolated Local Recurrence]
+
+O --> M
+
+N --> P[Metastatic Disease]
+
+P --> E
+
+D --> E[Systemic Therapy]
+
+K -->M[Fitness Evaluation]
+
+M--> G[High Risk]
+
+M-->H[Low Risk]
+
+H-->I[Surgery]
+
+G--> E
+
+```
+
+## SANO (Surgery As Necessary Only)
+
+776 Patient with esophageal cancer treated with chemoRT
+
+Clinical response evaluation after chemoRT
+
+274 with Complete Clinical Response (35%) randomized:
+
+-   156 Active Surveillance ($\rightarrow$ Surgery for local recurrence)
+-   118 Surgery
+
+::: aside
+[@vanderwilkS1470]
+:::
+
+## SANO Clinical Respone Evaluation
+
+EGD at 6 weeks with bite-on-bite biopsies
+
+Second evaluation at 12 weeks if first biopsies negative:
+
+-   PET
+-   EUS-FNA of suspected lymph nodes
+-   EGD with bite-on-bite biopsies
+
+## Clinical Response Evaluation
+
+761 First Clinical Response Evaluation (EGD)
+
+-   232 Isolated local disease documented by biopsy
+-   40 Persistent stricture
+-   2 metastatic disease
+
+## Clinical Response Evaluation
+
+761 First Clinical Response Evaluation (EGD)
+
+-   232 Isolated local disease documented by biopsy
+-   40 Persistent stricture
+-   2 metastatic disease
+
+420 Second Clinical Response Evaluation (EGD+PET+FNA)
+
+-   115 Isolated local disease documented by biopsy
+-   19 Persistent stricture
+-   40 metastatic disease
+
+$\Rightarrow$ 274 with clinical complete response (cCR)
+
+## Clinical Response Evaluation
+
+761 First Clinical Response Evaluation (EGD)
+
+-   232 Isolated local disease
+-   40 Persistent stricture
+-   2 metastatic disease
+
+420 Second Clinical Response Evaluation (EGD+PET+FNA)
+
+-   **115 Isolated local disease** (missed at first EGD)
+-   19 Persistent stricture
+-   40 metastatic disease
+
+$\Rightarrow$ 115 Patient had local disease missed at first EGD
+
+## Persistent disease
+
+Surgery performed with two weeks in patients without metastatic disease and:
+
+-   Positive EGD biopsies
+-   High-grade dysplasia on EGD
+-   Stricture which prohibited passage of scope
+
+## Subsequent Evaluation
+
+-   Every 3 months in first year
+-   Every 4 months in Year 2
+-   Every 6 months in Year 3
+-   Annually Years 4 and 5
+
+## Active Surveillance Outcomes (n=198)
+
+33 (17%) developed metastatic disease - 22 detected at 6 months (third clinical response evaluation)
+
+69 (35%) had persistent complete clinical response
+
+96 (48%) had isolated local recurrence
+
+## Results
+
+![](images/sano_2a.png) No difference in overall survival at median followup of 38 months Median survival 34 months for active surveillance and 50 months for surgery
+
+## SANO - Key Points
+
+Active Surveillance was non-inferior using predefined criteria
+
+-   Non-inferior was defined as survival difference \<15%
+
+Disease-free and Overall survival was numerically better with immediate surgery
+
+Survival curves appear to cross at 2 years favoring immediate surgery
+
+Outcomes were not stratified by histology
+
+## Proposed Pathway Changes
+
+Active Surveillance is a reasonable option in informed patients
+
+Clinical response evaluation should consist of:
+
+-   EGD at 6 weeks
+-   Repeat EGD at 12 weeks if negative
+-   PET scan at 12 weeks
+-   EUS-FNA of suspicious nodes on PET

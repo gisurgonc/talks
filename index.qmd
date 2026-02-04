@@ -1,0 +1,136 @@
+---
+title: "GI Surgical Oncology"
+---
+
+# Body Composition and Surgical Risk Assessment
+
+[Esophagectomy Risk Calculation](eso_bc_risk_talk.htm)
+
+# General Surgery Residency Didactics
+
+[Esophageal Perforation SCORE](esoph_perf.htm)
+
+[Esophageal Cancer Lecture](eso_ca_rx_talk.htm)
+
+[Esophageal Cancer Cases](eso_ca_cases.htm)
+
+[Esophagectomy Postop Care](eso_postop_care.htm)
+
+[Gastric Cancer Lecture](gastric_ca_rx_talk.htm)
+
+[Gastric GIST](gist_slides.htm)
+
+[Rectal Cancer Adjuvant Therapy](rectal_adjuvant.htm)
+
+[Cancer Genetics](genetics_slides.htm)
+
+
+# LCI Esophageal Cancer Program
+
+[LCI Esophageal Cancer Treatment](EsoCa_treatment.qmd)
+
+# Acute Care Surgery of the GI Cancer Patient
+
+[Overview](acs_gicancer_lit.qmd)
+
+
+# Foregut Cancer Working Group
+
+[Esophagectomy Early Recovery Literature Review](eso_eras.html)
+
+[Robotic Gastrectomy](robot_gastrectomy.html)
+
+
+# Esophagectomy Techniques
+
+[One Stage Esophagectomy](one_stage_mie.htm)
+
+[Robotic MIE Planning](robotic_mie.htm)
+
+[Robot Esophagectomy - CMC](robot_esophagectomy_cmc.html)
+
+[Robot/VATS Esophagectomy](RAMIE_VATS_talk.html)
+
+[Anastomostic Techniques](eso_anastomosis.html)
+
+[Robot Esophagectomy](robot_esophagectomy.html)
+
+[Robot Esophagectomy - SW](robot_esophagectomy_sw.html)
+
+[Robot Esophagectomy - Utrecht](robot_esophagectomy_utrecht.html)
+
+[Robot Esophagectomy - Baylor](robot_esophagectomy_baylor.html)
+
+# Esophagectomy Decision-making
+
+Role of surgery in esophageal cancer treatment. Includes non-surgical management. ChemoRT vs ChemoRT + Surgery
+
+[Surgical Decision Making](eso_cancertx_lit.html)
+
+[Surgical Decision-Making Slides ASCO GI](eso_bc_decision_talk.htm)
+
+[Nonoperative Mangement](eso_nonop_talk.htm).  [Lit](eso_nonop_lit.html)
+
+# Esophageal Cancer Staging
+
+[ctDNA in Esophageal Cancer](eso_ctDNA_lit.html)
+
+[ctDNA Genes](eso_ctDNA_genes.html)
+
+# Gastric
+
+[Gastric Decision-making](gastric_cancertx_lit.html)
+
+# Sarcopenia
+
+[Esophageal Cancer and Sarcopenia](eso_sarcopenia_lit.html)
+
+[GI Cancers and Sarcopenia](gi_sarcopenia_lit.html)
+
+[Colorectal Cancer and Sarcopenia](crc_sarcopenia_lit.html)
+
+[Disparities and Sarcopenia](disparities_sarcopenia.html)
+
+[Sarcopenia and Chemotherapy](chemo_sarcopenia_lit.html)
+
+[Chemotherapy Toxicity](chemotox.html)
+
+[CT methods for Sarcopenia](sarcopenia_lit.html)
+
+[Machine Learning for CT segmentation](sarcopenia_ai.html)
+
+[Comprehensive Geriatric Assessmnent](cga_sarcopenia_lit.html)
+
+[Myosteatosis](myosteatosis_lit.html)
+
+[Frailty Index](frailtyindex_lit.html)
+
+[Cachexia](cachexia_lit.html)
+
+[CGA and sarcopenia](cga_sarcopenia_lit.html)
+
+[Chemotherapy Toxicity](chemotox.html)
+
+# Colectomy
+
+[Colectomy Length of Stay](colectomy_los.html)
+
+# Geriatric Surgery
+
+[Literature Review](geriatric_surgery_lit.html)
+
+# Disparities
+
+[GI Cancer Disparities](gi_disparities_lit.html)
+
+# Blood Management Program
+
+[Literature Review](blood_management_talk.html)
+
+# Statistics
+
+[statistics](statistics.html)
+
+# LCI Patient Education
+
+[LCI Welcome](pe_lci_intro.html)

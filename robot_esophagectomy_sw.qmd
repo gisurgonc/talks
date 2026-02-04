@@ -1,0 +1,102 @@
+---
+title: "Robotic Esophagectomy Sarkaria"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+## Ivor Lewis Sarkaria
+
+*Equipment*
+
+-   Nathanson retractor (3 sizes available)
+-   Mediflex 'Strong Arm' table-mounted fixed retractor
+- Endoscopic Bookwalter
+
+Position: Reverse Trendeleburg with tipped to Right (left side up)
+
+*Abdominal Ports:* Ports oriented transversely approx 2-3cm below right gastroepiploic arcade
+
+-   #2 Camera port just above umbilicus and to left of midline (to allow better view of left upper quadrant). Port should be within 23cm of hiatus
+-   #1 subcostal right upper quadrant 12mm stapler port
+-   #3 midclavicular line left upper quadrant within 15cm of hiatus.
+-   #4 just off subcostal margin in left upper quadrant.
+-   RLQ assisting port (with AirSeal) at level of umbilicus in rectus
+-   LLQ assistant port 5mm just below umbilicus in rectus
+
+![](images/sarkaria_abdomen.png)
+
+Abdominal dissection:
+
+1)  Hiatal dissection: Open pars flaccida into lesser sac and dissect hiatus. Will not perform extensive hiatal dissection at this stage due to risk of pneumothorax.
+
+2)  Retrogastric dissection: Start with left gastric artery at origin $\rightarrow$ R crus $\rightarrow$ L crus. Can then proceed over anterior surface of pancreas. Beware of splenic artery. Can dissect short gastrics from posterior.
+
+3)  Gastric mobilization: Enter lesser sac. Stomach mobilized off lesser sac.Left gastric vein divided with vessel sealer. Left gastric artery secured with locking Weck clip or vascular stapler.
+
+Greater curvature mobilized. Entrance into lesser sac from the this area to left of midline. Omentum not dissected off colon. Plane dissected distally between colon mesentery and RGEA. Can grasp stomach on lesser curvature with Arm 4 (to avoid grasping future conduit). Pedicled omental flap using 2 proximal (superior) omental vessels. Follow vessels for \<10cm. Divide left gastroepiploic artery. Take remaining short gastrics to complete dissection.
+
+4)  Pyloroplasty: Retraction stitches superior and inferior $\rightarrow$ opened longitudinally with ultrasonic shears $\rightarrow$ closed transverse with 5-6 sutures of 2-0 silk. (UTSW no longer performs pyloroplasty)
+
+5)  Conduit: Arm #4 grasps fundus to straighten conduit and pulls it up to left hemidiaphgram. Staple line starts near entrance of R gastric artery into stomach (distal to incisura). Green 60mm load oriented at 45ª to bring staple line within 4cm of greater curvature. \*Mark 1cm markings on graspers). Marking stitch placed at the transition between gastric conduit and antral reservoir - location estimated based upon transposing pylorus cephalad and estimating where lesser curvature will come to rest when conduit finally transposed into chest. Arm 3 (or assistant) is used to 'hook' conduit towards pylorus in order to straighten conduit. Assistant can grasp distal (pylorus) aspect of specimen to add further tension to staple line. Conduit is transfixed to staple line of specimen with "U" stitch to avoid possibility of torsion. Omental flap sutured to superior aspect of conduit.
+
+6)  Jejunostomy performed laparoscopically
+
+![](images/sarkaria_thorax.png)
+
+Chest ports:
+
+-   
+
+    (2) Camera: 8th/9th ICS at posterior axillary line (or 9th laterally)
+
+-   
+
+    (4) Robotic Assist: 3rd ICS at mid/posterior axillary line $\rightarrow$ Small Grasping Retractor
+
+-   
+
+    (3) Right Hand: 5th ICS mid-axillary line $\rightarrow$ Vessel Sealer or Syncro Seal
+
+-   
+
+    (1) Left Hand/Staplers (linear and EEA): 9th ICS in line with tip of scapula. If too far posterior, will fight with spine (which can be a problem for the stapler). Estimate location of diaphragm - midway between iliac crest and tip of scapula. Force Bipolar. 12mm stapler port passed through Green Alexis port
+
+-   Bedside Assist port inferior near diaphragm (used for Airseal). Midway between (1) and (2).
+
+(In prior descriptions, Left and Stapler ports were transposed) Robot cart driven over patient's right shoulder.
+
+
+
+Thoracic dissection: Anterior dissection first. Inferior pulmonary ligament. Subcarinal lymph nodes excised .
+
+Azygous vein divided with stapler. Vagus divided to prevent injury to RLN. Posterior dissection performed staying anterior to thoracic duct. Esophagus divided 3cm above azygous with robotic shears. Important to dissect airway (R and L mainstem bronchus) prior to completing proximal dissection of esophagus to avoid airway injury.
+
+Conduit brought into chest and temporarily sutured to diaphragm to avoid retraction into the abdomen.
+
+Pursestring suture of 0 Prolene SH to depth of 3-5mm. Two robotic arms used to stretch esophagus laterally $\rightarrow$ anvil introduced $\rightarrow$ pushed superiorly $\rightarrow$ oriented cephalad-caudad. Pursestring tied. Second pursestring of 0 Prolene placed inside of first.
+
+DST XL 28mm EEA stapler introduced through port (1) (posterior axillary line ICS8) into open end of conduit $\rightarrow$ mated and fired. Anastomosis completed with linear stapler. Distance between anatomosis and final linear staple line should be 2cm
+
+19Fr Blake drain placed along conduit $\rightarrow$ removed in clinic.
+
+NG tube advanced by anesthesia and location in stomach confirmed visually.
+
+Pittsburgh [@oksuyana116] [Video Here](http://www.asvide.com/articles/1677 "Video at AME")
+
+See Safdie Hess Sarkaria RAMIE in Fon Y SAGES Atlas of Robotic Surgery 2018
+
+[Technique Paper 2021](https://gisurgonc.github.io/talks/images/witek2021.pdf)
+
+[Technique Paper 2021](https://gisurgonc.github.io/talks/pdfs/witek2021.pdf) [@witek6195]
+
+2017[@okusanya116]
+
+25 patients 2014-2016 [@okusanya179]
+
+MSKCC 25 patients 2013 [@sarkariae107]
+
+Technique paper with videos 2014: [@sarkaria211]
+
+Sarkaria IS, Rizk NP, Grosser R et al (2016) Attaining proficiency in robotic-assisted minimally invasive esophagectomy while maxi- mizing safety during procedure development. Innov Technol Tech Cardiothorac Vasc Surg 11(4):268–273. https:// doi. org/ 10. 1097/ IMI. 00000 00000 000297 27 

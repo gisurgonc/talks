@@ -1,0 +1,27 @@
+---
+title: "Disparities Sarcopenia"
+editor: visual
+bibliography: zotero.bib
+---
+
+## Literature
+
+### Body composition and Racial/Ethnic differences
+
+Investigators at the University of Illinois [@jang557] examined the change in skeletal muscle index during cancer treatment among 212 patients. Among 132 non-Hispanic Black patients, muscle loss during therapy was greater than non-Hispanic White and Other (Asian + Hispanic) (Odds Ratio 3.29 p=0.004). The loss was highest in Black rectal cancer patients (11 units of SMI loss cm2/m2) vs White rectal Cancer (8 cm2/m2). Loss among colon cancer patients was higher in Black patients ( 5.5 cm2/m2) than in White patients (2.5 cm2/m2). Prior to treatment, Blacks had higher SMI than White (similar to findings of Xaio 2019)
+
+## IMAT
+
+Blacks have more IMAT
+
+Racial differences in insulin resistance and mid-thigh fat deposition in postmenopausal women Obes Res 2002 10 (5):336
+Adipose tissue in muscle: a novel depot similar in size to visceral adipose tissue Am J Clin Nutr 2005 81(4):903
+Munoz Relationship between serum leptin concentration and low-density muscle in postmenopausal women J Clin Endocrinol Metab 2003 88(3):1157
+
+Miljkovic, I., Cauley, J. A., Petit, M. A., Ensrud, K. E., Strotmeyer, E., Sheu, Y., et al. (2009). Greater adipose tissue infiltration in skeletal muscle among older men of African ancestry. *J. Clin. Endocrinol. Metab.* 94, 2735--2742. doi: 10.1210/jc.2008-2541
+
+
+
+
+
+### 

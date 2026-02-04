@@ -1,0 +1,224 @@
+---
+title: "Esophageal Cancer Treatment"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Lymphadenectomy
+
+Retrospective data from Japan in the 1980's suggested superior survival after extended lymphadenectomy for gastric cancer.
+
+Extent of lympadenectomy can be categorized:
+
+D1: Perigastric D2: Central nodes + splenic hilum D2$\alpha$: Central nodes D3: Extended nodes
+
+## D1 Perigastric nodes
+
+Lymph node stations immediately adjacent to the stomach
+
+-   1:
+-   2:
+-   3: Lesser curvature
+-   4: Greater curvature
+-   5: Suprapyloric
+-   6: Infrapyloric
+
+## D1 Perigastric Nodes
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr1_lrg_D1_1980.png)
+
+## D2 Central Nodes + splenic hilum
+
+Lymph nodes adjacent to celiac axis:
+
+-   12a: Left side of porta hepatis
+-   8: Common hepatic artery
+-   7: Left gastric artery
+-   9: Celiac axis
+-   11: Proximal splenic artery
+-   10: Splenic hilum
+
+## D1$\alpha$ Central Nodes
+
+Lymph nodes adjacent to celiac axis:
+
+-   12a: Left side of porta hepatis
+-   8: Common hepatic artery
+-   7: Left gastric artery
+-   9: Celiac axis
+-   11: Proximal splenic artery
+-   ~~10: Splenic hilum~~
+
+## D2 Central Nodes
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr1_lrg_D2_1980.png)
+
+## Durch Trial: D2 vs D1 Lymphadenectomy
+
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr2_lrg.png)
+
+## Dutch Trial: Overall Survival
+
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
+## Durch Trial: D2 vs D1 Lymphadenectomy
+
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
+
+## Durch Trial: Cause of Death
+
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr4_lrg.jpg)
+
+## Durch Trial: Disease-free Survival
+
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr5_lrg.jpg)
+
+## Durch Trial: D2 vs D1 Lymphadenectomy
+
+
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
+
+## Dutch Trial: D2 vs D1 
+
+Operative mortality higher with D2 (10% vs 4%)
+
+More complications wtih D2 (43% vs 25%)
+
+More reoperations with D2 (18% vs 8%)
+
+## Dutch Trial: Total vs Subtotal gastrectomy
+
+Protocol did not dictate extend of gastric resection, but did require a proximal margin of 5cm if a subtotal gastrectomy performed.
+
+No difference in survival between total vs subtotal gastrectomy
+
+## Dutch Trial: Conclusions
+
+D2 lymphadenectomy is associated with better local control of gastric cancer than D1 node dissection, but at an increased risk of mortality and complications.
+
+Can the toxicity of extended lymphadenectomy be reduced?
+
+- Elimination of splenectomy (D1$\alpha$)
+- Mininally-invasive techniques
+
+## MAGIC Trial - Perioperative Chemotherapy
+
+503 gastric cancer stage II adenocarcinoma of stomach, GE juncction or lower esophagus
+
+ECF Chemo $\rightarrow$ Surgery $\rightarrow$ ECF Chemot
+vs
+Surgery alone
+
+Chemotherapy: Epirubicin, ciplatin, 5FU
+
+Surgery 3-6 weeks after last dose of chemo
+Chemo 6-12 weeks after surgery
+
+## MAGIC - Perioperative Chemotherapy
+
+Tumor Location
+
+- Gastric 74%
+- GE junction 11%
+- Distal esophagus 15%
+
+## MAGIC- Perioperative Chemotheray
+Curative radical resection 79% with chemo vs. 70$ (p=0.03)
+
+Longer 5-year survival wtih chemo (36% vs 23%). p=0.0009
+
+Complete chemotherapy regimen (6 doses) in only 42%
+
+Of patients who completed preop chemotherapy and surgery, only 34% received postoperative chemotherapy.
+
+## FLOT - Perioperative Chemotherapy
+
+7616 patients with adenocarcinoma of GE junction or stomach randomized:
+
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF
+vs 
+FLOT $\rightarrow$ Surgery $\rightarrow$
+
+Longer survival with FLOT (median 50 months vs 35 months)
+
+## TOPGEAR
+
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF $\rightarrow$ ChemoRT
+vs
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF
+
+## HIPEC - Ongoing Trials
+
+GASTRICHIP:
+
+Patients with peritoneal diseae ftrom gastro cancer. 
+
+Chemo $\rightarrow$ Surgery with cytoreduction $\rightarrow$ Chemo
+vs
+Chemo $\rightarrow$ Surgery with cytoreduction + HIPEC $\rightarrow$ Chemo
+
+::: aside
+[@glehen1]
+:::
+
+
+
+
+## GASTRICHIP 
+
+105 patients randomized 2014 - 2018. Trial closed due to slow accrual
+
+55 patient treatment stopped prior to cytoreductive surgery due to disease progression
+
+HIPEC with mitomycin and ciplatin for 60min at 42ªC.
+
+Median survival 15 months in both groups (without a difference).
+
+::: aside
+[@glehen1]
+:::
+
+## PERISCCOPE-II
+
+Comparison of cytoreductive surgery + HIPIC to systemic chemotherapy in patients with gastric cancer and peritoneal metastasis.
+
+
+::: aside
+[@koemans1]
+:::
+
+## CHIMERA Trial
+
+FLOT + HIPIC vs FLOT + Surgery in advanced gastric cancer 78
+
+## PREVENT
+
+Diffuse-type gastric and GE junction adenocarcnoma:
+
+FLOT $\rightarrow$ Gastrectomy + HIPIC $\rightarrow$
+vs
+FLOT $\rightarrow$ Gastrectomy $\rightarrow$
+
+::: aside
+[@gotze1]
+:::

@@ -1,0 +1,13 @@
+---
+title: "Lumbar Spine Radiology"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+Iliac crest tangent sign Farshad_amacker 600
+
+> The iliac crest tangent sign was determined by illustrating a line connecting the superior tip of each iliac crest on coronal lumbar MRI. If there were more than 1¼ vertebral bodies visible below the tangent line, the sign was “positive” and the most caudal vertebra was considered lumbarized S1 (Fig. 4). The iliac crest tangent sign was considered “negative” if less than 1¼ vertebrae were below the line, indicating that the last vertebra was sacralized L5 (Fig. 5). The iliac crest tangent sign may be used when whole spine radiograph cannot be obtained, given its sensitivity and specificity of 81 and 64–88%, respectively
+
+Daniel C. Elton, Veit Sandfort, Perry J. Pickhardt, and Ronald M. Summers "Accurately identifying vertebral levels in large datasets", Proc. SPIE 11314, Medical Imaging 2020: Computer-Aided Diagnosis, 113140O (16 March 2020); https://doi.org/10.1117/12.2551247

@@ -1,0 +1,111 @@
+---
+title: "Esophageal Cancer and Sarcopenia"
+editor: visual
+bibliography: zotero.bib
+---
+
+# Sarcopenia in esophageal cancer
+
+[Sarcopenia Methods](sarcopenia_lit.html) [Sarcopenia in GI Cancers](gi_sarcopenia_lit.html) [Sarcopenia in Chemotherapy](chemo_sarcopenia_lit.html) [Esophageal Cancer Therapy](es_cancertx_lit.html)
+
+The patient with esophageal cancer faces multiple challenges in changes in body composition related to both muscle mass and adipose tissue. Patients frequently present with loss of adipose tissue and muscle from dysphaghia due to the primary tumor. Neoadjuvant chemoradiation can improve oral intake due to tumor shrinkage, but can also decrease oral nutrition due to esophagitis and the catabolic effects of cytotoxic therapy.  In addition, patients undergoing esophagectomy frequently lose weight due to limited oral intake and the catabolic effects of the stress of surgery.
+
+For patients treated with neoadjuvant therapy, the chemoradiation treatment prior to surgery can be seen as a 'stress test' which can further assist in evaluating a patient's resilience to the stress of surgery.
+
+The coexistence of sarcopenia and obesity has led to the identification of a syndrome of sarcopenia obesity, defined as sarcopenia in the context of a BMI \>30kg/m\^2. These patients suffer the consequences of both loss of muscle mass with excess adipose tissue, which appear to act synergistically to decrease survival in cancer patients.[@prado629] [@martin1539]
+
+## Sarcopenia in esophagectomy patients
+
+### Perioperative Outcomes
+
+A Japanese group of 190 patients undergoing esophagectomy were studied. Sarcopenia was found in 149 (75%).[@nishigori678]. Sarcopenia definition of Prado. Among sarcopenic patients, pneumonia occurred in 44 (29%) vs 5 (10%) among patients without sarcopenia.
+
+Another group[@ida4432] found similar association between sarcopenia and pulmonary complications after esophagectomy.
+
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak after esophagectomy[@tamandl1359]. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with increased risk of anastomotic leak and in-hospital mortality. Sarcopenia was defined: SMI of ≤ 39cm2/m2 for women and ≤ 55cm2/m2 for men
+
+Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Sarcopenia defined by appendicular skeletal mass and grip strength \<26kg(men) and \<18kg(women). Among these patients the 90-day readmission rate was 42.9% vs 16% in those without sarcopenia[@makiura456]. In addition, sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
+
+Irish study [@elliott822]
+
+Meta-analysis of 8 studies [@schizas120]
+
+### Perioperative Outcomes - Negative Trials
+
+CROSS: 120 patients from CROSS trial who underwent chemoRT followed by surgery. [@grotenhuis2698]. Sarcopenia defined per Prado: 52.4cm2/m2 for men, \< 38.5cm2/m2 for women. Median age = 62. Median (range) BMI was 26 kg/m2 (15–43 kg/m2). 54/120 patients were sarcopenic (45%) Of these 54 sarcopenic patients, one patient (2 %) had underweight, 24 patients (44 %) had a normal weight, 24 patients (44 %) had overweight, and five patients (9 %) were obese. Sarcopenic patients had a lower BMI as compared to the non-sarcopenic group: 25 kg/m2 versus 28 kg/m2, respectively (p = 0.001), and were older (64 vs. 61 years, p = 0.01). No difference in in-hospital mortality or survival based upon sarcopenia. \> Study showed no effect of Prado sarcopenia on outcome, emphasizing limitation of sarcopenia along (vs SMG, which incorporates both sarcopenia and myosteatosis)
+
+## Skeletal muscle loss and survival after esophagectomy
+
+Among 130 Austrian patients, sarcopenia was noted in 80 (62%).Sarcopenia definition of Prado. Median survival was longer in patients without sarcopenia (52months) compared with those with sarcopenia (21 months).{Paireder, 2017 #2003}[@paireder478]
+
+A Japanese study examined the predictive value of sarcopenia relative to anastomotic leak and overall survival after esophagectomy {Tamandl, 2016 #2006}. While sarcopenia in patients under age 65 was not associated with adverse outcomes, among 166 patients over age 65, sarcopenia was associated with decreased overall survival.
+
+Among 98 Japanese patients undergoing esophagectomy for esophageal cancer, 31 (31%) were found to be sarcopenic. Among these patients.{Makiura, 2018 #2007} sarcopenia was associated with overall survival after adjusting for age, gender, and pathologic stage.
+
+Slovenia: [@srpcic237] 139 patients esophagectomy for cancer. SMI in men at less than 43.1 cm2/m2and less than 32.7 cm2/ m2 in women. Cutoff values for myosteatosis from the same study were used with myosteatosis defined as MA of less than 30.9 HU in men and 24.8 HU in women[@vanderwerf288]. Prevalence of sarcopenia and myosteatosis at presentation was 16.5% and 51.8%. Both were associated with decreased OS. Median survival was 18.3 months (CI 5.4-31.1) vs 31.0 months (CI 7.4-54.6) for sarcopenia/no sarcopenia (log rank p = 0.042) and 19.0 months (CI 13.3-24.7) vs 57.1 months (CI 15.2-99.0) for myosteatosis (log rank p = 0.044), respectively. A relationship between sarcopenia and myosteatosis and other negative outcomes after esophagectomy could not be established.
+
+Tokyo 102 patients undergoing esophagectomy [\@somadoy092](45%20sarcopenic). Mean age = 67. Sarcopenia associated with higher rate of respiratory complications (44% vs. 10.5%; P \< 0.001). Length of Stay (P = 0.0088) and ICU stay (P = 0.011) were longer with sarcopenia and risk of pulmonary complications higher (odds ratio = 5.86).
+
+A meta-analysis of 4 studies totaling 649 patients showed that sarcopenia was associated with a survival hazard ratio of 1.5 compared with non-sarcopenia patients {Shachar, 2017 #2122}.
+
+Meta-analysis of 11 studies found that sarcopenia was associated with decreased survival after esophagectomy for esophageal cancer [@dengdoy115]
+
+Sarcopenia and survival and unplanned admissions after esophagectomy [@makiura456]
+
+Sarcopenia and postop pulmonary complications after esophagectomy [@makiura430]
+
+Esophageal cancer 341 patients, of whom 170 over age 65 [@nakashima1100]. Sarcopenia defined as median SMI for their study group: 47.24cm2/m2 in men and 36.92cm2/m2 in women. sarcopenia predicted short term outcome and survival, but only in patients over age 65
+
+Vienna: 130 patients with esophageal cancer getting neoadjuvant chemotherapy, of whom 80 had sarcopenia [@paireder478] Sarcopenia associated with shorter survival (HR 1.72: 52.1 months vs 20.5 months, P = 0.036)
+
+200 patients with esophageal cancer of whom 130 (65%) had sarcopenia [@tamandl1359] patients with sarcopenia had decreased survival.
+
+Sarcopenia associated with decreased survival (p=0.035) in node-negative esophageal cancer patients after surgery (but not with node-positive).[@harada7]
+
+# Models for survival after esophagectomy
+
+## Skeletal Muscle Loss during Esophageal ChemoRT
+
+Nottingham: 89 patients with esophageal cancer undergoing neoadjuvant chemotherapy. Sarcopenia associated with dose-limiting toxiciy and shortened survival after esopahgectomy [@tan333]
+
+72 pts getting neoadjuvant chemotherapy. Sarcopenic obesity associated with dose-limiting toxicity.[@anandavadivelan724]
+
+47 patients getting neoadjuvant chemotherapy . Chemotherapy increased rate of sarcopenia. [@awad74]
+
+A small group of patients (n=35) with esophageal cancer undergoing neoadjuvant chemoradiation showed an increase in the percentage rated as sarcopenic as a result of chemoradiation {Yip, 2014 #2001}. Investigators in the UK noted similar changes in muscle mass among 14 patients as a result of neoadjuvant chemotherapy{Awad, 2012 #1990}. Neither study showed differences between loss of muscle mass and length of stay or survival, although neither study included a power analysis of these outcomes. A larger study from the Netherlands (n=123) {Reisinger, 2015 #1993} showed no association between muscle mass loss in mortality in the overall group, but did find a significant difference in mortality in 62 patients with stage III or IV disease.
+
+Among 123 patients undergoing neoadjuvant chemoradiation,the loss of muscle mass during chemoradiation (as measured by skeletal muscle CSA) was predictive of postoperative mortality {Reisinger, #1993}. Muscle loss was 13.5% in patients with complication-related mortality, and 8% in those without.
+
+Miyata H, Sugimura K, Motoori M, Fujiwara Y, Omori T, Yanagimoto Y, Ohue M, Yasui M, Miyoshi N, Tomokuni A, et al. Clinical assessment of sarcopenia and changes in body composition during neoadjuvant therapy for esophageal cancer [@miyata3053]
+
+## Skeletal muscle loss during chemotherapy
+
+Daly LE, Ni Bhuachalla EB, Power DG, Cushen SJ, James K, Ryan AM. Loss of skeletal muscle during systemic chemotherapy is prognostic of poor survival in patients with foregut cancer. J Cachexia Sarcopenia Muscle. 2018;9(2):315--25
+
+## Age and short-term esophagectomy outcomes
+
+Age and survival after surgery for esophageal cancer (Sweden). used flexible parametric model for analysis[@lagergren159]. [@xie933]
+
+Age and surgical outcomes for lcoally advanced eosphageal cancear (NCDB) [@farrow996]
+
+# Risk Stratification for esophagectomy
+
+## NSQIP
+
+mFrailty11 and mortality after esophagectomy [@hodari1240]. In multivariable analysis, only age and mFrailty-11 were significalntly associated with perioperative mortality.
+
+## Sarcopenia vs Frailty Index
+
+1,326 GI cancer surgery patients (pancreatectomy, HPB, coloretal) - sarcopenia outperformed mFI and ECOG performance score [@buettner397]
+
+## V02max
+
+Jack et al [@jack1313] studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy
+
+# Frailty/Sarcopenia in emergency general surgery
+
+Rangel p 1179 2017
+
+# Disparities in esophageal cancer survival
+
+Taioli J Surg Oncol PMID 26865174

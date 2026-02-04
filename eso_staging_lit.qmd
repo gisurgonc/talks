@@ -1,0 +1,19 @@
+---
+title: "Esophageal Cancer Staging"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+# PET Staging
+
+# Restaging
+
+[@degouw]
+
+Algorithm for Staging including ctDNA: [@defizeS288]
+
+PET alters management in 16% of cases of gastric cancer [@smyth5481]
+
+ESMO guidlines recommend PET for esophagus but not gastric

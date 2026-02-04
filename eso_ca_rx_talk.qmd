@@ -1,0 +1,396 @@
+---
+title: "Esophageal Cancer Treatment"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Esophageal Cancer Treatment Categories
+
+| Category             |   Stage    | Treatment                  |
+|----------------------|:----------:|:---------------------------|
+| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
+| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
+| [Localized Tumors]   |   T1b T2   | Surgery                    |
+| [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
+| [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+
+## Dyplasia
+
+Radiofrequency Ablation for Dysplasia
+
+::::: columns
+::: {.column width="60%"}
+127 patients with dysplasia randomized:
+
+-   Radio-frequency ablation
+-   Sham ablation
+
+Low-grade dysplasia in 64
+
+High-grade dysplasia in 63
+:::
+
+::: {.column width="40%"}
+![](images/rfa_esophagus.png) ![Barxx](images/barxx.png)
+:::
+:::::
+
+::: aside
+[@shaheen2277]
+:::
+
+## Radiofrequency Ablation for Dysplasia
+
+::::: columns
+::: {.column width="30%"}
+Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
+:::
+
+::: {.column width="70%"}
+![](images/shaheen.png)
+:::
+:::::
+
+::: aside
+[@shaheen2277]
+:::
+
+## Superficial Tumors
+
+Workup of nodular Barretts:
+
+-   Endoscopic Ultrasound
+-   Endoscopic Mucosal Resection
+    -   Diagnostic (T staging)
+    -   May be therapeutic for T1a tumors
+
+## Endoscopic Musocal Resection
+
+![](images/EMR.jpg){fig-align="right"}
+
+## Endoscopic Submucosal Dissection
+
+Endoscopic resection uses needle-knife to dissect *below* submucosa
+
+Maybe suitable for T1b lesions *if* lesion is completely resected
+
+Risk of perforation
+
+## Localized Tumors
+
+Patients staged as uT2 N0 are candidates for primary surgery. *However:*
+
+-   EUS has a 25% rate of understaging uT2 N0 tumors
+-   Understaged patients who undergo primary surgery would need chemo or chemoRT postop
+
+## Asymptomatic Tumors (minimal dysphagia)
+
+-   EUS to distinguish T2 from T3 tumors
+-   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
+-   If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
+
+Patients with dysphagia almost always are T3 tumors (and don't need EUS)
+
+## Symptomatic Tumors (dysphagia)
+
+Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
+
+-   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
+-   Metastatic disease $\rightarrow$ [Metastatic]
+-   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
+
+## EUS in Patients with Dysphagia
+
+Memorial Sloan Kettering patients with esophageal cancer:
+
+-   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
+-   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
+
+EUS can be omitted for patients with dysphagia, but is useful in patients *without* dysphagia.
+
+::: aside
+[@ripley226]
+:::
+
+## PET Scan
+
+PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis
+
+::: aside
+:::
+
+## Locally-advanced
+
+For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
+
+-   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo (\[EsoPEC Trial\])
+
+## CROSS Trial
+
+-   368 esophageal cancer patients randomized:
+    -   Surgery alone
+    -   Chemo+RT $\rightarrow$ Surgery
+-   75% adenocarcinoma
+-   T3: 80%. T2: 17%
+-   age $\tilde{x}$=60
+-   longer survival with Chemo+RT $\rightarrow$ Surgery
+
+CROSS Trial Details
+
+Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS
+
+The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p \< 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p \< 0.001).
+
+## CROSS - Overall Survival
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Survival by Histology
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Adenocarcinooma
+
+Median survival 43mo vs 27mo
+
+Pathologic complete response in 23%
+
+## CROSS - Squamous cell carcinoma
+
+Median survival 82mo vs 21mo
+
+Pathologic complete response in 49%
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Sites of Failure
+
+::::: columns
+::: {.column width="30%"}
+Sites of failure over time
+
+ChemoRT + Surgery *vs* Surgery
+
+ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
+:::
+
+::: {.column width="70%"}
+![](images/eyck.png)
+:::
+:::::
+
+::: aside
+[@shapiro1090]
+:::
+
+## Adjuvant Immunotherapy: Checkmate 577 Trial
+
+Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
+
+Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell
+
+ChemoRT $\rightarrow$ Surgery *with residual disease on pathology*
+
+Treatment Group: Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 8 months
+
+Control Group: No adjuvant therapy
+
+Results: Better survival in group with adjuvant nivolumab
+
+::: aside
+[@kelly1191]
+:::
+
+## Nivolumab
+
+::::: columns
+::: {.column width="60%"}
+PD-L1 agonist ligand
+
+Interferes with tumor cell down-regulation of T cells
+
+Active against stage IV esophageal cancer
+:::
+
+::: {.column width="40%"}
+![Nivolumab mechanism of action](images/nivo.png)
+:::
+:::::
+
+## Chekmate 577 Trial
+
+EsoCA patients who received ChemoRT$\rightarrow$ Surgery with residual disease (not pCR)
+
+Randomized to one year of immunotherapy (nivolumab) vs Observation
+
+Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
+
+::: aside
+[@kelly1191]
+:::
+
+## Checkmate 577 Trial
+
+![Adjuvant Nivolumab vs Observation](images/kelly_1191_fig3.png){fig-align="left"}
+
+::: aside
+[@kelly1191]
+:::
+
+## Neoadjuvant Chemo for EsoCA
+
+-   MAGIC trial (gastric): ECF[^1]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+-   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
+-   FLOT (gastric): FLOT[^2]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+-   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
+
+[^1]: Epirubicin, Cisplatin, 5FU
+
+[^2]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
+
+## OEO2 Clinical Trial
+
+-   802 Esophageal adenocarcinoma and squamous cell
+
+-   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
+
+-   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
+
+-   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
+
+::: aside
+[@allum5062]
+:::
+
+## Neo-Aegis Tral CROSS vs MAGIC/FLOT
+
+-   **Adenocarcinoma** T2-3 N0-3 M0 Tumor length \<8cm
+
+-   ChemoRT arm: carboplatin + paclitaxel + 4140cGy
+
+-   Chemo arm: MAGIC (ECF) or FLOT (later in trial)
+
+-   No difference in overall survival
+
+-   R0 resection 96% with CROSS vs 82% with chemo
+
+-   pCR 12% with CROSS vs 4% with chemo
+
+::: aside
+[@reynolds1015]
+:::
+
+## EsoPEC Trial CROSS vs FLOT
+
+-   **Adenocarcinoma esophagus** - T1 N+ or T2-4a M0. Median age =63. 89% men
+
+-   Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
+
+-   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
+
+-   FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
+
+-   Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
+
+::: aside
+[@hoeppner323]
+:::
+
+## EsoPEC: FLOT superior to CROSS
+
+-   Surgery performed in 371/438 patients
+
+-   90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)
+
+-   Median survival 66mo in FLOT arm and 37mo in Cross arm
+
+-   3-year overall survival 57% FLOT vs 51% CROSS
+
+-   5-year overall survival 51% FLOT vs 29% CROSS
+
+-   pCR 17% for FLOT and 10% CROSS
+
+::: aside
+[@hoeppner323]
+:::
+
+## Surgery for Squamous Cell Carcinoma
+
+Squamous Cell Carcinoma of the esophagus
+
+-   responds well to chemo+RT
+-   more difficult to get a surgical margin on the airway
+-   additional benefit of surgery on top of chemoRT is uncertain
+
+## FFCD 9102 2007 (Bedenne)
+
+All patients received 4500cGy RT + 2 cycles of cisplatin + 5FU
+
+Patients with a clinical response were randomized:
+
+-   Surgery -\> 2 year survival 34% Median 17.7mo
+
+-   3 cycles of chemo + 2000 cGy RT -\> 2 year survival 40% Median 19.3mo
+
+*No difference in overall survival*
+
+::: aside
+[@bedenne1160]
+:::
+
+## German Trial (Stahl)
+
+4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
+
+6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
+
+*No difference in overall survival*
+
+::: aside
+[@stahl2310]
+:::
+
+## Metastatic
+
+FOLFOX is first-line systemic therapy for metastatic GI cancers
+
+-   Dose-limiting toxicity is frequently peripheral neuropathy
+
+## Orientation Manual
+
+{{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
+
+## References

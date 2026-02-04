@@ -1,0 +1,383 @@
+---
+title: "Esophageal Cancer Cases"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+Quiz Questions:
+
+Relationship between proto-oncogene and oncogene?
+
+Examples:
+
+Ras
+
+HER2/neu
+
+MYC
+
+## Tumor Suppressor Genes
+
+## FAP Prophylactic Surgery
+
+-   Total proctocolectomy with ileoal pouch
+-   Total colectomy with ileorectal anastomosis
+-   Proctocolectomy with end ileostomy
+
+## Lynch Syndrome Prophylactic Surgery
+
+-   No role for prophylactic colon surgery
+-   Prophylactic hysterectomy with BSO
+
+## BRCA 1/2 Prophylactic Surgery
+
+-   Bilateral mastectomy reduces lifetime risk 90%
+-   Surveillance is a reasonable option
+    -   Yearly mammogram
+    -   Yearly breast MRI
+
+## BRAC 1/2 Prophyactic Surgery
+
+-   Prophylactic BOS age 35-40 or after childbearing
+-   Reduces risk of ovarian cancer 80%
+-   Surveillance not as effective
+    -   Transvaginal ultrasound
+    -   CA-125 screening
+
+## MEN 2A/2B or FMTC Prophylactic surgery
+
+-   Timing of thyroidectomy depends upon risk category
+-   Highest risk: Throidectomy within first year of life
+-   High risk: Thyroidectomy by age 5 or if calcinonin elevated
+-   Moderate risk: surveillance starting age 5
+    -   physical exam
+    -   neck ultrasound
+    -   serum calcitonin
+
+## FAP
+
+Median age of dx 39
+
+-   Duodenal and ampullary tumors
+-   Gastric polyps
+-   Thyroid tumors
+-   Desmoid tumors
+
+## FAP screening
+
+Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after colectomy and q5 yers in those with family hx of desmoids
+
+## Lynch
+
+Amdterdam Criteria
+
+(Bethesda Criteria)
+
+Mean age dx colon cancer 44-61 Predominant right side colon cancer Lifetime penetrance 82%
+
+## Lynch Other Cancers
+
+-   Endometrial
+-   Stomach
+-   Ovarian
+-   Urinary tract
+-   Biliary Tract
+-   Small bowel
+-   CNS
+
+## Lynch Screening
+
+Colonoscopy q1-2 years staring age 20-25
+
+Women with Lymch have 25-60% lifetime risk of endometrial cancer 45-12% lifetime risk of ovarian cancer Male: 1.2% risk of breast cancer (0.1% in general populations)
+
+## MMR and MSI
+
+Greater than 90% of LS tumors are MSI-high (MSI-H) and/or lack expression of at least one of the MMR proteins by IHC. Ten percent to 15% of sporadic colon cancers exhibit abnormal IHC and are MSI-H most often due to abnormal methylation of the MLH1 gene promoter, rather than due to LS. Mutant BRAF V600E is found in many sporadic MSI-H CRCs and is rarely found in LS-related CRCs. There are some tumors that will have MLH1 methylation but lack a BRAF PV.
+
+## DNA Mismatch Repair Proteins
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S0009898115000285-gr2.jpg)
+:::
+
+## DNA Mismatch Repair Proteins
+
+::::::: columns
+:::: {.column width="50%"}
+::: {style="font-size: 125%;"}
+MLH1 PMS1 MSH6 MSH2 MSH5
+:::
+::::
+
+:::: {.column width="50%"}
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S0009898115000285-gr2.jpg)
+:::
+::::
+:::::::
+
+## DNA Mismatch Repair Proteins
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/1-s2.0-S2211715624001577-gr3.jpg)
+:::
+
+## Mismatch Repair Proteins in Lynch Syndrome
+
+Lynch Syndrome can be caused by loss of expression of:
+
+-   MLH1
+-   PMS1
+-   MSH6
+-   MSH2
+-   MSH5
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+wild-type MLH1 and PMS2 form a stable heterodimer
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+::: {.content-hidden unless-format="docx"}
+:::
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+Mutant MLH1 fails to form a stable heterodimer
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+Mutant MLH1 fails to form a stable heterodimer $\rightarrow$ PMS2 is degraded
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+## MLH1 and PMS Dimer in Mismatch Repair
+
+If MLH1 is mutated $\rightarrow$ PMS2 protein is *not* detected
+
+::: {.content-visible unless-format="docx"}
+![](https://deidt7p41jzcy.cloudfront.net/lax_49138_elife-49138-fig7-v1.tif.jpg)
+:::
+
+::: {.content-hidden unless-format="docx"}
+In some cases, the PET scan is not performed until a CT scans bas been done.
+:::
+
+## Colon Polyposis: \>10 adenomatous polyps
+
+-   Classical FAP
+-   Attenuated FAP (AFAP)
+-   MUTYH-associated polyposis (MAP)
+-   Colonic adenomatous polyposis of unknown etiology (CPUE)
+
+## Colon Polyposis: \>4 hamartomatous polyps
+
+-   Puetz-Jaghers
+-   Juvenile Polyposis Syndrome
+-   Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
+
+## Serrated Colon Polyps
+
+≥5 serrated polyps/lesions proximal to the rectum, all being ≥5 mm in size, with ≥2 being ≥10 mm in size OR \>20 serrated polyps/lesions of any size distributed throughout the large bowel, with ≥5 being proximal to the rectum
+
+## Muir-Torre Syndrome
+
+Muir-Torre syndrome refers to individuals with LS who have LS-associated skin findings of sebaceous adenomas/carcinomas or keratoacanthomas.
+
+## BRCA 1/2
+
+BRCA1: 87% ifetime risk of breast cancer and 40-60% risk of ovarian vanver
+
+BRCA2: 80% ifetime breast cancer 1nd 15-27% ovarian cancer - Elevated risk of prostate, pancreas, melanoma
+
+Male carriers of BRCA2: 8.9% lifetime risk of breast cancer
+
+## BRCA risk factors:
+
+-   Breast cancer dx before age 40
+-   Bilateral breast vcancer
+-   Breast and ovarian cancer
+-   2 family members with breast cancer \< age 50
+-   Family history of breast and ovian
+-   Family history of male breast cancer
+
+## Attenuated FAP
+
+\~30 polyps 70% penetrance by age 80 - mean age at dx 50-55
+
+## Li-Fraumeni
+
+Mutation of TP53 tumor suppressor gene
+
+-   Breast cancer 90% by age 50
+-   Sarcoma
+-   Leukemia
+-   Brain tumors
+-   Andrenocortical carcinoma
+
+## Breast cancer in Li-Fraumeni
+
+Mastectomy favored to avoid radiation therapy
+
+Bilateral prophylactic mastectomy recommended
+
+## p16 = CDKNA2A mutation
+
+-   Increased risk of melanoma
+    -   Familial Atypical Multiple Mole Melanoma (FAMMM)
+    -   Familiarl llAtyopical Multiple Mole-Pancreatic Carcinoma (FAMMMPC)
+-   Melanoma penetrance 58-92% by 80
+-   Pancreatic cancer penetracne 17% by age 75
+
+## FAMMM
+
+-   Malignant melanoma in one or more first degree or second-degree relatives
+-   High total body nevus count
+-   Nevi with certain features on microsopcy
+
+Genetic testing not performed as only 50% of FAMMM harbor a mutation in CDKNA2A
+
+## Neurofibromatosis 1
+
+Mutation in NF1 tumor suppressor gene
+
+-   Multiple neurofibromas
+-   Cafe au lait spots
+-   Lisch nodules (hamaartoma of the iris)
+
+Risk of - NPNST - PHeochromocytoma - Astrocytoma - Leukemai
+
+## NF1 diagnosis
+
+Two or more of the following 6 criteria:
+
+-   Six or more café-au-lait macules
+-   Two or more neurofibromas or one plexiform neurofibroma
+-   Axillary or inguinal freckling
+-   Optic glioma
+-   Two or more Lisch nodules
+-   Characteristic osseous lesions
+-   A first degree relative with NF1
+
+## Neurofibromatosis 2
+
+NF2 gene
+
+-   Multiple neurofibromas
+-   Cafe au lait spots
+-   Bilateral vestibular shwannomas
+-   CNS tumors
+
+Most affected develop bilateral schwannomas by age 30 with average age of death 26
+
+Annual surveillance MRI stating age 10-12 and hearing evaluationm
+
+## PTEN
+
+Cowden Syndrome Mutation in *PTEN* tumor suppressor gene
+
+-   Mucocutaneous facial lesions
+-   Macrocephaly
+-   Bilateral breast cancer
+-   Thyroid and endometrial tumors
+-   Hamartomatous polyposis of the GI tract
+
+## MEN1
+
+-   Mutation of MENIN tumor supressor
+
+-   Parathyroid
+
+-   Pitutiary
+
+-   Pancreatic islet cells
+
+Hyperparathyoidism usually first presentaiotn Most common pancreatic tumor is non-functional
+
+Dx by 2/3 of following:
+
+-   Parathyroid adenoma/hyperplasia
+-   Pancratic islet cell tumors
+-   Pituatiary tumors
+
+## MEN1 screening
+
+Surveilance with serum prolactin, IGF-1, factin glucose and insuslin starting age 5 Calcium,, chormogranin A, pancrea polypeptide glucaocon AP age 8 Serum gastrin starting age 20 Brain MRI starting age 5 Abdomeal CT/MRI stagting age20
+
+## MEN1 surgical treatment
+
+Parathyroidectomy 3.5 gland or 4 gladn with autotransplantation
+
+Pancreatic tumor resection if \>2cm
+
+Pituitary tumors resected via transsphenoidal
+
+## MEN2 Famly of Syndromes
+
+-   RET proto-oncogene
+
+-   Medullary thyroid cancer in almost 100%
+
+-   MEN2A
+
+    -   pheochromocytoma in 50%
+    -   Parathyroid hyperplasia in 20-30%
+
+-MEN2B - pheochromocytoma in 50% - Megacolon - Marfinoid habitus - Ganglioneromas - Mucosal neuromas
+
+## MEN 2 Prophylactic surgery
+
+Prophylactic total thyroidectomy
+
+Testing for pheochromoyctoma prior wtih adrenalectomy prior
+
+Monitor calcitonin and CEA after thryoidectomy
+
+## Orientation Handbook
+
+::::: columns
+::: {.column width="30%"}
+:::
+
+::: {.column width="70%"}
+![](https://deidt7p41jzcy.cloudfront.net/handbook_qr.png)
+:::
+:::::
+
+::: aside
+:::
+
+## References

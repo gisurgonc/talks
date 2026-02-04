@@ -1,0 +1,172 @@
+---
+title: "One Stage Esophagectomy"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## 2 Stage Ivor Lewis Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+Abdominal Phase
+
+-   Mobilize stomach
+-   Divide Left Gastric
+-   Create conduit
+-   Transpose conduit $\rightarrow$ chest
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_tumor.png)
+:::
+:::::
+
+## 2 Stage Ivor Lewis Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+Abdominal Phase
+
+-   Mobilize stomach
+-   Divide Left Gastric
+-   Create conduit
+-   Transpose conduit $\rightarrow$ chest
+
+Chest Phase
+
+-   Create anastomosis
+-   Extract specimen through mini-thoracotomy
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_2Stage.png)
+:::
+:::::
+
+## 2 Stage Ivor Lewis Esophagectomy - Conduit
+
+::::: columns
+::: {.column width="50%"}
+-   Intracorporeal conduit construction
+-   Limitations on stretch of stomach
+-   Limited ability to identify cardia/lesser curve tumors
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_intracorporeal.png)
+:::
+:::::
+
+## One Stage Esophagectomy "corkscrew"
+
+Allows simultaneous access to abdomen and chest in one prep
+
+Divide esophagus in chest $\rightarrow$ extra-corporeal construction of conduit $\rightarrow$ Anastomosis
+
+Extracorporeal construction of conduit:
+
+-   Less risk of positive distal margin
+-   Longer conduit (stretch during construction)
+
+::::: columns
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/11605_2018_4063_Fig1_HTML.png)
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/11605_2018_4063_Fig2_HTML.png)
+:::
+:::::
+
+## Abdominal Phase I
+
+-   Stomach mobilized
+-   Left gastric artery divided
+-   Hiatus dissected
+-   Esophagus looped with Penrose
+-   Transhiatal drain placed in left and right pleurae
+
+## Chest Phase I
+
+::::: columns
+::: {.column width="50%"}
+-   Esophagus dissected from hiatus $\rightarrow$ cephalad
+-   Esophagus divided
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_thoracic_division.png)
+:::
+:::::
+
+## Abdominal Phase II
+
+::::: columns
+::: {.column width="50%"}
+-   Stomach exteriorized
+-   Pyloromyotomy
+-   Conduit constructed
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal2.png)
+:::
+:::::
+
+## Abdominal Phase II
+
+::::: columns
+::: {.column width="50%"}
+-   Stomach exteriorized
+-   Pyloromyotomy
+-   Conduit constructed
+    -   Place stomach on stretch
+    -   Palpate GE junction/lesser curvature
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal3.png)
+:::
+:::::
+
+## Abdominal Phase II
+
+::::: columns
+::: {.column width="50%"}
+-   Stomach exteriorized
+-   Pyloromyotomy
+-   Conduit constructed
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_extracorporeal4.png)
+:::
+:::::
+
+## Chest Phase II
+
+::::: columns
+::: {.column width="50%"}
+Anastomosis completed
+:::
+
+::: {.column width="50%"}
+![](https://deidt7p41jzcy.cloudfront.net/GEJ_2Stage.png)
+:::
+:::::

@@ -1,0 +1,155 @@
+---
+title: "GI Stromal Tumors"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    #css: ["theme/theme.css"]
+    theme: default
+      
+    echo: false
+editor: visual
+bibliography: zotero.bib
+---
+
+## ACOSOG ZZ9001
+
+GIST Tumors \>3cm randomized:
+
+-   1 year of imatinib 40mg
+-   Observation
+
+Recurrence-free survival 98% vs 83%
+
+No significant difference at 6 years
+
+*Imatinib may simply delay recurrences*
+
+::: aside
+Ref
+:::
+
+## Scandinavian Sarcoma Group XVIII
+
+High-risk GIST randomized:
+
+-   1 year of imatinib 400mg
+-   3 year of imatinib 400mg
+
+5-year Recurrence-free survival 48% vs 66%
+
+5-year Overall Survival 82% vs 92%
+
+::: aside
+[@joensuu1265]
+:::
+
+## French Sarcoma group IMADGIST Trial
+
+High-risk GIST treated with 3 years of imatinib randomized:
+
+-   Observation
+-   Additional 3 years of imatinib
+
+Longer disease-free survival with 6 years of imatinib
+
+::: aside
+[@blay1157]
+:::
+
+
+## Scandinavian Sarcoma Group XXII
+
+High-risk GIST treated with 3 years of imatinib randomized:
+
+-   Observation
+-   Additional 2 years of imatinib
+
+::: aside
+Ref
+:::
+
+
+## Persist-5 Trial
+
+Single-arm study to evalute tolerance of 5 years of imatinib
+- Tumors >2cm with >5 mitoses/hpf OR
+- non-gastric primary
+
+- 51% of patients discontinued therapy at some point
+- 7/91 patients recurred
+  - 1 during imatinib therapy
+  - 6 within 2 years of discontinuation of imatinib
+
+::: aside
+[@Raute184060]
+:::
+
+
+## Mutational Testing
+
+Genetic mutations can predict response to imatinib [^1]
+
+[^1]: Meheran JCO 2017
+
+## Positive Margins
+
+::: aside
+Gronchi JAMA Surg 2020
+:::
+
+## Wild-Type GIST
+
+-   SDH-Deficient
+    -   SDHx mutation
+    -   SDH wild-type
+    -   Associated with Carney-Stratakis syndrome
+-   No SDH Deficiency
+    -   NF1-GIST
+    -   Sporadic Wild-Type GIST
+
+::: aside
+Weldon JCS 2017
+:::
+
+## NF1-associated GIST
+
+-   Multicentric (33%)
+-   Median age 46
+-   Small bowel \>\> Duodenum \>\> Stomach
+
+::: aside
+Weldon JCS 2017
+:::
+
+## Recurrence Risk
+
++-------------------+-------------+--------------+
+| Risk              | Size        | Mitotic Rate |
++===================+=============+==============+
+| Very Low Risk     | \<2cm       | \<5          |
++-------------------+-------------+--------------+
+| Low Risk          | 2-5cm       | \<5          |
++-------------------+-------------+--------------+
+| Intermediate Risk | \<5cm\      | 6-10\        |
+|                   | 5-10cm      | \<5          |
++-------------------+-------------+--------------+
+| High Risk         | \>5cm\      | \>5 /50\     |
+|                   | \>10cm\     | Any\         |
+|                   | Any size    | \>10         |
++-------------------+-------------+--------------+
+
+: Mitotic rate per 50 hpf
+
+::: aside
+Fletcher Int J Surg Pathol 10:81 2022
+:::
+
+# Orientation Manual
+
+{{< qrcode https://gisurgonc.github.io/orientation width=500 height=500 >}}
+
+# References

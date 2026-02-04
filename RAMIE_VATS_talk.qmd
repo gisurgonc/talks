@@ -1,0 +1,321 @@
+---
+title: "Robot-assisted Esophagectomy"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## 2 Stage Ivor Lewis Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+Abdominal Phase
+
+-   Mobilize stomach
+-   Divide Left Gastric
+-   Celiac lymph node dissection
+-   Create conduit
+-   Transpose conduit $\rightarrow$ chest
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_tumor.png)
+:::
+:::::
+
+## Minimally-invasive Ivor Lewis Esophagectomy
+
+::::: columns
+::: {.column width="50%"}
+Abdominal Phase
+
+-   Mobilize stomach
+-   Divide Left Gastric
+-   Create conduit (intracorporeal)
+-   Suture conduit to GE junction
+
+Chest Phase
+
+-   Extract specimen through mini-thoracotomy
+-   Construct anastomosis
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_2Stage.png)
+:::
+:::::
+
+## Minimally-invasive Ivor Lewis Esophagectomy - Conduit
+
+::::: columns
+::: {.column width="50%"}
+-   Intracorporeal conduit construction
+-   Limitations on stretch of stomach
+-   Limited ability to identify cardia/lesser curve tumors
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_intracorporeal.png)
+:::
+:::::
+
+## One Stage Esophagectomy "corkscrew"
+
+Allows simultaneous access to abdomen and chest in one prep
+
+-   Abdomen I: Mobilize stomach$\rightarrow$ Dissect hiatus
+-   Chest I: Dissect esophagus $\rightarrow$ Divide esophagus
+-   Abdomen II: Extract specimen $\rightarrow$ Construct conduit $\rightarrow$ Transpose conduit
+-   Chest II: Anastomosis (circular stapler)
+
+Extracorporeal construction of conduit:
+
+-   Less risk of positive distal margin
+-   Longer conduit ($\uparrow$stretch during construction)
+
+::::: columns
+::: {.column width="50%"}
+![](images/11605_2018_4063_Fig1_HTML.png)
+:::
+
+::: {.column width="50%"}
+![](images/11605_2018_4063_Fig2_HTML.png)
+:::
+:::::
+
+## Abdominal Phase I
+
+-   Stomach mobilized
+-   Left gastric artery divided
+-   Hiatus dissected
+-   Transhiatal drains placed in left and right pleurae
+
+## Chest Phase I
+
+::::: columns
+::: {.column width="50%"}
+-   Esophagus dissected from hiatus $\rightarrow$ cephalad
+-   Esophagus divided
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_thoracic_division.png)
+:::
+:::::
+
+## Abdominal Phase II
+
+::::: columns
+::: {.column width="50%"}
+-   Esophagus extracted
+-   Extracorporeal construction of conduit
+-   Pyloromyotomy
+-   Conduit constructed
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_extracorporeal2.png)
+:::
+:::::
+
+## Abdominal Phase II
+
+::::: columns
+::: {.column width="50%"}
+-   Esophagus extracted
+-   Extracorporeal construction of conduit
+-   Pyloromyotomy
+-   Conduit constructed
+    -   Place stomach on stretch
+    -   Palpate GE junction/lesser curvature
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_extracorporeal3.png)
+:::
+:::::
+
+## Abdominal Phase II
+
+::::: columns
+::: {.column width="50%"}
+-   Extracorporeal construction of conduit
+-   Pyloromyotomy
+-   Conduit constructed
+-   Conduit transposed into chest (hand-assisted)
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_extracorporeal4.png)
+:::
+:::::
+
+## Chest Phase II
+
+::::: columns
+::: {.column width="50%"}
+Anastomosis completed - 25mm Circular stapler
+:::
+
+::: {.column width="50%"}
+![](images/GEJ_2Stage.png)
+:::
+:::::
+
+## Robotic Esophagectomy Training
+
+-   Society for Surgical Oncology Course (Hawkins)
+-   Case observation at UT Southwestern - Netu Sarkaria (w/Mike Roach)
+-   ORSI Cadaver Course - Richard van Hillesgberger (w/Mike Roach)
+
+## Hybrid Robotic/VATS Esophagectomy
+
+Abdominal Phase Supine - Robotic
+
+-   Mobilize stomach
+-   Celiac lymph node dissection
+-   Conduit constructed with linear stapler
+-   Conduit sutured to GE junction
+
+## Conduit transposed to Chest
+
+::::: columns
+::: {.column width="50%"}
+Conduit Sutured to GE junction
+:::
+
+::: {.column width="50%"}
+![](images/conduit_sutured.png)
+:::
+:::::
+
+Chest Phase Semi-lateral - VATS
+
+-   Mobilize and divide esophagus
+-   Transpose conduit into chest (traction)
+-   Extract specimen between ribs
+-   Circular stapled anastomosis (OrVil 25mm)
+
+## Robotic Esophagectomy Experience 2021-2024
+
+-   5 cases 2018 co-surgery with Jeff Hagen/Mike Roach
+    -   Tri-incisional (McKeown):
+        -   1 leak + stricture + RLN palsy
+        -   1 RLN palsy
+
+## Hybrid Robotic/VATS Experience 2025
+
+-   14 cases May - October (5 planned Nov-Jan)
+    -   Surgical Oncology Block (Friday Room 45): 4
+    -   Open Robot Time: 10
+
+## Hybrid Robotic/VATS Experience
+
+14 cases
+
+-   Anatomotic leaks in 2 (14%)
+-   Delayed gastric emptying in 3
+    -   Treated with postop pyloric dilation and Botox
+    -   Somewhat longer length of stay
+-   Adequate lymph node harvest
+-   Increased operative time (but improving)
+
+## Hybrid Robotic/VATS Problems
+
+Midline abdominal extraction incision required in one patient with large GE junction tumor which could not be extracted between ribs
+
+Difficulty with transposition of conduit into chest via traction
+
+## Hybrid Robatic/VATS Modications
+
+Reduction in width of conduit
+
+Widening of hiatus
+
+Prep abdomen into chest phase to allow two-field visualizaiton of transposition
+
+Pyloric drainage procedure
+
+## Next Steps
+
+Thoracic robotic phase w/Mike Roach January 2026 (block time)
+
+Move from 25mm OrVil stapler to 27mm CEEA stapler
+
+No plans for linear stapled or hand-sewn anastomosis
+
+## Goals
+
+100 robotic esophagectomy cases by January 2029
+
+Recruit replacement GI surgeon by 2028
+
+Robust clinical research platform
+
+## January 2029
+
+-   Outpatient clinical evaluation and care
+-   Assist in OR 1-3 days/week
+-   No night/weekend call
+-   No primary surgical responsibility
+-   Option for some remote work from Durham
+
+## Clinical Research
+
+Anastomotic leak remains the Achilles heel of esophagectomy
+
+Vascular evaluation of conduit is critical to understanding and preventing leaks
+
+Need a technology for evaluating conduit perfusion
+
+-   Reproducible by different surgical teams (across Advocate)
+-   Quantitation of perfusion
+-   Mapping of perfusion (relative to final location of anastomosis)
+
+Conduit perfusion will serve as an intermediate endpoint in research to prevent leaks
+
+## Collaboration with Winston-Salem
+
+-   Machine-learning evaluation of PET in gastric cancer
+-   Body composition analysis in esophagectomy
+
+## Body Composition and Mortality after Esophagectomy
+
+![](images/Eso_BC/scatterplot1221_cmc.png)
+
+## Body Composition and Surgical Decision-making
+
+Retrospective Review of Adenocarcinoma of the Esophagus
+
+Patients stratified by risk of perioperative mortality
+
+-   Age
+-   Body Composition
+
+Two Risk Cohorts:
+
+-   High Risk (Highest risk quartile)
+-   Low Risk (Bottom 3 quartiles)
+
+## Low Risk of Perioperative Mortality
+
+![](images/Eso_BC/esoaca_q234_1221CMC_gg.png)
+
+## High Risk of Perioperative Mortality
+
+![](images/Eso_BC/esoaca_q14_1221CMC_gg.png)

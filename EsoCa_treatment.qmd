@@ -1,0 +1,423 @@
+---
+title: "Esophageal Cancer Management"
+subtitle: "Levine Cancer Institute"
+author: "Jonathan C Salo MD"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer-logo-link: "https://gisurgonc.github.io/talks/"
+    #background-image: "images/lci_wfu_surgery_background.png"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+title-slide-attributes: 
+  data-background-image: "images/lci_wfu_surgery_background.png"
+  data-background-size: contain
+  data-background-opacity: "number" # e.g., "0.5" for 50% opacity
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+filters:
+  - reveal-header
+editor: visual
+bibliography: zotero.bib
+# Ideal image size 1600 x 770
+---
+
+## Esophageal Cancer Treatment Categories
+
+| Category             |   Stage    | Treatment                  |
+|----------------------|:----------:|:---------------------------|
+| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
+| [Localized Tumors]   |   T1b T2   | Surgery                    |
+| [Locally advanced]   | T3 or N^+^ | Chemo$\pm$ RT → Surgery    |
+| [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+
+## Superficial Tumors
+
+-   Endoscopic Ultrasound
+-   Endoscopic Mucosal Resection
+    -   Diagnostic (T staging)
+    -   May be therapeutic for T1a tumors
+
+::: notes
+Here are my presentation notes!
+:::
+
+## Endoscopic Musocal Resection
+
+::::: {.columns align="center"}
+::: {.column width="50%"}
+![T1 Tumor](images/t1a_nolabel.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![Saline Lift](images/t1a_lift2.png){fig-align="center"}
+:::
+:::::
+
+## Endoscopic Musocal Resection
+
+::::: {.columns align="center"}
+::: {.column width="50%"}
+![Snare Excision](images/tumor_EMR_snare.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](images/t1a_postemr.png){fig-align="center"}
+:::
+:::::
+
+## EMR Favorable Features
+
+::::: {.columns align="center"}
+::: {.column width="50%"}
+-   Clear Margins
+
+-   Size \<2cm
+
+-   No LVI/PNI
+
+-   Well-differentiated
+
+-   Overall good prognosis
+
+-   EGD in 6 months for surveillance
+:::
+
+::: {.column width="50%"}
+![](images/emr_favorable_zoom.png){fig-align="center"}
+:::
+:::::
+
+## EMR Unfavorable Features
+
+::::: {.columns align="center"}
+::: {.column width="50%"}
+-   Involved Margins
+
+-   Size \>2cm
+
+-   Lymphovascular/Perineural Invasion
+
+-   Poorly differentiated
+
+-   High risk for recurrence
+
+-   EGD in 3 months for surveillance
+:::
+
+::: {.column width="50%"}
+![](images/EMR_unfavorable_zoom.png){fig-align="center"}
+:::
+:::::
+
+## EMR Deep Positive Margin
+
+::::: {.columns align="center"}
+::: {.column width="60%"}
+Positive deep margin on EMR: likely understaged.
+
+High risk of lymph node metastasis
+
+Recommendation for Surgery
+:::
+
+::: {.column width="40%"}
+![](images/EMR_Positive_Deep.png){fig-align="center"}
+:::
+:::::
+
+## Localized Tumors
+
+uT2 N0 are candidates for primary surgery. *However:*
+
+-   EUS has a 25% rate of understaging uT2 N0 tumors
+-   Understaged patients treated with surgery need chemo or chemoRT postop
+
+## Asymptomatic Esophageal Tumors (minimal dysphagia)
+
+-   EUS to distinguish T2 from T3 tumors
+-   uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
+-   uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
+
+Patients with dysphagia almost always are T3 tumors (and don't need EUS)
+
+## Symptomatic Esophageal Tumors (dysphagia)
+
+Patients with:
+
+-   Dysphagia to solids
+-   Weight loss
+-   Tumor length \>3cm are unlikely to have T1-2 tumors
+
+$\Rightarrow$ Initial evaluation with PET
+
+## EUS in Patients with Dysphagia
+
+Memorial Sloan Kettering patients with esophageal cancer:
+
+-   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
+-   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
+
+EUS can be omitted for patients with dysphagia,
+
+but is useful in those *without* dysphagia.
+
+::: aside
+[@ripley226]
+:::
+
+## Squamous Cell Carcinoma
+
+::::: {.columns align="center"}
+::: {.column width="45%"}
+Standard Treatment: ChemoRT (CROSS)
+
+-   Weekly Carboplatin + Paclitaxel
+-   5040 cGy radiation in 28 fractions
+
+CROSS: 49% pCR for squamous cell
+
+$\Rightarrow$ Majority never need surgery
+:::
+
+::: {.column width="55%"}
+![Surgery vs ChemoRT$\rightarrow$ (Squamous Cell is dotted lines)](images/shapiro_1090_fig2b.png){fig-align="center"}
+:::
+:::::
+
+
+## Squamous Cell Carcinoma
+
+::::: {.columns align="center"}
+::: {.column width="45%"}
+Standard Treatment: ChemoRT (CROSS)
+
+-   Weekly Carboplatin + Paclitaxel
+-   5040 cGy radiation in 28 fractions
+
+Definitive and Neoadjuvant RT doses are similar except for tumors at the thoracic inlet (wich behave similar to head and neck SCCa)
+:::
+
+::: {.column width="55%"}
+![Surgery vs ChemoRT$\rightarrow$ (Squamous Cell is dotted lines)](images/shapiro_1090_fig2b.png){fig-align="center"}
+:::
+:::::
+
+## Restaging after ChemoRT - Squamous Cell
+
+![](images/CRT_surgical_candidate.jpg){fig-align="left"}
+
+## ChemoRT $\rightarrow$ Immediate Surgery? - Squamous Cell
+\
+
+Difficult to justify immediate surgery in *all* squamous cell with 50% pCR rate
+
+\
+
+Immediate surgery is considered for fit patients with distal lesions
+
+## EGD for Restaging after ChemoRT - Squamous Cell
+
+![EGD at 6 weeks and 12 weeks](images/CRT_restaging_EGD.jpg){fig-align="left"}
+
+## Positive EGD after ChemoRT - Squamous Cell
+
+These patients will need surgery or systemic therapy
+
+![ChemoRT $\rightarrow$ EGD Positive](images/CRT_restaging_EGD_pos.jpg){fig-align="left"}
+
+## Negative EGD after ChemoRT - Squamous Cell
+
+Most patients with SCCa will have negative EGD after ChemoRT
+
+![ChemoRT $\rightarrow$ EGD Negative](images/CRT_restaging_EGD_neg.jpg){fig-align="left"}
+
+## Active Surveillance for SCCa Esophagus
+
+![ChemoRT $\rightarrow$ EGD Negative $\rightarrow$ Active Surveillance](images/CRT_AS_outcome_SCCA.jpg){fig-align="left"}
+
+## SANO Surveillance Schema
+
+![](images/SANO_schema_notext.jpg){fig-align="left"}
+
+::: aside
+[@vanderwilkS1470]
+:::
+
+## SANO Surveillance Schema
+
+![](images/SANO_schema_text.jpg){fig-align="left"}
+
+::: aside
+[@vanderwilkS1470]
+:::
+
+## Adenocarcinoma
+
+::::: {.columns align="center"}
+::: {.column width="40%"}
+CROSS: benefit from preoperative ChemoRT is less dramatic with adenocarcinoma
+:::
+
+::: {.column width="60%"}
+![Surgery vs ChemoRT (Adenocarcinoma is solid lines)](images/shapiro_1090_fig2b.png){fig-align="center"}
+:::
+:::::
+
+## CROSS Treatment Failures
+
+Primary benefit of ChemoRT is reducing locoregional and mixed failures
+
+![](images/eyck_modified.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)
+
+![](images/ESOPEC_survival_modified.png){fig-align="left"}
+
+::: aside
+[@hoeppner323]
+:::
+
+## Locally Advanced Adenocarcinoma
+
+::::: columns
+::: {.column width="50%"}
+**Chemo + Radiation (CROSS)**
+
+-   Better tolerated
+-   Port usually placed
+-   More dysphagia (last 2 weeks of Tx)
+-   Dysphagia resolves 2-3 weeks later
+-   More likely to need feeding tube
+:::
+
+::: {.column width="50%"}
+**Chemotherapy (FLOT)**
+
+-   More effective (ESOPEC)
+-   More toxicity (neutropenia)
+-   Port always required
+-   Eating slowly improves
+-   Less likely to need feeding tube
+:::
+:::::
+
+## Restaging Scans after ChemoRT - Adenocarcinoma
+
+![Restaging after ChemoRT](images/CRT_surgical_candidate.jpg){fig-align="left"}
+
+
+## Treatment after Neoadjuvant Therapy - Adenocarcinoma
+
+\
+Fit Patients: Recommendation for surgery
+
+\
+Adenocarcinoma is not as sensitive to neoadjuvant therapy as squamous cell
+
+## Treatment after Neoadjuvant Therapy - Adenocarcinoma
+
+\
+Frail Patients: Restage with EGD
+
+  - If EGD biopsies positive $\rightarrow$ Surgery or systemic therapy
+  - If EGD biopsies negative $\rightarrow$ Active Surveillance
+
+## Active Surveillance for Adenocarcinoma after ChemoRT
+
+![](images/CRT_AS_outcome_ACA.jpg){fig-align="left"}
+
+## Esophagectomy at Carolinas Medical Center
+
+-   Minimally-invasive approach (Laparoscopic/VATS $\rightarrow$ Robotic)
+-   500+ cases since 2007 (JCS)
+-   Anastomotic leak 8%
+-   90-day mortality 5.5%
+-   Hospital stay 8 days (median)
+
+::: aside
+[@lorimer177]
+:::
+
+## Frailty Assessment
+
+![Grip Strength $\rightarrow$ CT Body Composition for evaluation of frailty](images/CMC_slides/HGS_CT.png){fig-align="left"}
+
+::: aside
+[@colcord3040]
+:::
+
+## Body Composition and Age Predict Operative Mortality
+
+![90-day mortality after esophagectomy=$f$(age + body composition)](images/CMC_slides/BC_90Day_XY.png){height=740}
+
+::: aside
+[@sanderfer]
+:::
+
+## Body Composition and Age Predict Operative Mortality
+
+![90-day mortality esophagectomy =$f$(age + body composition)](images/CMC_slides/BC_90Day_Matrix.png){fig-align="left"}
+
+## Can Body Composition Predict Benefit of Surgery?
+
+316 esophageal cancer treated initially with chemo + radiation​
+
+-   Surgery in 254
+-   No surgery in 62
+
+Cohort stratified by age and body composition
+
+-   Low Risk (Lower risk 75%)
+-   High Risk (Higher risk 25%)
+
+## Survival Benefit of Surgery - Normal Muscle
+
+![Surgical Risk =$f(age + body composition)$](images/CMC_slides/LowRisk_label.png){height=740}
+
+::: aside
+[@sanderferb]
+:::
+
+
+
+
+## Survival Benefit of Surgery - Low Muscle
+
+![Surgical Risk =$f(age + body composition)$](images/CMC_slides/HighRisk_label.png){height=740}
+
+
+::: aside
+[@sanderferb]
+:::
+
+
+##  {background-color="#b2b2b2"}
+
+## Locally Advanced
+
+Treatment depends upon histology:
+
+[Squamous Cell Carcinoma]
+
+[Adenocarcinoma]
+
+## Metastatic
+
+FOLFOX is first-line systemic therapy for metastatic GI cancers
+
+-   Dose-limiting toxicity is frequently peripheral neuropathy
+
+## References

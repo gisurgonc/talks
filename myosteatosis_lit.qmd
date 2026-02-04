@@ -1,0 +1,126 @@
+---
+title: "Myosteatosis Literature"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+# Myosteasosis
+
+### Methods
+
+Most studies have measured myosteatosis ('muscle quality') as the Hounsfield units of the skeletal muscle area at L3 defined with thresholds of -29HU to +150HU. The challenge with this approach is the relatively small dispersion of Hounsfield Units.
+
+An alternative is to subdivide skeletal muscle area into high density and low density areas. One method is to distinguish normal attenuation muscle area (NAMA) from low attenuation muscle area (LAMA). This was initially described by investigators from Japan [@kim4022]. The same grouop measured IMAT within the muscle envelope using fat thresholds. See also
+
+An alternative (experimental) approach would be assume that a density histogram of the muscle area is a gaussian mixture of two peaks - one for muscle and one for adipose tissue, and to use a mathematical tool such as the mixtools R package to resolve the density histogram into two peaks.
+
+Papers using gaussian mixture for segmentation:
+
+An automated and robust framework for quantification of muscle and fat in the thigh [@tan3173]
+
+J. de Carvalho Felinto et al., "Automatic segmentation and quantification of thigh tissues in CT images," in Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 2018, vol. 10960 LNCS, pp. 261--276, doi: 10.1007/978-3-319-95162-1_18.
+
+GMM for liver segmentation[@dunj5654424]
+
+Johnson SB Mixture model see [ForestFit R package](https://search.r-project.org/CRAN/refmans/ForestFit/html/00Index.html)
+
+#### Myosteatosis
+
+Meta-analysis of 40 studies: overall prevalence of 48% among cancer patients, with HR of 1.75 for mortality. Worse prognosis in GYN, renal, pancreatic, HCC, GE, and Colorectal and ymphone (not lung??)[@alexio102839]
+
+GI cancers meta-analysis: [@wang25] Prevalence of myosteatosis 46% HR 1.44. Worse prognosis for GE, pancreatic and colorectal
+
+Lung cancer meta-analysis of 9 studies with 16667 patients: [@feng1127]. HR 1.10
+
+myosteatosis adds value [@martin227]
+
+Myosteatosis is defined as the infiltration of adipose tissue into skeletal muscle [@daly135]
+
+Goodpaster BH, Kelley DE, Thaete FL, He J, Ross R. Skeletal muscle attenuation determined by computed tomography is associated with skeletal muscle lipid content. J Appl Physiol (Bethesda, Md : 1985). 2000; 89(1):104--10
+
+Miljkovic I, Zmuda JM. Epidemiology of myosteatosis. Curr Opin Clin Nutr Metab Care 2010;13:260--4. 12. Aubrey J, Esfandiari N, Baracos VE, Buteau FA, Frenette J, Putman CT, Mazurak VC. Measurement of skeletal muscle radiation attenuation and basis of its biological variation. Acta Physiol (Oxf) 2014;210:489--97.
+
+the Charlson Comorbidity Score was associated with low SMD, echoing our previous report in this cohort that 6 (out of 11) Charlson comorbidities were associated with a higher likelihood of low SMD at diagnosis, whereas most of them were not associated with sarcopenia Xiao J, Caan BJ, Weltzien E, Cespedes Feliciano EM, Kroenke CH, Meyerhardt JA, Baracos VE, Kwan ML, Castillo AL, Prado CM. Associations of pre-existing co-morbidities with skeletal muscle mass and radiodensity in patients with non-metastatic colorectal cancer. J Cachexia Sarcopenia Muscle 2018;9:654--63.
+
+### LAMA/NAMA
+
+LAMA/NAMA ratio proposed as better judge of myosteasosis than density [@kim4022]
+
+Maltais A, Almeras N, Lemieux I, Tremblay A, Bergeron J, Poirier P, et al. Trunk
+
+muscle quality assessed by computed tomography: association with adiposity
+
+indices and glucose tolerance in men. Metab Clin Exp 2018;85:205e12.
+
+\[22\] Tanaka M, Okada H, Hashimoto Y, Kumagai M, Nishimura H, Oda Y, et al.
+
+Relationship between metabolic syndrome and trunk muscle quality as well
+
+as quantity evaluated by computed tomography. Clin Nutr 2020;39(6):
+
+1818e25.
+
+### IMAT
+
+24
+
+25
+
+-   Goodpaster BH, Thaete FL, Kelley DE. Thigh adipose tissue distribution is
+
+```         
+associated with insulin resistance in obesity and in type 2 diabetes mellitus.
+
+Am J Clin Nutr 2000;71(4):885e92.
+
+Association between regional adipose tissue distribution and both type 2 
+diabetes and impaired glucose tolerance in elderly men and women.[@goodpaster372]
+
+\[11\] Goodpaster BH, Carlson CL, Visser M, Kelley DE, Scherzinger A, Harris TB, et al.
+
+Attenuation of skeletal muscle and strength in the elderly: the Health ABC
+
+Study. J Appl Physiol 2001;90(6):2157e65.
+```
+
+-   Brooks N, Cloutier GJ, Cadena SM, Layne JE, Nelsen CA, Freed AM, et al.
+
+```         
+Resistance training and timed essential amino acids protect against the loss of
+
+muscle mass and strength during 28 days of bed rest and energy deficit. J Appl
+
+Physiol 2008;105(1):241e8.
+```
+
+-   \[15\] Reinders I, Murphy RA, Brouwer IA, Visser M, Launer L, Siggeirsdottir K, et al.
+
+    Muscle quality and myosteatosis: novel associations with mortality risk: the
+
+    age, gene/environment susceptibility (AGES)-Reykjavik study. Am J Epidemiol
+
+    2016;183(1):53e60.
+
+    \[16\] Terry JG, Shay CM, Schreiner PJ, Jacobs Jr DR, Sanchez OA, Reis JP, et al.
+
+    Intermuscular adipose tissue and subclinical coronary artery calcification in
+
+    midlife: the CARDIA study (coronary artery risk development in young
+
+    adults). Arterioscler Thromb Vasc Biol 2017;37(12):2370e8.
+
+    \[17\] Ryan AS, Harduarsingh-Permaul AS. Effects of weight loss and exercise on
+
+    trunk muscle composition in older women. Clin Interv Aging 2014;9:
+
+    395e402.
+
+    \[18\] Addison O, Marcus RL, Lastayo PC, Ryan AS. Intermuscular fat: a review of the
+
+    consequences and causes. Int J Endocrinol 2014;2014:309570.
+
+    \[19\] Goodpaster BH, Thaete FL, Kelley DE. Composition of skeletal muscle evalu-
+
+    ated with computed tomography. Ann N Y Acad Sci 2000;904:18e24

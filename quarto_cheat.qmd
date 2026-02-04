@@ -1,0 +1,215 @@
+---
+title: "Quarto Cheat Sheet"
+subtitle: "Subtitle"
+author: "Jonathan C Salo MD"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    #css: ["theme/theme.css"]
+    theme: default
+      
+    echo: false
+editor: visual
+bibliography: zotero.bib
+---
+
+## Tables
+
+| Category               |   Stage    | Treatment                  |
+|------------------------|:----------:|:---------------------------|
+| \[Dyplasia\]           |    Tis     | Radiofrequency Ablation    |
+| \[Superficial Tumors\] |    T1a     | Endoscopic Therapy         |
+| \[Localized Tumors\]   |   T1b T2   | Surgery                    |
+| \[Locally-advanced\]   | T3 or N^+^ | ChemoRT → Surgery          |
+| \[Metastatic\]         |     M1     | Chemotherapy +/- Radiation |
+
+## Symbols
+
+$\alpha$ $\rightarrow$ $\leftarrow$ $\longrightarrow$ $\implies$ $\gt$ $\pi r^2$ $\leq$ $\geq$ $\beta_1$ $\tilde{x}$ $\checkmark$ $\bullet$ $\dagger$ $\downarrow$ $\ll$ $\gg$ $\pm$ $\div$ $\star$ $\nearrow$ $\searrow$ $\leadsto$ $\surd$ $\therefore$ $\neq$ $\notin$ $\tilde{x}$
+
+Inline fractions
+
+$\frac{SMI\, \times \,SMD}{\mathrm{Height\, in\, meters}^2}$
+
+Offsest math with double-dollar signs
+
+$$\frac{SMI\, \times \,SMD}{\mathrm{Height\, in\, meters}^2}$$
+
+## Table with flextable
+
+```{r}
+#| label: tbl-xyz-flextable
+#| tbl-cap: Table of x, y, z (made with the flextable package)
+
+xyz<-data.frame(matrix(rnorm(8),nrow=4))
+
+#library(flextable)
+#flextable(xyz)
+```
+
+## Table with Kable
+
+```{r}
+#| label: tbl-LABEL
+#| tbl-cap: CAPTION
+
+knitr::kable(head(cars))
+```
+
+## Hyperlinks
+
+[syllabus](https://www.albany.edu/spatial/GIS4SS/syllabus/){target="_blank"}
+
+## Columns
+
+Radiofrequency Ablation for Dysplasia
+
+::: columns
+::: {.column width="60%"}
+127 patients with dysplasia randomized:
+
+-   Radio-frequency ablation
+-   Sham ablation
+
+Low-grade dysplasia in 64
+
+High-grade dysplasia in 63
+:::
+
+::: {.column width="40%"}
+![](images/rfa_esophagus.png) ![Barxx](images/barxx.png)
+:::
+:::
+
+::: aside
+[@shaheen2277]
+:::
+
+## Radiofrequency Ablation for Dysplasia
+
+::: columns
+::: {.column width="30%"}
+Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
+:::
+
+::: {.column width="70%"}
+![](images/shaheen.png)
+:::
+:::
+
+::: aside
+[@shaheen2277]
+:::
+
+## Full-page images
+
+![](images/EMR.jpg){fig-align="right"}
+
+## Symptomatic Tumors (Dysphagia)
+
+Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
+
+-   Disease confined to the esophagus and regional nodes $\rightarrow$ \[Locally-advanced\]
+-   Metastatic disease $\rightarrow$ \[Metastatic\]
+-   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
+
+## EUS in Patients with Dysphagia
+
+Memorial Sloan Kettering[^1] patients with esophageal cancer:
+
+[^1]: @ripley226
+
+-   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
+-   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
+
+EUS can be omitted for patients with dysphagia, but is useful in patients *without* dysphagia.
+
+## PET Scan
+
+PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis [^2]
+
+[^2]: @block770
+
+## CROSS Trial
+
+-   368 esophageal cancer patients randomized:
+    -   Surgery alone
+    -   Chemo+RT $\rightarrow$ Surgery
+-   75% adenocarcinoma
+-   T3: 80%. T2: 17%
+-   age $\tilde{x}$=60
+-   longer survival with Chemo+RT $\rightarrow$ Surgery
+
+CROSS Trial Details
+
+Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Overall Survival
+
+![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Squamous cell carcinoma
+
+Median survival 82mo vs 21mo
+
+Pathologic complete respoinse in 40%
+
+::: aside
+[@shapiro1090]
+:::
+
+## CROSS - Sites of Failure
+
+::: columns
+::: {.column width="30%"}
+Sites of failure over time
+
+ChemoRT + Surgery *vs* Surgery
+
+ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
+:::
+
+::: {.column width="70%"}
+![](images/eyck.png)
+:::
+:::
+
+::: aside
+[@shapiro1090]
+:::
+
+## Neoadjuvant Chemo for EsoCA
+
+-   MAGIC trial (gastric): ECF[^3]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+-   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
+-   FLOT (gastric): FLOT[^4]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+-   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
+
+[^3]: Epirubicin, Cisplatin, 5FU
+
+[^4]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
+
+## Include Other Slideshows
+
+{{< include rectal_slides.qmd >}}
+
+## Orientation Manual
+
+{{< qrcode https://gisurgonc.github.io/orientation width=500 height=500 >}}
+
+## References
+
+::: {#refs}
+:::

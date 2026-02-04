@@ -1,0 +1,78 @@
+---
+title: "Risk Calculation in Minimally-invasive Esophagectomy"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    theme: [simple, lci.scss]
+    #css: "lci_styles.css" 
+    echo: false
+editor: visual
+bibliography: zotero.bib
+author:
+  - Christian Sanderfer MD  
+  - Alexis Holland MD
+  - Erin E Donahue PhD
+  - Kunal Kadakia MD  
+  - Jonathan C Salo MD
+---
+
+## Esophagectomy for Esophageal Cancer
+
+Despite advanced in minimally-invasive techniques, esophagectomy carries a risk of perioperative morbidity and mortality, particularly in frail patients.
+
+Accurate risk prediction is critical in surgical decision-making, particularly in patients with locally-advanced cancers treated initially with chemoradiation
+
+## Body Composition Analysis from CT scan images
+
+Muscle mass and quality can be measured from staging CT scans and have been shown to accurately predict surgical outcomes
+
+![](images/bc_44_80.png)
+
+## Methods
+
+-   399 Minimally-invasive esophagectomy
+-   Skeletal Muscle Gauge: abdominal wall muscle area × muscle density from CT
+-   “Low Muscle”: Bottom quartile SMG
+-   Age categorized as \<75 vs 75+
+-   Operative mortality at 90 days compared based upon age and skeletal muscle
+
+## 
+
+![](images/Eso_BC/mosaic_1221cmc.png)
+
+## 
+
+![](images/Eso_BC/mosaic1a_1221cmc.png) 
+
+##
+
+![](images/Eso_BC/mosaic2_1221cmc.png) 
+
+##
+
+![](images/Eso_BC/mosaic3a_1221cmc.png) 
+
+##
+
+![](images/Eso_BC/mosaic4_1221cmc.png)
+
+## 
+
+![](images/Eso_BC/scatterplot1221_cmc.png)
+
+## Conclusions
+
+CT-derived muscle measurements accurately risk-stratify patients undergoing minimally-invasive esophagectomy:\
+
+Normal Muscle and Age \<75: 
+
+-   1.8% mortality (n=281)\
+
+\
+Low Muscle and Age 75+: 
+
+-   32% mortality (n=28)

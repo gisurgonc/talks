@@ -1,0 +1,122 @@
+---
+title: "Sample Size"
+---
+
+# Sample Size to Study Rare Events
+
+The hypothetical example is a study comparing two drugs with 150 participants in each arm. The primary outcome is whether a seizure develops after traumatic brain injury.  The estimated incidence of seizure is 2%
+
+Several hypothetical possible outcomes of the study are then arbitrarily generated.  For argument sake, the patients in the Drug A treatment arm experience 3 seizures.  Various *synthetic* data sets are then generated with between 0 and 10 seizures in the Drug B group.
+
+
+## Scenario 1
+
+In this scenario, Drug A is 100% effective and Drug B has no effect.  The Drug A arm has zero seizures and the Drug B arm has 3 seizures:
+
+```{r,echo=F}
+seizure <- c(0, 3)
+no_seizure <- c(150-seizure[1],150-seizure[2])
+
+study.data <- data.frame(
+  seizure,
+  no_seizure,
+  stringsAsFactors = TRUE
+)
+row.names(study.data) <- c("A","B")
+print(study.data)
+
+fisher.test(study.data)
+
+```
+Fisher's exact test shows no statistical difference between arms.
+
+## Scenario 2
+
+In this scenario, Drug A is 100% effective and Drug B decreases the seizure threshold, resulting in more seizures than expected 5/150 = 3.3%
+
+```{r,echo=F}
+seizure <- c(0, 5)
+no_seizure <- c(150-seizure[1],150-seizure[2])
+
+study.data <- data.frame(
+  seizure,
+  no_seizure,
+  stringsAsFactors = TRUE
+)
+row.names(study.data) <- c("A","B")
+print(study.data)
+
+fisher.test(study.data)
+
+```
+
+In this scenario, Fisher's exact test still does not demonstrate a statistically significant differene between groups.
+
+
+## Scenario 3
+
+In this scenario, Drug A is 100% effective and Drug B decreases the seizure threshold, doubling the number of seizures:
+
+```{r,echo=F}
+seizure <- c(0, 6)
+no_seizure <- c(150-seizure[1],150-seizure[2])
+
+study.data <- data.frame(
+  seizure,
+  no_seizure,
+  stringsAsFactors = TRUE
+)
+row.names(study.data) <- c("A","B")
+print(study.data)
+
+fisher.test(study.data)
+
+```
+In this case, a study with 150 subjects per arm could detect a difference where one drug is 100% effective and the other drug doublesY
+the baseline seizure rate.  
+
+## Power Calculation
+
+Using the pwr package from R, in order to detect a difference between groups where one group has an event rate of 1% and the other group has an event rate of 2% (assuming 80% power and 0.05 significance):
+
+```{r}
+library (pwr)
+power12 <-pwr.2p.test(h = ES.h(p1 = 0.01, p2 = 0.02), sig.level = 0.05, power = .80)
+power12
+
+```
+
+These calculations suggest a study size of 2,253 patients per arm would be required.
+
+## Conclusion
+
+A trial with 150 subject per arm and a baseline event rate of 2% is not powered to detect a difference between arms except with the most wildly optimistic of assumptions regarding the differences between arms.
+
+
+
+```{r, include=F}
+
+
+power2 <-pwr.2p.test(h = ES.h(p1 = 0.01, p2 = 0.02),
+                     n = 150,
+                     sig.level = 0.05)
+
+
+
+p1 <- seq(0.01, .20, 0.01)
+power1 <-pwr.2p.test(h = ES.h(p1 = p1, p2 = 0.02),
+                     n = 150,
+                     sig.level = 0.05)
+powerchange <- data.frame(p1, power = power1$power * 100)
+
+#cat(dev.off())
+plot(powerchange$p1, 
+     powerchange$power, 
+     type = "b", 
+     xlab = "Proportion of Responders in Treatment A", 
+     ylab = "Power (%)")
+
+
+
+
+```

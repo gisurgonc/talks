@@ -1,0 +1,52 @@
+---
+title: "Gastric Cancer Treatment Decisions"
+editor: visual
+bibliography: zotero.bib
+---
+
+## Chemo vs ChemoRT preop
+
+Immunotherapy for MSI-Hi gastric cancer [@raimondi2839]
+
+| Study         | Rx                                                       |
+|---------------|----------------------------------------------------------|
+| Keynote 059   | Pembro for advanced previous Rx gastric                  |
+| Keynote 061   | Advanced GC progressed Pembro vs Taxol                   |
+| Keynote 062   | Advanced previous rx HER2neg Pembro vs chemo             |
+| Kenote 016    | dMMR CRC and pMMR Pembro. 0% response in pMMR            |
+| Checkmate 649 | Advanced GC/GEJ: Nivo + chemo. Response in 55% of MSI-Hi |
+|               |                                                          |
+
+## ctDNA
+
+ctDNA from CRITICS trial: Leal Nature Communications2020 Jan 27 11(1)
+
+ctDNA in locally advanced gastric cancer Wo JY, Clin Cancer Res 2021 27(23)
+
+baseline ctDNA mutational load correlates with response to Pembro KIM ST Nat Med 2018 Sep 24(9)
+
+GALAXY trial: Only ctDNA positive patients benefit from adjuvant chemo
+
+## Intraperitoneal chemotherapy
+
+
+Peritoneal Carcinomatosis Index (PCI). [@jacquet359]
+
+RENAISSANCE (AIO-FLOT5) trial [@al-batran893]. Patients with limited-stage metastatic gastric cancer are treated with 4 cycles of FLOT followed by randominzation to additional chemotherapy vs cytoreduction. 
+
+PHOENIX-GC: [@ishigami1922]: Bidirectional Taxol + S-1 vs cisplatin + S-1 in gastric cancer with carcinomatosis.Median duration of treatment on the IP arm was 39 weeks, or 13 cycles.
+
+PERISCOPE I [@koemans904]
+
+PEIRSCOPE II [@koemans420] Randomization between gastrectomy, cytoreductive surgery, and HIPEC (oxaliplatin + paclitacel) vs systemic chemotherapy.
+
+Best survival in patients with PCI <7 
+
+GASTRIPEC-I Trial [@rau146] 105 patients with carcinomatosis from gastric cancer randomized to cytoreductive survey vs cytoreductive surgery + HPIC (mitomycin C and cisplatin). In 55 patients, treatment stopped before cytoreductive surgery due to disease progression/death.  Similar survival (15mo) between groups.  Progression free survival 3.5 months (CRS) vs 7.1 months (HIPEC)
+
+Review of cytoreduction [@khan1176] 
+
+CYROCHIP: retrospective study with 18% 5-year survival. All patients who were disease-free at 5 years had PCI <7 and CC-0 cytoreduction. 
+
+
+STOPGAP I study [@senthil209]: Dx laparoscopy and peritoneal lavage and IP port placement. Treatment with IP paclataxel on day 1 and 8 with 5FU/LV and IV paclitaxel for 4 21-day cycles.Imaging and diagnostic laparoscopy after 4 cycles.  95% completed all 4 cycles. 10/28 patients underwent resection. Progression-free survival of 14 months. 

@@ -1,0 +1,85 @@
+---
+title: "Acute Care of GI Cancer Patients - Archive"
+editor: visual
+bibliography: 'https://deidt7p41jzcy.cloudfront.net/zotero.bib'
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+
+# Esophageal Cancer - Background
+
+E.Z. Keung, X. Liu, A. Nuzhad, et al. In-hospital and long-term outcomes after percutaneous endoscopic gastrostomy in patients with malignancy J Am Coll Surg, 215 (2012), p. 777
+
+
+# Tracheoesophageal fistula
+
+Tracheoesophageal fistula in the context of esophageal cancer is most commonly due to squamous cell carcinoma. These patients need immediate consultation with thoracic surgery and interventional pulmonology.
+
+# Gastric cancer with bleeding
+
+# Gastric cancer with perforation
+
+# Gastric outlet obstruction
+
+Jeurnink SM, Steyerberg EW, van Hooft JE, et al. Surgical gastrojejunostomy or endoscopic stent placement for the palliation of malignant gastric outlet obstruction (SUSTENT study): A multicenter randomized trial. Gastrointest Endosc. 2010;71(3):490-499.
+
+J.H. No, S.W. Kim, C.H. Lim, et al. Long-term outcome of palliative therapy for gastric outlet obstruction caused by unresectable gastric cancer in patients with good performance status: endoscopic stenting versus surgery Gastrointest Endosc, 78 (2013), p. 55
+
+C.G. Kim, I.J. Choi, J.Y. Lee, et al. Outcomes of second self-expandable metallic stent insertion for malignant gastric outlet obstruction Surg Endosc, 28 (2014), p. 281
+
+A. Tringali, P. Didden, A. Repici, et al. Endoscopic treatment of malignant gastric and duodenal strictures: a prospective, multicenter study Gastrointest Endosc, 79 (2014), p. 66
+
+# Appendectomy in the cancer patient
+
+Non-operative paths
+
+# Cholecystitis in the cancer patient
+
+Wait for counts to come back? Percutaneous drainage? Med Once think it's always an emergency...
+
+# Lymph node biossy
+
+Who needs a core vs open biopsy?
+
+# Vascular access in the cancer patient.
+
+## Catheter-related bloodstream infections
+
+See [Infectious Disease Society of America](https://academic.oup.com/cid/article/49/1/1/369414)
+
+# Bile duct obstruction from pancreatic cancer
+
+Neutropenic patient with perirectal abscess - Percutaneous vs
+
+LCI will do followup
+
+First steps
+
+Node - why can't we do a core biopsy?
+
+Keep cases at Mercy and Pineville (don't all need to go to Main)
+
+Red doesn't have time at Main in OR7
+
+Ortho has been doing round trips to Mercy
+
+An acute care surgeon's dilemma: Operative vs. non-operative management of emergency general surgery conditions in patients with recent colorectal cancer treatment. ginzberg p 15
+
+Emergency surgery for patients with cancer receiving systemic anticancer therapy Kathryn Coulson, Nigel Day, Madeleine C Strach, Paul A Sutton British Journal of Surgery, Volume 110, Issue 6, June 2023, Pages 631–634,
+
+Postoperative Mortality for Acute Care Surgery Operations for Patients with Cancer Suggests Differences in Complication Rescue Ward, Carson R; Carpenter, Elizabeth Lee MD; Pospiech, Emily MD, FACS; Chauviere, Matthew Victor MD; Krell, Robert W MD, FACS Author Information Journal of the American College of Surgeons 236(5):p S43, May 2023 - NSQIP
+
+Emergency surgical consultation Open Access for cancer patients: identifying the prognostic determinants of health Kadhim Taqi1\* , Diane Kim2, Lily Yip2, Charlotte Laane3, Zeeshan Rana3, Morad Hameed3, Trevor Hamilton3 and Heather Stuart3
+
+Ribeiro IB, de Moura DTH, Thompson CR, Moura EGH. Acute abdominal obstruction: Colon stent or emergency surgery? An evidence-based review. World J Gastrointest Endosc. 2019;11(3):193-208.
+
+Schuster KM, McGillicuddy EA, Maung AA, Kaplan LJ, Davis KA. Can acute care surgeons perform emergency colon procedures with good outcomes? J Trauma. 2011;71(1):94-101.
+
+Anantha RV, Brackstone M, Parry N, Leslie K. An acute care surgery service expedites the treatment of emergency colon cancer: A retrospective case-control study. World J Emerg Surg. 2014;9(1):19.
+
+[Surgical Clinical of NA: Colorectal Oncologic Emergencies](https://www-clinicalkey-com.wake.idm.oclc.org/#!/content/journal/1-s2.0-S0039610923002086)
+
+Radiologic gastrostomy Y. Inaba, H. Yamaura, Y. Sato, et al. Percutaneous radiologic gastrostomy in patients with malignant pharyngoesophageal obstruction Jpn J Clin Oncol, 43 (2013), p. 713
+
+Colorectal Cancer presenting as surgical emergencies Cuffy Surgical Oncology 2004 p 149
