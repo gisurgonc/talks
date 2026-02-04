@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer Program"
+title: "Esophageal Cancer Management"
 subtitle: "Levine Cancer Institute"
 author: "Jonathan C Salo MD"
 format: 
