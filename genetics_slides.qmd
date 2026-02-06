@@ -196,6 +196,45 @@ If MLH1 is mutated $\rightarrow$ PMS2 protein is *not* detected
 In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
 
+
+Heterodimer pairings of mismatch repair proteins hold the key to interpreting the results from IHC testing.
+
+MLH1 and PMS2 form a heterodimer. MLH1 forms heterodimers with other mismatch repair proteins as well, but PMS2 only binds with MLH1. As a result, loss of MLH1 function will automatically lead to loss of PMS2 staining because it doesn’t have its binding partner. The reverse is not true, however, because MLH1 can still bind with one of its other partners.
+
+MSH2 and MSH6 form another heterodimer. Like MLH1, MSH2 sometimes forms a heterodimer with other mismatch repair proteins. Like PMS2, MSH6 only binds with MSH2. Loss of MSH2 function will therefore automatically lead to loss of MSH6 staining, but not vice versa.
+
+Typically, IHC staining for the mismatch repair proteins is interpreted as follows:
+
+Loss of MLH1 and PMS2 protein staining may indicate a germline MLH1 mutation or somatic MLH1 promoter hypermethylation; additional testing (BRAF V600E mutation analysis or MLH1 hypermethylation analysis) may be useful in distinguishing between these possibilities
+Loss of PMS2 protein staining usually indicates a germline PMS2 mutation
+Loss of MSH2 and MSH6 protein staining usually indicates a germline MSH2 mutation
+Loss of MSH6 protein staining usually indicates a germline MSH6 mutation
+
+
+
+
+Clinicopathological features of BRAF V600E MT CRC patients	Molecular features of BRAF V600E MT CRC
+1. Age >70 years	1. More prevalent in MSI-H>MSS CRC
+2. Female patients	2. More CIMP
+3. Proximal right-sided tumours	3. More MLH-1 methylation
+4. High-grade and poorly differentiated	4. Mutually exclusive to KRAS mutation
+5. Mucinous>non-mucinous	
+6. More peritoneal and lymph node metastases	
+7. Less lung metastases	
+Table 3.
+
+
+## 
+
+## BRAF V600E Mutations in Colorectal Cancer
+
+1. Age >70 years	
+2. Female patients	
+3. Proximal right-sided tumours	
+4. High-grade and poorly differentiated
+5. Mucinous>non-mucinous	
+6. More peritoneal and lymph node metastases	
+
 ## Colon Polyposis: \>10 adenomatous polyps
 
 -   Classical FAP
