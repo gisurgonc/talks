@@ -60,7 +60,6 @@ Longer disease-free survival with 6 years of imatinib
 [@blay1157]
 :::
 
-
 ## Scandinavian Sarcoma Group XXII
 
 High-risk GIST treated with 3 years of imatinib randomized:
@@ -72,22 +71,18 @@ High-risk GIST treated with 3 years of imatinib randomized:
 Ref
 :::
 
-
 ## Persist-5 Trial
 
-Single-arm study to evalute tolerance of 5 years of imatinib
-- Tumors >2cm with >5 mitoses/hpf OR
-- non-gastric primary
+Single-arm study to evalute tolerance of 5 years of imatinib - Tumors \>2cm with \>5 mitoses/hpf OR - non-gastric primary
 
-- 51% of patients discontinued therapy at some point
-- 7/91 patients recurred
-  - 1 during imatinib therapy
-  - 6 within 2 years of discontinuation of imatinib
+-   51% of patients discontinued therapy at some point
+-   7/91 patients recurred
+    -   1 during imatinib therapy
+    -   6 within 2 years of discontinuation of imatinib
 
 ::: aside
 [@Raute184060]
 :::
-
 
 ## Mutational Testing
 
@@ -127,20 +122,20 @@ Weldon JCS 2017
 
 ## Recurrence Risk
 
-+-------------------+-------------+--------------+
-| Risk              | Size        | Mitotic Rate |
-+===================+=============+==============+
-| Very Low Risk     | \<2cm       | \<5          |
-+-------------------+-------------+--------------+
-| Low Risk          | 2-5cm       | \<5          |
-+-------------------+-------------+--------------+
-| Intermediate Risk | \<5cm\      | 6-10\        |
-|                   | 5-10cm      | \<5          |
-+-------------------+-------------+--------------+
-| High Risk         | \>5cm\      | \>5 /50\     |
-|                   | \>10cm\     | Any\         |
-|                   | Any size    | \>10         |
-+-------------------+-------------+--------------+
++-------------------+----------+--------------+
+| Risk              | Size     | Mitotic Rate |
++===================+==========+==============+
+| Very Low Risk     | \<2cm    | \<5          |
++-------------------+----------+--------------+
+| Low Risk          | 2-5cm    | \<5          |
++-------------------+----------+--------------+
+| Intermediate Risk | \<5cm\   | 6-10\        |
+|                   | 5-10cm   | \<5          |
++-------------------+----------+--------------+
+| High Risk         | \>5cm\   | \>5 /50\     |
+|                   | \>10cm\  | Any\         |
+|                   | Any size | \>10         |
++-------------------+----------+--------------+
 
 : Mitotic rate per 50 hpf
 
