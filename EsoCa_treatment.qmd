@@ -260,11 +260,22 @@ Most patients with SCCa will have negative EGD after ChemoRT
 [@vanderwilkS1470]
 :::
 
-## Adenocarcinoma
+## Adenocarcinoma of the Esophagus
+
+Preoperative therapy is indicated for all T3 or N^+^ patients
+
+- ChemoRT (CROSS) $\rightarrow$ Surgery
+- FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT (ESOPEC)
+
 
 ::::: {.columns align="center"}
 ::: {.column width="40%"}
-CROSS: benefit from preoperative ChemoRT is less dramatic with adenocarcinoma
+CROSS: benefit from preoperative ChemoRT is less dramatic with adenocarcinoma than squamous cell
+
+
+
+
+
 :::
 
 ::: {.column width="60%"}
@@ -277,6 +288,7 @@ CROSS: benefit from preoperative ChemoRT is less dramatic with adenocarcinoma
 Primary benefit of ChemoRT is reducing locoregional and mixed failures
 
 ![](images/eyck_modified.png){fig-align="left"}
+Addition of ChemoRT does not decrease distant failure rate (27% vs 28%)
 
 ::: aside
 [@shapiro1090]
@@ -285,6 +297,20 @@ Primary benefit of ChemoRT is reducing locoregional and mixed failures
 ## ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)
 
 ![](images/ESOPEC_survival_modified.png){fig-align="left"}
+
+::: aside
+[@hoeppner323]
+:::
+
+## ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)
+
+## ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)
+
+Resectable adenocarcinoma of the esophagus or GE junction:
+
+FLOT provides superior overall survival compared to CROSS 
+
+- $\tilde{x}$ 66mo vs 37moHR 0.70, p=0.01 
 
 ::: aside
 [@hoeppner323]
@@ -313,6 +339,10 @@ Primary benefit of ChemoRT is reducing locoregional and mixed failures
 -   Less likely to need feeding tube
 :::
 :::::
+
+
+
+
 
 ## Restaging Scans after ChemoRT - Adenocarcinoma
 
