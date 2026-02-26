@@ -46,7 +46,6 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 [@gastrointestinaltumorstudygroup1465]
 :::
 
-
 ## GI Tumor Study Group 1985
 
 Local Recurrence
@@ -70,8 +69,6 @@ No difference in overall survival
 [@heald1479]
 :::
 
-
-
 69 with anastomosis below 5cm
 
 Median followup of 4.2 years:
@@ -87,7 +84,6 @@ Dutch trial combined postoperative chemoRT and protocol-driven surgery using tot
 Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival
 
 ## Dutch Preop Short-course Trial
-
 
 1861 patients randomized:
 
@@ -144,17 +140,17 @@ No differences between groups in:
 
 ## Short-course RT
 
-Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. 
+Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery.
 
 Local recurrence was 9% in the therapy group vs 26% in the control group
 
-Overall survival at 5 years of 58% vs 48% (p=0.004) 
+Overall survival at 5 years of 58% vs 48% (p=0.004)
 
 Disease-specific survival at 9 years 74% vs 65%. (p=0.002)
 
 Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.
 
-:::aside
+::: aside
 [@swedishrectalcancertrial980]
 :::
 
@@ -166,13 +162,13 @@ Of note, this trial was performed in the era prior to the widespread use of tota
 
 840 patients with rectal cancer randomized to preoperative radiation:
 
-- Short course (5 x 5Gy) with surgery the following week
-- Short course (5 x 5 Gy) with surgery 4- weeks later
-- Long-course  (25 x 2Gy) with surgery 4-8 weeks later
+-   Short course (5 x 5Gy) with surgery the following week
+-   Short course (5 x 5 Gy) with surgery 4- weeks later
+-   Long-course (25 x 2Gy) with surgery 4-8 weeks later
 
 With short-course radiation, elayed surgery resulted in higher rates of pCR (11.8% vs 1.7%)
 
-:::[aside]
+::: [aside]
 [@pettersson972]
 :::
 
@@ -390,5 +386,15 @@ ChemoRT $\rightarrow$ Chemo 54% organ preservation
 ::: aside
 [@smith767]
 :::
+
+
+## Complete vs Near Complete clinical response
+
+
+
+::: aside
+[@smith767]
+:::
+
 
 ## References
