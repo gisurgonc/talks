@@ -6048,18 +6048,18 @@
     "text": "SANO Surveillance Schema\n\n\n\n\n\n\n\n(Wilk et al. 2025)"
   },
   {
-    "objectID": "EsoCa_treatment.htm#adenocarcinoma",
-    "href": "EsoCa_treatment.htm#adenocarcinoma",
+    "objectID": "EsoCa_treatment.htm#adenocarcinoma-of-the-esophagus",
+    "href": "EsoCa_treatment.htm#adenocarcinoma-of-the-esophagus",
     "title": "Esophageal Cancer Management",
-    "section": "Adenocarcinoma",
-    "text": "Adenocarcinoma\n\n\nCROSS: benefit from preoperative ChemoRT is less dramatic with adenocarcinoma\n\n\n\n\nSurgery vs ChemoRT (Adenocarcinoma is solid lines)"
+    "section": "Adenocarcinoma of the Esophagus",
+    "text": "Adenocarcinoma of the Esophagus\nPreoperative therapy is indicated for all T3 or N+ patients\n\nChemoRT (CROSS) \\(\\rightarrow\\) Surgery\nFLOT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) FLOT (ESOPEC)\n\n\n\nCROSS: benefit from preoperative ChemoRT is less dramatic with adenocarcinoma than squamous cell\n\n\n\n\nSurgery vs ChemoRT (Adenocarcinoma is solid lines)"
   },
   {
     "objectID": "EsoCa_treatment.htm#cross-treatment-failures",
     "href": "EsoCa_treatment.htm#cross-treatment-failures",
     "title": "Esophageal Cancer Management",
     "section": "CROSS Treatment Failures",
-    "text": "CROSS Treatment Failures\nPrimary benefit of ChemoRT is reducing locoregional and mixed failures\n\n\n\n\n\n\n\n(Shapiro et al. 2015)"
+    "text": "CROSS Treatment Failures\nPrimary benefit of ChemoRT is reducing locoregional and mixed failures\n Addition of ChemoRT does not decrease distant failure rate (27% vs 28%)\n\n\n(Shapiro et al. 2015)"
   },
   {
     "objectID": "EsoCa_treatment.htm#esopec-periop-chemo-flot-vs-chemort-cross",
@@ -6067,6 +6067,20 @@
     "title": "Esophageal Cancer Management",
     "section": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)",
     "text": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)\n\n\n\n\n\n\n\n(Hoeppner et al. 2025)"
+  },
+  {
+    "objectID": "EsoCa_treatment.htm#esopec-periop-chemo-flot-vs-chemort-cross-1",
+    "href": "EsoCa_treatment.htm#esopec-periop-chemo-flot-vs-chemort-cross-1",
+    "title": "Esophageal Cancer Management",
+    "section": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)",
+    "text": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)"
+  },
+  {
+    "objectID": "EsoCa_treatment.htm#esopec-periop-chemo-flot-vs-chemort-cross-2",
+    "href": "EsoCa_treatment.htm#esopec-periop-chemo-flot-vs-chemort-cross-2",
+    "title": "Esophageal Cancer Management",
+    "section": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)",
+    "text": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)\nResectable adenocarcinoma of the esophagus or GE junction:\nFLOT provides superior overall survival compared to CROSS\n\n\\(\\tilde{x}\\) 66mo vs 37moHR 0.70, p=0.01\n\n\n\n(Hoeppner et al. 2025)"
   },
   {
     "objectID": "EsoCa_treatment.htm#locally-advanced-adenocarcinoma",
@@ -6157,7 +6171,7 @@
     "href": "EsoCa_treatment.htm#locally-advanced",
     "title": "Esophageal Cancer Management",
     "section": "Locally Advanced",
-    "text": "Locally Advanced\nTreatment depends upon histology:\nSquamous Cell Carcinoma\nAdenocarcinoma"
+    "text": "Locally Advanced\nTreatment depends upon histology:\nSquamous Cell Carcinoma\n[Adenocarcinoma]"
   },
   {
     "objectID": "EsoCa_treatment.htm#metastatic",
