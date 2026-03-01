@@ -5905,7 +5905,7 @@
     "href": "EsoCa_treatment.htm#esophageal-cancer-treatment-categories",
     "title": "Esophageal Cancer Management",
     "section": "Esophageal Cancer Treatment Categories",
-    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nT1b T2\nSurgery\n\n\nLocally advanced\nT3 or N+\nChemo\\(\\pm\\) RT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
+    "text": "Esophageal Cancer Treatment Categories\n\n\n\nCategory\nStage\nTreatment\n\n\n\n\nSuperficial Tumors\nT1a\nEndoscopic Therapy\n\n\n[Localized Tumors]\nT1b T2\nSurgery\n\n\nLocally advanced\nT3 or N+\nChemo\\(\\pm\\) RT → Surgery\n\n\nMetastatic\nM1\nChemotherapy +/- Radiation"
   },
   {
     "objectID": "EsoCa_treatment.htm#superficial-tumors",
@@ -5950,18 +5950,32 @@
     "text": "EMR Deep Positive Margin\n\n\nPositive deep margin on EMR: likely understaged.\nHigh risk of lymph node metastasis\nRecommendation for Surgery"
   },
   {
-    "objectID": "EsoCa_treatment.htm#localized-tumors",
-    "href": "EsoCa_treatment.htm#localized-tumors",
+    "objectID": "EsoCa_treatment.htm#t2-n0-adenocarcinoma-of-the-esophagus-localized",
+    "href": "EsoCa_treatment.htm#t2-n0-adenocarcinoma-of-the-esophagus-localized",
     "title": "Esophageal Cancer Management",
-    "section": "Localized Tumors",
-    "text": "Localized Tumors\nuT2 N0 are candidates for primary surgery. However:\n\nEUS has a 25% rate of understaging uT2 N0 tumors\nUnderstaged patients treated with surgery need chemo or chemoRT postop"
+    "section": "T2 N0 Adenocarcinoma of the Esophagus (Localized)",
+    "text": "T2 N0 Adenocarcinoma of the Esophagus (Localized)\nT2 N0 adenocarcinoma can be treated with primary surgery\nFFCD 9901 trial surgergy \\(\\pm\\) preop chemoRT in stage I and II esopohageal cancer\nTrial did not show any benefit of trimodality therapy over surgery alone for early stage cancer\n\n\n(Mariette et al. 2014)"
   },
   {
-    "objectID": "EsoCa_treatment.htm#asymptomatic-esophageal-tumors-minimal-dysphagia",
-    "href": "EsoCa_treatment.htm#asymptomatic-esophageal-tumors-minimal-dysphagia",
+    "objectID": "EsoCa_treatment.htm#t2-n0-adenocarcinoma-of-the-esopahagus",
+    "href": "EsoCa_treatment.htm#t2-n0-adenocarcinoma-of-the-esopahagus",
     "title": "Esophageal Cancer Management",
-    "section": "Asymptomatic Esophageal Tumors (minimal dysphagia)",
-    "text": "Asymptomatic Esophageal Tumors (minimal dysphagia)\n\nEUS to distinguish T2 from T3 tumors\nuT2 N0 \\(\\rightarrow\\) CT chest/abdomen/pelvis \\(\\rightarrow\\) Esophagectomy\nuT3 or N1 \\(\\rightarrow\\) PET \\(\\rightarrow\\) neoadjuvant therapy\n\nPatients with dysphagia almost always are T3 tumors (and don’t need EUS)"
+    "section": "T2 N0 adenocarcinoma of the Esopahagus",
+    "text": "T2 N0 adenocarcinoma of the Esopahagus\nASCO Clinical Guidelines (2020):\nT2 N0 esophageal cancer: “surgery alone may be considered after discussion with a multidisciplinary team”\n\n\nshah. J Clin Oncol 38, 2677-2694(2020) Volume 38, Number 23"
+  },
+  {
+    "objectID": "EsoCa_treatment.htm#t2-n0-adenocarcinoma---staging",
+    "href": "EsoCa_treatment.htm#t2-n0-adenocarcinoma---staging",
+    "title": "Esophageal Cancer Management",
+    "section": "T2 N0 Adenocarcinoma - Staging",
+    "text": "T2 N0 Adenocarcinoma - Staging\nStaging requires endoscopic ultrasound (EUS)\nuT2 N0 are candidates for primary surgery. However:\n\nEUS has a 25% rate of understaging uT2 N0 tumors\nUnderstaged patients treated with surgery need chemo or chemoRT postop"
+  },
+  {
+    "objectID": "EsoCa_treatment.htm#workup-of-asymptomatic-esophageal-tumors-minimal-dysphagia",
+    "href": "EsoCa_treatment.htm#workup-of-asymptomatic-esophageal-tumors-minimal-dysphagia",
+    "title": "Esophageal Cancer Management",
+    "section": "Workup of Asymptomatic Esophageal Tumors (minimal dysphagia)",
+    "text": "Workup of Asymptomatic Esophageal Tumors (minimal dysphagia)\n\nEUS to distinguish T2 from T3 tumors\nuT2 N0 \\(\\rightarrow\\) CT chest/abdomen/pelvis \\(\\rightarrow\\) Esophagectomy\nuT3 or N1 \\(\\rightarrow\\) PET \\(\\rightarrow\\) neoadjuvant therapy\n\nPatients with dysphagia almost always are T3 tumors (and don’t need EUS)"
   },
   {
     "objectID": "EsoCa_treatment.htm#symptomatic-esophageal-tumors-dysphagia",
@@ -5982,7 +5996,7 @@
     "href": "EsoCa_treatment.htm#squamous-cell-carcinoma",
     "title": "Esophageal Cancer Management",
     "section": "Squamous Cell Carcinoma",
-    "text": "Squamous Cell Carcinoma\n\n\nStandard Treatment: ChemoRT (CROSS)\n\nWeekly Carboplatin + Paclitaxel\n5040 cGy radiation in 28 fractions\n\nCROSS: 49% pCR for squamous cell\n\\(\\Rightarrow\\) Majority never need surgery\n\n\n\n\nSurgery vs ChemoRT\\(\\rightarrow\\) (Squamous Cell is dotted lines)"
+    "text": "Squamous Cell Carcinoma\n\n\nStandard Treatment: ChemoRT (CROSS)\n\nWeekly Carboplatin + Paclitaxel\n5040 cGy radiation in 28 fractions\n\nCROSS: 49% pCR for squamous cell\n\\(\\Rightarrow\\) Majority never need surgery due to the sensitivity of squamous call carcinoma to chemoRT\n\n\n\n\nSurgery vs ChemoRT\\(\\rightarrow\\) (Squamous Cell is dotted lines)"
   },
   {
     "objectID": "EsoCa_treatment.htm#squamous-cell-carcinoma-1",
@@ -6081,6 +6095,13 @@
     "title": "Esophageal Cancer Management",
     "section": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)",
     "text": "ESOPEC: Periop Chemo (FLOT) vs ChemoRT (CROSS)\nResectable adenocarcinoma of the esophagus or GE junction:\nFLOT provides superior overall survival compared to CROSS\n\n\\(\\tilde{x}\\) 66mo vs 37moHR 0.70, p=0.01\n\n\n\n(Hoeppner et al. 2025)"
+  },
+  {
+    "objectID": "EsoCa_treatment.htm#matterhorn-flot-durvalumab",
+    "href": "EsoCa_treatment.htm#matterhorn-flot-durvalumab",
+    "title": "Esophageal Cancer Management",
+    "section": "Matterhorn: FLOT + Durvalumab",
+    "text": "Matterhorn: FLOT + Durvalumab\nMatterhorn"
   },
   {
     "objectID": "EsoCa_treatment.htm#locally-advanced-adenocarcinoma",
@@ -6185,7 +6206,7 @@
     "href": "EsoCa_treatment.htm#references",
     "title": "Esophageal Cancer Management",
     "section": "References",
-    "text": "References\n\n\n\n\n\n\n\n \n\n\n \n\n\n \n\n\n\n\nColcord, Madison E., Jennifer H. Benbow, Sally Trufan, Nicole L. Gower, Meredith E. Byrne, Reilly E. Shea, Michael D. Watson, Joshua S. Hill, M. Hart Squires, and Jonathan C. Salo. 2021. “Preoperative Muscle Strength Is a Predictor of Outcomes After Esophagectomy.” Journal of Gastrointestinal Surgery: Official Journal of the Society for Surgery of the Alimentary Tract 25 (12): 3040–48. https://doi.org/10.1007/s11605-021-05183-y.\n\n\nHoeppner, Jens, Thomas Brunner, Claudia Schmoor, Peter Bronsert, Birte Kulemann, Rainer Claus, Stefan Utzolino, et al. 2025. “Perioperative Chemotherapy or Preoperative Chemoradiotherapy in Esophageal Cancer.” The New England Journal of Medicine 392 (4): 323–35. https://doi.org/10.1056/NEJMoa2409408.\n\n\nLorimer, P. D., B. M. Motz, D. M. Boselli, M. K. Reames, J. S. Hill, and J. C. Salo. 2019. “Quality Improvement in Minimally Invasive Esophagectomy: Outcome Improvement Through Data Review.” Ann Surg Oncol 26 (1): 177–87. https://doi.org/10.1245/s10434-018-6938-z.\n\n\nRipley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit S. Bains, David R. Jones, Prasad S. Adusumilli, et al. 2016. “Pretreatment Dysphagia in Esophageal Cancer Patients May Eliminate the Need for Staging by Endoscopic Ultrasonography.” The Annals of Thoracic Surgery 101 (1): 226–30. https://doi.org/10.1016/j.athoracsur.2015.06.062.\n\n\nSanderfer, V.Christian, Ansley B. Ricker, Alexis M. Holland, Erin E. Donahue, Reilly E. Shea, Nicholas Mullis, Sophia Bellavia, et al. 2025. “Age and Muscle Measures Predict Benefit of Surgery in Locally-Advanced Adenocarcinoma of the Esophagus.” Surgical Oncology Insight 2 (4). https://doi.org/10.1016/j.soi.2025.100189.\n\n\nSanderfer, V.Christian, Ansley B. Ricker, Alexis M. Holland, Erin E. Donahue, Reilly E. Shea, Matigan Simpson, Malcolm H. Squires, and Jonathan Salo. 2025. “Age and Muscle Measures Predict Benefit of Surgery in Locally-Advanced Adenocarcinoma of the Esophagus.” Surgical Oncology Insight 2 (3).\n\n\nShapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. “Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (CROSS): Long-Term Results of a Randomised Controlled Trial.” The Lancet. Oncology 16 (9): 1090–98. https://doi.org/10.1016/S1470-2045(15)00040-6.\n\n\nWilk, Berend J. van der, Ben M. Eyck, Bas P. L. Wijnhoven, Sjoerd M. Lagarde, Camiel Rosman, Bo J. Noordman, Maria J. Valkema, et al. 2025. “Neoadjuvant Chemoradiotherapy Followed by Active Surveillance Versus Standard Surgery for Oesophageal Cancer (SANO Trial): A Multicentre, Stepped-Wedge, Cluster-Randomised, Non-Inferiority, Phase 3 Trial.” The Lancet. Oncology, March, S1470-2045(25)00027-0. https://doi.org/10.1016/S1470-2045(25)00027-0."
+    "text": "References\n\n\n\n\n\n\n\n \n\n\n \n\n\n \n\n\n\n\nColcord, Madison E., Jennifer H. Benbow, Sally Trufan, Nicole L. Gower, Meredith E. Byrne, Reilly E. Shea, Michael D. Watson, Joshua S. Hill, M. Hart Squires, and Jonathan C. Salo. 2021. “Preoperative Muscle Strength Is a Predictor of Outcomes After Esophagectomy.” Journal of Gastrointestinal Surgery: Official Journal of the Society for Surgery of the Alimentary Tract 25 (12): 3040–48. https://doi.org/10.1007/s11605-021-05183-y.\n\n\nHoeppner, Jens, Thomas Brunner, Claudia Schmoor, Peter Bronsert, Birte Kulemann, Rainer Claus, Stefan Utzolino, et al. 2025. “Perioperative Chemotherapy or Preoperative Chemoradiotherapy in Esophageal Cancer.” The New England Journal of Medicine 392 (4): 323–35. https://doi.org/10.1056/NEJMoa2409408.\n\n\nLorimer, P. D., B. M. Motz, D. M. Boselli, M. K. Reames, J. S. Hill, and J. C. Salo. 2019. “Quality Improvement in Minimally Invasive Esophagectomy: Outcome Improvement Through Data Review.” Ann Surg Oncol 26 (1): 177–87. https://doi.org/10.1245/s10434-018-6938-z.\n\n\nMariette, C., L. Dahan, F. Mornex, E. Maillard, P. A. Thomas, B. Meunier, V. Boige, et al. 2014. “Surgery Alone Versus Chemoradiotherapy Followed by Surgery for Stage I and II Esophageal Cancer: Final Analysis of Randomized Controlled Phase III Trial FFCD 9901.” J Clin Oncol 32 (23): 2416–22. https://doi.org/10.1200/JCO.2013.53.6532.\n\n\nRipley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, Camelia S. Sima, Manjit S. Bains, David R. Jones, Prasad S. Adusumilli, et al. 2016. “Pretreatment Dysphagia in Esophageal Cancer Patients May Eliminate the Need for Staging by Endoscopic Ultrasonography.” The Annals of Thoracic Surgery 101 (1): 226–30. https://doi.org/10.1016/j.athoracsur.2015.06.062.\n\n\nSanderfer, V.Christian, Ansley B. Ricker, Alexis M. Holland, Erin E. Donahue, Reilly E. Shea, Nicholas Mullis, Sophia Bellavia, et al. 2025. “Age and Muscle Measures Predict Benefit of Surgery in Locally-Advanced Adenocarcinoma of the Esophagus.” Surgical Oncology Insight 2 (4). https://doi.org/10.1016/j.soi.2025.100189.\n\n\nSanderfer, V.Christian, Ansley B. Ricker, Alexis M. Holland, Erin E. Donahue, Reilly E. Shea, Matigan Simpson, Malcolm H. Squires, and Jonathan Salo. 2025. “Age and Muscle Measures Predict Benefit of Surgery in Locally-Advanced Adenocarcinoma of the Esophagus.” Surgical Oncology Insight 2 (3).\n\n\nShapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hagen, Mark I. van Berge Henegouwen, Bas P. L. Wijnhoven, Hanneke W. M. van Laarhoven, et al. 2015. “Neoadjuvant Chemoradiotherapy Plus Surgery Versus Surgery Alone for Oesophageal or Junctional Cancer (CROSS): Long-Term Results of a Randomised Controlled Trial.” The Lancet. Oncology 16 (9): 1090–98. https://doi.org/10.1016/S1470-2045(15)00040-6.\n\n\nWilk, Berend J. van der, Ben M. Eyck, Bas P. L. Wijnhoven, Sjoerd M. Lagarde, Camiel Rosman, Bo J. Noordman, Maria J. Valkema, et al. 2025. “Neoadjuvant Chemoradiotherapy Followed by Active Surveillance Versus Standard Surgery for Oesophageal Cancer (SANO Trial): A Multicentre, Stepped-Wedge, Cluster-Randomised, Non-Inferiority, Phase 3 Trial.” The Lancet. Oncology, March, S1470-2045(25)00027-0. https://doi.org/10.1016/S1470-2045(25)00027-0."
   },
   {
     "objectID": "robot_esophagectomy_sw.htm#ivor-lewis-sarkaria",
