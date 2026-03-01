@@ -134,14 +134,40 @@ Recommendation for Surgery
 :::
 :::::
 
-## Localized Tumors
+## T2 N0 Adenocarcinoma of the Esophagus (Localized)
+
+T2 N0 adenocarcinoma can be treated with primary surgery
+
+FFCD 9901 trial surgergy $\pm$ preop chemoRT in stage I and II esopohageal cancer
+
+Trial did not show any benefit of trimodality therapy over surgery alone for early stage cancer
+
+
+
+::: aside
+[@mariette2416]
+:::
+
+## T2 N0 adenocarcinoma of the Esopahagus
+
+ASCO Clinical Guidelines (2020):
+
+T2 N0 esophageal cancer: "surgery alone may be considered after discussion with a multidisciplinary team"
+
+::: aside
+shah. J Clin Oncol 38, 2677-2694(2020) Volume 38, Number 23
+:::
+
+## T2 N0 Adenocarcinoma - Staging
+
+Staging requires endoscopic ultrasound (EUS)
 
 uT2 N0 are candidates for primary surgery. *However:*
 
 -   EUS has a 25% rate of understaging uT2 N0 tumors
 -   Understaged patients treated with surgery need chemo or chemoRT postop
 
-## Asymptomatic Esophageal Tumors (minimal dysphagia)
+## Workup of Asymptomatic Esophageal Tumors (minimal dysphagia)
 
 -   EUS to distinguish T2 from T3 tumors
 -   uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
@@ -185,7 +211,7 @@ Standard Treatment: ChemoRT (CROSS)
 
 CROSS: 49% pCR for squamous cell
 
-$\Rightarrow$ Majority never need surgery
+$\Rightarrow$ Majority never need surgery due to the sensitivity of squamous call carcinoma to chemoRT
 :::
 
 ::: {.column width="55%"}
@@ -315,6 +341,11 @@ FLOT provides superior overall survival compared to CROSS
 ::: aside
 [@hoeppner323]
 :::
+
+## Matterhorn: FLOT + Durvalumab
+
+Matterhorn
+
 
 ## Locally Advanced Adenocarcinoma
 
