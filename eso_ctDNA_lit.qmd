@@ -38,6 +38,18 @@ The presence of circulating, tumor DNA (ctDNA) in plasma is well established(11â
 
 ![Defize Algorithm](images/defize.png)
 
+## Personalis
+
+
+## Trial design
+
+Need to specify surveillance interval with CT scans (every 3 months for first year, then every 4 months for second year, then every 6 months for years 3-5)
+
+Need to calculate sample size required: (From Azad)
+
+50% of patients will develop recurrence (based on 2-year progression-free survival data from the CROSS trial neoadjuvant chemoradiotherapy arm1); 2) Sensitivity of ctDNA MRD detection will be 75% (conservative estimate based on 94% sensitivity observed in our recent study of localized lung cancer); 3) Specificity of ctDNA MRD detection will be 90% (conservative estimate based on 100% specificity observed in our recent study of localized lung cancer). Using these assumptions, the risk of progression will be 88% versus 22% for patients with positive versus negative ctDNA MRD. A total sample size of 26 patients will yield 95% power to detect this difference with a one-sided alpha of 0.05.
+
+
 **Rotterdam** [@eyck35] Detection of circulating tumour DNA after neoadjuvant chemoradiotherapy in patients with locally advanced oesophageal cancer. J Pathol 2023; 259: 35â€“45. Samples taking before, 6 weeks after and 23 weeks after CRT. 29/31 patients had mutations detected on *tissue biopsy*. 24/31 (77%) had mutations potentially detectable in cfDNA. Pretreatment ctDNA detected in 9 (9/24 = 38%( patients, four of whom had incurable disease progression before surgery (2 prior to ChemoRT and 2 prior to surgery). None of these 9 had a pCR. 6/9 had major residual disease after chemoRT. After ChemoRT, ctDNA was detected in 3 patients (3/24 = 12.5%), two of whom had disease progression. Patients were examined wtih CT and EGD biopsies after ChemoRT as part of the SANO trial. ctDNA did not detect any additional patients with residual disease after ChemoRT. ctDNA analyzed with [Thermo Fisher Colon Oncoline kit](https://www.thermofisher.com/us/en/home/life-science/cancer-research/cancer-genomics/liquid-biopsy-cancer-research-applications/oncomine-cell-free-dna-assays-liquid-biopsy-clinical-research.html). $\Rightarrow$. ctDNA can detect some patients with high-risk disease who are at risk for progression (and should have further staging investigations prior to surgery OR be offered watch/wait), but did not help detect patients after ChemoRT who had residual disease (who would be candidates for salvage esophagectomy)
 
 Melbourne [@cabalage120] 62 patients with adenocarcinoma with **tumor-informed** approach. 9 genes analyzed with targeted amplicon sequencing. Pre-treatment biopsies showed mutations in 55/62 (63%). ctDNA at baseline in 20/55 (36%). The majority (90%) of patients with detectable ctDNA had either locally advanced tumors, nodal involvement or metastatic disease. In patients with locally advanced tumors, disease free survival (DFS) was more accurately stratified using pre-treatment ctDNA status \[HR 4.34 (95% CI 0.93-20.21); P = 0.05\] compared to nodal status on PET-CT. In an exploratory subgroup analysis, patients who are node negative but ctDNA positive have inferior DFS \[HR 11.71 (95% CI 1.16-118.80) P = 0.04\]. In blood samples taken before and following NAT, clearance of ctDNA after NAT was associated with a favourable response to treatment. Furthermore, patients who are ctDNA positive during post-treatment surveillance are at high risk of relapse.

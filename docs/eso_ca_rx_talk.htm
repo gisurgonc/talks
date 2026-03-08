@@ -6,9 +6,9 @@
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.32">
+  <meta name="generator" content="quarto-1.8.25">
 
   <title>talks – Esophageal Cancer Treatment</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -49,7 +49,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-1bfc803f7d9cef93baa60c95d324bd83.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-225c1a7c3df239851688117107ca4133.css">
   <link rel="stylesheet" href="lci_styles.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -181,14 +181,14 @@
 <td style="text-align: left;">Surgery</td>
 </tr>
 <tr class="even">
-<td><a href="#/locally-advanced">Locally-advanced</a></td>
+<td><a href="#/Local">Locally-advanced</a></td>
 <td style="text-align: center;">T3 or N<sup>+</sup></td>
-<td style="text-align: left;">ChemoRT → Surgery</td>
+<td style="text-align: left;">Chemo<span class="math inline">\(\pm\)</span>RT → Surgery</td>
 </tr>
 <tr class="odd">
 <td><a href="#/metastatic">Metastatic</a></td>
 <td style="text-align: center;">M1</td>
-<td style="text-align: left;">Chemotherapy +/- Radiation</td>
+<td style="text-align: left;">Chemotherapy <span class="math inline">\(\pm\)</span>Radiation</td>
 </tr>
 </tbody>
 </table>
@@ -267,7 +267,7 @@
 <h2>Symptomatic Tumors (dysphagia)</h2>
 <p>Patients with dysphagia to solids or weight loss or tumor length &gt;3cm are unlikely to have T1-2 tumors and can be initially evaluated with <a href="#/pet-scan">PET Scan</a></p>
 <ul>
-<li>Disease confined to the esophagus and regional nodes <span class="math inline">\(\rightarrow\)</span> <a href="#/locally-advanced">Locally-advanced</a></li>
+<li>Disease confined to the esophagus and regional nodes <span class="math inline">\(\rightarrow\)</span> <a href="#/Local">Locally-advanced</a></li>
 <li>Metastatic disease <span class="math inline">\(\rightarrow\)</span> <a href="#/metastatic">Metastatic</a></li>
 <li>N3 <span class="math inline">\(\rightarrow\)</span> induction chemotherapy followed by chemoradiation and surgical evaluation.</li>
 </ul>
@@ -291,36 +291,77 @@
 <aside><div>
 
 </div></aside></section>
-<section id="locally-advanced" class="slide level2">
+<section id="Local" class="slide level2">
 <h2>Locally-advanced</h2>
-<p>For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:</p>
+<p>Improved survival with adjunctive therapy. There are two options:</p>
 <ul>
-<li>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery (<a href="#/cross-trial">CROSS Trial</a>)</li>
-<li>Chemo <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemo ([EsoPEC Trial])</li>
+<li>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery (<a href="#/CROSS">CROSS Trial</a>)</li>
+<li>Chemo <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemo (<a href="#/EsoPEC">EsoPEC Trial</a>)</li>
 </ul>
 </section>
-<section id="cross-trial" class="slide level2">
-<h2>CROSS Trial</h2>
-<ul>
-<li>368 esophageal cancer patients randomized:
-<ul>
-<li>Surgery alone</li>
-<li>Chemo+RT <span class="math inline">\(\rightarrow\)</span> Surgery</li>
-</ul></li>
-<li>75% adenocarcinoma</li>
-<li>T3: 80%. T2: 17%</li>
-<li>age <span class="math inline">\(\tilde{x}\)</span>=60</li>
-<li>longer survival with Chemo+RT <span class="math inline">\(\rightarrow\)</span> Surgery</li>
-</ul>
-<p>CROSS Trial Details</p>
-<p>Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)</p>
+<section id="CROSS" class="slide level2">
+<h2>CROSS Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span>Surgery</h2>
+<p>368 esophageal cancer patients randomized:</p>
+<pre><code>-   Surgery alone
+-   Chemo+RT $\rightarrow$ Surgery</code></pre>
+<p>75% adenocarcinoma. T3: 80% T2: 17%. age <span class="math inline">\(\tilde{x}\)</span>=60</p>
+<p><span class="math inline">\(\Rightarrow\)</span> longer survival with Chemo+RT <span class="math inline">\(\rightarrow\)</span> Surgery</p>
+<p>Chemotherapy: Weekly carboplatin and paclitaxel</p>
+<p>Radiation: 4140 cGy in 23 fractions (180cGy/fraction)</p>
 
 <aside><div>
 <p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
 </div></aside></section>
-<section id="cross" class="slide level2">
-<h2>CROSS</h2>
-<p>The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p &lt; 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p &lt; 0.001).</p>
+<section id="cross-surgery-vs-chemort-rightarrowsurgery" class="slide level2">
+<h2>CROSS Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span>Surgery</h2>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th></th>
+<th style="text-align: center;">Surgeruy</th>
+<th style="text-align: center;">CRT<span class="math inline">\(\rightarrow\)</span>Surgery</th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Time to Surgery</td>
+<td style="text-align: center;">24d</td>
+<td style="text-align: center;">97d</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Unresectable</td>
+<td style="text-align: center;">13%</td>
+<td style="text-align: center;">4%</td>
+<td>p=0.002</td>
+</tr>
+<tr class="odd">
+<td>R0 Resection</td>
+<td style="text-align: center;">92%</td>
+<td style="text-align: center;">69%</td>
+<td>p&lt;0.001</td>
+</tr>
+<tr class="even">
+<td>Positive Nodes</td>
+<td style="text-align: center;">75%</td>
+<td style="text-align: center;">31%</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Complications</td>
+<td style="text-align: center;">~</td>
+<td style="text-align: center;">~</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Mortality</td>
+<td style="text-align: center;">~</td>
+<td style="text-align: center;">~</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="cross---overall-survival" class="slide level2">
 <h2>CROSS - Overall Survival</h2>
@@ -346,66 +387,28 @@
 <aside><div>
 <p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
 </div></aside></section>
-<section id="cross---adenocarcinooma" class="slide level2">
-<h2>CROSS - Adenocarcinooma</h2>
-<p>Median survival 43mo vs 27mo</p>
-<p>Pathologic complete response in 23%</p>
-</section>
-<section id="cross---squamous-cell-carcinoma" class="slide level2">
-<h2>CROSS - Squamous cell carcinoma</h2>
-<p>Median survival 82mo vs 21mo</p>
-<p>Pathologic complete response in 49%</p>
+<section id="cross-effects-by-histology" class="slide level2">
+<h2>CROSS Effects by Histology</h2>
+<p>Adenocarcinoma</p>
+<ul>
+<li>Median survival 43mo vs 27mo</li>
+<li>Pathologic complete response in 23%</li>
+</ul>
+<p>Squmous Cell Carcinoma</p>
+<ul>
+<li>Median survival 82mo vs 21mo</li>
+<li>Pathologic complete response in 49%</li>
+</ul>
+<p><a href="#/surgery_squamous">Surgical Therapy of Squamous Cell</a></p>
 
 <aside><div>
 <p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
 </div></aside></section>
-<section id="cross---sites-of-failure" class="slide level2">
-<h2>CROSS - Sites of Failure</h2>
-<div class="columns">
-<div class="column" style="width:30%;">
-<p>Sites of failure over time</p>
-<p>ChemoRT + Surgery <em>vs</em> Surgery</p>
-<p>ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure</p>
-</div><div class="column" style="width:70%;">
-<p><img data-src="images/eyck.png"></p>
-</div></div>
-
-<aside><div>
-<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
-</div></aside></section>
-<section id="adjuvant-immunotherapy-checkmate-577-trial" class="slide level2">
-<h2>Adjuvant Immunotherapy: Checkmate 577 Trial</h2>
-<p>Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease</p>
-<p>Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell</p>
-<p>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery <em>with residual disease on pathology</em></p>
-<p>Treatment Group: Nivolumab every 2 weeks x 4 months <span class="math inline">\(\rightarrow\)</span> every month x 8 months</p>
-<p>Control Group: No adjuvant therapy</p>
-<p>Results: Better survival in group with adjuvant nivolumab</p>
-
-<aside><div>
-<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
-</div></aside></section>
-<section id="nivolumab" class="slide level2">
-<h2>Nivolumab</h2>
-<div class="columns">
-<div class="column" style="width:60%;">
-<p>PD-L1 agonist ligand</p>
-<p>Interferes with tumor cell down-regulation of T cells</p>
-<p>Active against stage IV esophageal cancer</p>
-</div><div class="column" style="width:40%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="images/nivo.png"></p>
-<figcaption>Nivolumab mechanism of action</figcaption>
-</figure>
-</div>
-</div></div>
-</section>
-<section id="chekmate-577-trial" class="slide level2">
-<h2>Chekmate 577 Trial</h2>
+<section id="chekmate-577-addjuvant-nivolumab-immunotherapy" class="slide level2">
+<h2>Chekmate 577: Addjuvant Nivolumab (immunotherapy)</h2>
 <p>EsoCA patients who received ChemoRT<span class="math inline">\(\rightarrow\)</span> Surgery with residual disease (not pCR)</p>
-<p>Randomized to one year of immunotherapy (nivolumab) vs Observation</p>
-<p>Adjuvant nivolumab group had longer median survival: 22mo vs 11mo</p>
+<p>Randomized to one year of nivolumab vs Observation</p>
+<p><span class="math inline">\(\Rightarrow\)</span> Adjuvant nivolumab group had longer median survival: 22mo vs 11mo</p>
 
 <aside><div>
 <p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
@@ -422,52 +425,48 @@
 <aside><div>
 <p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
 </div></aside></section>
-<section id="neoadjuvant-chemo-for-esoca" class="slide level2">
-<h2>Neoadjuvant Chemo for EsoCA</h2>
-<ul>
-<li>MAGIC trial (gastric): ECF<sup>1</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF <em>vs</em> Surgery<br>
-</li>
-<li>OEO2 Trial: (esophageal) Chemo<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> Chemo <em>vs</em> Surgery<br>
-</li>
-<li>FLOT (gastric): FLOT<sup>2</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> FLOT <em>vs</em> ECF<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF</li>
-<li>EsoPEC: (esophageal):FLOT<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>FLOT <em>vs</em> ChemoRT<span class="math inline">\(\rightarrow\)</span>Surgery (CROSS)</li>
-</ul>
-<aside><ol class="aside-footnotes"><li id="fn1"><p>Epirubicin, Cisplatin, 5FU</p></li><li id="fn2"><p>5FU, Leuvocorin, Oxaliplatin, Decetaxol</p></li></ol></aside></section>
-<section id="oeo2-clinical-trial" class="slide level2">
-<h2>OEO2 Clinical Trial</h2>
-<ul>
-<li><p>802 Esophageal adenocarcinoma and squamous cell</p></li>
-<li><p>Randomized to Chemo <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemo <em>vs</em> Surgery alone</p></li>
-<li><p>Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)</p></li>
-<li><p>5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)</p></li>
-</ul>
+<section id="nivolumab-immune-checkpoint-inhibitor-ici" class="slide level2">
+<h2>Nivolumab = Immune Checkpoint Inhibitor (ICI)</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>PD-L1 agonist ligand</p>
+<p>Interferes with tumor cell down-regulation of T cells</p>
+<p>Active against stage IV esophageal cancer</p>
+</div><div class="column" style="width:40%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="images/nivo.png"></p>
+<figcaption>Nivolumab mechanism of action</figcaption>
+</figure>
+</div>
+</div></div>
+</section>
+<section id="cross---chemort-does-not-reduce-distant-failure" class="slide level2">
+<h2>CROSS - ChemoRT Does Not Reduce Distant Failure</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p>Sites of failure over time</p>
+<p>ChemoRT + Surgery <em>vs</em> Surgery</p>
+<p>ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure</p>
+<p><span class="math inline">\(\Rightarrow\)</span> Can chemotherapy reduce risk of distant failure?</p>
+</div><div class="column" style="width:70%;">
+<p><img data-src="images/eyck.png"></p>
+</div></div>
 
 <aside><div>
-<p><span class="citation" data-cites="allum5062">(<a href="#/references" role="doc-biblioref" onclick="">Allum et al. 2009</a>)</span></p>
+<p><span class="citation" data-cites="shapiro1090">(<a href="#/references" role="doc-biblioref" onclick="">Shapiro et al. 2015</a>)</span></p>
 </div></aside></section>
-<section id="neo-aegis-tral-cross-vs-magicflot" class="slide level2">
-<h2>Neo-Aegis Tral CROSS vs MAGIC/FLOT</h2>
+<section id="EsoPEC" class="slide level2">
+<h2>EsoPEC CROSS vs FLOT for Adenocarcionoma</h2>
 <ul>
-<li><p>Adenocarcinoma T2-3 N0-3 M0 Tumor length &lt;8cm</p></li>
-<li><p>ChemoRT arm: carboplatin + paclitaxel + 4140cGy</p></li>
-<li><p>Chemo arm: MAGIC (ECF) or FLOT (later in trial)</p></li>
-<li><p>No difference in overall survival</p></li>
-<li><p>R0 resection 96% with CROSS vs 82% with chemo</p></li>
-<li><p>pCR 12% with CROSS vs 4% with chemo</p></li>
+<li><strong>Adenocarcinoma esophagus</strong> - T1 N+ or T2-4a M0. Median age =63. 89% men</li>
 </ul>
-
-<aside><div>
-<p><span class="citation" data-cites="reynolds1015">(<a href="#/references" role="doc-biblioref" onclick=""><strong>reynolds1015?</strong></a>)</span></p>
-</div></aside></section>
-<section id="esopec-trial-cross-vs-flot" class="slide level2">
-<h2>EsoPEC Trial CROSS vs FLOT</h2>
+<p>Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438</p>
 <ul>
-<li><p>Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men</p></li>
-<li><p>Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438</p></li>
 <li><p>CROSS: carboplatin/paclitaxel + 4140cGy <span class="math inline">\(\rightarrow\)</span> Surgery</p></li>
 <li><p>FLOT: FLOT <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> FLOT</p></li>
-<li><p>Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1</p></li>
 </ul>
+<p>Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1</p>
 
 <aside><div>
 <p><span class="citation" data-cites="hoeppner323">(<a href="#/references" role="doc-biblioref" onclick="">Hoeppner et al. 2025</a>)</span></p>
@@ -486,8 +485,78 @@
 <aside><div>
 <p><span class="citation" data-cites="hoeppner323">(<a href="#/references" role="doc-biblioref" onclick="">Hoeppner et al. 2025</a>)</span></p>
 </div></aside></section>
-<section id="surgery-for-squamous-cell-carcinoma" class="slide level2">
-<h2>Surgery for Squamous Cell Carcinoma</h2>
+<section id="esopec-flot-superior-to-cross-1" class="slide level2">
+<h2>EsoPEC: FLOT superior to CROSS</h2>
+<table class="caption-top" style="width:96%;">
+<colgroup>
+<col style="width: 29%">
+<col style="width: 24%">
+<col style="width: 13%">
+<col style="width: 5%">
+<col style="width: 24%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>FLOT</th>
+<th>CROSS</th>
+<th></th>
+<th>CROSS<br>
+<span class="citation" data-cites="vanhagen2074">(<a href="#/references" role="doc-biblioref" onclick="">Hagen et al. 2012</a>)</span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>90d Mortality</td>
+<td>3.2%</td>
+<td>5.6%</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><span class="math inline">\(\tilde{x}\)</span> Survival</td>
+<td>66mo</td>
+<td>37mo</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3year Survival</td>
+<td>57%</td>
+<td>51%</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>5year Survival</td>
+<td>51%</td>
+<td>29%</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>path CR</td>
+<td>17%</td>
+<td>10%</td>
+<td></td>
+<td>23%</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>See also <a href="#/NeoadjuvantChemo">Neoadjuvant Chemo</a></p>
+
+<aside><div>
+<p><span class="citation" data-cites="hoeppner323">(<a href="#/references" role="doc-biblioref" onclick="">Hoeppner et al. 2025</a>)</span></p>
+</div></aside></section>
+<section id="surgery_squamous" class="slide level2">
+<h2>Surgery for Squamous Cell Carcinoma.</h2>
 <p>Squamous Cell Carcinoma of the esophagus</p>
 <ul>
 <li>responds well to chemo+RT</li>
@@ -495,15 +564,15 @@
 <li>additional benefit of surgery on top of chemoRT is uncertain</li>
 </ul>
 </section>
-<section id="ffcd-9102-2007-bedenne" class="slide level2">
-<h2>FFCD 9102 2007 (Bedenne)</h2>
+<section id="ffcd-9102-2007-bedenne-chemort-vs-chemort-rightarrow-surgery" class="slide level2">
+<h2>FFCD 9102 2007 (Bedenne) ChemoRT vs ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery</h2>
 <p>All patients received 4500cGy RT + 2 cycles of cisplatin + 5FU</p>
 <p>Patients with a clinical response were randomized:</p>
 <ul>
 <li><p>Surgery -&gt; 2 year survival 34% Median 17.7mo</p></li>
 <li><p>3 cycles of chemo + 2000 cGy RT -&gt; 2 year survival 40% Median 19.3mo</p></li>
 </ul>
-<p><em>No difference in overall survival</em></p>
+<p><span class="math inline">\(\Rightarrow\)</span> No difference in overall survival</p>
 
 <aside><div>
 <p><span class="citation" data-cites="bedenne1160">(<a href="#/references" role="doc-biblioref" onclick="">Bedenne et al. 2007</a>)</span></p>
@@ -512,11 +581,16 @@
 <h2>German Trial (Stahl)</h2>
 <p>4000 cGY RT + Chemo <span class="math inline">\(\rightarrow\)</span> Surgery. 64% 2-year PFS. Mortality 12.8%</p>
 <p>6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%</p>
-<p><em>No difference in overall survival</em></p>
+<p><span class="math inline">\(\Rightarrow\)</span> No difference in overall survival</p>
 
 <aside><div>
 <p><span class="citation" data-cites="stahl2310">(<a href="#/references" role="doc-biblioref" onclick="">Stahl et al. 2005</a>)</span></p>
 </div></aside></section>
+<section>
+<section id="non-operative-management" class="title-slide slide level1 center">
+<h1>Non-Operative Management</h1>
+
+</section>
 <section id="metastatic" class="slide level2">
 <h2>Metastatic</h2>
 <p>FOLFOX is first-line systemic therapy for metastatic GI cancers</p>
@@ -524,6 +598,56 @@
 <li>Dose-limiting toxicity is frequently peripheral neuropathy</li>
 </ul>
 </section>
+<section id="adjuvant-immunotherapy-checkmate-577-trial" class="slide level2">
+<h2>Adjuvant Immunotherapy: Checkmate 577 Trial</h2>
+<p>Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease</p>
+<p>Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell</p>
+<p>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery <em>with residual disease on pathology</em></p>
+<p>Treatment Group: Nivolumab every 2 weeks x 4 months <span class="math inline">\(\rightarrow\)</span> every month x 8 months</p>
+<p><em>vs</em></p>
+<p>Control Group: No adjuvant therapy</p>
+<p><span class="math inline">\(\Rightarrow\)</span> Better survival in group with adjuvant nivolumab</p>
+
+<aside><div>
+<p><span class="citation" data-cites="kelly1191">(<a href="#/references" role="doc-biblioref" onclick="">Kelly et al. 2021</a>)</span></p>
+</div></aside></section>
+<section id="NeoadjuvantChemo" class="slide level2">
+<h2>Neoadjuvant Chemo for EsoCA</h2>
+<ul>
+<li>MAGIC trial (gastric): ECF<sup>1</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF <em>vs</em> Surgery<br>
+</li>
+<li><a href="#/OEO2">OEO2 Trial</a>: (esophageal) Chemo<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> Chemo <em>vs</em> Surgery<br>
+</li>
+<li>FLOT (gastric): FLOT<sup>2</sup><span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span> FLOT <em>vs</em> ECF<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>ECF</li>
+<li><a href="#/EsoPEC">EsoPEC</a>: (esophageal):FLOT<span class="math inline">\(\rightarrow\)</span>Surgery<span class="math inline">\(\rightarrow\)</span>FLOT <em>vs</em> ChemoRT<span class="math inline">\(\rightarrow\)</span>Surgery (CROSS)</li>
+</ul>
+<aside><ol class="aside-footnotes"><li id="fn1"><p>Epirubicin, Cisplatin, 5FU</p></li><li id="fn2"><p>5FU, Leuvocorin, Oxaliplatin, Decetaxol</p></li></ol></aside></section>
+<section id="OEO2" class="slide level2">
+<h2>OEO2 Clinical Trial</h2>
+<ul>
+<li><p>802 Esophageal adenocarcinoma and squamous cell</p></li>
+<li><p>Randomized to Chemo <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemo <em>vs</em> Surgery alone</p></li>
+<li><p>Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)</p></li>
+<li><p>5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)</p></li>
+</ul>
+
+<aside><div>
+<p><span class="citation" data-cites="allum5062">(<a href="#/references" role="doc-biblioref" onclick="">Allum et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="NeoAEGIS" class="slide level2">
+<h2>Neo-Aegis Tral CROSS vs MAGIC/FLOT</h2>
+<ul>
+<li><p><strong>Adenocarcinoma</strong> T2-3 N0-3 M0 Tumor length &lt;8cm</p></li>
+<li><p>ChemoRT arm: carboplatin + paclitaxel + 4140cGy</p></li>
+<li><p>Chemo arm: MAGIC (ECF) or FLOT (later in trial)</p></li>
+<li><p>No difference in overall survival</p></li>
+<li><p>R0 resection 96% with CROSS vs 82% with chemo</p></li>
+<li><p>pCR 12% with CROSS vs 4% with chemo</p></li>
+</ul>
+
+<aside><div>
+<p><span class="citation" data-cites="reynolds1015">(<a href="#/references" role="doc-biblioref" onclick=""><strong>reynolds1015?</strong></a>)</span></p>
+</div></aside></section>
 <section id="orientation-manual" class="slide level2">
 <h2>Orientation Manual</h2>
 <div id="" class="qrcode"></div>
@@ -548,6 +672,9 @@ Allum, William H., Sally P. Stenning, John Bancewicz, Peter I. Clark, and Ruth E
 <div id="ref-bedenne1160" class="csl-entry" role="listitem">
 Bedenne, Laurent, Pierre Michel, Olivier Bouché, Chantal Milan, Christophe Mariette, Thierry Conroy, Denis Pezet, et al. 2007. <span>“Chemoradiation Followed by Surgery Compared with Chemoradiation Alone in Squamous Cancer of the Esophagus: <span>FFCD</span> 9102.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 25 (10): 1160–68. <a href="https://doi.org/10.1200/JCO.2005.04.7118">https://doi.org/10.1200/JCO.2005.04.7118</a>.
 </div>
+<div id="ref-vanhagen2074" class="csl-entry" role="listitem">
+Hagen, P. van, M. C. C. M. Hulshof, J. J. B. van Lanschot, E. W. Steyerberg, M. I. van Berge Henegouwen, B. P. L. Wijnhoven, D. J. Richel, et al. 2012. <span>“Preoperative Chemoradiotherapy for Esophageal or Junctional Cancer.”</span> <em>The New England Journal of Medicine</em> 366 (22): 2074–84. <a href="https://doi.org/10.1056/NEJMoa1112088">https://doi.org/10.1056/NEJMoa1112088</a>.
+</div>
 <div id="ref-hoeppner323" class="csl-entry" role="listitem">
 Hoeppner, Jens, Thomas Brunner, Claudia Schmoor, Peter Bronsert, Birte Kulemann, Rainer Claus, Stefan Utzolino, et al. 2025. <span>“Perioperative <span>Chemotherapy</span> or <span>Preoperative</span> <span>Chemoradiotherapy</span> in <span>Esophageal</span> <span>Cancer</span>.”</span> <em>The New England Journal of Medicine</em> 392 (4): 323–35. <a href="https://doi.org/10.1056/NEJMoa2409408">https://doi.org/10.1056/NEJMoa2409408</a>.
 </div>
@@ -567,7 +694,7 @@ Shapiro, Joel, J. Jan B. van Lanschot, Maarten C. C. M. Hulshof, Pieter van Hage
 Stahl, Michael, Martin Stuschke, Nils Lehmann, Hans-Joachim Meyer, Martin K. Walz, Siegfried Seeber, Bodo Klump, et al. 2005. <span>“Chemoradiation with and Without Surgery in Patients with Locally Advanced Squamous Cell Carcinoma of the Esophagus.”</span> <em>Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology</em> 23 (10): 2310–17. <a href="https://doi.org/10.1200/JCO.2005.00.034">https://doi.org/10.1200/JCO.2005.00.034</a>.
 </div>
 </div>
-</section>
+</section></section>
 
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
@@ -759,7 +886,7 @@ Stahl, Michael, Martin Stuschke, Nils Lehmann, Hans-Joachim Meyer, Martin K. Wal
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -833,13 +960,14 @@ Stahl, Michael, Martin Stuschke, Nils Lehmann, Hans-Joachim Meyer, Martin K. Wal
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

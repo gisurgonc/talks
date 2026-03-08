@@ -1,5 +1,5 @@
 ---
-title: "Rectal Cancer"
+title: "Melanoma"
 format: 
   revealjs:
     slide-number: c/t
@@ -15,6 +15,27 @@ editor: visual
 bibliography: zotero.bib
 ---
 
+##
+
+Cutaneous Melanoma.
+Lancet. 2023. Long GV, Swetter SM, Menzies AM, Gershenwald JE, Scolyer RA.
+
+
+Cutaneous Melanoma.
+The Journal of the American Medical Association. 2025. Joshi UM, Kashani-Sabet M, Kirkwood JM.
+
+## T1a Melanoma
+
+Stage IA (T1a): SLNB is not generally recommended for melanomas <0.8 mm thick without ulceration or other adverse features, as the probability of a positive sentinel node is <5%. An exception is when there is significant uncertainty about the adequacy of microstaging (e.g., positive deep margins or limited sampling of a larger lesion). 
+
+## T1b Melanoma
+
+Stage IB (T1b): SLNB should be discussed and considered for melanomas <0.8 mm thick with ulceration or 0.8-1.0 mm thick (with or without ulceration), as the probability of a positive sentinel node is 5-10%. For T1a lesions >0.5 mm with other adverse features (age ≤42 years, head/neck location, lymphovascular invasion, and/or mitotic index ≥2/mm²), SLNB should also be discussed, with additive risk when multiple adverse features are present. 
+
+
+## Stage IB (T2a) or Stage II (Tb2+)
+
+SLNB should be discussed and offered for melanomas >1.0 mm thick, as the probability of a positive sentinel node is generally >10%. This includes intermediate-thickness melanomas (T2 or T3; 1.0-4.0 mm) where SLNB is recommended, and thick melanomas (T4; >4.0 mm) where SLNB may be recommended after discussion of benefits and risks. 
 
 ## Staging
 
@@ -22,11 +43,31 @@ Node positive patients are staged with "PET/CT Whole Body." This is different fr
 
 High risk patients will need either MRI or CT of brain
 
+## Treatment of Positive Sentinel Node
+
+Active nodal basin ultrasound or other radiographic surveillance without completion lymph node dissection (CLND) is now the preferred approach for patients with positive sentinel lymph node biopsy
+
+surveillance should include nodal ultrasound every 4 months during the first 2 years, then every 6 months during years 3 through 5, 
+
+.
+Sentinel Lymph Node Biopsy and Management of Regional Lymph Nodes in Melanoma: American Society of Clinical Oncology and Society of Surgical Oncology Clinical Practice Guideline Update.
+Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology. 2018. Wong SL, Faries MB, Kennedy EB, et al.
+
+
+## Sentinel Node Biopsy in Special Cases
+
+Pure desmoplastic melanoma (≥90% of invasive melanoma with prominent stromal fibrosis) has lower SLNB positivity rates, and the role of SLNB remains controversial in this subgroup. [1]
+
+SLNB may be considered for isolated in-transit metastasis or local recurrence without clinically or radiographically evident regional nodal or distant metastases, if it will affect adjuvant therapy decisions. [1]
+
+
+
+
 ## MSLT-I Clinical trial
 
 [@morton599]
 
-## MSLT-II
+## MSLT-II Trial
 
 Patients with positive sentinel nodes were randomized to completion lymph node dissection vs observation (with periodic ultrasound of the draining node basin)
 
@@ -36,302 +77,50 @@ No difference in overall survival
 [@faires2211]
 :::
 
-
-## GI Stromal Tumors
-
-[Pathophysiology]
-
-| Category               |   Stage    | Treatment                  |
-|------------------------|:----------:|:---------------------------|
-| \[Dyplasia\]           |    Tis     | Radiofrequency Ablation    |
-| \[Superficial Tumors\] |    T1a     | Endoscopic Therapy         |
-| \[Localized Tumors\]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]     | T3 or N^+^ | ChemoRT → Surgery          |
-| [Metastatic]           |     M1     | Chemotherapy +/- Radiation |
+## DeCOG-SLT Trial
 
 ::: aside
-[@schaefer1]
+[@faires2211]
 :::
 
-## Pathophysiology
+## Stage III Treatment
 
-::::: columns
-::: {.column width="50%"}
-Origin with bowel wall stomach- small intestine - colon - esophagus
-:::
+BRAF V600 tumor mutation testing
 
-::: {.column width="50%"}
-Tyrosine kinase gain of function mutations - KIT2 - PDGRFA3 Genetic inactivation - NF14 - succinate dehydrogenase (SDH)
-:::
-:::::
+IIIA - T1a/b-T2a N1a OR N2a: Obervation
 
-::: aside
-[@shaheen2277]
-:::
+IIIB/C - Higher risk: adjuvant therapy
 
-## Rapido Trial
 
-::::: columns
-::: {.column width="30%"}
-Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery vs ChemoRT $\rightarrow$ TME +/- Chemo
-:::
+## Adjuvant Therapy - Stage IIIA
 
-::: {.column width="70%"}
-![](images/shaheen.png)
-:::
-:::::
+For patients with very low tumor volume stage IIIA disease (T1a/b–T2a/N1a or N2a), observation is preferred for most patients, as the toxicity of adjuvant therapy may outweigh the benefit. [1] Patients with stage IIIA melanoma and SLN tumor deposits ≥0.3 mm in maximum dimension are at higher risk and may benefit from adjuvant systemic therapy, while those with deposits <0.3 mm demonstrate 5-year melanoma-specific survival similar to stage IB disease. 
 
-::: aside
-Lancet Oncol December 7, 2020
-:::
 
-## Total Neoadjuvant Therapy
+## Adjuvant Systemic Therapy - Stage III B/C
 
-Induction Chemotherapy
 
-Consolidation Chemotherapy
+Adjuvant Systemic Therapy
 
-## KIT and PDGFR Mutations
+The decision for adjuvant therapy should be individualized based on the patient's risk of recurrence and treatment toxicity. [1] Preferred options include: [1]
 
-![](images/kit_pdgrfa.png){fig-align="center"}
+Nivolumab (Category 1) - studied in AJCC 7th Edition stage IIIB/C disease
 
-## EORTC 22921
+Pembrolizumab (Category 1) - tested in stage IIIA with SLN metastasis ≥1 mm or stage IIIB/C disease
 
--   Bossset Lancet Oncol p 184 2014
+Dabrafenib/trametinib (Category 1) - for BRAF V600 mutation-positive melanoma
 
-## Prodige 23
+All three regimens have demonstrated clinical efficacy across AJCC 8th Edition stage III disease and are given for 12 months. [1] Anti-PD-1 therapy (nivolumab, pembrolizumab) has shown improved 5-year recurrence-free survival compared to placebo or ipilimumab. [4-5] For BRAF V600-mutant melanoma, dabrafenib/trametinib is an equally effective alternative to immunotherapy. [4][6]
 
--   PHase 3 RCT n=461
--   mFOLFIRINOX -\> CRT -\> Surgery -\> Adjuvant Chemo
 
-Patients with dysphagia almost always are T3 tumors (and don't need EUS)
+## Systemic Adjuvant Therapy
 
-## Symptomatic Tumors (Dysphagia)
 
-Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with \[PET Scan\]
-
--   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
--   Metastatic disease $\rightarrow$ [Metastatic]
--   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
-
-## ACOSOG ZZ9001
-
-GIST Tumors \>3cm randomized: - 1 year of imatinib 40mg - Observation
-
-Recurrence-free survival 98% vs 83% No significant difference at 6 years
-
-*Imatinib may simply delay recurrences*
-
-::: aside
-Ref
-:::
-
-## SSG SVII
-
-High-risk GIST randomized: - 1 year of imatinib 400mg - 3 year of imatinib 400mg
-
-5-year Recurrence-free survival 48% vs 66% 5-year Overall Survival 82% vs 92%
-
-::: aside
-Ref
-:::
-
-## Mutational Testing
-
-Genetic mutations can predict respoinse to imatinib [^1]
-
-[^1]: Meheran JCO 2017
-
-## Locally-advanced
-
-For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
-
--   ChemoRT $\rightarrow$ Surgery (\[CROSS Trial\])
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
-
-## Positive Margins
-
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   median age=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
-
-::: aside
-Gronchi JAMA Surg 2020
-:::
-
-## Imatinib 1yr vs 3 yr
-
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   median age=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
-
-::: aside
-Joensuu JAMA Oncology 2020
-:::
-
-## Wild-Type GIST
-
--   SDH-Deficient
-    -   SDHx mutation
-    -   SDH wild-type
-    -   Associated with Carney-Stratakis syndrome
--   No SDH Deficiency
-    -   NF1-GIST
-    -   Sporadic Wild-Type GIST
-
-::: aside
-Weldon JCS 2017
-:::
-
-## NF1-associated GIST
-
--   Multicentric (33%)
--   Median age 46
--   Small bowel \>\> Duodenum \>\> Stomach
-
-::: aside
-Weldon JCS 2017
-:::
-
-## Recurrence Risk
-
-![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2a.png){fig-align="left"}
-
-::: aside
-Joensuu Lancet March 2012
-:::
-
-## CROSS - Survival by Histology
-
-![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
-
-::: aside
-Miettinen Lasota Seminars in Diagnostic Pathology 2006:23:70-83
-:::
-
-## CROSS - Pathologic Response
-
-pCR seen in 23% of patients with adenocarcinoma
-
-pCR seen in 40% of patients with squamous cell carcinoma
-
-::: aside
-[@shapiro1090]
-:::
-
-## CROSS - Sites of Failure
-
-::::: columns
-::: {.column width="30%"}
-Sites of failure over time
-
-ChemoRT + Surgery *vs* Surgery
-
-ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
-:::
-
-::: {.column width="70%"}
-![](images/eyck.png)
-:::
-:::::
-
-::: aside
-[@shapiro1090]
-:::
-
-## Checkmate 577 Trial
-
-Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
-
-::: aside
-[@kelly1191]
-:::
-
-## Nivolumab
-
-::::: columns
-::: {.column width="60%"}
-PD-L1 agonist ligand
-
-Interferes with tumor cell down-regulation of T cells
-
-Active against stage IV esophageal cancer
-:::
-
-::: {.column width="40%"}
-![Nivolumab mechanism of action](images/nivo.png)
-:::
-:::::
-
-## Chekmate 577 Trial
-
-EsoCA patients who received ChemoRT$\rightarrow$ Surgery with residual disease (not pCR)
-
-Randomized to one year of immunotherapy (nivolumab) vs Observation
-
-Adjuvant nivolumab group had better survival
-
-::: aside
-[@kelly1191]
-:::
-
-## Checkmate 577 Trial
-
-![Adjuvant Nivolumab vs Observation](images/kelly_1191_fig3.png){fig-align="left"}
-
-::: aside
-[@kelly1191]
-:::
-
-## Neoadjuvant Chemo for EsoCA
-
--   MAGIC trial (gastric): ECF[^2]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
--   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^3]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
--   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
-
-[^2]: Epirubicin, Cisplatin, 5FU
-
-[^3]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
-
-## OEO2 Clinical Trial
-
--   802 Esophageal adenocarcinoma and squamous cell
-
--   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
-
--   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
-
--   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
-
-::: aside
-[@allum5062]
-:::
-
-## EsoPEC Trial
-
--   Esophageal cancer
-
--   Randomized to CROSS vs FLOT
-
--   Better survival with FLOT
-
-## Metastatic
-
-FOLFOX is first-line systemic therapy for metastatic GI cancers
-
--   Dose-limiting toxicity is frequently peripheral neuropathy
+Systemic Therapy for Melanoma: ASCO Guideline Update.
+Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology. 2023. Seth R, Agarwala SS, Messersmith H, et al.Guideline
 
 # Orientation Manual
 
-{{< qrcode https://gisurgonc.github.io/orientation width=500 height=500 >}}
+{{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
 
 # References

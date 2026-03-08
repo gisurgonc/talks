@@ -22,13 +22,13 @@ bibliography: zotero.bib
 
 ## Esophageal Cancer Treatment Categories
 
-| Category             |   Stage    | Treatment                  |
-|----------------------|:----------:|:---------------------------|
-| [Dyplasia]           |    Tis     | Radiofrequency Ablation    |
-| [Superficial Tumors] |    T1a     | Endoscopic Therapy         |
-| [Localized Tumors]   |   T1b T2   | Surgery                    |
-| [Locally-advanced]   | T3 or N^+^ | ChemoRT → Surgery          |
-| [Metastatic]         |     M1     | Chemotherapy +/- Radiation |
+| Category                   |   Stage    | Treatment                   |
+|----------------------------|:----------:|:----------------------------|
+| [Dyplasia]                 |    Tis     | Radiofrequency Ablation     |
+| [Superficial Tumors]       |    T1a     | Endoscopic Therapy          |
+| [Localized Tumors]         |   T1b T2   | Surgery                     |
+| [Locally-advanced](#Local) | T3 or N^+^ | Chemo$\pm$RT → Surgery      |
+| [Metastatic]               |     M1     | Chemotherapy $\pm$Radiation |
 
 ## Dyplasia
 
@@ -111,7 +111,7 @@ Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
 Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
 
--   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
+-   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced](#Local)
 -   Metastatic disease $\rightarrow$ [Metastatic]
 -   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
 
@@ -135,34 +135,44 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 ::: aside
 :::
 
-## Locally-advanced
+## Locally-advanced {#Local}
 
-For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
+Improved survival with adjunctive therapy. There are two options:
 
--   ChemoRT $\rightarrow$ Surgery ([CROSS Trial])
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo (\[EsoPEC Trial\])
+-   ChemoRT $\rightarrow$ Surgery ([CROSS Trial](#CROSS))
+-   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial](#EsoPEC))
 
-## CROSS Trial
+## CROSS Surgery vs ChemoRT $\rightarrow$Surgery {#CROSS}
 
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   age $\tilde{x}$=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
+368 esophageal cancer patients randomized:
 
-CROSS Trial Details
+```         
+-   Surgery alone
+-   Chemo+RT $\rightarrow$ Surgery
+```
 
-Chemotherapy: Weekly carboplatin and paclitaxel Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
+75% adenocarcinoma. T3: 80% T2: 17%. age $\tilde{x}$=60
+
+$\Rightarrow$ longer survival with Chemo+RT $\rightarrow$ Surgery
+
+Chemotherapy: Weekly carboplatin and paclitaxel
+
+Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 
 ::: aside
 [@shapiro1090]
 :::
 
-## CROSS
+## CROSS Surgery vs ChemoRT $\rightarrow$Surgery
 
-The median time from randomization until resection was 24 days in the surgery group and 97 days in the chemoradiotherapy-surgery group. Of note, 13% of patients in the surgery only group were found to be unresectable at the time of operation versus 4% of the chemoradiotherapy-surgery group (p = 0.002). R0 resection was obtained in 92% of the chemoradiotherapy-surgery group versus 69% of the surgery alone group (p \< 0.001). There were no significant differences in complications between the two groups, including in-hospital and 30-day mortality. Positive nodes were identified in 75% of the surgery alone group versus 31% of the chemoradiotherapy-surgery group (p \< 0.001).
+|                 | Surgeruy | CRT$\rightarrow$Surgery |          |
+|-----------------|:--------:|:-----------------------:|----------|
+| Time to Surgery |   24d    |           97d           |          |
+| Unresectable    |   13%    |           4%            | p=0.002  |
+| R0 Resection    |   92%    |           69%           | p\<0.001 |
+| Positive Nodes  |   75%    |           31%           |          |
+| Complications   |    \~    |           \~            |          |
+| Mortality       |    \~    |           \~            |          |
 
 ## CROSS - Overall Survival
 
@@ -172,7 +182,7 @@ The median time from randomization until resection was 24 days in the surgery gr
 [@shapiro1090]
 :::
 
-## CROSS - Survival by Histology
+## CROSS - Survival by Histology 
 
 ![Surgery vs ChemoRT $\rightarrow$ Surgery](images/shapiro_1090_fig2b.png){fig-align="left"}
 
@@ -180,61 +190,45 @@ The median time from randomization until resection was 24 days in the surgery gr
 [@shapiro1090]
 :::
 
-## CROSS - Adenocarcinooma
+## CROSS Effects by Histology
 
-Median survival 43mo vs 27mo
+Adenocarcinoma
 
-Pathologic complete response in 23%
+-   Median survival 43mo vs 27mo
+-   Pathologic complete response in 23%
 
-## CROSS - Squamous cell carcinoma
+Squmous Cell Carcinoma
 
-Median survival 82mo vs 21mo
+-   Median survival 82mo vs 21mo
+-   Pathologic complete response in 49%
 
-Pathologic complete response in 49%
-
-::: aside
-[@shapiro1090]
-:::
-
-## CROSS - Sites of Failure
-
-::::: columns
-::: {.column width="30%"}
-Sites of failure over time
-
-ChemoRT + Surgery *vs* Surgery
-
-ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
-:::
-
-::: {.column width="70%"}
-![](images/eyck.png)
-:::
-:::::
+[Surgical Therapy of Squamous Cell](#surgery_squamous)
 
 ::: aside
 [@shapiro1090]
 :::
 
-## Adjuvant Immunotherapy: Checkmate 577 Trial
+## Chekmate 577: Addjuvant Nivolumab (immunotherapy)
 
-Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
+EsoCA patients who received ChemoRT$\rightarrow$ Surgery with residual disease (not pCR)
 
-Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell
+Randomized to one year of nivolumab vs Observation
 
-ChemoRT $\rightarrow$ Surgery *with residual disease on pathology*
-
-Treatment Group: Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 8 months
-
-Control Group: No adjuvant therapy
-
-Results: Better survival in group with adjuvant nivolumab
+$\Rightarrow$ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 
 ::: aside
 [@kelly1191]
 :::
 
-## Nivolumab
+## Checkmate 577 Trial
+
+![Adjuvant Nivolumab vs Observation](images/kelly_1191_fig3.png){fig-align="left"}
+
+::: aside
+[@kelly1191]
+:::
+
+## Nivolumab = Immune Checkpoint Inhibitor (ICI)
 
 ::::: columns
 ::: {.column width="60%"}
@@ -250,80 +244,39 @@ Active against stage IV esophageal cancer
 :::
 :::::
 
-## Chekmate 577 Trial
+## CROSS - ChemoRT Does Not Reduce Distant Failure
 
-EsoCA patients who received ChemoRT$\rightarrow$ Surgery with residual disease (not pCR)
+::::: columns
+::: {.column width="30%"}
+Sites of failure over time
 
-Randomized to one year of immunotherapy (nivolumab) vs Observation
+ChemoRT + Surgery *vs* Surgery
 
-Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
+ChemoRT appears to reduce risk of local or local+distant failure, but not isolated distant failure
 
-::: aside
-[@kelly1191]
+$\Rightarrow$ Can chemotherapy reduce risk of distant failure?
 :::
 
-## Checkmate 577 Trial
-
-![Adjuvant Nivolumab vs Observation](images/kelly_1191_fig3.png){fig-align="left"}
+::: {.column width="70%"}
+![](images/eyck.png)
+:::
+:::::
 
 ::: aside
-[@kelly1191]
+[@shapiro1090]
 :::
 
-## Neoadjuvant Chemo for EsoCA
-
--   MAGIC trial (gastric): ECF[^1]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
--   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^2]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
--   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
-
-[^1]: Epirubicin, Cisplatin, 5FU
-
-[^2]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
-
-## OEO2 Clinical Trial
-
--   802 Esophageal adenocarcinoma and squamous cell
-
--   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
-
--   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
-
--   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
-
-::: aside
-[@allum5062]
-:::
-
-## Neo-Aegis Tral CROSS vs MAGIC/FLOT
-
--   **Adenocarcinoma** T2-3 N0-3 M0 Tumor length \<8cm
-
--   ChemoRT arm: carboplatin + paclitaxel + 4140cGy
-
--   Chemo arm: MAGIC (ECF) or FLOT (later in trial)
-
--   No difference in overall survival
-
--   R0 resection 96% with CROSS vs 82% with chemo
-
--   pCR 12% with CROSS vs 4% with chemo
-
-::: aside
-[@reynolds1015]
-:::
-
-## EsoPEC Trial CROSS vs FLOT
+## EsoPEC CROSS vs FLOT for Adenocarcionoma {#EsoPEC}
 
 -   **Adenocarcinoma esophagus** - T1 N+ or T2-4a M0. Median age =63. 89% men
 
--   Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
+Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
 
 -   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
 
 -   FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
 
--   Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
+Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ::: aside
 [@hoeppner323]
@@ -347,7 +300,32 @@ Adjuvant nivolumab group had longer median survival: 22mo vs 11mo
 [@hoeppner323]
 :::
 
-## Surgery for Squamous Cell Carcinoma
+## EsoPEC: FLOT superior to CROSS
+
++----------------------+------------------+----------+---+------------------+
+|                      | FLOT             | CROSS    |   | CROSS\           |
+|                      |                  |          |   | [@vanhagen2074]  |
++======================+==================+==========+===+==================+
+| 90d Mortality        | 3.2%             | 5.6%     |   |                  |
++----------------------+------------------+----------+---+------------------+
+| $\tilde{x}$ Survival | 66mo             | 37mo     |   |                  |
++----------------------+------------------+----------+---+------------------+
+| 3year Survival       | 57%              | 51%      |   |                  |
++----------------------+------------------+----------+---+------------------+
+| 5year Survival       | 51%              | 29%      |   |                  |
++----------------------+------------------+----------+---+------------------+
+| path CR              | 17%              | 10%      |   | 23%              |
++----------------------+------------------+----------+---+------------------+
+|                      |                  |          |   |                  |
++----------------------+------------------+----------+---+------------------+
+
+See also [Neoadjuvant Chemo](#NeoadjuvantChemo)
+
+::: aside
+[@hoeppner323]
+:::
+
+## Surgery for Squamous Cell Carcinoma. {#surgery_squamous}
 
 Squamous Cell Carcinoma of the esophagus
 
@@ -355,7 +333,7 @@ Squamous Cell Carcinoma of the esophagus
 -   more difficult to get a surgical margin on the airway
 -   additional benefit of surgery on top of chemoRT is uncertain
 
-## FFCD 9102 2007 (Bedenne)
+## FFCD 9102 2007 (Bedenne) ChemoRT vs ChemoRT $\rightarrow$ Surgery
 
 All patients received 4500cGy RT + 2 cycles of cisplatin + 5FU
 
@@ -365,7 +343,7 @@ Patients with a clinical response were randomized:
 
 -   3 cycles of chemo + 2000 cGy RT -\> 2 year survival 40% Median 19.3mo
 
-*No difference in overall survival*
+$\Rightarrow$ No difference in overall survival
 
 ::: aside
 [@bedenne1160]
@@ -377,17 +355,83 @@ Patients with a clinical response were randomized:
 
 6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
 
-*No difference in overall survival*
+$\Rightarrow$ No difference in overall survival
 
 ::: aside
 [@stahl2310]
 :::
+
+## Non-Operative Management
+
 
 ## Metastatic
 
 FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 -   Dose-limiting toxicity is frequently peripheral neuropathy
+
+## Adjuvant Immunotherapy: Checkmate 577 Trial
+
+Immunotherapy with nivolumab as adjuvant therapy after CROSS regimen for patients with residual disease
+
+Stage II/II Esophageal or GE junction cancers Adenocarcinoma or squamous cell
+
+ChemoRT $\rightarrow$ Surgery *with residual disease on pathology*
+
+Treatment Group: Nivolumab every 2 weeks x 4 months $\rightarrow$ every month x 8 months
+
+*vs*
+
+Control Group: No adjuvant therapy
+
+$\Rightarrow$ Better survival in group with adjuvant nivolumab
+
+::: aside
+[@kelly1191]
+:::
+
+## Neoadjuvant Chemo for EsoCA {#NeoadjuvantChemo}
+
+-   MAGIC trial (gastric): ECF[^1]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+-   [OEO2 Trial](#OEO2): (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
+-   FLOT (gastric): FLOT[^2]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+-   [EsoPEC](#EsoPEC): (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
+
+[^1]: Epirubicin, Cisplatin, 5FU
+
+[^2]: 5FU, Leuvocorin, Oxaliplatin, Decetaxol
+
+## OEO2 Clinical Trial {#OEO2}
+
+-   802 Esophageal adenocarcinoma and squamous cell
+
+-   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
+
+-   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
+
+-   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
+
+::: aside
+[@allum5062]
+:::
+
+## Neo-Aegis Tral CROSS vs MAGIC/FLOT {#NeoAEGIS}
+
+-   **Adenocarcinoma** T2-3 N0-3 M0 Tumor length \<8cm
+
+-   ChemoRT arm: carboplatin + paclitaxel + 4140cGy
+
+-   Chemo arm: MAGIC (ECF) or FLOT (later in trial)
+
+-   No difference in overall survival
+
+-   R0 resection 96% with CROSS vs 82% with chemo
+
+-   pCR 12% with CROSS vs 4% with chemo
+
+::: aside
+[@reynolds1015]
+:::
 
 ## Orientation Manual
 
