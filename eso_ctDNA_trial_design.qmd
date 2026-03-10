@@ -8,26 +8,26 @@ link-citations: true
 
 ## Trial design
 
+1.  Occult Metastatic Disease
+2.  Isolated Local Disease
+3.  No residual disease
+
 Need to specify surveillance interval with CT scans (every 3 months for first year, then every 4 months for second year, then every 6 months for years 3-5)
 
 Need to calculate sample size required: (From Azad)
 
 50% of patients will develop recurrence (based on 2-year progression-free survival data from the CROSS trial neoadjuvant chemoradiotherapy arm1); 2) Sensitivity of ctDNA MRD detection will be 75% (conservative estimate based on 94% sensitivity observed in our recent study of localized lung cancer); 3) Specificity of ctDNA MRD detection will be 90% (conservative estimate based on 100% specificity observed in our recent study of localized lung cancer). Using these assumptions, the risk of progression will be 88% versus 22% for patients with positive versus negative ctDNA MRD. A total sample size of 26 patients will yield 95% power to detect this difference with a one-sided alpha of 0.05.
 
-
 eyck:
 
 After nCRT, ctDNA was detected in three patients, two of whom had disease progression. Post-nCRT ctDNA detection had a sensitivity of 21% (95% CI 6–51) (3/14), specificity of 100% (95% CI 56–100) (7/7), PPV of 100% (95% CI 31–100) (3/3), and NPV of 39% (95% CI 18–64) (7/18) for detecting major residual disease. The addition of ctDNA to the current set of diagnostics did not lead to more patients being clinically identified with residual disease. These results indicate that pre-treatment and post-nCRT ctDNA detection may be useful in identifying patients at high risk of disease progression. The addition of ctDNA analysis to the current set of diagnostic modalities may not improve detection of residual disease after nCRT.
 
-** Eyck found that post-nCRT ctDNA had sensitivity of 21% (3/14) for the detection of residual disease => They don't feel it will be helpful for detection of residual disease**
+\*\* Eyck found that post-nCRT ctDNA had sensitivity of 21% (3/14) for the detection of residual disease =\> They don't feel it will be helpful for detection of residual disease\*\*
 
-=> 
+=\>
 
 Heterogeneity among patients
 
 Adenocarcinoma vs Squamous cell carcinoma
 
 ChemoRT vs Chemotherapy alone
-
-
-
