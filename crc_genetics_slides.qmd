@@ -22,15 +22,7 @@ bibliography: zotero.bib
 
 ## Genetics of Colorectal Cancer
 
-![](images/crc_genes.png) Genes associated with early-onset colorectal cancer
-
-::: aside
-Prevalence and Spectrum of Germline Cancer Susceptibility Gene Mutations Among Patients With Early-Onset Colorectal Cancer. JAMA Oncol. March 31, 2017.
-:::
-
-## Genetics 1920 x 900
-
-![](images/crc_gener_1920_900.png)
+![](images/crc_genes_1920_900.png)
 
 ::: aside
 JAMA Oncol March 31, 2017
@@ -170,6 +162,43 @@ Clinical Relevance of Microsatellite Instability in Colorectal Cancer. Journal o
 5.  High grade and poor differentiation
 6.  More peritoneal and nodal metastasis
 7.  Less lung metastais
+
+
+## Neoadjuvant Rx for MMR-deficient Colon Cancer - NICHE
+
+115 colon cancer: neoadjuvant nivolumab + ipilimumab $/rightarrow$ surgery
+
+109 patients had a pathological response
+
+105 Major pathological respoinse (TRG1 or TRG2)
+
+- 75 pathological complete response
+
+No recurrence of disease at median follow up of 26 months
+
+::: aside
+[@chalabi1949]
+:::
+
+## Adjuvant Therapy Stage II MMR-deficient Colon Cancer
+
+ASCO: No benefit of treatment of stage II dMMR colon cancer with 5-FU alone
+
+Ppooled analyses showing no difference in disease-free survival (HR 0.89, 95% CI 0.45-1.74) or overall survival (HR 1.03, 95% CI 0.53-2.02) with adjuvant chemotherapy in this population. 
+
+::: aside
+[@ribic247]
+:::
+
+## Adjuvant Therapy of Stage III MMR-deficient Colon Cancer
+
+Oxaliplatin-based chemotherapy (FOLFOX or CapeOX) 
+and atezolizumab (Tecentriq)
+
+
+ATOMIC trial:
+atezolizumab + mFOLFOX6 is superior to mFOLFOX6 alone, with a 3-year disease-free survival rate of 86.4% versus 76.6% (hazard ratio 0.50, P .0001)
+
 
 ## Colon Polyposis: \>10 adenomatous polyps
 

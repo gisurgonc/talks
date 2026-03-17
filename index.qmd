@@ -108,7 +108,6 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 
 [Chemotherapy Toxicity](chemotox.html)
 
-
 # Geriatric Surgery
 
 [Literature Review](geriatric_surgery_lit.html)
@@ -124,5 +123,3 @@ Role of surgery in esophageal cancer treatment. Includes non-surgical management
 # Statistics
 
 [statistics](statistics.html)
-
-
