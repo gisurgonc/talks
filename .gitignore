@@ -2,8 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rproj.user/
+.Rprofile
 
-
+/_book/
 /.quarto/
 /_site/
 /docs/
