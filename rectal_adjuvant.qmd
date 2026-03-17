@@ -19,19 +19,17 @@ bibliography: zotero.bib
 
 Trans-abdominal procedures include
 
--   Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum
--   Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ
--   Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.
+-   Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum\
+-   Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ\
+-   Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.\
 
-## Rectal Adjuvant Therapy
+## GI Tumor Study Group 1985 Adjuvant Radiation
 
-Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence. Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.
+Surgery as sole treatment for rectal cancer $\rightarrow$ unacceptable rate of local recurrence.
 
-## Overview of Rectal Adjunctive Therapy
+\
 
-![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history_no_swedish.png)
-
-## GI Tumor Study Group 1985
+GITSG Trial used postop radiation to reduce local recurrences
 
 227 rectal cancer patients with curative surgical resection:
 
@@ -46,7 +44,7 @@ Surgery as sole treatment for rectal cancer is associated with an unacceptable r
 [@gastrointestinaltumorstudygroup1465]
 :::
 
-## GI Tumor Study Group 1985
+## GI Tumor Study Group 1985 Adjuvant Radiation
 
 Local Recurrence
 
@@ -55,7 +53,13 @@ Local Recurrence
 -   48: Postop chemotherapy 5FU+methyl-CCNU
 -   33%: Chemo + radiation
 
+$\Rightarrow$ Reduction in local recurrence
+
 No difference in overall survival
+
+## Overview of Rectal Adjunctive Therapy
+
+![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history_no_swedish.png)
 
 ## Total Mesorectal Excision
 
@@ -77,22 +81,34 @@ Median followup of 4.2 years:
 
 -   No staple-line recurrence
 
-## Dutch postop ChemoRT Trial
+## Dutch Adjuvant ChemoRT Trial
 
-Dutch trial combined postoperative chemoRT and protocol-driven surgery using total mesorectal excision (TME)
+Dutch trial used protocol-drived total mesorectal excision (TME)
 
-Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival
+Surgery alone
+
+*vs*
+
+Surgery $\rightarrow$ Chemoradiation
+
+Postop ChemoRT reduced local recurrence from 10.9% to 5.6%
+
+No difference in overall survival
 
 ## Dutch Preop Short-course Trial
 
+Preoperative short-course radiation was designed to reduce time to surgery
+
 1861 patients randomized:
 
--   preop RT (5x 500cGy) $\rightarrow$ Surgery (TME)
+-   Preop RT (5x 500cGy) $\rightarrow$ Surgery (TME)
 -   Surgery alone (TME)
 
-Reduction in local recurrence (2.4% vs 8.2%)
+$\Rightarrow$ Reduction in local recurrence (2.4% vs 8.2%)
 
 No difference in survival
+
+Preoperative = *neoadjvant* therapy
 
 ::: aside
 [@kapiteijn638]
@@ -102,9 +118,11 @@ No difference in survival
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g004.jpg)
 
-## German Trial
+## German Trial Preop vs Postop ChemoRT
 
-German Trial compared preoperative ChemoRT vs postoperative ChemoRT. All patients received postoperative adjuvant chemotherapy
+Preop radiation has theoretical advantage of improved efficacy
+
+All patients received postoperative adjuvant chemotherapy
 
 Preoperative ChemoRT was superior in:
 
@@ -113,18 +131,7 @@ Preoperative ChemoRT was superior in:
 -   toxicity
 -   sphincter preservation
 
-::: aside
-[@sauer1926]
-:::
-
-## German Trial
-
-German Trial compared preoperative ChemoRT vs postoperative ChemoRT. All patients received postoperative adjuvant chemotherapy
-
-No differences between groups in:
-
--   overall survival
--   local control
+No difference in overall survival or local control
 
 ::: aside
 [@sauer1926]
@@ -138,111 +145,71 @@ No differences between groups in:
 [@sauer1926]
 :::
 
-## Short-course RT
-
-Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery.
-
-Local recurrence was 9% in the therapy group vs 26% in the control group
-
-Overall survival at 5 years of 58% vs 48% (p=0.004)
-
-Disease-specific survival at 9 years 74% vs 65%. (p=0.002)
-
-Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.
-
-::: aside
-[@swedishrectalcancertrial980]
-:::
-
-## Swedish Rectal Cancer Trial
-
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
-
-## Stockholm III
-
-840 patients with rectal cancer randomized to preoperative radiation:
-
--   Short course (5 x 5Gy) with surgery the following week
--   Short course (5 x 5 Gy) with surgery 4- weeks later
--   Long-course (25 x 2Gy) with surgery 4-8 weeks later
-
-With short-course radiation, elayed surgery resulted in higher rates of pCR (11.8% vs 1.7%)
-
-::: [aside]
-[@pettersson972]
-:::
-
-## Stockholm III
-
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg)
-
 ## Overview of Rectal Adjunctive Therapy
 
 ![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history.png)
 
-## Adjuvant Chemotherapy
+## ECORT 22921 Adjuvant Chemotherapy
 
 Postoperative (adjuvant) chemotherapy was shown to be effective in reducing distant metastasis and improving survival in the ECORT 22921 clinical trial.
 
-## Timing of Chemotherapy and ChemoRT
+Standard treatment now became:
 
-Adjuvant chemotherapy was traditionally given after surgery to patients with node-positive disease. The surgical specimen was used to make decisions regarding postoperative chemotherapy
+Neoadjuvant ChemoRT $\rightarrow$ Surgery $\rightarrow$ Adjuvant Chemo
 
-With the advent to preoperative chemoRT, the information derived from the surgical pathology specimen was no longer available, so all patients were given postoperative adjuvant chemotherapy
+## Neoadjuvant Chemotherapy Strategy
 
-ChemoRT $\rightarrow$ Surgery $\rightarrow$ Chemotherapy
-
-## Total Neoadjuvant Therapy
-
-TNT approach moves all therapy to before surgery with goals to:
+Chemotherapy moved to before surgery with goals to:
 
 -   Improve tolerance of chemotherapy
 -   Reduce toxicity of chemotherapy
 -   Improve compliance with chemotherapy
--   Improve clinical complete response
 
-## Total Neoadjuvant Therapy
+$\Rightarrow$ Improve distant disease control
 
-TNT approach moves all therapy to before surgery with goals to:
-
--   Improve tolerance of chemotherapy
--   Reduce toxicity of chemotherapy
--   Improve compliance with chemotherapy
--   Improve clinical complete response $\rightarrow$ organ preservation
-
-## RAPIDO Trial
-
-RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).[@bahadoer29] [@vandervalk75]
-
-Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery
-
-vs
-
-ChemoRT $\rightarrow$ TME +/- Chemo
-
-## PRODIGE-23 Trial
+## PRODIGE-23 Adjuvant vs Neoadjuvant Chemo
 
 PRODIGE 23 randomized 461 patients with T3 or T4 rectal cancers:
 
-Long-course radiation $\rightarrow$ surgery
+Long-course radiation $\rightarrow$ surgery $\rightarrow$ Chemo
 
-Induction chemotherapy $\rightarrow$ Long-course radiation $\rightarrow$ surgery
+Induction chemotherapy $\rightarrow$ Long-course radiation $\rightarrow$ surgery $\rightarrow$ Chemo
 
 -   Increased 3-year survival (76% vs 69%)
 
--   Increased pathologic complete response of 28% vs 12%
+-   Increased pathologic complete response (pCR) 28% vs 12%
 
 ::: aside
 [@conroy702]
+:::
+
+## Total Neoadjuvant Therapy (TNT)
+
+TNT approach moves *all* therapy to before surgery with goals to:
+
+\
+\
+- Improve distant disease control - Improve clinical complete response
+
+## RAPIDO Trial
+
+920 patients with T4 or node-positive disease:
+
+Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery vs ChemoRT $\rightarrow$ TME $\pm$ Chemo
+
+pCR rate significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) Disease-specific surival at 3years was higher (30% vs 24%).
+
+::: aside
+[@bahadoer29]; [@vandervalk75]
 :::
 
 ## RAPIDO and PRODIGE
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg)
 
-## Watchful Waiting
+## Watchful Waiting for Organ Preservation
 
-Retrospective studies demonstrated that among patients with a complete clinical response to chemoradiation for rectal cancer, some patients can be managed without surgery.
+Retrospective studies: some patients with a complete clinical response to chemoradiation for rectal cancer can be managed *without* surgery.
 
 Subsequent trials of neoadjuvant therapy included non-operative management as a treatment option in patients with a complete clinical response to neoadjuvant therapy.
 
@@ -302,6 +269,15 @@ Restrospective comparison two groups with rectal cancer:
 ::: aside
 [@smithe185896]
 :::
+
+## Total Neoadjuvant Therapy
+
+TNT approach moves *all* therapy to before surgery with goals to:
+
+-   Improve distant disease control
+-   Improve clinical complete response
+
+$\Rightarrow$ Facilitate organ preservation
 
 ## OPRA Clinical Trial
 
@@ -388,13 +364,93 @@ ChemoRT $\rightarrow$ Chemo 54% organ preservation
 :::
 
 
+## Complete Clinical Response
+
+Flexible sigmoidoscopy:
+
+- pale smooth scar with or without telangiectasia
+- no ulceration, nodularity, mucosal irregularities, or stricture
+- digital rectal examination: smooth, flat scar without nodularity
+
+Diffusion-weighted MRI:
+
+- fibrotic, linear scar with low signal intensity on T2-weighted images
+- no diffusion restriction
+- no suspicious lymph nodes.
+
+::: aside
+NCCN Guidelines
+:::
+
+## Near Complete Clinical Response
+
+
+Flexible sigmoidoscopy:
+
+- Irregular small mucosal nodules, superficial ulceration, or mild persistent erythema
+
+Digital Rectal Exam:
+
+- Smooth induration or superficial minor mucosal irregularity
+
+
+Diffusion-weighted MRI:
+
+- smooth induration or superficial minor mucosal irregularity
+
+T2-weighted MRI:
+
+- downstaging with or without residual fibrosis and small area of residual signal
+
+::: aside
+NCCN Guidelines
+:::
+
+
 ## Complete vs Near Complete clinical response
-
-
 
 ::: aside
 [@smith767]
 :::
 
+## Chemo Intensification - FOLFIRINOX
+
+## Swedish Short-course RT {#Swedish}
+
+Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery.
+
+Local recurrence was 9% in the therapy group vs 26% in the control group
+
+Overall survival at 5 years of 58% vs 48% (p=0.004)
+
+Disease-specific survival at 9 years 74% vs 65%. (p=0.002)
+
+Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.
+
+::: aside
+[@swedishrectalcancertrial980]
+:::
+
+## Swedish Rectal Cancer Trial
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
+
+## Stockholm III
+
+840 patients with rectal cancer randomized to preoperative radiation:
+
+-   Short course (5 x 5Gy) with surgery the following week
+-   Short course (5 x 5 Gy) with surgery 4- weeks later
+-   Long-course (25 x 2Gy) with surgery 4-8 weeks later
+
+With short-course radiation, delayed surgery resulted in higher rates of pCR (11.8% vs 1.7%)
+
+::: [aside]
+[@pettersson972]
+:::
+
+## Stockholm III
+
+![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg)
 
 ## References
