@@ -38,7 +38,7 @@ Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after co
 -   Germline mutations of mismatch repair genes
     -   *OR* Germline deletions in EPCAM gene
 -   80% lifetime risk colorectal cancer
--   Early onset ($/tilde{x}$ 45-60yrs)
+-   Early onset ($\tilde{x}$ 45-60yrs)
 -   Tumors tend to be right-sided
 
 ::: aside
@@ -56,7 +56,7 @@ A Comprehensive Framework for Early-Onset Colorectal Cancer Research. The Lancet
 -   Male breast cancer (1.2% penetrance vs 0.1%)
 
 ::: aside
-[@sinicrope]
+[@sinicrope764]
 :::
 
 ## Lynch Screening
