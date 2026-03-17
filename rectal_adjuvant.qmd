@@ -19,18 +19,13 @@ bibliography: zotero.bib
 
 Trans-abdominal procedures include
 
--   Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum
-\
--   Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ
-\
--   Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.
-\
-
-
+-   Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum\
+-   Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ\
+-   Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.\
 
 ## GI Tumor Study Group 1985 Adjuvant Radiation
 
-Surgery as sole treatment for rectal cancer $\rightarrow$ unacceptable rate of local recurrence. 
+Surgery as sole treatment for rectal cancer $\rightarrow$ unacceptable rate of local recurrence.
 
 \
 
@@ -66,7 +61,6 @@ No difference in overall survival
 
 ![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history_no_swedish.png)
 
-
 ## Total Mesorectal Excision
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g002.jpg)
@@ -97,8 +91,7 @@ Surgery alone
 
 Surgery $\rightarrow$ Chemoradiation
 
-
-Postop ChemoRT reduced local recurrence from 10.9% to 5.6% 
+Postop ChemoRT reduced local recurrence from 10.9% to 5.6%
 
 No difference in overall survival
 
@@ -127,7 +120,7 @@ Preoperative = *neoadjvant* therapy
 
 ## German Trial Preop vs Postop ChemoRT
 
-Preop radiation has theoretical advantage of improved efficacy 
+Preop radiation has theoretical advantage of improved efficacy
 
 All patients received postoperative adjuvant chemotherapy
 
@@ -152,7 +145,6 @@ No difference in overall survival or local control
 [@sauer1926]
 :::
 
-
 ## Overview of Rectal Adjunctive Therapy
 
 ![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history.png)
@@ -164,7 +156,6 @@ Postoperative (adjuvant) chemotherapy was shown to be effective in reducing dist
 Standard treatment now became:
 
 Neoadjuvant ChemoRT $\rightarrow$ Surgery $\rightarrow$ Adjuvant Chemo
-
 
 ## Neoadjuvant Chemotherapy Strategy
 
@@ -198,20 +189,15 @@ TNT approach moves *all* therapy to before surgery with goals to:
 
 \
 \
--   Improve distant disease control
--   Improve clinical complete response 
-
+- Improve distant disease control - Improve clinical complete response
 
 ## RAPIDO Trial
 
 920 patients with T4 or node-positive disease:
 
-Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery
-vs
-ChemoRT $\rightarrow$ TME $\pm$ Chemo
+Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery vs ChemoRT $\rightarrow$ TME $\pm$ Chemo
 
-pCR rate significantly higher in the short course/chemotherapy/surgery group (28% vs 14%)
-Disease-specific surival at 3years was higher (30% vs 24%).
+pCR rate significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) Disease-specific surival at 3years was higher (30% vs 24%).
 
 ::: aside
 [@bahadoer29]; [@vandervalk75]
@@ -289,7 +275,7 @@ Restrospective comparison two groups with rectal cancer:
 TNT approach moves *all* therapy to before surgery with goals to:
 
 -   Improve distant disease control
--   Improve clinical complete response 
+-   Improve clinical complete response
 
 $\Rightarrow$ Facilitate organ preservation
 
@@ -377,6 +363,50 @@ ChemoRT $\rightarrow$ Chemo 54% organ preservation
 [@smith767]
 :::
 
+
+## Complete Clinical Response
+
+Flexible sigmoidoscopy:
+
+- pale smooth scar with or without telangiectasia
+- no ulceration, nodularity, mucosal irregularities, or stricture
+- digital rectal examination: smooth, flat scar without nodularity
+
+Diffusion-weighted MRI:
+
+- fibrotic, linear scar with low signal intensity on T2-weighted images
+- no diffusion restriction
+- no suspicious lymph nodes.
+
+::: aside
+NCCN Guidelines
+:::
+
+## Near Complete Clinical Response
+
+
+Flexible sigmoidoscopy:
+
+- Irregular small mucosal nodules, superficial ulceration, or mild persistent erythema
+
+Digital Rectal Exam:
+
+- Smooth induration or superficial minor mucosal irregularity
+
+
+Diffusion-weighted MRI:
+
+- smooth induration or superficial minor mucosal irregularity
+
+T2-weighted MRI:
+
+- downstaging with or without residual fibrosis and small area of residual signal
+
+::: aside
+NCCN Guidelines
+:::
+
+
 ## Complete vs Near Complete clinical response
 
 ::: aside
@@ -384,7 +414,6 @@ ChemoRT $\rightarrow$ Chemo 54% organ preservation
 :::
 
 ## Chemo Intensification - FOLFIRINOX
-
 
 ## Swedish Short-course RT {#Swedish}
 
@@ -423,6 +452,5 @@ With short-course radiation, delayed surgery resulted in higher rates of pCR (11
 ## Stockholm III
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg)
-
 
 ## References
