@@ -2,8 +2,13 @@
 .Rhistory
 .RData
 .Ruserdata
+.Rproj.user/
+.Rproj.user/**
+
+.DS_Store
 
 
+/_book/
 /.quarto/
 /_site/
 /docs/

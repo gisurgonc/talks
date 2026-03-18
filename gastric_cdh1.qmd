@@ -1,0 +1,68 @@
+---
+title: "Hereditary Diffuse Gastric Cancer"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Hereditary Diffuse Gastric Cancer
+
+Genetic syndrome first reported among Maori population in New Zealand
+
+- Autosomal dominant
+- Early-onset diffuse gastric cancer ($\tilde{x}$ age = 40)
+- High penetrance
+
+## CDH1 mutations and HDGC
+
+Pathologic variants in CDH1 gene associated with HDGC
+
+## Penetrance in Populations Enriched in HDGC
+
+
+## Prophylactic Gastrectomy
+
+- Stanford
+
+90% of patients undergoing prophylactic gastrectomy harbor microscopic foci of gastric cancer in their stomach
+
+
+## Endoscopic Screening - NIH
+
+A large NIH cohort study of 270 CDH1 carriers undergoing surveillance with systematic gastric mapping found only two patients developed clinically evident pT3N0 gastric carcinomas over a median 31-month follow-up, with no gastric cancer deaths.
+
+::: aside
+[@asif383]
+:::
+
+## Endoscopic Screening - Cambridge
+
+imilarly, a 16-year longitudinal cohort study demonstrated that endoscopic surveillance with systematic random biopsies can identify early lesions and inform decision-making about gastrectomy. 
+
+::: aside
+[@lee107]
+:::
+
+
+## Endoscopic Screening
+
+ 2025 study of 20 carriers undergoing long-term surveillance (mean 62 months) found no patients developed aggressive (greater than pT1a) cancer, even among those with positive pT1a biopsies who continued surveillance.
+ 
+aside:  Expert Endoscopic Surveillance in CDH1 Pathogenic Variant Carriers Seems Safe, Even After Positive (pT1a) Biopsies.
+Journal of Medical Genetics. 2025. Benusiglio PR, Leenhardt R, Duros C, et al.New
+
