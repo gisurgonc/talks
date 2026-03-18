@@ -94,7 +94,7 @@ Simple paradigm made more complicated:
 
 ## Detection of residual disease after chemoradiation
 
-Cologne: 80 patients with localy-advanced esophageal cancer were treated by cheoradiation followed by esophagectomy. Pathology of resection specimen was predictive of survival. To predict histopathologic response, EGD had a sensitivityof 605, Rebiopsy 39%, and EUS 7%. [@schneider902]
+Cologne: 80 patients with localy-advanced esophageal cancer were treated by cheoradiation followed by esophagectomy. Pathology of resection specimen was predictive of survival. To predict histopathologic response, EGD had a sensitivityof 60%, Rebiopsy 39%, and EUS 7%. [@schneider902]
 
 Reveiw of CT, EUS, PET for assessment of response to chemoRT [@westerterp842] Maximum oint values for sensitivity and specificity were 54% for CT, 86% for EUS, 85% for PET.
 
@@ -103,3 +103,5 @@ Reveiw of CT, EUS, PET for assessment of response to chemoRT [@westerterp842] Ma
 Munich: 40 patient with adenocarcinoma GE junction treated with trimodality therapy. Reduction in SUV was -54% in responders vs -15% in non-responders. pCT in 53% of metanbolic responders but in only 5% of non-responders. [@weber3058]
 
 RPMI: 77 patients with adenocarcinoma of the esophagus treated with trimodality therapy. Delta SUV value of \<45% was predictive of residual disease with a positive predictive value of 92% [@kukar555]\]
+
+Dublin: 138 patients CRT -\> esophagectomy 75% adenocarcinoma. complete metabolic response of 46% of whom 27% had pCR and 27% were node positive. complete endoscpoic response was seen in 33%. Poor predictive abiity [@heneghan831]
