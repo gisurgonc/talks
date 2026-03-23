@@ -6,7 +6,7 @@ csl: elsevier-stanford.csl
 link-citations: true
 ---
 
-# Rectal Cancer
+# Rectal Cancer Body Composition
 
 NSQIP [@sweigert1004] Morbid obesity was associated with increased risk of any complications after protectomy. BMI was not associated with risk of leak
 
@@ -36,9 +36,7 @@ MSKCC: 586 patients with rectal cancer: obesity (BMI \>30) made no difference in
 
 Cardiovascular disease and visceral fat (review). [@matsuzawa6455]
 
-Visceral fat men with colorectal cancer associated with diabeter, and hypertension. Waist circumference also a predictor [@balentine18]
-
-Perinephric fat
+Visceral fat men with colorectal cancer associated with diabetes, and hypertension. Waist circumference also a predictor [@balentine18]
 
 Pancreaticoduodenctomy MSKCC: 356 Whipple - primary risk factors for complications were absence of pancreatic atrophy and central obesity as measured by retrorenal visceral fat (\>2cm)
 
@@ -46,14 +44,14 @@ Netherlands [@berkel376] 99 patients over 5 years. Sarcopenic obesity defined as
 
 Rush University 47 patients Sarcopenia present in 50% of patient and associated with postoperative complications and blood transfusions [@jochum1372]
 
-Skeletal muscle loss during neoadjuvant therapy
+## Skeletal muscle loss during neoadjuvant therapy
 
-Associated with mortaity
+Associated with mortailty
 
-Yonesi South Kored [@chung820] 93 patients underdoing neoadjuvant therapy 23 had severe muscle loss. Risk factors for survival were age, ypStage, severe muscle loss, and sarcopenia_post. T4 disease associated with severe muscle loss.
+Yonesi South Kored [@chung820] 93 patients underdoing neoadjuvant therapy 23 had severe muscle loss. Risk factors for survival were age, ypT Stage, severe muscle loss, and sarcopenia after neoadjuvant therapy. T4 disease associated with severe muscle loss.
 
 OSaka: Change in psoas muscle index \>10% associated with poor prognosis [@fukuoka5157] and complications
 
-Australia [@yassaie1146]. 92 patients meas loss of psoas muscle was 5%. Patients with residual tumor after chemoRT had less change in psoas area. greater loss of muscle in those with leak (10% vs 4%) and those who developped metastatic disease (10% vs 4%)
+Australia [@yassaie1146]. 92 patients mean loss of psoas muscle was 5%. Patients with residual tumor after chemoRT had less change in psoas area. greater loss of muscle in those with leak (10% vs 4%) and those who developped metastatic disease (10% vs 4%)
 
-Peking \[@\]
+Peking \[\@\]
