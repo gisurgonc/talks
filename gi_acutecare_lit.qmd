@@ -1,0 +1,19 @@
+---
+title: "Acute Presentation of  GI Cancer"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+
+emergency sesrvice, hospital
+Emergency Medicine/*instrumentation/methods
+
+OT
+emergency department operations
+ER visit
+emergency daprtment visit
+ED visit
+
+("emergency medicine"[All Fields] OR "emergency department"[All Fields] OR "ED visit"[All Fields] OR "emergency room"[All Fields]) AND ("colon cancer"[All Fields] OR "colorectal cancer"[All Fields] OR "anal cancer"[All Fields] OR "anorectal cancer"[All Fields] OR "stomach cancer"[All Fields] OR "gastric cancer"[All Fields] OR "esophageal cancer"[All Fields] OR "esophageal cancer"[All Fields] OR "rectal cancer"[All Fields] OR "colon cancer"[All Fields])
