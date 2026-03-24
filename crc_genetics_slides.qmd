@@ -22,15 +22,12 @@ bibliography: zotero.bib
 
 ## Genetics of Colorectal Cancer
 
-![](images/crc_genes_1920_900b.png)
+![](images/chapelle_fig1.png)
 
 ::: aside
-JAMA Oncol March 31, 2017
+[@delachapelle3380]
 :::
 
-## FAP screening
-
-Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after colectomy and q5 yers in those with family hx of desmoids
 
 ## Lynch Syndrome
 
@@ -45,23 +42,6 @@ Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after co
 [@enge116]
 :::
 
-## Lynch Non-Colorectal Cancers
-
--   Endometrial (25-60% penetrance)
--   Stomach
--   Ovarian 
--   Urinary tract
--   Biliary Tract
--   Small bowel
--   Male breast cancer (1.2% penetrance vs 0.1%)
-
-::: aside
-[@sinicrope764]
-:::
-
-## Lynch Screening
-
-Colonoscopy q1-2 years staring age 20-25
 
 ## Mismatch Repair Protein Loss in Lynch Syndrome
 
@@ -77,7 +57,7 @@ Lynch Syndrome can be caused by loss of expression of:
 
 Deficiency in mismatch repair proteins $\rightarrow$ microsatellite instability
 
-15% of colorectal cancers are MMR-deficient
+15% of colorectal cancers are MMR-deficient (MSI-High)
 
 -   Sporadic - Promoter methylation of MLH1 by BRAF V600E mutation (10%)
 
@@ -104,6 +84,10 @@ Microsatellite Instability can be detected by pCR
 
 97-99%+ concordance between dMMR and MSI-High status
 
+## Mismatch Repair -> Microsatellite Instability
+
+![](images/chapelle_Fig2.png)
+
 ## MMR-deficient Tumor Clinical Feaures
 
 -   Proximal location
@@ -122,8 +106,11 @@ Microsatellite Instability can be detected by pCR
 Mutational burden from dMMR causes MSI-High tumors to be immunogenic
 
 ![](images/lynch_pdl1_1.png)
+Activated tumor-infiltrating lymphocytes up-regulate PD-1
 
 ## Tumor PD-L1 Down-regulates Immune Responses
+
+Tumor cells respond to immune activation by $\uparrow$ PD-L1
 
 ::::: {.columns align="center"}
 ::: {.column width="50%"}
@@ -135,13 +122,19 @@ Mutational burden from dMMR causes MSI-High tumors to be immunogenic
 :::
 :::::
 
+$\uparrow$ PD-L1 downregulates immune response
+
 ## Immune Checkpoint Inhibitors
 
-![](images/lynch_pdl1_6.png) Inhibition of PD-L1 and PD-1 interaction activates T cells
+![](images/lynch_pdl1_6.png) 
 
-## PD-L1 expression is higher in MMR-deficient Colorectal Cancers
+Inhibition of PD-L1 $\leftrightarrow$ PD-1 activates T cells by removing inhibition
+
+## PD-L1 expression is higher in MMR-deficient CRC
 
 Immunohistochemistry analysis of 1800 colorectal cancer specimens:
+
+\
 
 PD-L1 was more often positive in dMMR (18.6%) than in MMR proficient (pMMR) cancers (4.1%; p \< 0.0001)
 
@@ -194,6 +187,29 @@ Ppooled analyses showing no difference in disease-free survival (HR 0.89, 95% CI
 Oxaliplatin-based chemotherapy (FOLFOX or CapeOX) and atezolizumab (Tecentriq)
 
 ATOMIC trial: atezolizumab + mFOLFOX6 is superior to mFOLFOX6 alone, with a 3-year disease-free survival rate of 86.4% versus 76.6% (hazard ratio 0.50, P .0001)
+
+
+## FAP screening
+
+Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after colectomy and q5 yers in those with family hx of desmoids
+
+## Lynch Non-Colorectal Cancers
+
+-   Endometrial (25-60% penetrance)
+-   Stomach
+-   Ovarian 
+-   Urinary tract
+-   Biliary Tract
+-   Small bowel
+-   Male breast cancer (1.2% penetrance vs 0.1%)
+
+::: aside
+[@sinicrope764]
+:::
+
+## Lynch Screening
+
+Colonoscopy q1-2 years staring age 20-25
 
 ## Colon Polyposis: \>10 adenomatous polyps
 
