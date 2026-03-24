@@ -4113,14 +4113,14 @@
     "href": "eso_postop_care.htm#ct-esophagram-with-ng-tube-in-place-1",
     "title": "Esophagectomy Postop Care",
     "section": "CT Esophagram with NG tube in place",
-    "text": "CT Esophagram with NG tube in place\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan performed to identify location of tip of NG tube relative to the anastomosis\nRadiologist will measure the distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm\nNG tube manipulation will need to be done by an RN or physician"
+    "text": "CT Esophagram with NG tube in place\nOnce patient is positioned on the CT scanner:\n\n“Scout” scan performed to identify location of tip of NG tube relative to the anastomosis\nRadiologist will measure the distance from the anastomosis to the tip of the NG tube.\nNG tube is then withdrawn a distance which keeps the NG tube tip 5cm below the anastomosis.\nIf NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 5 = 8cm\nNG tube manipulation will need to be done by an RN or physician"
   },
   {
-    "objectID": "eso_postop_care.htm#ng-tube-withdrawl---amt-bridle",
-    "href": "eso_postop_care.htm#ng-tube-withdrawl---amt-bridle",
+    "objectID": "eso_postop_care.htm#ng-tube-withdrawal---amt-bridle",
+    "href": "eso_postop_care.htm#ng-tube-withdrawal---amt-bridle",
     "title": "Esophagectomy Postop Care",
-    "section": "NG Tube Withdrawl - AMT Bridle",
-    "text": "NG Tube Withdrawl - AMT Bridle\nNG tubes kept in place with an AMT bridle. Locking plastic clip holds the NG tube.\nTo open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
+    "section": "NG Tube Withdrawal - AMT Bridle",
+    "text": "NG Tube Withdrawal - AMT Bridle\nNG tubes kept in place with an AMT bridle. Locking plastic clip holds the NG tube.\nTo open the locking clip, a guitar pick (or a thumbnail) is used to pry open the clip.\nThe NG tube can then be withdrawn the required distance\nAfter CT Esophagram, NG tube can be (blindly) advanced to prior position\nIdeal position is with all 4 dots outside the nose"
   },
   {
     "objectID": "eso_postop_care.htm#ct-esophagram---full-sequence",
@@ -4372,7 +4372,7 @@
     "href": "eso_postop_care.htm#enteral-feeding-bag-details",
     "title": "Esophagectomy Postop Care",
     "section": "Enteral Feeding Bag Details",
-    "text": "Enteral Feeding Bag Details\n\nHome ePump bags can fit approximately 1000mL (4 cartons) of tube feeding\nOpen system; poured into top of bag\nAll connections should now be EnFit\nSyringes for water flush\nInfusion bag/tubing"
+    "text": "Enteral Feeding Bag Details\n\nHome enteral feeding bags can fit approximately 1000mL (4 cartons) of tube feeding\nOpen system; poured into top of bag\nAll connections should now be EnFit\nEnFit Syringes for water flush\nInfusion bag/tubing"
   },
   {
     "objectID": "eso_postop_care.htm#patient-education-needs",
@@ -4386,7 +4386,7 @@
     "href": "eso_postop_care.htm#discharge-pod-67",
     "title": "Esophagectomy Postop Care",
     "section": "Discharge POD #6/#7",
-    "text": "Discharge POD #6/#7\nTube feeds 75mL/hr x 16hrs\nProtein shakes IF cleared by MBS\nReglan 10mg po qid\nOxycodone elixir 5-10mg oral/via tube q4-6 hours\nMetoprolol 25-50mg po bid\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nAnticoagulation (if in atrial fibrillation)"
+    "text": "Discharge POD #6/#7\nTube feeds 60-75mL/hr x 16hrs\nProtein shakes 4oz/hour IF cleared by MBS\nOral medicines\n\nReglan 10mg po qid\nOxycodone elixir 5mg oral q6 hours\nMetoprolol 25-50mg po bid (not liquid)\nRemeron 15mg po qhs\nAnti-arrhythmics (if needed)\nAnticoagulation (if in atrial fibrillation)"
   },
   {
     "objectID": "eso_postop_care.htm#discharge-planning",
@@ -4414,7 +4414,7 @@
     "href": "eso_postop_care.htm#minimally-invasive-esophagectomy-acknowledgements",
     "title": "Esophagectomy Postop Care",
     "section": "Minimally-invasive esophagectomy Acknowledgements",
-    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\n\nLoran Soliman MD\n\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic"
+    "text": "Minimally-invasive esophagectomy Acknowledgements\n\n\nThoracic Surgery\n\nMike Roach MD\nJeff Hagen MD\n\nAnesthesia\nSurgical Critical Care\nGeneral Surgery Residents\n\nNursing\n\nSTICU\n6 Tower\n\nClinical Nutrition\n\nElizabeth Koch RD\nMeaghan Mikulas RD\nMeredith Byrne RD\n\nLevine Cancer Institute\n\nGI Oncology Clinic"
   },
   {
     "objectID": "eso_postop_care.htm#orientation-hanbook",
