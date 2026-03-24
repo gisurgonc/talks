@@ -235,7 +235,7 @@ Esophagectomy require dividing the vagus nerve
 $\Rightarrow$ Esophagectomy can cause delayed gastric emptying
 
 -   Nasogastric tube decompresses gastric conduit
-- Radiology test to determine when NG can be removed
+-   Radiology test to determine when NG can be removed
 
 ## Evaluation of Gastric Emptying
 
@@ -280,28 +280,23 @@ Outcomes:
 
 Patients discharged taking water, Gatorade, and protein shakes orally
 
-
-
 ## Modified Barium Swallow - Fail
 
 Cleared for moderately thick but aspiration with thin:
 
-- NPO
-- Medicines with a sip of thickened water
+-   NPO
+-   Medicines with a sip of thickened water
 
 Aspiration with moderately thick liquids:
 
-- NPO
-- Medicines administered via jejunostomy tube
+-   NPO
+-   Medicines administered via jejunostomy tube
 
 MBS is repeated every 3-4 days until discharge
-
 
 ## NPO Orders
 
 ![](images/NPO_orders.png)
-
-
 
 ## Anastomotic Leak
 
@@ -393,7 +388,6 @@ Best position of NG tube is with tip 5cm below the anastomosis
 
 $\Rightarrow$ NG tube needs to be optimally positioned **prior** to contrast instillation
 
-
 ## CT Esophagram with NG tube in place
 
 Once patient is positioned on the CT scanner:
@@ -401,10 +395,10 @@ Once patient is positioned on the CT scanner:
 -   "Scout" scan performed to identify location of tip of NG tube relative to the anastomosis
 -   Radiologist will measure the distance from the anastomosis to the tip of the NG tube.
 -   NG tube is then withdrawn a distance which keeps the NG tube tip 5cm *below* the anastomosis.
-  -   If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 6 = 7cm
+-   If NG tube tip is 13cm below anastomosis, NG tube is withdrawn 13 - 5 = 8cm
 -   NG tube manipulation will need to be done by an RN or physician
 
-## NG Tube Withdrawl - AMT Bridle
+## NG Tube Withdrawal - AMT Bridle
 
 NG tubes kept in place with an AMT bridle. Locking plastic clip holds the NG tube.
 
@@ -445,7 +439,6 @@ $\Rightarrow$ NG tube removal is delayed for patients with:
 
 ... until CT esophagram confirms that there is no evidence of leak
 
-
 ## Leak Detection with Cervical Anastomosis
 
 Leak is generally clinically apparent:
@@ -456,7 +449,6 @@ Leak is generally clinically apparent:
 
 Barium upper GI best study to look for leak
 
-
 ## Pneumonia
 
 ::::: columns
@@ -464,8 +456,7 @@ Barium upper GI best study to look for leak
 Pneumonia occurs in 10% of patients after esophagectomy.
 
 -   Normal muscle mass: Risk 5%
--   Low muscle mass (<25 %ile): Risk 20%
-
+-   Low muscle mass (\<25 %ile): Risk 20%
 :::
 
 ::: {.column width="50%"}
@@ -492,14 +483,13 @@ Atrial fibrillation (and other arrhythmias)
 
 Prevention – beta blockade/amiodarone
 
-- Metoprolol 2.5mg IV q6 hours
-  - Can increase to 5mg IV
-  - Convert to 25-50mg enteral q12 hours 
+-   Metoprolol 2.5mg IV q6 hours
+    -   Can increase to 5mg IV
+    -   Convert to 25-50mg enteral q12 hours
 
 Diagnosis – EKG monitoring
 
 Treatment – amiodarone, $\uparrow$β blockade
-
 
 ## Cervical Anastomosis - Recurrent Laryngeal Nerve Palsy
 
@@ -542,7 +532,6 @@ Removal 6 hours after epidural removal: 3.2% reinsertion
 Mayo Clinic [@allen925]
 :::
 
-
 ## Multimodality Pain Management
 
 -   Morphine or Dilaudid PCA
@@ -551,16 +540,14 @@ Mayo Clinic [@allen925]
 -   Oxycodone (elixir via jejunostomy or tablets)
 -   No Toradol or non-steroidal anti-inflammatories
 
-
 ## Jejunostomy Small Bowel Necrosis
 
-Among patients with a new jejunostomy tube: 
+Among patients with a new jejunostomy tube:
 
-- 1% incidence of necrosis (gangrene) of the jejunum
-- Due to demand ischemia 
-- Can lead to bowel perforation 
-- More likely after major surgery
-
+-   1% incidence of necrosis (gangrene) of the jejunum
+-   Due to demand ischemia
+-   Can lead to bowel perforation
+-   More likely after major surgery
 
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
@@ -580,9 +567,9 @@ CT: Pneumatosis of small bowel
 
 ## Case Study: 54F s/p total gastrectomy + jejunostomy
 
-:::::: {.r-stretch}
-::::: columns 
-::: {.column width="50%"} 
+:::::: r-stretch
+::::: columns
+::: {.column width="50%"}
 Postop Day 4: Abdominal distension and pain
 
 WBC: 42, 000
@@ -638,7 +625,6 @@ Segmental resection of jejunum.
 
 ::::: columns
 ::: {.column width="50%"}
-
 -   Early diagnosis is critical: **Stop Tube Feeds!**
 -   Signs can be subtle: distension or $\uparrow$ pain
 -   CT scan is diagnostic
@@ -664,14 +650,12 @@ Gastric
 
 Intestinal - Tube feeding intolerance
 
-
 ## Nutritional Consequences of Esophagectomy
 
-If That’s Not Enough… 
+If That’s Not Enough…
 
-- Increased metabolic needs due to healing + 
-- Preoperative nutritional deficit
-
+-   Increased metabolic needs due to healing +
+-   Preoperative nutritional deficit
 
 ## Gastric Emptying - Medical Strategies
 
@@ -683,9 +667,9 @@ Metoclopramide (Reglan®) – 10mg po/iv q6hrs
 
 Mirtazapine (Remeron®) 15mg po qHs
 
-- Anti-depressant 
-- Promotes gastric emptying 
-- Can cause vivid dreams
+-   Anti-depressant
+-   Promotes gastric emptying
+-   Can cause vivid dreams
 
 ## Jejunostomy Feedings
 
@@ -699,57 +683,56 @@ Vital High Protein for BMI \>35 (decreased CHO/calorie content, increased protei
 
 ## Jejunostomy Feedings
 
-Five cartons = 75mL/hour x 16 hours (4pm-10am)
-Four cartons = 60mL/hour x 16 hours (4pm-10am)
+Five cartons = 75mL/hour x 16 hours (4pm-10am) Four cartons = 60mL/hour x 16 hours (4pm-10am)
 
 Free Water Flushes
 
-- Prevents tube clogging, constipation, hypernatremia
-- Flush tube in am after running feeds
-- 240mL q4 hours while awake (qid)
+-   Prevents tube clogging, constipation, hypernatremia
+-   Flush tube in am after running feeds
+-   240mL q4 hours while awake (qid)
 
 ## Osmolite 1.5
 
 Nutritionally complete standard formula
 
-- High caloric density 
-- Does not contain fiber 
-  - Reduces risk of clogging tube 
-- Medium Chain Triglycerides (20%) 
-- HCPCS Code: B4152
+-   High caloric density
+-   Does not contain fiber
+    -   Reduces risk of clogging tube
+-   Medium Chain Triglycerides (20%)
+-   HCPCS Code: B4152
 
 ## Vital 1.5
 
-Nutritionally complete elemental formula 
+Nutritionally complete elemental formula
 
-- Appropriate for malabsorption or diarrhea 
-- Contains FOS fiber 
-  - Promotes healthy gut flora 
-  - Proteins enzymatically hydrolyzed 
-  - Promotes gastric emptying 
-- Medium Chain Triglycerides (50%) 
-- HCPCS Code: B4153
+-   Appropriate for malabsorption or diarrhea
+-   Contains FOS fiber
+    -   Promotes healthy gut flora
+    -   Proteins enzymatically hydrolyzed
+    -   Promotes gastric emptying
+-   Medium Chain Triglycerides (50%)
+-   HCPCS Code: B4153
 
 ## Vital High Protein
 
-Nutritionally Complete elemental Formula 
+Nutritionally Complete elemental Formula
 
-- Appropriate for patients with BMI \>35 
-- Medium Chain Triglycerides (50%) 
-- HCPCS Code: B4153 
+-   Appropriate for patients with BMI \>35
+-   Medium Chain Triglycerides (50%)
+-   HCPCS Code: B4153 
 
 ## Diarrhea with Jejunostomy Feeds
 
-- Check clostridium Difficile 
-- Switch formulas (Osmolite 1.5 →Vital 1.5) 
-- Cautious use of anti-motility agents (eg Lomotil)
+-   Check clostridium Difficile
+-   Switch formulas (Osmolite 1.5 →Vital 1.5)
+-   Cautious use of anti-motility agents (eg Lomotil)
 
 ## Diabetic Patients on Jejunostomy Feeds
 
-May have more problems with elevated blood sugars 
+May have more problems with elevated blood sugars
 
-- Food bypasses duodenum
-- Reduced release of endogenous insulin
+-   Food bypasses duodenum
+-   Reduced release of endogenous insulin
 
 $\Rightarrow$ may need long-acting insulin in the evening when tube feeds started
 
@@ -759,9 +742,9 @@ $\Rightarrow$ Early consultations with endocrinology
 
 When patients leave the ICU, they will be on continuous tube feeds
 
-Continuous insulin regimen of q6 (2N+1R) 
+Continuous insulin regimen of q6 (2N+1R)
 
-- eg: 10 units N + 5 units R q6 hours
+-   eg: 10 units N + 5 units R q6 hours
 
 Most patients will be transitioned to nocturnal feeds when on the ward
 
@@ -771,47 +754,44 @@ Tube feeding regimen will change from 24 hours to 16 hours (6pm-10AM). 
 
 Insulin schedule MUST change with tube feeding schedule due to lack of CHO ingestion when feeds stop:
 
-- Tube feeds stopped 12pm & check blood sugar
-- q6 hr insulin discontinued when tube feeds stopped
-- Noon dose of insulin is held
-- Nocturnal tube feeds started at 6pm
-- Nocturnal insulin given at 6pm as ordered
-- Nocturnal insulin given at MN if ordered
+-   Tube feeds stopped 12pm & check blood sugar
+-   q6 hr insulin discontinued when tube feeds stopped
+-   Noon dose of insulin is held
+-   Nocturnal tube feeds started at 6pm
+-   Nocturnal insulin given at 6pm as ordered
+-   Nocturnal insulin given at MN if ordered
 
 $\Rightarrow$ Requires coordination between surgical and endocrinology teams and nursing
 
-
 ## Oral Nutrition once cleared for thin liquids by MBS
 
-- Water 1oz q hour orally 
-- Medications switched to oral
-- Protein shakes 2oz at a time if water tolerated
-- Protein shakes 4oz at a time if 2 oz tolerated
+-   Water 1oz q hour orally
+-   Medications switched to oral
+-   Protein shakes 2oz at a time if water tolerated
+-   Protein shakes 4oz at a time if 2 oz tolerated
 
 Ensure Max Protein will be available soon!
 
 ## Diet Orders
 
-Post-esophagectomy patients are NOT ordered for clear liquids or full liquids. 
+Post-esophagectomy patients are NOT ordered for clear liquids or full liquids.
 
 Instead:
 
-- NPO
-- Permitted liquids in "NPO Except"
+-   NPO
+-   Permitted liquids in "NPO Except"
 
 When patient is advanced to protein shakes:
 
-- Enter a Supplement Intake Regimen
+-   Enter a Supplement Intake Regimen
 
 ## NPO Orders
 
 ![](images/NPO_orders.png)
 
-
 ## Supplement Intake Regimen
 
 ![](images/Supplement_orders.png)
-
 
 ## Diet Orders Preop NPO
 
@@ -821,27 +801,32 @@ Preop NPO Orders
 
 Patients who will return to the OR:
 
-- NPO order AND 
-- Hold Tube Feeds order
+-   NPO order AND
+-   Hold Tube Feeds order
 
 ## Nutrition Summary
 
 -   Evaluate tolerance to j-tube feeds and make adjustments as necessary
 
-  - formula
-  - rate
-  - duration
+-   formula
+
+-   rate
+
+-   duration
+
 -   Emphasize fluid as the patient transitions to 100% oral/tube hydration
+
 -   Monitor tolerance to full liquids prior to discharge
+
 -   Assure blood sugars are checked & controlled
 
 ## Enteral Feeding Bag Details
 
-- Home ePump bags can fit approximately 1000mL (4 cartons) of tube feeding 
-- Open system; poured into top of bag 
-- All connections should now be EnFit 
-- Syringes for water flush 
-- Infusion bag/tubing
+-   Home enteral feeding bags can fit approximately 1000mL (4 cartons) of tube feeding
+-   Open system; poured into top of bag
+-   All connections should now be EnFit
+-   EnFit Syringes for water flush
+-   Infusion bag/tubing
 
 ## Patient Education Needs
 
@@ -861,21 +846,18 @@ Diabetic management
 
 ## Discharge POD #6/#7
 
-Tube feeds 75mL/hr x 16hrs
+Tube feeds 60-75mL/hr x 16hrs
 
-Protein shakes IF cleared by MBS
+Protein shakes 4oz/hour IF cleared by MBS
 
-Reglan 10mg po qid
+Oral medicines
 
-Oxycodone elixir 5-10mg oral/via tube q4-6 hours
-
-Metoprolol 25-50mg po bid
-
-Remeron 15mg po qhs
-
-Anti-arrhythmics (if needed)
-
-Anticoagulation (if in atrial fibrillation)
+- Reglan 10mg po qid
+- Oxycodone elixir 5mg oral q6 hours
+- Metoprolol 25-50mg po bid (not liquid)
+- Remeron 15mg po qhs
+- Anti-arrhythmics (if needed)
+- Anticoagulation (if in atrial fibrillation)
 
 ## Discharge Planning
 
@@ -890,33 +872,31 @@ Home infusion: orders for tube feed formula/rate/duration
 
 Home nursing: Postop visit
 
-
 ## Patient Instructions
 
-Driving: 
+Driving:
 
-- Off narcotics and pain-free
+-   Off narcotics and pain-free
 
-Showering: 
+Showering:
 
-- OK to shower at home
-- No tub bath or swimming for 2 weeks
+-   OK to shower at home
+-   No tub bath or swimming for 2 weeks
 
-Activity: 
+Activity:
 
-- No lifting \>10# for 6 weeks
-- OK to resume aerobic activity immediately
+-   No lifting \>10# for 6 weeks
+-   OK to resume aerobic activity immediately
 
 ## Postop Office Visit
 
-- Review pathology 
-- Wean beta blockers 
-- Adjust anti-hypertensives
-- Check wounds 
-- Check for pleural effusion
-- Reduce tube feeds
-- Advance diet
-
+-   Review pathology
+-   Wean beta blockers
+-   Adjust anti-hypertensives
+-   Check wounds
+-   Check for pleural effusion
+-   Reduce tube feeds
+-   Advance diet
 
 ## Minimally-invasive esophagectomy Acknowledgements
 
@@ -928,8 +908,6 @@ Thoracic Surgery
 -   Jeff Hagen MD
 
 Anesthesia
-
--   Loran Soliman MD
 
 Surgical Critical Care
 
