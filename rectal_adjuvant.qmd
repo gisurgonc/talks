@@ -81,7 +81,7 @@ Median followup of 4.2 years:
 
 -   No staple-line recurrence
 
-## Dutch Adjuvant ChemoRT Trial
+## Dutch Postop ChemoRT Trial
 
 Dutch trial used protocol-drived total mesorectal excision (TME)
 
@@ -133,6 +133,8 @@ Preoperative ChemoRT was superior in:
 
 No difference in overall survival or local control
 
+NSABP R-03 Trial did not reach accrual goal
+
 ::: aside
 [@sauer1926]
 :::
@@ -149,7 +151,7 @@ No difference in overall survival or local control
 
 ![](https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history.png)
 
-## ECORT 22921 Adjuvant Chemotherapy
+## ECORT 22921 Postopo Chemotherapy
 
 Postoperative (adjuvant) chemotherapy was shown to be effective in reducing distant metastasis and improving survival in the ECORT 22921 clinical trial.
 
@@ -159,7 +161,7 @@ Neoadjuvant ChemoRT $\rightarrow$ Surgery $\rightarrow$ Adjuvant Chemo
 
 ## Neoadjuvant Chemotherapy Strategy
 
-Chemotherapy moved to before surgery with goals to:
+Chemotherapy moved to *before* surgery with goals to:
 
 -   Improve tolerance of chemotherapy
 -   Reduce toxicity of chemotherapy
@@ -167,7 +169,7 @@ Chemotherapy moved to before surgery with goals to:
 
 $\Rightarrow$ Improve distant disease control
 
-## PRODIGE-23 Adjuvant vs Neoadjuvant Chemo
+## PRODIGE-23 Postop vs Preop Chemo
 
 PRODIGE 23 randomized 461 patients with T3 or T4 rectal cancers:
 
@@ -179,6 +181,8 @@ Induction chemotherapy $\rightarrow$ Long-course radiation $\rightarrow$ surgery
 
 -   Increased pathologic complete response (pCR) 28% vs 12%
 
+Strictly speaking PRODIGE-23 is *not* TNT
+
 ::: aside
 [@conroy702]
 :::
@@ -189,9 +193,11 @@ TNT approach moves *all* therapy to before surgery with goals to:
 
 \
 \
-- Improve distant disease control - Improve clinical complete response
 
-## RAPIDO Trial
+- Improve distant disease control ($\rightarrow$ Overall survival) 
+- Improve clinical complete response ($\rightarrow$ Organ preservation) 
+
+## RAPIDO - Preop short-course radiation $\rightarrow$ Preop Chemo
 
 920 patients with T4 or node-positive disease:
 
@@ -203,11 +209,11 @@ pCR rate significantly higher in the short course/chemotherapy/surgery group (28
 [@bahadoer29]; [@vandervalk75]
 :::
 
-## RAPIDO and PRODIGE
+## RAPIDO vs PRODIGE-23
 
 ![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg)
 
-## Watchful Waiting for Organ Preservation
+## Watchful Waiting for Rectal Organ Preservation
 
 Retrospective studies: some patients with a complete clinical response to chemoradiation for rectal cancer can be managed *without* surgery.
 
@@ -277,9 +283,9 @@ TNT approach moves *all* therapy to before surgery with goals to:
 -   Improve distant disease control
 -   Improve clinical complete response
 
-$\Rightarrow$ Facilitate organ preservation
+$\Rightarrow$ Facilitate organ preservation AND Improve overall survival
 
-## OPRA Clinical Trial
+## OPRA Trial - Organ Preservation in Rectal Adenocarcioma
 
 324 rectal cancer patients randomized
 
@@ -297,7 +303,7 @@ Restaging:
 [@garcia-aguilar2546]
 :::
 
-## OPRA Clinical Trial
+## OPRA Trial - Organ Preservation in Rectal Adenocarcioma
 
 ChemoRT: 5000 to 5600 cGy with 5-FU or Capcitabine
 
@@ -307,7 +313,7 @@ Chemo: FOLFOX or CapeOx
 [@garcia-aguilar2546]
 :::
 
-## OPRA Clinical Trial
+## OPRA Trial - Organ Preservation in Rectal Adenocarcioma
 
 Restaging at 8 $\pm$ 4 weeks
 
@@ -326,7 +332,7 @@ Categorized:
 [@garcia-aguilar2546]
 :::
 
-## OPRA Clinical Trial
+## OPRA Trial - Organ Preservation in Rectal Adenocarcioma
 
 304 patients restaged: Surgery recommended in 26%
 
@@ -340,7 +346,7 @@ ChemoRT $\rightarrow$ Chemo 27% recurrence
 [@garcia-aguilar2546]
 :::
 
-## OPRA Clinical Trial
+## OPRA Trial - Organ Preservation in Rectal Adenocarcioma
 
 \
 
@@ -354,7 +360,7 @@ ChemoRT $\rightarrow$ Chemo 54% organ preservation
 [@garcia-aguilar2546]
 :::
 
-## Watch/Wait Surveillance
+## Watch/Wait Surveillance - OPRA
 
 -   DRE/Endoscopy q4 months x2 years $\rightarrow$ q6 months x3 years
 -   Rectal MRI q6 months x2 years $\rightarrow$ annually x3 years
@@ -414,6 +420,8 @@ NCCN Guidelines
 :::
 
 ## Chemo Intensification - FOLFIRINOX
+
+## 
 
 ## Swedish Short-course RT {#Swedish}
 

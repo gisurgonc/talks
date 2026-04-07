@@ -54,4 +54,8 @@ OSaka: Change in psoas muscle index \>10% associated with poor prognosis [@fukuo
 
 Australia [@yassaie1146]. 92 patients mean loss of psoas muscle was 5%. Patients with residual tumor after chemoRT had less change in psoas area. greater loss of muscle in those with leak (10% vs 4%) and those who developped metastatic disease (10% vs 4%)
 
-Peking \[\@\]
+ [@zhou576] 624 rectal cancer patients. Malnutriton evaluated by GLIMM survey. Visceral obesity evaluated by CT scan.  Overall survival model: Age, ASA score, tumor differentiation, TMN, and malnourished visceral obesity.
+ 
+ Beijing [@feng1126127] 426 colorectal resection 11% complications. Visceral fat area, total fat area, visceral fat:subcutaneous fat area, and sarcobesity index (visceral fat:muscle area) all associated with risk of complications. Anastomotic leak associated with visceral:subcutaneous fat area (p=0.02). Constructed a nomogram with smoking, stoma, blood loss, surgery time, ASA, sarcobesity index. AUC for prediction of any complication = 0.702 
+
+## References 
