@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -50,15 +50,17 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-79108a0fc1995748cbd19a5b0e3e3e7c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-ff63373b1067ca6f91cf1456aa1f00a2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -101,7 +103,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -120,13 +122,15 @@ window.Quarto = {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">talks</span>
     </a>
@@ -158,39 +162,42 @@ window.Quarto = {
    
   <ul>
   <li><a href="#trans-abdominal-rectal-surgery" id="toc-trans-abdominal-rectal-surgery" class="nav-link active" data-scroll-target="#trans-abdominal-rectal-surgery">Trans-abdominal Rectal Surgery</a></li>
-  <li><a href="#rectal-adjuvant-therapy" id="toc-rectal-adjuvant-therapy" class="nav-link" data-scroll-target="#rectal-adjuvant-therapy">Rectal Adjuvant Therapy</a></li>
+  <li><a href="#gi-tumor-study-group-1985-adjuvant-radiation" id="toc-gi-tumor-study-group-1985-adjuvant-radiation" class="nav-link" data-scroll-target="#gi-tumor-study-group-1985-adjuvant-radiation">GI Tumor Study Group 1985 Adjuvant Radiation</a></li>
+  <li><a href="#gi-tumor-study-group-1985-adjuvant-radiation-1" id="toc-gi-tumor-study-group-1985-adjuvant-radiation-1" class="nav-link" data-scroll-target="#gi-tumor-study-group-1985-adjuvant-radiation-1">GI Tumor Study Group 1985 Adjuvant Radiation</a></li>
   <li><a href="#overview-of-rectal-adjunctive-therapy" id="toc-overview-of-rectal-adjunctive-therapy" class="nav-link" data-scroll-target="#overview-of-rectal-adjunctive-therapy">Overview of Rectal Adjunctive Therapy</a></li>
-  <li><a href="#gi-tumor-study-group-1985" id="toc-gi-tumor-study-group-1985" class="nav-link" data-scroll-target="#gi-tumor-study-group-1985">GI Tumor Study Group 1985</a></li>
-  <li><a href="#gi-tumor-study-group-1985-1" id="toc-gi-tumor-study-group-1985-1" class="nav-link" data-scroll-target="#gi-tumor-study-group-1985-1">GI Tumor Study Group 1985</a></li>
   <li><a href="#total-mesorectal-excision" id="toc-total-mesorectal-excision" class="nav-link" data-scroll-target="#total-mesorectal-excision">Total Mesorectal Excision</a></li>
   <li><a href="#total-mesorectal-excicsion-1986" id="toc-total-mesorectal-excicsion-1986" class="nav-link" data-scroll-target="#total-mesorectal-excicsion-1986">Total Mesorectal Excicsion (1986)</a></li>
-  <li><a href="#dutch-postop-chemort-trial" id="toc-dutch-postop-chemort-trial" class="nav-link" data-scroll-target="#dutch-postop-chemort-trial">Dutch postop ChemoRT Trial</a></li>
-  <li><a href="#dutch-short-course-trial2" id="toc-dutch-short-course-trial2" class="nav-link" data-scroll-target="#dutch-short-course-trial2">Dutch Short-course Trial</a></li>
+  <li><a href="#dutch-adjuvant-chemort-trial" id="toc-dutch-adjuvant-chemort-trial" class="nav-link" data-scroll-target="#dutch-adjuvant-chemort-trial">Dutch Adjuvant ChemoRT Trial</a></li>
+  <li><a href="#dutch-preop-short-course-trial" id="toc-dutch-preop-short-course-trial" class="nav-link" data-scroll-target="#dutch-preop-short-course-trial">Dutch Preop Short-course Trial</a></li>
   <li><a href="#dutch-trial-results" id="toc-dutch-trial-results" class="nav-link" data-scroll-target="#dutch-trial-results">Dutch Trial Results</a></li>
+  <li><a href="#german-trial-preop-vs-postop-chemort" id="toc-german-trial-preop-vs-postop-chemort" class="nav-link" data-scroll-target="#german-trial-preop-vs-postop-chemort">German Trial Preop vs Postop ChemoRT</a></li>
   <li><a href="#german-trial" id="toc-german-trial" class="nav-link" data-scroll-target="#german-trial">German Trial</a></li>
-  <li><a href="#german-trial-1" id="toc-german-trial-1" class="nav-link" data-scroll-target="#german-trial-1">German Trial</a></li>
-  <li><a href="#german-trial-2" id="toc-german-trial-2" class="nav-link" data-scroll-target="#german-trial-2">German Trial</a></li>
-  <li><a href="#short-course-rt" id="toc-short-course-rt" class="nav-link" data-scroll-target="#short-course-rt">Short-course RT</a></li>
-  <li><a href="#swedish-rectal-cancer-trial" id="toc-swedish-rectal-cancer-trial" class="nav-link" data-scroll-target="#swedish-rectal-cancer-trial">Swedish Rectal Cancer Trial</a></li>
-  <li><a href="#stockholm-iii" id="toc-stockholm-iii" class="nav-link" data-scroll-target="#stockholm-iii">Stockholm III</a></li>
-  <li><a href="#stockholm-iii-1" id="toc-stockholm-iii-1" class="nav-link" data-scroll-target="#stockholm-iii-1">Stockholm III</a></li>
   <li><a href="#overview-of-rectal-adjunctive-therapy-1" id="toc-overview-of-rectal-adjunctive-therapy-1" class="nav-link" data-scroll-target="#overview-of-rectal-adjunctive-therapy-1">Overview of Rectal Adjunctive Therapy</a></li>
-  <li><a href="#adjuvant-chemotherapy" id="toc-adjuvant-chemotherapy" class="nav-link" data-scroll-target="#adjuvant-chemotherapy">Adjuvant Chemotherapy</a></li>
-  <li><a href="#timing-of-chemotherapy-and-chemort" id="toc-timing-of-chemotherapy-and-chemort" class="nav-link" data-scroll-target="#timing-of-chemotherapy-and-chemort">Timing of Chemotherapy and ChemoRT</a></li>
-  <li><a href="#total-neoadjuvant-therapy" id="toc-total-neoadjuvant-therapy" class="nav-link" data-scroll-target="#total-neoadjuvant-therapy">Total Neoadjuvant Therapy</a></li>
-  <li><a href="#total-neoadjuvant-therapy-1" id="toc-total-neoadjuvant-therapy-1" class="nav-link" data-scroll-target="#total-neoadjuvant-therapy-1">Total Neoadjuvant Therapy</a></li>
+  <li><a href="#ecort-22921-adjuvant-chemotherapy" id="toc-ecort-22921-adjuvant-chemotherapy" class="nav-link" data-scroll-target="#ecort-22921-adjuvant-chemotherapy">ECORT 22921 Adjuvant Chemotherapy</a></li>
+  <li><a href="#neoadjuvant-chemotherapy-strategy" id="toc-neoadjuvant-chemotherapy-strategy" class="nav-link" data-scroll-target="#neoadjuvant-chemotherapy-strategy">Neoadjuvant Chemotherapy Strategy</a></li>
+  <li><a href="#prodige-23-adjuvant-vs-neoadjuvant-chemo" id="toc-prodige-23-adjuvant-vs-neoadjuvant-chemo" class="nav-link" data-scroll-target="#prodige-23-adjuvant-vs-neoadjuvant-chemo">PRODIGE-23 Adjuvant vs Neoadjuvant Chemo</a></li>
+  <li><a href="#total-neoadjuvant-therapy-tnt" id="toc-total-neoadjuvant-therapy-tnt" class="nav-link" data-scroll-target="#total-neoadjuvant-therapy-tnt">Total Neoadjuvant Therapy (TNT)</a></li>
   <li><a href="#rapido-trial" id="toc-rapido-trial" class="nav-link" data-scroll-target="#rapido-trial">RAPIDO Trial</a></li>
-  <li><a href="#prodige-23-trial" id="toc-prodige-23-trial" class="nav-link" data-scroll-target="#prodige-23-trial">PRODIGE-23 Trial</a></li>
   <li><a href="#rapido-and-prodige" id="toc-rapido-and-prodige" class="nav-link" data-scroll-target="#rapido-and-prodige">RAPIDO and PRODIGE</a></li>
+  <li><a href="#watchful-waiting-for-organ-preservation" id="toc-watchful-waiting-for-organ-preservation" class="nav-link" data-scroll-target="#watchful-waiting-for-organ-preservation">Watchful Waiting for Organ Preservation</a></li>
+  <li><a href="#watch-and-wait---mskcc" id="toc-watch-and-wait---mskcc" class="nav-link" data-scroll-target="#watch-and-wait---mskcc">Watch and Wait - MSKCC</a></li>
+  <li><a href="#watch-and-wait---mskcc-1" id="toc-watch-and-wait---mskcc-1" class="nav-link" data-scroll-target="#watch-and-wait---mskcc-1">Watch and Wait - MSKCC</a></li>
+  <li><a href="#watch-and-wait---mskcc-2" id="toc-watch-and-wait---mskcc-2" class="nav-link" data-scroll-target="#watch-and-wait---mskcc-2">Watch and Wait - MSKCC</a></li>
+  <li><a href="#total-neoadjuvant-therapy" id="toc-total-neoadjuvant-therapy" class="nav-link" data-scroll-target="#total-neoadjuvant-therapy">Total Neoadjuvant Therapy</a></li>
   <li><a href="#opra-clinical-trial" id="toc-opra-clinical-trial" class="nav-link" data-scroll-target="#opra-clinical-trial">OPRA Clinical Trial</a></li>
   <li><a href="#opra-clinical-trial-1" id="toc-opra-clinical-trial-1" class="nav-link" data-scroll-target="#opra-clinical-trial-1">OPRA Clinical Trial</a></li>
   <li><a href="#opra-clinical-trial-2" id="toc-opra-clinical-trial-2" class="nav-link" data-scroll-target="#opra-clinical-trial-2">OPRA Clinical Trial</a></li>
   <li><a href="#opra-clinical-trial-3" id="toc-opra-clinical-trial-3" class="nav-link" data-scroll-target="#opra-clinical-trial-3">OPRA Clinical Trial</a></li>
   <li><a href="#opra-clinical-trial-4" id="toc-opra-clinical-trial-4" class="nav-link" data-scroll-target="#opra-clinical-trial-4">OPRA Clinical Trial</a></li>
   <li><a href="#watchwait-surveillance" id="toc-watchwait-surveillance" class="nav-link" data-scroll-target="#watchwait-surveillance">Watch/Wait Surveillance</a></li>
-  <li><a href="#watch-and-wait---mskcc" id="toc-watch-and-wait---mskcc" class="nav-link" data-scroll-target="#watch-and-wait---mskcc">Watch and Wait - MSKCC</a></li>
-  <li><a href="#watch-and-wait---mskcc-1" id="toc-watch-and-wait---mskcc-1" class="nav-link" data-scroll-target="#watch-and-wait---mskcc-1">Watch and Wait - MSKCC</a></li>
-  <li><a href="#watch-and-wait---mskcc-2" id="toc-watch-and-wait---mskcc-2" class="nav-link" data-scroll-target="#watch-and-wait---mskcc-2">Watch and Wait - MSKCC</a></li>
+  <li><a href="#complete-clinical-response" id="toc-complete-clinical-response" class="nav-link" data-scroll-target="#complete-clinical-response">Complete Clinical Response</a></li>
+  <li><a href="#near-complete-clinical-response" id="toc-near-complete-clinical-response" class="nav-link" data-scroll-target="#near-complete-clinical-response">Near Complete Clinical Response</a></li>
+  <li><a href="#complete-vs-near-complete-clinical-response" id="toc-complete-vs-near-complete-clinical-response" class="nav-link" data-scroll-target="#complete-vs-near-complete-clinical-response">Complete vs Near Complete clinical response</a></li>
+  <li><a href="#chemo-intensification---folfirinox" id="toc-chemo-intensification---folfirinox" class="nav-link" data-scroll-target="#chemo-intensification---folfirinox">Chemo Intensification - FOLFIRINOX</a></li>
+  <li><a href="#Swedish" id="toc-Swedish" class="nav-link" data-scroll-target="#Swedish">Swedish Short-course RT</a></li>
+  <li><a href="#swedish-rectal-cancer-trial" id="toc-swedish-rectal-cancer-trial" class="nav-link" data-scroll-target="#swedish-rectal-cancer-trial">Swedish Rectal Cancer Trial</a></li>
+  <li><a href="#stockholm-iii" id="toc-stockholm-iii" class="nav-link" data-scroll-target="#stockholm-iii">Stockholm III</a></li>
+  <li><a href="#stockholm-iii-1" id="toc-stockholm-iii-1" class="nav-link" data-scroll-target="#stockholm-iii-1">Stockholm III</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="rectal_adjuvant.htm"><i class="bi bi-file-slides"></i>RevealJS</a></li></ul></div></nav>
@@ -221,21 +228,20 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="trans-abdominal-rectal-surgery">Trans-abdominal Rectal Surgery</h2>
 <p>Trans-abdominal procedures include</p>
 <ul>
-<li>Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum</li>
-<li>Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ</li>
-<li>Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.</li>
+<li>Low anterior resection: Removal of the rectum with an anastomosis between colon and distal rectum<br>
+</li>
+<li>Hartmann resection: Removal of the rectum with end colostomy. The rectal stump is stapled. The anal sphincters are left in situ<br>
+</li>
+<li>Abdominoperineal resection: Removal of rectum and anus from both an abdominal and perineal approach. The anal sphincters are removed.<br>
+</li>
 </ul>
 </section>
-<section id="rectal-adjuvant-therapy" class="level2">
-<h2 class="anchored" data-anchor-id="rectal-adjuvant-therapy">Rectal Adjuvant Therapy</h2>
-<p>Surgery as sole treatment for rectal cancer is associated with an unacceptable rate of local recurrence. Accordingly, adjunctive stratagies were employed to reduce risk of local recurrence.</p>
-</section>
-<section id="overview-of-rectal-adjunctive-therapy" class="level2">
-<h2 class="anchored" data-anchor-id="overview-of-rectal-adjunctive-therapy">Overview of Rectal Adjunctive Therapy</h2>
-<p><img src="https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history_no_swedish.png" class="img-fluid"></p>
-</section>
-<section id="gi-tumor-study-group-1985" class="level2">
-<h2 class="anchored" data-anchor-id="gi-tumor-study-group-1985">GI Tumor Study Group 1985</h2>
+<section id="gi-tumor-study-group-1985-adjuvant-radiation" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="gi-tumor-study-group-1985-adjuvant-radiation">GI Tumor Study Group 1985 Adjuvant Radiation</h2>
+<p>Surgery as sole treatment for rectal cancer <span class="math inline">\(\rightarrow\)</span> unacceptable rate of local recurrence.</p>
+<p><br>
+</p>
+<p>GITSG Trial used postop radiation to reduce local recurrences</p>
 <p>227 rectal cancer patients with curative surgical resection:</p>
 <p><br>
 </p>
@@ -245,10 +251,12 @@ window.Quarto = {
 <li>48: Postop chemotherapy 5FU+methyl-CCNU</li>
 <li>46: Chemo + radiation</li>
 </ul>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
 <p><span class="citation" data-cites="gastrointestinaltumorstudygroup1465">(<a href="#ref-gastrointestinaltumorstudygroup1465" role="doc-biblioref">Gastrointestinal Tumor Study Group 1985</a>)</span></p>
-</section>
-<section id="gi-tumor-study-group-1985-1" class="level2">
-<h2 class="anchored" data-anchor-id="gi-tumor-study-group-1985-1">GI Tumor Study Group 1985</h2>
+</div></div></section>
+<section id="gi-tumor-study-group-1985-adjuvant-radiation-1" class="level2">
+<h2 class="anchored" data-anchor-id="gi-tumor-study-group-1985-adjuvant-radiation-1">GI Tumor Study Group 1985 Adjuvant Radiation</h2>
 <p>Local Recurrence</p>
 <ul>
 <li>55%: Control with no further therapy</li>
@@ -256,41 +264,62 @@ window.Quarto = {
 <li>48: Postop chemotherapy 5FU+methyl-CCNU</li>
 <li>33%: Chemo + radiation</li>
 </ul>
+<p><span class="math inline">\(\Rightarrow\)</span> Reduction in local recurrence</p>
 <p>No difference in overall survival</p>
+</section>
+<section id="overview-of-rectal-adjunctive-therapy" class="level2">
+<h2 class="anchored" data-anchor-id="overview-of-rectal-adjunctive-therapy">Overview of Rectal Adjunctive Therapy</h2>
+<p><img src="https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history_no_swedish.png" class="img-fluid"></p>
 </section>
 <section id="total-mesorectal-excision" class="level2">
 <h2 class="anchored" data-anchor-id="total-mesorectal-excision">Total Mesorectal Excision</h2>
 <p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g002.jpg" class="img-fluid"></p>
 </section>
-<section id="total-mesorectal-excicsion-1986" class="level2">
+<section id="total-mesorectal-excicsion-1986" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="total-mesorectal-excicsion-1986">Total Mesorectal Excicsion (1986)</h2>
-<p>115 rectal cancer patients<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> underwent surgery over 7.5 years</p>
-<p>69 with anastomosis below 5cm</p>
+<p>115 rectal cancer patients underwent surgery over 7.5 years</p>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="heald1479">(<a href="#ref-heald1479" role="doc-biblioref">Heald and Ryall 1986</a>)</span></p>
+</div></div><p>69 with anastomosis below 5cm</p>
 <p>Median followup of 4.2 years:</p>
-<p>-3 pelvic recurrences -No staple-line recurrence</p>
+<ul>
+<li><p>3 pelvic recurrences</p></li>
+<li><p>No staple-line recurrence</p></li>
+</ul>
 </section>
-<section id="dutch-postop-chemort-trial" class="level2">
-<h2 class="anchored" data-anchor-id="dutch-postop-chemort-trial">Dutch postop ChemoRT Trial</h2>
-<p>Dutch trial combined postoperative chemoRT and protocol-driven surgery using total mesorectal excision (TME)</p>
-<p>Radiation reduced local recurrence form 10.9% to 5.6% without a change in overall survival</p>
+<section id="dutch-adjuvant-chemort-trial" class="level2">
+<h2 class="anchored" data-anchor-id="dutch-adjuvant-chemort-trial">Dutch Adjuvant ChemoRT Trial</h2>
+<p>Dutch trial used protocol-drived total mesorectal excision (TME)</p>
+<p>Surgery alone</p>
+<p><em>vs</em></p>
+<p>Surgery <span class="math inline">\(\rightarrow\)</span> Chemoradiation</p>
+<p>Postop ChemoRT reduced local recurrence from 10.9% to 5.6%</p>
+<p>No difference in overall survival</p>
 </section>
-<section id="dutch-short-course-trial2" class="level2">
-<h2 class="anchored" data-anchor-id="dutch-short-course-trial2">Dutch Short-course Trial<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></h2>
+<section id="dutch-preop-short-course-trial" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="dutch-preop-short-course-trial">Dutch Preop Short-course Trial</h2>
+<p>Preoperative short-course radiation was designed to reduce time to surgery</p>
 <p>1861 patients randomized:</p>
 <ul>
-<li>preop RT (5x 500cGy) <span class="math inline">\(\rightarrow\)</span> Surgery (TME)</li>
+<li>Preop RT (5x 500cGy) <span class="math inline">\(\rightarrow\)</span> Surgery (TME)</li>
 <li>Surgery alone (TME)</li>
 </ul>
-<p>Reduction in local recurrence</p>
+<p><span class="math inline">\(\Rightarrow\)</span> Reduction in local recurrence (2.4% vs 8.2%)</p>
 <p>No difference in survival</p>
-</section>
+<p>Preoperative = <em>neoadjvant</em> therapy</p>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="kapiteijn638">(<a href="#ref-kapiteijn638" role="doc-biblioref">Kapiteijn et al. 2001</a>)</span></p>
+</div></div></section>
 <section id="dutch-trial-results" class="level2">
 <h2 class="anchored" data-anchor-id="dutch-trial-results">Dutch Trial Results</h2>
 <p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g004.jpg" class="img-fluid"></p>
 </section>
-<section id="german-trial" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="german-trial">German Trial</h2>
-<p>German Trial compared preoperative ChemoRT vs postoperative ChemoRT. All patients received postoperative adjuvant chemotherapy</p>
+<section id="german-trial-preop-vs-postop-chemort" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="german-trial-preop-vs-postop-chemort">German Trial Preop vs Postop ChemoRT</h2>
+<p>Preop radiation has theoretical advantage of improved efficacy</p>
+<p>All patients received postoperative adjuvant chemotherapy</p>
 <p>Preoperative ChemoRT was superior in:</p>
 <ul>
 <li>disease-free survival</li>
@@ -298,103 +327,148 @@ window.Quarto = {
 <li>toxicity</li>
 <li>sphincter preservation</li>
 </ul>
+<p>No difference in overall survival or local control</p>
 
 <div class="no-row-height column-margin column-container"><div class="margin-aside">
 <p><span class="citation" data-cites="sauer1926">(<a href="#ref-sauer1926" role="doc-biblioref"><strong>sauer1926?</strong></a>)</span></p>
 </div></div></section>
-<section id="german-trial-1" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="german-trial-1">German Trial</h2>
-<p>German Trial compared preoperative ChemoRT vs postoperative ChemoRT. All patients received postoperative adjuvant chemotherapy</p>
-<p>No differences between groups in:</p>
-<ul>
-<li>overall survival</li>
-<li>local control</li>
-</ul>
-
-<div class="no-row-height column-margin column-container"><div class="margin-aside">
-<p><span class="citation" data-cites="sauer1926">(<a href="#ref-sauer1926" role="doc-biblioref"><strong>sauer1926?</strong></a>)</span></p>
-</div></div></section>
-<section id="german-trial-2" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="german-trial-2">German Trial</h2>
+<section id="german-trial" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="german-trial">German Trial</h2>
 <p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g005.jpg" class="img-fluid"></p>
 
 <div class="no-row-height column-margin column-container"><div class="margin-aside">
 <p><span class="citation" data-cites="sauer1926">(<a href="#ref-sauer1926" role="doc-biblioref"><strong>sauer1926?</strong></a>)</span></p>
 </div></div></section>
-<section id="short-course-rt" class="level2">
-<h2 class="anchored" data-anchor-id="short-course-rt">Short-course RT</h2>
-<p>An alternative to preoperative chemoradiation over 6 weeks is to administer radiation alone preoperative over a five day period.</p>
-<p>Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery. Local recurrence was 9% in the therapy group vs 26% in the control group, with an improvement in overall survival of 38% vs 80%<span class="citation" data-cites="swedishrectalcancertrial980">(<a href="#ref-swedishrectalcancertrial980" role="doc-biblioref">Swedish Rectal Cancer Trial et al. 1997</a>)</span>. Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.</p>
-</section>
-<section id="swedish-rectal-cancer-trial" class="level2">
-<h2 class="anchored" data-anchor-id="swedish-rectal-cancer-trial">Swedish Rectal Cancer Trial</h2>
-<p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg" class="img-fluid"></p>
-</section>
-<section id="stockholm-iii" class="level2">
-<h2 class="anchored" data-anchor-id="stockholm-iii">Stockholm III</h2>
-<p>Stockholm III trial showed that short-course radiation therapy performed 4-8 weeks prior to surgery resulted in improved rates of pathological complete response (12% vs 2%) compared with short-course radiation therapy performed the week prior to surgery <span class="citation" data-cites="pettersson972">(<a href="#ref-pettersson972" role="doc-biblioref">Pettersson et al. 2015</a>)</span></p>
-</section>
-<section id="stockholm-iii-1" class="level2">
-<h2 class="anchored" data-anchor-id="stockholm-iii-1">Stockholm III</h2>
-<p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg" class="img-fluid"></p>
-</section>
 <section id="overview-of-rectal-adjunctive-therapy-1" class="level2">
 <h2 class="anchored" data-anchor-id="overview-of-rectal-adjunctive-therapy-1">Overview of Rectal Adjunctive Therapy</h2>
 <p><img src="https://deidt7p41jzcy.cloudfront.net/rectal_cancer_rx_history.png" class="img-fluid"></p>
 </section>
-<section id="adjuvant-chemotherapy" class="level2">
-<h2 class="anchored" data-anchor-id="adjuvant-chemotherapy">Adjuvant Chemotherapy</h2>
+<section id="ecort-22921-adjuvant-chemotherapy" class="level2">
+<h2 class="anchored" data-anchor-id="ecort-22921-adjuvant-chemotherapy">ECORT 22921 Adjuvant Chemotherapy</h2>
 <p>Postoperative (adjuvant) chemotherapy was shown to be effective in reducing distant metastasis and improving survival in the ECORT 22921 clinical trial.</p>
+<p>Standard treatment now became:</p>
+<p>Neoadjuvant ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Adjuvant Chemo</p>
 </section>
-<section id="timing-of-chemotherapy-and-chemort" class="level2">
-<h2 class="anchored" data-anchor-id="timing-of-chemotherapy-and-chemort">Timing of Chemotherapy and ChemoRT</h2>
-<p>Adjuvant chemotherapy was traditionally given after surgery to patients with node-positive disease. The surgical specimen was used to make decisions regarding postoperative chemotherapy</p>
-<p>With the advent to preoperative chemoRT, the information derived from the surgical pathology specimen was no longer available, so all patients were given postoperative adjuvant chemotherapy</p>
-<p>ChemoRT <span class="math inline">\(\rightarrow\)</span> Surgery <span class="math inline">\(\rightarrow\)</span> Chemotherapy</p>
-</section>
-<section id="total-neoadjuvant-therapy" class="level2">
-<h2 class="anchored" data-anchor-id="total-neoadjuvant-therapy">Total Neoadjuvant Therapy</h2>
-<p>TNT approach moves all therapy to before surgery with goals to:</p>
+<section id="neoadjuvant-chemotherapy-strategy" class="level2">
+<h2 class="anchored" data-anchor-id="neoadjuvant-chemotherapy-strategy">Neoadjuvant Chemotherapy Strategy</h2>
+<p>Chemotherapy moved to before surgery with goals to:</p>
 <ul>
 <li>Improve tolerance of chemotherapy</li>
 <li>Reduce toxicity of chemotherapy</li>
 <li>Improve compliance with chemotherapy</li>
-<li>Improve clinical complete response</li>
 </ul>
+<p><span class="math inline">\(\Rightarrow\)</span> Improve distant disease control</p>
 </section>
-<section id="total-neoadjuvant-therapy-1" class="level2">
-<h2 class="anchored" data-anchor-id="total-neoadjuvant-therapy-1">Total Neoadjuvant Therapy</h2>
-<p>TNT approach moves all therapy to before surgery with goals to:</p>
+<section id="prodige-23-adjuvant-vs-neoadjuvant-chemo" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="prodige-23-adjuvant-vs-neoadjuvant-chemo">PRODIGE-23 Adjuvant vs Neoadjuvant Chemo</h2>
+<p>PRODIGE 23 randomized 461 patients with T3 or T4 rectal cancers:</p>
+<p>Long-course radiation <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\rightarrow\)</span> Chemo</p>
+<p>Induction chemotherapy <span class="math inline">\(\rightarrow\)</span> Long-course radiation <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\rightarrow\)</span> Chemo</p>
 <ul>
-<li>Improve tolerance of chemotherapy</li>
-<li>Reduce toxicity of chemotherapy</li>
-<li>Improve compliance with chemotherapy</li>
-<li>Improve clinical complete response <span class="math inline">\(\rightarrow\)</span> organ preservation</li>
+<li><p>Increased 3-year survival (76% vs 69%)</p></li>
+<li><p>Increased pathologic complete response (pCR) 28% vs 12%</p></li>
 </ul>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="conroy702">(<a href="#ref-conroy702" role="doc-biblioref">Conroy et al. 2021</a>)</span></p>
+</div></div></section>
+<section id="total-neoadjuvant-therapy-tnt" class="level2">
+<h2 class="anchored" data-anchor-id="total-neoadjuvant-therapy-tnt">Total Neoadjuvant Therapy (TNT)</h2>
+<p>TNT approach moves <em>all</em> therapy to before surgery with goals to:</p>
+<p><br>
+<br>
+- Improve distant disease control - Improve clinical complete response</p>
 </section>
-<section id="rapido-trial" class="level2">
+<section id="rapido-trial" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="rapido-trial">RAPIDO Trial</h2>
-<p>RAPIDO trial randomized 920 patients with T4 or node-positive disease to long-course chemoradiation followed by surgery vs short-course radiation followed by chemotherapy and surgery. The pCR rate was significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) and disease-specific surival at 3years was higher (30% vs 24%).<span class="citation" data-cites="bahadoer29">(<a href="#ref-bahadoer29" role="doc-biblioref">Bahadoer et al. 2021</a>)</span> <span class="citation" data-cites="vandervalk75">(<a href="#ref-vandervalk75" role="doc-biblioref">Valk et al. 2020</a>)</span></p>
-<p>Short-course RT <span class="math inline">\(\rightarrow\)</span> Chemo <span class="math inline">\(\rightarrow\)</span> Surgery</p>
-<p>vs</p>
-<p>ChemoRT <span class="math inline">\(\rightarrow\)</span> TME +/- Chemo</p>
-</section>
-<section id="prodige-23-trial" class="level2">
-<h2 class="anchored" data-anchor-id="prodige-23-trial">PRODIGE-23 Trial</h2>
-<p>PRODIGE 23 randomized 461 patients with T3 or T4 rectal cancers to long-course radiation followed by surgery vs induction chemotherapy, long-course radiation followed by surgery. Up-front chemotherapy was associates with increased 3-year survival (76% vs 69%) and an increase in rate of pathologic complete response of 28% vs 12%.<span class="citation" data-cites="conroy702">(<a href="#ref-conroy702" role="doc-biblioref">Conroy et al. 2021</a>)</span></p>
-</section>
+<p>920 patients with T4 or node-positive disease:</p>
+<p>Short-course RT <span class="math inline">\(\rightarrow\)</span> Chemo <span class="math inline">\(\rightarrow\)</span> Surgery vs ChemoRT <span class="math inline">\(\rightarrow\)</span> TME <span class="math inline">\(\pm\)</span> Chemo</p>
+<p>pCR rate significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) Disease-specific surival at 3years was higher (30% vs 24%).</p>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="bahadoer29">(<a href="#ref-bahadoer29" role="doc-biblioref">Bahadoer et al. 2021</a>)</span>; <span class="citation" data-cites="vandervalk75">(<a href="#ref-vandervalk75" role="doc-biblioref">Valk et al. 2020</a>)</span></p>
+</div></div></section>
 <section id="rapido-and-prodige" class="level2">
 <h2 class="anchored" data-anchor-id="rapido-and-prodige">RAPIDO and PRODIGE</h2>
-<p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg" class="img-fluid"> ## Watchful Waiting</p>
-<p>Retrospective studies demonstrated that among patients with a complete clinical response to chemoradiation for rectal cancer, some patients can be managed without surgery.</p>
+<p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g007.jpg" class="img-fluid"></p>
+</section>
+<section id="watchful-waiting-for-organ-preservation" class="level2">
+<h2 class="anchored" data-anchor-id="watchful-waiting-for-organ-preservation">Watchful Waiting for Organ Preservation</h2>
+<p>Retrospective studies: some patients with a complete clinical response to chemoradiation for rectal cancer can be managed <em>without</em> surgery.</p>
 <p>Subsequent trials of neoadjuvant therapy included non-operative management as a treatment option in patients with a complete clinical response to neoadjuvant therapy.</p>
+</section>
+<section id="watch-and-wait---mskcc" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="watch-and-wait---mskcc">Watch and Wait - MSKCC</h2>
+<p>Restrospective comparison two groups with rectal cancer:</p>
+<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
+<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="smithe185896">(<a href="#ref-smithe185896" role="doc-biblioref">Smith et al. 2019</a>)</span></p>
+</div></div></section>
+<section id="watch-and-wait---mskcc-1" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="watch-and-wait---mskcc-1">Watch and Wait - MSKCC</h2>
+<p>Restrospective comparison two groups with rectal cancer:</p>
+<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
+<ul>
+<li>No plevic recurrences</li>
+</ul>
+<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
+<ul>
+<li>22 local regrowth on surveillance <span class="math inline">\(\rightarrow\)</span> Surgery
+<ul>
+<li>Pelvic control mantained in 20 (91%)</li>
+</ul></li>
+<li>Rectal preservation in 93 (82%)</li>
+</ul>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="smithe185896">(<a href="#ref-smithe185896" role="doc-biblioref">Smith et al. 2019</a>)</span></p>
+</div></div></section>
+<section id="watch-and-wait---mskcc-2" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="watch-and-wait---mskcc-2">Watch and Wait - MSKCC</h2>
+<p>Restrospective comparison two groups with rectal cancer:</p>
+<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
+<ul>
+<li>94% survival at 5 years</li>
+</ul>
+<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
+<ul>
+<li>73% survival at 5 years</li>
+</ul>
+<p>Restrospective comparison two groups with rectal cancer:</p>
+<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
+<ul>
+<li>94% survival at 5 years</li>
+</ul>
+<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
+<ul>
+<li>73% survival at 5 years</li>
+<li>Higher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)</li>
+</ul>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="smithe185896">(<a href="#ref-smithe185896" role="doc-biblioref">Smith et al. 2019</a>)</span></p>
+</div></div></section>
+<section id="total-neoadjuvant-therapy" class="level2">
+<h2 class="anchored" data-anchor-id="total-neoadjuvant-therapy">Total Neoadjuvant Therapy</h2>
+<p>TNT approach moves <em>all</em> therapy to before surgery with goals to:</p>
+<ul>
+<li>Improve distant disease control</li>
+<li>Improve clinical complete response</li>
+</ul>
+<p><span class="math inline">\(\Rightarrow\)</span> Facilitate organ preservation</p>
 </section>
 <section id="opra-clinical-trial" class="level2 page-columns page-full">
 <h2 class="anchored" data-anchor-id="opra-clinical-trial">OPRA Clinical Trial</h2>
 <p>324 rectal cancer patients randomized</p>
 <p>Chemo <span class="math inline">\(\rightarrow\)</span> ChemoRT <span class="math inline">\(\rightarrow\)</span> Restaging</p>
 <p>ChemoRT <span class="math inline">\(\rightarrow\)</span> Chemo <span class="math inline">\(\rightarrow\)</span> Restaging</p>
-<p>Restaging: - Clinical response offered watch/wait - Non-responders <span class="math inline">\(\rightarrow\)</span> surgery</p>
+<p>Restaging:</p>
+<ul>
+<li><p>Clinical response offered watch/wait</p></li>
+<li><p>Non-responders <span class="math inline">\(\rightarrow\)</span> surgery</p></li>
+</ul>
 
 <div class="no-row-height column-margin column-container"><div class="margin-aside">
 <p><span class="citation" data-cites="garcia-aguilar2546">(<a href="#ref-garcia-aguilar2546" role="doc-biblioref">Garcia-Aguilar et al. 2022</a>)</span></p>
@@ -457,66 +531,93 @@ window.Quarto = {
 <div class="no-row-height column-margin column-container"><div class="margin-aside">
 <p><span class="citation" data-cites="smith767">(<a href="#ref-smith767" role="doc-biblioref">Smith et al. 2015</a>)</span></p>
 </div></div></section>
-<section id="watch-and-wait---mskcc" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="watch-and-wait---mskcc">Watch and Wait - MSKCC</h2>
-<p>Restrospective comparison two groups with rectal cancer:</p>
-<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
-<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
-
-<div class="no-row-height column-margin column-container"><div class="margin-aside">
-<p><span class="citation" data-cites="smithe185896">(@ <a href="#ref-smithe185896" role="doc-biblioref">Smith et al. 2019</a>)</span></p>
-</div></div></section>
-<section id="watch-and-wait---mskcc-1" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="watch-and-wait---mskcc-1">Watch and Wait - MSKCC</h2>
-<p>Restrospective comparison two groups with rectal cancer:</p>
-<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
+<section id="complete-clinical-response" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="complete-clinical-response">Complete Clinical Response</h2>
+<p>Flexible sigmoidoscopy:</p>
 <ul>
-<li>No plevic recurrences</li>
+<li>pale smooth scar with or without telangiectasia</li>
+<li>no ulceration, nodularity, mucosal irregularities, or stricture</li>
+<li>digital rectal examination: smooth, flat scar without nodularity</li>
 </ul>
-<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
+<p>Diffusion-weighted MRI:</p>
 <ul>
-<li>22 local regrowth on surveillance <span class="math inline">\(\rightarrow\)</span> Surgery
-<ul>
-<li>Pelvic control mantained in 20 (91%)</li>
-</ul></li>
-<li>Rectal preservation in 93 (82%)</li>
+<li>fibrotic, linear scar with low signal intensity on T2-weighted images</li>
+<li>no diffusion restriction</li>
+<li>no suspicious lymph nodes.</li>
 </ul>
 
 <div class="no-row-height column-margin column-container"><div class="margin-aside">
-<p><span class="citation" data-cites="smithe185896">(@ <a href="#ref-smithe185896" role="doc-biblioref">Smith et al. 2019</a>)</span></p>
+<p>NCCN Guidelines</p>
 </div></div></section>
-<section id="watch-and-wait---mskcc-2" class="level2 page-columns page-full">
-<h2 class="anchored" data-anchor-id="watch-and-wait---mskcc-2">Watch and Wait - MSKCC</h2>
-<p>Restrospective comparison two groups with rectal cancer:</p>
-<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
+<section id="near-complete-clinical-response" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="near-complete-clinical-response">Near Complete Clinical Response</h2>
+<p>Flexible sigmoidoscopy:</p>
 <ul>
-<li>94% survival at 5 years</li>
+<li>Irregular small mucosal nodules, superficial ulceration, or mild persistent erythema</li>
 </ul>
-<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
+<p>Digital Rectal Exam:</p>
 <ul>
-<li>73% survival at 5 years</li>
+<li>Smooth induration or superficial minor mucosal irregularity</li>
 </ul>
-<p>Restrospective comparison two groups with rectal cancer:</p>
-<p>136 preop ChemoRT <span class="math inline">\(\rightarrow\)</span> surgery <span class="math inline">\(\Rightarrow\)</span> pCR</p>
+<p>Diffusion-weighted MRI:</p>
 <ul>
-<li>94% survival at 5 years</li>
+<li>smooth induration or superficial minor mucosal irregularity</li>
 </ul>
-<p>113 preop ChemoRT <span class="math inline">\(\Rightarrow\)</span> complete clinical response (cCR)</p>
+<p>T2-weighted MRI:</p>
 <ul>
-<li>73% survival at 5 years</li>
-<li>Higher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)</li>
+<li>downstaging with or without residual fibrosis and small area of residual signal</li>
 </ul>
 
 <div class="no-row-height column-margin column-container"><div class="margin-aside">
-<p><span class="citation" data-cites="smithe185896">(@ <a href="#ref-smithe185896" role="doc-biblioref">Smith et al. 2019</a>)</span></p>
+<p>NCCN Guidelines</p>
 </div></div></section>
+<section id="complete-vs-near-complete-clinical-response" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="complete-vs-near-complete-clinical-response">Complete vs Near Complete clinical response</h2>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="smith767">(<a href="#ref-smith767" role="doc-biblioref">Smith et al. 2015</a>)</span></p>
+</div></div></section>
+<section id="chemo-intensification---folfirinox" class="level2">
+<h2 class="anchored" data-anchor-id="chemo-intensification---folfirinox">Chemo Intensification - FOLFIRINOX</h2>
+</section>
+<section id="Swedish" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="Swedish">Swedish Short-course RT</h2>
+<p>Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery.</p>
+<p>Local recurrence was 9% in the therapy group vs 26% in the control group</p>
+<p>Overall survival at 5 years of 58% vs 48% (p=0.004)</p>
+<p>Disease-specific survival at 9 years 74% vs 65%. (p=0.002)</p>
+<p>Of note, this trial was performed in the era prior to the widespread use of total mesorectal excision.</p>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><span class="citation" data-cites="swedishrectalcancertrial980">(<a href="#ref-swedishrectalcancertrial980" role="doc-biblioref">Swedish Rectal Cancer Trial et al. 1997</a>)</span></p>
+</div></div></section>
+<section id="swedish-rectal-cancer-trial" class="level2">
+<h2 class="anchored" data-anchor-id="swedish-rectal-cancer-trial">Swedish Rectal Cancer Trial</h2>
+<p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg" class="img-fluid"></p>
+</section>
+<section id="stockholm-iii" class="level2">
+<h2 class="anchored" data-anchor-id="stockholm-iii">Stockholm III</h2>
+<p>840 patients with rectal cancer randomized to preoperative radiation:</p>
+<ul>
+<li>Short course (5 x 5Gy) with surgery the following week</li>
+<li>Short course (5 x 5 Gy) with surgery 4- weeks later</li>
+<li>Long-course (25 x 2Gy) with surgery 4-8 weeks later</li>
+</ul>
+<p>With short-course radiation, delayed surgery resulted in higher rates of pCR (11.8% vs 1.7%)</p>
+<div class="[aside]">
+<p><span class="citation" data-cites="pettersson972">(<a href="#ref-pettersson972" role="doc-biblioref">Pettersson et al. 2015</a>)</span></p>
+</div>
+</section>
+<section id="stockholm-iii-1" class="level2">
+<h2 class="anchored" data-anchor-id="stockholm-iii-1">Stockholm III</h2>
+<p><img src="https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg" class="img-fluid"></p>
+</section>
 <section id="references" class="level2">
 
 
 
 
 </section>
-
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
 <div id="ref-bahadoer29" class="csl-entry" role="listitem">
@@ -552,244 +653,245 @@ Swedish Rectal Cancer Trial, B. Cedermark, M. Dahlberg, B. Glimelius, L. Påhlma
 <div id="ref-vandervalk75" class="csl-entry" role="listitem">
 Valk, Maxime J. M. van der, Corrie A. M. Marijnen, Boudewijn van Etten, Esmée A. Dijkstra, Denise E. Hilling, Elma Meershoek-Klein Kranenbarg, Hein Putter, et al. 2020. <span>“Compliance and Tolerability of Short-Course Radiotherapy Followed by Preoperative Chemotherapy and Surgery for High-Risk Rectal Cancer - <span>Results</span> of the International Randomized <span>RAPIDO</span>-Trial.”</span> <em>Radiotherapy and Oncology: Journal of the European Society for Therapeutic Radiology and Oncology</em> 147 (June): 75–83. <a href="https://doi.org/10.1016/j.radonc.2020.03.011">https://doi.org/10.1016/j.radonc.2020.03.011</a>.
 </div>
-</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p><span class="citation" data-cites="heald1479">Heald and Ryall (<a href="#ref-heald1479" role="doc-biblioref">1986</a>)</span><a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2"><p><span class="citation" data-cites="kapiteijn638">Kapiteijn et al. (<a href="#ref-kapiteijn638" role="doc-biblioref">2001</a>)</span><a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
-window.document.addEventListener("DOMContentLoaded", function (event) {
-  const toggleBodyColorMode = (bsSheetEl) => {
-    const mode = bsSheetEl.getAttribute("data-mode");
-    const bodyEl = window.document.querySelector("body");
-    if (mode === "dark") {
-      bodyEl.classList.add("quarto-dark");
-      bodyEl.classList.remove("quarto-light");
-    } else {
-      bodyEl.classList.add("quarto-light");
-      bodyEl.classList.remove("quarto-dark");
-    }
-  }
-  const toggleBodyColorPrimary = () => {
-    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
-    if (bsSheetEl) {
-      toggleBodyColorMode(bsSheetEl);
-    }
-  }
-  toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
       }
+      return false;
     }
-    return false;
-  }
-  const onCopySuccess = function(e) {
-    // button target
-    const button = e.trigger;
-    // don't keep focus
-    button.blur();
-    // flash "checked"
-    button.classList.add('code-copy-button-checked');
-    var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copied!");
-    let tooltip;
-    if (window.bootstrap) {
-      button.setAttribute("data-bs-toggle", "tooltip");
-      button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copied!");
-      tooltip = new bootstrap.Tooltip(button, 
-        { trigger: "manual", 
-          customClass: "code-copy-button-tooltip",
-          offset: [0, -8]});
-      tooltip.show();    
-    }
-    setTimeout(function() {
-      if (tooltip) {
-        tooltip.hide();
-        button.removeAttribute("data-bs-title");
-        button.removeAttribute("data-bs-toggle");
-        button.removeAttribute("data-bs-placement");
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
       }
-      button.setAttribute("title", currentTitle);
-      button.classList.remove('code-copy-button-checked');
-    }, 1000);
-    // clear code selection
-    e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
       for (const childEl of codeEl.children) {
         if (isCodeAnnotation(childEl)) {
           childEl.remove();
         }
       }
       return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
-  });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
     });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
     }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-    const config = {
-      allowHTML: true,
-      maxWidth: 500,
-      delay: 100,
-      arrow: false,
-      appendTo: function(el) {
-          return el.parentElement;
-      },
-      interactive: true,
-      interactiveBorder: 10,
-      theme: 'quarto',
-      placement: 'bottom-start',
-    };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
-    window.tippy(el, config); 
-  }
-  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-  for (var i=0; i<noterefs.length; i++) {
-    const ref = noterefs[i];
-    tippyHover(ref, function() {
-      // use id or data attribute instead here
-      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-      try { href = new URL(href).hash; } catch {}
-      const id = href.replace(/^#\/?/, "");
-      const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
-    });
-  }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
           }
         }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
         }
-        return container.innerHTML
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
       } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
         if (window.Quarto?.typesetMath) {
           window.Quarto.typesetMath(note);
         }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
       }
     }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
           }
         } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
           .then(res => res.text())
           .then(html => {
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
+            const note = htmlDoc.querySelector('main.content');
             if (note !== null) {
-              const html = processXRef(id, note);
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
               instance.setContent(html);
             } 
           }).finally(() => {
@@ -797,185 +899,161 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             instance.show();
           });
         }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
+      }, function(instance) {
       });
     }
-  }
-});
-</script>
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
 </div> <!-- /content -->
 
 
