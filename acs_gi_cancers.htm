@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/quarto-contrib/qrcodejs-v1.0.0/qrcode.js"></script><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.37">
+
+  <title>talks – Acute Care of Esophageal Cancer</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-7a9cc40e00d4dfb0d1e3152c0c1a109a.css">
+  <link rel="stylesheet" href="lci_styles.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">Acute Care of Esophageal Cancer</h1>
+
+<div class="quarto-title-authors">
+</div>
+
+</section>
+<section id="eso_overview" class="slide level2">
+<h2>Esophageal Cancer Overview</h2>
+<p>Triage questions:</p>
+<ul>
+<li>Has EGD been done? Pathology results?</li>
+<li>Presence of metastatic disease on CT chest/abdomen/pelvis?</li>
+<li>Upper GI bleeding requiring transfusion? Is bleeding persistent?</li>
+<li>Can patient maintain hydration orally?</li>
+</ul>
+</section>
+<section id="triage" class="slide level2">
+<h2>Triage</h2>
+<ul>
+<li><a href="eso_bleeding.html">Bleeding</a></li>
+<li><a href="eso_obstruction.html">Obstruction (unable to maintain hydration)</a></li>
+<li><a href="eso_perforation.html">Perforation</a></li>
+</ul>
+<p>Patients who can maintain their hydration orally:</p>
+<ul>
+<li>Outpatient management</li>
+<li>No need for transfer to CMC Main</li>
+</ul>
+</section>
+<section id="patients-with-dysphagia-who-can-maintain-oral-hydration" class="slide level2">
+<h2>Patients with dysphagia who can maintain oral hydration</h2>
+<p>Clinically staged as T3 and fit into one of two caregories:</p>
+<ul>
+<li>Patients with metastatic disease (liver, lung, or extra-regional lymphadenopathy with cervical or para-aortic nodes). Treatment is chemotherapy with radiation for palliation of dysphagia or treatment of symptomatic bone metastasis</li>
+<li>Patients without metastatic disease are staged <em>Locally Advanced</em> and treated with preoperative chemotherapy <span class="math inline">\(\pm\)</span> radiation followed by surgery.</li>
+</ul>
+<p>Surgery as primary therapy is not indicated except for cancer perforation.</p>
+</section>
+<section id="patients-with-minimal-dysphagia" class="slide level2">
+<h2>Patients with minimal dysphagia</h2>
+<p>Typically present acutely with bleeding, often while under anticoagulation.</p>
+<p>Some of these patients are AJCC T2 and would be candidates for primary surgery.</p>
+<p>Most are AJCC T3 and should get preoperative chemo <span class="math inline">\(\pm\)</span> radiation.</p>
+<p><br>
+</p>
+<p>Endoscopic Ultrasound (EUS) is necessary to distinguish T2 from T3</p>
+<ul>
+<li>Available only at CMC Main</li>
+<li>Usually can be done as an outpatient</li>
+</ul>
+<p>500+ esophagectomies over 19 years: None performed emergently for bleeding</p>
+</section>
+<section id="endoscopy" class="slide level2">
+<h2>Endoscopy</h2>
+<p>Endoscopy with biopsy is foundational for patients with esophageal obstruction.</p>
+<p>Majority will have evidence of malignancy on EGD. Negative endoscopic biopsies in the patient with an obstructing esophageal stricture are unusual but not rare.</p>
+<p>Options for re-biopsy include:</p>
+<ul>
+<li>Neonatal (5mm) endoscope</li>
+<li>Dilation followed by biopsy</li>
+<li>Endoscopic ultrasound with FNA.</li>
+</ul>
+<p>These options are available at CMC Main and may not be available at regional facilities. <span class="citation" data-cites="faigel2257">(<a href="#/references" role="doc-biblioref" onclick="">Faigel et al. 1998</a>)</span></p>
+</section>
+<section id="ct-scan" class="slide level2">
+<h2>CT Scan</h2>
+<p>Patients with esophageal cancer need CT chest/abdomen/pelvis with IV contrast for initial staging.</p>
+</section>
+<section id="petct-scan" class="slide level2">
+<h2>PET/CT Scan</h2>
+<ul>
+<li>Needed for complete staging</li>
+<li>Rarely needed in the acute setting</li>
+<li>Required for radiation therapy planning</li>
+</ul>
+<p>Prep:</p>
+<ul>
+<li>NPO for 4 hours (except water)</li>
+<li>No IV dextrose for 4 hours prior</li>
+<li>Blood sugars controlled</li>
+</ul>
+</section>
+<section id="endoscopic-ultrasound-eus" class="slide level2">
+<h2>Endoscopic ultrasound (EUS)</h2>
+<p>Distinguishes localized tumors (AJCC T2) who may be candidates for primary surgery from patients with locally-advanced cancers (AJCC T3) who need preoperative chemotherapy <span class="math inline">\(\pm\)</span> radiation.</p>
+<p>Patients with T2 tumors generally have minimal dysphagia and frequently present with bleeding during anticoagulation or surveillance for Barrett’s esophagus.</p>
+<p>EUS has limited utility in the staging of patients with esophageal cancer who present with dysphagia <span class="citation" data-cites="mansfield3227">(<a href="#/references" role="doc-biblioref" onclick="">Mansfield et al. 2017</a>)</span> <span class="citation" data-cites="findlay1488">(<a href="#/references" role="doc-biblioref" onclick="">Findlay et al. 2015</a>)</span> <span class="citation" data-cites="radlinski5850">(<a href="#/references" role="doc-biblioref" onclick="">Radlinski et al. 2020</a>)</span> <span class="citation" data-cites="ripley226">(<a href="#/references" role="doc-biblioref" onclick="">Ripley et al. 2016</a>)</span> and is not necessary in these patients.</p>
+</section>
+<section id="esophageal-obstruction-cant-maintain-hydration" class="slide level2">
+<h2>Esophageal Obstruction (can’t maintain hydration)</h2>
+</section>
+<section id="enteral-feeding-tube" class="slide level2">
+<h2>Enteral Feeding Tube</h2>
+<p>Metastatic disease: PEG</p>
+<ul>
+<li>Most patients can be treated with a neonatal scope + 20Fr Pull PEG</li>
+</ul>
+<p>No metastatic disease</p>
+<ul>
+<li>Lap gastrostomy preferred</li>
+<li>Lap jejunostomy never the wrong answer</li>
+</ul>
+</section>
+<section id="laparoscopic-gastrostomy" class="slide level2">
+<h2>Laparoscopic Gastrostomy</h2>
+<p>Laparoscopic gastrostomy is the preferred method for enteral access in patients with esophageal cancer for surgeons familiar with esophageal reconstruction. The stomach is the preferred method of reconstruction during esophagectomy and it is critical that gastrostomy placement not complicate future surgery. Gastrostomy tubes are more convenient for the patient as feedings can be done by bolus feedings, while jejunostomy feeding requires a pump over extended periods (12-16 hours).</p>
+</section>
+<section id="laparoscopic-gastrostomy-1" class="slide level2">
+<h2>Laparoscopic Gastrostomy</h2>
+<p>The laparoscopic approach allows placement of the tube away from the right gastroepiploic artery. Findings the ideal location for the tube involves laparoscopy with low insufflation pressure (4mm Hg), which allows adequate distention of the stomach with an endoscope. A neonatal (5mm) endoscope can be helpful. A site is selected at the midpoint of the stomach on a saggital plane to allow minimal tension on the tube. The tube is placed as far proximally on the stomach as possible yet still at least 3cm from the left costal margin (for patient comfort and to allow minimal tension on the gastrostomy tube). <a href="https://gisurgonc.github.io/handbook/02-lap_gastrostomy.html">Operative Description of Laparoscopic Gastrostomy</a></p>
+</section>
+<section id="laparoscopic-jejunostomy" class="slide level2">
+<h2>Laparoscopic Jejunostomy</h2>
+<p>Jejunostomy is the traditional method of nutritional support for patients with esophageal obstruction. This avoids the risk of injury to the future gastric conduit at the time of esophagectomy.</p>
+<p>Description of operative setup for <a href="https://gisurgonc.github.io/handbook/02-lap_jejunostomy.html">laparoscoic jejunostomy</a></p>
+<p><a href="https://gisurgonc.github.io/handbook/03-jejunostomy.html">Postoperative Care for Jejunostomy</a></p>
+</section>
+<section id="endoscopic-stents" class="slide level2">
+<h2>Endoscopic stents</h2>
+<p>Endoscopic stents to treat esophageal obstruction are appropriate in patients with documented metastatic disease (Stage IV) and those who will never be candidates for surgery.</p>
+<p>In patients who are potentially candidates for esophagectomy, stents are generally avoided to prevent complications of surgery through fibrosis of the esophagus proximal to the tumor.</p>
+</section>
+<section id="stent-vs-gastrostomy-feeding-tube" class="slide level2">
+<h2>Stent vs Gastrostomy Feeding Tube</h2>
+<p>A retrospective study of patients with esophageal cancer and dysphagia <span class="citation" data-cites="mine0179522">(<a href="#/references" role="doc-biblioref" onclick="">Min et al. 2017</a>)</span> found that treatment with gastrostomy was associated with longer survival than those treated with a endoscopic stent and had higher albumin levels and less need for re-intervention.</p>
+</section>
+<section id="percutaneous-endoscopic-gastrostomy" class="slide level2">
+<h2>Percutaneous Endoscopic Gastrostomy</h2>
+<p>For patients with Stage IV disease, percutaneous endoscopic gastrostomy (PEG) is indicated for nutritional support. A gastrostomy allows for bolus feeding and is more convenient for patients than a jejunostomy, which requires an infusion pump.</p>
+<p>For patients with potentially resectable disease, PEG is avoided to prevent injury to the right gastroepiploic artery and the risk of tumor seeding of the gastrostomy tract.</p>
+</section>
+<section id="central-venous-port" class="slide level2">
+<h2>Central Venous Port</h2>
+<p>Central venous port can facilitate the administration of chemotherapy but is not essential in the acute management of patients with esophageal cancer, particularly patients with poor performance status who may not receive chemotherapy once they meet with their treating medical oncologist.</p>
+<p><br>
+</p>
+<p>Inpatient medical oncology consultation can help sort out which patients are not candidates for chemotherapy.</p>
+</section>
+<section id="perforated-esophageal-cancer" class="slide level2">
+<h2>Perforated Esophageal Cancer</h2>
+<p>Triage questions:</p>
+<ul>
+<li>Has EGD been done? Pathology results?</li>
+<li>Spontaneous or s/p procedure?</li>
+<li>Has patient had prior radiation therapy?</li>
+<li>CT Chest/abdomen/pelvis</li>
+<li>Pleural effusion or pneumothorax?</li>
+<li>Pneumoperitoneum or peritoneal fluid?</li>
+</ul>
+<p>Patients with perforated esophageal cancer need multidisciplinary emergency management. These patients should be transferred emergently to CMC Main.</p>
+<p>Patients with pleural effusion need emergent thoracic surgery consultation. Patients with pneumoperitoneum or intra-abdominal fluid in the upper abdomen need emergent laparoscopic placement of drains.</p>
+</section>
+<section id="triage-team" class="slide level2">
+<h2>Triage Team</h2>
+<ul>
+<li>CMC Thoracic Surg Attending SHVI (for thoracic perforations)</li>
+<li>Red LCI SO (for abdominal perforations)</li>
+<li>CMC LCI Head and Neck Surg Onc Attending (for cervical perforations)</li>
+</ul>
+</section>
+<section id="acute-management" class="slide level2">
+<h2>Acute Management</h2>
+<ul>
+<li>IV hydration</li>
+<li>Correction of electrolyte abnormalities</li>
+<li>IV antibiotics</li>
+<li>CT Esophagram with water soluble contrast</li>
+<li>CT abdomen/pelvis</li>
+<li>CT neck (if suspicion of cervical perforation)</li>
+</ul>
+</section>
+<section id="inpatient-management" class="slide level2">
+<h2>Inpatient Management</h2>
+<ul>
+<li>Emergent drainage of pleural effusions</li>
+<li>Emergent laparoscopic placement of drains for evidence of intra-abdominal perforation</li>
+</ul>
+</section>
+<section id="background" class="slide level2">
+<h2>Background</h2>
+<p>Perforated esophageal cancer most commonly occurs after endoscopy, endoscopic ultrasound, or dilation of an esophageal cancer (or benign stricture). Endoscopic stenting is frequently not feasible due to the underlying stricture. Treatment options are conservative management with drainage and IV antibiotics, endoluminal stenting, or emergency surgery. <span class="citation" data-cites="abu-daff34">(<a href="#/references" role="doc-biblioref" onclick="">Abu-Daff et al. 2016</a>)</span></p>
+</section>
+<section id="diagnosis" class="slide level2">
+<h2>Diagnosis</h2>
+<p>CT esophagram with water soluble contrast is the diagnostic study of choice<span class="citation" data-cites="suarez-poveda505">(<a href="#/references" role="doc-biblioref" onclick="">Suarez-Poveda et al. 2014</a>)</span>. This should include CT neck and/or CT abdomen/pelvis depending upon the suspected level of perforation.</p>
+<p>A study from Colorado <span class="citation" data-cites="madsen2984">(<a href="#/references" role="doc-biblioref" onclick="">Madsen et al. 2023</a>)</span> of 65 patients transferred with suspected esophageal perforation found that 24 patients were ultimately found not to have a perforation. Among patients for whom pneumomediastinum was their sole criteria for transfer, only 57% were ultimately found to have a perforation. Among patients with a pleural effusion prior to transfer, 83% were ultimately found to have a perforation. Patients with a lactate greater than 1.6 were 11 times more likely to have aperforation.</p>
+</section>
+<section id="cervical-esophageal-perforation" class="slide level2">
+<h2>Cervical esophageal perforation</h2>
+<p>Contained perforations of the cervical esophagus can be treated with NPO and IV antibiotics. Uncontained perforations need surgical exploration. In this case, nutritional support with gastrostomy is indicated.</p>
+</section>
+<section id="thoracic-esophageal-perforations" class="slide level2">
+<h2>Thoracic esophageal perforations</h2>
+<p>Pittsburgh esophageal perforation scoring system: <span class="citation" data-cites="abbas749">(<a href="#/references" role="doc-biblioref" onclick="">Abbas et al. 2009</a>)</span> Validation of Pittsburgh scoring system <span class="citation" data-cites="schweigert1002">(<a href="#/references" role="doc-biblioref" onclick="">Schweigert et al. 2016</a>)</span></p>
+<p>A series from Birmingham UK of 74 esophageal perforations over 15 years include 13 patients with perforated cancers, of whom 7 were treated with endoscopic stenting <span class="citation" data-cites="charalampakis1710">(<a href="#/references" role="doc-biblioref" onclick=""><strong>charalampakis1710?</strong></a>)</span>. These 13 patients had a 1-year mortality of 77%</p>
+</section>
+<section id="conservative-management" class="slide level2">
+<h2>Conservative management</h2>
+<p>There is little experience in the literature for the conservative management of perforated esophageal cancer. Most clinical reports exclude patients with perforated cancers. A report from Kenya of 10 perforations among 492 dilations of esophageal cancer, of whom 9 were successfully treated with endoluminal stents <span class="citation" data-cites="white715">(<a href="#/references" role="doc-biblioref" onclick="">White et al. 2003</a>)</span>. Stenting of perforated esophageal cancer is limited to case reports <span class="citation" data-cites="kobayashie361">(<a href="#/references" role="doc-biblioref" onclick="">Kobayashi et al. 2019</a>)</span></p>
+</section>
+<section id="emergent-esophagectomy" class="slide level2">
+<h2>Emergent Esophagectomy</h2>
+<p>Emergency esophagectomy is the traditional approach to perforated esophageal cancer given the difficulty in stenting an area of tumor (or stricture). Short-term goals are fluid resuscitation, IV antibiotics, and drainage of the pleurae (and abdomen).</p>
+<p>Emergent esophagogastrectomy via an abdominal and thoracic approach is the conventional approach in a fit patient. For frail patients, an transabdominal approach with esophagogastrostomy is less morbid <span class="citation" data-cites="gillen3065">(<a href="#/references" role="doc-biblioref" onclick="">Gillen et al. 2009</a>)</span> although placing the patient at higher risk of postoperative reflux.</p>
+</section>
+<section id="orientation-manual" class="slide level2">
+<h2>Orientation Manual</h2>
+<div id="" class="qrcode"></div>
+<script type="text/javascript">
+(function() {
+  var script = document.currentScript;
+  var qrcode = script.previousElementSibling;
+  qrcode.qrcode = new QRCode(qrcode, {"colorDark":"#000000","colorLight":"#ffffff","height":"500","text":"https://gisurgonc.github.io/handbook","width":"500"});
+  script.remove();
+})();
+</script>
+    
+</section>
+<section id="references" class="slide level2 smaller scrollable">
+<h2>References</h2>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-abbas749" class="csl-entry" role="listitem">
+Abbas, Ghulam, Matthew J. Schuchert, Brian L. Pettiford, et al. 2009. <span>“Contemporaneous Management of Esophageal Perforation.”</span> <em>Surgery</em> 146 (4): 749-755; discussion 755-756. <a href="https://doi.org/10.1016/j.surg.2009.06.058">https://doi.org/10.1016/j.surg.2009.06.058</a>.
+</div>
+<div id="ref-abu-daff34" class="csl-entry" role="listitem">
+Abu-Daff, S., F. Shamji, J. Ivanovic, et al. 2016. <span>“Esophagectomy in Esophageal Perforations: An Analysis.”</span> <em>Diseases of the Esophagus: Official Journal of the International Society for Diseases of the Esophagus</em> 29 (1): 34–40. <a href="https://doi.org/10.1111/dote.12294">https://doi.org/10.1111/dote.12294</a>.
+</div>
+<div id="ref-faigel2257" class="csl-entry" role="listitem">
+Faigel, D. O., C. Deveney, D. Phillips, and M. B. Fennerty. 1998. <span>“Biopsy-Negative Malignant Esophageal Stricture: Diagnosis by Endoscopic Ultrasound.”</span> <em>The American Journal of Gastroenterology</em> 93 (11): 2257–60. <a href="https://doi.org/10.1111/j.1572-0241.1998.00629.x">https://doi.org/10.1111/j.1572-0241.1998.00629.x</a>.
+</div>
+<div id="ref-findlay1488" class="csl-entry" role="listitem">
+Findlay, J. M., K. M. Bradley, E. J. Maile, et al. 2015. <span>“Pragmatic Staging of Oesophageal Cancer Using Decision Theory Involving Selective Endoscopic Ultrasonography, <span>PET</span> and Laparoscopy.”</span> <em>The British Journal of Surgery</em> 102 (12): 1488–99. <a href="https://doi.org/10.1002/bjs.9905">https://doi.org/10.1002/bjs.9905</a>.
+</div>
+<div id="ref-gillen3065" class="csl-entry" role="listitem">
+Gillen, Sonja, Helmut Friess, and Jörg Kleeff. 2009. <span>“Palliative Cardia Resection with Gastroesophageal Reconstruction for Perforated Carcinoma of the Gastroesophageal Junction.”</span> <em>World Journal of Gastroenterology : WJG</em> 15 (24): 3065–67. <a href="https://doi.org/10.3748/wjg.15.3065">https://doi.org/10.3748/wjg.15.3065</a>.
+</div>
+<div id="ref-kobayashie361" class="csl-entry" role="listitem">
+Kobayashi, Teruyuki, Tomoki Makino, Makoto Yamasaki, Koji Tanaka, Masaki Mori, and Yuichiro Doki. 2019. <span>“Successful <span>Stenting</span> <span>Followed</span> by <span>Surgery</span> for <span>Perforated</span> <span>Esophageal</span> <span>Cancer</span> <span>Due</span> to <span>Chemotherapy</span>.”</span> <em>The Annals of Thoracic Surgery</em> 108 (6): e361–63. <a href="https://doi.org/10.1016/j.athoracsur.2019.04.022">https://doi.org/10.1016/j.athoracsur.2019.04.022</a>.
+</div>
+<div id="ref-madsen2984" class="csl-entry" role="listitem">
+Madsen, Helen J., Christina M. Stuart, Brandon M. Wojcik, et al. 2023. <span>“Esophagram Should Be Performed to Diagnose Esophageal Perforation Before Inter-Hospital Transfer.”</span> <em>Journal of Thoracic Disease</em> 15 (6): 2984–96. <a href="https://doi.org/10.21037/jtd-22-1798">https://doi.org/10.21037/jtd-22-1798</a>.
+</div>
+<div id="ref-mansfield3227" class="csl-entry" role="listitem">
+Mansfield, Sara A., Samer El-Dika, Somashekar G. Krishna, Kyle A. Perry, and Jon P. Walker. 2017. <span>“Routine Staging with Endoscopic Ultrasound in Patients with Obstructing Esophageal Cancer and Dysphagia Rarely Impacts Treatment Decisions.”</span> <em>Surgical Endoscopy</em> 31 (8): 3227–33. <a href="https://doi.org/10.1007/s00464-016-5351-6">https://doi.org/10.1007/s00464-016-5351-6</a>.
+</div>
+<div id="ref-mine0179522" class="csl-entry" role="listitem">
+Min, Yang Won, Eun Young Jang, Ji Hey Jung, et al. 2017. <span>“Comparison Between Gastrostomy Feeding and Self-Expandable Metal Stent Insertion for Patients with Esophageal Cancer and Dysphagia.”</span> <em>PloS One</em> 12 (6): e0179522. <a href="https://doi.org/10.1371/journal.pone.0179522">https://doi.org/10.1371/journal.pone.0179522</a>.
+</div>
+<div id="ref-radlinski5850" class="csl-entry" role="listitem">
+Radlinski, Mark, Linda W. Martin, Dustin M. Walters, et al. 2020. <span>“Use of Endoscopic Ultrasound in Pre-Treatment Staging of Esophageal Cancer Did Not Alter Management Plan.”</span> <em>Journal of Thoracic Disease</em> 12 (10): 5850–56. <a href="https://doi.org/10.21037/jtd-20-1299">https://doi.org/10.21037/jtd-20-1299</a>.
+</div>
+<div id="ref-ripley226" class="csl-entry" role="listitem">
+Ripley, R. Taylor, Inderpal S. Sarkaria, Rachel Grosser, et al. 2016. <span>“Pretreatment <span>Dysphagia</span> in <span>Esophageal</span> <span>Cancer</span> <span>Patients</span> <span>May</span> <span>Eliminate</span> the <span>Need</span> for <span>Staging</span> by <span>Endoscopic</span> <span>Ultrasonography</span>.”</span> <em>The Annals of Thoracic Surgery</em> 101 (1): 226–30. <a href="https://doi.org/10.1016/j.athoracsur.2015.06.062">https://doi.org/10.1016/j.athoracsur.2015.06.062</a>.
+</div>
+<div id="ref-schweigert1002" class="csl-entry" role="listitem">
+Schweigert, Michael, Hugo Santos Sousa, Norbert Solymosi, et al. 2016. <span>“Spotlight on Esophageal Perforation: <span>A</span> Multinational Study Using the <span>Pittsburgh</span> Esophageal Perforation Severity Scoring System.”</span> <em>The Journal of Thoracic and Cardiovascular Surgery</em> 151 (4): 1002–9. <a href="https://doi.org/10.1016/j.jtcvs.2015.11.055">https://doi.org/10.1016/j.jtcvs.2015.11.055</a>.
+</div>
+<div id="ref-suarez-poveda505" class="csl-entry" role="listitem">
+Suarez-Poveda, Tatiana, Carlos H. Morales-Uribe, Alvaro Sanabria, et al. 2014. <span>“Diagnostic Performance of <span>CT</span> Esophagography in Patients with Suspected Esophageal Rupture.”</span> <em>Emergency Radiology</em> 21 (5): 505–10. <a href="https://doi.org/10.1007/s10140-014-1222-4">https://doi.org/10.1007/s10140-014-1222-4</a>.
+</div>
+<div id="ref-white715" class="csl-entry" role="listitem">
+White, Russell E., Caesar Mungatana, and Mark Topazian. 2003. <span>“Expandable Stents for Iatrogenic Perforation of Esophageal Malignancies.”</span> <em>Journal of Gastrointestinal Surgery: Official Journal of the Society for Surgery of the Alimentary Tract</em> 7 (6): 715-719; discussion 719-720. <a href="https://doi.org/10.1016/s1091-255x(03)00064-7">https://doi.org/10.1016/s1091-255x(03)00064-7</a>.
+</div>
+</div>
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="atriumlogo.jpg" class="slide-logo"></p>
+<div class="footer footer-default">
+<p><a href="https://gisurgonc.github.io/talks/">GI Surgical Oncology Talks</a></p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1600,
+
+        height: 900,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copied!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copied!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/gisurgonc\.github\.io\/talks\/");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

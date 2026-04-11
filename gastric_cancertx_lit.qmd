@@ -29,10 +29,9 @@ GALAXY trial: Only ctDNA positive patients benefit from adjuvant chemo
 
 ## Intraperitoneal chemotherapy
 
-
 Peritoneal Carcinomatosis Index (PCI). [@jacquet359]
 
-RENAISSANCE (AIO-FLOT5) trial [@al-batran893]. Patients with limited-stage metastatic gastric cancer are treated with 4 cycles of FLOT followed by randominzation to additional chemotherapy vs cytoreduction. 
+RENAISSANCE (AIO-FLOT5) trial [@al-batran893]. Patients with limited-stage metastatic gastric cancer are treated with 4 cycles of FLOT followed by randominzation to additional chemotherapy vs cytoreduction.
 
 PHOENIX-GC: [@ishigami1922]: Bidirectional Taxol + S-1 vs cisplatin + S-1 in gastric cancer with carcinomatosis.Median duration of treatment on the IP arm was 39 weeks, or 13 cycles.
 
@@ -40,13 +39,12 @@ PERISCOPE I [@koemans904]
 
 PEIRSCOPE II [@koemans420] Randomization between gastrectomy, cytoreductive surgery, and HIPEC (oxaliplatin + paclitacel) vs systemic chemotherapy.
 
-Best survival in patients with PCI <7 
+Best survival in patients with PCI \<7
 
-GASTRIPEC-I Trial [@rau146] 105 patients with carcinomatosis from gastric cancer randomized to cytoreductive survey vs cytoreductive surgery + HPIC (mitomycin C and cisplatin). In 55 patients, treatment stopped before cytoreductive surgery due to disease progression/death.  Similar survival (15mo) between groups.  Progression free survival 3.5 months (CRS) vs 7.1 months (HIPEC)
+GASTRIPEC-I Trial [@rau146] 105 patients with carcinomatosis from gastric cancer randomized to cytoreductive survey vs cytoreductive surgery + HPIC (mitomycin C and cisplatin). In 55 patients, treatment stopped before cytoreductive surgery due to disease progression/death. Similar survival (15mo) between groups. Progression free survival 3.5 months (CRS) vs 7.1 months (HIPEC)
 
-Review of cytoreduction [@khan1176] 
+Review of cytoreduction [@khan1176]
 
-CYROCHIP: retrospective study with 18% 5-year survival. All patients who were disease-free at 5 years had PCI <7 and CC-0 cytoreduction. 
+CYROCHIP: retrospective study with 18% 5-year survival. All patients who were disease-free at 5 years had PCI \<7 and CC-0 cytoreduction.
 
-
-STOPGAP I study [@senthil209]: Dx laparoscopy and peritoneal lavage and IP port placement. Treatment with IP paclataxel on day 1 and 8 with 5FU/LV and IV paclitaxel for 4 21-day cycles.Imaging and diagnostic laparoscopy after 4 cycles.  95% completed all 4 cycles. 10/28 patients underwent resection. Progression-free survival of 14 months. 
+STOPGAP I study [@senthil209]: Dx laparoscopy and peritoneal lavage and IP port placement. Treatment with IP paclataxel on day 1 and 8 with 5FU/LV and IV paclitaxel for 4 21-day cycles. Imaging and diagnostic laparoscopy after 4 cycles. 95% completed all 4 cycles. 10/28 patients underwent resection. Progression-free survival of 14 months.

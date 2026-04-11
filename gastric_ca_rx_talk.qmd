@@ -71,34 +71,27 @@ Lymph nodes adjacent to celiac axis:
 
 ## Durch Trial: D2 vs D1 Lymphadenectomy
 
-
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr2_lrg.png)
 
 ## Dutch Trial: Overall Survival
 
-
-![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
-## Durch Trial: D2 vs D1 Lymphadenectomy
-
+![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg) \## Durch Trial: D2 vs D1 Lymphadenectomy
 
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
 
 ## Durch Trial: Cause of Death
 
-
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr4_lrg.jpg)
 
 ## Durch Trial: Disease-free Survival
-
 
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr5_lrg.jpg)
 
 ## Durch Trial: D2 vs D1 Lymphadenectomy
 
-
 ![](https://deidt7p41jzcy.cloudfront.net/songun-gr3_lrg.jpg)
 
-## Dutch Trial: D2 vs D1 
+## Dutch Trial: D2 vs D1
 
 Operative mortality higher with D2 (10% vs 4%)
 
@@ -118,32 +111,30 @@ D2 lymphadenectomy is associated with better local control of gastric cancer tha
 
 Can the toxicity of extended lymphadenectomy be reduced?
 
-- Elimination of splenectomy (D1$\alpha$)
-- Mininally-invasive techniques
+-   Elimination of splenectomy (D1$\alpha$)
+-   Mininally-invasive techniques
 
 ## MAGIC Trial - Perioperative Chemotherapy
 
 503 gastric cancer stage II adenocarcinoma of stomach, GE juncction or lower esophagus
 
-ECF Chemo $\rightarrow$ Surgery $\rightarrow$ ECF Chemot
-vs
-Surgery alone
+ECF Chemo $\rightarrow$ Surgery $\rightarrow$ ECF Chemot vs Surgery alone
 
 Chemotherapy: Epirubicin, ciplatin, 5FU
 
-Surgery 3-6 weeks after last dose of chemo
-Chemo 6-12 weeks after surgery
+Surgery 3-6 weeks after last dose of chemo Chemo 6-12 weeks after surgery
 
 ## MAGIC - Perioperative Chemotherapy
 
 Tumor Location
 
-- Gastric 74%
-- GE junction 11%
-- Distal esophagus 15%
+-   Gastric 74%
+-   GE junction 11%
+-   Distal esophagus 15%
 
 ## MAGIC- Perioperative Chemotheray
-Curative radical resection 79% with chemo vs. 70$ (p=0.03)
+
+Curative radical resection 79% with chemo vs. 70\$ (p=0.03)
 
 Longer 5-year survival wtih chemo (36% vs 23%). p=0.0009
 
@@ -155,36 +146,27 @@ Of patients who completed preop chemotherapy and surgery, only 34% received post
 
 7616 patients with adenocarcinoma of GE junction or stomach randomized:
 
-ECF $\rightarrow$ Surgery $\rightarrow$ ECF
-vs 
-FLOT $\rightarrow$ Surgery $\rightarrow$
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF vs FLOT $\rightarrow$ Surgery $\rightarrow$
 
 Longer survival with FLOT (median 50 months vs 35 months)
 
 ## TOPGEAR
 
-ECF $\rightarrow$ Surgery $\rightarrow$ ECF $\rightarrow$ ChemoRT
-vs
-ECF $\rightarrow$ Surgery $\rightarrow$ ECF
+ECF $\rightarrow$ Surgery $\rightarrow$ ECF $\rightarrow$ ChemoRT vs ECF $\rightarrow$ Surgery $\rightarrow$ ECF
 
 ## HIPEC - Ongoing Trials
 
 GASTRICHIP:
 
-Patients with peritoneal diseae ftrom gastro cancer. 
+Patients with peritoneal diseae ftrom gastro cancer.
 
-Chemo $\rightarrow$ Surgery with cytoreduction $\rightarrow$ Chemo
-vs
-Chemo $\rightarrow$ Surgery with cytoreduction + HIPEC $\rightarrow$ Chemo
+Chemo $\rightarrow$ Surgery with cytoreduction $\rightarrow$ Chemo vs Chemo $\rightarrow$ Surgery with cytoreduction + HIPEC $\rightarrow$ Chemo
 
 ::: aside
 [@glehen1]
 :::
 
-
-
-
-## GASTRICHIP 
+## GASTRICHIP
 
 105 patients randomized 2014 - 2018. Trial closed due to slow accrual
 
@@ -202,7 +184,6 @@ Median survival 15 months in both groups (without a difference).
 
 Comparison of cytoreductive surgery + HIPIC to systemic chemotherapy in patients with gastric cancer and peritoneal metastasis.
 
-
 ::: aside
 [@koemans1]
 :::
@@ -215,9 +196,7 @@ FLOT + HIPIC vs FLOT + Surgery in advanced gastric cancer 78
 
 Diffuse-type gastric and GE junction adenocarcnoma:
 
-FLOT $\rightarrow$ Gastrectomy + HIPIC $\rightarrow$
-vs
-FLOT $\rightarrow$ Gastrectomy $\rightarrow$
+FLOT $\rightarrow$ Gastrectomy + HIPIC $\rightarrow$ vs FLOT $\rightarrow$ Gastrectomy $\rightarrow$
 
 ::: aside
 [@gotze1]
