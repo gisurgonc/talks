@@ -1,0 +1,231 @@
+---
+title: "Acute Care of Esophageal Cancer"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Esophageal Cancer Overview {#eso_overview}
+
+Triage questions:
+
+-   Has EGD been done? Pathology results?
+-   Presence of metastatic disease on CT chest/abdomen/pelvis?
+-   Upper GI bleeding requiring transfusion? Is bleeding persistent?
+-   Can patient maintain hydration orally?
+
+## Triage
+
+- [Bleeding](eso_bleeding.html)
+- [Obstruction (unable to maintain hydration)](eso_obstruction.html)
+- [Perforation](eso_perforation.html)
+
+Patients who can maintain their hydration orally:
+
+- Outpatient management
+- No need for transfer to CMC Main
+
+## Patients with dysphagia who can maintain oral hydration
+
+Clinically staged as T3 and fit into one of two caregories:
+
+-   Patients with metastatic disease (liver, lung, or extra-regional lymphadenopathy with cervical or para-aortic nodes). Treatment is chemotherapy with radiation for palliation of dysphagia or treatment of symptomatic bone metastasis
+-   Patients without metastatic disease are staged *Locally Advanced* and treated with preoperative chemotherapy $\pm$ radiation followed by surgery. 
+
+Surgery as primary therapy is not indicated except for cancer perforation.
+
+## Patients with minimal dysphagia
+
+Typically present acutely with bleeding, often while under anticoagulation.
+
+Some of these patients are AJCC T2 and would be candidates for primary surgery. 
+
+Most are AJCC T3 and should get preoperative chemo $\pm$ radiation. 
+
+\
+
+Endoscopic Ultrasound (EUS) is necessary to distinguish T2 from T3
+
+- Available only at CMC Main
+- Usually can be done as an outpatient
+
+500+ esophagectomies over 19 years: None performed emergently for bleeding
+
+## Endoscopy
+
+Endoscopy with biopsy is foundational for patients with esophageal obstruction.
+
+Majority will have evidence of malignancy on EGD. Negative endoscopic biopsies in the patient with an obstructing esophageal stricture are unusual but not rare.
+
+Options for re-biopsy include:
+
+- Neonatal (5mm) endoscope
+- Dilation followed by biopsy
+- Endoscopic ultrasound with FNA. 
+
+These options are available at CMC Main and may not be available at regional facilities. [@faigel2257]
+
+## CT Scan
+
+Patients with esophageal cancer need CT chest/abdomen/pelvis with IV contrast for initial staging.
+
+## PET/CT Scan
+
+- Needed for complete staging
+- Rarely needed in the acute setting
+- Required for radiation therapy planning
+
+Prep:
+
+- NPO for 4 hours (except water)
+- No IV dextrose for 4 hours prior
+- Blood sugars controlled
+
+## Endoscopic ultrasound (EUS)
+
+Distinguishes localized tumors (AJCC T2) who may be candidates for primary surgery from patients with locally-advanced cancers (AJCC T3) who need preoperative chemotherapy $\pm$ radiation. 
+
+Patients with T2 tumors generally have minimal dysphagia and frequently present with bleeding during anticoagulation or surveillance for Barrett's esophagus.
+
+EUS has limited utility in the staging of patients with esophageal cancer who present with dysphagia [@mansfield3227] [@findlay1488] [@radlinski5850] [@ripley226] and is not necessary in these patients. 
+
+## Esophageal Obstruction (can't maintain hydration)
+
+
+## Enteral Feeding Tube
+
+Metastatic disease:  PEG
+
+- Most patients can be treated with a neonatal scope + 20Fr Pull PEG
+
+No metastatic disease
+
+- Lap gastrostomy preferred
+- Lap jejunostomy never the wrong answer
+
+
+## Laparoscopic Gastrostomy
+
+Laparoscopic gastrostomy is the preferred method for enteral access in patients with esophageal cancer for surgeons familiar with esophageal reconstruction. The stomach is the preferred method of reconstruction during esophagectomy and it is critical that gastrostomy placement not complicate future surgery. Gastrostomy tubes are more convenient for the patient as feedings can be done by bolus feedings, while jejunostomy feeding requires a pump over extended periods (12-16 hours).
+
+## Laparoscopic Gastrostomy
+
+The laparoscopic approach allows placement of the tube away from the right gastroepiploic artery. Findings the ideal location for the tube involves laparoscopy with low insufflation pressure (4mm Hg), which allows adequate distention of the stomach with an endoscope. A neonatal (5mm) endoscope can be helpful. A site is selected at the midpoint of the stomach on a saggital plane to allow minimal tension on the tube. The tube is placed as far proximally on the stomach as possible yet still at least 3cm from the left costal margin (for patient comfort and to allow minimal tension on the gastrostomy tube). [Operative Description of Laparoscopic Gastrostomy](https://gisurgonc.github.io/handbook/02-lap_gastrostomy.html)
+
+## Laparoscopic Jejunostomy
+
+Jejunostomy is the traditional method of nutritional support for patients with esophageal obstruction. This avoids the risk of injury to the future gastric conduit at the time of esophagectomy.
+
+Description of operative setup for [laparoscoic jejunostomy](https://gisurgonc.github.io/handbook/02-lap_jejunostomy.html)
+
+[Postoperative Care for Jejunostomy](https://gisurgonc.github.io/handbook/03-jejunostomy.html)
+
+## Endoscopic stents
+
+Endoscopic stents to treat esophageal obstruction are appropriate in patients with documented metastatic disease (Stage IV) and those who will never be candidates for surgery.
+
+In patients who are potentially candidates for esophagectomy, stents are generally avoided to prevent complications of surgery through fibrosis of the esophagus proximal to the tumor.
+
+## Stent vs Gastrostomy Feeding Tube
+
+A retrospective study of patients with esophageal cancer and dysphagia [@mine0179522] found that treatment with gastrostomy was associated with longer survival than those treated with a endoscopic stent and had higher albumin levels and less need for re-intervention.
+
+## Percutaneous Endoscopic Gastrostomy
+
+For patients with Stage IV disease, percutaneous endoscopic gastrostomy (PEG) is indicated for nutritional support. A gastrostomy allows for bolus feeding and is more convenient for patients than a jejunostomy, which requires an infusion pump.
+
+For patients with potentially resectable disease, PEG is avoided to prevent injury to the right gastroepiploic artery and the risk of tumor seeding of the gastrostomy tract.
+
+## Central Venous Port
+
+Central venous port can facilitate the administration of chemotherapy but is not essential in the acute management of patients with esophageal cancer, particularly patients with poor performance status who may not receive chemotherapy once they meet with their treating medical oncologist. 
+
+\
+
+Inpatient medical oncology consultation can help sort out which patients are not candidates for chemotherapy.
+
+## Perforated Esophageal Cancer
+
+Triage questions:
+
+-   Has EGD been done? Pathology results?
+-   Spontaneous or s/p procedure?
+-   Has patient had prior radiation therapy?
+-   CT Chest/abdomen/pelvis
+-   Pleural effusion or pneumothorax?
+-   Pneumoperitoneum or peritoneal fluid?
+
+Patients with perforated esophageal cancer need multidisciplinary emergency management. These patients should be transferred emergently to CMC Main.
+
+Patients with pleural effusion need emergent thoracic surgery consultation. Patients with pneumoperitoneum or intra-abdominal fluid in the upper abdomen need emergent laparoscopic placement of drains.
+
+## Triage Team
+
+-   CMC Thoracic Surg Attending SHVI (for thoracic perforations)
+-   Red LCI SO (for abdominal perforations)
+-   CMC LCI Head and Neck Surg Onc Attending (for cervical perforations)
+
+## Acute Management
+
+-   IV hydration
+-   Correction of electrolyte abnormalities
+-   IV antibiotics
+-   CT Esophagram with water soluble contrast
+-   CT abdomen/pelvis
+-   CT neck (if suspicion of cervical perforation)
+
+## Inpatient Management
+
+-   Emergent drainage of pleural effusions
+-   Emergent laparoscopic placement of drains for evidence of intra-abdominal perforation
+
+## Background
+
+Perforated esophageal cancer most commonly occurs after endoscopy, endoscopic ultrasound, or dilation of an esophageal cancer (or benign stricture). Endoscopic stenting is frequently not feasible due to the underlying stricture. Treatment options are conservative management with drainage and IV antibiotics, endoluminal stenting, or emergency surgery. [@abu-daff34]
+
+## Diagnosis
+
+CT esophagram with water soluble contrast is the diagnostic study of choice[@suarez-poveda505]. This should include CT neck and/or CT abdomen/pelvis depending upon the suspected level of perforation.
+
+A study from Colorado [@madsen2984] of 65 patients transferred with suspected esophageal perforation found that 24 patients were ultimately found not to have a perforation. Among patients for whom pneumomediastinum was their sole criteria for transfer, only 57% were ultimately found to have a perforation. Among patients with a pleural effusion prior to transfer, 83% were ultimately found to have a perforation. Patients with a lactate greater than 1.6 were 11 times more likely to have aperforation.
+
+## Cervical esophageal perforation
+
+Contained perforations of the cervical esophagus can be treated with NPO and IV antibiotics. Uncontained perforations need surgical exploration. In this case, nutritional support with gastrostomy is indicated.
+
+## Thoracic esophageal perforations
+
+Pittsburgh esophageal perforation scoring system: [@abbas749] Validation of Pittsburgh scoring system [@schweigert1002]
+
+A series from Birmingham UK of 74 esophageal perforations over 15 years include 13 patients with perforated cancers, of whom 7 were treated with endoscopic stenting [@charalampakis1710]. These 13 patients had a 1-year mortality of 77%
+
+## Conservative management
+
+There is little experience in the literature for the conservative management of perforated esophageal cancer. Most clinical reports exclude patients with perforated cancers. A report from Kenya of 10 perforations among 492 dilations of esophageal cancer, of whom 9 were successfully treated with endoluminal stents [@white715]. Stenting of perforated esophageal cancer is limited to case reports [@kobayashie361]
+
+## Emergent Esophagectomy
+
+Emergency esophagectomy is the traditional approach to perforated esophageal cancer given the difficulty in stenting an area of tumor (or stricture). Short-term goals are fluid resuscitation, IV antibiotics, and drainage of the pleurae (and abdomen).
+
+Emergent esophagogastrectomy via an abdominal and thoracic approach is the conventional approach in a fit patient. For frail patients, an transabdominal approach with esophagogastrostomy is less morbid [@gillen3065] although placing the patient at higher risk of postoperative reflux.
+
+## Orientation Manual
+
+{{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
+
+## References
