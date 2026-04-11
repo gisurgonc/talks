@@ -202,7 +202,7 @@ Perforated esophageal cancer most commonly occurs after endoscopy, endoscopic ul
 
 CT esophagram with water soluble contrast is the diagnostic study of choice[@suarez-poveda505]. This should include CT neck and/or CT abdomen/pelvis depending upon the suspected level of perforation.
 
-A study from Colorado [@madsen2984] of 65 patients transferred with suspected esophageal perforation found that 24 patients were ultimately found not to have a perforation. Among patients for whom pneumomediastinum was their sole criteria for transfer, only 57% were ultimately found to have a perforation. Among patients with a pleural effusion prior to transfer, 83% were ultimately found to have a perforation. Patients with a lactate greater than 1.6 were 11 times more likely to have aperforation.
+A study from Colorado [@madsen2984] of 65 patients transferred with suspected esophageal perforation found that 24 patients were ultimately found not to have a perforation. Among patients for whom pneumomediastinum was their sole criteria for transfer, only 57% were ultimately found to have a perforation. Among patients with a pleural effusion prior to transfer, 83% were ultimately found to have a perforation. Patients with a lactate greater than 1.6 were 11 times more likely to have a perforation.
 
 ## Cervical esophageal perforation
 

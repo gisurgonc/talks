@@ -1,0 +1,23 @@
+---
+title: "GI Surgical Oncology Lectures"
+---
+
+# GI Surgical Oncology Didactics
+
+[Acute Care of Esophageal Cancer](acs_gi_cancers.htm)
+
+[Esophageal Perforation SCORE](esoph_perf.htm)
+
+[Esophageal Cancer Lecture](eso_ca_rx_talk.htm)
+
+[Esophageal Cancer Cases](eso_ca_cases.htm)
+
+[Esophagectomy Postop Care](eso_postop_care.htm)
+
+[Gastric Cancer Lecture](gastric_ca_rx_talk.htm)
+
+[Gastric GIST](gist_slides.htm)
+
+[Rectal Cancer Adjuvant Therapy](rectal_adjuvant.htm)
+
+[Colorectal Cancer Genetics](crc_genetics_slides.htm)
