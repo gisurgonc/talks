@@ -1,8 +1,8 @@
 ---
-title: "GI Surgical Oncology Lectures"
+title: "GI Surgical Oncology Didactics"
 ---
 
-# GI Surgical Oncology Didactics
+## Esophageal Cancer
 
 [Acute Care of Esophageal Cancer](acs_gi_cancers.htm)
 
@@ -14,9 +14,13 @@ title: "GI Surgical Oncology Lectures"
 
 [Esophagectomy Postop Care](eso_postop_care.htm)
 
+## Gastric Cancer
+
 [Gastric Cancer Lecture](gastric_ca_rx_talk.htm)
 
 [Gastric GIST](gist_slides.htm)
+
+## Colorectal Cancer
 
 [Rectal Cancer Adjuvant Therapy](rectal_adjuvant.htm)
 
