@@ -16,6 +16,30 @@ editor: visual
 
 ## Low-grade mucinous Neoplasms (LAMN)
 
+- Low-grade epithelial neoplasm of the appendix
+- Mucinous epithelium with "pushing" growth pattern
+  - *Not* infiltrative pattern with desmoplasia
+- 0.5% of all GI neoplams
+- 2.1% of appendectomy specimens
+
+
+## Low-grade Mucinous Neoplasms (LAMN) Typical Pathology
+
+- Distinct "pushing border" invasion (NOT infiltrative with desmoplasia)
+- Atrophy of the appendiceal wall
+- Loss of lymphoid tissue
+- Effacement of the muscularis mucosa
+- Common mucin pools that can extend into serosa and beyond
+
+## Low-grade Mucinous Neoplasms (LAMN) Typical Pathology
+
+- Microsatellite stable (MSS)
+- BRAF V600E negative
+- KRAS mutations frequently present (approximately 50% of cases)
+- GNAS mutations may be present
+
+## 
+
 In the ovary, this would be a cystadenoma
 
 Not invasive - equivalent of a polyp
@@ -26,6 +50,360 @@ If rutured, can cause PMP = pseudomyxoma peritonei
 
 In the ovary - mucinous carcinoma
 
-## High grade mucinous neoplasms
 
-??Not technically invasive
+## High-grade appendiceal mucinous neoplasm (HAMN)
+
+## Appendiceal Epithelial Neoplasms WHO Classification (2019)
+
+- Serrated lesions and polyps
+- Mucinous neoplasms (LAMN, HAMN)
+- Adenocarcinoma
+- Goblet cell adenocarcinoma (GCA)
+- Neuroendocrine neoplasms
+
+## Low-grade mucinous Neoplasms (LAMN) Staging AJCC 9^e^ - Tumor
+
+- T1 and T2 are NOT applicable to LAMN
+- pTis (LAMN): Confined to muscularis propria (including acellular mucin or mucinous epithelium)
+- pT3: Acellular mucin or mucinous epithelium extends into subserosa
+- pT4a: Acellular mucin or mucinous epithelium involves serosa of appendix or mesoappendix
+- pT4b: Direct invasion of adjacent organs/structures
+
+## Low-grade mucinous Neoplasms (LAMN) Staging AJCC 9^e^ - Metastasis
+
+- pM1a: Intraperitoneal acellular mucin WITHOUT identifiable tumor cells
+- pM1b: Intraperitoneal metastasis with peritoneal mucinous deposits CONTAINING tumor cells
+- pM1c: Metastasis to sites other than peritoneum
+
+## Pseudomyxoma Peritonei (PMP)
+
+*Clinlical* syndrome
+
+- Progressive accumulation of gelatinous mucinous ascites
+- Diffuse peritoneal deposits
+
+Typically results from rupture of a mucinous appendiceal neoplasm
+
+Clinical Features
+
+Common presentations:
+
+Gradually increasing abdominal girth (most common)
+
+Ovarian mass in women (often right-sided)
+
+New-onset hernia in men (sac filled with mucin)
+
+Appendicitis (from ruptured appendiceal mucocele)
+
+Characteristic distribution:
+
+"Omental cake" (thickened, infiltrated omentum)
+
+Right and left hemidiaphragm undersurfaces
+
+Right subhepatic space, splenic hilum
+
+Abdominal gutters, pelvis, cul-de-sac
+
+Spares mobile portions of small bowel (critical surgical feature)
+
+Prognosis by Peritoneal Disease Grade
+
+Acellular mucin (pM1a): Low risk of progression, especially if confined to right lower quadrant
+
+Low-grade cellular mucin: Intermediate prognosis
+
+High-grade cellular mucin with signet ring cells: Much worse prognosis
+
+Clinical Presentation Diagnosis
+
+Presenting Symptoms
+
+Acute appendicitis (most common)
+
+Abdominal pain or mass
+
+Incidental finding on imaging
+
+Mucocele on imaging
+
+Diagnostic Workup
+
+Initial evaluation:
+
+CT abdomen/pelvis with oral and IV contrast
+
+Complete blood count, comprehensive metabolic panel
+
+Tumor markers: CEA, CA 19-9, CA-125
+
+Colonoscopy (to rule out synchronous colorectal malignancies)
+
+For suspected metastatic disease:
+
+CT chest/abdomen/pelvis
+
+Consider diagnostic laparoscopy by experienced surgeon
+
+Assess Peritoneal Cancer Index (PCI) score
+
+Obtain biopsies and/or appendectomy if feasible
+
+Note: FDG-PET/CT is NOT routinely indicated
+
+Surgical Management
+
+Localized Disease (Appendix Only)
+
+Standard approach:
+
+Negative margin appendectomy is sufficient for LAMN confined to appendix
+
+Ileocecectomy may be considered if appendectomy not feasible
+
+Right hemicolectomy is NOT routinely recommended for LAMN
+
+Critical surgical principle: Avoid unnecessary right hemicolectomy. Studies show approximately 20% of patients undergo pre-referral right hemicolectomy without oncologic benefit—no nodal metastases are typically found in LAMN.
+
+Margin considerations:
+
+If positive margins: Consider cecal cuff resection
+
+Perforation is a risk factor for peritoneal recurrence → warrants closer surveillance
+
+Peritoneal Disease
+
+Surgical principles:
+
+Refer to experienced peritoneal surface malignancy surgeon
+
+Focus on DIAGNOSIS during initial exploration, not extensive resection
+
+Staging laparoscopy helpful to estimate PCI and extent of surgery required
+
+Cytoreductive Surgery (CRS) + Intraperitoneal Chemotherapy (IPCT):
+
+Indications:
+
+Peritoneal-only disease with cellular mucin
+
+Multi-quadrant acellular mucin
+
+Select cases with localized acellular mucin
+
+Goals:
+
+Optimal cytoreduction (CC score 0 or 1)
+
+NOT debulking—complete cytoreduction is the goal
+
+Organ preservation when possible
+
+IPCT agents:
+
+Mitomycin C (most commonly used, preferred)
+
+Oxaliplatin (alternative, less preferred if patient receiving IV oxaliplatin)
+
+Candidacy determined by:
+
+Patient's overall health
+
+Disease biology and extent
+
+Tumor resectability
+
+Multidisciplinary evaluation
+
+Special Considerations
+
+Acellular mucin localized to periappendix:
+
+Observation if appendectomy already performed, OR
+
+Localized CRS ± IPCT
+
+Complete CRS not possible:
+
+Observation
+
+Clinical trial
+
+Consider palliative CRS ± IPCT if symptomatic
+
+Consider systemic therapy (with early discontinuation if no response)
+
+Repeat CRS/IPCT:
+
+May be considered for patients with prior CRS
+
+Particularly for low-grade peritoneal tumors with limited spread
+
+Time since prior surgery important for high-grade disease
+
+Prognosis Outcomes
+
+Disease Confined to Appendix
+
+Excellent prognosis:
+
+No recurrences reported in multiple studies with median follow-up of 5-6 years
+
+Essentially benign behavior when completely resected
+
+Some experts advocate for term "mucinous adenoma" for these cases
+
+Peritoneal Disease
+
+Overall outcomes:
+
+5-year survival: 79-86%
+
+10-year survival: 45-46%
+
+Recurrence-free survival after CRS/HIPEC: 94% at 5 years
+
+Prognostic factors:
+
+Most important: Presence and cellularity of peritoneal deposits
+
+Completeness of cytoreduction (CC score)
+
+Bulk of peritoneal disease
+
+High-grade cytology
+
+Architectural complexity
+
+Risk of Progression
+
+Overall recurrence risk: 4-6% at 5-10 years for localized disease
+
+Higher risk features:
+
+Extra-appendiceal cellular mucin
+
+Mucin beyond right lower quadrant
+
+M1b staging
+
+Tumor size 2 cm with acellular mucin in RLQ (paradoxically higher risk)
+
+Perforation
+
+Median time to recurrence: 23-24 months (most within first 3 years)
+
+Surveillance Recommendations (NCCN Guidelines)
+
+Resected Localized Disease
+
+For completely resected LAMN confined to appendix WITHOUT high-risk features:
+
+Surveillance may NOT be needed
+For other localized disease:
+
+History physical: Every 6-12 months × 2 years, then annually up to 10 years
+
+Tumor markers (CEA, CA 19-9, CA-125): Every 6-12 months × 2 years, then annually up to 10 years
+
+CT or MRI abdomen/pelvis: Every 6-12 months × 2 years, then every 12-24 months up to 10 years
+
+Colonoscopy if not done preoperatively
+
+FDG-PET/CT NOT indicated
+
+Resected Metastatic Disease
+
+History physical: Every 6 months × 2 years, then annually up to 10 years
+
+Tumor markers: Every 6-12 months × 2 years, then annually up to 10 years
+
+CT or MRI chest/abdomen/pelvis: Every 6 months × 2 years, then every 12 months up to 10 years
+
+Colonoscopy if not done preoperatively
+
+Indications for further workup:
+Rising tumor markers
+
+Unexplained abdominal symptoms
+
+Documented recurrence
+
+Radiographic progression
+
+Key Controversies Pitfalls
+
+Common Errors in Management
+
+Unnecessary right hemicolectomy: LAMN rarely has nodal metastases; appendectomy with negative margins is sufficient
+
+Routine diagnostic laparoscopy: Low yield in era of high-quality cross-sectional imaging
+
+Aggressive surgery at initial presentation: Focus should be on diagnosis, not extensive resection
+
+Inadequate pathologic evaluation: Entire appendix should be submitted for histologic evaluation in dilated specimens
+
+Diagnostic Challenges
+
+Extensive epithelial denudation in markedly dilated LAMNs makes diagnosis difficult
+
+Distinction from ruptured diverticula (look for wall atrophy, loss of lymphoid tissue)
+
+Determining cellularity of peritoneal mucin (requires thorough sampling)
+
+Discordant cases: Low-grade appendiceal tumor with high-grade peritoneal disease
+
+Management Controversies
+
+Role of HAMN management (some advocate right colectomy)
+
+Optimal surveillance intensity and duration
+
+Role of systemic chemotherapy (limited data, generally not responsive)
+
+Timing and candidacy for repeat CRS/HIPEC
+
+Take-Home Points
+
+LAMN is a distinct entity with "pushing" invasion, NOT infiltrative growth like adenocarcinoma
+
+Appendectomy with negative margins is sufficient for localized disease—avoid unnecessary right hemicolectomy
+
+Prognosis depends primarily on peritoneal involvement: Confined to appendix = excellent; cellular peritoneal disease = guarded
+
+Acellular vs. cellular peritoneal mucin is the critical prognostic distinction
+
+CRS + HIPEC is standard treatment for peritoneal disease at specialized centers
+
+Surveillance is risk-stratified: May not be needed for completely resected appendix-confined disease without high-risk features
+
+Refer early to peritoneal surface malignancy specialists for suspected or confirmed peritoneal disease
+
+Small bowel sparing in PMP is a key surgical feature allowing peritonectomy
+
+Recurrence risk is low but real: Most recurrences occur within first 3 years
+
+Multidisciplinary approach is essential for optimal outcomes
+
+Questions for Discussion
+
+How would you counsel a 55-year-old woman with LAMN pTis found incidentally on appendectomy for acute appendicitis?
+
+What are the indications for referral to a peritoneal surface malignancy center?
+
+How do you distinguish LAMN from appendiceal adenocarcinoma on pathology?
+
+What is your approach to a patient with acellular mucin confined to the right lower quadrant?
+
+When would you recommend surveillance imaging, and for how long?
+
+This comprehensive lecture on low-grade appendiceal mucinous neoplasms (LAMN) synthesizes current evidence from the NCCN Guidelines, German S2k Guidelines, and multiple high-quality studies. [1-4] The content emphasizes the unique pathologic features of LAMN, including the characteristic "pushing" invasion pattern and the critical distinction between acellular and cellular peritoneal mucin. [1][3]
+
+Key evidence-based recommendations include the sufficiency of appendectomy for localized disease, the role of cytoreductive surgery with hyperthermic intraperitoneal chemotherapy (CRS/HIPEC) for peritoneal disease, and risk-stratified surveillance strategies. [1-2][5] The lecture highlights common pitfalls, including unnecessary right hemicolectomy—studies show approximately 20% of patients undergo this procedure without oncologic benefit, as nodal metastases are exceedingly rare in LAMN. [6]
+
+The prognosis section reflects recent data showing excellent outcomes for appendix-confined disease with essentially no recurrences, while peritoneal disease has 5-year survival rates of 79-86% and 10-year survival of 45-46%. [7-9] The lecture emphasizes that the presence and cellularity of peritoneal deposits are the most important prognostic factors. [1][7]
+
+Would you like me to create accompanying visual aids, case-based scenarios, or a condensed handout version of this lecture?
+
+

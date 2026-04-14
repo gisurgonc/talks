@@ -2,8 +2,24 @@
 title: "video_test"
 ---
 
+## Video
+
 <video width="640" height="360" controls>
-  <source src="videos/0411.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
----
+
+<source src="videos/0411.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
+
+## Video
+
+
+
+<video width="640" height="360" controls>
+
+<source src="https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/0411.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
+
+## Video 3
+
+<https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/0411.mp4>
