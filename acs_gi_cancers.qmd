@@ -151,23 +151,13 @@ $\Rightarrow$ Laparoscopic gastrostomy can be advantageous if placed properly
 ## Conduit Construction
 
 
-<video width="925" height="520" controls>
+<video height="100%" controls>
 
 <source src="https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/0411.mp4" type="video/mp4">
 Your browser does not support the video tag. </video>
 
 <https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/0411.mp4>
 
-
-## Laparoscopic Gastrostomy
-
-<video  controls>
-
-<source src="https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/LapG.mp4" type="video/mp4">
-
-Your browser does not support the video tag. </video>
-
-<https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/LapG.mp4>
 
 
 ## Laparoscopic Gastrostomy
@@ -195,7 +185,7 @@ More proximal placement is better *as long as* tube is at least 3cm from costal 
 
 ## Laparoscopic Jejunostomy
 
-Traditional method of nutritional support for patients with esophageal obstruction. A
+Traditional method of nutritional support for patients with esophageal obstruction.
 
 Avoids the risk of injury to the future gastric conduit at the time of esophagectomy.
 
@@ -325,6 +315,6 @@ Emergent esophagogastrectomy via an abdominal and thoracic approach is the conve
 
 ## Orientation Manual
 
-{{< qrcode https://gisurgonc.github.io/handbook width=600 height=600 >}}
+{{< qrcode https://gisurgonc.github.io/handbook width=900 height=900 >}}
 
 ## References
