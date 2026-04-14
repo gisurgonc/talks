@@ -151,22 +151,35 @@ $\Rightarrow$ Laparoscopic gastrostomy can be advantageous if placed properly
 ## Conduit Construction
 
 
-<video width="720" height="405" controls>
+<video width="925" height="520" controls>
 
 <source src="https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/0411.mp4" type="video/mp4">
+Your browser does not support the video tag. </video>
 
 <https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/0411.mp4>
 
-Your browser does not support the video tag. </video>
+
 ## Laparoscopic Gastrostomy
 
-<video width="720" height="405" controls>
+<video  controls>
 
 <source src="https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/LapG.mp4" type="video/mp4">
 
 Your browser does not support the video tag. </video>
 
 <https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/LapG.mp4>
+
+
+## Laparoscopic Gastrostomy
+
+<video  height= "100%" controls>
+
+<source src="https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/LapG.mp4" type="video/mp4">
+
+Your browser does not support the video tag. </video>
+
+<https://github.com/gisurgonc/talks/raw/refs/heads/main/videos/LapG.mp4>
+
 
 ## Laparoscopic Gastrostomy Techniques
 
