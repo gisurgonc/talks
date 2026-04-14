@@ -20,6 +20,7 @@ editor: visual
 bibliography: zotero.bib
 ---
 
+
 ## Acute Presentation of Esophageal Cancers
 
 -   [Bleeding](#bleeding)  
@@ -30,11 +31,13 @@ bibliography: zotero.bib
 
 ## Bleeding Esophageal Cancer {#bleeding}
 
+
 Triage questions:
 
 -   Has EGD been done? Pathology results?
 -   Presence of metastatic disease on CT chest/abdomen/pelvis?
 -   Upper GI bleeding requiring transfusion? Is bleeding persistent?
+
 -   Dysphagia
 -   Can patient maintain hydration orally?
 
@@ -77,6 +80,8 @@ Clinically staged as T3 and fit into one of two caregories:
 
 -   Patients with metastatic disease (liver, lung, or extra-regional lymphadenopathy with cervical or para-aortic nodes). Treatment is chemotherapy with radiation for palliation of dysphagia or treatment of symptomatic bone metastasis
 
+
+
 \
 
 -   Patients without metastatic disease are staged *Locally Advanced* and treated with preoperative chemotherapy $\pm$ radiation followed by surgery.
@@ -86,11 +91,13 @@ Surgery as primary therapy is not indicated except for cancer perforation.
 
 ## Esophageal Obstruction with Negative Biopsy
 
+
 Endoscopy with biopsy is foundational for patients with esophageal obstruction.
 
 Majority will have evidence of malignancy on EGD. Negative endoscopic biopsies in the patient with an obstructing esophageal stricture are unusual but not rare.
 
 Options for re-biopsy include:
+
 
 -   Neonatal (5mm) endoscope
 -   Dilation followed by biopsy
@@ -186,13 +193,16 @@ Avoids the risk of injury to the future gastric conduit at the time of esophagec
 
 ## Endoscopic stents
 
+
 Appropriate with metastatic disease (Stage IV) and those who will never be candidates for surgery.
+
 
 In patients who are potentially candidates for esophagectomy, stents are generally avoided to prevent complications of surgery through fibrosis of the esophagus proximal to the tumor.
 
 ## Stent vs Gastrostomy Feeding Tube
 
 A retrospective study of patients with esophageal cancer and dysphagia [@mine0179522] found that treatment with gastrostomy was associated with longer survival than those treated with a endoscopic stent and had higher albumin levels and less need for re-intervention.
+
 
 :::aside
 [@mine0179522]
@@ -273,6 +283,7 @@ Triage questions:
 -   Pleural effusion or pneumothorax?
 -   Pneumoperitoneum or peritoneal fluid?
 
+
 ## Acute Management
 
 -   IV hydration
@@ -287,11 +298,13 @@ Triage questions:
 -   Emergent drainage of pleural effusions
 -   Emergent laparoscopic placement of drains for evidence of intra-abdominal perforation
 
+
 ## Cervical esophageal perforation
 
 Contained perforations of the cervical esophagus can be treated with NPO and IV antibiotics. 
 
 Uncontained perforations need surgical exploration. In this case, nutritional support with gastrostomy is indicated.
+
 
 ## Thoracic esophageal perforations
 
@@ -299,11 +312,13 @@ Pittsburgh esophageal perforation scoring system: [@abbas749] Validation of Pitt
 
 A series from Birmingham UK of 74 esophageal perforations over 15 years include 13 patients with perforated cancers, of whom 7 were treated with endoscopic stenting [@charalampakis1710]. These 13 patients had a 1-year mortality of 77%
 
+
 ## Conservative management of Perforated Esophageal Cancer
 
 There is little experience in the literature as clinical reports exclude patients with perforated cancers. 
 
 A report from Kenya of 10 perforations among 492 dilations of esophageal cancer, of whom 9 were successfully treated with endoluminal stents [@white715]. Stenting of perforated esophageal cancer is limited to case reports [@kobayashie361]
+
 
 ## Emergent Esophagectomy
 
@@ -313,6 +328,8 @@ Emergent esophagogastrectomy via an abdominal and thoracic approach is the conve
 
 ## Orientation Manual
 
+
 {{< qrcode https://gisurgonc.github.io/handbook width=600 height=600 >}}
+
 
 ## References
