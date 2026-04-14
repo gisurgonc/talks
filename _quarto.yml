@@ -10,6 +10,8 @@ website:
         text: Home
       - href: giso_lectures.qmd
         text: Lectures
+      - href: video_test.qmd
+        text: Test
 
 format:
   html:
