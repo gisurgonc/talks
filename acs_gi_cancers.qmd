@@ -315,6 +315,6 @@ Emergent esophagogastrectomy via an abdominal and thoracic approach is the conve
 
 ## Orientation Manual
 
-{{< qrcode https://gisurgonc.github.io/handbook width=900 height=900 >}}
+{{< qrcode https://gisurgonc.github.io/handbook width=800 height=800 >}}
 
 ## References
