@@ -6888,6 +6888,13 @@
     "text": "Stage IB (T2a) or Stage II (Tb2+)\nSLNB should be discussed and offered for melanomas &gt;1.0 mm thick, as the probability of a positive sentinel node is generally &gt;10%. This includes intermediate-thickness melanomas (T2 or T3; 1.0-4.0 mm) where SLNB is recommended, and thick melanomas (T4; &gt;4.0 mm) where SLNB may be recommended after discussion of benefits and risks."
   },
   {
+    "objectID": "melanoma_talk.htm#excision-margins-for-primary-melanoma",
+    "href": "melanoma_talk.htm#excision-margins-for-primary-melanoma",
+    "title": "Melanoma",
+    "section": "Excision Margins for Primary Melanoma",
+    "text": "Excision Margins for Primary Melanoma\n\n\n\nBreslow Thickness\nRecommended Peripheral Surgical Margin\n\n\n\n\nIn situ\n0.5–1 cm\n\n\n≤1.0 mm (T1)\n1 cm\n\n\n&gt;1.0–2.0 mm (T2)\n1–2 cm\n\n\n&gt;2.0–4.0 mm (T3)\n2 cm\n\n\n&gt;4.0 mm (T4)\n2 cm\n\n\n\nSentinel Node Biopsy Indications"
+  },
+  {
     "objectID": "melanoma_talk.htm#staging",
     "href": "melanoma_talk.htm#staging",
     "title": "Melanoma",
@@ -6948,7 +6955,7 @@
     "href": "melanoma_talk.htm#adjuvant-systemic-therapy---stage-iii-bc",
     "title": "Melanoma",
     "section": "Adjuvant Systemic Therapy - Stage III B/C",
-    "text": "Adjuvant Systemic Therapy - Stage III B/C\nAdjuvant Systemic Therapy\nThe decision for adjuvant therapy should be individualized based on the patient’s risk of recurrence and treatment toxicity. [1] Preferred options include: [1]\nNivolumab (Category 1) - studied in AJCC 7th Edition stage IIIB/C disease\nPembrolizumab (Category 1) - tested in stage IIIA with SLN metastasis ≥1 mm or stage IIIB/C disease\nDabrafenib/trametinib (Category 1) - for BRAF V600 mutation-positive melanoma\nAll three regimens have demonstrated clinical efficacy across AJCC 8th Edition stage III disease and are given for 12 months. [1] Anti-PD-1 therapy (nivolumab, pembrolizumab) has shown improved 5-year recurrence-free survival compared to placebo or ipilimumab. [4-5] For BRAF V600-mutant melanoma, dabrafenib/trametinib is an equally effective alternative to immunotherapy. [4][6]"
+    "text": "Adjuvant Systemic Therapy - Stage III B/C\nThe decision for adjuvant therapy should be individualized based on the patient’s risk of recurrence and treatment toxicity.\nNivolumab (Category 1) - studied in AJCC 7th Edition stage IIIB/C disease\nPembrolizumab (Category 1) - tested in stage IIIA with SLN metastasis ≥1 mm or stage IIIB/C disease\nDabrafenib/trametinib (Category 1) - for BRAF V600 mutation-positive melanoma\nAll three regimens have demonstrated clinical efficacy across AJCC 8th Edition stage III disease and are given for 12 months. [1] Anti-PD-1 therapy (nivolumab, pembrolizumab) has shown improved 5-year recurrence-free survival compared to placebo or ipilimumab. [4-5] For BRAF V600-mutant melanoma, dabrafenib/trametinib is an equally effective alternative to immunotherapy. [4][6]"
   },
   {
     "objectID": "melanoma_talk.htm#systemic-adjuvant-therapy",
