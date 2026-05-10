@@ -543,14 +543,14 @@
     "href": "rectal_adjuvant.htm#gi-tumor-study-group-1985-adjuvant-radiation",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "GI Tumor Study Group 1985 Adjuvant Radiation",
-    "text": "GI Tumor Study Group 1985 Adjuvant Radiation\nSurgery as sole treatment for rectal cancer \\(\\rightarrow\\) unacceptable rate of local recurrence.\n\n\nGITSG Trial used postop radiation to reduce local recurrences\n227 rectal cancer patients with curative surgical resection:\n\n\n\n58: Control with no further therapy\n50: Postop radiation alone 4000 or 4800cGy\n48: Postop chemotherapy 5FU+methyl-CCNU\n46: Chemo + radiation\n\n\n\n(Gastrointestinal Tumor Study Group 1985)"
+    "text": "GI Tumor Study Group 1985 Adjuvant Radiation\nSurgery as sole treatment for rectal cancer \\(\\rightarrow\\) unacceptable rate of local recurrence.\n\n\nGITSG Trial used postop radiation to reduce local recurrences\n227 rectal cancer patients with curative surgical resection:\n\n\n\n58: Surgery with no further therapy (Control Group)\n50: Postop radiation alone 4000 or 4800cGy\n48: Postop chemotherapy 5FU+methyl-CCNU\n46: Chemo + radiation\n\n\n\n(Gastrointestinal Tumor Study Group 1985)"
   },
   {
     "objectID": "rectal_adjuvant.htm#gi-tumor-study-group-1985-adjuvant-radiation-1",
     "href": "rectal_adjuvant.htm#gi-tumor-study-group-1985-adjuvant-radiation-1",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "GI Tumor Study Group 1985 Adjuvant Radiation",
-    "text": "GI Tumor Study Group 1985 Adjuvant Radiation\nLocal Recurrence\n\n55%: Control with no further therapy\n50: Postop radiation alone 4000 or 4800cGy\n48: Postop chemotherapy 5FU+methyl-CCNU\n33%: Chemo + radiation\n\n\\(\\Rightarrow\\) Reduction in local recurrence\nNo difference in overall survival"
+    "text": "GI Tumor Study Group 1985 Adjuvant Radiation\nLocal Recurrence\n\n55%: Control with no further therapy\n50%: Postop radiation alone 4000 or 4800cGy\n48%: Postop chemotherapy 5FU+methyl-CCNU\n33%: Chemo + radiation\n\n\\(\\Rightarrow\\) Reduction in local recurrence\nNo difference in overall survival\n\n\n(Gastrointestinal Tumor Study Group 1985)"
   },
   {
     "objectID": "rectal_adjuvant.htm#overview-of-rectal-adjunctive-therapy",
@@ -560,25 +560,25 @@
     "text": "Overview of Rectal Adjunctive Therapy"
   },
   {
+    "objectID": "rectal_adjuvant.htm#total-mesorectal-excision-1986",
+    "href": "rectal_adjuvant.htm#total-mesorectal-excision-1986",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Total Mesorectal Excision (1986)",
+    "text": "Total Mesorectal Excision (1986)\n115 rectal cancer patients underwent surgery over 7.5 years\n\n\n69 with anastomosis below 5cm\nMedian followup of 4.2 years:\n\n3 pelvic recurrences\nNo staple-line recurrence\n\n\n\n\n\n\n(Heald and Ryall 1986)"
+  },
+  {
     "objectID": "rectal_adjuvant.htm#total-mesorectal-excision",
     "href": "rectal_adjuvant.htm#total-mesorectal-excision",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Total Mesorectal Excision",
-    "text": "Total Mesorectal Excision"
+    "text": "Total Mesorectal Excision\n\n\n\n(mery117?)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#total-mesorectal-excicsion-1986",
-    "href": "rectal_adjuvant.htm#total-mesorectal-excicsion-1986",
+    "objectID": "rectal_adjuvant.htm#dutch-tme-postop-chemort-trial",
+    "href": "rectal_adjuvant.htm#dutch-tme-postop-chemort-trial",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Total Mesorectal Excicsion (1986)",
-    "text": "Total Mesorectal Excicsion (1986)\n115 rectal cancer patients underwent surgery over 7.5 years\n\n69 with anastomosis below 5cm\nMedian followup of 4.2 years:\n\n3 pelvic recurrences\nNo staple-line recurrence\n\n\n(Heald and Ryall 1986)"
-  },
-  {
-    "objectID": "rectal_adjuvant.htm#dutch-postop-chemort-trial",
-    "href": "rectal_adjuvant.htm#dutch-postop-chemort-trial",
-    "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Dutch Postop ChemoRT Trial",
-    "text": "Dutch Postop ChemoRT Trial\nDutch trial used protocol-drived total mesorectal excision (TME)\nSurgery alone\nvs\nSurgery \\(\\rightarrow\\) Chemoradiation\nPostop ChemoRT reduced local recurrence from 10.9% to 5.6%\nNo difference in overall survival"
+    "section": "Dutch TME + Postop ChemoRT Trial",
+    "text": "Dutch TME + Postop ChemoRT Trial\nDutch trial used protocol-drived total mesorectal excision (TME)\n\n\nSurgery alone\nvs\nSurgery \\(\\rightarrow\\) Chemoradiation\n\n\nPostop ChemoRT reduced local recurrence from 10.9% to 5.6%\nNo difference in overall survival"
   },
   {
     "objectID": "rectal_adjuvant.htm#dutch-preop-short-course-trial",
@@ -588,25 +588,18 @@
     "text": "Dutch Preop Short-course Trial\nPreoperative short-course radiation was designed to reduce time to surgery\n1861 patients randomized:\n\nPreop RT (5x 500cGy) \\(\\rightarrow\\) Surgery (TME)\nSurgery alone (TME)\n\n\\(\\Rightarrow\\) Reduction in local recurrence (2.4% vs 8.2%)\nNo difference in survival\nPreoperative = neoadjvant therapy\n\n\n(Kapiteijn et al. 2001)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#dutch-trial-results",
-    "href": "rectal_adjuvant.htm#dutch-trial-results",
+    "objectID": "rectal_adjuvant.htm#dutch-preop-short-course-trial-results",
+    "href": "rectal_adjuvant.htm#dutch-preop-short-course-trial-results",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Dutch Trial Results",
-    "text": "Dutch Trial Results"
+    "section": "Dutch Preop Short-course Trial Results",
+    "text": "Dutch Preop Short-course Trial Results"
   },
   {
-    "objectID": "rectal_adjuvant.htm#german-trial-preop-vs-postop-chemort",
-    "href": "rectal_adjuvant.htm#german-trial-preop-vs-postop-chemort",
+    "objectID": "rectal_adjuvant.htm#german-trial-preop-vs-postop-chemort-aio-94",
+    "href": "rectal_adjuvant.htm#german-trial-preop-vs-postop-chemort-aio-94",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "German Trial Preop vs Postop ChemoRT",
-    "text": "German Trial Preop vs Postop ChemoRT\nPreop radiation has theoretical advantage of improved efficacy\nAll patients received postoperative adjuvant chemotherapy\nPreoperative ChemoRT was superior in:\n\ndisease-free survival\ntreatment compliance\ntoxicity\nsphincter preservation\n\nNo difference in overall survival or local control\nNSABP R-03 Trial did not reach accrual goal\n\n\n(sauer1926?)"
-  },
-  {
-    "objectID": "rectal_adjuvant.htm#german-trial",
-    "href": "rectal_adjuvant.htm#german-trial",
-    "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "German Trial",
-    "text": "German Trial\n\n\n\n(sauer1926?)"
+    "section": "German Trial Preop vs Postop ChemoRT (AIO-94)",
+    "text": "German Trial Preop vs Postop ChemoRT (AIO-94)\nPreop radiation has theoretical advantage of improved efficacy\nAll patients received postoperative adjuvant chemotherapy\nPreoperative ChemoRT was superior in:\n\nLocal recurrence (6% preop vs 13% postop)\ntoxicity (27% vs 40%)\nsphincter preservation (39% vs 19%)\n\nNo difference in overall survival or disease-free survival\nNSABP R-03 Trial did not reach accrual goal\n\n\n(Sauer et al. 2004)"
   },
   {
     "objectID": "rectal_adjuvant.htm#overview-of-rectal-adjunctive-therapy-1",
@@ -620,7 +613,7 @@
     "href": "rectal_adjuvant.htm#ecort-22921-postopo-chemotherapy",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "ECORT 22921 Postopo Chemotherapy",
-    "text": "ECORT 22921 Postopo Chemotherapy\nPostoperative (adjuvant) chemotherapy was shown to be effective in reducing distant metastasis and improving survival in the ECORT 22921 clinical trial.\nStandard treatment now became:\nNeoadjuvant ChemoRT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Adjuvant Chemo"
+    "text": "ECORT 22921 Postopo Chemotherapy\nPostoperative (adjuvant) chemotherapy was shown to be effective in reducing distant metastasis and improving survival in the ECORT 22921 clinical trial.\n\n\nStandard treatment now became:\n\n\nNeoadjuvant ChemoRT \\(\\rightarrow\\) Surgery \\(\\rightarrow\\) Adjuvant Chemo"
   },
   {
     "objectID": "rectal_adjuvant.htm#neoadjuvant-chemotherapy-strategy",
@@ -641,14 +634,14 @@
     "href": "rectal_adjuvant.htm#total-neoadjuvant-therapy-tnt",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Total Neoadjuvant Therapy (TNT)",
-    "text": "Total Neoadjuvant Therapy (TNT)\nTNT approach moves all therapy to before surgery with goals to:\n\n\n\n\nImprove distant disease control (\\(\\rightarrow\\) Overall survival)\nImprove clinical complete response (\\(\\rightarrow\\) Organ preservation)"
+    "text": "Total Neoadjuvant Therapy (TNT)\n\nTNT approach moves all therapy to before surgery with goals to:\n\n\n\nImprove distant disease control (\\(\\rightarrow\\) Overall survival)\nImprove clinical complete response (\\(\\rightarrow\\) Organ preservation)"
   },
   {
     "objectID": "rectal_adjuvant.htm#rapido---preop-short-course-radiation-rightarrow-preop-chemo",
     "href": "rectal_adjuvant.htm#rapido---preop-short-course-radiation-rightarrow-preop-chemo",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "RAPIDO - Preop short-course radiation \\(\\rightarrow\\) Preop Chemo",
-    "text": "RAPIDO - Preop short-course radiation \\(\\rightarrow\\) Preop Chemo\n920 patients with T4 or node-positive disease:\nShort-course RT \\(\\rightarrow\\) Chemo \\(\\rightarrow\\) Surgery vs ChemoRT \\(\\rightarrow\\) TME \\(\\pm\\) Chemo\npCR rate significantly higher in the short course/chemotherapy/surgery group (28% vs 14%) Disease-specific surival at 3years was higher (30% vs 24%).\n\n\n(Bahadoer et al. 2021); (Valk et al. 2020)"
+    "text": "RAPIDO - Preop short-course radiation \\(\\rightarrow\\) Preop Chemo\n920 patients with T4 or node-positive disease:\nShort-course RT \\(\\rightarrow\\) Chemo \\(\\rightarrow\\) Surgery\nvs\nChemoRT \\(\\rightarrow\\) TME \\(\\pm\\) Chemo\n\n\npCR rate significantly higher in the RT \\(\\rightarrow\\) Chemo \\(\\rightarrow\\) Surgery (28% vs 14%)\nDisease-specific survival at 3years was higher (30% vs 24%).\n\n\n(Bahadoer et al. 2021); (Valk et al. 2020)"
   },
   {
     "objectID": "rectal_adjuvant.htm#rapido-vs-prodige-23",
@@ -662,7 +655,7 @@
     "href": "rectal_adjuvant.htm#watchful-waiting-for-rectal-organ-preservation",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Watchful Waiting for Rectal Organ Preservation",
-    "text": "Watchful Waiting for Rectal Organ Preservation\nRetrospective studies: some patients with a complete clinical response to chemoradiation for rectal cancer can be managed without surgery.\nSubsequent trials of neoadjuvant therapy included non-operative management as a treatment option in patients with a complete clinical response to neoadjuvant therapy."
+    "text": "Watchful Waiting for Rectal Organ Preservation\nRetrospective studies: some patients with a complete clinical response to chemoradiation for rectal cancer can be managed without surgery.\n\n\nSubsequent trials of neoadjuvant therapy included non-operative management as a treatment option in patients with a complete clinical response to neoadjuvant therapy."
   },
   {
     "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc",
@@ -676,14 +669,14 @@
     "href": "rectal_adjuvant.htm#watch-and-wait---mskcc-1",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Watch and Wait - MSKCC",
-    "text": "Watch and Wait - MSKCC\nRestrospective comparison two groups with rectal cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\nNo plevic recurrences\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n22 local regrowth on surveillance \\(\\rightarrow\\) Surgery\n\nPelvic control mantained in 20 (91%)\n\nRectal preservation in 93 (82%)\n\n\n\n(Smith et al. 2019)"
+    "text": "Watch and Wait - MSKCC\nRestrospective comparison two groups with rectal cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\nNo pelvic recurrences\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n22 local regrowth on surveillance \\(\\rightarrow\\) Surgery\n\nPelvic control mantained in 20 (91%)\n\nRectal preservation in 93 (82%)\n\n\n\n(Smith et al. 2019)"
   },
   {
     "objectID": "rectal_adjuvant.htm#watch-and-wait---mskcc-2",
     "href": "rectal_adjuvant.htm#watch-and-wait---mskcc-2",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Watch and Wait - MSKCC",
-    "text": "Watch and Wait - MSKCC\nRestrospective comparison two groups with rectal cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\n94% survival at 5 years\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n73% survival at 5 years\n\nRestrospective comparison two groups with rectal cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\n94% survival at 5 years\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n73% survival at 5 years\nHigher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)\n\n\n\n(Smith et al. 2019)"
+    "text": "Watch and Wait - MSKCC\nRestrospective comparison two groups with rectal cancer:\n136 preop ChemoRT \\(\\rightarrow\\) surgery \\(\\Rightarrow\\) pCR\n\n94% survival at 5 years\n\n113 preop ChemoRT \\(\\Rightarrow\\) complete clinical response (cCR)\n\n73% survival at 5 years\nHigher rate of distant metastasis in those who had tumor regrowth (36% vs 1%)\n\n\n\n(Smith et al. 2019)"
   },
   {
     "objectID": "rectal_adjuvant.htm#total-neoadjuvant-therapy",
@@ -756,11 +749,11 @@
     "text": "Complete vs Near Complete clinical response\n\n\n(Smith et al. 2015)"
   },
   {
-    "objectID": "rectal_adjuvant.htm#chemo-intensification---folfirinox",
-    "href": "rectal_adjuvant.htm#chemo-intensification---folfirinox",
+    "objectID": "rectal_adjuvant.htm#chemo-intensification-with-tnt---folfirinox-vs-folfox",
+    "href": "rectal_adjuvant.htm#chemo-intensification-with-tnt---folfirinox-vs-folfox",
     "title": "Rectal Cancer Adjuvant Therapy",
-    "section": "Chemo Intensification - FOLFIRINOX",
-    "text": "Chemo Intensification - FOLFIRINOX"
+    "section": "Chemo Intensification with TNT - FOLFIRINOX vs FOLFOX",
+    "text": "Chemo Intensification with TNT - FOLFIRINOX vs FOLFOX"
   },
   {
     "objectID": "rectal_adjuvant.htm#Swedish",
@@ -795,7 +788,7 @@
     "href": "rectal_adjuvant.htm#references",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "References",
-    "text": "References\n\n\n\n\nBahadoer, Renu R., Esmée A. Dijkstra, Boudewijn van Etten, et al. 2021. “Short-Course Radiotherapy Followed by Chemotherapy Before Total Mesorectal Excision (TME) Versus Preoperative Chemoradiotherapy, TME, and Optional Adjuvant Chemotherapy in Locally Advanced Rectal Cancer (RAPIDO): A Randomised, Open-Label, Phase 3 Trial.” The Lancet. Oncology 22 (1): 29–42. https://doi.org/10.1016/S1470-2045(20)30555-6.\n\n\nConroy, Thierry, Jean-François Bosset, Pierre-Luc Etienne, et al. 2021. “Neoadjuvant Chemotherapy with FOLFIRINOX and Preoperative Chemoradiotherapy for Patients with Locally Advanced Rectal Cancer (UNICANCER-PRODIGE 23): A Multicentre, Randomised, Open-Label, Phase 3 Trial.” The Lancet. Oncology 22 (5): 702–15. https://doi.org/10.1016/S1470-2045(21)00079-6.\n\n\nGarcia-Aguilar, Julio, Sujata Patil, Marc J. Gollub, et al. 2022. “Organ Preservation in Patients With Rectal Adenocarcinoma Treated With Total Neoadjuvant Therapy.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 40 (23): 2546–56. https://doi.org/10.1200/JCO.22.00032.\n\n\nGastrointestinal Tumor Study Group. 1985. “Prolongation of the Disease-Free Interval in Surgically Treated Rectal Carcinoma.” The New England Journal of Medicine 312 (23): 1465–72. https://doi.org/10.1056/NEJM198506063122301.\n\n\nHeald, R. J., and R. D. Ryall. 1986. “Recurrence and Survival After Total Mesorectal Excision for Rectal Cancer.” Lancet (London, England) 1 (8496): 1479–82. https://doi.org/10.1016/s0140-6736(86)91510-2.\n\n\nKapiteijn, E., C. A. Marijnen, I. D. Nagtegaal, et al. 2001. “Preoperative Radiotherapy Combined with Total Mesorectal Excision for Resectable Rectal Cancer.” The New England Journal of Medicine 345 (9): 638–46. https://doi.org/10.1056/NEJMoa010580.\n\n\nPettersson, D., E. Lörinc, T. Holm, et al. 2015. “Tumour Regression in the Randomized Stockholm III Trial of Radiotherapy Regimens for Rectal Cancer.” The British Journal of Surgery 102 (8): 972–978; discussion 978. https://doi.org/10.1002/bjs.9811.\n\n\nSmith, J. Joshua, Oliver S. Chow, Marc J. Gollub, et al. 2015. “Organ Preservation in Rectal Adenocarcinoma: A Phase II Randomized Controlled Trial Evaluating 3-Year Disease-Free Survival in Patients with Locally Advanced Rectal Cancer Treated with Chemoradiation Plus Induction or Consolidation Chemotherapy, and Total Mesorectal Excision or Nonoperative Management.” BMC Cancer 15 (October): 767. https://doi.org/10.1186/s12885-015-1632-z.\n\n\nSmith, J. Joshua, Paul Strombom, Oliver S. Chow, et al. 2019. “Assessment of a Watch-and-Wait Strategy for Rectal Cancer in Patients With a Complete Response After Neoadjuvant Therapy.” JAMA Oncology 5 (4): e185896. https://doi.org/10.1001/jamaoncol.2018.5896.\n\n\nSwedish Rectal Cancer Trial, B. Cedermark, M. Dahlberg, et al. 1997. “Improved Survival with Preoperative Radiotherapy in Resectable Rectal Cancer.” The New England Journal of Medicine 336 (14): 980–87. https://doi.org/10.1056/NEJM199704033361402.\n\n\nValk, Maxime J. M. van der, Corrie A. M. Marijnen, Boudewijn van Etten, et al. 2020. “Compliance and Tolerability of Short-Course Radiotherapy Followed by Preoperative Chemotherapy and Surgery for High-Risk Rectal Cancer - Results of the International Randomized RAPIDO-Trial.” Radiotherapy and Oncology: Journal of the European Society for Therapeutic Radiology and Oncology 147 (June): 75–83. https://doi.org/10.1016/j.radonc.2020.03.011."
+    "text": "References\n\n\n\n\nBahadoer, Renu R., Esmée A. Dijkstra, Boudewijn van Etten, et al. 2021. “Short-Course Radiotherapy Followed by Chemotherapy Before Total Mesorectal Excision (TME) Versus Preoperative Chemoradiotherapy, TME, and Optional Adjuvant Chemotherapy in Locally Advanced Rectal Cancer (RAPIDO): A Randomised, Open-Label, Phase 3 Trial.” The Lancet. Oncology 22 (1): 29–42. https://doi.org/10.1016/S1470-2045(20)30555-6.\n\n\nConroy, Thierry, Jean-François Bosset, Pierre-Luc Etienne, et al. 2021. “Neoadjuvant Chemotherapy with FOLFIRINOX and Preoperative Chemoradiotherapy for Patients with Locally Advanced Rectal Cancer (UNICANCER-PRODIGE 23): A Multicentre, Randomised, Open-Label, Phase 3 Trial.” The Lancet. Oncology 22 (5): 702–15. https://doi.org/10.1016/S1470-2045(21)00079-6.\n\n\nGarcia-Aguilar, Julio, Sujata Patil, Marc J. Gollub, et al. 2022. “Organ Preservation in Patients With Rectal Adenocarcinoma Treated With Total Neoadjuvant Therapy.” Journal of Clinical Oncology: Official Journal of the American Society of Clinical Oncology 40 (23): 2546–56. https://doi.org/10.1200/JCO.22.00032.\n\n\nGastrointestinal Tumor Study Group. 1985. “Prolongation of the Disease-Free Interval in Surgically Treated Rectal Carcinoma.” The New England Journal of Medicine 312 (23): 1465–72. https://doi.org/10.1056/NEJM198506063122301.\n\n\nHeald, R. J., and R. D. Ryall. 1986. “Recurrence and Survival After Total Mesorectal Excision for Rectal Cancer.” Lancet (London, England) 1 (8496): 1479–82. https://doi.org/10.1016/s0140-6736(86)91510-2.\n\n\nKapiteijn, E., C. A. Marijnen, I. D. Nagtegaal, et al. 2001. “Preoperative Radiotherapy Combined with Total Mesorectal Excision for Resectable Rectal Cancer.” The New England Journal of Medicine 345 (9): 638–46. https://doi.org/10.1056/NEJMoa010580.\n\n\nPettersson, D., E. Lörinc, T. Holm, et al. 2015. “Tumour Regression in the Randomized Stockholm III Trial of Radiotherapy Regimens for Rectal Cancer.” The British Journal of Surgery 102 (8): 972–978; discussion 978. https://doi.org/10.1002/bjs.9811.\n\n\nSauer, Rolf, Heinz Becker, Werner Hohenberger, et al. 2004. “Preoperative Versus Postoperative Chemoradiotherapy for Rectal Cancer.” The New England Journal of Medicine 351 (17): 1731–40. https://doi.org/10.1056/NEJMoa040694.\n\n\nSmith, J. Joshua, Oliver S. Chow, Marc J. Gollub, et al. 2015. “Organ Preservation in Rectal Adenocarcinoma: A Phase II Randomized Controlled Trial Evaluating 3-Year Disease-Free Survival in Patients with Locally Advanced Rectal Cancer Treated with Chemoradiation Plus Induction or Consolidation Chemotherapy, and Total Mesorectal Excision or Nonoperative Management.” BMC Cancer 15 (October): 767. https://doi.org/10.1186/s12885-015-1632-z.\n\n\nSmith, J. Joshua, Paul Strombom, Oliver S. Chow, et al. 2019. “Assessment of a Watch-and-Wait Strategy for Rectal Cancer in Patients With a Complete Response After Neoadjuvant Therapy.” JAMA Oncology 5 (4): e185896. https://doi.org/10.1001/jamaoncol.2018.5896.\n\n\nSwedish Rectal Cancer Trial, B. Cedermark, M. Dahlberg, et al. 1997. “Improved Survival with Preoperative Radiotherapy in Resectable Rectal Cancer.” The New England Journal of Medicine 336 (14): 980–87. https://doi.org/10.1056/NEJM199704033361402.\n\n\nValk, Maxime J. M. van der, Corrie A. M. Marijnen, Boudewijn van Etten, et al. 2020. “Compliance and Tolerability of Short-Course Radiotherapy Followed by Preoperative Chemotherapy and Surgery for High-Risk Rectal Cancer - Results of the International Randomized RAPIDO-Trial.” Radiotherapy and Oncology: Journal of the European Society for Therapeutic Radiology and Oncology 147 (June): 75–83. https://doi.org/10.1016/j.radonc.2020.03.011."
   },
   {
     "objectID": "crc_genetics_slides.htm#genetics-of-colorectal-cancer",

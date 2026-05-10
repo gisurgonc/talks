@@ -28,30 +28,28 @@ bibliography: zotero.bib
 [@delachapelle3380]
 :::
 
-
 ## Lynch Syndrome
 
--   3% of all colorectal cancers
--   Germline mutations of mismatch repair genes
-    -   *OR* Germline deletions in EPCAM gene
--   80% lifetime risk colorectal cancer
--   Early onset ($\tilde{x}$ 45-60yrs)
--   Tumors tend to be right-sided
+- 3% of all colorectal cancers
+- Germline mutations of mismatch repair genes
+  - *OR* Germline deletions in EPCAM gene
+- 80% lifetime risk colorectal cancer
+- Early onset ($\tilde{x}$ 45-60yrs)
+- Tumors tend to be right-sided
 
 ::: aside
 [@enge116]
 :::
 
-
 ## Mismatch Repair Protein Loss in Lynch Syndrome
 
 Lynch Syndrome can be caused by loss of expression of:
 
--   MLH1
--   PMS1
--   MSH6
--   MSH2
--   MSH5
+- MLH1
+- PMS1
+- MSH6
+- MSH2
+- MSH5
 
 ## Mismatch-repair Deficient Colorectal Cancers
 
@@ -59,9 +57,9 @@ Deficiency in mismatch repair proteins $\rightarrow$ microsatellite instability
 
 15% of colorectal cancers are MMR-deficient (MSI-High)
 
--   Sporadic - Promoter methylation of MLH1 by BRAF V600E mutation (10%)
+- Sporadic - Promoter methylation of MLH1 by BRAF V600E mutation (10%)
 
--   Lynch - Due to mutations in mismatch repair genes (5%) 90% of Lynch tumors are MMR-deficient
+- Lynch - Due to mutations in mismatch repair genes (5%) 90% of Lynch tumors are MMR-deficient
 
 *Reflex testing for BRAF V600E mutation is essential for MMR-deficient tumors*
 
@@ -75,27 +73,27 @@ Deficiency in mismatch repair proteins $\rightarrow$ microsatellite instability
 
 MMR Protein expression can be detected by immunohistochemistry
 
--   Routine testing of tumor for GI cancers at CMC
--   Loss of MLH1 leads to loss of PMS2
+- Routine testing of tumor for GI cancers at CMC
+- Loss of MLH1 leads to loss of PMS2
 
 Microsatellite Instability can be detected by pCR
 
--   Tumors are not routinely tested for MSI at CMC
+- Tumors are not routinely tested for MSI at CMC
 
 97-99%+ concordance between dMMR and MSI-High status
 
-## Mismatch Repair -> Microsatellite Instability
+## Mismatch Repair -\> Microsatellite Instability
 
 ![](images/chapelle_Fig2.png)
 
 ## MMR-deficient Tumor Clinical Feaures
 
--   Proximal location
--   Poor differentiation
--   Mucinous histology
--   Better prognosis (in early stage)
--   Respond well to immunotherapy (ICI)
--   Less responsive to 5-FU chemotherapy (in stage II)
+- Proximal location
+- Poor differentiation
+- Mucinous histology
+- Better prognosis (in early stage)
+- Respond well to immunotherapy (ICI)
+- Less responsive to 5-FU chemotherapy (in stage II)
 
 ::: aside
 [@taieb136]
@@ -105,8 +103,7 @@ Microsatellite Instability can be detected by pCR
 
 Mutational burden from dMMR causes MSI-High tumors to be immunogenic
 
-![](images/lynch_pdl1_1.png)
-Activated tumor-infiltrating lymphocytes up-regulate PD-1
+![](images/lynch_pdl1_1.png) Activated tumor-infiltrating lymphocytes up-regulate PD-1
 
 ## Tumor PD-L1 Down-regulates Immune Responses
 
@@ -126,7 +123,7 @@ $\uparrow$ PD-L1 downregulates immune response
 
 ## Immune Checkpoint Inhibitors
 
-![](images/lynch_pdl1_6.png) 
+![](images/lynch_pdl1_6.png)
 
 Inhibition of PD-L1 $\leftrightarrow$ PD-1 activates T cells by removing inhibition
 
@@ -164,7 +161,7 @@ Clinical Relevance of Microsatellite Instability in Colorectal Cancer. Journal o
 
 105 Major pathological respoinse (TRG1 or TRG2)
 
--   75 pathological complete response
+- 75 pathological complete response
 
 No recurrence of disease at median follow up of 26 months
 
@@ -188,20 +185,18 @@ Oxaliplatin-based chemotherapy (FOLFOX or CapeOX) and atezolizumab (Tecentriq)
 
 ATOMIC trial: atezolizumab + mFOLFOX6 is superior to mFOLFOX6 alone, with a 3-year disease-free survival rate of 86.4% versus 76.6% (hazard ratio 0.50, P .0001)
 
-
 ## FAP screening
 
-
 ## Muir-Torre Syndrome - Lynch variant
 
-- Lifetime cancer risk 80-100%.  Multiple primary cancers common (50% have $\ge$2)
+- Lifetime cancer risk 80-100%. Multiple primary cancers common (50% have \$\ge\$2)
 - Colorectal: 58% proximal to splenic flexure
 - Endometrial (15% of women), ovarian, transitional cell bladder
-- Sebaceous:  Adenomas (66%) sebaceous epithelioma (33%) sebaceous carcinoma (33%)
+- Sebaceous: Adenomas (66%) sebaceous epithelioma (33%) sebaceous carcinoma (33%)
 
 ## Muir-Torre Syndrome - Lynch variant
 
-MSI-positive (65%): 
+MSI-positive (65%):
 
 - Similar pathophysiology as Lynch Syndrome
 - Strong family history
@@ -217,18 +212,17 @@ MSI-negative (35%): Later-onset cancers, less pronounced family history.
 - Less pronounced family history
 - MUTYH or MLH1 promoter hypermethylation
 
-
 Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after colectomy and q5 yers in those with family hx of desmoids
 
 ## Lynch Non-Colorectal Cancers
 
--   Endometrial (25-60% penetrance)
--   Stomach
--   Ovarian 
--   Urinary tract
--   Biliary Tract
--   Small bowel
--   Male breast cancer (1.2% penetrance vs 0.1%)
+- Endometrial (25-60% penetrance)
+- Stomach
+- Ovarian
+- Urinary tract
+- Biliary Tract
+- Small bowel
+- Male breast cancer (1.2% penetrance vs 0.1%)
 
 ::: aside
 [@sinicrope764]
@@ -238,19 +232,18 @@ Colonoscopy age 10-12 EGD for duodenal polyps at age 20-30 CT 1-3 years after co
 
 Colonoscopy q1-2 years staring age 20-25
 
-
 ## Colon Polyposis: \>10 adenomatous polyps
 
--   Classical FAP
--   Attenuated FAP (AFAP)
--   MUTYH-associated polyposis (MAP)
--   Colonic adenomatous polyposis of unknown etiology (CPUE)
+- Classical FAP
+- Attenuated FAP (AFAP)
+- MUTYH-associated polyposis (MAP)
+- Colonic adenomatous polyposis of unknown etiology (CPUE)
 
 ## Colon Polyposis: \>4 hamartomatous polyps
 
--   Puetz-Jaghers
--   Juvenile Polyposis Syndrome
--   Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
+- Puetz-Jaghers
+- Juvenile Polyposis Syndrome
+- Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
 
 ## Serrated Colon Polyps
 
@@ -258,7 +251,7 @@ Colonoscopy q1-2 years staring age 20-25
 
 ## FAP
 
-(FAP) is caused by germline mutations in the APC gene and leads to the development of hundreds to thousands of colorectal adenomas, with nearly 100% risk of colorectal cancer if untreated. 
+(FAP) is caused by germline mutations in the APC gene and leads to the development of hundreds to thousands of colorectal adenomas, with nearly 100% risk of colorectal cancer if untreated.
 
 ## Attenuated FAP
 
