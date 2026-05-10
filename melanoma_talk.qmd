@@ -15,23 +15,70 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## 
-
-Cutaneous Melanoma. Lancet. 2023. Long GV, Swetter SM, Menzies AM, Gershenwald JE, Scolyer RA.
-
-Cutaneous Melanoma. The Journal of the American Medical Association. 2025. Joshi UM, Kashani-Sabet M, Kirkwood JM.
-
 ## T1a Melanoma
 
-Stage IA (T1a): SLNB is not generally recommended for melanomas \<0.8 mm thick without ulceration or other adverse features, as the probability of a positive sentinel node is \<5%. An exception is when there is significant uncertainty about the adequacy of microstaging (e.g., positive deep margins or limited sampling of a larger lesion).
+Stage IA (T1a): SLNB is not generally recommended for melanomas \<0.8 mm thick without ulceration or other adverse features, as the probability of a positive sentinel node is \<5%.
+
+\
+
+An exception is when there is significant uncertainty about the adequacy of microstaging (e.g., positive deep margins or limited sampling of a larger lesion).
 
 ## T1b Melanoma
 
-Stage IB (T1b): SLNB should be discussed and considered for melanomas \<0.8 mm thick with ulceration or 0.8-1.0 mm thick (with or without ulceration), as the probability of a positive sentinel node is 5-10%. For T1a lesions \>0.5 mm with other adverse features (age ≤42 years, head/neck location, lymphovascular invasion, and/or mitotic index ≥2/mm²), SLNB should also be discussed, with additive risk when multiple adverse features are present.
+Stage IB (T1b): SLNB should be considered for melanomas \<0.8 mm thick with ulceration or 0.8-1.0 mm thick (with or without ulceration), as the probability of a positive sentinel node is 5-10%. 
+
+\
+
+For T1a lesions \>0.5 mm with other adverse features (age ≤42 years, head/neck location, lymphovascular invasion, and/or mitotic index ≥2/mm²), SLNB should be considered
 
 ## Stage IB (T2a) or Stage II (Tb2+)
 
-SLNB should be discussed and offered for melanomas \>1.0 mm thick, as the probability of a positive sentinel node is generally \>10%. This includes intermediate-thickness melanomas (T2 or T3; 1.0-4.0 mm) where SLNB is recommended, and thick melanomas (T4; \>4.0 mm) where SLNB may be recommended after discussion of benefits and risks.
+SLNB should be offered for melanomas \>1.0 mm thick, as the probability of a positive sentinel node is generally \>10%. 
+This includes intermediate-thickness melanomas (T2 or T3; 1.0-4.0 mm) where SLNB is recommended, and thick melanomas (T4; \>4.0 mm) where SLNB may be recommended after discussion of benefits and risks.
+
+
+
+## MSLT-I Clinical trial
+
+2,001 patients with melanoma $\ge$ 1.0mm randomized 40:60:
+
+Wide Local Excision $\rightarrow$ Observation (with delayed completion node dissection)
+
+vs
+
+Wide Local Excision + SLNB (with immediate completion node dissection if positive)
+\
+No difference in melanoma-specific survival
+
+Slight improvement in disease-specific survival in intermediate and thick melanoma
+
+::: aside  
+[@morton599]
+:::
+
+
+## MSLT-I Clinical trial
+
+![](images/mslt-1_AB.png)
+  
+::: aside  
+[@morton599]
+:::
+
+## MSLT-I Clinical trial
+
+Overall 20% of patients had lymph node metastasis
+
+80% would not benefit from lymph node therapy
+
+Study was underpowered to detect a difference in melanoma-specific survival
+
+::: aside
+[@morton599]
+:::
+
+
+
 
 ## Excision Margins for Primary Melanoma
 
@@ -43,78 +90,123 @@ SLNB should be discussed and offered for melanomas \>1.0 mm thick, as the probab
 | \>2.0–4.0 mm (T3)     | 2 cm                                       |
 | \>4.0 mm (T4)         | 2 cm                                       |
 
-Sentinel Node Biopsy Indications
 
 ## Staging
 
 Node positive patients are staged with "PET/CT Whole Body." This is different from PET used for staging GI cancers, which is "PET/CT Skull Base to Mid Thigh"
 
+\
+
 High risk patients will need either MRI or CT of brain
+
+
 
 ## Treatment of Positive Sentinel Node
 
-Active nodal basin ultrasound or other radiographic surveillance without completion lymph node dissection (CLND) is now the preferred approach for patients with positive sentinel lymph node biopsy
+Active nodal basin ultrasound without completion lymph node dissection (CLND) is now the preferred approach for patients with positive sentinel lymph node biopsy
 
-surveillance should include nodal ultrasound every 4 months during the first 2 years, then every 6 months during years 3 through 5,
+Surveillance should include nodal ultrasound every 4 months during the first 2 years, then every 6 months during years 3 through 5, then annually
 
-. Sentinel Lymph Node Biopsy and Management of Regional Lymph Nodes in Melanoma: American Society of Clinical Oncology and Society of Surgical Oncology Clinical Practice Guideline Update. Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology. 2018. Wong SL, Faries MB, Kennedy EB, et al.
+:::aside
+[@wong399]
+:::
 
-## Sentinel Node Biopsy in Special Cases
-
-Pure desmoplastic melanoma (≥90% of invasive melanoma with prominent stromal fibrosis) has lower SLNB positivity rates, and the role of SLNB remains controversial in this subgroup. \[1\]
-
-SLNB may be considered for isolated in-transit metastasis or local recurrence without clinically or radiographically evident regional nodal or distant metastases, if it will affect adjuvant therapy decisions. \[1\]
-
-## MSLT-I Clinical trial
-
-[@morton599]
 
 ## MSLT-II Trial
 
-Patients with positive sentinel nodes were randomized to completion lymph node dissection vs observation (with periodic ultrasound of the draining node basin)
+1,934 Patients with positive sentinel nodes were randomized:
 
-No difference in overall survival
+Completion lymph node dissection 
+\
+vs
+\
+Observation (with periodic ultrasound of the draining node basin)
+\
+No difference in melanoma-specific survival
+
+No difference in metastasis-free survival
+
+Better disease-specific survival in CLND group (68% vs 63% at 3yrs)
+
+
 
 ::: aside
 [@faires2211]
 :::
 
-## DeCOG-SLT Trial
+## MSLT-II Trial
+
+1,934 Patients with positive sentinel nodes were randomized:
+
+
+Completion lymph node dissection 
+\
+vs
+\
+Observation (with periodic ultrasound of the draining node basin)
+\
+
+Non-sentinel lymph node metastasis was a negative prognostic factor
+
+Lymphedema 24% with CLND vs 6.3% with SLNB and observation
+
+Long-term: 80% of lymph node basins were free of nodal recurrence
+
 
 ::: aside
-[@faires2211]
+[@faires2211];[@crystal835]
 :::
+
+
+
+## Sentinel Node Biopsy for Pure Desomoplastic Melanoma
+
+Pure desmoplastic melanoma (≥90% of invasive melanoma with prominent stromal fibrosis) has lower SLNB positivity rates (6%)
+
+## Sentinel Node Biopsy for In-Transit Metastasis
+
+SLNB may be considered for isolated in-transit metastasis or local recurrence if it will affect adjuvant therapy decisions. 
+
 
 ## Stage III Treatment
 
 BRAF V600 tumor mutation testing
 
-IIIA - T1a/b-T2a N1a OR N2a: Obervation
+IIIA - T1a/b-T2a N1a OR N2a: Observation
 
 IIIB/C - Higher risk: adjuvant therapy
 
 ## Adjuvant Therapy - Stage IIIA
 
-For patients with very low tumor volume stage IIIA disease (T1a/b–T2a/N1a or N2a), observation is preferred for most patients, as the toxicity of adjuvant therapy may outweigh the benefit. \[1\] Patients with stage IIIA melanoma and SLN tumor deposits ≥0.3 mm in maximum dimension are at higher risk and may benefit from adjuvant systemic therapy, while those with deposits \<0.3 mm demonstrate 5-year melanoma-specific survival similar to stage IB disease.
+For patients with very low tumor volume stage IIIA disease (T1a/b–T2a/N1a or N2a), observation is preferred, as the toxicity of adjuvant therapy may outweigh the benefit. 
+
+Patients with stage IIIA melanoma and SLN tumor deposits ≥0.3 mm in maximum dimension are at higher risk and may benefit from adjuvant systemic therapy, while those with deposits \<0.3 mm demonstrate 5-year melanoma-specific survival similar to stage IB disease.
 
 ## Adjuvant Systemic Therapy - Stage III B/C
 
-The decision for adjuvant therapy should be individualized based on the patient's risk of recurrence and treatment toxicity.
 
-Nivolumab (Category 1) - studied in AJCC 7th Edition stage IIIB/C disease
+Nivolumab - effective in AJCC 7th Edition stage IIIB/C disease
 
-Pembrolizumab (Category 1) - tested in stage IIIA with SLN metastasis ≥1 mm or stage IIIB/C disease
+Pembrolizumab - effective in stage IIIA with SLN metastasis ≥1 mm or stage IIIB/C disease
 
-Dabrafenib/trametinib (Category 1) - for BRAF V600 mutation-positive melanoma
+Dabrafenib/trametinib - for BRAF V600 mutation-positive melanoma
 
-All three regimens have demonstrated clinical efficacy across AJCC 8th Edition stage III disease and are given for 12 months. \[1\] Anti-PD-1 therapy (nivolumab, pembrolizumab) has shown improved 5-year recurrence-free survival compared to placebo or ipilimumab. \[4-5\] For BRAF V600-mutant melanoma, dabrafenib/trametinib is an equally effective alternative to immunotherapy. \[4\]\[6\]
+\
 
-## Systemic Adjuvant Therapy
+Anti-PD-1 therapy (nivolumab, pembrolizumab) has shown improved 5-year recurrence-free survival compared to placebo or ipilimumab.  
 
-Systemic Therapy for Melanoma: ASCO Guideline Update. Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology. 2023. Seth R, Agarwala SS, Messersmith H, et al.Guideline
+BRAF V600-mutant melanoma, dabrafenib/trametinib is an equally effective alternative to immunotherapy. 
 
-# Orientation Manual
+:::aside
+[@seth4794]
+:::
+
+## Orientation Manual
 
 {{< qrcode https://gisurgonc.github.io/handbook width=500 height=500 >}}
 
-# References
+## References
+
+Cutaneous Melanoma. Lancet. 2023. Long GV, Swetter SM, Menzies AM, Gershenwald JE, Scolyer RA.
+
+Cutaneous Melanoma. The Journal of the American Medical Association. 2025. Joshi UM, Kashani-Sabet M, Kirkwood JM.
