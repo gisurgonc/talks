@@ -6853,11 +6853,18 @@
     "text": "V02max\nJack et al (Jack et al. 2014) studies VO2max before and after neoadjuvant chemoradiation prior to esophagectomy. Patients with lower baseline VO2max prior to surgery had lower 1-year survival after esophagectomy"
   },
   {
+    "objectID": "melanoma_talk.htm#melanoma-t-staging",
+    "href": "melanoma_talk.htm#melanoma-t-staging",
+    "title": "Melanoma",
+    "section": "Melanoma T Staging",
+    "text": "Melanoma T Staging\n\n\n\n\n\n\n\n\n\nT Category\nBreslow Thickness\nUlceration\nSLN Positivity\n\n\n\n\nTis\nIn situ\nN/A\n\n\n\nT1a\n0.8mm\nNo\n5%\n\n\nT1b\n0.8mm + ulceration or\n0.8.-1.0mm \\(\\pm\\) ulceration\n\n5-10%\n\n\nT2a\n&gt;1.0-2.0mm\nNo\n&gt;10%\n\n\nT2b\n&gt;1.0-2.0mm\nYes\n\n\n\nT4a\n&gt;2.0-4.0mm\nNo\n\n\n\nT4b\n&gt;2.0-4.0mm\nYes\n\n\n\nT2a\n&gt;4.0mm\nNo\n\n\n\nT2b\n&gt;4.0mm\nYes"
+  },
+  {
     "objectID": "melanoma_talk.htm#t1a-melanoma",
     "href": "melanoma_talk.htm#t1a-melanoma",
     "title": "Melanoma",
     "section": "T1a Melanoma",
-    "text": "T1a Melanoma\nStage IA (T1a): SLNB is not generally recommended for melanomas &lt;0.8 mm thick without ulceration or other adverse features, as the probability of a positive sentinel node is &lt;5%.\n\n\nAn exception is when there is significant uncertainty about the adequacy of microstaging (e.g., positive deep margins or limited sampling of a larger lesion)."
+    "text": "T1a Melanoma\nStage IA (T1a): SLNB is not generally recommended for melanomas &lt;0.8 mm thick without ulceration or other adverse features, as the probability of a positive sentinel node is &lt;5%.\nAn exception is when there is significant uncertainty about the adequacy of microstaging (e.g., positive deep margins or limited sampling of a larger lesion)."
   },
   {
     "objectID": "melanoma_talk.htm#t1b-melanoma",
@@ -6948,14 +6955,28 @@
     "href": "melanoma_talk.htm#stage-iii-treatment",
     "title": "Melanoma",
     "section": "Stage III Treatment",
-    "text": "Stage III Treatment\nBRAF V600 tumor mutation testing\nIIIA - T1a/b-T2a N1a OR N2a: Observation\nIIIB/C - Higher risk: adjuvant therapy"
+    "text": "Stage III Treatment\nBRAF V600 tumor mutation testing\nIIIA T1a/b-T2a N1a OR N2a: Observation\n\nSLN Tumor deposits $$0.3mm: Low risk (similar to Stage IB)\nSLN Tumor deposits $$0.3mm: Higher risk\n\nIIIB/C - Higher risk: Perioperative Systemic Therapy"
   },
   {
-    "objectID": "melanoma_talk.htm#adjuvant-therapy---stage-iiia",
-    "href": "melanoma_talk.htm#adjuvant-therapy---stage-iiia",
+    "objectID": "melanoma_talk.htm#nadina-trial-stage-iii-immunotherapy",
+    "href": "melanoma_talk.htm#nadina-trial-stage-iii-immunotherapy",
     "title": "Melanoma",
-    "section": "Adjuvant Therapy - Stage IIIA",
-    "text": "Adjuvant Therapy - Stage IIIA\nFor patients with very low tumor volume stage IIIA disease (T1a/b–T2a/N1a or N2a), observation is preferred, as the toxicity of adjuvant therapy may outweigh the benefit.\nPatients with stage IIIA melanoma and SLN tumor deposits ≥0.3 mm in maximum dimension are at higher risk and may benefit from adjuvant systemic therapy, while those with deposits &lt;0.3 mm demonstrate 5-year melanoma-specific survival similar to stage IB disease."
+    "section": "NADINA Trial STAGE III Immunotherapy",
+    "text": "NADINA Trial STAGE III Immunotherapy\n423 Patients with III melanoma randomized:\nNeoadjuvant ipilumimab + nivolumab x 2 \\(\\rightarrow\\) Surgery\nvs\nSurgery \\(\\rightarrow\\) Adjuvant nivolumab x 12\n\n\n(blank1696?)"
+  },
+  {
+    "objectID": "melanoma_talk.htm#nadina-trial---ipinivo-neoadjuvant-vs-adjuvant",
+    "href": "melanoma_talk.htm#nadina-trial---ipinivo-neoadjuvant-vs-adjuvant",
+    "title": "Melanoma",
+    "section": "NADINA Trial - Ipi/Nivo Neoadjuvant vs Adjuvant",
+    "text": "NADINA Trial - Ipi/Nivo Neoadjuvant vs Adjuvant\n ## NADINA Trial - Ipi/Nivo Neoadjuvant vs Adjuvant"
+  },
+  {
+    "objectID": "melanoma_talk.htm#nadina-trial---ipinivo-neoadjuvant-vs-adjuvant-1",
+    "href": "melanoma_talk.htm#nadina-trial---ipinivo-neoadjuvant-vs-adjuvant-1",
+    "title": "Melanoma",
+    "section": "NADINA Trial - Ipi/Nivo Neoadjuvant vs Adjuvant",
+    "text": "NADINA Trial - Ipi/Nivo Neoadjuvant vs Adjuvant"
   },
   {
     "objectID": "melanoma_talk.htm#adjuvant-systemic-therapy---stage-iii-bc",
