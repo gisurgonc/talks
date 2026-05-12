@@ -185,6 +185,8 @@ Neoadjuvant ipilumimab + nivolumab x 2 $\rightarrow$ Surgery\
 vs\
 Surgery $\rightarrow$ Adjuvant nivolumab x 12
 
+Neoadjuvant therapy: $\Rightarrow$ 59% major pathologic response $\rightarrow$ 90% 3yr relapse-free survival
+
 ::: aside
 [@blank1696]
 :::
