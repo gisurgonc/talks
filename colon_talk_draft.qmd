@@ -27,7 +27,7 @@ bibliography: zotero.bib
 
 ## GI Stromal Tumors
 
-[Pathophysiology]
+[Carcinomatosis from Colon Cancer]
 
 | Category               |   Stage    | Treatment                  |
 |------------------------|:----------:|:---------------------------|
@@ -41,8 +41,31 @@ bibliography: zotero.bib
 [@schaefer1]
 :::
 
-## Pathophysiology
+## Carcinomatosis from Colon Cancer
 
+Efficacy of HIPEC = $\function$ (Histology, completeness of cytoreduction, prior surgery score (PSS), PIC) T stage of tumor is not important
+
+
+## HPIEC morbidity
+
+Function of age >60, ECOG, hyopalbumenia, PCI score, number of bowel resections, diagphragm involvement, distal pancreatectomy
+
+## HIPEC Exclusion
+
+Laparoscopy prior to HIPEC. Exclusions for HIPEC:
+
+- Large-volume carcinomatosis with PCI>20
+- Extensive involvement of small bowel mesentery or serosa
+- Extensive porta hepatis involvement
+- Long-segment ureteral involvement
+- Multipe intrahepatic parenchymal liver nodules
+
+
+
+
+## HIPEC for T4 tumors
+
+HIPECT4 trial shows improvement in local control with HIPEC but no change in DFS or OS
 ::::: columns
 ::: {.column width="50%"}
 Origin with bowel wall stomach- small intestine - colon - esophagus
@@ -56,6 +79,11 @@ Tyrosine kinase gain of function mutations - KIT2 - PDGRFA3 Genetic inactivation
 ::: aside
 [@shaheen2277]
 :::
+
+## Exenteration
+
+Para-aortic node involvement is contraindication
+
 
 ## Rapido Trial
 
@@ -85,12 +113,12 @@ Consolidation Chemotherapy
 
 ## EORTC 22921
 
--   Bossset Lancet Oncol p 184 2014
+- Bossset Lancet Oncol p 184 2014
 
 ## Prodige 23
 
--   PHase 3 RCT n=461
--   mFOLFIRINOX -\> CRT -\> Surgery -\> Adjuvant Chemo
+- PHase 3 RCT n=461
+- mFOLFIRINOX -\> CRT -\> Surgery -\> Adjuvant Chemo
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
@@ -98,9 +126,9 @@ Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
 Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with \[PET Scan\]
 
--   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
--   Metastatic disease $\rightarrow$ [Metastatic]
--   N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
+- Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced]
+- Metastatic disease $\rightarrow$ [Metastatic]
+- N3 $\rightarrow$ induction chemotherapy followed by chemoradiation and surgical evaluation.
 
 ## ACOSOG ZZ9001
 
@@ -134,18 +162,18 @@ Genetic mutations can predict respoinse to imatinib [^1]
 
 For patients with locally-advanced esophageal cancer, improved survival with adjunctive therapy. There are two options:
 
--   ChemoRT $\rightarrow$ Surgery (\[CROSS Trial\])
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
+- ChemoRT $\rightarrow$ Surgery (\[CROSS Trial\])
+- Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial])
 
 ## Positive Margins
 
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   median age=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
+- 368 esophageal cancer patients randomized:
+  - Surgery alone
+  - Chemo+RT $\rightarrow$ Surgery
+- 75% adenocarcinoma
+- T3: 80%. T2: 17%
+- median age=60
+- longer survival with Chemo+RT $\rightarrow$ Surgery
 
 ::: aside
 Gronchi JAMA Surg 2020
@@ -153,13 +181,13 @@ Gronchi JAMA Surg 2020
 
 ## Imatinib 1yr vs 3 yr
 
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   median age=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
+- 368 esophageal cancer patients randomized:
+  - Surgery alone
+  - Chemo+RT $\rightarrow$ Surgery
+- 75% adenocarcinoma
+- T3: 80%. T2: 17%
+- median age=60
+- longer survival with Chemo+RT $\rightarrow$ Surgery
 
 ::: aside
 Joensuu JAMA Oncology 2020
@@ -167,13 +195,13 @@ Joensuu JAMA Oncology 2020
 
 ## Wild-Type GIST
 
--   SDH-Deficient
-    -   SDHx mutation
-    -   SDH wild-type
-    -   Associated with Carney-Stratakis syndrome
--   No SDH Deficiency
-    -   NF1-GIST
-    -   Sporadic Wild-Type GIST
+- SDH-Deficient
+  - SDHx mutation
+  - SDH wild-type
+  - Associated with Carney-Stratakis syndrome
+- No SDH Deficiency
+  - NF1-GIST
+  - Sporadic Wild-Type GIST
 
 ::: aside
 Weldon JCS 2017
@@ -181,9 +209,9 @@ Weldon JCS 2017
 
 ## NF1-associated GIST
 
--   Multicentric (33%)
--   Median age 46
--   Small bowel \>\> Duodenum \>\> Stomach
+- Multicentric (33%)
+- Median age 46
+- Small bowel \>\> Duodenum \>\> Stomach
 
 ::: aside
 Weldon JCS 2017
@@ -281,10 +309,10 @@ Adjuvant nivolumab group had better survival
 
 ## Neoadjuvant Chemo for EsoCA
 
--   MAGIC trial (gastric): ECF[^2]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
--   OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^3]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
--   EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
+- MAGIC trial (gastric): ECF[^2]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+- OEO2 Trial: (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
+- FLOT (gastric): FLOT[^3]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+- EsoPEC: (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
 
 [^2]: Epirubicin, Cisplatin, 5FU
 
@@ -292,13 +320,13 @@ Adjuvant nivolumab group had better survival
 
 ## OEO2 Clinical Trial
 
--   802 Esophageal adenocarcinoma and squamous cell
+- 802 Esophageal adenocarcinoma and squamous cell
 
--   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
+- Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
 
--   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
+- Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
 
--   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
+- 5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
 
 ::: aside
 [@allum5062]
@@ -306,17 +334,17 @@ Adjuvant nivolumab group had better survival
 
 ## EsoPEC Trial
 
--   Esophageal cancer
+- Esophageal cancer
 
--   Randomized to CROSS vs FLOT
+- Randomized to CROSS vs FLOT
 
--   Better survival with FLOT
+- Better survival with FLOT
 
 ## Metastatic
 
 FOLFOX is first-line systemic therapy for metastatic GI cancers
 
--   Dose-limiting toxicity is frequently peripheral neuropathy
+- Dose-limiting toxicity is frequently peripheral neuropathy
 
 # Orientation Manual
 
