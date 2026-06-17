@@ -169,6 +169,10 @@ No recurrence of disease at median follow up of 26 months
 [@chalabi1949]
 :::
 
+## KRAS and BRAF
+
+Don't respond to cetuximab and panitumimab
+
 ## Adjuvant Therapy Stage II MMR-deficient Colon Cancer
 
 ASCO: No benefit of treatment of stage II dMMR colon cancer with 5-FU alone
@@ -184,6 +188,16 @@ Ppooled analyses showing no difference in disease-free survival (HR 0.89, 95% CI
 Oxaliplatin-based chemotherapy (FOLFOX or CapeOX) and atezolizumab (Tecentriq)
 
 ATOMIC trial: atezolizumab + mFOLFOX6 is superior to mFOLFOX6 alone, with a 3-year disease-free survival rate of 86.4% versus 76.6% (hazard ratio 0.50, P .0001)
+
+## Cancer in Lynch Syndrome
+
+45 year old with ascending colon cancer with Lynch. OPtions:
+
+- Neoadjuvant Chemo followed by right hemi
+- Right hemi followed by adjuvant 5FU leucovorin
+- Total proctocolectomy with end ileostomy
+- Total proctocolectomy with ileoanal pouch
+- **Total abdominal colectomy with ileorectal anastomotis**
 
 ## FAP screening
 
