@@ -30,7 +30,26 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-7a9cc40e00d4dfb0d1e3152c0c1a109a.css">
   <link rel="stylesheet" href="lci_styles.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -136,19 +155,124 @@
 </div>
 
 </section>
-<section class="slide level2">
-
-<h3 id="gastric-cancer-a-comprehensive-overview-for-medical-students">Gastric Cancer: A Comprehensive Overview for Medical Students</h3>
-</section>
-<section id="slide-1-title-slide" class="slide level2">
-<h2>SLIDE 1: Title Slide</h2>
-<p><strong>Gastric Cancer: A Comprehensive Overview</strong></p>
+<section id="epidemiology" class="slide level2">
+<h2>Epidemiology</h2>
 <ul>
 <li>5th most common cancer worldwide</li>
 <li>5th leading cause of cancer death globally</li>
 <li>~968,350 new cases and ~659,853 deaths worldwide (2022)</li>
 <li>~30,300 new cases and ~10,780 deaths in the US (2025)</li>
 </ul>
+</section>
+<section id="global-epidemiologyu" class="slide level2">
+<h2>Global Epidemiologyu</h2>
+<ul>
+<li><strong>Incidence hotspots:</strong> East Asia, Eastern Europe, South America</li>
+<li>Incidence 2× higher in males than females</li>
+<li>Median age at diagnosis: <strong>68 years</strong></li>
+<li>Globally, 85% of cases in stomach body or antrum; 15% inthe cardia</li>
+<li>In North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases</li>
+<li>Overall incidence declining over the past century -improved food preservation
+<ul>
+<li>declining H. pylori prevalence</li>
+</ul></li>
+</ul>
+</section>
+<section id="gastric-cancer-treatment-categories" class="slide level2">
+<h2>Gastric Cancer Treatment Categories</h2>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Category</th>
+<th>AJCC</th>
+<th style="text-align: center;">Stage</th>
+<th style="text-align: left;">Treatment</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="#/superficial">Superficial Tumors</a></td>
+<td>I</td>
+<td style="text-align: center;">T1a</td>
+<td style="text-align: left;">Endoscopic Therapy</td>
+</tr>
+<tr class="even">
+<td><a href="#/localized">Localized Tumors</a></td>
+<td>IIB</td>
+<td style="text-align: center;">T1b T2</td>
+<td style="text-align: left;">Surgery</td>
+</tr>
+<tr class="odd">
+<td><a href="#/local_advanced">Locally-advanced</a></td>
+<td>III<br>
+IIA</td>
+<td style="text-align: center;">T3 or N<sup>+</sup></td>
+<td style="text-align: left;">Chemo → Surgery→ Chemo</td>
+</tr>
+<tr class="even">
+<td><a href="#/metastatic">Metastatic</a></td>
+<td>IVB</td>
+<td style="text-align: center;">M1</td>
+<td style="text-align: left;">Chemotherapy <span class="math inline">\(\pm\)</span>Radiation</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="superficial" class="slide level2">
+<h2>Superficial Gastric Cancer</h2>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p>127 patients with dysplasia randomized:</p>
+<ul>
+<li>Radio-frequency ablation</li>
+<li>Sham ablation</li>
+</ul>
+<p>Low-grade dysplasia in 64</p>
+<p>High-grade dysplasia in 63</p>
+</div><div class="column" style="width:40%;">
+<p><img data-src="images/rfa_esophagus.png"> <img data-src="images/barxx.png" alt="Barxx"></p>
+</div></div>
+
+<aside><div>
+<p><span class="citation" data-cites="shaheen2277">(<a href="#/references" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="radiofrequency-ablation-for-dysplasia" class="slide level2">
+<h2>Radiofrequency Ablation for Dysplasia</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p>Radiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year</p>
+</div><div class="column" style="width:70%;">
+<p><img data-src="images/shaheen.png"></p>
+</div></div>
+<p>No role for primary surgery in high-grade dysplasia</p>
+
+<aside><div>
+<p><span class="citation" data-cites="shaheen2277">(<a href="#/references" role="doc-biblioref" onclick="">Shaheen et al. 2009</a>)</span></p>
+</div></aside></section>
+<section id="superficial" class="slide level2">
+<h2>Superficial Tumors (T1)</h2>
+<p>Workup of nodular Barretts:</p>
+<ul>
+<li>Endoscopic Ultrasound</li>
+<li>Endoscopic Mucosal Resection
+<ul>
+<li>Diagnostic (T staging)</li>
+<li>May be therapeutic for T1a tumors</li>
+</ul></li>
+</ul>
+</section>
+<section id="endoscopic-musocal-resection-for-t1-tumors" class="slide level2">
+<h2>Endoscopic Musocal Resection for T1 Tumors</h2>
+
+<img data-src="images/EMR.jpg" class="quarto-figure quarto-figure-right r-stretch"></section>
+<section id="endoscopic-submucosal-dissection-for-t1at1b" class="slide level2">
+<h2>Endoscopic Submucosal Dissection for T1a/T1b</h2>
+<p>Endoscopic resection uses needle-knife to dissect <em>below</em> submucosa</p>
+<p>Maybe suitable for T1b lesions <em>if</em> lesion is completely resected</p>
+<p>Risk of perforation</p>
+</section>
+<section id="localized" class="slide level2">
+<h2>Localized Tumors (T2 N0)</h2>
 </section>
 <section id="slide-2-learning-objectives" class="slide level2">
 <h2>SLIDE 2: Learning Objectives</h2>
@@ -165,13 +289,10 @@
 </section>
 <section id="slide-3-epidemiology-global-perspective" class="slide level2">
 <h2>SLIDE 3: Epidemiology — Global Perspective</h2>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
 <ul>
-<li><strong>Incidence hotspots:</strong> East Asia, Eastern Europe, South America</li>
-<li>Incidence 2× higher in males than females</li>
-<li>Median age at diagnosis: <strong>68 years</strong></li>
-<li>Globally, 85% of cases arise from the stomach body or antrum; 15% from the cardia</li>
-<li>In North America/Western Europe, cardia/GEJ tumors comprise 30%–40% of cases</li>
-<li>Overall incidence declining over the past century (improved food preservation, declining H. pylori prevalence)</li>
 <li>**Rising incidence in patients FeatureIntestinal Type (~50%)Diffuse Type (~30%)Mixed (~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate</li>
 <li>Signet ring cell histology portends resistance to systemic therapy and poor prognosis</li>
 <li>Laurén classification remains the most commonly used for subgroup analyses in clinical trials</li>
@@ -426,12 +547,17 @@
 <p><strong>Q5:</strong> A 35-year-old woman is found to carry a CDH1 germline mutation. What is the recommended management?</p>
 <p>→ Genetic counseling and consideration of prophylactic total gastrectomy</p>
 </section>
-<section id="references" class="slide level2">
+<section id="references" class="slide level2 smaller scrollable">
 <h2>References</h2>
-<p>Gastric Cancer: Review <span class="citation" data-cites="patel439">(<a href="" role="doc-biblioref" onclick="return false;"><strong>patel439?</strong></a>)</span></p>
-<p>Gastric Cancer <span class="citation" data-cites="smyth635">(<a href="" role="doc-biblioref" onclick="return false;"><strong>smyth635?</strong></a>)</span></p>
+<p>Gastric Cancer: Review <span class="citation" data-cites="patel439">(<a href="#/references" role="doc-biblioref" onclick=""><strong>patel439?</strong></a>)</span></p>
+<p>Gastric Cancer <span class="citation" data-cites="smyth635">(<a href="#/references" role="doc-biblioref" onclick=""><strong>smyth635?</strong></a>)</span></p>
 
 
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-shaheen2277" class="csl-entry" role="listitem">
+Shaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, et al. 2009. <span>“Radiofrequency Ablation in <span>Barrett</span>’s Esophagus with Dysplasia.”</span> <em>The New England Journal of Medicine</em> 360 (22): 2277–88. <a href="https://doi.org/10.1056/NEJMoa0808145">https://doi.org/10.1056/NEJMoa0808145</a>.
+</div>
+</div>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">

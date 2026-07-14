@@ -3119,7 +3119,7 @@
     "href": "eso_ca_rx_talk.htm#cross-surgery-vs-chemort-rightarrowsurgery",
     "title": "Esophageal Cancer Treatment",
     "section": "CROSS Surgery vs ChemoRT \\(\\rightarrow\\)Surgery",
-    "text": "CROSS Surgery vs ChemoRT \\(\\rightarrow\\)Surgery\n\n\n\n\nSurgeruy\nCRT\\(\\rightarrow\\)Surgery\n\n\n\n\n\nTime to Surgery\n24d\n97d\n\n\n\nUnresectable\n13%\n4%\np=0.002\n\n\nR0 Resection\n92%\n69%\np&lt;0.001\n\n\nPositive Nodes\n75%\n31%\n\n\n\nComplications\n~\n~\n\n\n\nMortality\n~\n~"
+    "text": "CROSS Surgery vs ChemoRT \\(\\rightarrow\\)Surgery\n\n\n\n\nSurgery\nCRT\\(\\rightarrow\\)Surgery\n\n\n\n\n\nTime to Surgery\n24d\n97d\n\n\n\nUnresectable\n13%\n4%\np=0.002\n\n\nR0 Resection\n92%\n69%\np&lt;0.001\n\n\nPositive Nodes\n75%\n31%\n\n\n\nComplications\n~\n~\n\n\n\nMortality\n~\n~"
   },
   {
     "objectID": "eso_ca_rx_talk.htm#cross---overall-survival",
@@ -5775,11 +5775,60 @@
     "text": "Undertreatment of Elderly\nSurgery for colorectal cancer in elderly patients: a systematic review. Colorectal Cancer Collaborative Group. Lancet. 2000;356:968–974\nSchrag D, Cramer LD, Bach PB, Begg CB. Age and adjuvant chemotherapy use after surgery for stage III colon cancer. J Natl Cancer Inst. 2001;93:850–857\nPotosky AL, Harlan LC, Kaplan RS, Johnson KA, Lynch CF. Age, sex, and racial differences in the use of standard adjuvant therapy for colorectal cancer. J Clin Oncol. 2002;20:1192–1202.\nSundararajan V, Mitra N, Jacobson JS, Grann VR, Heitjan DF, Neugut AI. Survival associated with 5-fluorouracil-based adjuvant chemotherapy among elderly patients with node-positive colon cancer. Ann Intern Med. 2002;136:349–357\nJessup JM, Stewart A, Greene FL, Minsky BD. Adjuvant chemotherapy for stage III colon cancer: implications of race/ethnicity, age, and differentiation. JAMA. 2005;294:2703–2711.\n110 CRC patients over age 75: only 6/23 received adjuvant chemotherapy. Out of 18 patients with stage IV disease, only 3 received palliative chemotherapy. Aparicio T, Navazesh A, Boutron I, Bouarioua N, Chosidow D, Mion M, Choudat L, Sobhani I, Mentré F, Soulé JC. Half of elderly patients routinely treated for colorectal cancer receive a sub-standard treatment. Crit Rev Oncol Hematol. 2009;71:249–257\nAdjuvant chemotherapy for stage III colon cancer appears to be efficacious in the elderly: Iwashyna TJ, Lamont EB. Effectiveness of adjuvant fluorouracil in clinical practice: a population-based cohort study of elderly patients with stage III colon cancer. J Clin Oncol. 2002;20:3992–3998\nAge and oncologist decisions (Foster et al., 2010)\nAge and comorbidity affect recommendations for chemotherapy in stage III colon cancer - more variability of recommendation for older patients(Keating et al., 2008)"
   },
   {
-    "objectID": "gastric_ca_overview.htm#slide-1-title-slide",
-    "href": "gastric_ca_overview.htm#slide-1-title-slide",
+    "objectID": "gastric_ca_overview.htm#epidemiology",
+    "href": "gastric_ca_overview.htm#epidemiology",
     "title": "Gastric Cancer",
-    "section": "SLIDE 1: Title Slide",
-    "text": "SLIDE 1: Title Slide\nGastric Cancer: A Comprehensive Overview\n\n5th most common cancer worldwide\n5th leading cause of cancer death globally\n~968,350 new cases and ~659,853 deaths worldwide (2022)\n~30,300 new cases and ~10,780 deaths in the US (2025)"
+    "section": "Epidemiology",
+    "text": "Epidemiology\n\n5th most common cancer worldwide\n5th leading cause of cancer death globally\n~968,350 new cases and ~659,853 deaths worldwide (2022)\n~30,300 new cases and ~10,780 deaths in the US (2025)"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#global-epidemiologyu",
+    "href": "gastric_ca_overview.htm#global-epidemiologyu",
+    "title": "Gastric Cancer",
+    "section": "Global Epidemiologyu",
+    "text": "Global Epidemiologyu\n\nIncidence hotspots: East Asia, Eastern Europe, South America\nIncidence 2× higher in males than females\nMedian age at diagnosis: 68 years\nGlobally, 85% of cases in stomach body or antrum; 15% inthe cardia\nIn North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases\nOverall incidence declining over the past century -improved food preservation\n\ndeclining H. pylori prevalence"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#gastric-cancer-treatment-categories",
+    "href": "gastric_ca_overview.htm#gastric-cancer-treatment-categories",
+    "title": "Gastric Cancer",
+    "section": "Gastric Cancer Treatment Categories",
+    "text": "Gastric Cancer Treatment Categories\n\n\n\nCategory\nAJCC\nStage\nTreatment\n\n\n\n\nSuperficial Tumors\nI\nT1a\nEndoscopic Therapy\n\n\nLocalized Tumors\nIIB\nT1b T2\nSurgery\n\n\nLocally-advanced\nIII\nIIA\nT3 or N+\nChemo → Surgery→ Chemo\n\n\nMetastatic\nIVB\nM1\nChemotherapy \\(\\pm\\)Radiation"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#superficial",
+    "href": "gastric_ca_overview.htm#superficial",
+    "title": "Gastric Cancer",
+    "section": "Superficial Tumors (T1)",
+    "text": "Superficial Tumors (T1)\nWorkup of nodular Barretts:\n\nEndoscopic Ultrasound\nEndoscopic Mucosal Resection\n\nDiagnostic (T staging)\nMay be therapeutic for T1a tumors"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#radiofrequency-ablation-for-dysplasia",
+    "href": "gastric_ca_overview.htm#radiofrequency-ablation-for-dysplasia",
+    "title": "Gastric Cancer",
+    "section": "Radiofrequency Ablation for Dysplasia",
+    "text": "Radiofrequency Ablation for Dysplasia\n\n\nRadiofrequency Ablation results in eradication of Barrett’s in 75% at 1 year\n\n\n\nNo role for primary surgery in high-grade dysplasia\n\n\n(Shaheen et al. 2009)"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#endoscopic-musocal-resection-for-t1-tumors",
+    "href": "gastric_ca_overview.htm#endoscopic-musocal-resection-for-t1-tumors",
+    "title": "Gastric Cancer",
+    "section": "Endoscopic Musocal Resection for T1 Tumors",
+    "text": "Endoscopic Musocal Resection for T1 Tumors"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#endoscopic-submucosal-dissection-for-t1at1b",
+    "href": "gastric_ca_overview.htm#endoscopic-submucosal-dissection-for-t1at1b",
+    "title": "Gastric Cancer",
+    "section": "Endoscopic Submucosal Dissection for T1a/T1b",
+    "text": "Endoscopic Submucosal Dissection for T1a/T1b\nEndoscopic resection uses needle-knife to dissect below submucosa\nMaybe suitable for T1b lesions if lesion is completely resected\nRisk of perforation"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#localized",
+    "href": "gastric_ca_overview.htm#localized",
+    "title": "Gastric Cancer",
+    "section": "Localized Tumors (T2 N0)",
+    "text": "Localized Tumors (T2 N0)"
   },
   {
     "objectID": "gastric_ca_overview.htm#slide-2-learning-objectives",
@@ -5793,7 +5842,14 @@
     "href": "gastric_ca_overview.htm#slide-3-epidemiology-global-perspective",
     "title": "Gastric Cancer",
     "section": "SLIDE 3: Epidemiology — Global Perspective",
-    "text": "SLIDE 3: Epidemiology — Global Perspective\n\nIncidence hotspots: East Asia, Eastern Europe, South America\nIncidence 2× higher in males than females\nMedian age at diagnosis: 68 years\nGlobally, 85% of cases arise from the stomach body or antrum; 15% from the cardia\nIn North America/Western Europe, cardia/GEJ tumors comprise 30%–40% of cases\nOverall incidence declining over the past century (improved food preservation, declining H. pylori prevalence)\n**Rising incidence in patients FeatureIntestinal Type (~50%)Diffuse Type (~30%)Mixed (~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate\nSignet ring cell histology portends resistance to systemic therapy and poor prognosis\nLaurén classification remains the most commonly used for subgroup analyses in clinical trials"
+    "text": "SLIDE 3: Epidemiology — Global Perspective"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#section",
+    "href": "gastric_ca_overview.htm#section",
+    "title": "Gastric Cancer",
+    "section": "",
+    "text": "**Rising incidence in patients FeatureIntestinal Type (~50%)Diffuse Type (~30%)Mixed (~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate\nSignet ring cell histology portends resistance to systemic therapy and poor prognosis\nLaurén classification remains the most commonly used for subgroup analyses in clinical trials"
   },
   {
     "objectID": "gastric_ca_overview.htm#slide-8-molecular-classification-tcga-subtypes",
@@ -5898,7 +5954,7 @@
     "href": "gastric_ca_overview.htm#references",
     "title": "Gastric Cancer",
     "section": "References",
-    "text": "References\nGastric Cancer: Review (patel439?)\nGastric Cancer (smyth635?)"
+    "text": "References\nGastric Cancer: Review (patel439?)\nGastric Cancer (smyth635?)\n\n\n\n\nShaheen, Nicholas J., Prateek Sharma, Bergein F. Overholt, et al. 2009. “Radiofrequency Ablation in Barrett’s Esophagus with Dysplasia.” The New England Journal of Medicine 360 (22): 2277–88. https://doi.org/10.1056/NEJMoa0808145."
   },
   {
     "objectID": "gastric_cdh1.htm#hereditary-diffuse-gastric-cancer",

@@ -22,22 +22,22 @@ bibliography: zotero.bib
 
 ## Esophageal Cancer Treatment Categories
 
-+-------------------------------------+------+------------+-----------------------------+
-| Category                            | AJCC | Stage      | Treatment                   |
-+=====================================+======+:==========:+:============================+
-| [High-grade Dyplasia](#dysplasia)   | 0    | Tis        | Radiofrequency Ablation     |
-+-------------------------------------+------+------------+-----------------------------+
-| [Superficial Tumors](#superficial)  | I    | T1a        | Endoscopic Therapy          |
-+-------------------------------------+------+------------+-----------------------------+
-| [Localized Tumors](#localized)      | IIB  | T1b T2     | Surgery                     |
-+-------------------------------------+------+------------+-----------------------------+
-| [Locally-advanced](#local_advanced) | III\ | T3 or N^+^ | Chemo $\pm$ RT → Surgery    |
-|                                     | IIA  |            |                             |
-+-------------------------------------+------+------------+-----------------------------+
-| [Extra-Regional](#extra_regional)   | IVA  | N3         | Chemo→ ChemoRT→ Surgery     |
-+-------------------------------------+------+------------+-----------------------------+
-| [Metastatic](#metastatic)           | IVB  | M1         | Chemotherapy $\pm$Radiation |
-+-------------------------------------+------+------------+-----------------------------+
++-------------------------------------+-----------+------------+-----------------------------+
+| Category                            | AJCC      | Stage      | Treatment                   |
++=====================================+===========+:==========:+:============================+
+| [High-grade Dyplasia](#dysplasia)   | 0         | Tis        | Radiofrequency Ablation     |
++-------------------------------------+-----------+------------+-----------------------------+
+| [Superficial Tumors](#superficial)  | I         | T1a        | Endoscopic Therapy          |
++-------------------------------------+-----------+------------+-----------------------------+
+| [Localized Tumors](#localized)      | IIB       | T1b T2     | Surgery                     |
++-------------------------------------+-----------+------------+-----------------------------+
+| [Locally-advanced](#local_advanced) | III\      | T3 or N^+^ | Chemo $\pm$ RT → Surgery    |
+|                                     | IIA       |            |                             |
++-------------------------------------+-----------+------------+-----------------------------+
+| [Extra-Regional](#extra_regional)   | IVA       | N3         | Chemo→ ChemoRT→ Surgery     |
++-------------------------------------+-----------+------------+-----------------------------+
+| [Metastatic](#metastatic)           | IVB       | M1         | Chemotherapy $\pm$Radiation |
++-------------------------------------+-----------+------------+-----------------------------+
 
 ## High-grade Dyplasia =\> Radiofrequency Ablation {#dysplasia}
 
@@ -45,8 +45,8 @@ bibliography: zotero.bib
 ::: {.column width="60%"}
 127 patients with dysplasia randomized:
 
--   Radio-frequency ablation
--   Sham ablation
+- Radio-frequency ablation
+- Sham ablation
 
 Low-grade dysplasia in 64
 
@@ -84,10 +84,10 @@ No role for primary surgery in high-grade dysplasia
 
 Workup of nodular Barretts:
 
--   Endoscopic Ultrasound
--   Endoscopic Mucosal Resection
-    -   Diagnostic (T staging)
-    -   May be therapeutic for T1a tumors
+- Endoscopic Ultrasound
+- Endoscopic Mucosal Resection
+  - Diagnostic (T staging)
+  - May be therapeutic for T1a tumors
 
 ## Endoscopic Musocal Resection for T1 Tumors
 
@@ -105,14 +105,14 @@ Risk of perforation
 
 Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 
--   EUS has a 25% rate of understaging uT2 N0 tumors
--   Understaged patients who undergo primary surgery would need chemo or chemoRT postop
+- EUS has a 25% rate of understaging uT2 N0 tumors
+- Understaged patients who undergo primary surgery would need chemo or chemoRT postop
 
 ## Asymptomatic Tumors (minimal dysphagia)
 
--   EUS to distinguish T2 from T3 tumors
--   If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
--   If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
+- EUS to distinguish T2 from T3 tumors
+- If uT2 N0 $\rightarrow$ CT chest/abdomen/pelvis $\rightarrow$ Esophagectomy
+- If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
@@ -120,16 +120,16 @@ Patients with dysphagia almost always are T3 tumors (and don't need EUS)
 
 Patients with dysphagia to solids or weight loss or tumor length \>3cm are unlikely to have T1-2 tumors and can be initially evaluated with [PET Scan]
 
--   Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced](#local_advanced)
--   Metastatic disease $\rightarrow$ [Metastatic](#metastatic)
--   N3 $\rightarrow$ [Extra-Regional](#extra_regional)
+- Disease confined to the esophagus and regional nodes $\rightarrow$ [Locally-advanced](#local_advanced)
+- Metastatic disease $\rightarrow$ [Metastatic](#metastatic)
+- N3 $\rightarrow$ [Extra-Regional](#extra_regional)
 
 ## EUS in Patients with Dysphagia
 
 Memorial Sloan Kettering patients with esophageal cancer:
 
--   61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
--   53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
+- 61 with dysphagia, 54 (89%) were found on EUS to have uT3-4 tumors.
+- 53 without dysphagia, 25 (47%) were uT1-2 $\rightarrow$ candidates for primary surgery.
 
 EUS can be omitted for patients with dysphagia
 
@@ -150,15 +150,15 @@ PET has more specificity and sensitivity than CT in detecting regional lymph nod
 
 Improved survival with adjunctive therapy. There are two options:
 
--   ChemoRT $\rightarrow$ Surgery ([CROSS Trial](#CROSS))
--   Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial](#EsoPEC))
+- ChemoRT $\rightarrow$ Surgery ([CROSS Trial](#CROSS))
+- Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo ([EsoPEC Trial](#EsoPEC))
 
 ## CROSS Surgery vs ChemoRT $\rightarrow$Surgery {#CROSS}
 
 368 esophageal cancer patients randomized:
 
--   Surgery alone
--   Chemo+RT $\rightarrow$ Surgery
+- Surgery alone
+- Chemo+RT $\rightarrow$ Surgery
 
 75% adenocarcinoma. T3: 80% T2: 17%. age $\tilde{x}$=60
 
@@ -174,7 +174,7 @@ Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 
 ## CROSS Surgery vs ChemoRT $\rightarrow$Surgery
 
-|                 | Surgeruy | CRT$\rightarrow$Surgery |          |
+|                 | Surgery | CRT$\rightarrow$Surgery |          |
 |-----------------|:--------:|:-----------------------:|----------|
 | Time to Surgery |   24d    |           97d           |          |
 | Unresectable    |   13%    |           4%            | p=0.002  |
@@ -203,13 +203,13 @@ Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 
 Adenocarcinoma
 
--   Median survival 43mo vs 27mo
--   Pathologic complete response in 23%
+- Median survival 43mo vs 27mo
+- Pathologic complete response in 23%
 
 Squmous Cell Carcinoma
 
--   Median survival 82mo vs 21mo
--   Pathologic complete response in 49%
+- Median survival 82mo vs 21mo
+- Pathologic complete response in 49%
 
 [Surgical Therapy of Squamous Cell](#surgery_squamous)
 
@@ -279,13 +279,13 @@ $\Rightarrow$ Can chemotherapy reduce risk of distant failure?
 
 **Adenocarcinoma** esophagus and GE junction
 
--   T1 N+ or T2-4a M0. Median age =63. 89% men
+- T1 N+ or T2-4a M0. Median age =63. 89% men
 
 Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221)
 
--   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
+- CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
 
--   FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
+- FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
 
 Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
@@ -295,20 +295,20 @@ Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ## EsoPEC: FLOT superior to CROSS
 
-+----------------------+--------------+---------+---+--------------+
-|                      | FLOT\        | CROSS\  |   | CROSS Trial\ |
-|                      | Periop Chemo | ChemoRT |   | ChemoRT      |
-+======================+==============+=========+===+==============+
-| 90d Mortality        | 3.2%         | 5.6%    |   |              |
-+----------------------+--------------+---------+---+--------------+
-| $\tilde{x}$ Survival | 66mo         | 37mo    |   | 43mo         |
-+----------------------+--------------+---------+---+--------------+
-| 3year Survival       | 57%          | 51%     |   | 58%          |
-+----------------------+--------------+---------+---+--------------+
-| 5year Survival       | 51%          | 29%     |   | 47%          |
-+----------------------+--------------+---------+---+--------------+
-| path CR              | 17%          | 10%     |   | 23%          |
-+----------------------+--------------+---------+---+--------------+
++----------------------+--------------+-----------+-----------+--------------+
+|                      | FLOT\        | CROSS\    |           | CROSS Trial\ |
+|                      | Periop Chemo | ChemoRT   |           | ChemoRT      |
++======================+==============+===========+===========+==============+
+| 90d Mortality        | 3.2%         | 5.6%      |           |              |
++----------------------+--------------+-----------+-----------+--------------+
+| $\tilde{x}$ Survival | 66mo         | 37mo      |           | 43mo         |
++----------------------+--------------+-----------+-----------+--------------+
+| 3year Survival       | 57%          | 51%       |           | 58%          |
++----------------------+--------------+-----------+-----------+--------------+
+| 5year Survival       | 51%          | 29%       |           | 47%          |
++----------------------+--------------+-----------+-----------+--------------+
+| path CR              | 17%          | 10%       |           | 23%          |
++----------------------+--------------+-----------+-----------+--------------+
 
 See also [Neoadjuvant Chemo](#NeoadjuvantChemo)
 
@@ -320,9 +320,9 @@ See also [Neoadjuvant Chemo](#NeoadjuvantChemo)
 
 Squamous Cell Carcinoma of the esophagus
 
--   responds well to chemo+RT
--   more difficult to get a surgical margin on the airway
--   additional benefit of surgery on top of chemoRT is uncertain
+- responds well to chemo+RT
+- more difficult to get a surgical margin on the airway
+- additional benefit of surgery on top of chemoRT is uncertain
 
 ## Squamous Cell: ChemoRT $\pm$ Surgery (FFCD)
 
@@ -330,9 +330,9 @@ Squamous cell of the esophagus $\rightarrow$ 4500cGy RT + 2 cycles of cisplatin 
 
 Patients with a clinical response were randomized:
 
--   Surgery $\Rightarrow$ 2 year survival 34% Median 17.7mo
+- Surgery $\Rightarrow$ 2 year survival 34% Median 17.7mo
 
--   3 cycles of chemo + 2000 cGy RT $\Rightarrow$ 2 year survival 40% Median 19.3mo
+- 3 cycles of chemo + 2000 cGy RT $\Rightarrow$ 2 year survival 40% Median 19.3mo
 
 ::: {style="color:red"}
 $\Rrightarrow$ No difference in overall survival
@@ -346,9 +346,9 @@ $\Rrightarrow$ No difference in overall survival
 
 Squamous cell of the esophagus randomized:
 
--   4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
+- 4000 cGY RT + Chemo $\rightarrow$ Surgery. 64% 2-year PFS. Mortality 12.8%
 
--   6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
+- 6500cGy RT + Chemo: 41% 2-year PFS. Mortality 3.5%
 
 ::: {style="color:red"}
 $\Rrightarrow$ No difference in overall survival
@@ -372,7 +372,7 @@ Patients with persistent disease in the esophagus (and no distant disease) would
 
 FOLFOX is first-line systemic therapy for metastatic GI cancers
 
--   Dose-limiting toxicity is frequently peripheral neuropathy
+- Dose-limiting toxicity is frequently peripheral neuropathy
 
 ## Adjuvant Immunotherapy: Checkmate 577 Trial {#checkmate_577}
 
@@ -396,10 +396,10 @@ $\Rightarrow$ Better survival in group with adjuvant nivolumab
 
 ## Neoadjuvant Chemo for EsoCA {#NeoadjuvantChemo}
 
--   MAGIC trial (gastric): ECF[^1]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
--   [OEO2 Trial](#OEO2): (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
--   FLOT (gastric): FLOT[^2]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
--   [EsoPEC](#EsoPEC): (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
+- MAGIC trial (gastric): ECF[^1]$\rightarrow$Surgery$\rightarrow$ECF *vs* Surgery\
+- [OEO2 Trial](#OEO2): (esophageal) Chemo$\rightarrow$Surgery$\rightarrow$ Chemo *vs* Surgery\
+- FLOT (gastric): FLOT[^2]$\rightarrow$Surgery$\rightarrow$ FLOT *vs* ECF$\rightarrow$Surgery$\rightarrow$ECF
+- [EsoPEC](#EsoPEC): (esophageal):FLOT$\rightarrow$Surgery$\rightarrow$FLOT *vs* ChemoRT$\rightarrow$Surgery (CROSS)
 
 [^1]: Epirubicin, Cisplatin, 5FU
 
@@ -407,13 +407,13 @@ $\Rightarrow$ Better survival in group with adjuvant nivolumab
 
 ## OEO2 Clinical Trial {#OEO2}
 
--   802 Esophageal adenocarcinoma and squamous cell
+- 802 Esophageal adenocarcinoma and squamous cell
 
--   Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
+- Randomized to Chemo $\rightarrow$ Surgery $\rightarrow$ Chemo *vs* Surgery alone
 
--   Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
+- Chemotherapy with ECF (Epirubicin, Cisplatin, 5FU)
 
--   5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
+- 5-year survival 23% for chemo+surgery vs 17% for surgery (HR 0.84 p=0.03)
 
 ::: aside
 [@allum5062]
@@ -421,17 +421,17 @@ $\Rightarrow$ Better survival in group with adjuvant nivolumab
 
 ## Neo-Aegis Tral CROSS vs MAGIC/FLOT {#NeoAEGIS}
 
--   **Adenocarcinoma** T2-3 N0-3 M0 Tumor length \<8cm
+- **Adenocarcinoma** T2-3 N0-3 M0 Tumor length \<8cm
 
--   ChemoRT arm: carboplatin + paclitaxel + 4140cGy
+- ChemoRT arm: carboplatin + paclitaxel + 4140cGy
 
--   Chemo arm: MAGIC (ECF) or FLOT (later in trial)
+- Chemo arm: MAGIC (ECF) or FLOT (later in trial)
 
--   No difference in overall survival
+- No difference in overall survival
 
--   R0 resection 96% with CROSS vs 82% with chemo
+- R0 resection 96% with CROSS vs 82% with chemo
 
--   pCR 12% with CROSS vs 4% with chemo
+- pCR 12% with CROSS vs 4% with chemo
 
 ::: aside
 [@reynolds1015]
