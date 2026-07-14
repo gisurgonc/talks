@@ -1,0 +1,337 @@
+---
+title: "Gastric Cancer"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+
+---
+### Gastric Cancer: A Comprehensive Overview for Medical Students
+
+---
+
+## SLIDE 1: Title Slide
+
+**Gastric Cancer: A Comprehensive Overview**
+
+- 5th most common cancer worldwide
+- 5th leading cause of cancer death globally
+- ~968,350 new cases and ~659,853 deaths worldwide (2022)
+- ~30,300 new cases and ~10,780 deaths in the US (2025)
+
+---
+
+## SLIDE 2: Learning Objectives
+
+By the end of this presentation, students should be able to:
+
+1. Describe the epidemiology and key risk factors for gastric cancer
+2. Explain the Correa cascade and pathogenesis of gastric cancer
+3. Differentiate histologic (Laurén) and molecular (TCGA) classification systems
+4. Recognize the clinical presentation and diagnostic workup
+5. Understand the TNM staging system and its prognostic implications
+6. Outline stage-appropriate treatment strategies including surgery, chemotherapy, immunotherapy, and targeted therapy
+7. Identify key biomarkers that guide treatment decisions
+
+---
+
+## SLIDE 3: Epidemiology — Global Perspective
+
+- **Incidence hotspots:** East Asia, Eastern Europe, South America
+- Incidence 2× higher in males than females
+- Median age at diagnosis: **68 years**
+- Globally, 85% of cases arise from the stomach body or antrum; 15% from the cardia
+- In North America/Western Europe, cardia/GEJ tumors comprise 30%–40% of cases
+- Overall incidence declining over the past century (improved food preservation, declining H. pylori prevalence)
+- **Rising incidence in patients FeatureIntestinal Type (~50%)Diffuse Type (~30%)Mixed (~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate
+- Signet ring cell histology portends resistance to systemic therapy and poor prognosis
+- Laurén classification remains the most commonly used for subgroup analyses in clinical trials
+
+---
+
+## SLIDE 8: Molecular Classification — TCGA Subtypes
+
+SubtypeFrequencyKey FeaturesClinical Relevance**Chromosomal Instability (CIN)**~50%TP53 mutations, aneuploidy, RTK amplifications (ERBB2, EGFR, FGFR2)80% of GEJ/cardia tumors; HER2-targeted therapy**Microsatellite Instability (MSI)**~20%High mutation burden, dMMR, dense lymphocyte infiltrationBest response to immune checkpoint inhibitors**EBV-positive**~9%PIK3CA mutations, PD-L1/PD-L2 overexpression, CDKN2A methylationHigh immunogenicity; responds to immunotherapy**Genomically Stable (GS)**~20%CDH1/RHOA mutations, diffuse histology, EMT featuresWorst prognosis; limited targeted options
+
+- MSI and EBV-positive subtypes are associated with better responses to immune checkpoint inhibitors
+- CIN subtype enriched for targetable amplifications (HER2, FGFR2)
+
+---
+
+## SLIDE 9: Clinical Presentation
+
+**Most patients are symptomatic at diagnosis (>90% in the US)**
+
+Common symptoms:
+
+- Weight loss (62%)
+- Abdominal/epigastric pain (52%)
+- Nausea (34%)
+- Anorexia/early satiety (32%)
+- Dysphagia (26%) — especially proximal/GEJ tumors
+- Iron deficiency anemia (40% in one series)
+
+**Late/advanced findings:**
+
+- Virchow node (left supraclavicular lymphadenopathy)
+- Sister Mary Joseph nodule (periumbilical nodule)
+- Krukenberg tumor (ovarian metastasis)
+- Blumer shelf (peritoneal drop metastasis on rectal exam)
+- Ascites (peritoneal carcinomatosis)
+
+**Key point:** Early gastric cancer is usually asymptomatic — this is why screening is effective in high-incidence countries
+
+---
+
+## SLIDE 10: Screening
+
+**High-incidence countries (Japan, South Korea):**
+
+- Population-based endoscopic screening every 2 years
+  - South Korea: age ≥40 years
+  - Japan: age ≥50 years
+- South Korea: screening participation increased from 39.4% (2005) to 77.5% (2023)
+- Localized-stage detection increased from 51.7% to 69.8%
+- 5-year relative survival improved from 58% to 78.4%
+- Japanese cohort study: 61% reduction in gastric cancer mortality with endoscopic screening (HR 0.39)
+
+**United States:**
+
+- No routine screening for general population (low incidence)
+- AGA (2025): screening endoscopy recommended for high-risk populations (foreign-born individuals from moderate- to high-incidence regions)
+- Endoscopy recommended for new-onset dyspepsia at age ≥50–55 years, or any age with alarm symptoms
+
+---
+
+## SLIDE 11: Diagnostic Workup
+
+**Diagnosis:**
+
+- Upper endoscopy (EGD) with biopsy — gold standard
+- 6–8 biopsies recommended for adequate histologic and molecular assessment
+- Endoscopic mucosal resection (EMR) or endoscopic submucosal dissection (ESD) for small lesions ≤2 cm — both diagnostic and potentially therapeutic
+
+**Staging workup:**
+
+- CT chest/abdomen/pelvis with oral and IV contrast
+- Endoscopic ultrasound (EUS) — best for T and N staging of early-stage disease
+- PET/CT — for locally advanced disease to detect occult metastases
+- Diagnostic laparoscopy with peritoneal cytology — recommended for ≥T1b to exclude peritoneal disease
+
+**Biomarker testing (all newly diagnosed patients):**
+
+- MSI/MMR status (universal)
+- PD-L1 expression (universal)
+- HER2 (ERBB2) — if advanced/metastatic disease
+- CLDN18.2 — if advanced/metastatic disease
+- Consider NGS
+
+---
+
+## SLIDE 12: TNM Staging (AJCC 8th Edition) — Simplified
+
+**T (Tumor depth):**
+
+- Tis: Carcinoma in situ
+- T1a: Lamina propria/muscularis mucosae
+- T1b: Submucosa
+- T2: Muscularis propria
+- T3: Subserosa
+- T4a: Serosa (visceral peritoneum)
+- T4b: Adjacent structures
+
+**N (Regional lymph nodes):**
+
+- N0: No regional LN metastasis
+- N1: 1–2 regional LNs
+- N2: 3–6 regional LNs
+- N3a: 7–15 regional LNs
+- N3b: ≥16 regional LNs
+
+**M (Distant metastasis):**
+
+- M0: No distant metastasis
+- M1: Distant metastasis (includes positive peritoneal cytology)
+
+**Clinical stage groups:**
+
+- Stage I: T1–T2, N0, M0
+- Stage IIA: T1–T2, N+, M0
+- Stage IIB: T3–T4a, N0, M0
+- Stage III: T3–T4a, N+, M0
+- Stage IVA: T4b, any N, M0
+- Stage IVB: Any T, any N, M1
+
+---
+
+## SLIDE 13: Prognosis by Stage
+
+StageDescription5-Year SurvivalTreatment IntentStage I (Localized)Confined to stomach wall~75%CurativeStage II–III (Locally advanced)Deeper invasion ± regional LNs~35%–45% (with perioperative therapy)CurativeStage IV (Metastatic)Distant metastasisPalliative / survival prolongation
+
+- Most common metastatic sites: liver (26%–48%), peritoneum (32%–46%), distant lymph nodes (11%–20%)
+- Median survival for metastatic disease: ~1–2 years with modern regimens (14–20 months)
+- At presentation in the US: ~13% localized, 15%–25% locally advanced, 35%–65% metastatic
+
+---
+
+## SLIDE 14: Treatment Overview by Stage
+
+StagePrimary Treatment**Early (Tis, T1a)**Endoscopic resection (EMR/ESD) or surgery**Localized (deep T1b, T2 N0)**Surgery (gastrectomy) ± adjuvant therapy**Locally advanced (≥T2 and/or N+)**Perioperative chemotherapy + surgery**Unresectable/Metastatic**Systemic therapy (chemo ± immunotherapy ± targeted therapy)
+
+---
+
+## SLIDE 15: Surgery — Principles
+
+**Types of resection:**
+
+- Subtotal (distal) gastrectomy — for distal tumors
+- Total gastrectomy — for proximal or diffuse tumors
+- Endoscopic resection (EMR/ESD) — for select T1a lesions
+
+**Lymphadenectomy:**
+
+- **D2 lymphadenectomy** is the standard of care (perigastric + celiac artery branch nodes)
+- Minimum 16 lymph nodes should be examined for adequate staging
+- D1 dissection (perigastric only) is associated with higher recurrence rates
+
+---
+
+## SLIDE 16: Perioperative Chemotherapy — Locally Advanced Disease
+
+**Standard of care: Perioperative FLOT (Category 1)**
+
+- **F**luorouracil + **L**eucovorin + **O**xaliplatin + Docetaxel (**T**axotere)
+- 4 cycles preoperative → surgery → 4 cycles postoperative
+- FLOT4 trial: median OS 50 months vs. 35 months with ECF/ECX (HR 0.77)
+
+**FLOT + Durvalumab (anti-PD-L1):**
+
+- For PD-L1 CPS ≥1: Category 1 recommendation
+- MATTERHORN trial: 2-year EFS 67.4% vs. 58.5% (HR 0.71)
+- Note: Diffuse-type tumors did not show OS advantage with durvalumab addition
+
+**MSI-H/dMMR tumors:**
+
+- Consider neoadjuvant immunotherapy (pembrolizumab, dostarlimab, nivolumab + ipilimumab)
+- High pathologic complete response rates reported
+- Gastrectomy remains standard outside of organ-preservation trials
+
+**Postoperative options (if no preoperative therapy given):**
+
+- After D2 dissection: adjuvant chemotherapy (capecitabine + oxaliplatin)
+- After AgentTargetSettingKey TrialTrastuzumabHER2 (ERBB2)1st-line metastaticToGAPembrolizumabPD-11st-line metastatic; perioperativeKEYNOTE-859, KEYNOTE-585NivolumabPD-11st-line metastatic; adjuvantCheckMate 649TislelizumabPD-11st-line metastaticRATIONALE-305DurvalumabPD-L1PerioperativeMATTERHORNZolbetuximabCLDN18.21st-line metastaticSPOTLIGHT, GLOWRamucirumabVEGFR22nd-line metastaticREGARD, RAINBOWT-DXdHER2 (ADC)2nd-line+ metastaticDESTINY-Gastric01
+
+---
+
+## SLIDE 21: Hereditary Gastric Cancer Syndromes
+
+**Hereditary Diffuse Gastric Cancer (HDGC):**
+
+- CDH1 germline mutation (E-cadherin)
+- Autosomal dominant
+- Lifetime gastric cancer risk: 56%–70% (men), 33%–83% (women)
+- Also associated with lobular breast cancer
+- Management: genetic counseling, prophylactic total gastrectomy recommended for carriers
+- Screening: annual EGD with random biopsies if surgery deferred
+
+**Lynch Syndrome:**
+
+- Mismatch repair gene mutations (MLH1, MSH2, MSH6, PMS2)
+- Gastric cancer risk: up to 10% of families
+- Screening: EGD every 2–3 years starting at age 40
+
+**Other syndromes:**
+
+- [Familial adenomatous polyposis](https://www.openevidence.com/rare-disease/familial-adenomatous-polyposis) (FAP)
+- [Peutz-Jeghers syndrome](https://www.openevidence.com/rare-disease/peutz-jeghers-syndrome)
+- [Li-Fraumeni syndrome](https://www.openevidence.com/rare-disease/li-fraumeni-syndrome)
+- BRCA1/BRCA2 carriers (emerging evidence of increased risk)
+
+---
+
+## SLIDE 22: Supportive Care and Nutritional Considerations
+
+- **Nutritional assessment** is essential at diagnosis and throughout treatment
+- Post-gastrectomy complications:
+  - Dumping syndrome
+  - Vitamin B12 deficiency (requires lifelong supplementation after total gastrectomy)
+  - Iron deficiency anemia
+  - Calcium/vitamin D malabsorption
+  - Weight loss and malnutrition
+- Early palliative care integration associated with **3 months of survival benefit**
+- Psychosocial support and distress screening recommended for all patients
+
+---
+
+## SLIDE 23: H. pylori — Prevention Opportunity
+
+- H. pylori eradication reduces gastric cancer incidence
+  - Chinese RCT (180,284 individuals): HR 0.86 for gastric cancer incidence
+  - Confirmed eradication: HR 0.81
+- Indications for H. pylori testing and eradication:
+  - Personal history of gastric neoplasia
+  - Family history of gastric cancer
+  - All patients with early gastric cancer
+- Population-based screen-and-treat programs being evaluated in high-incidence regions
+- In low-incidence areas, routine H. pylori eradication for cancer prevention is not currently recommended for individuals without other risk factors
+
+---
+
+## SLIDE 24: Key Takeaways
+
+1. **H. pylori** is the most important modifiable risk factor (~90% of noncardia gastric cancers)
+2. Most patients in the US present with **advanced disease** — early detection improves survival dramatically
+3. **Molecular profiling** (HER2, PD-L1, MSI, CLDN18.2) is essential for treatment selection
+4. **Perioperative FLOT** is the standard chemotherapy for locally advanced resectable disease; durvalumab may be added for PD-L1+ tumors
+5. **Biomarker-driven therapy** has transformed metastatic gastric cancer management
+6. **MSI-H/dMMR tumors** have the best response to immunotherapy and may not require chemotherapy
+7. **Hereditary syndromes** (especially CDH1/HDGC) require genetic counseling and may warrant prophylactic gastrectomy
+8. **Supportive care** and nutritional management are integral to treatment
+
+---
+
+## SLIDE 25: Review Questions
+
+**Q1:** A 65-year-old man presents with weight loss and epigastric pain. EGD reveals a gastric mass. Biopsy shows adenocarcinoma. What biomarkers should be tested?
+
+→ MSI/MMR, PD-L1, HER2, CLDN18.2
+
+**Q2:** What is the most important risk factor for noncardia gastric cancer worldwide?
+
+→ Helicobacter pylori infection
+
+**Q3:** A patient with locally advanced gastric cancer (cT3N1M0) is medically fit for surgery. What is the recommended treatment approach?
+
+→ Perioperative FLOT chemotherapy (± durvalumab if PD-L1 CPS ≥1) with curative-intent gastrectomy
+
+**Q4:** Which TCGA molecular subtype is most responsive to immune checkpoint inhibitors?
+
+→ MSI and EBV-positive subtypes
+
+**Q5:** A 35-year-old woman is found to carry a CDH1 germline mutation. What is the recommended management?
+
+→ Genetic counseling and consideration of prophylactic total gastrectomy
+
+---
+
+## References
+
+Gastric Cancer: Review [@patel439]
+
+Gastric Cancer [@smyth635]
+
+
