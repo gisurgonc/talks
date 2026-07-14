@@ -36,48 +36,48 @@ MYC
 
 ## FAP Prophylactic Surgery
 
--   Total proctocolectomy with ileoal pouch
--   Total colectomy with ileorectal anastomosis
--   Proctocolectomy with end ileostomy
+- Total proctocolectomy with ileoal pouch
+- Total colectomy with ileorectal anastomosis
+- Proctocolectomy with end ileostomy
 
 ## Lynch Syndrome Prophylactic Surgery
 
--   No role for prophylactic colon surgery
--   Prophylactic hysterectomy with BSO
+- No role for prophylactic colon surgery
+- Prophylactic hysterectomy with BSO
 
 ## BRCA 1/2 Prophylactic Surgery
 
--   Bilateral mastectomy reduces lifetime risk 90%
--   Surveillance is a reasonable option
-    -   Yearly mammogram
-    -   Yearly breast MRI
+- Bilateral mastectomy reduces lifetime risk 90%
+- Surveillance is a reasonable option
+  - Yearly mammogram
+  - Yearly breast MRI
 
 ## BRAC 1/2 Prophyactic Surgery
 
--   Prophylactic BOS age 35-40 or after childbearing
--   Reduces risk of ovarian cancer 80%
--   Surveillance not as effective
-    -   Transvaginal ultrasound
-    -   CA-125 screening
+- Prophylactic BOS age 35-40 or after childbearing
+- Reduces risk of ovarian cancer 80%
+- Surveillance not as effective
+  - Transvaginal ultrasound
+  - CA-125 screening
 
 ## MEN 2A/2B or FMTC Prophylactic surgery
 
--   Timing of thyroidectomy depends upon risk category
--   Highest risk: Throidectomy within first year of life
--   High risk: Thyroidectomy by age 5 or if calcinonin elevated
--   Moderate risk: surveillance starting age 5
-    -   physical exam
-    -   neck ultrasound
-    -   serum calcitonin
+- Timing of thyroidectomy depends upon risk category
+- Highest risk: Throidectomy within first year of life
+- High risk: Thyroidectomy by age 5 or if calcinonin elevated
+- Moderate risk: surveillance starting age 5
+  - physical exam
+  - neck ultrasound
+  - serum calcitonin
 
 ## FAP
 
 Median age of dx 39
 
--   Duodenal and ampullary tumors
--   Gastric polyps
--   Thyroid tumors
--   Desmoid tumors
+- Duodenal and ampullary tumors
+- Gastric polyps
+- Thyroid tumors
+- Desmoid tumors
 
 ## FAP screening
 
@@ -93,13 +93,13 @@ Mean age dx colon cancer 44-61 Predominant right side colon cancer Lifetime pene
 
 ## Lynch Other Cancers
 
--   Endometrial
--   Stomach
--   Ovarian
--   Urinary tract
--   Biliary Tract
--   Small bowel
--   CNS
+- Endometrial
+- Stomach
+- Ovarian
+- Urinary tract
+- Biliary Tract
+- Small bowel
+- CNS
 
 ## Lynch Screening
 
@@ -143,11 +143,11 @@ MLH1 PMS1 MSH6 MSH2 MSH5
 
 Lynch Syndrome can be caused by loss of expression of:
 
--   MLH1
--   PMS1
--   MSH6
--   MSH2
--   MSH5
+- MLH1
+- PMS1
+- MSH6
+- MSH2
+- MSH5
 
 ## MLH1 and PMS Dimer in Mismatch Repair
 
@@ -196,7 +196,6 @@ If MLH1 is mutated $\rightarrow$ PMS2 protein is *not* detected
 In some cases, the PET scan is not performed until a CT scans bas been done.
 :::
 
-
 Heterodimer pairings of mismatch repair proteins hold the key to interpreting the results from IHC testing.
 
 MLH1 and PMS2 form a heterodimer. MLH1 forms heterodimers with other mismatch repair proteins as well, but PMS2 only binds with MLH1. As a result, loss of MLH1 function will automatically lead to loss of PMS2 staining because it doesn’t have its binding partner. The reverse is not true, however, because MLH1 can still bind with one of its other partners.
@@ -205,48 +204,35 @@ MSH2 and MSH6 form another heterodimer. Like MLH1, MSH2 sometimes forms a hetero
 
 Typically, IHC staining for the mismatch repair proteins is interpreted as follows:
 
-Loss of MLH1 and PMS2 protein staining may indicate a germline MLH1 mutation or somatic MLH1 promoter hypermethylation; additional testing (BRAF V600E mutation analysis or MLH1 hypermethylation analysis) may be useful in distinguishing between these possibilities
-Loss of PMS2 protein staining usually indicates a germline PMS2 mutation
-Loss of MSH2 and MSH6 protein staining usually indicates a germline MSH2 mutation
-Loss of MSH6 protein staining usually indicates a germline MSH6 mutation
+Loss of MLH1 and PMS2 protein staining may indicate a germline MLH1 mutation or somatic MLH1 promoter hypermethylation; additional testing (BRAF V600E mutation analysis or MLH1 hypermethylation analysis) may be useful in distinguishing between these possibilities Loss of PMS2 protein staining usually indicates a germline PMS2 mutation Loss of MSH2 and MSH6 protein staining usually indicates a germline MSH2 mutation Loss of MSH6 protein staining usually indicates a germline MSH6 mutation
 
-
-
-
-Clinicopathological features of BRAF V600E MT CRC patients	Molecular features of BRAF V600E MT CRC
-1. Age >70 years	1. More prevalent in MSI-H>MSS CRC
-2. Female patients	2. More CIMP
-3. Proximal right-sided tumours	3. More MLH-1 methylation
-4. High-grade and poorly differentiated	4. Mutually exclusive to KRAS mutation
-5. Mucinous>non-mucinous	
-6. More peritoneal and lymph node metastases	
-7. Less lung metastases	
-Table 3.
-
+Clinicopathological features of BRAF V600E MT CRC patients Molecular features of BRAF V600E MT CRC 1. Age \>70 years 1. More prevalent in MSI-H\>MSS CRC 2. Female patients 2. More CIMP 3. Proximal right-sided tumours 3. More MLH-1 methylation 4. High-grade and poorly differentiated 4. Mutually exclusive to KRAS mutation 5. Mucinous\>non-mucinous\
+6. More peritoneal and lymph node metastases\
+7. Less lung metastases Table 3.
 
 ## 
 
 ## BRAF V600E Mutations in Colorectal Cancer
 
-1. Age >70 years	
-2. Female patients	
-3. Proximal right-sided tumours	
-4. High-grade and poorly differentiated
-5. Mucinous>non-mucinous	
-6. More peritoneal and lymph node metastases	
+1.  Age \>70 years\
+2.  Female patients\
+3.  Proximal right-sided tumours
+4.  High-grade and poorly differentiated
+5.  Mucinous\>non-mucinous\
+6.  More peritoneal and lymph node metastases
 
 ## Colon Polyposis: \>10 adenomatous polyps
 
--   Classical FAP
--   Attenuated FAP (AFAP)
--   MUTYH-associated polyposis (MAP)
--   Colonic adenomatous polyposis of unknown etiology (CPUE)
+- Classical FAP
+- Attenuated FAP (AFAP)
+- MUTYH-associated polyposis (MAP)
+- Colonic adenomatous polyposis of unknown etiology (CPUE)
 
 ## Colon Polyposis: \>4 hamartomatous polyps
 
--   Puetz-Jaghers
--   Juvenile Polyposis Syndrome
--   Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
+- Puetz-Jaghers
+- Juvenile Polyposis Syndrome
+- Cowden Syndrome/PTEN Hamartoma Tumor Syndrome
 
 ## Serrated Colon Polyps
 
@@ -266,12 +252,12 @@ Male carriers of BRCA2: 8.9% lifetime risk of breast cancer
 
 ## BRCA risk factors:
 
--   Breast cancer dx before age 40
--   Bilateral breast vcancer
--   Breast and ovarian cancer
--   2 family members with breast cancer \< age 50
--   Family history of breast and ovian
--   Family history of male breast cancer
+- Breast cancer dx before age 40
+- Bilateral breast vcancer
+- Breast and ovarian cancer
+- 2 family members with breast cancer \< age 50
+- Family history of breast and ovian
+- Family history of male breast cancer
 
 ## Attenuated FAP
 
@@ -281,11 +267,11 @@ Male carriers of BRCA2: 8.9% lifetime risk of breast cancer
 
 Mutation of TP53 tumor suppressor gene
 
--   Breast cancer 90% by age 50
--   Sarcoma
--   Leukemia
--   Brain tumors
--   Andrenocortical carcinoma
+- Breast cancer 90% by age 50
+- Sarcoma
+- Leukemia
+- Brain tumors
+- Andrenocortical carcinoma
 
 ## Breast cancer in Li-Fraumeni
 
@@ -295,17 +281,17 @@ Bilateral prophylactic mastectomy recommended
 
 ## p16 = CDKNA2A mutation
 
--   Increased risk of melanoma
-    -   Familial Atypical Multiple Mole Melanoma (FAMMM)
-    -   Familiarl llAtyopical Multiple Mole-Pancreatic Carcinoma (FAMMMPC)
--   Melanoma penetrance 58-92% by 80
--   Pancreatic cancer penetracne 17% by age 75
+- Increased risk of melanoma
+  - Familial Atypical Multiple Mole Melanoma (FAMMM)
+  - Familiarl llAtyopical Multiple Mole-Pancreatic Carcinoma (FAMMMPC)
+- Melanoma penetrance 58-92% by 80
+- Pancreatic cancer penetracne 17% by age 75
 
 ## FAMMM
 
--   Malignant melanoma in one or more first degree or second-degree relatives
--   High total body nevus count
--   Nevi with certain features on microsopcy
+- Malignant melanoma in one or more first degree or second-degree relatives
+- High total body nevus count
+- Nevi with certain features on microsopcy
 
 Genetic testing not performed as only 50% of FAMMM harbor a mutation in CDKNA2A
 
@@ -313,9 +299,9 @@ Genetic testing not performed as only 50% of FAMMM harbor a mutation in CDKNA2A
 
 Mutation in NF1 tumor suppressor gene
 
--   Multiple neurofibromas
--   Cafe au lait spots
--   Lisch nodules (hamaartoma of the iris)
+- Multiple neurofibromas
+- Cafe au lait spots
+- Lisch nodules (hamaartoma of the iris)
 
 Risk of - NPNST - PHeochromocytoma - Astrocytoma - Leukemai
 
@@ -323,22 +309,22 @@ Risk of - NPNST - PHeochromocytoma - Astrocytoma - Leukemai
 
 Two or more of the following 6 criteria:
 
--   Six or more café-au-lait macules
--   Two or more neurofibromas or one plexiform neurofibroma
--   Axillary or inguinal freckling
--   Optic glioma
--   Two or more Lisch nodules
--   Characteristic osseous lesions
--   A first degree relative with NF1
+- Six or more café-au-lait macules
+- Two or more neurofibromas or one plexiform neurofibroma
+- Axillary or inguinal freckling
+- Optic glioma
+- Two or more Lisch nodules
+- Characteristic osseous lesions
+- A first degree relative with NF1
 
 ## Neurofibromatosis 2
 
 NF2 gene
 
--   Multiple neurofibromas
--   Cafe au lait spots
--   Bilateral vestibular shwannomas
--   CNS tumors
+- Multiple neurofibromas
+- Cafe au lait spots
+- Bilateral vestibular shwannomas
+- CNS tumors
 
 Most affected develop bilateral schwannomas by age 30 with average age of death 26
 
@@ -348,29 +334,29 @@ Annual surveillance MRI stating age 10-12 and hearing evaluationm
 
 Cowden Syndrome Mutation in *PTEN* tumor suppressor gene
 
--   Mucocutaneous facial lesions
--   Macrocephaly
--   Bilateral breast cancer
--   Thyroid and endometrial tumors
--   Hamartomatous polyposis of the GI tract
+- Mucocutaneous facial lesions
+- Macrocephaly
+- Bilateral breast cancer
+- Thyroid and endometrial tumors
+- Hamartomatous polyposis of the GI tract
 
 ## MEN1
 
--   Mutation of MENIN tumor supressor
+- Mutation of MENIN tumor supressor
 
--   Parathyroid
+- Parathyroid
 
--   Pitutiary
+- Pitutiary
 
--   Pancreatic islet cells
+- Pancreatic islet cells
 
 Hyperparathyoidism usually first presentaiotn Most common pancreatic tumor is non-functional
 
 Dx by 2/3 of following:
 
--   Parathyroid adenoma/hyperplasia
--   Pancratic islet cell tumors
--   Pituatiary tumors
+- Parathyroid adenoma/hyperplasia
+- Pancratic islet cell tumors
+- Pituatiary tumors
 
 ## MEN1 screening
 
@@ -386,14 +372,14 @@ Pituitary tumors resected via transsphenoidal
 
 ## MEN2 Famly of Syndromes
 
--   RET proto-oncogene
+- RET proto-oncogene
 
--   Medullary thyroid cancer in almost 100%
+- Medullary thyroid cancer in almost 100%
 
--   MEN2A
+- MEN2A
 
-    -   pheochromocytoma in 50%
-    -   Parathyroid hyperplasia in 20-30%
+  - pheochromocytoma in 50%
+  - Parathyroid hyperplasia in 20-30%
 
 -MEN2B - pheochromocytoma in 50% - Megacolon - Marfinoid habitus - Ganglioneromas - Mucosal neuromas
 
