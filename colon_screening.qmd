@@ -1,0 +1,216 @@
+---
+title: "Colon Cancer Screening"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  pptx: 
+    reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Epidemiology of Colorectal Cancer
+
+- 3rd most commonly diagnosed cancer and the 2nd leading cause of cancer death in the US
+- Estimated \~154,270 new diagnoses and \~52,900 deaths in 2025
+- Incidence 33% higher in men (41.5 per 100,000) than women (31.2 per 100,000)
+- Overall incidence declined 0.9% annually (2013–2022), driven by decreases in adults ≥65 years
+- Lifetime risk of CRC in the US: approximately 4%–5%
+
+::: aside
+[@siegele70067]
+:::
+
+## Early-onset Colorectal cancer
+
+- Incidence increasing \~2%–3% annually in adults aged 20–49 years
+- CRC is now the leading cause of cancer death in men 50 years
+- 20% (1 in 5) of CRCs in 2019 were in patients ≤54 years, up from 11% (1 in 10) in 1995
+
+::: aside
+[@jayakrishnan1373]
+:::
+
+## Non-modifiable Risk Factors for Colorectal Cancer
+
+- Age (incidence rises sharply after age 50)
+- Male sex
+- Race/ethnicity (highest in Alaska Native, American Indian, Black populations)
+- Family history of CRC or advanced adenomas in first-degree relatives
+- Personal history of adenomas, SSP/SSLs, or IBD
+- Hereditary syndromes
+  - Lynch Syndrome
+  - Familial Adenomatous Polyposis
+
+## Modifiable Risk Factors for Colorectal Cancer
+
+- Obesity and excess body weight
+- Physical inactivity
+- Tobacco smoking
+- High alcohol consumption
+- Diet high in red/processed meat, low in fruits/vegetables/fiber
+- Over 50% of CRC cases are attributable to modifiable lifestyle factors\[9\]\[10\]
+
+::: aside
+Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement. US Preventive Services Task Force, Davidson KW, Barry MJ, et al. JAMA. 2021;325(19):1965-1977. doi:10.1001/jama.2021.6238. Colorectal Cancer Screening for Average-Risk Adults: 2018 Guideline Update From the American Cancer Society. Wolf AMD, Fontham ETH, Church TR, et al. CA: A Cancer Journal for Clinicians. 2018;68(4):250-281. doi:10.3322/caac.21457.
+:::
+
+## The Adenoma-Carcinoma Sequence
+
+Most CRCs develop over 10–15 years from precursor polyps through a stepwise accumulation of genetic and epigenetic alterations\[11\]\[12\] Two Major Pathways:
+
+1.  Conventional Adenoma-Carcinoma Pathway (70%–90% of CRCs)\[3\]\[12\] - Initiated by APC gene mutation → KRAS activation → TP53 inactivation - Characterized by chromosomal instability (CIN) - Produces microsatellite-stable tumors
+
+2.  Serrated Neoplasia Pathway (10%–20% of CRCs)\[12\]\[13\] - Arises from sessile serrated lesions (SSLs) - Driven by BRAF mutations and CpG island methylator phenotype (CIMP) - Often leads to microsatellite instability (MSI-H) via MLH1 promoter methylation - Predominates in proximal colon, elderly, female patients\[11\] Clinical Implication: The prolonged adenoma-to-carcinoma timeline provides a window for screening to detect and remove precancerous lesions before malignant transformation\[6\]\[14\]
+
+## Risk Stratification: Average vs. Increased Risk
+
+Average Risk (per NCCN) — ALL of the following:\[8\] - Age 45–75 years - No personal history of adenomas, serrated sessile lesions (SSL), CRC, IBD, cystic fibrosis, or childhood cancer - No hereditary CRC syndromes - No family history of CRC or advanced adenomas in first-degree relatives Increased Risk — ANY of the following:\[8\] - Personal history of adenomas or SSP/SSLs - Personal history of CRC or IBD - Hereditary syndromes (Lynch, FAP, etc.) - ≥1 first-degree relative with CRC or advanced adenoma - Personal history of cystic fibrosis or childhood cancer Key Principle: Average-risk individuals may choose any recommended screening modality. Increased-risk individuals should undergo colonoscopy as the preferred method\[8\]
+
+## When to Start and Stop Screening
+
+Age to Begin Screening (Average Risk): - USPSTF: Age 45 (Grade B for 45–49; Grade A for 50–75)\[9\] - ACS: Age 45\[10\]\[15\] - NCCN: Age 45 (data stronger for age 50, but lower-level evidence supports 45)\[8\] - ACG: Age 45 (conditional); age 50 (strong recommendation)\[13\]\[16\] Rationale for Lowering to Age 45: - Rising early-onset CRC incidence\[7\] - Modeling: 22–27 additional life-years gained per 1,000 individuals screened starting at 45 vs. 50\[7\] When to Stop: - Screening recommended through age 75\[8\]\[9\] - Ages 76–85: Individualize based on comorbidities, life expectancy, and prior screening history\[8\] - Requires estimated life expectancy ≥10 years\[8\]
+
+## Screening Modalities Overview
+
+Stool-Based Tests (Two-Step: positive result → colonoscopy):
+
+- Guaiac-based FOBT (gFOBT) — annually
+- Fecal immunochemical test (FIT) — annually
+- Multi-target stool DNA (mt-sDNA, e.g., Cologuard) — every 3 years
+- Multi-target stool RNA (mt-sRNA) — every 3 years\[8\]
+
+Direct Visualization Tests:
+
+- Colonoscopy — every 10 years
+
+- Flexible sigmoidoscopy — every 5 years (± annual FIT)
+
+- CT colonography — every 5 years\[8\]\[9\]
+
+Key Points:
+
+- Colonoscopy is the only one-step modality (diagnostic + therapeutic)\[17\]
+- FIT has replaced gFOBT in most settings due to superior sensitivity, no dietary restrictions, and single-sample convenience\[5\]\[8\]
+- All positive stool-based tests require follow-up colonoscopy as soon as possible and no later than 9 months\[8\]
+
+## Comparative Performance of Screening Tests
+
+| Test        | CRC Sensitivity | Adenoma Sensitivity | Specificity | Interval |
+|-------------|-----------------|---------------------|-------------|----------|
+| Colonoscopy | 95%             | 75-95% (\>6mm)      | \-          | 10 yrs   |
+| FIT         | 74%             | 23-25%              | 94%         | Annual   |
+| Cologuard   | 94%             | 46%                 | \-          | 3 years  |
+| FOBT        | 50-75%          | 6-21%               | 96-98%      | Annual   |
+
+FIT has replaced guaiac-based Fecal Occult Blood (FOBT)
+
+::: aside
+Data from NCCN Colorectal Cancer Screening Guidelines (v2.2026)
+:::
+
+## Comparative Performance of Screening Tests
+
+## SLIDE 9 — The NordICC Randomized Trial of Screening Colonoscopy
+
+- 84,585 participants aged 55–64 in Poland, Norway, Sweden
+- Randomized 1:2 to invitation for colonoscopy vs. usual care
+- Only 42% of invited participants underwent colonoscopy
+
+10-year results (intention to screen):
+
+- CRC incidence: 0.98% vs. 1.20% (RR 0.82; 95% CI 0.70–0.93)
+- CRC mortality: 0.28% vs. 0.31% (RR 0.90; 95% CI 0.64–1.16) — not significant
+- NNI (number needed to invite) to prevent 1 CRC case: 45
+
+::: aside
+16. Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death. Bretthauer M, Løberg M, Wieszczy P, et al. The New England Journal of Medicine. 2022;387(17):1547-1556. doi:10.1056/NEJMoa2208375.
+
+17. Long-Term Effects of Colonoscopy Screening on Colorectal Cancer Incidence and Mortality: A Multicountry, Population-Based Randomised Controlled Trial. Kaminski MF, Kalager M, Løberg M, et al. Lancet (London, England). 2026;:S0140-6736(26)00508-8. doi:10.1016/S0140-6736(26)00508-8.
+:::
+
+## SLIDE 9 — The NordICC Randomized Trial of Screening Colonoscopy
+
+- 84,585 participants aged 55–64 in Poland, Norway, Sweden
+- Randomized 1:2 to invitation for colonoscopy vs. usual care
+- Only 42% of invited participants underwent colonoscopy
+
+Per-Protocol Analysis (those actually screened):
+
+- CRC incidence reduced by 31%–41%
+- CRC mortality reduced by up to 50%
+
+::: aside
+16. Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death. Bretthauer M, Løberg M, Wieszczy P, et al. The New England Journal of Medicine. 2022;387(17):1547-1556. doi:10.1056/NEJMoa2208375.
+
+17. Long-Term Effects of Colonoscopy Screening on Colorectal Cancer Incidence and Mortality: A Multicountry, Population-Based Randomised Controlled Trial. Kaminski MF, Kalager M, Løberg M, et al. Lancet (London, England). 2026;:S0140-6736(26)00508-8. doi:10.1016/S0140-6736(26)00508-8.
+:::
+
+## SLIDE 10 — Increased-Risk Screening: Family History
+
+Per NCCN Guidelines:\[8\] Family History Start Screening Modality Surveillance ≥1 FDR with CRC at any age Age 40 or 10 years before earliest CRC diagnosis (whichever first) Colonoscopy Every 5 years 2nd/3rd-degree relatives with CRC Age 45 Colonoscopy Every 10 years FDR with advanced adenoma or advanced SSP/SSL Age 40 or age of onset in relative (whichever first) Colonoscopy Every 5–10 years FDR = first-degree relative Important: If criteria for a hereditary cancer syndrome are met (e.g., Lynch, FAP), refer for genetic evaluation and follow syndrome-specific guidelines\[8\]
+
+## SLIDE 11 — Post-Polypectomy Surveillance
+
+Surveillance intervals assume complete resection, adequate bowel preparation, and complete examination\[8\] General Principles:
+
+- Low-risk adenomas or SSP/SSLs: May not have substantially increased risk of metachronous advanced neoplasia compared to general population
+
+- High-risk adenomas or SSP/SSLs with dysplasia: Surveillance interval should not exceed 5 years
+
+- ≥10 cumulative adenomas: Consider germline testing for polyposis syndromes
+
+- 
+
+  > 20 serrated polyps: Consider [serrated polyposis syndrome](/rare-disease/serrated-polyposis-syndrome)\[8\]
+
+Histologic Considerations:
+
+- SSP/SSLs without dysplasia are managed like tubular adenomas\[8\]
+- SSP/SSLs with dysplasia are managed like high-risk adenomas\[8\]
+- Large (≥1 cm) hyperplastic polyps are often reclassified as SSLs on expert review\[8\]
+
+## SLIDE 12 — Special Populations Inflammatory Bowel Disease (IBD):\[8\] - Ulcerative colitis and Crohn's colitis confer increased CRC risk - Colonoscopy is the preferred screening method - Follow IBD-specific
+
+References 1. Colorectal Cancer Statistics, 2026. Siegel RL, Wagle NS, Star J, et al. CA: A Cancer Journal for Clinicians. 2026 Mar-Apr;76(2):e70067. doi:10.3322/caac.70067. 2. Colorectal Cancer Statistics, 2023. Siegel RL, Wagle NS, Cercek A, Smith RA, Jemal A. CA: A Cancer Journal for Clinicians. 2023 May-Jun;73(3):233-254. doi:10.3322/caac.21772. 3. Aspirin and Other Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) for Preventing Colorectal Cancer and Colorectal Adenoma in the General Population. Cai Z, Meng Y, Yang W, et al. The Cochrane Database of Systematic Reviews. 2026;4:CD015266. doi:10.1002/14651858.CD015266.pub3. 4. Colorectal Cancer Facts & Figures. Angela Giaquinto, Tyler Kratzer, Adair Minihan, et al. American Cancer Society (2025).
+
+5.  AGA Clinical Practice Update on Approach to the Use of Noninvasive Colorectal Cancer Screening Options: Commentary. Burke CA, Lieberman D, Feuerstein JD. Gastroenterology. 2022;162(3):952-956. doi:10.1053/j.gastro.2021.09.075. 6. Colorectal Adenomas. Strum WB. The New England Journal of Medicine. 2016;374(11):1065-75. doi:10.1056/NEJMra1513581.
+
+6.  Early-Onset Gastrointestinal Cancers. Jayakrishnan T, Ng K. JAMA. 2025;334(15):1373-1385. doi:10.1001/jama.2025.10218.
+
+7.  Colorectal Cancer Screening. National Comprehensive Cancer Network. Updated 2026-04-23.
+
+8.  Screening for Colorectal Cancer: US Preventive Services Task Force Recommendation Statement. US Preventive Services Task Force, Davidson KW, Barry MJ, et al. JAMA. 2021;325(19):1965-1977. doi:10.1001/jama.2021.6238.
+
+9.  Colorectal Cancer Screening for Average-Risk Adults: 2018 Guideline Update From the American Cancer Society. Wolf AMD, Fontham ETH, Church TR, et al. CA: A Cancer Journal for Clinicians. 2018;68(4):250-281. doi:10.3322/caac.21457.
+
+10. Colorectal Cancer. Brenner H, Kloor M, Pox CP. Lancet (London, England). 2014;383(9927):1490-1502. doi:10.1016/S0140-6736(13)61649-9.
+
+11. Colorectal Cancer. Dekker E, Tanis PJ, Vleugels JLA, Kasi PM, Wallace MB. Lancet (London, England). 2019;394(10207):1467-1480. doi:10.1016/S0140-6736(19)32319-0.
+
+12. ACG Clinical Guidelines: Colorectal Cancer Screening 2021. Shaukat A, Kahi CJ, Burke CA, et al. The American Journal of Gastroenterology. 2021;116(3):458-479. doi:10.14309/ajg.0000000000001122.
+
+13. The Biology of Colorectal Cancer. Implications for Pretreatment and Follow-Up Management. Boland CR. Cancer. 1993;71(12 Suppl):4180-6. doi:10.1002/1097-0142(19930615)71:12+\<4180::aid-cncr2820711804\>3.0.co;2-g.
+
+14. Cancer Prevention and Early Detection Facts & Figures. Rick Alteri, Deana Baptiste, Emily Butler Bell, et al. American Cancer Society (2025).
+
+15. AGA Clinical Practice Update on Risk Stratification for Colorectal Cancer Screening and Post-Polypectomy Surveillance: Expert Review. Issaka RB, Chan AT, Gupta S. Gastroenterology. 2023;165(5):1280-1291. doi:10.1053/j.gastro.2023.06.033.
+
+16. Colorectal Cancer Screening: Updated Guidelines From the American College of Gastroenterology. de Kanter C, Dhaliwal S, Hawks M. American Family Physician. 2022;105(3):327-329.
+
+17. Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death. Bretthauer M, Løberg M, Wieszczy P, et al. The New England Journal of Medicine. 2022;387(17):1547-1556. doi:10.1056/NEJMoa2208375.
+
+18. Long-Term Effects of Colonoscopy Screening on Colorectal Cancer Incidence and Mortality: A Multicountry, Population-Based Randomised Controlled Trial. Kaminski MF, Kalager M, Løberg M, et al. Lancet (London, England). 2026;:S0140-6736(26)00508-8. doi:10.1016/S0140-6736(26)00508-8.
+
+19. Effect of Colonoscopy Screening on Risks of Colorectal Cancer and Related Death: Instrumental Variable Estimation of Per-Protocol Effects. Shi J, Løberg M, Kalager M, et al. European Journal of Epidemiology. 2025;40(4):419-425. doi:10.1007/s10654-025-01209-w.

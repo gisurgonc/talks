@@ -1,0 +1,139 @@
+---
+title: "Appendiceal Neoplasms"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Classification of Appendiceal Neoplasms
+
+Serrated Lesions and Polyps
+
+Mucinous Neoplasms
+
+  - Low-grade Appendiceal Mucinous Neoplasms (LAMN)
+
+  - High-grade Appendiceal Mucinous Neoplasms (HAMN)
+
+Adenocarcinoma
+
+  - Mucinous (>50%)
+  
+  - Non-mucinous (<50%)
+  
+Goblet Cell Adenocarcinoma
+
+Neuroendocrine Neoplasms
+
+  - well-differentiated NETs
+  - poorly differentiated NECs
+  - MiNENs
+  
+  
+## 
+
+
+
+
+A. Serrated Lesions and Polyps
+Analogous to colorectal serrated lesions; confined to the mucosa.
+
+Cured by complete excision (appendectomy).
+
+B. Mucinous Neoplasms
+Low-Grade Appendiceal Mucinous Neoplasm (LAMN):
+
+The most common appendiceal epithelial neoplasm (~0.3% of appendix specimens). 
+[12]
+
+Characterized by tall mucinous epithelium with a pushing border (not infiltrative glands with desmoplasia). 
+[10]
+
+Associated with atrophy of the appendiceal wall, loss of lymphoid tissue, and effacement of the muscularis mucosa.
+
+Mucin pools can extend into the serosa and beyond.
+
+Molecular profile: almost always MSS, BRAF V600E negative, frequently harbor KRAS and GNAS mutations. 
+[10][13]
+
+The most common cause of pseudomyxoma peritonei (PMP), accounting for up to 94% of cases. 
+[12]
+
+HIPC
+
+
+High-Grade Appendiceal Mucinous Neoplasm (HAMN):
+
+Retains features of LAMN but with high-grade cytologic features and complex architecture. 
+[10]
+
+Staged as mucinous adenocarcinoma; data are limited.
+
+May additionally harbor TP53 and ATM mutations not seen in LAMN.
+
+
+
+C. Adenocarcinoma (AA)
+Rare outside of LAMN/PMP; can arise from mucinous neoplasms, intestinal-type adenomas, or GCAs. 
+[10]
+
+Distinguished from mucinous neoplasms by: high cellularity, high-grade nuclear features, infiltrative growth pattern with desmoplastic response. 
+[10]
+
+Classified as mucinous (>50% mucin) or non-mucinous (≤50% mucin). 
+[10]
+
+Signet ring cell carcinoma (>50% signet ring cells) carries the worst prognosis. 
+[10]
+
+Non-mucinous subtypes may be MSI-H; mucinous subtypes are rarely MSI-H. 
+[10]
+
+D. Goblet Cell Adenocarcinoma (GCA)
+Previously classified as a NET ("goblet cell carcinoid") but now recognized as a distinct entity with biologic behavior more similar to adenocarcinoma. 
+[10]
+
+Characterized by deep mucosal/submucosal circumferential infiltration without surface epithelial dysplasia. 
+[10]
+
+Grading is based on percentage of low-grade (tubular/clustered) component:
+
+Grade 1: >75% low-grade pattern
+
+Grade 2: 50–75% low-grade pattern
+
+Grade 3: <50% low-grade pattern 
+[10]
+
+Molecular profile: lower rates of KRAS and APC mutations; MSI and TMB-H are rare. 
+[10]
+
+Even low-grade GCA can present with metastatic disease due to deeply invasive nature. 
+[10]
+
+E. Neuroendocrine Neoplasms (NENs)
+The most common appendiceal neoplasm overall (~52% of incidental tumors). 
+[1][15]
+
+Includes well-differentiated NETs, poorly differentiated NECs, and MiNENs.
+
+~80% are <1 cm at diagnosis. 
+[16]
+
+Managed per NCCN Neuroendocrine and Adrenal Tumor guidelines. 
+[10]

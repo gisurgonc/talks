@@ -204,4 +204,8 @@ Botox Moffitt: [@saeed6046] 238 Botox 108 pyloroplasty 129 pyloromyotomy. Pylori
 
 PROPPER trial will randomize between preop ballon dilation (performed 1 day before surgery) vs sham procedure [@mann221]
 
+## Results
+
+A meta-analysis of 13 case-control studies (1,749 patients) found RAMIE yielded significantly more **total lymph nodes** (WMD = 1.99; 95% CI 0.45–3.52; P = 0.011), **abdominal lymph nodes** (WMD = 1.69; P = 0.009), and **RLN lymph nodes** (WMD = 0.73; P \< 0.001) compared to conventional MIE, with a lower incidence of vocal cord palsy (OR 0.62; P = 0.027) [@lidoaa050]
+
 {{< qrcode https://jmbuhr.de >}}
