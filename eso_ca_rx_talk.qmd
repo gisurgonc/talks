@@ -174,7 +174,7 @@ Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 
 ## CROSS Surgery vs ChemoRT $\rightarrow$Surgery
 
-|                 | Surgery | CRT$\rightarrow$Surgery |          |
+|                 |  Surgery | CRT$\rightarrow$Surgery |          |
 |-----------------|:--------:|:-----------------------:|----------|
 | Time to Surgery |   24d    |           97d           |          |
 | Unresectable    |   13%    |           4%            | p=0.002  |
