@@ -17,12 +17,12 @@ bibliography: zotero.bib
 
 ## CROSS: Locally-advanced Esophageal Cancer
 
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   age $\tilde{x}$=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
+- 368 esophageal cancer patients randomized:
+  - Surgery alone
+  - Chemo+RT $\rightarrow$ Surgery
+- 75% adenocarcinoma
+- age $\tilde{x}$=60
+- longer survival with Chemo+RT $\rightarrow$ Surgery
 
 ::: aside
 [@shapiro1090]
@@ -82,10 +82,10 @@ Pathologic complete response in 49%
 ::: {.column width="50%"}
 Optimal Therapy for locally-advanced esophageal cancer:
 
--   Neoadjuvant Therapy
--   Chemoradiation (CROSS)
--   Chemtherapy (FLOT)
--   Esophagectomy
+- Neoadjuvant Therapy
+- Chemoradiation (CROSS)
+- Chemtherapy (FLOT)
+- Esophagectomy
 :::
 
 ::: {.column width="50%"}
@@ -187,8 +187,8 @@ Clinical response evaluation after chemoRT
 
 274 with Complete Clinical Response (35%) randomized:
 
--   156 Active Surveillance ($\rightarrow$ Surgery for local recurrence)
--   118 Surgery
+- 156 Active Surveillance ($\rightarrow$ Surgery for local recurrence)
+- 118 Surgery
 
 ::: aside
 [@vanderwilkS1470]
@@ -200,31 +200,31 @@ EGD at 6 weeks with bite-on-bite biopsies
 
 Second evaluation at 12 weeks if first biopsies negative:
 
--   PET
--   EUS-FNA of suspected lymph nodes
--   EGD with bite-on-bite biopsies
+- PET
+- EUS-FNA of suspected lymph nodes
+- EGD with bite-on-bite biopsies
 
 ## Clinical Response Evaluation
 
 761 First Clinical Response Evaluation (EGD)
 
--   232 Isolated local disease documented by biopsy
--   40 Persistent stricture
--   2 metastatic disease
+- 232 Isolated local disease documented by biopsy
+- 40 Persistent stricture
+- 2 metastatic disease
 
 ## Clinical Response Evaluation
 
 761 First Clinical Response Evaluation (EGD)
 
--   232 Isolated local disease documented by biopsy
--   40 Persistent stricture
--   2 metastatic disease
+- 232 Isolated local disease documented by biopsy
+- 40 Persistent stricture
+- 2 metastatic disease
 
 420 Second Clinical Response Evaluation (EGD+PET+FNA)
 
--   115 Isolated local disease documented by biopsy
--   19 Persistent stricture
--   40 metastatic disease
+- 115 Isolated local disease documented by biopsy
+- 19 Persistent stricture
+- 40 metastatic disease
 
 $\Rightarrow$ 274 with clinical complete response (cCR)
 
@@ -232,15 +232,15 @@ $\Rightarrow$ 274 with clinical complete response (cCR)
 
 761 First Clinical Response Evaluation (EGD)
 
--   232 Isolated local disease
--   40 Persistent stricture
--   2 metastatic disease
+- 232 Isolated local disease
+- 40 Persistent stricture
+- 2 metastatic disease
 
 420 Second Clinical Response Evaluation (EGD+PET+FNA)
 
--   **115 Isolated local disease** (missed at first EGD)
--   19 Persistent stricture
--   40 metastatic disease
+- **115 Isolated local disease** (missed at first EGD)
+- 19 Persistent stricture
+- 40 metastatic disease
 
 $\Rightarrow$ 115 Patient had local disease missed at first EGD
 
@@ -248,16 +248,16 @@ $\Rightarrow$ 115 Patient had local disease missed at first EGD
 
 Surgery performed with two weeks in patients without metastatic disease and:
 
--   Positive EGD biopsies
--   High-grade dysplasia on EGD
--   Stricture which prohibited passage of scope
+- Positive EGD biopsies
+- High-grade dysplasia on EGD
+- Stricture which prohibited passage of scope
 
 ## Subsequent Evaluation
 
--   Every 3 months in first year
--   Every 4 months in Year 2
--   Every 6 months in Year 3
--   Annually Years 4 and 5
+- Every 3 months in first year
+- Every 4 months in Year 2
+- Every 6 months in Year 3
+- Annually Years 4 and 5
 
 ## Active Surveillance Outcomes (n=198)
 
@@ -275,7 +275,7 @@ Surgery performed with two weeks in patients without metastatic disease and:
 
 Active Surveillance was non-inferior using predefined criteria
 
--   Non-inferior was defined as survival difference \<15%
+- Non-inferior was defined as survival difference \<15%
 
 Disease-free and Overall survival was numerically better with immediate surgery
 
@@ -283,13 +283,13 @@ Survival curves appear to cross at 2 years favoring immediate surgery
 
 Outcomes were not stratified by histology
 
-## Proposed Pathway Changes
+## Proposed Pathway
 
 Active Surveillance is a reasonable option in informed patients
 
 Clinical response evaluation should consist of:
 
--   EGD at 6 weeks
--   Repeat EGD at 12 weeks if negative
--   PET scan at 12 weeks
--   EUS-FNA of suspicious nodes on PET
+- EGD at 6 weeks
+- Repeat EGD at 12 weeks if negative
+- PET scan at 12 weeks
+- EUS-FNA of suspicious nodes on PET

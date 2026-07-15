@@ -15,21 +15,19 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-## 
+## T1a Melanoma = Stage 1A
 
-Cutaneous Melanoma. Lancet. 2023. Long GV, Swetter SM, Menzies AM, Gershenwald JE, Scolyer RA.
+SLNB is not generally recommended for melanomas \<0.8 mm thick without ulceration or other adverse features, as the probability of a positive sentinel node is \<5%.
 
-Cutaneous Melanoma. The Journal of the American Medical Association. 2025. Joshi UM, Kashani-Sabet M, Kirkwood JM.
+Exception: is when there is significant uncertainty about the depth of the lesion (e.g., positive deep margins or limited sampling of a larger lesion).
 
-## T1a Melanoma
+## T1b Melanoma = Stage 1B
 
-Stage IA (T1a): SLNB is not generally recommended for melanomas \<0.8 mm thick without ulceration or other adverse features, as the probability of a positive sentinel node is \<5%. An exception is when there is significant uncertainty about the adequacy of microstaging (e.g., positive deep margins or limited sampling of a larger lesion).
+SLNB should be discussed and considered for melanomas \<0.8 mm thick with ulceration or 0.8-1.0 mm thick (with or without ulceration), as the probability of a positive sentinel node is 5-10%.
 
-## T1b Melanoma
+For T1a lesions \>0.5 mm with other adverse features (age ≤42 years, head/neck location, lymphovascular invasion, and/or mitotic index ≥2/mm²), SLNB should also be discussed, with additive risk when multiple adverse features are present.
 
-Stage IB (T1b): SLNB should be discussed and considered for melanomas \<0.8 mm thick with ulceration or 0.8-1.0 mm thick (with or without ulceration), as the probability of a positive sentinel node is 5-10%. For T1a lesions \>0.5 mm with other adverse features (age ≤42 years, head/neck location, lymphovascular invasion, and/or mitotic index ≥2/mm²), SLNB should also be discussed, with additive risk when multiple adverse features are present.
-
-## Stage IB (T2a) or Stage II (Tb2+)
+## Stage IB (T2a) or Stage II (Tb2^+^)
 
 SLNB should be discussed and offered for melanomas \>1.0 mm thick, as the probability of a positive sentinel node is generally \>10%. This includes intermediate-thickness melanomas (T2 or T3; 1.0-4.0 mm) where SLNB is recommended, and thick melanomas (T4; \>4.0 mm) where SLNB may be recommended after discussion of benefits and risks.
 
@@ -43,9 +41,17 @@ SLNB should be discussed and offered for melanomas \>1.0 mm thick, as the probab
 | \>2.0–4.0 mm (T3)     | 2 cm                                       |
 | \>4.0 mm (T4)         | 2 cm                                       |
 
-Sentinel Node Biopsy Indications
-
 ## Staging
+
+| **Breslow Thickness** | **Recommended Peripheral Surgical Margin** |
+|-----------------------|--------------------------------------------|
+| In situ               | 0.5–1 cm                                   |
+| ≤1.0 mm (T1)          | 1 cm                                       |
+| \>1.0–2.0 mm (T2)     | 1–2 cm                                     |
+| \>2.0–4.0 mm (T3)     | 2 cm                                       |
+| \>4.0 mm (T4)         | 2 cm                                       |
+
+## 
 
 Node positive patients are staged with "PET/CT Whole Body." This is different from PET used for staging GI cancers, which is "PET/CT Skull Base to Mid Thigh"
 
@@ -112,6 +118,12 @@ All three regimens have demonstrated clinical efficacy across AJCC 8th Edition s
 ## Systemic Adjuvant Therapy
 
 Systemic Therapy for Melanoma: ASCO Guideline Update. Journal of Clinical Oncology : Official Journal of the American Society of Clinical Oncology. 2023. Seth R, Agarwala SS, Messersmith H, et al.Guideline
+
+## Resources
+
+Cutaneous Melanoma. Lancet. 2023. Long GV, Swetter SM, Menzies AM, Gershenwald JE, Scolyer RA.
+
+Cutaneous Melanoma. The Journal of the American Medical Association. 2025. Joshi UM, Kashani-Sabet M, Kirkwood JM.
 
 # Orientation Manual
 

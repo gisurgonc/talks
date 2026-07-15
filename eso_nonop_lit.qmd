@@ -19,3 +19,11 @@ an T, Zhang X-F, Liang C, Liao C-W, Li J-Y, Zhou Y-M. The prognostic value of a 
 Bite on Bite Biopsies (PreSANO) Noordman BJ, Spaander MCW, Valkema R, et al. Detection of residual disease after neoadjuvant chemoradiotherapy for oesophageal cancer (preSANO): a prospective multicentre, diagnostic cohort study. Lancet Oncol 2018; 19: 965–74.
 
 Noordman BJ, Wijnhoven BPL, Lagarde SM, et al. Active surveillance in clinically complete responders after neoadjuvant chemoradiotherapy for esophageal or junctional cancer. Dis Esophagus 2017; 30: 1–8.
+
+## Natural History of non-Operative Therapy for Esophageal Cancer
+
+RTOG 0436 trial of definitive chemoRT: The standard dCRT control arm demonstrated a median OS of 19 months and 2-year OS of 44% (95% CI, 36–51%). The 36-month local treatment failure rate was 48.8%. Patients achieving a clinical complete response (cCR, ~53% of patients) had substantially better survival (HR 0.46), with a 3-year OS of 43.3%. [@suntharalingam1520]. A clinical complete response (cCR) rate of 81 (56%) was observed in the experimental arm vs 92 (58%) in the control arm (Fisher exact test, P = .66). No differences were seen in cCR between treatment arms for either histology (adenocarcinoma or squamous cell). Median follow-up for all patients was 18.6 months. The 24- and 36-month local failure for the experimental arm was 47% (95% CI, 38%-57%) and 49% (95% CI, 40%-59%) vs 49% (95% CI, 41%-58%) and 49% (95% CI, 41%-58%) for the control arm (HR, 0.92; 95% CI, 0.66-1.28; P = .65). The 24- and 36-month OS rates for the experimental arm were 45% (95% CI, 37%-53%) and 34% (95% CI, 26%-41%) vs 44% (95% CI, 36%-51%) and 28% (95% CI, 21%-35%) for the control arm (HR, 0.90; 95% CI, 0.70-1.16; P = .47).
+
+
+A large National Cancer Database analysis of over 57,000 patients with stage II–III esophageal cancer found that dCRT was associated with a median OS of 18.1 months, compared with 43.9 months for trimodality therapy (neoadjuvant CRT + surgery) and 66.2 months for perioperative chemotherapy (AHR for trimodality vs. dCRT: 0.45; P < .001). [@jeone2440568] 
+ 
