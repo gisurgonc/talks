@@ -121,3 +121,11 @@ FFCD 9012 [@bedenne1160] German Trial [@stahl2310]
 # Regionalization
 
 Regionalization of complex cancer surgery care. Better outcomes with regionalization of esophagectomy care within a network [@sheetz3234]
+
+## T1b Esophageal Cancer
+
+Submucosal invasion of esophageal adenocarcinoma associated with 30% risk of lymph node metastasis by 5 years [@gotnik109]. 248 patients with pT1b EAC. Metastasis seein in 78 patients. Increase in rate of metastasis with increasing depth, LVI, and larger tumors. 
+
+NCDB: T1bN0 tumors treated with esophagectomy do beter than T1bN0 treated with endoscopic resection  . [@swanson693]
+
+Multicenter retrospective study EAC T1b: 141 patients from 3 aademic medical centers. 68 esophagectomy and 73 endoscopic resection.  Five-year disease-free survival 92% vs 69%. Overall survival 89% vs 59% favoring esophagectomy [@Otak31]

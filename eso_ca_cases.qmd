@@ -66,10 +66,10 @@ What is appropriate follow up?
 ::: {.content-visible unless-format="docx"}
 AGA Guidelines
 
--   No dysplasia: 3-5 years
--   Low grade dysplasia: 6-12 months
--   High grade dysplasia 3 months
-    -   (in the absence of ablation)
+- No dysplasia: 3-5 years
+- Low grade dysplasia: 6-12 months
+- High grade dysplasia 3 months
+  - (in the absence of ablation)
 :::
 ::::
 ::::::
@@ -85,10 +85,10 @@ Biopsy strategy?
 ::: {.content-visible unless-format="docx"}
 AGA Guidelines
 
--   White light endoscopy
--   4-quadrant biopsy every 2cm
--   Mucosal irregularity biopsied separately
--   4-quadrant biopsy every 1cm if dysplasia)
+- White light endoscopy
+- 4-quadrant biopsy every 2cm
+- Mucosal irregularity biopsied separately
+- 4-quadrant biopsy every 1cm if dysplasia)
 :::
 ::::
 ::::::
@@ -104,11 +104,11 @@ Treatment Options:
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
--   [Observation]
--   [Esophagectomy]
--   [Cryotherapy]
--   [Irreversible Electroporation]
--   [Radio-frequency Ablation]
+- [Observation]
+- [Esophagectomy]
+- [Cryotherapy]
+- [Irreversible Electroporation]
+- [Radio-frequency Ablation]
 :::
 ::::
 ::::::
@@ -167,7 +167,7 @@ Radiofrequency Ablation results in eradication of Barrett's in 75% at 1 year
 
 ## Case 3
 
-EGD shows a nodule in the Barrett's esophagus
+EGD shows a 21mm nodule in the Barrett's esophagus
 
 :::::: columns
 ::: {.column width="50%"}
@@ -176,10 +176,13 @@ Treatment Options:
 
 :::: {.column width="50%"}
 ::: {.content-visible unless-format="docx"}
--   [Surveillance]
--   [Minimally Invasive Esophagectomy]
--   [Endoscopic Mucosal Resection]
--   [Radio-frequency Ablation Barxx]
+- [Surveillance]
+- [Minimally Invasive Esophagectomy]
+- **[Endoscopic Mucosal Resection]**
+- [Endoscopic Submucosal Dissection]
+- [Radio-frequency Ablation Barxx]
+
+See Forbes - ASGE guidelines - ESD for lesions >2cm
 :::
 ::::
 ::::::
@@ -238,9 +241,9 @@ Workup?
 
 Workup?
 
--   [Barium Swallow]
--   [Endoscopic Ultrasound]
--   [CT Chest/Abdomen/Pelvis]
+- [Barium Swallow]
+- [Endoscopic Ultrasound]
+- [CT Chest/Abdomen/Pelvis]
 
 ## Barium Swallow
 
@@ -270,7 +273,7 @@ which occurred during EUS
 Autopsy showed T3 adenocarcinoma
 :::
 
-[EUS in Patients with Dysphagia]
+\[EUS in Patients with Dysphagia\]
 
 [Case 4]
 
@@ -300,9 +303,22 @@ In some cases, the PET scan is not performed until a CT scans bas been done.
 
 Treatment Options - First Treatment Course
 
--   [MI Esophagectomy]
--   [Chemo + Radiation](#chemo-radiation)
--   [Chemotherapy]
+- [MI Esophagectomy]
+- [Chemo + Radiation](#chemo-radiation)
+- [Chemotherapy]
+
+
+## Patient
+
+60M with GERD abd Barrett's presents with food impaction. EGD shows a 2cm ulcerated nodular lesion. EUS shows invasion of muscularis propria
+
+- ESD
+- Ablation
+- Cryo
+- PET and surgical consultation
+- 
+
+
 
 ## MI Esophagectomy
 
@@ -318,13 +334,13 @@ Concurrent chemotherapy and radiation followed by surgery = Trimodality therapy
 
 ## CROSS Trial
 
--   368 esophageal cancer patients randomized:
-    -   Surgery alone
-    -   Chemo+RT $\rightarrow$ Surgery
--   75% adenocarcinoma
--   T3: 80%. T2: 17%
--   age $\tilde{x}$=60
--   longer survival with Chemo+RT $\rightarrow$ Surgery
+- 368 esophageal cancer patients randomized:
+  - Surgery alone
+  - Chemo+RT $\rightarrow$ Surgery
+- 75% adenocarcinoma
+- T3: 80%. T2: 17%
+- age $\tilde{x}$=60
+- longer survival with Chemo+RT $\rightarrow$ Surgery
 
 CROSS Trial Details
 
@@ -376,29 +392,29 @@ Family asks if there is a better treatment option than CROSS
 
 ## EsoPEC Trial
 
--   Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men
+- Adenocarcinoma esophagus - T1 N+ or T2-4a M0. Median age =63. 89% men
 
--   Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
+- Randomized to CROSS (n=217) vs FLOT chemotherapy (n=221) = 438
 
--   CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
+- CROSS: carboplatin/paclitaxel + 4140cGy $\rightarrow$ Surgery
 
--   FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
+- FLOT: FLOT $\rightarrow$ Surgery $\rightarrow$ FLOT
 
--   Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
+- Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ## EsoPEC Trial Results
 
--   Surgery performed in 371/438 patients
+- Surgery performed in 371/438 patients
 
--   90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)
+- 90-day mortality 4.3% (3.2% in FLOT and 5.6% CROSS)
 
--   Median survival 66mo in FLOT arm and 37mo in Cross arm
+- Median survival 66mo in FLOT arm and 37mo in Cross arm
 
--   3-year overall survival 57% FLOT vs 51% CROSS
+- 3-year overall survival 57% FLOT vs 51% CROSS
 
--   5-year overall survival 51% FLOT vs 29% CROSS
+- 5-year overall survival 51% FLOT vs 29% CROSS
 
--   pCR 17% for FLOT and 10% CROSS
+- pCR 17% for FLOT and 10% CROSS
 
 ## Case 7
 
@@ -434,17 +450,17 @@ What are surgical options?
 
 Surgery for esophageal cancer is performed for:
 
--   Superficial Tumors (T1) not completely removed by endoscopy
--   Localized Tumors (T2N0)
--   Locally Advanced (T3) after preoperative therapy.
+- Superficial Tumors (T1) not completely removed by endoscopy
+- Localized Tumors (T2N0)
+- Locally Advanced (T3) after preoperative therapy.
 
 ## Goals of Surgery
 
 ::::: columns
 ::: {.column width="50%"}
--   Remove tumor from esophagus
--   Remove surrounding lymph nodes
--   Create a new esophagus
+- Remove tumor from esophagus
+- Remove surrounding lymph nodes
+- Create a new esophagus
 :::
 
 ::: {.column width="50%"}
@@ -456,10 +472,10 @@ Surgery for esophageal cancer is performed for:
 
 ::::: columns
 ::: {.column width="50%"}
--   Removes tumor
--   Removes lower 1/3 of esophagus
--   Removes surrounding lymph nodes
--   Reconstruction of GI tract
+- Removes tumor
+- Removes lower 1/3 of esophagus
+- Removes surrounding lymph nodes
+- Reconstruction of GI tract
 :::
 
 ::: {.column width="50%"}
@@ -483,9 +499,9 @@ A new esophagus is created from the stomach in the abdomen by fashioning it into
 
 ::::: columns
 ::: {.column width="50%"}
--   Laparoscopic mobilization of stomach
--   Construction of gastric conduit
--   Thoracic anastomosis
+- Laparoscopic mobilization of stomach
+- Construction of gastric conduit
+- Thoracic anastomosis
 :::
 
 ::: {.column width="50%"}
@@ -587,7 +603,15 @@ If the stomach is not suitable to make a new esophagus, the colon can be used to
 
 ![](https://deidt7p41jzcy.cloudfront.net/colon_interposition_elseiver.jpg)
 
-## 
+## Postop nutrition
+
+Postop patient has macrocytic anemia with Hb 8.5 and MCV 110fL. Which is most likely nutritonal deficit?
+
+- Vitamin B1
+- Vitamin B6
+- Vitamin B12
+- Vitamin C
+- Vitamin D
 
 ## Orientation Handbook
 

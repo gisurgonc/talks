@@ -45,6 +45,6 @@ GASTRIPEC-I Trial [@rau146] 105 patients with carcinomatosis from gastric cancer
 
 Review of cytoreduction [@khan1176]
 
-CYROCHIP: retrospective study with 18% 5-year survival. All patients who were disease-free at 5 years had PCI \<7 and CC-0 cytoreduction.
+CYTOCHIP: [@bonnot2028] retrospective study with 18% 5-year survival. All patients who were disease-free at 5 years had PCI \<7 and CC-0 cytoreduction. 277 patients with peritoneal metastasis from gastric cancer treated with cytoreductive surgery with curative intent (with no nodules \>2.5mm). 180 had CRS-HIPEC and 97 had CRS alone. CRS-HIPEC associated with longer DFS and OS.
 
 STOPGAP I study [@senthil209]: Dx laparoscopy and peritoneal lavage and IP port placement. Treatment with IP paclataxel on day 1 and 8 with 5FU/LV and IV paclitaxel for 4 21-day cycles. Imaging and diagnostic laparoscopy after 4 cycles. 95% completed all 4 cycles. 10/28 patients underwent resection. Progression-free survival of 14 months.

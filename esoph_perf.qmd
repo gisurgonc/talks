@@ -20,21 +20,21 @@ Perforation can occur through mucosa, muscle, or adventitia. The esophagus lacks
 
 # Etiology
 
--   Iatrogenic, most frequently endoscopy. The most common site of injury is the cricopharyngeus, but when esophageal dilatation is performed, the site of perforation is at the stricture of the original disease.
+- Iatrogenic, most frequently endoscopy. The most common site of injury is the cricopharyngeus, but when esophageal dilatation is performed, the site of perforation is at the stricture of the original disease.
 
--   Postemesis, such as Boerhaave syndrome. Other causes of a sudden rise in intraesophageal pressure include weightlifting, laughing, hyperemesis gravidarum, and seizures. Spontaneous rupture almost always occurs on the left side of the distal third of the esophagus.
+- Postemesis, such as Boerhaave syndrome. Other causes of a sudden rise in intraesophageal pressure include weightlifting, laughing, hyperemesis gravidarum, and seizures. Spontaneous rupture almost always occurs on the left side of the distal third of the esophagus.
 
--   Trauma (penetrating and blunt).
+- Trauma (penetrating and blunt).
 
--   Steering wheel injury
+- Steering wheel injury
 
--   Pharmacologic agents: KCl, NSAIDs
+- Pharmacologic agents: KCl, NSAIDs
 
--   Caustic injury
+- Caustic injury
 
 # Diagnosis (Physical Findings)
 
--   PE crepitus chest, neck, or face; neck swelling; epigastric tenderness; and nasal voice. Sometimes results are normal.
+- PE crepitus chest, neck, or face; neck swelling; epigastric tenderness; and nasal voice. Sometimes results are normal.
 
 # Diagnostic Tests
 
@@ -46,36 +46,48 @@ Upper GI with gastrograffin (?)
 
 # Treatment
 
--Treatment of contamination
--Wide local drainage 
--Source control 
--Enteral feeding access
+-Treatment of contamination -Wide local drainage -Source control -Enteral feeding access
 
 # Surgical Options
 
--   High perforations (cerviaL)
--   Mid-esohageal
--   Lower esophagus
+- High perforations (cerviaL)
+- Mid-esohageal
+- Lower esophagus
 
 # Surgical Principles
 
--   Myotomy for exposure and debridement
--   Primary repair
-    -   Small injuries
-    -   Two layers
-    -   Tissue flap (intercostal, pericardial flap, pleura, omentum)
--   T tube for larger injuries
--   Esophageal exclusion with cervical esophagostomy
+- Myotomy for exposure and debridement
+- Primary repair
+  - Small injuries
+  - Two layers
+  - Tissue flap (intercostal, pericardial flap, pleura, omentum)
+- T tube for larger injuries
+- Esophageal exclusion with cervical esophagostomy
+
+Case
+
+Unresectable esophageal cancer presents with sudden onset chest pain. No effusion. CTE shows small contained leak
+
+- **EGD with stent**
+
+- Left thoracotomy with washout
+
+- IV abx and bowel rest and NG
+
+- IV antibtiocs
+
+- Exclusion and diversion
 
 # Nonoperative Management
 
--   Clinical stability, with minimal signs of sepsis or systemic inflammatory response on presentation. Patients must remain this way; they should have a reliable examination and constant monitoring for any changes in clinical status.
--   Instrumental perforations in which patients have been nil per os (NPO; nothing by mouth) and in which the perforation is detected early or "tolerance" develops to the perforation without the need for surgery
--   Perforation contained within the neck or mediastinum with no extravasation and no signs of crepitus, pneumothorax, or pneumoperitoneum
+- Clinical stability, with minimal signs of sepsis or systemic inflammatory response on presentation. Patients must remain this way; they should have a reliable examination and constant monitoring for any changes in clinical status.
+- Instrumental perforations in which patients have been nil per os (NPO; nothing by mouth) and in which the perforation is detected early or "tolerance" develops to the perforation without the need for surgery
+- Perforation contained within the neck or mediastinum with no extravasation and no signs of crepitus, pneumothorax, or pneumoperitoneum
 
 # Non-operative management
 
--   NPO status
--   IV fluid resuscitation
--   Antibiotics (including antifungal)
--   Nutrition (enteral or parenteral)
+- NPO status
+- IV fluid resuscitation
+- Antibiotics (including antifungal)
+- Nutrition (enteral or parenteral)
+

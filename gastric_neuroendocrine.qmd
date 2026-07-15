@@ -1,0 +1,31 @@
+---
+title: "Gastric Neuroendocrine Tumors"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
+editor: visual
+bibliography: zotero.bib
+---
+
+## Neuroendocrine Tumors
+
+Low Grade G1: Ki-67 \<3%
+
+Intermediate Grade G2: Ki-67 3-30%
+
+High Grade G3: Ki-67 \>30%
+
+Obstructing carcinoid with liver mets -\> small bowel resection with cholecystectomy and resection of mesentery
