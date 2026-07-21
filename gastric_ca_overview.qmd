@@ -88,37 +88,54 @@ Epstein-Barr virus (EBV): associated with \~7.5% of gastric cancers.
 
   - CDH1 encodes E-cadherin, a cell adhesion protein.
 
-  - Also associated with lobular breast cancer (37–55% lifetime risk in females).[^1] \[7\]
+  - Also associated with lobular breast cancer (37–55% lifetime risk in females).[^1]
 
-- Lynch syndrome (mismatch repair gene mutations) — gastric cancer in up to 10% of families \[8\]
+- Lynch syndrome (mismatch repair gene mutations) — gastric cancer in up to 10% of families
 
-- FAP (APC mutations) — increased risk of gastric adenomas and cancer \[7\]
+- FAP (APC mutations) — increased risk of gastric adenomas and cancer
 
-- BRCA1/BRCA2 germline variants — emerging evidence of increased gastric cancer risk \[9\]
+- BRCA1/BRCA2 germline variants — emerging evidence of increased gastric cancer risk
 
 [^1]: [**Genetic/­Familial High-Risk Assessment: Colorectal, Endometrial, Esophageal, and Gastric.**](https://www.nccn.org/professionals/physician_gls/pdf/genetics_ceeg.pdf?utm_source=openevidence#page=75)
 
-    **![](https://www.openevidence.com/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dhttps%3A%2F%2Fwww.nccn.org%2F%26sz%3D32&w=48&q=75){alt=""}National Comprehensive Cancer Network. Updated 2026-06-16.Guideline**
-
 ## Protective Factors
 
-- H. pylori eradication (46% reduction in gastric cancer incidence) [^2]\[10\]
+- H. pylori eradication (46% reduction in gastric cancer incidence) [^2]
 
 - Diets high in fruits and vegetables
 
 - Aspirin/NSAID use (some evidence)
 
-[^2]: [**AGA Clinical Practice Update on Screening and Surveillance in Individuals at Increased Risk for Gastric Cancer in the United States: Expert Review.**](https://doi.org/10.1053/j.gastro.2024.11.001)
+[^2]: [@chey1730]
 
-    **![](https://www.openevidence.com/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dhttps%3A%2F%2Fgastro.org%2F%26sz%3D32&w=48&q=75){alt=""}Gastroenterology. 2025. Shah SC, Wang AY, Wallace MB, Hwang JH.Guideline**
+## Histologic Types
 
-## SLIDE 3: Epidemiology — Global Perspective
++----------------------+-------------------------+----------------------------------------------------------+
+| Feataures            | Intestinal Type (\~50%) | Diffuse Type (\~30%)                                     |
++======================+=========================+==========================================================+
+| Histology            | Glandular/papillary\    | Poorly cohesive, dedifferentiated, **signet ring cells** |
+|                      | well-differentiated     |                                                          |
++----------------------+-------------------------+----------------------------------------------------------+
+| Precursor            | Follows Correa cascade  | Does NOT require chronic inflammation                    |
++----------------------+-------------------------+----------------------------------------------------------+
+| H Pylori Association | Strong                  | Present                                                  |
++----------------------+-------------------------+----------------------------------------------------------+
+| Location             | Antrum, body            | Any location (or entire stomach)                         |
++----------------------+-------------------------+----------------------------------------------------------+
+| Gross appearance     | Polypoid, fungating     | Linitis plastica ("leather bottle")                      |
++----------------------+-------------------------+----------------------------------------------------------+
+| Spread               | Hematogenous (Liver)    | Peritoneal (Krukenburg tumors, carcinomatosis)           |
++----------------------+-------------------------+----------------------------------------------------------+
+| Key mutation         | P53                     | **CDH1** (E-cadherin loss)                               |
++----------------------+-------------------------+----------------------------------------------------------+
 
-## 
+Mixed tumors in 20%
 
-- \*\*Rising incidence in patients FeatureIntestinal Type (\~50%)Diffuse Type (\~30%)Mixed (\~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate
-- Signet ring cell histology portends resistance to systemic therapy and poor prognosis
-- Laurén classification remains the most commonly used for subgroup analyses in clinical trials
+Signet ring cell histology portends resistance to systemic therapy and poor prognosis
+
+::: aside
+[@patel342]
+:::
 
 ## Adenocarcinoma GE Junction - Siewert Classification
 
@@ -141,6 +158,14 @@ Type III: Subcardial
 ![](images/siewert_classification_800x900.png)
 :::
 :::::
+
+## Molecular Genetics
+
+Subtype	Frequency	Key Features	Clinical Relevance
+<strong>Chromosomal Instability (CIN)</strong>	~50%	TP53 mutations, aneuploidy, RTK amplifications (HER2, EGFR, FGFR2)	Most common; responds to cisplatin-based chemo; HER2-targeted therapy
+<strong>Microsatellite Instability (MSI)</strong>	~20%	High mutation burden, MLH1 hypermethylation, dense lymphocyte infiltration	Better prognosis; responds to <strong>immune checkpoint inhibitors</strong>
+<strong>EBV-positive</strong>	~9%	PIK3CA mutations, PD-L1/PD-L2 amplification, extreme DNA hypermethylation	High immunogenicity; responds to immunotherapy
+<strong>Genomically Stable (GS)</strong>	~20%	CDH1/RHOA mutations, CLDN18-ARHGAP fusions, diffuse histology	Worst prognosis; target for CLDN18.2-directed therapy
 
 ## Gastric Cancer Treatment Categories
 
@@ -235,16 +260,25 @@ By the end of this presentation, students should be able to:
 6.  Outline stage-appropriate treatment strategies including surgery, chemotherapy, immunotherapy, and targeted therapy
 7.  Identify key biomarkers that guide treatment decisions
 
-------------------------------------------------------------------------
-
-## SLIDE 8: Molecular Classification — TCGA Subtypes
-
-SubtypeFrequencyKey FeaturesClinical Relevance**Chromosomal Instability (CIN)**\~50%TP53 mutations, aneuploidy, RTK amplifications (ERBB2, EGFR, FGFR2)80% of GEJ/cardia tumors; HER2-targeted therapy**Microsatellite Instability (MSI)**\~20%High mutation burden, dMMR, dense lymphocyte infiltrationBest response to immune checkpoint inhibitors**EBV-positive**\~9%PIK3CA mutations, PD-L1/PD-L2 overexpression, CDKN2A methylationHigh immunogenicity; responds to immunotherapy**Genomically Stable (GS)**\~20%CDH1/RHOA mutations, diffuse histology, EMT featuresWorst prognosis; limited targeted options
-
-- MSI and EBV-positive subtypes are associated with better responses to immune checkpoint inhibitors
-- CIN subtype enriched for targetable amplifications (HER2, FGFR2)
-
-------------------------------------------------------------------------
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
++:=====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+
+| \## Intestinal-type gastric carcinogenesis: Corea Cascase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Normal mucosa → Chronic gastritis (H. pylori) → Atrophic gastritis → Intestinal metaplasia → Dysplasia → Adenocarcinoma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Each step involves accumulating genetic and epigenetic changes (chromosomal instability, DNA methylation). \[3\]\[11\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Gastric intestinal metaplasia (GIM) is a key precancerous lesion; 10-year cumulative risk of progression to cancer is \~1.6% overall, but 2–4.5× higher in high-risk GIM. \[11\]                                                                                                                                                                                                                                                                                                                                                                                                                                     |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| H. pylori eradication can reduce cancer risk but has limited effect on reversing established intestinal metaplasia. \[12\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \## SLIDE 8: Molecular Classification — TCGA Subtypes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| SubtypeFrequencyKey FeaturesClinical Relevance**Chromosomal Instability (CIN)**\~50%TP53 mutations, aneuploidy, RTK amplifications (ERBB2, EGFR, FGFR2)80% of GEJ/cardia tumors; HER2-targeted therapy**Microsatellite Instability (MSI)**\~20%High mutation burden, dMMR, dense lymphocyte infiltrationBest response to immune checkpoint inhibitors**EBV-positive**\~9%PIK3CA mutations, PD-L1/PD-L2 overexpression, CDKN2A methylationHigh immunogenicity; responds to immunotherapy**Genomically Stable (GS)**\~20%CDH1/RHOA mutations, diffuse histology, EMT featuresWorst prognosis; limited targeted options |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| \- MSI and EBV-positive subtypes are associated with better responses to immune checkpoint inhibitors - CIN subtype enriched for targetable amplifications (HER2, FGFR2)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 ## SLIDE 9: Clinical Presentation
 
