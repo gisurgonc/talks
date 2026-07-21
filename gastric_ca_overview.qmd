@@ -27,7 +27,7 @@ bibliography: zotero.bib
 - \~30,300 new cases and \~10,780 deaths in the US (2025)
 
 ::: aside
-Gastric Cancer. Patel AK, Sethi NS, Park H. JAMA. 2026;:2843616. doi:10.1001/jama.2025.20034.
+[@patel342]
 :::
 
 ## Global Epidemiology
@@ -35,30 +35,104 @@ Gastric Cancer. Patel AK, Sethi NS, Park H. JAMA. 2026;:2843616. doi:10.1001/jam
 - **Incidence hotspots:** East Asia, Eastern Europe, South America
 - Incidence 2× higher in males than females
 - Median age at diagnosis: **68 years**
-- Globally, 85% of cases in stomach body or antrum; 15% inthe cardia
+- Globally, 85% of cases in stomach body or antrum; 15% in the cardia
 - In North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases
 - Overall incidence declining over the past century
   - improved food preservation
   - declining H. pylori prevalence
 
 ::: aside
-Gastric Cancer. Patel AK, Sethi NS, Park H. JAMA. 2026;:2843616. doi:10.1001/jama.2025.20034.
+[@patel342]
 :::
 
+## Risk Factors - Infectious
+
+- Helicobacter pylori:
+  - WHO Class I carcinogen; attributable risk of 75–90% for noncardia gastric cancer.
+  - Only \~3% of infected individuals develop cancer.
+  - Key virulence factors: CagA (oncoprotein) and VacA (vacuolating cytotoxin).
+
+::: aside
+[@patel342]
+:::
+
+Epstein-Barr virus (EBV): associated with \~7.5% of gastric cancers.
+
+## Risk Factors - Environmental/Lifestyle
+
+- High salt intake, smoked/preserved foods (OR \~2.1) \[5\]
+
+- Smoking (OR \~1.25), heavy alcohol use (OR \~1.37) \[1\]
+
+- Obesity (OR \~1.7) — particularly for cardia/GEJ cancers \[5\]
+
+::: aside
+[@patel342]
+:::
+
+## Risk Factors - Medical Conditions
+
+- Pernicious anemia / autoimmune atrophic gastritis \[3\]
+
+- Prior partial gastrectomy (gastric stump cancer)
+
+- Gastric adenomatous polyps \[6\]
+
+- Ménétrier disease (giant hypertrophic gastritis)
+
+## Risk Factors - Genetic/Hereditary
+
+- CDH1 mutations → Hereditary Diffuse Gastric Cancer (HDGC)
+
+  - autosomal dominant; 37–42% lifetime risk in males, 25–33% in females.
+
+  - CDH1 encodes E-cadherin, a cell adhesion protein.
+
+  - Also associated with lobular breast cancer (37–55% lifetime risk in females).[^1] \[7\]
+
+- Lynch syndrome (mismatch repair gene mutations) — gastric cancer in up to 10% of families \[8\]
+
+- FAP (APC mutations) — increased risk of gastric adenomas and cancer \[7\]
+
+- BRCA1/BRCA2 germline variants — emerging evidence of increased gastric cancer risk \[9\]
+
+[^1]: [**Genetic/­Familial High-Risk Assessment: Colorectal, Endometrial, Esophageal, and Gastric.**](https://www.nccn.org/professionals/physician_gls/pdf/genetics_ceeg.pdf?utm_source=openevidence#page=75)
+
+    **![](https://www.openevidence.com/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dhttps%3A%2F%2Fwww.nccn.org%2F%26sz%3D32&w=48&q=75){alt=""}National Comprehensive Cancer Network. Updated 2026-06-16.Guideline**
+
+## Protective Factors
+
+- H. pylori eradication (46% reduction in gastric cancer incidence) [^2]\[10\]
+
+- Diets high in fruits and vegetables
+
+- Aspirin/NSAID use (some evidence)
+
+[^2]: [**AGA Clinical Practice Update on Screening and Surveillance in Individuals at Increased Risk for Gastric Cancer in the United States: Expert Review.**](https://doi.org/10.1053/j.gastro.2024.11.001)
+
+    **![](https://www.openevidence.com/_next/image?url=https%3A%2F%2Fwww.google.com%2Fs2%2Ffavicons%3Fdomain%3Dhttps%3A%2F%2Fgastro.org%2F%26sz%3D32&w=48&q=75){alt=""}Gastroenterology. 2025. Shah SC, Wang AY, Wallace MB, Hwang JH.Guideline**
+
+## SLIDE 3: Epidemiology — Global Perspective
+
+## 
+
+- \*\*Rising incidence in patients FeatureIntestinal Type (\~50%)Diffuse Type (\~30%)Mixed (\~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate
+- Signet ring cell histology portends resistance to systemic therapy and poor prognosis
+- Laurén classification remains the most commonly used for subgroup analyses in clinical trials
 
 ## Adenocarcinoma GE Junction - Siewert Classification
 
 ::::: {.columns align="center"}
 ::: {.column width="60%"}
-Type I: Distal esophagus 
+Type I: Distal esophagus
 
 - (1–5 cm above GEJ)
 
-Type II: True cardia 
+Type II: True cardia
 
 - (1 cm above to 2 cm below GEJ)
 
-Type III: Subcardial 
+Type III: Subcardial
 
 - (2–5 cm below GEJ)
 :::
@@ -67,9 +141,6 @@ Type III: Subcardial
 ![](images/siewert_classification_800x900.png)
 :::
 :::::
-
-
-
 
 ## Gastric Cancer Treatment Categories
 
@@ -163,16 +234,6 @@ By the end of this presentation, students should be able to:
 5.  Understand the TNM staging system and its prognostic implications
 6.  Outline stage-appropriate treatment strategies including surgery, chemotherapy, immunotherapy, and targeted therapy
 7.  Identify key biomarkers that guide treatment decisions
-
-------------------------------------------------------------------------
-
-## SLIDE 3: Epidemiology — Global Perspective
-
-## 
-
-- \*\*Rising incidence in patients FeatureIntestinal Type (\~50%)Diffuse Type (\~30%)Mixed (\~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate
-- Signet ring cell histology portends resistance to systemic therapy and poor prognosis
-- Laurén classification remains the most commonly used for subgroup analyses in clinical trials
 
 ------------------------------------------------------------------------
 
