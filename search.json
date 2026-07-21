@@ -1033,28 +1033,21 @@
     "href": "gastric_ca_overview.htm#risk-factors---genetichereditary",
     "title": "Gastric Cancer",
     "section": "Risk Factors - Genetic/Hereditary",
-    "text": "Risk Factors - Genetic/Hereditary\n\nCDH1 mutations → Hereditary Diffuse Gastric Cancer (HDGC)\n\nautosomal dominant; 37–42% lifetime risk in males, 25–33% in females.\nCDH1 encodes E-cadherin, a cell adhesion protein.\nAlso associated with lobular breast cancer (37–55% lifetime risk in females).1 [7]\n\nLynch syndrome (mismatch repair gene mutations) — gastric cancer in up to 10% of families [8]\nFAP (APC mutations) — increased risk of gastric adenomas and cancer [7]\nBRCA1/BRCA2 germline variants — emerging evidence of increased gastric cancer risk [9]\n\nGenetic/­Familial High-Risk Assessment: Colorectal, Endometrial, Esophageal, and Gastric.\nNational Comprehensive Cancer Network. Updated 2026-06-16.Guideline"
+    "text": "Risk Factors - Genetic/Hereditary\n\nCDH1 mutations → Hereditary Diffuse Gastric Cancer (HDGC)\n\nautosomal dominant; 37–42% lifetime risk in males, 25–33% in females.\nCDH1 encodes E-cadherin, a cell adhesion protein.\nAlso associated with lobular breast cancer (37–55% lifetime risk in females).1\n\nLynch syndrome (mismatch repair gene mutations) — gastric cancer in up to 10% of families\nFAP (APC mutations) — increased risk of gastric adenomas and cancer\nBRCA1/BRCA2 germline variants — emerging evidence of increased gastric cancer risk\n\nGenetic/­Familial High-Risk Assessment: Colorectal, Endometrial, Esophageal, and Gastric."
   },
   {
     "objectID": "gastric_ca_overview.htm#protective-factors",
     "href": "gastric_ca_overview.htm#protective-factors",
     "title": "Gastric Cancer",
     "section": "Protective Factors",
-    "text": "Protective Factors\n\nH. pylori eradication (46% reduction in gastric cancer incidence) 1[10]\nDiets high in fruits and vegetables\nAspirin/NSAID use (some evidence)\n\nAGA Clinical Practice Update on Screening and Surveillance in Individuals at Increased Risk for Gastric Cancer in the United States: Expert Review.\nGastroenterology. 2025. Shah SC, Wang AY, Wallace MB, Hwang JH.Guideline"
+    "text": "Protective Factors\n\nH. pylori eradication (46% reduction in gastric cancer incidence) 1\nDiets high in fruits and vegetables\nAspirin/NSAID use (some evidence)\n\n(chey1730?)"
   },
   {
-    "objectID": "gastric_ca_overview.htm#slide-3-epidemiology-global-perspective",
-    "href": "gastric_ca_overview.htm#slide-3-epidemiology-global-perspective",
+    "objectID": "gastric_ca_overview.htm#histologic-types",
+    "href": "gastric_ca_overview.htm#histologic-types",
     "title": "Gastric Cancer",
-    "section": "SLIDE 3: Epidemiology — Global Perspective",
-    "text": "SLIDE 3: Epidemiology — Global Perspective"
-  },
-  {
-    "objectID": "gastric_ca_overview.htm#section",
-    "href": "gastric_ca_overview.htm#section",
-    "title": "Gastric Cancer",
-    "section": "",
-    "text": "**Rising incidence in patients FeatureIntestinal Type (~50%)Diffuse Type (~30%)Mixed (~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate\nSignet ring cell histology portends resistance to systemic therapy and poor prognosis\nLaurén classification remains the most commonly used for subgroup analyses in clinical trials"
+    "section": "Histologic Types",
+    "text": "Histologic Types\n\n\n\n\n\n\n\n\nFeataures\nIntestinal Type (~50%)\nDiffuse Type (~30%)\n\n\n\n\nHistology\nGlandular/papillary\nwell-differentiated\nPoorly cohesive, dedifferentiated, signet ring cells\n\n\nPrecursor\nFollows Correa cascade\nDoes NOT require chronic inflammation\n\n\nH Pylori Association\nStrong\nPresent\n\n\nLocation\nAntrum, body\nAny location (or entire stomach)\n\n\nGross appearance\nPolypoid, fungating\nLinitis plastica (“leather bottle”)\n\n\nSpread\nHematogenous (Liver)\nPeritoneal (Krukenburg tumors, carcinomatosis)\n\n\nKey mutation\nP53\nCDH1 (E-cadherin loss)\n\n\n\nMixed tumors in 20%\nSignet ring cell histology portends resistance to systemic therapy and poor prognosis\n\n\n(patel342?)"
   },
   {
     "objectID": "gastric_ca_overview.htm#adenocarcinoma-ge-junction---siewert-classification",
@@ -1062,6 +1055,13 @@
     "title": "Gastric Cancer",
     "section": "Adenocarcinoma GE Junction - Siewert Classification",
     "text": "Adenocarcinoma GE Junction - Siewert Classification\n\n\nType I: Distal esophagus\n\n(1–5 cm above GEJ)\n\nType II: True cardia\n\n(1 cm above to 2 cm below GEJ)\n\nType III: Subcardial\n\n(2–5 cm below GEJ)"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#molecular-genetics",
+    "href": "gastric_ca_overview.htm#molecular-genetics",
+    "title": "Gastric Cancer",
+    "section": "Molecular Genetics",
+    "text": "Molecular Genetics\nSubtype Frequency Key Features Clinical Relevance Chromosomal Instability (CIN) ~50% TP53 mutations, aneuploidy, RTK amplifications (HER2, EGFR, FGFR2) Most common; responds to cisplatin-based chemo; HER2-targeted therapy Microsatellite Instability (MSI) ~20% High mutation burden, MLH1 hypermethylation, dense lymphocyte infiltration Better prognosis; responds to immune checkpoint inhibitors EBV-positive ~9% PIK3CA mutations, PD-L1/PD-L2 amplification, extreme DNA hypermethylation High immunogenicity; responds to immunotherapy Genomically Stable (GS) ~20% CDH1/RHOA mutations, CLDN18-ARHGAP fusions, diffuse histology Worst prognosis; target for CLDN18.2-directed therapy"
   },
   {
     "objectID": "gastric_ca_overview.htm#gastric-cancer-treatment-categories",
@@ -1117,14 +1117,7 @@
     "href": "gastric_ca_overview.htm#slide-2-learning-objectives",
     "title": "Gastric Cancer",
     "section": "SLIDE 2: Learning Objectives",
-    "text": "SLIDE 2: Learning Objectives\nBy the end of this presentation, students should be able to:\n\nDescribe the epidemiology and key risk factors for gastric cancer\nExplain the Correa cascade and pathogenesis of gastric cancer\nDifferentiate histologic (Laurén) and molecular (TCGA) classification systems\nRecognize the clinical presentation and diagnostic workup\nUnderstand the TNM staging system and its prognostic implications\nOutline stage-appropriate treatment strategies including surgery, chemotherapy, immunotherapy, and targeted therapy\nIdentify key biomarkers that guide treatment decisions"
-  },
-  {
-    "objectID": "gastric_ca_overview.htm#slide-8-molecular-classification-tcga-subtypes",
-    "href": "gastric_ca_overview.htm#slide-8-molecular-classification-tcga-subtypes",
-    "title": "Gastric Cancer",
-    "section": "SLIDE 8: Molecular Classification — TCGA Subtypes",
-    "text": "SLIDE 8: Molecular Classification — TCGA Subtypes\nSubtypeFrequencyKey FeaturesClinical RelevanceChromosomal Instability (CIN)~50%TP53 mutations, aneuploidy, RTK amplifications (ERBB2, EGFR, FGFR2)80% of GEJ/cardia tumors; HER2-targeted therapyMicrosatellite Instability (MSI)~20%High mutation burden, dMMR, dense lymphocyte infiltrationBest response to immune checkpoint inhibitorsEBV-positive~9%PIK3CA mutations, PD-L1/PD-L2 overexpression, CDKN2A methylationHigh immunogenicity; responds to immunotherapyGenomically Stable (GS)~20%CDH1/RHOA mutations, diffuse histology, EMT featuresWorst prognosis; limited targeted options\n\nMSI and EBV-positive subtypes are associated with better responses to immune checkpoint inhibitors\nCIN subtype enriched for targetable amplifications (HER2, FGFR2)"
+    "text": "SLIDE 2: Learning Objectives\nBy the end of this presentation, students should be able to:\n\nDescribe the epidemiology and key risk factors for gastric cancer\nExplain the Correa cascade and pathogenesis of gastric cancer\nDifferentiate histologic (Laurén) and molecular (TCGA) classification systems\nRecognize the clinical presentation and diagnostic workup\nUnderstand the TNM staging system and its prognostic implications\nOutline stage-appropriate treatment strategies including surgery, chemotherapy, immunotherapy, and targeted therapy\nIdentify key biomarkers that guide treatment decisions\n\n\n\n\n\n\n\n## Intestinal-type gastric carcinogenesis: Corea Cascase\n\n\nNormal mucosa → Chronic gastritis (H. pylori) → Atrophic gastritis → Intestinal metaplasia → Dysplasia → Adenocarcinoma\n\n\nEach step involves accumulating genetic and epigenetic changes (chromosomal instability, DNA methylation). [3][11]\n\n\nGastric intestinal metaplasia (GIM) is a key precancerous lesion; 10-year cumulative risk of progression to cancer is ~1.6% overall, but 2–4.5× higher in high-risk GIM. [11]\n\n\nH. pylori eradication can reduce cancer risk but has limited effect on reversing established intestinal metaplasia. [12]\n\n\n## SLIDE 8: Molecular Classification — TCGA Subtypes\n\n\nSubtypeFrequencyKey FeaturesClinical RelevanceChromosomal Instability (CIN)~50%TP53 mutations, aneuploidy, RTK amplifications (ERBB2, EGFR, FGFR2)80% of GEJ/cardia tumors; HER2-targeted therapyMicrosatellite Instability (MSI)~20%High mutation burden, dMMR, dense lymphocyte infiltrationBest response to immune checkpoint inhibitorsEBV-positive~9%PIK3CA mutations, PD-L1/PD-L2 overexpression, CDKN2A methylationHigh immunogenicity; responds to immunotherapyGenomically Stable (GS)~20%CDH1/RHOA mutations, diffuse histology, EMT featuresWorst prognosis; limited targeted options\n\n\n- MSI and EBV-positive subtypes are associated with better responses to immune checkpoint inhibitors - CIN subtype enriched for targetable amplifications (HER2, FGFR2)"
   },
   {
     "objectID": "gastric_ca_overview.htm#slide-9-clinical-presentation",
