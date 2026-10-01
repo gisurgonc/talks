@@ -123,6 +123,16 @@ KIT/PDGFRA-negative GIST should be tested for:
 Weldon JCS 2017
 :::
 
+## Germline SDH mutations
+
+SDH: Succinate dehydrogenase
+Paraganglioma-pheochromocytoma PPGL syndrome (PGL-1)
+
+
+
+The following lecture is designed for a surgical resident audience, structured as a teaching handout covering the molecular biology of the succinate dehydrogenase (SDH) complex, the paraganglioma–pheochromocytoma (PPGL) syndromes (PGL1–5), SDH-deficient GIST, perioperative surgical management, and lifelong surveillance of carriers. [1-7] Key surgical teaching points are emphasized throughout — mandatory germline testing of all PPGL patients, preoperative alpha-blockade and biochemical screening before any operation, total (not cortical-sparing) adrenalectomy for SDHB pheochromocytoma, and the distinct biology and imatinib-resistance of SDH-deficient GIST. [1][3-6][8]
+
+
 
 ## NF1-associated GIST
 

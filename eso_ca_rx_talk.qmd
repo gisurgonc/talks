@@ -22,22 +22,22 @@ bibliography: zotero.bib
 
 ## Esophageal Cancer Treatment Categories
 
-+-------------------------------------+-----------+------------+-----------------------------+
-| Category                            | AJCC      | Stage      | Treatment                   |
-+=====================================+===========+:==========:+:============================+
-| [High-grade Dyplasia](#dysplasia)   | 0         | Tis        | Radiofrequency Ablation     |
-+-------------------------------------+-----------+------------+-----------------------------+
-| [Superficial Tumors](#superficial)  | I         | T1a        | Endoscopic Therapy          |
-+-------------------------------------+-----------+------------+-----------------------------+
-| [Localized Tumors](#localized)      | IIB       | T1b T2     | Surgery                     |
-+-------------------------------------+-----------+------------+-----------------------------+
-| [Locally-advanced](#local_advanced) | III\      | T3 or N^+^ | Chemo $\pm$ RT → Surgery    |
-|                                     | IIA       |            |                             |
-+-------------------------------------+-----------+------------+-----------------------------+
-| [Extra-Regional](#extra_regional)   | IVA       | N3         | Chemo→ ChemoRT→ Surgery     |
-+-------------------------------------+-----------+------------+-----------------------------+
-| [Metastatic](#metastatic)           | IVB       | M1         | Chemotherapy $\pm$Radiation |
-+-------------------------------------+-----------+------------+-----------------------------+
++-------------------------------------+------------+------------+-----------------------------+
+| Category                            | AJCC       | Stage      | Treatment                   |
++=====================================+============+:==========:+:============================+
+| [High-grade Dyplasia](#dysplasia)   | 0          | Tis        | Radiofrequency Ablation     |
++-------------------------------------+------------+------------+-----------------------------+
+| [Superficial Tumors](#superficial)  | I          | T1a        | Endoscopic Therapy          |
++-------------------------------------+------------+------------+-----------------------------+
+| [Localized Tumors](#localized)      | IIB        | T1b T2     | Surgery                     |
++-------------------------------------+------------+------------+-----------------------------+
+| [Locally-advanced](#local_advanced) | III\       | T3 or N^+^ | Chemo $\pm$ RT → Surgery    |
+|                                     | IIA        |            |                             |
++-------------------------------------+------------+------------+-----------------------------+
+| [Extra-Regional](#extra_regional)   | IVA        | N3         | Chemo→ ChemoRT→ Surgery     |
++-------------------------------------+------------+------------+-----------------------------+
+| [Metastatic](#metastatic)           | IVB        | M1         | Chemotherapy $\pm$Radiation |
++-------------------------------------+------------+------------+-----------------------------+
 
 ## High-grade Dyplasia =\> Radiofrequency Ablation {#dysplasia}
 
@@ -89,7 +89,7 @@ Workup of nodular Barretts:
   - Diagnostic (T staging)
   - May be therapeutic for T1a tumors
 
-## Endoscopic Musocal Resection for T1 Tumors
+## Endoscopic  Resection for T1 Tumors
 
 ![](images/EMR.jpg){fig-align="right"}
 
@@ -115,6 +115,8 @@ Patients staged as uT2 N0 are candidates for primary surgery. *However:*
 - If uT3 or N1 $\rightarrow$ PET $\rightarrow$ neoadjuvant therapy
 
 Patients with dysphagia almost always are T3 tumors (and don't need EUS)
+
+Patients with dysphagia can be *clinically* staged as T3 without EUS
 
 ## Symptomatic Tumors (dysphagia)
 
@@ -175,13 +177,13 @@ Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 ## CROSS Surgery vs ChemoRT $\rightarrow$Surgery
 
 |                 | Surgery | CRT$\rightarrow$Surgery |          |
-|-----------------|:--------:|:-----------------------:|----------|
-| Time to Surgery |   24d    |           97d           |          |
-| Unresectable    |   13%    |           4%            | p=0.002  |
-| R0 Resection    |   92%    |           69%           | p\<0.001 |
-| Positive Nodes  |   75%    |           31%           |          |
-| Complications   |    \~    |           \~            |          |
-| Mortality       |    \~    |           \~            |          |
+|-----------------|:-------:|:-----------------------:|----------|
+| Time to Surgery |   24d   |           97d           |          |
+| Unresectable    |   13%   |           4%            | p=0.002  |
+| R0 Resection    |   92%   |           69%           | p\<0.001 |
+| Positive Nodes  |   75%   |           31%           |          |
+| Complications   |   \~    |           \~            |          |
+| Mortality       |   \~    |           \~            |          |
 
 ## CROSS - Overall Survival
 
@@ -295,20 +297,24 @@ Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ## EsoPEC: FLOT superior to CROSS
 
-+----------------------+--------------+-----------+-----------+--------------+
-|                      | FLOT\        | CROSS\    |           | CROSS Trial\ |
-|                      | Periop Chemo | ChemoRT   |           | ChemoRT      |
-+======================+==============+===========+===========+==============+
-| 90d Mortality        | 3.2%         | 5.6%      |           |              |
-+----------------------+--------------+-----------+-----------+--------------+
-| $\tilde{x}$ Survival | 66mo         | 37mo      |           | 43mo         |
-+----------------------+--------------+-----------+-----------+--------------+
-| 3year Survival       | 57%          | 51%       |           | 58%          |
-+----------------------+--------------+-----------+-----------+--------------+
-| 5year Survival       | 51%          | 29%       |           | 47%          |
-+----------------------+--------------+-----------+-----------+--------------+
-| path CR              | 17%          | 10%       |           | 23%          |
-+----------------------+--------------+-----------+-----------+--------------+
++----------------------+--------------+------------+------------+--------------+
+|                      | FLOT\        | CROSS\     |            | CROSS Trial\ |
+|                      | Periop Chemo | ChemoRT    |            | ChemoRT      |
++======================+==============+============+============+==============+
+| 90d Mortality        | 3.2%         | 5.6%       |            |              |
++----------------------+--------------+------------+------------+--------------+
+| $\tilde{x}$ Survival | 66mo         | 37mo       |            | 43mo         |
++----------------------+--------------+------------+------------+--------------+
+| 3year Survival       | 57%          | 51%        |            | 58%          |
++----------------------+--------------+------------+------------+--------------+
+| 5year Survival       | 51%          | 29%        |            | 47%          |
++----------------------+--------------+------------+------------+--------------+
+| path CR              | 17%          | 10%        |            | 23%          |
++----------------------+--------------+------------+------------+--------------+
+
+## Matterhorn Trial - Durvalumab
+
+What is the evidence for neoadjuvant immunotherapy for patients with adenocarcinoma of the esophagus or gastroesophageal junction in patients with MSI-High tumors?
 
 See also [Neoadjuvant Chemo](#NeoadjuvantChemo)
 
@@ -368,11 +374,17 @@ Treatment consists of chemotherapy followed by radiation.
 
 Patients with persistent disease in the esophagus (and no distant disease) would then be candidates for surgery
 
-## Metastatic = IVB {#metastatic}
+## Metastatic = M1 IVB {#metastatic}
 
 FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 - Dose-limiting toxicity is frequently peripheral neuropathy
+
+## MSI-High Esophageal and GEJ Adenocarcinoma
+
+MSI-Hi patients (15%) respond to immunotherapy
+
+Neoadjuvant treatment with nivolumab + ipilumimab
 
 ## Adjuvant Immunotherapy: Checkmate 577 Trial {#checkmate_577}
 
