@@ -26,6 +26,8 @@ title: "GI Surgical Oncology"
 
 # Acute Care Surgery of the GI Cancer Patient
 
+[Esophageal Cancer Acute Care Surgery](acs_gi_cancers.qmd)
+
 [Overview](acs_gicancer_lit.qmd)
 
 # Foregut Cancer Working Group

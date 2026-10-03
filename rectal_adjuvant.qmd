@@ -66,12 +66,11 @@ No difference in overall survival
 ![](images/rectal_cancer_rx_history_no_swedish.png)
 
 ## Total Mesorectal Excision (1986)
+
 115 rectal cancer patients underwent surgery over 7.5 years
 
 ::::: {.columns align="center"}
 ::: {.column width="50%"}
-
-
 69 with anastomosis below 5cm
 
 Median followup of 4.2 years:
@@ -82,16 +81,13 @@ Median followup of 4.2 years:
 :::
 
 ::: {.column width="50%"}
-
 ![](images/tme_bordeianou.png)
 :::
-
 :::::
 
 ::: aside
 [@heald1479]
 :::
-
 
 ## Total Mesorectal Excision
 
@@ -100,7 +96,6 @@ Median followup of 4.2 years:
 ::: aside
 [@mery117]
 :::
-
 
 ## Dutch TME + Postop ChemoRT Trial
 
@@ -163,7 +158,6 @@ NSABP R-03 Trial did not reach accrual goal
 [@sauer1731]
 :::
 
-
 ## Overview of Rectal Adjunctive Therapy
 
 ![](images/rectal_cancer_rx_history_no_swedish.png)
@@ -209,9 +203,9 @@ Strictly speaking PRODIGE-23 is *not* TNT
 :::
 
 ## Total Neoadjuvant Therapy (TNT)
+
 \
 TNT approach moves *all* therapy to before surgery with goals to:
-
 
 \
 
@@ -222,14 +216,11 @@ TNT approach moves *all* therapy to before surgery with goals to:
 
 920 patients with T4 or node-positive disease:
 
-Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery 
-\
-vs 
-\
+Short-course RT $\rightarrow$ Chemo $\rightarrow$ Surgery\
+vs\
 ChemoRT $\rightarrow$ TME $\pm$ Chemo
 
 \
-
 
 pCR rate significantly higher in the RT $\rightarrow$ Chemo $\rightarrow$ Surgery (28% vs 14%)
 
@@ -441,8 +432,6 @@ NCCN Guidelines
 
 ![](images/janus_trial.png)
 
-
-
 ## Swedish Short-course RT {#Swedish}
 
 Swedish Rectal Cancer Trial compared surgery alone with preoperative short-course therapy consisting of 5 doses of 500cGy of radiation without chemotherapy administered in one week prior to surgery.
@@ -458,6 +447,28 @@ Of note, this trial was performed in the era prior to the widespread use of tota
 ::: aside
 [@swedishrectalcancertrial980]
 :::
+
+## MSI High Rectal Cancer
+
+Mismatch repair protein deficient (MSI-high) colorectal cancer (due to either Lynch Syndrome or BRAF-1 mutation) responds poorly to chemotherapy but responds well to immunotherapy with PD-L1 blockade
+
+See [CRC Genetics](crs_genetics_slides.qmd)
+
+## Dostarlimab for Rectal Cancer - MSKCC
+
+12 patients with MMR-deficient (MSI-high) rectal cancer
+
+Treatment with PD-L1 blockade with 6 months of dostarlimab for 12 months
+
+100% clinical response rate 
+
+No patients were subsequently treated with either chemoradiation or surgery as originally planned.
+
+::: aside
+[@cercek2363]
+:::
+
+
 
 ## Swedish Rectal Cancer Trial
 
