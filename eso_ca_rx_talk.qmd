@@ -89,17 +89,7 @@ Workup of nodular Barretts:
   - Diagnostic (T staging)
   - May be therapeutic for T1a tumors
 
-## Endoscopic  Resection for T1 Tumors
-
-![](images/EMR.jpg){fig-align="right"}
-
-## Endoscopic Submucosal Dissection for T1a/T1b
-
-Endoscopic resection uses needle-knife to dissect *below* submucosa
-
-Maybe suitable for T1b lesions *if* lesion is completely resected
-
-Risk of perforation
+{{< include endoscopic_resection_guts.qmd >}}
 
 ## Localized Tumors (T2 N0) {#localized}
 
@@ -176,16 +166,14 @@ Radiation: 4140 cGy in 23 fractions (180cGy/fraction)
 
 ## CROSS Surgery vs ChemoRT $\rightarrow$Surgery
 
-
-|                 |  Surgery | CRT$\rightarrow$Surgery |          |
-|-----------------|:--------:|:-----------------------:|----------|
-| Time to Surgery |   24d    |           97d           |          |
-| Unresectable    |   13%    |           4%            | p=0.002  |
-| R0 Resection    |   92%    |           69%           | p\<0.001 |
-| Positive Nodes  |   75%    |           31%           |          |
-| Complications   |    \~    |           \~            |          |
-| Mortality       |    \~    |           \~            |          |
-
+|                 | Surgery | CRT$\rightarrow$Surgery |          |
+|-----------------|:-------:|:-----------------------:|----------|
+| Time to Surgery |   24d   |           97d           |          |
+| Unresectable    |   13%   |           4%            | p=0.002  |
+| R0 Resection    |   92%   |           69%           | p\<0.001 |
+| Positive Nodes  |   75%   |           31%           |          |
+| Complications   |   \~    |           \~            |          |
+| Mortality       |   \~    |           \~            |          |
 
 ## CROSS - Overall Survival
 
@@ -314,15 +302,45 @@ Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 | path CR              | 17%          | 10%        |            | 23%          |
 +----------------------+--------------+------------+------------+--------------+
 
-## Matterhorn Trial - Durvalumab
+## MATTERHORN Trial - FLOT $\pm$ Durvalumab
 
-What is the evidence for neoadjuvant immunotherapy for patients with adenocarcinoma of the esophagus or gastroesophageal junction in patients with MSI-High tumors?
+Durvalumab added to FLOT improved disease-free survival 
 
-See also [Neoadjuvant Chemo](#NeoadjuvantChemo)
+
+![](images/matterhorn_survival2.png)
+
 
 ::: aside
-[@hoeppner323]
+[@janjigian217]
 :::
+
+## MATTERHORN Trial - FLOT $\pm$ Durvalumab
+
+::::: columns
+::: {.column width="50%"}
+- pCR rate higher
+- Survival benefit regardless of PD-L1
+- Node-positive benefited more
+- Diffuse-type histology did not benefit
+- **Overall survival did not meet the pre-specified threshold**
+:::
+
+::: {.column width="50%"}
+![](images/MATTERHORN_pcr.png)
+:::
+:::::
+
+::: aside
+[@janjigian217]
+:::
+
+## MSI-High Esophageal and GEJ Adenocarcinoma
+
+MSI-Hi patients (15%) respond to immunotherapy
+
+Neoadjuvant treatment with nivolumab + ipilumimab (3 months)
+
+NEONIPIGA Clinical Trial
 
 ## Surgery for Squamous Cell Carcinoma {#surgery_squamous}
 
@@ -366,7 +384,83 @@ $\Rrightarrow$ No difference in overall survival
 [@stahl2310]
 :::
 
-## Non-Operative Management
+## Freedom from Locoregional Relapse
+
+Pooled data from Bedenne and Stahl
+
+Surgery group has better freedom from locoregional relapse
+
+![](images/surg_scca_cochrane.png)
+
+## Non-Operative Management of Squamous Cell Carcinoma
+
+CROSS Trial: ChemoRT $\rightarrow$ Surgery
+
+Pathologic Complete Response = 49%
+
+$\Rightarrow$ Is there a role for *non*-operative management of esophageal squamous cell carcinoma after chemoradiation?
+
+## Squamous Cell Carcinoma Treated with ChemoRT Alone
+
+![](images/NonOp/Slide6.png)
+
+## Surgery As Necessary Only (SANO) Clinical Trial
+
+Gold Standard is chemoRT $\rightarrow$ surgery
+
+Control group was treated with immediate surgery after ChemoRT
+
+![](images/NonOp/Slide17.png)
+
+## Surgery As Necessary Only (SANO) Clinical Trial
+
+Experimental group: After ChemoRT, restaging with EGD x2 and PET
+
+- Persistent disease $\rightarrow$ Surgery
+- Complete Clinical Response (cCR): Negative EGD x2 and negative PET
+  - Surveillance with periodict EGD and CT
+  - Surgery only for an isolated local recurrence
+
+![](images/NonOp/Slide11.png)
+
+::: aside
+[@bondi-simpson275]
+:::
+
+## Surgery As Necessary Only (SANO) Clinical Trial
+
+![](images/NonOp/Slide12.png)
+
+## Surgery As Necessary Only (SANO) Clinical Trial
+
+Active surveillance strategy was non-inferior to immediate esophagectomy
+
+- Surgery Group: 53 month median survival
+- Active Surveillance Group: 43 month median survival
+
+Sensitivity analysis shows histology did not alter conclusions
+
+::: aside
+[@bondi-simpson275]
+:::
+
+## Role for Surgery after Preoperative Therapy
+
+AATS Consensus guidelines: Esophagectomy is reasonable after in patients with a complete clinical response (cCR) after neoadjuvant therapy:
+
+- Radiographic and endoscopic restaging is not adequately sensitive
+
+
+
+Among SANO patients with cCR (negative EGD x2 and response on PET): 
+
+- 60% had residual disease 
+- 16% Node-positive
+
+:::
+[@molena884]
+:::
+
 
 ## Extra-regional Disease = N3 {#extra_regional}
 
@@ -382,11 +476,7 @@ FOLFOX is first-line systemic therapy for metastatic GI cancers
 
 - Dose-limiting toxicity is frequently peripheral neuropathy
 
-## MSI-High Esophageal and GEJ Adenocarcinoma
 
-MSI-Hi patients (15%) respond to immunotherapy
-
-Neoadjuvant treatment with nivolumab + ipilumimab
 
 ## Adjuvant Immunotherapy: Checkmate 577 Trial {#checkmate_577}
 
