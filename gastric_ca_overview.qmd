@@ -22,13 +22,10 @@ bibliography: zotero.bib
 
 ## Epidemiology
 
+- 5th most common cancer worldwide
 - 5th leading cause of cancer death globally
 - \~968,350 new cases and \~659,853 deaths worldwide (2022)
 - \~30,300 new cases and \~10,780 deaths in the US (2025)
-
-::: aside
-[@patel342]
-:::
 
 ## Global Epidemiology
 
@@ -37,8 +34,7 @@ bibliography: zotero.bib
 - Median age at diagnosis: **68 years**
 - Globally, 85% of cases in stomach body or antrum; 15% in the cardia
 - In North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases
-- Overall incidence declining over the past century
-  - improved food preservation
+- Overall incidence declining over the past century -improved food preservation
   - declining H. pylori prevalence
 
 ::: aside
@@ -161,26 +157,40 @@ Type III: Subcardial
 
 ## Molecular Genetics
 
-Subtype	Frequency	Key Features	Clinical Relevance
-<strong>Chromosomal Instability (CIN)</strong>	~50%	TP53 mutations, aneuploidy, RTK amplifications (HER2, EGFR, FGFR2)	Most common; responds to cisplatin-based chemo; HER2-targeted therapy
-<strong>Microsatellite Instability (MSI)</strong>	~20%	High mutation burden, MLH1 hypermethylation, dense lymphocyte infiltration	Better prognosis; responds to <strong>immune checkpoint inhibitors</strong>
-<strong>EBV-positive</strong>	~9%	PIK3CA mutations, PD-L1/PD-L2 amplification, extreme DNA hypermethylation	High immunogenicity; responds to immunotherapy
-<strong>Genomically Stable (GS)</strong>	~20%	CDH1/RHOA mutations, CLDN18-ARHGAP fusions, diffuse histology	Worst prognosis; target for CLDN18.2-directed therapy
++----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
+| Subtype                          | Freq       | Features                                                                   | Clinical Relevance                             |
++==================================+============+============================================================================+================================================+
+| Chromosomal instability (CIN)    | \~50%      | TP53 mutations, aneuploidy, RTK amplifications (HER2, EGFR, FGFR2)         | Responds to cisplatin-based chemo\             |
+|                                  |            |                                                                            | HER2-targeted therapy                          |
++----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
+| Microsatellite Instability (MSI) | \~!20%     | High mutation burden, MLH1 hypermethylation, dense lymphocyte infiltration | Better prognosis\                              |
+|                                  |            |                                                                            | Responds to immune checkpoint inhibitors (ICI) |
++----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
+| EBV-Positive                     | \~9%       | PIK3CA mutations, PD-L1/PD-L2 amplification, extreme DNA hypermethylation  | High immunogenicity\                           |
+|                                  |            |                                                                            | Responds to immunotherapy                      |
++----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
+| Genomically Stabale (GS)         | \~20%      | CDH1-RHOA mutations CLDN18-ARHGAP fusions                                  | Worst prognosis\                               |
+|                                  |            |                                                                            | Target for CLDN18-2 Tx                         |
++----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
+
+## Intestinal-type gastric carcinogenesis: Corea Cascade
+
+Normal mucosa → Chronic gastritis (H. pylori) → Atrophic gastritis → Intestinal metaplasia → Dysplasia → Adenocarcinoma Each step involves accumulating genetic and epigenetic changes (chromosomal instability, DNA methylation). \[3\]\[11\] Gastric intestinal metaplasia (GIM) is a key precancerous lesion; 10-year cumulative risk of progression to cancer is \~1.6% overall, but 2–4.5× higher in high-risk GIM. \[11\] H. pylori eradication can reduce cancer risk but has limited effect on reversing established intestinal metaplasia. \[12\]
 
 ## Gastric Cancer Treatment Categories
 
-+-------------------------------------+------------+------------+-----------------------------+
-| Category                            | AJCC       | Stage      | Treatment                   |
-+=====================================+============+:==========:+:============================+
-| [Superficial Tumors](#superficial)  | I          | T1a        | Endoscopic Therapy          |
-+-------------------------------------+------------+------------+-----------------------------+
-| [Localized Tumors](#localized)      | IIB        | T1b T2     | Surgery                     |
-+-------------------------------------+------------+------------+-----------------------------+
-| [Locally-advanced](#local_advanced) | III\       | T3 or N^+^ | Chemo → Surgery→ Chemo      |
-|                                     | IIA        |            |                             |
-+-------------------------------------+------------+------------+-----------------------------+
-| [Metastatic](#metastatic)           | IVB        | M1         | Chemotherapy $\pm$Radiation |
-+-------------------------------------+------------+------------+-----------------------------+
++-------------------------------------+-------------+-------------+------------------------+
+| Category                            | AJCC        | Stage       | Treatment              |
++=====================================+=============+:===========:+:=======================+
+| [Superficial Tumors](#superficial)  | I           | T1a         | Endoscopic Therapy     |
++-------------------------------------+-------------+-------------+------------------------+
+| [Localized Tumors](#localized)      | IIB         | T1b T2      | Surgery                |
++-------------------------------------+-------------+-------------+------------------------+
+| [Locally-advanced](#local_advanced) | III\        | T3 or N^+^  | Chemo → Surgery→ Chemo |
+|                                     | IIA         |             |                        |
++-------------------------------------+-------------+-------------+------------------------+
+| [Metastatic](#metastatic)           | IVB         | M1          | Chemotherapy           |
++-------------------------------------+-------------+-------------+------------------------+
 
 ## Superficial Gastric Cancer {#superficial}
 
@@ -228,21 +238,11 @@ No role for primary surgery in high-grade dysplasia
 Workup of nodular Barretts:
 
 - Endoscopic Ultrasound
-- Endoscopic Mucosal Resection
+- Endoscopic Resection
   - Diagnostic (T staging)
   - May be therapeutic for T1a tumors
 
-## Endoscopic Musocal Resection for T1 Tumors
 
-![](images/EMR.jpg){fig-align="right"}
-
-## Endoscopic Submucosal Dissection for T1a/T1b
-
-Endoscopic resection uses needle-knife to dissect *below* submucosa
-
-Maybe suitable for T1b lesions *if* lesion is completely resected
-
-Risk of perforation
 
 ## Localized Tumors (T2 N0) {#localized}
 
@@ -260,25 +260,15 @@ By the end of this presentation, students should be able to:
 6.  Outline stage-appropriate treatment strategies including surgery, chemotherapy, immunotherapy, and targeted therapy
 7.  Identify key biomarkers that guide treatment decisions
 
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-+:=====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================+
-| \## Intestinal-type gastric carcinogenesis: Corea Cascase                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Normal mucosa → Chronic gastritis (H. pylori) → Atrophic gastritis → Intestinal metaplasia → Dysplasia → Adenocarcinoma                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Each step involves accumulating genetic and epigenetic changes (chromosomal instability, DNA methylation). \[3\]\[11\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Gastric intestinal metaplasia (GIM) is a key precancerous lesion; 10-year cumulative risk of progression to cancer is \~1.6% overall, but 2–4.5× higher in high-risk GIM. \[11\]                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| H. pylori eradication can reduce cancer risk but has limited effect on reversing established intestinal metaplasia. \[12\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \## SLIDE 8: Molecular Classification — TCGA Subtypes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| SubtypeFrequencyKey FeaturesClinical Relevance**Chromosomal Instability (CIN)**\~50%TP53 mutations, aneuploidy, RTK amplifications (ERBB2, EGFR, FGFR2)80% of GEJ/cardia tumors; HER2-targeted therapy**Microsatellite Instability (MSI)**\~20%High mutation burden, dMMR, dense lymphocyte infiltrationBest response to immune checkpoint inhibitors**EBV-positive**\~9%PIK3CA mutations, PD-L1/PD-L2 overexpression, CDKN2A methylationHigh immunogenicity; responds to immunotherapy**Genomically Stable (GS)**\~20%CDH1/RHOA mutations, diffuse histology, EMT featuresWorst prognosis; limited targeted options |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| \- MSI and EBV-positive subtypes are associated with better responses to immune checkpoint inhibitors - CIN subtype enriched for targetable amplifications (HER2, FGFR2)                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+------------------------------------------------------------------------
+
+## SLIDE 3: Epidemiology — Global Perspective
+
+- \*\*Rising incidence in patients FeatureIntestinal Type (\~50%)Diffuse Type (\~30%)Mixed (\~20%)HistologyGland-forming, papillaryPoorly cohesive, signet ring cellsFeatures of bothAssociationH. pylori, intestinal metaplasiaFamilial/genetic (CDH1)VariableLocationAntrum, bodyAny locationVariableSpread patternHematogenousPeritoneal (linitis plastica)VariablePrognosisRelatively betterWorse; often chemo-resistantIntermediate
+- Signet ring cell histology portends resistance to systemic therapy and poor prognosis
+- Laurén classification remains the most commonly used for subgroup analyses in clinical trials
+
+------------------------------------------------------------------------
 
 ## SLIDE 9: Clinical Presentation
 
@@ -535,45 +525,6 @@ StagePrimary Treatment**Early (Tis, T1a)**Endoscopic resection (EMR/ESD) or surg
 → Genetic counseling and consideration of prophylactic total gastrectomy
 
 ------------------------------------------------------------------------
-
-## 
-
-## Slide 25 — Review Questions
-
-**Q1:** A 65-year-old man presents with weight loss and epigastric pain. EGD reveals a gastric body mass. Biopsy shows adenocarcinoma. CT shows no metastases. EUS shows T3N1 disease. What is the recommended treatment approach?
-
-- **A:** Perioperative FLOT chemotherapy (4 cycles pre-op, surgery with D2 lymphadenectomy, 4 cycles post-op). Consider adding durvalumab if PD-L1 CPS ≥1.
-
-**Q2:** Which molecular subtype of gastric cancer is most likely to respond to immune checkpoint inhibitors?
-
-- **A:** MSI-H and EBV-positive subtypes, due to high mutational burden and prominent immune cell infiltration.
-
-**Q3:** A patient with metastatic gastric cancer is found to be HER2-positive with PD-L1 CPS of 5. What is the preferred first-line regimen?
-
-- **A:** Fluoropyrimidine + platinum + trastuzumab + pembrolizumab.
-
-**Q4:** What is the most important modifiable risk factor for noncardia gastric cancer, and what is the evidence for intervention?
-
-- **A:** *H. pylori* infection. Eradication therapy reduces gastric cancer incidence by \~46% in meta-analyses of RCTs.
-
-### References
-
-1.  Gastric Cancer. Patel AK, Sethi NS, Park H. JAMA. 2026;:2843616. doi:10.1001/jama.2025.20034.
-2.  Gastric Cancer. Smyth EC, Nilsson M, Grabsch HI, van Grieken NC, Lordick F. Lancet (London, England). 2020;396(10251):635-648. doi:10.1016/S0140-6736(20)31288-5.
-3.  Global Cancer Statistics 2022: GLOBOCAN Estimates of Incidence and Mortality Worldwide for 36 Cancers in 185 Countries. Bray F, Laversanne M, Sung H, et al. CA: A Cancer Journal for Clinicians. 2024 May-Jun;74(3):229-263. doi:10.3322/caac.21834.
-4.  Resolving Gastric Cancer Aetiology: An Update in Genetic Predisposition. Lott PC, Carvajal-Carmona LG. The Lancet. Gastroenterology & Hepatology. 2018;3(12):874-883. doi:10.1016/S2468-1253(18)30237-1.
-5.  Gastric Cancer. Sundar R, Nakayama I, Markar SR, et al. Lancet (London, England). 2025;405(10494):2087-2102. doi:10.1016/S0140-6736(25)00052-2.
-6.  Helicobacter pylori, Homologous-Recombination Genes, and Gastric Cancer. Usui Y, Taniyama Y, Endo M, et al. The New England Journal of Medicine. 2023;388(13):1181-1190. doi:10.1056/NEJMoa2211807.
-7.  ACG Clinical Guideline: Treatment of Helicobacter Pylori Infection. Chey WD, Howden CW, Moss SF, et al. The American Journal of Gastroenterology. 2024;119(9):1730-1753. doi:10.14309/ajg.0000000000002968.
-8.  Targeted therapy for upper gastrointestinal tract cancer: current and future prospects. Rosenbaum MW, Gonzalez RS. Histopathology. 2021;78(1):148-161. doi:10.1111/his.14244.
-9.  Gastric Cancer. Van Cutsem E, Sagaert X, Topal B, Haustermans K, Prenen H. Lancet (London, England). 2016;388(10060):2654-2664. doi:10.1016/S0140-6736(16)30354-3.
-10. Comprehensive Molecular Characterization of Gastric Adenocarcinoma. Nature. 2014;513(7517):202-9. doi:10.1038/nature13480.
-11. Clinical Significance of Four Molecular Subtypes of Gastric Cancer Identified by the Cancer Genome Atlas Project. Sohn BH, Hwang JE, Jang HJ, et al. Clinical Cancer Research : An Official Journal of the American Association for Cancer Research. 2017;23(15):4441-4449. doi:10.1158/1078-0432.CCR-16-2211.
-12. Gastric Cancer. National Comprehensive Cancer Network. Updated 2026-06-03.
-13. Surgical Management of Gastric Cancer: A Review. Li GZ, Doherty GM, Wang J. JAMA Surgery. 2022;157(5):446-454. doi:10.1001/jamasurg.2022.0182.
-14. Surgical Considerations and Outcomes of Minimally Invasive Approaches for Gastric Cancer Resection. Ong CT, Schwarz JL, Roggin KK. Cancer. 2022;128(22):3910-3918. doi:10.1002/cncr.34440.
-15. FDA Orange Book. FDA Orange Book.
-16. AGA Clinical Practice Update on Screening and Surveillance in Individuals at Increased Risk for Gastric Cancer in the United States: Expert Review. Shah SC, Wang AY, Wallace MB, Hwang JH. Gastroenterology. 2025;168(2):405-416.e1. doi:10.1053/j.gastro.2024.11.001.
 
 ## References
 
