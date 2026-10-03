@@ -1,5 +1,5 @@
-
 ## Endoscopic Resection for T1 Tumors
+
 ::::: columns
 ::: {.column width="50%"}
 Tumor Lifted with submucosal injection
@@ -13,11 +13,7 @@ Tumor Lifted with submucosal injection
 ::: aside
 :::
 
-
 ## Endoscopic Mucosal Resection (EMR)
-
-
-
 
 ::::: columns
 ::: {.column width="50%"}
@@ -31,8 +27,6 @@ Tumor Lifted with submucosal injection
 
 ::: aside
 :::
-
-
 
 ## Endoscopic Submucosal Dissection for T1a/T1b
 
@@ -53,13 +47,11 @@ Risk of perforation
 ::: aside
 :::
 
-
 ## Favorable Features after Endoscopic Resection
 
 ::::: columns
 ::: {.column width="50%"}
-
-- Size <2cm
+- Size \<2cm
 - No lymphovascular invasion
 - Clear peripheral margin
 - Clear deep margin
@@ -73,7 +65,6 @@ Risk of perforation
 ::: aside
 :::
 
-
 ## Unfavorable Features after Endoscopic Resection
 
 ::::: columns
@@ -85,33 +76,23 @@ Risk of perforation
 
 ::: {.column width="50%"}
 ![](images/emr_unfavorable.png)
-
-
-
 :::
 :::::
 
 ::: aside
 :::
-
 
 ## Positive Deep Margin after Endoscopic Resection
 
 ::::: columns
 ::: {.column width="50%"}
 Associated with higher risk of recurrence AND lymph node metastasis
-
-
 :::
 
 ::: {.column width="50%"}
 ![](images/EMR_Positive_Deep.png)
-
-
-
 :::
 :::::
 
 ::: aside
 :::
-

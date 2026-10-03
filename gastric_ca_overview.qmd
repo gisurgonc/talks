@@ -173,16 +173,9 @@ Type III: Subcardial
 |                                  |            |                                                                            | Target for CLDN18-2 Tx                         |
 +----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
 
-
-
 ## Intestinal-type gastric carcinogenesis: Corea Cascade
 
-Normal mucosa → Chronic gastritis (H. pylori) → Atrophic gastritis → Intestinal metaplasia → Dysplasia → Adenocarcinoma
-Each step involves accumulating genetic and epigenetic changes (chromosomal instability, DNA methylation). \[3\]\[11\]
-Gastric intestinal metaplasia (GIM) is a key precancerous lesion; 10-year cumulative risk of progression to cancer is \~1.6% overall, but 2–4.5× higher in high-risk GIM. \[11\]
-H. pylori eradication can reduce cancer risk but has limited effect on reversing established intestinal metaplasia. \[12\]
-
-
+Normal mucosa → Chronic gastritis (H. pylori) → Atrophic gastritis → Intestinal metaplasia → Dysplasia → Adenocarcinoma Each step involves accumulating genetic and epigenetic changes (chromosomal instability, DNA methylation). \[3\]\[11\] Gastric intestinal metaplasia (GIM) is a key precancerous lesion; 10-year cumulative risk of progression to cancer is \~1.6% overall, but 2–4.5× higher in high-risk GIM. \[11\] H. pylori eradication can reduce cancer risk but has limited effect on reversing established intestinal metaplasia. \[12\]
 
 ## Gastric Cancer Treatment Categories
 
@@ -250,8 +243,6 @@ Workup of nodular Barretts:
   - May be therapeutic for T1a tumors
 
 
-{{< include endoscopic_resection_guts.qmd >}}
-
 
 ## Localized Tumors (T2 N0) {#localized}
 
@@ -278,9 +269,6 @@ By the end of this presentation, students should be able to:
 - Laurén classification remains the most commonly used for subgroup analyses in clinical trials
 
 ------------------------------------------------------------------------
-
-
-
 
 ## SLIDE 9: Clinical Presentation
 
