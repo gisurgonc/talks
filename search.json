@@ -1887,7 +1887,7 @@
     "href": "eso_ca_rx_talk.htm#role-for-surgery-after-preoperative-therapy",
     "title": "Esophageal Cancer Treatment",
     "section": "Role for Surgery after Preoperative Therapy",
-    "text": "Role for Surgery after Preoperative Therapy\nAATS Consensus guidelines: Esophagectomy is reasonable after in patients with a complete clinical response (cCR) after neoadjuvant therapy:\n\nRadiographic and endoscopic restaging is not adequately sensitive\n\nAmong SANO patients with cCR (negative EGD x2 and response on PET):\n\n60% had residual disease\n16% Node-positive\n\n::: (molena884?) :::"
+    "text": "Role for Surgery after Preoperative Therapy\nAATS Consensus guidelines: Esophagectomy is reasonable after in patients with a complete clinical response (cCR) after neoadjuvant therapy:\n\nRadiographic and endoscopic restaging is not adequately sensitive\n\nAmong SANO patients with cCR (negative EGD x2 and response on PET):\n\n60% had residual disease\n16% Node-positive\n\n\n\n(molena884?)"
   },
   {
     "objectID": "eso_ca_rx_talk.htm#extra_regional",
@@ -3736,6 +3736,48 @@
     "title": "Gastric Cancer",
     "section": "Superficial Tumors (T1)",
     "text": "Superficial Tumors (T1)\nWorkup of nodular Barretts:\n\nEndoscopic Ultrasound\nEndoscopic Resection\n\nDiagnostic (T staging)\nMay be therapeutic for T1a tumors"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#endoscopic-resection-for-t1-tumors",
+    "href": "gastric_ca_overview.htm#endoscopic-resection-for-t1-tumors",
+    "title": "Gastric Cancer",
+    "section": "Endoscopic Resection for T1 Tumors",
+    "text": "Endoscopic Resection for T1 Tumors\n\n\nTumor Lifted with submucosal injection"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#endoscopic-mucosal-resection-emr",
+    "href": "gastric_ca_overview.htm#endoscopic-mucosal-resection-emr",
+    "title": "Gastric Cancer",
+    "section": "Endoscopic Mucosal Resection (EMR)",
+    "text": "Endoscopic Mucosal Resection (EMR)"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#endoscopic-submucosal-dissection-for-t1at1b",
+    "href": "gastric_ca_overview.htm#endoscopic-submucosal-dissection-for-t1at1b",
+    "title": "Gastric Cancer",
+    "section": "Endoscopic Submucosal Dissection for T1a/T1b",
+    "text": "Endoscopic Submucosal Dissection for T1a/T1b\n\n\nEndoscopic resection uses needle-knife to dissect below submucosa\nMaybe suitable for T1b lesions if lesion is completely resected\nRisk of perforation"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#favorable-features-after-endoscopic-resection",
+    "href": "gastric_ca_overview.htm#favorable-features-after-endoscopic-resection",
+    "title": "Gastric Cancer",
+    "section": "Favorable Features after Endoscopic Resection",
+    "text": "Favorable Features after Endoscopic Resection\n\n\n\nSize &lt;2cm\nNo lymphovascular invasion\nClear peripheral margin\nClear deep margin"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#unfavorable-features-after-endoscopic-resection",
+    "href": "gastric_ca_overview.htm#unfavorable-features-after-endoscopic-resection",
+    "title": "Gastric Cancer",
+    "section": "Unfavorable Features after Endoscopic Resection",
+    "text": "Unfavorable Features after Endoscopic Resection\n\n\n\nPositive lateral margin\nLymphovascular invasion\nPositive deep margin"
+  },
+  {
+    "objectID": "gastric_ca_overview.htm#positive-deep-margin-after-endoscopic-resection",
+    "href": "gastric_ca_overview.htm#positive-deep-margin-after-endoscopic-resection",
+    "title": "Gastric Cancer",
+    "section": "Positive Deep Margin after Endoscopic Resection",
+    "text": "Positive Deep Margin after Endoscopic Resection\n\n\nAssociated with higher risk of recurrence AND lymph node metastasis"
   },
   {
     "objectID": "gastric_ca_overview.htm#localized",

@@ -135,8 +135,7 @@ EUS can useful in patients *without* dysphagia (to identify T2N0 $\rightarrow$ S
 
 PET has more specificity and sensitivity than CT in detecting regional lymph node and distal metastasis
 
-::: aside
-:::
+
 
 ## Locally-advanced {#local_advanced}
 
@@ -457,7 +456,7 @@ Among SANO patients with cCR (negative EGD x2 and response on PET):
 - 60% had residual disease 
 - 16% Node-positive
 
-:::
+::: aside
 [@molena884]
 :::
 

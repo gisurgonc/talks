@@ -242,7 +242,7 @@ Workup of nodular Barretts:
   - Diagnostic (T staging)
   - May be therapeutic for T1a tumors
 
-
+{{< include endoscopic_resection_guts.qmd >}}
 
 ## Localized Tumors (T2 N0) {#localized}
 
