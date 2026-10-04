@@ -10,8 +10,7 @@ Tumor Lifted with submucosal injection
 :::
 :::::
 
-::: aside
-:::
+
 
 ## Endoscopic Mucosal Resection (EMR)
 
@@ -25,8 +24,7 @@ Tumor Lifted with submucosal injection
 :::
 :::::
 
-::: aside
-:::
+
 
 ## Endoscopic Submucosal Dissection for T1a/T1b
 
@@ -44,8 +42,7 @@ Risk of perforation
 :::
 :::::
 
-::: aside
-:::
+
 
 ## Favorable Features after Endoscopic Resection
 
@@ -62,8 +59,7 @@ Risk of perforation
 :::
 :::::
 
-::: aside
-:::
+
 
 ## Unfavorable Features after Endoscopic Resection
 
@@ -94,5 +90,4 @@ Associated with higher risk of recurrence AND lymph node metastasis
 :::
 :::::
 
-::: aside
-:::
+
