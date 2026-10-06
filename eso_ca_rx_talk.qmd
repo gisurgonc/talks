@@ -314,7 +314,15 @@ Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ## Matterhorn Trial - Durvalumab
 
-What is the evidence for neoadjuvant immunotherapy for patients with adenocarcinoma of the esophagus or gastroesophageal junction in patients with MSI-High tumors?
+In the matterhorn trial, diffuse type adenocarcinoma of the esophagus or GE junction showed no survival benefit for the addition of durvalumab
+
+Janjigian NEJM p 217
+
+Tabermero S1623-S1624
+
+FLOT-Durva only for CPS \>= 1%
+
+FLOT-Durva for node negative only??
 
 See also [Neoadjuvant Chemo](#NeoadjuvantChemo)
 
