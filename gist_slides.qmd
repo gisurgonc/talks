@@ -96,8 +96,16 @@ Genetic mutations can predict response to imatinib
 
 ## Positive Margins
 
+908 gastric GIST 
+
+R1 resection 162 (18%)
+
+  - Rupture in 97/162 (60%)
+  
+There was a significant difference in OS for patients undergoing an R1 vs R0 resection, overall (hazard ratio [HR], 2.05; 95% CI, 1.45-2.89) and by treatment arm (HR, 2.65; 95% CI, 1.37-3.75 with adjuvant imatinib and HR, 1.86; 95% CI, 1.16-2.99 without adjuvant imatinib). When tumor rupture was excluded, this difference in OS between R1 and R0 resections disappeared (HR, 1.05; 95% CI, 0.54-2.01).
+
 ::: aside
-Gronchi JAMA Surg 2020
+[@gronchie200397]
 :::
 
 ## Wild-Type GIST
@@ -129,8 +137,6 @@ SDH: Succinate dehydrogenase
 Paraganglioma-pheochromocytoma PPGL syndrome (PGL-1)
 
 
-
-The following lecture is designed for a surgical resident audience, structured as a teaching handout covering the molecular biology of the succinate dehydrogenase (SDH) complex, the paraganglioma–pheochromocytoma (PPGL) syndromes (PGL1–5), SDH-deficient GIST, perioperative surgical management, and lifelong surveillance of carriers. [1-7] Key surgical teaching points are emphasized throughout — mandatory germline testing of all PPGL patients, preoperative alpha-blockade and biochemical screening before any operation, total (not cortical-sparing) adrenalectomy for SDHB pheochromocytoma, and the distinct biology and imatinib-resistance of SDH-deficient GIST. [1][3-6][8]
 
 
 
@@ -166,6 +172,11 @@ Weldon JCS 2017
 ::: aside
 Fletcher Int J Surg Pathol 10:81 2022
 :::
+
+
+The following lecture is designed for a surgical resident audience, structured as a teaching handout covering the molecular biology of the succinate dehydrogenase (SDH) complex, the paraganglioma–pheochromocytoma (PPGL) syndromes (PGL1–5), SDH-deficient GIST, perioperative surgical management, and lifelong surveillance of carriers. [1-7] Key surgical teaching points are emphasized throughout — mandatory germline testing of all PPGL patients, preoperative alpha-blockade and biochemical screening before any operation, total (not cortical-sparing) adrenalectomy for SDHB pheochromocytoma, and the distinct biology and imatinib-resistance of SDH-deficient GIST. [1][3-6][8]
+
+
 
 # Orientation Manual
 
