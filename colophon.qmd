@@ -1,0 +1,13 @@
+---
+title: "Colophon"
+editor: visual
+bibliography: zotero.bib
+csl: elsevier-stanford.csl
+link-citations: true
+---
+
+## Slides
+
+Optimal dimensions of graphics: 1920 x ?950 or ?925
+
+### 
