@@ -303,26 +303,22 @@ Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ## MATTERHORN Trial - FLOT $\pm$ Durvalumab
 
-<<<<<<< HEAD
+
 In the matterhorn trial, diffuse type adenocarcinoma of the esophagus or GE junction showed no survival benefit for the addition of durvalumab
-
-Janjigian NEJM p 217
-
-Tabermero S1623-S1624
 
 FLOT-Durva only for CPS \>= 1%
 
 FLOT-Durva for node negative only??
-=======
+
 Durvalumab added to FLOT improved disease-free survival 
 
 
 ![](images/matterhorn_survival2.png)
->>>>>>> 8770d48bad81606eeb08f72090bababec11509f0
 
 
 ::: aside
 [@janjigian217]
+Tabermero S1263
 :::
 
 ## MATTERHORN Trial - FLOT $\pm$ Durvalumab
@@ -425,11 +421,13 @@ Control group was treated with immediate surgery after ChemoRT
 
 ## Surgery As Necessary Only (SANO) Clinical Trial
 
+!!! Define complete clinical response !!!
+
 Experimental group: After ChemoRT, restaging with EGD x2 and PET
 
 - Persistent disease $\rightarrow$ Surgery
 - Complete Clinical Response (cCR): Negative EGD x2 and negative PET
-  - Surveillance with periodict EGD and CT
+  - Surveillance with periodic EGD and CT
   - Surgery only for an isolated local recurrence
 
 ![](images/NonOp/Slide11.png)

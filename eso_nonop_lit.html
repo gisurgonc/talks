@@ -93,6 +93,35 @@ div.csl-indent {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -180,6 +209,9 @@ div.csl-indent {
 <h2 class="anchored" data-anchor-id="natural-history-of-non-operative-therapy-for-esophageal-cancer">Natural History of non-Operative Therapy for Esophageal Cancer</h2>
 <p>RTOG 0436 trial of definitive chemoRT: The standard dCRT control arm demonstrated a median OS of 19 months and 2-year OS of 44% (95% CI, 36–51%). The 36-month local treatment failure rate was 48.8%. Patients achieving a clinical complete response (cCR, ~53% of patients) had substantially better survival (HR 0.46), with a 3-year OS of 43.3%. <span class="citation" data-cites="suntharalingam1520">(<a href="#ref-suntharalingam1520" role="doc-biblioref"><strong>suntharalingam1520?</strong></a>)</span>. A clinical complete response (cCR) rate of 81 (56%) was observed in the experimental arm vs 92 (58%) in the control arm (Fisher exact test, P = .66). No differences were seen in cCR between treatment arms for either histology (adenocarcinoma or squamous cell). Median follow-up for all patients was 18.6 months. The 24- and 36-month local failure for the experimental arm was 47% (95% CI, 38%-57%) and 49% (95% CI, 40%-59%) vs 49% (95% CI, 41%-58%) and 49% (95% CI, 41%-58%) for the control arm (HR, 0.92; 95% CI, 0.66-1.28; P = .65). The 24- and 36-month OS rates for the experimental arm were 45% (95% CI, 37%-53%) and 34% (95% CI, 26%-41%) vs 44% (95% CI, 36%-51%) and 28% (95% CI, 21%-35%) for the control arm (HR, 0.90; 95% CI, 0.70-1.16; P = .47).</p>
 <p>A large National Cancer Database analysis of over 57,000 patients with stage II–III esophageal cancer found that dCRT was associated with a median OS of 18.1 months, compared with 43.9 months for trimodality therapy (neoadjuvant CRT + surgery) and 66.2 months for perioperative chemotherapy (AHR for trimodality vs.&nbsp;dCRT: 0.45; P &lt; .001). <span class="citation" data-cites="jeone2440568">(<a href="#ref-jeone2440568" role="doc-biblioref"><strong>jeone2440568?</strong></a>)</span></p>
+<p>Netherlands Cancer Registry<span class="citation" data-cites="koeter1192">(<a href="#ref-koeter1192" role="doc-biblioref">Koëter et al. 2018</a>)</span> cT2-3M0 Potentially curable esophageal cancer in 13,244, of whom 4501 were age &gt;75. Retrospective analysis of survival with age&lt;75 vs age &gt;75 treated with chemoRT vs surgery in squamous cell carcinoma vs adenocarcinoma. Among 4501 patients diagnosed with potentially curable esophageal cancer over age 75, 72% received neither radiation or surgery, ChemoRT -&gt; surgery in 250 (7.3%)Elderly patients with adenocarcinoma had better outcomes with trimodality therapy (ChemoRT -&gt; Surgery) than surgery alone or chemoRT alone. Elderly patients with squamous cell carcinoma had comparable outcomes between surgery, dChemoRT, and trimodality therapy. Definitive chemoRT is a reasonable option for patients with squamous cell carcinoma.</p>
+<p>Netherlands DUCA <span class="citation" data-cites="wang3951">(<a href="#ref-wang3951" role="doc-biblioref"><strong>wang3951?</strong></a>)</span> Real-world experience 2009-2017 patients treated with original CROSS criteria (&lt;8cm length, age <span class="math inline">\(\le\)</span> 75, ECOG <span class="math inline">\(\le\)</span> 2, &lt;10% weight loss. Overall pCR (ypT0N0) rate 23%, 17% for adenocarcinoma and 48% for squamous cell carcinoma. Early stage (cT1/T2 tumors had higher rate of pCR (OR 1.44) than cT3.</p>
+<p>Age and mortalityh after esophagectomy: an Gestel YR, Lemmens VE, de Hingh IH, et al.&nbsp;Influence ofcomorbidity and age on 1-, 2-, and 3-month postoperative mor-tality rates in gastrointestinal cancer patients. Ann Surg Oncol.2013;20:371–380</p>
 
 
 
@@ -187,6 +219,9 @@ div.csl-indent {
 </section>
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-koeter1192" class="csl-entry" role="listitem">
+Koëter, M., M. van Putten, R. H. A. Verhoeven, V. E. P. P. Lemmens, and G. a. P. Nieuwenhuijzen. 2018. <span>“Definitive Chemoradiation or Surgery in Elderly Patients with Potentially Curable Esophageal Cancer in the <span>Netherlands</span>: A Nationwide Population-Based Study on Patterns of Care and Survival.”</span> <em>Acta Oncologica (Stockholm, Sweden)</em> 57 (9): 1192–200. <a href="https://doi.org/10.1080/0284186X.2018.1450521">https://doi.org/10.1080/0284186X.2018.1450521</a>.
+</div>
 <div id="ref-nilsson1015" class="csl-entry" role="listitem">
 Nilsson, K., F. Klevebro, B. Sunde, et al. 2023. <span>“Oncological Outcomes of Standard Versus Prolonged Time to Surgery After Neoadjuvant Chemoradiotherapy for Oesophageal Cancer in the Multicentre, Randomised, Controlled <span>NeoRes</span> <span>II</span> Trial.”</span> <em>Annals of Oncology: Official Journal of the European Society for Medical Oncology</em> 34 (11): 1015–24. <a href="https://doi.org/10.1016/j.annonc.2023.08.010">https://doi.org/10.1016/j.annonc.2023.08.010</a>.
 </div>
