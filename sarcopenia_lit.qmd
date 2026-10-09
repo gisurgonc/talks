@@ -12,7 +12,7 @@ Axial CT scanning has facilitated the estimation of body composition analysis, w
 
 The most common facile measure of muscle mass is the cross-sectional area and density of muscle at the L3 level, as measured on abdominal CT scan {Prado, 2008 #1848;Fearon, 2011 #1851;Mourtzakis, 2008 #1853}. Skeletal muscle cross-sectional area (MSA) is most commonly measured at the L3 level using image analysis software to identify all tissue between -29 and 150 Hounsfield Units {Martin, 2013 #1965}.
 
-A less common, but faster method is the extrapolation of muscle mass from the psoas diameter [@peng439] [@jonesO20] , but some comparative studies have questioned the predictive ability of psoas diameter \[@rutten630\] [@ebadi1053] {Rutten, 2017 #1979;Martin, 2013 #1965;Ebadi,  #1982} as a substitute for muscle cross-sectional area.
+A less common, but faster method is the extrapolation of muscle mass from the psoas diameter [@peng439] [@jonesO20] , but some comparative studies have questioned the predictive ability of psoas diameter [@rutten630] [@ebadi1053] {Rutten, 2017 #1979;Martin, 2013 #1965;Ebadi,  #1982} as a substitute for muscle cross-sectional area.
 
 Studies focused solely on one muscle group, the psoas muscle, generating a psoas muscle index, often considered patients within the lowest quartile of psoas muscle index to be sarcopenic(amini1593;joglekar771;peng1486). However, no studies have related psoas muscle area to whole body measures, and it has only been weakly correlated with total lumbar muscle area(). Therefore, it has been argued that the use of the psoas muscle as a sentinel muscle for the diagnosis of sarcopenia is flawed( [@baracos527]
 
