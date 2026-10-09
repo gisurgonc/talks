@@ -413,6 +413,8 @@ Control group was treated with immediate surgery after ChemoRT
 
 ## Surgery As Necessary Only (SANO) Clinical Trial
 
+!!! Define complete clinical response !!!
+
 Experimental group: After ChemoRT, restaging with EGD x2 and PET
 
 - Persistent disease $\rightarrow$ Surgery
