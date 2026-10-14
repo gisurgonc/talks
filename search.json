@@ -658,25 +658,11 @@
     "text": "Conclusion\nA trial with 150 subject per arm and a baseline event rate of 2% is not powered to detect a difference between arms except with the most wildly optimistic of assumptions regarding the differences between arms."
   },
   {
-    "objectID": "colophon.html",
-    "href": "colophon.html",
-    "title": "Colophon",
-    "section": "",
-    "text": "Optimal dimensions of graphics: 1920 x ?950 or ?925"
-  },
-  {
-    "objectID": "colophon.html#slides",
-    "href": "colophon.html#slides",
-    "title": "Colophon",
-    "section": "",
-    "text": "Optimal dimensions of graphics: 1920 x ?950 or ?925"
-  },
-  {
     "objectID": "colophon.htm#slides",
     "href": "colophon.htm#slides",
     "title": "Colophon",
     "section": "Slides",
-    "text": "Slides\nOptimal dimensions of graphics: 1920 x ?950 or ?925"
+    "text": "Slides\nOptimal dimensions of graphics: 1920 x 925 (better than 950 or 975 or 1080)"
   },
   {
     "objectID": "geriatric_surgery_lit.html",
@@ -5100,7 +5086,7 @@
     "href": "gastric_ca_overview.htm#global-epidemiology",
     "title": "Gastric Cancer",
     "section": "Global Epidemiology",
-    "text": "Global Epidemiology\n\nIncidence hotspots: East Asia, Eastern Europe, South America\nIncidence 2× higher in males than females\nMedian age at diagnosis: 68 years\nGlobally, 85% of cases in stomach body or antrum; 15% in the cardia\nIn North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases\nOverall incidence declining over the past century -improved food preservation\n\ndeclining H. pylori prevalence\n\n\n\n\n(patel342?)"
+    "text": "Global Epidemiology\n\nIncidence hotspots: East Asia, Eastern Europe, South America\nIncidence 2× higher in males than females\nMedian age at diagnosis: 68 years\nGlobally, 85% of cases in stomach body or antrum; 15% in the cardia\nIn North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases\nOverall incidence declining over the past century\n\nimproved food preservation\ndeclining H. pylori prevalence\n\n\n\n\n(patel342?)"
   },
   {
     "objectID": "gastric_ca_overview.htm#risk-factors---infectious",

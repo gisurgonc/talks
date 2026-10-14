@@ -1,13 +1,27 @@
 ---
 title: "Colophon"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    css: "lci_styles.css"
+    theme: [simple, lci.scss]
+    echo: false
+  #nanotes_pdf: default
+  pdf:
+    includes:
+      in-header: "preamble.tex"
+  #pptx: 
+    #reference-doc: talks.pptx
 editor: visual
 bibliography: zotero.bib
-csl: elsevier-stanford.csl
-link-citations: true
 ---
+
 
 ## Slides
 
-Optimal dimensions of graphics: 1920 x ?950 or ?925
+Optimal dimensions of graphics: 1920 x 925 (better than 950 or 975 or 1080)
 
-### 
