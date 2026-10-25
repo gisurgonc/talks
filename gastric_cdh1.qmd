@@ -34,13 +34,11 @@ Pathologic variants in CDH1 gene associated with HDGC
 
 ## Penetrance in Populations Enriched in HDGC
 
-
 ## Prophylactic Gastrectomy
 
 - Stanford
 
 90% of patients undergoing prophylactic gastrectomy harbor microscopic foci of gastric cancer in their stomach
-
 
 ## Endoscopic Screening - NIH
 
@@ -50,19 +48,33 @@ A large NIH cohort study of 270 CDH1 carriers undergoing surveillance with syste
 [@asif383]
 :::
 
+## Lifetime Risk of Cancer
+
++-------------------------------------------------+------------------+-------------+------------------+
+| | Cancer endpoint                               | | Cumulative\    | | Mean age\ | References       |
+|                                                 |   risk to age 80 |   at onset  |                  |
++=================================================+==================+=============+==================+
+| | **Advanced gastric ca (≥ stage II), males**   | 10.3%            | 47-49y      | | 4\]\[35\]\[2\] |
++-------------------------------------------------+------------------+-------------+------------------+
+| | **Advanced gastric ca (≥ stage II), females** | |  **\~6.5–7%**  | 47-49       |                  |
++-------------------------------------------------+------------------+-------------+------------------+
+| | Gastric ca including occult pT1a, males       | 37-42%           |             | 4 35 2           |
++-------------------------------------------------+------------------+-------------+------------------+
+| | Gastric ca including occult pT1a, females     | 25-33%           |             |                  |
++-------------------------------------------------+------------------+-------------+------------------+
+| | **Lobular breast cancer (females)**           | | **37–55%**     | | 51–54y    | 1 2 3 8          |
++-------------------------------------------------+------------------+-------------+------------------+
+
 ## Endoscopic Screening - Cambridge
 
-imilarly, a 16-year longitudinal cohort study demonstrated that endoscopic surveillance with systematic random biopsies can identify early lesions and inform decision-making about gastrectomy. 
+imilarly, a 16-year longitudinal cohort study demonstrated that endoscopic surveillance with systematic random biopsies can identify early lesions and inform decision-making about gastrectomy.
 
 ::: aside
 [@lee107]
 :::
 
-
 ## Endoscopic Screening
 
- 2025 study of 20 carriers undergoing long-term surveillance (mean 62 months) found no patients developed aggressive (greater than pT1a) cancer, even among those with positive pT1a biopsies who continued surveillance.
- 
-aside:  Expert Endoscopic Surveillance in CDH1 Pathogenic Variant Carriers Seems Safe, Even After Positive (pT1a) Biopsies.
-Journal of Medical Genetics. 2025. Benusiglio PR, Leenhardt R, Duros C, et al.New
+2025 study of 20 carriers undergoing long-term surveillance (mean 62 months) found no patients developed aggressive (greater than pT1a) cancer, even among those with positive pT1a biopsies who continued surveillance.
 
+aside: Expert Endoscopic Surveillance in CDH1 Pathogenic Variant Carriers Seems Safe, Even After Positive (pT1a) Biopsies. Journal of Medical Genetics. 2025. Benusiglio PR, Leenhardt R, Duros C, et al.New

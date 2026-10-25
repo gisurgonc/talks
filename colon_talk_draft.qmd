@@ -19,13 +19,21 @@ editor: visual
 bibliography: zotero.bib
 ---
 
+Classification of Malignancy in Colorectal Polyps
+
+Haggett's
+
+Ueno Classification
+
+Submucosal Levels
+
 ## Gastrograffin Challange for malignant small bowel obstruction
 
 ::: aside
 [@wanbahrume794]
-:::
 
-## GI Stromal Tumors
+## 
+:::
 
 [Carcinomatosis from Colon Cancer]
 
@@ -45,35 +53,28 @@ bibliography: zotero.bib
 
 Efficacy of HIPEC = $\function$ (Histology, completeness of cytoreduction, prior surgery score (PSS), PIC) T stage of tumor is not important
 
-
 ## HPIEC morbidity
 
-Function of age >60, ECOG, hyopalbumenia, PCI score, number of bowel resections, diagphragm involvement, distal pancreatectomy
+Function of age \>60, ECOG, hyopalbumenia, PCI score, number of bowel resections, diagphragm involvement, distal pancreatectomy
 
 ## HIPEC Exclusion
 
 Laparoscopy prior to HIPEC. Exclusions for HIPEC:
 
-- Large-volume carcinomatosis with PCI>20
+- Large-volume carcinomatosis with PCI\>20
 - Extensive involvement of small bowel mesentery or serosa
 - Extensive porta hepatis involvement
 - Long-segment ureteral involvement
 - Multipe intrahepatic parenchymal liver nodules
 
-
-
-
 ## HIPEC for T4 tumors
 
-HIPECT4 trial shows improvement in local control with HIPEC but no change in DFS or OS
-::::: columns
-::: {.column width="50%"}
-Origin with bowel wall stomach- small intestine - colon - esophagus
-:::
+HIPECT4 trial shows improvement in local control with HIPEC but no change in DFS or OS ::::: columns ::: {.column width="50%"} Origin with bowel wall stomach- small intestine - colon - esophagus :::
 
 ::: {.column width="50%"}
 Tyrosine kinase gain of function mutations - KIT2 - PDGRFA3 Genetic inactivation - NF14 - succinate dehydrogenase (SDH)
 :::
+
 :::::
 
 ::: aside
@@ -83,7 +84,6 @@ Tyrosine kinase gain of function mutations - KIT2 - PDGRFA3 Genetic inactivation
 ## Exenteration
 
 Para-aortic node involvement is contraindication
-
 
 ## Rapido Trial
 
