@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/tabby.min.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bf27225e3a48a9273f3daa8f8e829971.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.10.19">
+
+  <title>talks – CDH1 Pathologic Variants</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="site_libs/revealjs/dist/reveal.css">
+  <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+      vertical-align: middle;
+    }
+    /* CSS for syntax highlighting */
+    html { -webkit-text-size-adjust: 100%; }
+    pre > code.sourceCode { white-space: pre; position: relative; }
+    pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+    pre > code.sourceCode > span:empty { height: 1.2em; }
+    .sourceCode { overflow: visible; }
+    code.sourceCode > span { color: inherit; text-decoration: inherit; }
+    div.sourceCode { margin: 1em 0; }
+    pre.sourceCode { margin: 0; }
+    @media screen {
+    div.sourceCode { overflow: auto; }
+    }
+    @media print {
+    pre > code.sourceCode { white-space: pre-wrap; }
+    pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+    }
+    pre.numberSource code
+      { counter-reset: source-line 0; }
+    pre.numberSource code > span
+      { position: relative; left: -4em; counter-increment: source-line; }
+    pre.numberSource code > span > a:first-child::before
+      { content: counter(source-line);
+        position: relative; left: -1em; text-align: right; vertical-align: baseline;
+        border: none; display: inline-block;
+        -webkit-touch-callout: none; -webkit-user-select: none;
+        -khtml-user-select: none; -moz-user-select: none;
+        -ms-user-select: none; user-select: none;
+        padding: 0 4px; width: 4em;
+        color: #aaaaaa;
+      }
+    pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+    div.sourceCode
+      { color: #003b4f; background-color: #f1f3f5; }
+    @media screen {
+    pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+    }
+    code span { color: #003b4f; } /* Normal */
+    code span.al { color: #ad0000; } /* Alert */
+    code span.an { color: #5e5e5e; } /* Annotation */
+    code span.at { color: #657422; } /* Attribute */
+    code span.bn { color: #ad0000; } /* BaseN */
+    code span.bu { } /* BuiltIn */
+    code span.cf { color: #003b4f; font-weight: bold; } /* ControlFlow */
+    code span.ch { color: #20794d; } /* Char */
+    code span.cn { color: #8f5902; } /* Constant */
+    code span.co { color: #5e5e5e; } /* Comment */
+    code span.cv { color: #5e5e5e; font-style: italic; } /* CommentVar */
+    code span.do { color: #5e5e5e; font-style: italic; } /* Documentation */
+    code span.dt { color: #ad0000; } /* DataType */
+    code span.dv { color: #ad0000; } /* DecVal */
+    code span.er { color: #ad0000; } /* Error */
+    code span.ex { } /* Extension */
+    code span.fl { color: #ad0000; } /* Float */
+    code span.fu { color: #4758ab; } /* Function */
+    code span.im { color: #00769e; } /* Import */
+    code span.in { color: #5e5e5e; } /* Information */
+    code span.kw { color: #003b4f; font-weight: bold; } /* Keyword */
+    code span.op { color: #5e5e5e; } /* Operator */
+    code span.ot { color: #003b4f; } /* Other */
+    code span.pp { color: #ad0000; } /* Preprocessor */
+    code span.sc { color: #5e5e5e; } /* SpecialChar */
+    code span.ss { color: #20794d; } /* SpecialString */
+    code span.st { color: #20794d; } /* String */
+    code span.va { color: #111111; } /* Variable */
+    code span.vs { color: #20794d; } /* VerbatimString */
+    code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
+  </style>
+  <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
+  <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <style type="text/css">
+    .reveal div.sourceCode {
+      margin: 0;
+      overflow: auto;
+    }
+    .reveal div.hanging-indent {
+      margin-left: 1em;
+      text-indent: -1em;
+    }
+    .reveal .slide:not(.center) {
+      height: 100%;
+    }
+    .reveal .slide.scrollable {
+      overflow-y: auto;
+    }
+    .reveal .footnotes {
+      height: 100%;
+      overflow-y: auto;
+    }
+    .reveal .slide .absolute {
+      position: absolute;
+      display: block;
+    }
+    .reveal .footnotes ol {
+      counter-reset: ol;
+      list-style-type: none; 
+      margin-left: 0;
+    }
+    .reveal .footnotes ol li:before {
+      counter-increment: ol;
+      content: counter(ol) ". "; 
+    }
+    .reveal .footnotes ol li > p:first-child {
+      display: inline-block;
+    }
+    .reveal .slide ul,
+    .reveal .slide ol {
+      margin-bottom: 0.5em;
+    }
+    .reveal .slide ul li,
+    .reveal .slide ol li {
+      margin-top: 0.4em;
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide ul[role="tablist"] li {
+      margin-bottom: 0;
+    }
+    .reveal .slide ul li > *:first-child,
+    .reveal .slide ol li > *:first-child {
+      margin-block-start: 0;
+    }
+    .reveal .slide ul li > *:last-child,
+    .reveal .slide ol li > *:last-child {
+      margin-block-end: 0;
+    }
+    .reveal .slide .columns:nth-child(3) {
+      margin-block-start: 0.8em;
+    }
+    .reveal blockquote {
+      box-shadow: none;
+    }
+    .reveal .tippy-content>* {
+      margin-top: 0.2em;
+      margin-bottom: 0.7em;
+    }
+    .reveal .tippy-content>*:last-child {
+      margin-bottom: 0.2em;
+    }
+    .reveal .slide > img.stretch.quarto-figure-center,
+    .reveal .slide > img.r-stretch.quarto-figure-center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-left,
+    .reveal .slide > img.r-stretch.quarto-figure-left  {
+      display: block;
+      margin-left: 0;
+      margin-right: auto; 
+    }
+    .reveal .slide > img.stretch.quarto-figure-right,
+    .reveal .slide > img.r-stretch.quarto-figure-right  {
+      display: block;
+      margin-left: auto;
+      margin-right: 0; 
+    }
+  </style>
+  <script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
+</head>
+<body class="quarto-light">
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide" class="quarto-title-block center">
+  <h1 class="title">CDH1 Pathologic Variants</h1>
+
+<div class="quarto-title-authors">
+</div>
+
+</section>
+<section id="lecture-at-a-glance" class="slide level2">
+<h2>Lecture at a glance</h2>
+<p>A single-slide framing of the syndrome, the two cancers it causes, and the two management arms this lecture develops.</p>
+<pre><code>┌───────────────────────────────────────────────────────────────────────────┐
+│         CDH1 GERMLINE PATHOGENIC/LIKELY PATHOGENIC VARIANT                   │
+│         (Hereditary Diffuse Gastric &amp; Lobular Breast Cancer Syndrome)        │
+│         Encodes E-cadherin • ~1 in 5,000–8,000 • tumor suppressor           │
+└───────────────────────────────┬───────────────────────────────────────────┘
+                                 │
+              ┌──────────────────┴───────────────────┐
+              ▼                                        ▼
+   ┌───────────────────────┐               ┌────────────────────────┐
+   │  DIFFUSE GASTRIC CA    │               │  LOBULAR BREAST CA      │
+   │  (signet-ring cell)    │               │  (E-cadherin loss is    │
+   │  M ~10% / F ~7%        │               │   the defining feature) │
+   │  ADVANCED risk to 80   │               │  Women ~37–55% to 80    │
+   └───────────┬───────────┘               └───────────┬────────────┘
+               │                                         │
+      ┌────────┴─────────┐                     ┌─────────┴──────────┐
+      ▼                  ▼                      ▼                    ▼
+ SURVEILLANCE     PROPHYLACTIC             MRI + MAMMO          RISK-REDUCING
+ (Cambridge       TOTAL GASTRECTOMY        SURVEILLANCE          MASTECTOMY
+  protocol EGD)   (curative-intent         (from age 30)         (discuss/offer)
+                  risk elimination)</code></pre>
+<p><strong>Learning objectives</strong> 1. Explain E-cadherin biology and how biallelic <em>CDH1</em> inactivation initiates diffuse gastric cancer (DGC) and invasive lobular breast cancer (ILC). 2. Quote the <em>contemporary</em> penetrance estimates and the critical distinction between ubiquitous indolent pT1a signet-ring foci and clinically significant advanced cancer. 3. Perform/interpret guideline-concordant endoscopic surveillance (modified Cambridge protocol) and understand its limits. 4. State the indications, timing, technique, pathology, and outcomes of prophylactic total gastrectomy (PTG). 5. <strong>Risk-stratify which carriers should be steered toward surgery vs.&nbsp;surveillance.</strong></p>
+</section>
+<section id="the-gene-and-the-protein" class="slide level2">
+<h2>1. The gene and the protein</h2>
+<p><em>CDH1</em> sits on chromosome <strong>16q22.1</strong> and encodes <strong>E-cadherin (epithelial cadherin)</strong>, a calcium-dependent transmembrane glycoprotein at the basolateral membrane of epithelial cells; germline P/LP variants occur in roughly <strong>1 in 5,000–8,000</strong> people[93][94][2]. E-cadherin has three parts[96]:</p>
+<ul>
+<li><strong>Extracellular domain</strong> — five cadherin repeats (EC1–EC5) that bind E-cadherin on the neighboring cell (homophilic <em>trans</em> “strand-swap” adhesion), rigidified by calcium[96][97].</li>
+<li><strong>Single transmembrane domain.</strong></li>
+<li><strong>Cytoplasmic tail</strong> — anchors the <strong>catenin complex</strong> to the actin cytoskeleton[93][94].</li>
+</ul>
+<p>The cadherin–catenin complex is the core of the <strong>adherens junction</strong>: <strong>β-catenin</strong> links the tail to <strong>α-catenin</strong> (an actin-coupled mechanosensor), <strong>p120-catenin</strong> binds the juxtamembrane domain and stabilizes surface E-cadherin against endocytosis, and <strong>γ-catenin/plakoglobin</strong> can substitute for β-catenin[97][98][102][101]. Beyond mechanical adhesion, E-cadherin governs cell polarity, contact inhibition, Wnt/Rho/Hippo/PI3K signaling, EMT suppression, and — importantly for carcinogenesis — <strong>mitotic spindle orientation</strong>[93][95][105].</p>
+<pre><code>        E-CADHERIN AT THE ADHERENS JUNCTION (two adjacent epithelial cells)
+
+     Cell A                                          Cell B
+   ══════════╗   EC1–EC5 (Ca²⁺-dependent trans-bind)  ╔══════════
+   membrane  ║◄──────────  ▓▓▓▓▓ ══ ▓▓▓▓▓  ──────────►║ membrane
+             ║  p120 ─┐                        ┌─ p120 ║
+             ║        ├─ β-catenin ─ α-catenin ┤       ║
+             ║        │       │                │       ║
+             ║      ACTIN CYTOSKELETON ◄───────┘       ║
+   ══════════╝                                         ╚══════════
+   Loss of E-cadherin → junction collapse, loss of polarity,
+   randomized spindle orientation, anoikis resistance, invasion.</code></pre>
+</section>
+<section id="two-hit-carcinogenesis-how-loss-of-adhesion-becomes-cancer" class="slide level2">
+<h2>2. Two-hit carcinogenesis: how loss of adhesion becomes cancer</h2>
+<p>Neoplasia follows <strong>Knudson’s two-hit model</strong>[2][113]:</p>
+<ul>
+<li><strong>First hit (germline):</strong> one inactivating <em>CDH1</em> allele in every cell. ~75% of pathogenic variants are truncating (nonsense/frameshift/splice), ~25% missense, ~4% large deletions[114][115].</li>
+<li><strong>Second hit (somatic):</strong> inactivation of the remaining wild-type allele → complete E-cadherin loss[2][117]. In early intramucosal lesions the dominant second hit is <strong>CDH1 promoter hypermethylation (~50%)</strong>, whereas <strong>LOH predominates in metastases</strong>; point mutations as a second hit are rare[119][121][117].</li>
+</ul>
+</section>
+<section id="two-hit" class="slide level2">
+<h2>Two-hit</h2>
+<div class="cell" data-reveal="true" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+    A["Germline CDH1 variant&lt;br/&gt;(1st hit — all cells heterozygous)"] --&gt; B["Somatic 2nd hit&lt;br/&gt;promoter methylation (early) / LOH (late)"]
+    B --&gt; C["Complete E-cadherin loss"]
+    C --&gt; D["Loss of adhesion + randomized&lt;br/&gt;mitotic spindle orientation"]
+    D --&gt; E["Cells deposited into lamina propria&lt;br/&gt;→ intramucosal pT1a signet-ring foci (indolent)"]
+    E --&gt;|"Additional hits:&lt;br/&gt;TP53, RhoA, c-Src, EMT"| F["Advanced diffuse gastric cancer&lt;br/&gt;(linitis plastica)"]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
+<p>The mechanistic engine is spindle misorientation: E-cadherin recruits <strong>LGN/NuMA/Gαi–dynein</strong> to cell–cell contacts to keep the mitotic spindle parallel to the epithelial plane; when E-cadherin is lost, division orientation randomizes and daughter cells are displaced out of the epithelium into the lamina propria, seeding signet-ring foci[122][123][124]. Progression from indolent pT1a to <strong>advanced</strong> DGC requires <em>additional</em> molecular events (TP53, RhoA gain-of-function, c-Src)[94][127].</p>
+</section>
+<section id="histopathology-the-finding-you-will-see-in-nearly-every-specimen" class="slide level2">
+<h2>3. Histopathology — the finding you will see in nearly every specimen</h2>
+<ul>
+<li><strong>88–97%</strong> of prophylactic gastrectomy specimens contain occult <strong>intramucosal (pT1a) signet-ring cell carcinoma (SRCC)</strong> — often multifocal (from a few to several hundred foci), 0.1–10 mm, distributed cardia-to-pylorus[40][2][160].</li>
+<li>Two precursor patterns: <strong>in situ SRCC</strong> (signet-ring cells within an intact basement membrane, essentially pathognomonic for HDGC) and <strong>pagetoid spread</strong> beneath preserved epithelium[160][161][162].</li>
+<li>Early foci are <strong>hypoproliferative (low Ki-67), lack nuclear β-catenin</strong>, and are generally <strong>indolent</strong> — most never progress[120][127].</li>
+<li><strong>≥pT1b disease is found in only 2–3%</strong> of prophylactic specimens[40].</li>
+<li><strong>No correlation between patient age and number of foci</strong> — foci burden does not predictably rise with age[152][166].</li>
+</ul>
+<p>The signet-ring morphology is a direct read-out of adhesion loss: discohesive cells cannot form glands and infiltrate singly, mucin displacing the nucleus. The same E-cadherin loss underlies the <strong>single-file infiltrative pattern of invasive lobular breast cancer</strong> and its anoikis resistance (cytosolic p120 → Rho/ROCK)[110][111][132].</p>
+<p><visual>Figure 1[129]</visual></p>
+</section>
+<section id="cancer-risk-the-numbers-that-drive-management" class="slide level2">
+<h2>4. Cancer risk — the numbers that drive management</h2>
+<p>Historical kindred-based estimates (67–83% lifetime gastric cancer risk) were inflated by ascertainment bias[32][30]. Contemporary, less-selected cohorts — culminating in <span class="citation" data-cites="ryan722">(<a href="" role="doc-biblioref" onclick="return false;"><strong>ryan722?</strong></a>)</span> <strong>Ryan et al., JAMA 2024</strong> (883 carriers, 213 families) — separate ubiquitous pT1a foci from clinically meaningful disease[4][35].</p>
+<p><mdtable> | Cancer endpoint | Cumulative risk to age 80 | Mean age at onset | References | |—|—|—|—| | <strong>Advanced gastric ca (≥ stage II), males</strong> | <strong>~10.3%</strong> | 47–49 y | [4][35][2] | | <strong>Advanced gastric ca (≥ stage II), females</strong> | <strong>~6.5–7%</strong> | 47–49 y | [4][35][2] | | Gastric ca including occult pT1a, males | 37–42% | — | [2][33][34] | | Gastric ca including occult pT1a, females | 25–33% | — | [2][33][34] | | <strong>Lobular breast cancer (females)</strong> | <strong>37–55%</strong> | 51–54 y (some series ~42 y) | [1][2][3][8] | </mdtable></p>
+<p><strong>Family history is the single strongest modifier of gastric-cancer risk</strong> — the key concept for deciding who needs surgery[35][37].</p>
+<p><mdtable> | Affected first-degree relatives with DGC | Estimated gastric-cancer risk to age 80 | References | |—|—|—| | Irrespective of family history | ~7–10% | [4][35] | | None | ~10% | [35] | | 1 | ~18% | [35] | | 2 | ~28% | [35] | | 3 | ~38% (95% CI 25–64%) | [35][37] | </mdtable></p>
+<pre><code>   GASTRIC-CANCER RISK RISES STEEPLY WITH FAMILY BURDEN
+   (advanced-cancer risk to age 80, Ryan et al. JAMA 2024)
+
+   3 FDRs │██████████████████████████████████████  ~38%
+   2 FDRs │████████████████████████████            ~28%
+   1 FDR  │██████████████████                      ~18%
+   0 FDR  │██████████                              ~10%
+          └────────┴────────┴────────┴────────┴────────
+          0%      10%      20%      30%      40%</code></pre>
+<p>By contrast, <strong>lobular breast cancer risk (~37%) is stable regardless of gastric-cancer family history</strong>, and between ages 40–69 a woman’s decade-specific breast-cancer risk exceeds her gastric-cancer risk[3][5][6]. <strong>No reliable genotype–phenotype correlation exists</strong>; all confirmed P/LP variants are truncating, and missense changes are generally classified VUS and are <em>not</em> an indication for surgery[41][42][39].</p>
+<p><visual>Figure 2[29]</visual></p>
+</section>
+<section id="who-should-be-tested-nccn-igclc-2020" class="slide level2">
+<h2>5. Who should be tested (NCCN / IGCLC 2020)</h2>
+<p>Test criteria have progressively broadened. The <strong>IGCLC 2020</strong> family/individual criteria capture ~84% of carriers but had only ~24% sensitivity in an unselected P/LP cohort; the broader <strong>NCCN/Yale criteria reached ~82%</strong> because most modern carriers surface on multigene breast panels rather than classic HDGC pedigrees[51][53][57][58].</p>
+<p><strong>IGCLC 2020 — any one of[53][54][55]:</strong> - ≥2 gastric cancers in the family (any age), ≥1 confirmed DGC - ≥1 DGC (any age) <strong>and</strong> ≥1 lobular breast cancer &lt; 70 y in different relatives - ≥2 lobular breast cancers &lt; 50 y - DGC &lt; 50 y - DGC at any age in individuals of <strong>Māori</strong> ethnicity - DGC at any age with personal/family history of <strong>cleft lip/palate</strong> - DGC <strong>and</strong> LBC in one person, both &lt; 70 y - Bilateral LBC &lt; 70 y - Gastric in situ signet-ring cells / pagetoid spread &lt; 50 y</p>
+<p>Test <strong>CTNNA1</strong> if <em>CDH1</em>-negative[55]. All DGC/LBC diagnoses must be histologically confirmed[53].</p>
+</section>
+<section id="endoscopic-surveillance-the-modified-cambridge-protocol" class="slide level2">
+<h2>6. Endoscopic surveillance — the modified Cambridge protocol</h2>
+<p><strong>Setting &amp; cadence.</strong> Perform at centers experienced with HDGC, flag <em>CDH1</em> status on the requisition, and scope at <strong>6–12 month</strong> intervals (every 6 months if a prior positive biopsy or if the patient meets surgical criteria but declines)[60][61]. GeneReviews suggests starting at <strong>age 40</strong> (or 5–10 years before the youngest family cancer; minimum age 18)[61].</p>
+<p><strong>Technique</strong> (each element matters)[60][61][63]: 1. ≥30-minute high-definition <strong>white-light</strong> inspection of the entire stomach. 2. <strong>Clear all mucus/debris</strong> (simethicone / N-acetylcysteine lavage). 3. <strong>Full insufflation</strong> and assessment of <strong>distensibility</strong> (to detect linitis plastica). 4. <strong>Narrow-band imaging</strong> across all regions. 5. <strong>Targeted</strong> cold-forceps biopsies of any <strong>pale area</strong>, erosion, ulcer, nodule, or rigid fold; pale areas carry a high NPV (0.975) but low PPV (~0.12) for SRCC[71]. 6. <strong>Random mapping biopsies</strong> — modified Cambridge distribution (24 biopsies):</p>
+<pre><code>        MODIFIED CAMBRIDGE RANDOM-BIOPSY MAP (24 total)  — NCCN-endorsed
+        (plus targeted biopsies of every visible abnormality)
+
+                    ╔═══════════════╗
+                    ║   CARDIA  ×4  ║      ← proximal / GE junction
+                    ╠═══════════════╣
+             FUNDUS ×4               (proximal stomach: high SRCC yield)
+                    ╠═══════════════╣
+                    ║  BODY/CORPUS  ║
+                    ║      ×6       ║
+                    ╠═══════════════╣
+                    ║ TRANSITION ×4 ║      ← body–antrum transition zone
+                    ╠═══════════════╣
+                    ║   ANTRUM  ×4  ║
+                    ╠═══════════════╣
+                    ║ PREPYLORIC ×2 ║      → toward pylorus / duodenum
+                    ╚═══════════════╝
+        Original Cambridge = 30 (5 each × 6 regions);
+        IGCLC 2020 = 28–30; Bethesda (research only) = 88 biopsies.</code></pre>
+<p><strong>Interpretation &amp; limits.</strong> NCCN states explicitly that <strong>the goal is NOT to find pT1a foci</strong> (nearly universal and indolent) but to detect features of <strong>&gt;pT1a</strong> disease[60]. Random-biopsy sensitivity is poor: the Cambridge method detects occult SRCC in only ~15–63% while gastrectomy shows 88–97% (false-negative rate ~80%); the research <strong>Bethesda 88-biopsy</strong> protocol raises per-endoscopy detection to ~36% but is not recommended for routine care[80][40][67]. EUS, autofluorescence, and confocal endomicroscopy add little; chromoendoscopy may improve yield (OR ~20 vs.&nbsp;white light in one series)[78][67][74]. Reassuringly, across the largest surveillance cohorts (NIH 270 patients/5 y; Cambridge 145 patients/16 y; French and MGH series) <strong>no gastric-cancer deaths</strong> were reported and progression beyond pT1a was rare — but follow-up is short and crossover to surgery is common[49][89][91][92][40].</p>
+</section>
+<section id="prophylactic-risk-reducing-total-gastrectomy" class="slide level2">
+<h2>7. Prophylactic (risk-reducing) total gastrectomy</h2>
+<h3 id="indications">7.1 Indications</h3>
+<p>Per <strong>NCCN v1.2026 / IGCLC 2020</strong>, gastrectomy is <strong>recommended</strong> when any of the following are present[48]: - Established <strong>≥pT1b</strong> SRCC. - Persistent unexplained symptoms attributable to advanced disease (weight loss, early satiety, anemia, pain). - Endoscopic signs of advanced disease — poor distensibility/linitis plastica, ulceration, thickened rigid folds, disturbed vascular pattern.</p>
+<p>For carriers <strong>without</strong> these features, current guidance frames the choice as <strong>shared decision-making between PTG and surveillance</strong> rather than mandatory surgery — a notable shift[48]. Detection of isolated pT1a SRCC on biopsy is <strong>not</strong>, by itself, a formal indication for gastrectomy (it is nearly universal), though it often informs patient choice[60][91]. Uptake of PTG has fallen from <strong>83% (2001–2010) to ~68% (2021–2025)</strong>[50].</p>
+<h3 id="timing">7.2 Timing</h3>
+<ul>
+<li>Generally <strong>ages 20–30</strong>, individualized by personal/family history and preference; Markov modeling supports this window for quality-adjusted life-years[48][144][148].</li>
+<li><strong>Not routine after ~70 years</strong> (rising perioperative risk, diminishing benefit) and <strong>not before physical maturity</strong> in adolescents; overtreatment is a real concern in adolescents/young adults[144][146][147].</li>
+<li>No emergency: even a positive pT1a biopsy does not warrant a rushed operation[145].</li>
+</ul>
+<h3 id="technique-the-surgical-imperatives">7.3 Technique — the surgical imperatives</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode numberSource mermaid number-lines code-with-copy"><code class="sourceCode"><span id="cb5-1"><a aria-label="1"></a>flowchart LR</span>
+<span id="cb5-2"><a aria-label="2"></a>    A["Preop: baseline EGD to exclude advanced ca;&lt;br/&gt;nutrition + psychosocial assessment"] --&gt; B["TOTAL gastrectomy&lt;br/&gt;remove ALL gastric mucosa"]</span>
+<span id="cb5-3"><a aria-label="3"></a>    B --&gt; C["Intraoperative FROZEN SECTION&lt;br/&gt;proximal margin = esophageal squamous mucosa&lt;br/&gt;distal margin = duodenal mucosa"]</span>
+<span id="cb5-4"><a aria-label="4"></a>    C --&gt; D["D1 perigastric lymphadenectomy only"]</span>
+<span id="cb5-5"><a aria-label="5"></a>    D --&gt; E["Roux-en-Y esophagojejunostomy&lt;br/&gt;40–50 cm Roux limb (limits bile reflux)"]</span>
+<span id="cb5-6"><a aria-label="6"></a>    E --&gt; F["Lifelong multidisciplinary follow-up"]</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<ul>
+<li><strong>Complete resection is the cardinal rule.</strong> Retained proximal (cardia) or distal gastric mucosa is a documented failure mode requiring re-resection/reoperation — hence <strong>mandatory frozen-section confirmation</strong> of both margins[30][144][150].</li>
+<li><strong>D1 (perigastric) lymphadenectomy is sufficient</strong>; nodal metastases are essentially absent in T1a/in situ disease, so extended dissection only adds morbidity[144][145][151][152].</li>
+<li><strong>Minimally invasive (laparoscopic/robotic)</strong> approaches improve short-term recovery, but <strong>surgeon/center experience matters more than the approach</strong> — operate at high-volume HDGC centers[144][154].</li>
+</ul>
+<h3 id="pathology-yield">7.4 Pathology yield</h3>
+<p>Occult pT1a SRCC is found in <strong>88–97%</strong> of specimens (96% in the Stillman series; 88% in the NIH 150-patient series), while <strong>advanced (&gt;pT1a) cancer appears in only ~1–3%</strong>[152][156][40][50].</p>
+<h3 id="outcomes">7.5 Outcomes</h3>
+<p><mdtable> | Domain | Typical result | References | |—|—|—| | Perioperative mortality | &lt;1% at expert centers | [144][157] | | Major morbidity (Clavien-Dindo ≥3) | ~6–19%; anastomotic leak ~4–7% | [81][156] | | Anastomotic stricture | ~5% ≤30 d; ~15% at 1–3 mo | [144][168] | | Weight loss | peaks ~15–20% at 3–6 mo, then stabilizes | [144][167][168] | | Chronic GI sequelae at 2 y | ~94% have ≥1 (dumping, bile reflux, diarrhea) | [159] | | Quality of life | dips at 1 mo, ~baseline by 6–12 mo; symptoms persist | [159][177][179] | | Decisional regret | usually low, but up to ~43% in some series (worse if no SRCC found / complications) | [167][178][180] | | Cancer recurrence / gastric-cancer death (early-stage) | none reported | [155][156][157] | </mdtable></p>
+<p><strong>Mandatory lifelong nutrition surveillance</strong>: vitamin <strong>B12</strong> (loss of intrinsic factor — supplement universally), <strong>iron</strong>, <strong>calcium/vitamin D</strong> (bone-density testing ~3 y post-op), fat-soluble vitamins, zinc/copper/selenium; use chewable/liquid drug formulations and non-oral contraception[168][171][173][172].</p>
+<p><visual>Figure 2[166]</visual></p>
+</section>
+<section id="who-should-have-surgery-risk-adapted-selection-core-teaching-point" class="slide level2">
+<h2>8. WHO should have surgery? Risk-adapted selection (core teaching point)</h2>
+<p>The decision integrates <strong>variant pathogenicity, family history, age/fitness, center expertise, and patient values</strong> — surgery removes ~99% of gastric-cancer risk but imposes 100% lifelong physiologic cost, whereas surveillance preserves the stomach but has an ~80% per-exam false-negative rate[40][81][183][184].</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode numberSource mermaid number-lines code-with-copy"><code class="sourceCode"><span id="cb6-1"><a aria-label="1"></a>flowchart TD</span>
+<span id="cb6-2"><a aria-label="2"></a>    A["Confirmed CDH1 germline variant"] --&gt; B{"Variant class?"}</span>
+<span id="cb6-3"><a aria-label="3"></a>    B --&gt;|"VUS / benign"| S1["NOT a surgical candidate&lt;br/&gt;→ individualized surveillance,&lt;br/&gt;manage per family history"]</span>
+<span id="cb6-4"><a aria-label="4"></a>    B --&gt;|"Pathogenic / likely pathogenic&lt;br/&gt;(truncating)"| C{"Advanced-disease features?&lt;br/&gt;≥pT1b, symptoms, or&lt;br/&gt;endoscopic red flags"}</span>
+<span id="cb6-5"><a aria-label="5"></a>    C --&gt;|"Yes"| SURG["RECOMMEND total gastrectomy&lt;br/&gt;(oncologic intent)"]</span>
+<span id="cb6-6"><a aria-label="6"></a>    C --&gt;|"No"| D{"Risk-modifier profile"}</span>
+<span id="cb6-7"><a aria-label="7"></a>    D --&gt;|"Favor SURGERY:&lt;br/&gt;strong FHx DGC (esp. ≥2–3 FDRs),&lt;br/&gt;age 20–40 &amp; fit,&lt;br/&gt;Maori ethnicity,&lt;br/&gt;access to high-volume center,&lt;br/&gt;values max risk reduction"| SURG2["Offer prophylactic total gastrectomy"]</span>
+<span id="cb6-8"><a aria-label="8"></a>    D --&gt;|"Favor SURVEILLANCE:&lt;br/&gt;no/uncertain FHx,&lt;br/&gt;age &gt;70 or major comorbidity,&lt;br/&gt;HLBC-predominant presentation,&lt;br/&gt;no expert surgical center,&lt;br/&gt;values organ preservation"| SURV["Modified Cambridge protocol&lt;br/&gt;EGD q6–12 months"]</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<p><mdtable> | Factor | Favors prophylactic gastrectomy | Favors endoscopic surveillance | References | |—|—|—|—| | Variant | Pathogenic/likely pathogenic (truncating) | VUS or missense without supporting FHx (not a surgical candidate) | [45][41][42] | | Family history of DGC | Present, especially ≥2–3 affected FDRs (risk up to ~38%) | Absent/uncertain (advanced-cancer risk ~10%) | [35][37][48] | | Age &amp; fitness | ~20–40 y, good performance status | &gt;70 y or significant comorbidity | [144][146] | | Endoscopic/clinical findings | ≥pT1b, symptoms, linitis/ulcer/rigid folds | Normal, distensible stomach; reassuring exams | [48][151] | | Center | Access to high-volume HDGC surgical team | No local expertise (favor referral or surveillance) | [144][183] | | Ethnicity | Māori (historically higher penetrance) | — | [183][184] | | Phenotype emphasis | Gastric-predominant kindred | HLBC-predominant, minimal DGC history | [183][184] | | Patient values | Prioritizes maximal cancer risk reduction | Prioritizes organ preservation / QoL | [48] | </mdtable></p>
+<p><visual_group>Figure 1[183], Figure 2[184]</visual_group></p>
+<p><strong>Bottom line for selection:</strong> A young, fit carrier of a <em>truncating</em> variant from a DGC-dense family, cared for at an expert center, is the prototypical candidate for <strong>PTG</strong>. An older carrier, a carrier with a VUS, or one with no family history of gastric cancer — particularly when the kindred is breast-predominant — is reasonably managed with <strong>expert surveillance</strong>, with surgery reserved for advanced-disease features[48][183][184].</p>
+</section>
+<section id="breast-cancer-dont-forget-the-second-organ" class="slide level2">
+<h2>9. Breast cancer: don’t forget the second organ</h2>
+<p>Every <strong>female</strong> carrier needs a parallel breast program, because ILC risk (~37–55%) is high, presents young, and is poorly seen on mammography (sensitivity as low as ~34%; MRI ~88%)[1][2][17][9].</p>
+<p><mdtable> | Element | NCCN | IGCLC 2020 | References | |—|—|—|—| | Breast MRI (± contrast) | Annual from <strong>age 30</strong> | Annual from <strong>age 30</strong> | [1][12] | | Mammography | Annual from age 30 (with MRI) | Supplemental from ~35–40 | [1][12] | | Clinical breast exam | Every 6–12 mo from age 25 | Annual from age 30 | [10][12] | | Risk-reducing mastectomy | <strong>Discuss/offer</strong> (high-penetrance gene) | Consider bilateral RRM ± reconstruction | [1][10][12][13] | | Chemoprevention | May consider (SERM/AI; ILC is ER+) | May reduce risk ~50% | [10][12] | | If MRI unavailable | Contrast-enhanced mammography or MBI; then US | US + annual mammography | [11][12] | </mdtable></p>
+<p>About one-third of female carriers elect risk-reducing mastectomy, most with a positive breast family history; nipple-sparing mastectomy is considered safe, and completeness of resection drives risk reduction[24][25][23]. Screening recommendations are largely <strong>extrapolated from BRCA data</strong> — no randomized trial compares MRI screening to RRM in <em>CDH1</em> carriers[10][15].</p>
+<p><visual>GENE-A-7[1]</visual></p>
+</section>
+<section id="take-home-messages-for-the-surgical-resident" class="slide level2">
+<h2>10. Take-home messages for the surgical resident</h2>
+<ol type="1">
+<li><em>CDH1</em> → E-cadherin; <strong>two-hit</strong> biallelic loss (germline + methylation/LOH) initiates DGC and ILC[2][117][119].</li>
+<li><strong>Nearly every carrier harbors occult pT1a signet-ring foci (88–97%), but most never progress</strong>; advanced-cancer prevalence at PTG is only 2–3%[40][160].</li>
+<li><strong>Contemporary advanced-cancer risk is ~10% (M) / ~7% (F)</strong> to age 80 — far below historical figures — and scales with <strong>family history</strong> (up to ~38% with 3 affected FDRs)[4][35][37].</li>
+<li>Surveillance = <strong>modified Cambridge protocol</strong> with mucosal cleaning, distensibility check, NBI, targeted + 24 random biopsies; its goal is to catch <strong>&gt;pT1a</strong> disease, not to hunt pT1a foci[60].</li>
+<li>PTG technical imperatives: <strong>complete resection with frozen-section margins, D1 nodes only, Roux-en-Y with a 40–50 cm limb</strong>; &lt;1% mortality but 100% lifelong nutritional/GI consequences[144][150][157].</li>
+<li><strong>Select for surgery by risk profile:</strong> truncating variant + strong DGC family history + young/fit + expert center → PTG; VUS, no family history, elderly/comorbid, or breast-predominant kindred → surveillance and referral[48][183][184].</li>
+<li><strong>Manage the breast in parallel</strong> — MRI from age 30, discuss risk-reducing mastectomy[1][12].</li>
+<li>Care belongs in a <strong>multidisciplinary, high-volume HDGC program</strong> (surgery, genetics, GI, pathology, dietetics, psychology)[144][168].</li>
+</ol>
+</section>
+<section class="slide level2">
+
+<p><em>Prepared as a teaching resource from current NCCN (v1.2026), IGCLC 2020, and primary literature. Figures referenced in the accompanying answer illustrate carcinogenesis (Gamble et al., JAMA Surg 2021), penetrance (Ryan et al., JAMA 2024), gastrectomy outcomes (Stillman et al., 2022), and the surgery-vs-surveillance decision (Corso et al., 2024).</em></p>
+
+
+</section>
+    </div>
+  <div class="quarto-auto-generated-content" style="display: none;">
+<p><img src="atriumlogo.jpg" class="slide-logo"></p>
+<div class="footer footer-default">
+<p><a href="https://gisurgonc.github.io/talks/">GI Surgical Oncology Talks</a></p>
+</div>
+</div></div>
+
+  <script>window.backupDefine = window.define; window.define = undefined;</script>
+  <script src="site_libs/revealjs/dist/reveal.js"></script>
+  <!-- reveal.js plugins -->
+  <script src="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  
+
+  <script src="site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="site_libs/revealjs/plugin/math/math.js"></script>
+  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+'controlsAuto': true,
+'previewLinksAuto': false,
+'pdfSeparateFragments': false,
+'autoAnimateEasing': "ease",
+'autoAnimateDuration': 1,
+'autoAnimateUnmatched': true,
+'jumpToSlide': true,
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'smaller': false,
+ 
+        // Display controls in the bottom right corner
+        controls: false,
+
+        // Help the user learn the controls by providing hints, for example by
+        // bouncing the down arrow when they first encounter a vertical slide
+        controlsTutorial: false,
+
+        // Determines where controls appear, "edges" or "bottom-right"
+        controlsLayout: 'edges',
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: 'faded',
+
+        // Display a presentation progress bar
+        progress: true,
+
+        // Display the page number of the current slide
+        slideNumber: 'c/t',
+
+        // 'all', 'print', or 'speaker'
+        showSlideNumber: 'all',
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: false,
+
+        // Flags if we should monitor the hash and change slides accordingly
+        respondToHashChanges: true,
+
+        // Push each slide change to the browser history
+        history: true,
+
+        // Enable keyboard shortcuts for navigation
+        keyboard: true,
+
+        // Enable the slide overview mode
+        overview: true,
+
+        // Disables the default reveal.js slide layout (scaling and centering)
+        // so that you can use custom CSS layout
+        disableLayout: false,
+
+        // Vertical centering of slides
+        center: false,
+
+        // Enables touch navigation on devices with touch input
+        touch: true,
+
+        // Loop the presentation
+        loop: false,
+
+        // Change the presentation direction to be RTL
+        rtl: false,
+
+        // see https://revealjs.com/vertical-slides/#navigation-mode
+        navigationMode: 'linear',
+
+        // Randomizes the order of slides each time the presentation loads
+        shuffle: false,
+
+        // Turns fragments on and off globally
+        fragments: true,
+
+        // Flags whether to include the current fragment in the URL,
+        // so that reloading brings you to the same fragment position
+        fragmentInURL: false,
+
+        // Flags if the presentation is running in an embedded mode,
+        // i.e. contained within a limited portion of the screen
+        embedded: false,
+
+        // Flags if we should show a help overlay when the questionmark
+        // key is pressed
+        help: true,
+
+        // Flags if it should be possible to pause the presentation (blackout)
+        pause: true,
+
+        // Flags if speaker notes should be visible to all viewers
+        showNotes: false,
+
+        // Global override for autoplaying embedded media (null/true/false)
+        autoPlayMedia: null,
+
+        // Global override for preloading lazy-loaded iframes (null/true/false)
+        preloadIframes: null,
+
+        // Number of milliseconds between automatically proceeding to the
+        // next slide, disabled when set to 0, this value can be overwritten
+        // by using a data-autoslide attribute on your slides
+        autoSlide: 0,
+
+        // Stop auto-sliding after user input
+        autoSlideStoppable: true,
+
+        // Use this method for navigation when auto-sliding
+        autoSlideMethod: null,
+
+        // Specify the average time in seconds that you think you will spend
+        // presenting each slide. This is used to show a pacing timer in the
+        // speaker view
+        defaultTiming: null,
+
+        // Enable slide navigation via mouse wheel
+        mouseWheel: false,
+
+        // The display mode that will be used to show slides
+        display: 'block',
+
+        // Hide cursor if inactive
+        hideInactiveCursor: true,
+
+        // Time before the cursor is hidden (in ms)
+        hideCursorTime: 5000,
+
+        // Opens links in an iframe preview overlay
+        previewLinks: false,
+
+        // Transition style (none/fade/slide/convex/concave/zoom)
+        transition: 'none',
+
+        // Transition speed (default/fast/slow)
+        transitionSpeed: 'default',
+
+        // Transition style for full page slide backgrounds
+        // (none/fade/slide/convex/concave/zoom)
+        backgroundTransition: 'none',
+
+        // Number of slides away from the current that are visible
+        viewDistance: 3,
+
+        // Number of slides away from the current that are visible on mobile
+        // devices. It is advisable to set this to a lower number than
+        // viewDistance in order to save resources.
+        mobileViewDistance: 2,
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1600,
+
+        height: 900,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        math: {
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          config: 'TeX-AMS_HTML-full',
+          tex2jax: {
+            inlineMath: [['\\(','\\)']],
+            displayMath: [['\\[','\\]']],
+            balanceBraces: true,
+            processEscapes: false,
+            processRefs: true,
+            processEnvironments: true,
+            preview: 'TeX',
+            skipTags: ['script','noscript','style','textarea','pre','code'],
+            ignoreClass: 'tex2jax_ignore',
+            processClass: 'tex2jax_process'
+          },
+        },
+
+        // reveal.js plugins
+        plugins: [QuartoLineHighlight, PdfExport, RevealMenu, QuartoSupport,
+
+          RevealMath,
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    <script id="quarto-html-after-body" type="application/javascript">
+      window.document.addEventListener("DOMContentLoaded", function (event) {
+        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+        tabsets.forEach(function(tabset) {
+          const tabby = new Tabby('#' + tabset.id);
+        });
+        const isCodeAnnotation = (el) => {
+          for (const clz of el.classList) {
+            if (clz.startsWith('code-annotation-')) {                     
+              return true;
+            }
+          }
+          return false;
+        }
+        const onCopySuccess = function(e) {
+          // button target
+          const button = e.trigger;
+          // don't keep focus
+          button.blur();
+          // flash "checked"
+          button.classList.add('code-copy-button-checked');
+          var currentTitle = button.getAttribute("title");
+          button.setAttribute("title", "Copied!");
+          let tooltip;
+          if (window.bootstrap) {
+            button.setAttribute("data-bs-toggle", "tooltip");
+            button.setAttribute("data-bs-placement", "left");
+            button.setAttribute("data-bs-title", "Copied!");
+            tooltip = new bootstrap.Tooltip(button, 
+              { trigger: "manual", 
+                customClass: "code-copy-button-tooltip",
+                offset: [0, -8]});
+            tooltip.show();    
+          }
+          setTimeout(function() {
+            if (tooltip) {
+              tooltip.hide();
+              button.removeAttribute("data-bs-title");
+              button.removeAttribute("data-bs-toggle");
+              button.removeAttribute("data-bs-placement");
+            }
+            button.setAttribute("title", currentTitle);
+            button.classList.remove('code-copy-button-checked');
+          }, 1000);
+          // clear code selection
+          e.clearSelection();
+        }
+        const getTextToCopy = function(trigger) {
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+        }
+        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+          text: getTextToCopy
+        });
+        clipboard.on('success', onCopySuccess);
+        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+            text: getTextToCopy,
+            container: window.document.getElementById('quarto-embedded-source-code-modal')
+          });
+          clipboardModal.on('success', onCopySuccess);
+        }
+          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+          var mailtoRegex = new RegExp(/^mailto:/);
+            var filterRegex = new RegExp("https:\/\/gisurgonc\.github\.io\/talks\/");
+          var isInternal = (href) => {
+              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+          }
+          // Inspect non-navigation links and adorn them if external
+         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          for (var i=0; i<links.length; i++) {
+            const link = links[i];
+            if (!isInternal(link.href)) {
+              // undo the damage that might have been done by quarto-nav.js in the case of
+              // links that we want to consider external
+              if (link.dataset.originalHref !== undefined) {
+                link.href = link.dataset.originalHref;
+              }
+            }
+          }
+        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+          const config = {
+            allowHTML: true,
+            maxWidth: 500,
+            delay: 100,
+            arrow: false,
+            appendTo: function(el) {
+                return el.closest('section.slide') || el.parentElement;
+            },
+            interactive: true,
+            interactiveBorder: 10,
+            theme: 'light-border',
+            placement: 'bottom-start',
+          };
+          if (contentFn) {
+            config.content = contentFn;
+          }
+          if (onTriggerFn) {
+            config.onTrigger = onTriggerFn;
+          }
+          if (onUntriggerFn) {
+            config.onUntrigger = onUntriggerFn;
+          }
+            config['offset'] = [0,0];
+            config['maxWidth'] = 700;
+          window.tippy(el, config); 
+        }
+        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+        for (var i=0; i<noterefs.length; i++) {
+          const ref = noterefs[i];
+          tippyHover(ref, function() {
+            // use id or data attribute instead here
+            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+            try { href = new URL(href).hash; } catch {}
+            const id = href.replace(/^#\/?/, "");
+            const note = window.document.getElementById(id);
+            if (note) {
+              return note.innerHTML;
+            } else {
+              return "";
+            }
+          });
+        }
+        const findCites = (el) => {
+          const parentEl = el.parentElement;
+          if (parentEl) {
+            const cites = parentEl.dataset.cites;
+            if (cites) {
+              return {
+                el,
+                cites: cites.split(' ')
+              };
+            } else {
+              return findCites(el.parentElement)
+            }
+          } else {
+            return undefined;
+          }
+        };
+        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+        for (var i=0; i<bibliorefs.length; i++) {
+          const ref = bibliorefs[i];
+          const citeInfo = findCites(ref);
+          if (citeInfo) {
+            tippyHover(citeInfo.el, function() {
+              var popup = window.document.createElement('div');
+              citeInfo.cites.forEach(function(cite) {
+                var citeDiv = window.document.createElement('div');
+                citeDiv.classList.add('hanging-indent');
+                citeDiv.classList.add('csl-entry');
+                var biblioDiv = window.document.getElementById('ref-' + cite);
+                if (biblioDiv) {
+                  citeDiv.innerHTML = biblioDiv.innerHTML;
+                }
+                popup.appendChild(citeDiv);
+              });
+              return popup.innerHTML;
+            });
+          }
+        }
+      });
+      </script>
+    
+
+</body></html>

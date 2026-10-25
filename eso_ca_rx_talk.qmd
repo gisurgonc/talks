@@ -303,6 +303,43 @@ Excluded: Squamous cell, gastric cancer, T1N0, T4b, M1
 
 ## MATTERHORN Trial - FLOT $\pm$ Durvalumab
 
+Durvalumab to perioperative FLOT
+
+
+
+FLOT-Durva only for CPS \>= 1%
+
+Durvalumab added to FLOT improved disease-free survival 
+
+
+![](images/MATTERHORN_survival2.png)
+
+
+::: aside
+[@janjigian217]
+[@Tabermeros162]
+:::
+
+## MATTERHORN Trial - FLOT $\pm$ Durvalumab
+
+
+Impact of durvalumab is much less dramatic in patients with diffuse histology
+
+![](images/MATTERHORN_forest_histology.png)
+
+
+::: aside
+[@janjigian217]
+:::
+
+
+
+## MATTERHORN Trial - FLOT $\pm$ Durvalumab
+
+Impact of durvalumab is much less dramatic in clinically node-negative patients
+
+![](images/MATTERHORN_forest_nodes.png)
+
 
 In the matterhorn trial, diffuse type adenocarcinoma of the esophagus or GE junction showed no survival benefit for the addition of durvalumab
 
@@ -316,6 +353,7 @@ Durvalumab added to FLOT improved disease-free survival
 ![](images/matterhorn_survival2.png)
 
 
+
 ::: aside
 [@janjigian217]
 Tabermero S1263
@@ -323,23 +361,7 @@ Tabermero S1263
 
 ## MATTERHORN Trial - FLOT $\pm$ Durvalumab
 
-::::: columns
-::: {.column width="50%"}
-- pCR rate higher
-- Survival benefit regardless of PD-L1
-- Node-positive benefited more
-- Diffuse-type histology did not benefit
-- **Overall survival did not meet the pre-specified threshold**
-:::
 
-::: {.column width="50%"}
-![](images/MATTERHORN_pcr.png)
-:::
-:::::
-
-::: aside
-[@janjigian217]
-:::
 
 ## MSI-High Esophageal and GEJ Adenocarcinoma
 

@@ -1,0 +1,21 @@
+---
+title: "Untitled"
+---
+
+| Col1 | Col2 | Col3 | Col4 |
+|------|------|------|------|
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+|      |      |      |      |
+
+
+
+| Cancer endpoint | Cumulative risk to age 80 | Mean age at onset | References| |---|---|---|---| 
+| **Advanced gastric ca (≥ stage II), males** | **~10.3%** | 47–49 y | [4][35][2] | 
+| **Advanced gastric ca (≥ stage II), females** | **~6.5–7%** | 47–49 y | [4][35][2] | 
+| Gastric ca including occult pT1a, males | 37–42% | — | [2][33][34] | 
+| Gastric ca including occult pT1a, females | 25–33% | — | [2][33][34] | 
+| **Lobular breast cancer (females)** | **37–55%** | 51–54 y (some series ~42 y) | [1][2][3][8] |
