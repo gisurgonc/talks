@@ -341,8 +341,22 @@ Impact of durvalumab is much less dramatic in clinically node-negative patients
 ![](images/MATTERHORN_forest_nodes.png)
 
 
+In the matterhorn trial, diffuse type adenocarcinoma of the esophagus or GE junction showed no survival benefit for the addition of durvalumab
+
+FLOT-Durva only for CPS \>= 1%
+
+FLOT-Durva for node negative only??
+
+Durvalumab added to FLOT improved disease-free survival 
+
+
+![](images/matterhorn_survival2.png)
+
+
+
 ::: aside
 [@janjigian217]
+Tabermero S1263
 :::
 
 ## MATTERHORN Trial - FLOT $\pm$ Durvalumab
@@ -429,11 +443,13 @@ Control group was treated with immediate surgery after ChemoRT
 
 ## Surgery As Necessary Only (SANO) Clinical Trial
 
+!!! Define complete clinical response !!!
+
 Experimental group: After ChemoRT, restaging with EGD x2 and PET
 
 - Persistent disease $\rightarrow$ Surgery
 - Complete Clinical Response (cCR): Negative EGD x2 and negative PET
-  - Surveillance with periodict EGD and CT
+  - Surveillance with periodic EGD and CT
   - Surgery only for an isolated local recurrence
 
 ![](images/NonOp/Slide11.png)
