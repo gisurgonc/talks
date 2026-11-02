@@ -34,8 +34,7 @@ bibliography: zotero.bib
 - Median age at diagnosis: **68 years**
 - Globally, 85% of cases in stomach body or antrum; 15% in the cardia
 - In North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases
-- Overall incidence declining over the past century 
-  - improved food preservation
+- Overall incidence declining over the past century -improved food preservation
   - declining H. pylori prevalence
 
 ::: aside
@@ -107,24 +106,28 @@ Epstein-Barr virus (EBV): associated with \~7.5% of gastric cancers.
 
 ## Histologic Types
 
-+----------------------+-------------------------+-----------------------------------------+
-| Feataures            | Intestinal Type (\~50%) | Diffuse Type (\~30%)                    |
-+======================+=========================+=========================================+
-| Histology            | Glandular/papillary\    | Dedifferentiated, **signet ring cells** |
-|                      | well-differentiated     |                                         |
-+----------------------+-------------------------+-----------------------------------------+
-| Precursor            | Correa cascade          | Does NOT require chronic inflammation   |
-+----------------------+-------------------------+-----------------------------------------+
-| H Pylori Association | Strong                  | Present                                 |
-+----------------------+-------------------------+-----------------------------------------+
-| Location             | Antrum, body            | Any location (or entire stomach)        |
-+----------------------+-------------------------+-----------------------------------------+
-| Gross appearance     | Polypoid, fungating     | Linitis plastica ("leather bottle")     |
-+----------------------+-------------------------+-----------------------------------------+
-| Spread               | Hematogenous (Liver)    | Peritoneal (Krukenburg tumors)          |
-+----------------------+-------------------------+-----------------------------------------+
-| Key mutation         | P53                     | **CDH1** (E-cadherin loss)              |
-+----------------------+-------------------------+-----------------------------------------+
++----------------------+-------------------------+----------------------------------------------------------+
+| Feataures            | Intestinal Type (\~50%) | Diffuse Type (\~30%)                                     |
++======================+=========================+==========================================================+
+| Histology            | Glandular/papillary\    | Poorly cohesive, dedifferentiated, **signet ring cells** |
+|                      | well-differentiated     |                                                          |
++----------------------+-------------------------+----------------------------------------------------------+
+| Precursor            | Follows Correa cascade  | Does NOT require chronic inflammation                    |
++----------------------+-------------------------+----------------------------------------------------------+
+| H Pylori Association | Strong                  | Present                                                  |
++----------------------+-------------------------+----------------------------------------------------------+
+| Location             | Antrum, body            | Any location (or entire stomach)                         |
++----------------------+-------------------------+----------------------------------------------------------+
+| Gross appearance     | Polypoid, fungating     | Linitis plastica ("leather bottle")                      |
++----------------------+-------------------------+----------------------------------------------------------+
+| Spread               | Hematogenous (Liver)    | Peritoneal (Krukenburg tumors, carcinomatosis)           |
++----------------------+-------------------------+----------------------------------------------------------+
+| Key mutation         | P53                     | **CDH1** (E-cadherin loss)                               |
++----------------------+-------------------------+----------------------------------------------------------+
+
+Mixed tumors in 20%
+
+Signet ring cell histology portends resistance to systemic therapy and poor prognosis
 
 ::: aside
 [@patel342]
@@ -418,6 +421,9 @@ StagePrimary Treatment**Early (Tis, T1a)**Endoscopic resection (EMR/ESD) or surg
 - For PD-L1 CPS ≥1: Category 1 recommendation
 - MATTERHORN trial: 2-year EFS 67.4% vs. 58.5% (HR 0.71)
 - Note: Diffuse-type tumors did not show OS advantage with durvalumab addition
+
+
+
 
 **MSI-H/dMMR tumors:**
 

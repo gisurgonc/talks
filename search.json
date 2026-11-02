@@ -2188,21 +2188,21 @@
     "href": "eso_nonop_talk.htm#cross-trial-schema",
     "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
     "section": "CROSS Trial Schema",
-    "text": "CROSS Trial Schema\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\n\n\nC--&gt;I[Surgery]"
+    "text": "CROSS Trial Schema\n\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\n\n\nC--&gt;I[Surgery]"
   },
   {
     "objectID": "eso_nonop_talk.htm#real-world-cross-schema",
     "href": "eso_nonop_talk.htm#real-world-cross-schema",
     "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
     "section": "Real-World CROSS Schema",
-    "text": "Real-World CROSS Schema\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\nC --&gt;F[Fitness Evaluation]\n\nF--&gt; G[High Risk]\n\nF--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
+    "text": "Real-World CROSS Schema\n\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Restaging]\n\nC --&gt;D[Metastatic Disease]\n\nD --&gt; E[Systemic Therapy]\n\nC --&gt;F[Fitness Evaluation]\n\nF--&gt; G[High Risk]\n\nF--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
   },
   {
     "objectID": "eso_nonop_talk.htm#active-surveillance",
     "href": "eso_nonop_talk.htm#active-surveillance",
     "title": "Selective Surgery for Locally-advanced Esophageal Cancer",
     "section": "Active Surveillance",
-    "text": "Active Surveillance\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Clinical Response Evaluation]\n\nC --&gt;D[Metastatic Disease]\n\nC --&gt;K[Persistent Disease]\n\nC --&gt;L[No Detectable Disease]\n\nL--&gt;N[Active Surveillance]\n\nN --&gt; O[Isolated Local Recurrence]\n\nO --&gt; M\n\nN --&gt; P[Metastatic Disease]\n\nP --&gt; E\n\nD --&gt; E[Systemic Therapy]\n\nK --&gt;M[Fitness Evaluation]\n\nM--&gt; G[High Risk]\n\nM--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
+    "text": "Active Surveillance\n\n\n\n\n\n\nflowchart LR\nA[Locally-advanced EsoCa] --&gt;B(ChemoRT)\n\nB--&gt; C[Clinical Response Evaluation]\n\nC --&gt;D[Metastatic Disease]\n\nC --&gt;K[Persistent Disease]\n\nC --&gt;L[No Detectable Disease]\n\nL--&gt;N[Active Surveillance]\n\nN --&gt; O[Isolated Local Recurrence]\n\nO --&gt; M\n\nN --&gt; P[Metastatic Disease]\n\nP --&gt; E\n\nD --&gt; E[Systemic Therapy]\n\nK --&gt;M[Fitness Evaluation]\n\nM--&gt; G[High Risk]\n\nM--&gt;H[Low Risk]\n\nH--&gt;I[Surgery]\n\nG--&gt; E"
   },
   {
     "objectID": "eso_nonop_talk.htm#sano-surgery-as-necessary-only",
@@ -5905,7 +5905,7 @@
     "href": "gastric_ca_overview.htm#global-epidemiology",
     "title": "Gastric Cancer",
     "section": "Global Epidemiology",
-    "text": "Global Epidemiology\n\nIncidence hotspots: East Asia, Eastern Europe, South America\nIncidence 2× higher in males than females\nMedian age at diagnosis: 68 years\nGlobally, 85% of cases in stomach body or antrum; 15% in the cardia\nIn North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases\nOverall incidence declining over the past century\n\nimproved food preservation\ndeclining H. pylori prevalence\n\n\n\n\n(patel342?)"
+    "text": "Global Epidemiology\n\nIncidence hotspots: East Asia, Eastern Europe, South America\nIncidence 2× higher in males than females\nMedian age at diagnosis: 68 years\nGlobally, 85% of cases in stomach body or antrum; 15% in the cardia\nIn North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases\nOverall incidence declining over the past century -improved food preservation\n\ndeclining H. pylori prevalence\n\n\n\n\n(patel342?)"
   },
   {
     "objectID": "gastric_ca_overview.htm#risk-factors---infectious",
@@ -5947,7 +5947,7 @@
     "href": "gastric_ca_overview.htm#histologic-types",
     "title": "Gastric Cancer",
     "section": "Histologic Types",
-    "text": "Histologic Types\n\n\n\n\n\n\n\n\nFeataures\nIntestinal Type (~50%)\nDiffuse Type (~30%)\n\n\n\n\nHistology\nGlandular/papillary\nwell-differentiated\nDedifferentiated, signet ring cells\n\n\nPrecursor\nCorrea cascade\nDoes NOT require chronic inflammation\n\n\nH Pylori Association\nStrong\nPresent\n\n\nLocation\nAntrum, body\nAny location (or entire stomach)\n\n\nGross appearance\nPolypoid, fungating\nLinitis plastica (“leather bottle”)\n\n\nSpread\nHematogenous (Liver)\nPeritoneal (Krukenburg tumors)\n\n\nKey mutation\nP53\nCDH1 (E-cadherin loss)\n\n\n\n\n\n(patel342?)"
+    "text": "Histologic Types\n\n\n\n\n\n\n\n\nFeataures\nIntestinal Type (~50%)\nDiffuse Type (~30%)\n\n\n\n\nHistology\nGlandular/papillary\nwell-differentiated\nPoorly cohesive, dedifferentiated, signet ring cells\n\n\nPrecursor\nFollows Correa cascade\nDoes NOT require chronic inflammation\n\n\nH Pylori Association\nStrong\nPresent\n\n\nLocation\nAntrum, body\nAny location (or entire stomach)\n\n\nGross appearance\nPolypoid, fungating\nLinitis plastica (“leather bottle”)\n\n\nSpread\nHematogenous (Liver)\nPeritoneal (Krukenburg tumors, carcinomatosis)\n\n\nKey mutation\nP53\nCDH1 (E-cadherin loss)\n\n\n\nMixed tumors in 20%\nSignet ring cell histology portends resistance to systemic therapy and poor prognosis\n\n\n(patel342?)"
   },
   {
     "objectID": "gastric_ca_overview.htm#adenocarcinoma-ge-junction---siewert-classification",
@@ -7221,7 +7221,7 @@
     "href": "cdh1.htm#two-hit",
     "title": "CDH1 Pathologic Variants",
     "section": "Two-hit",
-    "text": "Two-hit\n\n\n\n\n\nflowchart TD\n    A[\"Germline CDH1 variant&lt;br/&gt;(1st hit — all cells heterozygous)\"] --&gt; B[\"Somatic 2nd hit&lt;br/&gt;promoter methylation (early) / LOH (late)\"]\n    B --&gt; C[\"Complete E-cadherin loss\"]\n    C --&gt; D[\"Loss of adhesion + randomized&lt;br/&gt;mitotic spindle orientation\"]\n    D --&gt; E[\"Cells deposited into lamina propria&lt;br/&gt;→ intramucosal pT1a signet-ring foci (indolent)\"]\n    E --&gt;|\"Additional hits:&lt;br/&gt;TP53, RhoA, c-Src, EMT\"| F[\"Advanced diffuse gastric cancer&lt;br/&gt;(linitis plastica)\"]\n\n\n\n\n\n\nThe mechanistic engine is spindle misorientation: E-cadherin recruits LGN/NuMA/Gαi–dynein to cell–cell contacts to keep the mitotic spindle parallel to the epithelial plane; when E-cadherin is lost, division orientation randomizes and daughter cells are displaced out of the epithelium into the lamina propria, seeding signet-ring foci[122][123][124]. Progression from indolent pT1a to advanced DGC requires additional molecular events (TP53, RhoA gain-of-function, c-Src)[94][127]."
+    "text": "Two-hit\n\n\n\n\n\n\nflowchart TD\n    A[\"Germline CDH1 variant&lt;br/&gt;(1st hit — all cells heterozygous)\"] --&gt; B[\"Somatic 2nd hit&lt;br/&gt;promoter methylation (early) / LOH (late)\"]\n    B --&gt; C[\"Complete E-cadherin loss\"]\n    C --&gt; D[\"Loss of adhesion + randomized&lt;br/&gt;mitotic spindle orientation\"]\n    D --&gt; E[\"Cells deposited into lamina propria&lt;br/&gt;→ intramucosal pT1a signet-ring foci (indolent)\"]\n    E --&gt;|\"Additional hits:&lt;br/&gt;TP53, RhoA, c-Src, EMT\"| F[\"Advanced diffuse gastric cancer&lt;br/&gt;(linitis plastica)\"]\n\n\n\n\n\n\nThe mechanistic engine is spindle misorientation: E-cadherin recruits LGN/NuMA/Gαi–dynein to cell–cell contacts to keep the mitotic spindle parallel to the epithelial plane; when E-cadherin is lost, division orientation randomizes and daughter cells are displaced out of the epithelium into the lamina propria, seeding signet-ring foci[122][123][124]. Progression from indolent pT1a to advanced DGC requires additional molecular events (TP53, RhoA gain-of-function, c-Src)[94][127]."
   },
   {
     "objectID": "cdh1.htm#histopathology-the-finding-you-will-see-in-nearly-every-specimen",
@@ -8334,7 +8334,7 @@
     "href": "cdh1-lecture-surgical-residents.htm#two-hit",
     "title": "CDH1 Pathologic Variants",
     "section": "Two-hit",
-    "text": "Two-hit\n\n\n\n\n\nflowchart TD\n    A[\"Germline CDH1 variant&lt;br/&gt;(1st hit — all cells heterozygous)\"] --&gt; B[\"Somatic 2nd hit&lt;br/&gt;promoter methylation (early) / LOH (late)\"]\n    B --&gt; C[\"Complete E-cadherin loss\"]\n    C --&gt; D[\"Loss of adhesion + randomized&lt;br/&gt;mitotic spindle orientation\"]\n    D --&gt; E[\"Cells deposited into lamina propria&lt;br/&gt;→ intramucosal pT1a signet-ring foci (indolent)\"]\n    E --&gt;|\"Additional hits:&lt;br/&gt;TP53, RhoA, c-Src, EMT\"| F[\"Advanced diffuse gastric cancer&lt;br/&gt;(linitis plastica)\"]\n\n\n\n\n\n\nThe mechanistic engine is spindle misorientation: E-cadherin recruits LGN/NuMA/Gαi–dynein to cell–cell contacts to keep the mitotic spindle parallel to the epithelial plane; when E-cadherin is lost, division orientation randomizes and daughter cells are displaced out of the epithelium into the lamina propria, seeding signet-ring foci[122][123][124]. Progression from indolent pT1a to advanced DGC requires additional molecular events (TP53, RhoA gain-of-function, c-Src)[94][127]."
+    "text": "Two-hit\n\n\n\n\n\n\nflowchart TD\n    A[\"Germline CDH1 variant&lt;br/&gt;(1st hit — all cells heterozygous)\"] --&gt; B[\"Somatic 2nd hit&lt;br/&gt;promoter methylation (early) / LOH (late)\"]\n    B --&gt; C[\"Complete E-cadherin loss\"]\n    C --&gt; D[\"Loss of adhesion + randomized&lt;br/&gt;mitotic spindle orientation\"]\n    D --&gt; E[\"Cells deposited into lamina propria&lt;br/&gt;→ intramucosal pT1a signet-ring foci (indolent)\"]\n    E --&gt;|\"Additional hits:&lt;br/&gt;TP53, RhoA, c-Src, EMT\"| F[\"Advanced diffuse gastric cancer&lt;br/&gt;(linitis plastica)\"]\n\n\n\n\n\n\nThe mechanistic engine is spindle misorientation: E-cadherin recruits LGN/NuMA/Gαi–dynein to cell–cell contacts to keep the mitotic spindle parallel to the epithelial plane; when E-cadherin is lost, division orientation randomizes and daughter cells are displaced out of the epithelium into the lamina propria, seeding signet-ring foci[122][123][124]. Progression from indolent pT1a to advanced DGC requires additional molecular events (TP53, RhoA gain-of-function, c-Src)[94][127]."
   },
   {
     "objectID": "cdh1-lecture-surgical-residents.htm#histopathology-the-finding-you-will-see-in-nearly-every-specimen",
