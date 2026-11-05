@@ -14,8 +14,8 @@ format:
   pdf:
     includes:
       in-header: "preamble.tex"
-  #pptx: 
-    #reference-doc: talks.pptx
+  pptx: 
+    reference-doc: talks.pptx
 editor: visual
 bibliography: zotero.bib
 ---
@@ -25,3 +25,22 @@ bibliography: zotero.bib
 
 Optimal dimensions of graphics: 1920 x 925 (better than 950 or 975 or 1080)
 
+## Layout
+
+::: {layout="[[1,1,1,-1], [1,1,1,1]]"}
+![Surus](images/janus_trial.png)
+
+![Surus](images/janus_trial.png)
+
+![Surus](images/janus_trial.png)
+
+
+
+![Surus](images/janus_trial.png)
+
+![Surus](images/janus_trial.png)
+
+![Surus](images/janus_trial.png)
+
+Six
+:::
