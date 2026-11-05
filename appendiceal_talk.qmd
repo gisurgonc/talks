@@ -14,6 +14,14 @@ format:
 editor: visual
 ---
 
+## Appendiceal Epithelial Neoplasms WHO Classification (2019)
+
+- Serrated lesions and polyps
+- Mucinous neoplasms (LAMN, HAMN)
+- Adenocarcinoma
+- Goblet cell adenocarcinoma (GCA)
+- Neuroendocrine neoplasms
+
 ## Low-grade mucinous Neoplasms (LAMN)
 
 - Low-grade epithelial neoplasm of the appendix
@@ -23,24 +31,22 @@ editor: visual
 - 2.1% of appendectomy specimens
 
 
-## Low-grade Mucinous Neoplasms (LAMN) Typical Pathology
+## Low-grade Mucinous Neoplasms (LAMN) - Pathology
 
 - Distinct "pushing border" invasion (NOT infiltrative with desmoplasia)
 - Atrophy of the appendiceal wall
 - Loss of lymphoid tissue
 - Effacement of the muscularis mucosa
 - Common mucin pools that can extend into serosa and beyond
+- Genetics:
+  - Microsatellite stable (MSS)
+  - BRAF V600E negative
+  - KRAS mutations frequently present (approximately 50% of cases)
+  - GNAS mutations may be present
 
-## Low-grade Mucinous Neoplasms (LAMN) Typical Pathology
+## Low-grade Mucinous Neoplasms (LAMN) - Behavior
 
-- Microsatellite stable (MSS)
-- BRAF V600E negative
-- KRAS mutations frequently present (approximately 50% of cases)
-- GNAS mutations may be present
-
-## 
-
-In the ovary, this would be a cystadenoma
+Biologic equivalent of ovarian cystadenoma
 
 Not invasive - equivalent of a polyp
 
@@ -53,13 +59,7 @@ In the ovary - mucinous carcinoma
 
 ## High-grade appendiceal mucinous neoplasm (HAMN)
 
-## Appendiceal Epithelial Neoplasms WHO Classification (2019)
 
-- Serrated lesions and polyps
-- Mucinous neoplasms (LAMN, HAMN)
-- Adenocarcinoma
-- Goblet cell adenocarcinoma (GCA)
-- Neuroendocrine neoplasms
 
 ## Low-grade mucinous Neoplasms (LAMN) Staging AJCC 9^e^ - Tumor
 
@@ -77,7 +77,7 @@ In the ovary - mucinous carcinoma
 
 ## Pseudomyxoma Peritonei (PMP)
 
-*Clinlical* syndrome
+*Clinical* syndrome
 
 - Progressive accumulation of gelatinous mucinous ascites
 - Diffuse peritoneal deposits
@@ -88,13 +88,10 @@ Clinical Features
 
 Common presentations:
 
-Gradually increasing abdominal girth (most common)
-
-Ovarian mass in women (often right-sided)
-
-New-onset hernia in men (sac filled with mucin)
-
-Appendicitis (from ruptured appendiceal mucocele)
+- Gradually increasing abdominal girth (most common)
+- Ovarian mass in women (often right-sided)
+- New-onset hernia in men (sac filled with mucin)
+- Appendicitis (from ruptured appendiceal mucocele)
 
 Characteristic distribution:
 
@@ -108,29 +105,21 @@ Abdominal gutters, pelvis, cul-de-sac
 
 Spares mobile portions of small bowel (critical surgical feature)
 
-Prognosis by Peritoneal Disease Grade
+## Pseudomyxoma Peritonei (PMP) - Prognosis by Peritoneal Disease Grade
 
-Acellular mucin (pM1a): Low risk of progression, especially if confined to right lower quadrant
-
-Low-grade cellular mucin: Intermediate prognosis
-
-High-grade cellular mucin with signet ring cells: Much worse prognosis
+- Acellular mucin (pM1a): Low risk of progression, especially if confined to right lower quadrant
+- Low-grade cellular mucin: Intermediate prognosis
+- High-grade cellular mucin with signet ring cells: Much worse prognosis
 
 Clinical Presentation Diagnosis
 
 Presenting Symptoms
-
-Acute appendicitis (most common)
-
-Abdominal pain or mass
-
-Incidental finding on imaging
-
-Mucocele on imaging
+- Acute appendicitis (most common)
+- Abdominal pain or mass
+- Incidental finding on imaging
+- Mucocele on imaging
 
 Diagnostic Workup
-
-Initial evaluation:
 
 CT abdomen/pelvis with oral and IV contrast
 
@@ -152,7 +141,7 @@ Obtain biopsies and/or appendectomy if feasible
 
 Note: FDG-PET/CT is NOT routinely indicated
 
-Surgical Management
+## Surgical Management
 
 Localized Disease (Appendix Only)
 
@@ -404,6 +393,14 @@ Key evidence-based recommendations include the sufficiency of appendectomy for l
 
 The prognosis section reflects recent data showing excellent outcomes for appendix-confined disease with essentially no recurrences, while peritoneal disease has 5-year survival rates of 79-86% and 10-year survival of 45-46%. [7-9] The lecture emphasizes that the presence and cellularity of peritoneal deposits are the most important prognostic factors. [1][7]
 
-Would you like me to create accompanying visual aids, case-based scenarios, or a condensed handout version of this lecture?
+## Serrated Sessile Lesions (SSL)
+
+Rare: less than 1% of appendectomy specimens.
+Typically small (<1cm)
+Distinct from LAMN
+Typically KRAS mutations
+Appendectomy adequate for lesions with negative margins and no high-grade dysplasia
+Associated with incrased risk of synchronous or metachronous colorectal polyps/cancer
+- Follow-up colonoscopy 
 
 

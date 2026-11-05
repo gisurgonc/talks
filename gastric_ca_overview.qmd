@@ -34,8 +34,7 @@ bibliography: zotero.bib
 - Median age at diagnosis: **68 years**
 - Globally, 85% of cases in stomach body or antrum; 15% in the cardia
 - In North America/Western Europe, cardia/GEJ tumors are 30%–40% of cases
-- Overall incidence declining over the past century 
-  - improved food preservation
+- Overall incidence declining over the past century -improved food preservation
   - declining H. pylori prevalence
 
 ::: aside
@@ -107,24 +106,28 @@ Epstein-Barr virus (EBV): associated with \~7.5% of gastric cancers.
 
 ## Histologic Types
 
-+----------------------+-------------------------+-----------------------------------------+
-| Feataures            | Intestinal Type (\~50%) | Diffuse Type (\~30%)                    |
-+======================+=========================+=========================================+
-| Histology            | Glandular/papillary\    | Dedifferentiated, **signet ring cells** |
-|                      | well-differentiated     |                                         |
-+----------------------+-------------------------+-----------------------------------------+
-| Precursor            | Correa cascade          | Does NOT require chronic inflammation   |
-+----------------------+-------------------------+-----------------------------------------+
-| H Pylori Association | Strong                  | Present                                 |
-+----------------------+-------------------------+-----------------------------------------+
-| Location             | Antrum, body            | Any location (or entire stomach)        |
-+----------------------+-------------------------+-----------------------------------------+
-| Gross appearance     | Polypoid, fungating     | Linitis plastica ("leather bottle")     |
-+----------------------+-------------------------+-----------------------------------------+
-| Spread               | Hematogenous (Liver)    | Peritoneal (Krukenburg tumors)          |
-+----------------------+-------------------------+-----------------------------------------+
-| Key mutation         | P53                     | **CDH1** (E-cadherin loss)              |
-+----------------------+-------------------------+-----------------------------------------+
++----------------------+-------------------------+----------------------------------------------------------+
+| Feataures            | Intestinal Type (\~50%) | Diffuse Type (\~30%)                                     |
++======================+=========================+==========================================================+
+| Histology            | Glandular/papillary\    | Poorly cohesive, dedifferentiated, **signet ring cells** |
+|                      | well-differentiated     |                                                          |
++----------------------+-------------------------+----------------------------------------------------------+
+| Precursor            | Follows Correa cascade  | Does NOT require chronic inflammation                    |
++----------------------+-------------------------+----------------------------------------------------------+
+| H Pylori Association | Strong                  | Present                                                  |
++----------------------+-------------------------+----------------------------------------------------------+
+| Location             | Antrum, body            | Any location (or entire stomach)                         |
++----------------------+-------------------------+----------------------------------------------------------+
+| Gross appearance     | Polypoid, fungating     | Linitis plastica ("leather bottle")                      |
++----------------------+-------------------------+----------------------------------------------------------+
+| Spread               | Hematogenous (Liver)    | Peritoneal (Krukenburg tumors, carcinomatosis)           |
++----------------------+-------------------------+----------------------------------------------------------+
+| Key mutation         | P53                     | **CDH1** (E-cadherin loss)                               |
++----------------------+-------------------------+----------------------------------------------------------+
+
+Mixed tumors in 20%
+
+Signet ring cell histology portends resistance to systemic therapy and poor prognosis
 
 ::: aside
 [@patel342]
@@ -154,21 +157,21 @@ Type III: Subcardial
 
 ## Molecular Genetics
 
-+----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
-| Subtype                          | Freq       | Features                                                                   | Clinical Relevance                             |
-+==================================+============+============================================================================+================================================+
-| Chromosomal instability (CIN)    | \~50%      | TP53 mutations, aneuploidy, RTK amplifications (HER2, EGFR, FGFR2)         | Responds to cisplatin-based chemo\             |
-|                                  |            |                                                                            | HER2-targeted therapy                          |
-+----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
-| Microsatellite Instability (MSI) | \~!20%     | High mutation burden, MLH1 hypermethylation, dense lymphocyte infiltration | Better prognosis\                              |
-|                                  |            |                                                                            | Responds to immune checkpoint inhibitors (ICI) |
-+----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
-| EBV-Positive                     | \~9%       | PIK3CA mutations, PD-L1/PD-L2 amplification, extreme DNA hypermethylation  | High immunogenicity\                           |
-|                                  |            |                                                                            | Responds to immunotherapy                      |
-+----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
-| Genomically Stabale (GS)         | \~20%      | CDH1-RHOA mutations CLDN18-ARHGAP fusions                                  | Worst prognosis\                               |
-|                                  |            |                                                                            | Target for CLDN18-2 Tx                         |
-+----------------------------------+------------+----------------------------------------------------------------------------+------------------------------------------------+
++----------------------------------+--------+----------------------------------------------------------------------------+------------------------------------------------+
+| Subtype                          | Freq   | Features                                                                   | Clinical Relevance                             |
++==================================+========+============================================================================+================================================+
+| Chromosomal instability (CIN)    | \~50%  | TP53 mutations, aneuploidy, RTK amplifications (HER2, EGFR, FGFR2)         | Responds to cisplatin-based chemo\             |
+|                                  |        |                                                                            | HER2-targeted therapy                          |
++----------------------------------+--------+----------------------------------------------------------------------------+------------------------------------------------+
+| Microsatellite Instability (MSI) | \~!20% | High mutation burden, MLH1 hypermethylation, dense lymphocyte infiltration | Better prognosis\                              |
+|                                  |        |                                                                            | Responds to immune checkpoint inhibitors (ICI) |
++----------------------------------+--------+----------------------------------------------------------------------------+------------------------------------------------+
+| EBV-Positive                     | \~9%   | PIK3CA mutations, PD-L1/PD-L2 amplification, extreme DNA hypermethylation  | High immunogenicity\                           |
+|                                  |        |                                                                            | Responds to immunotherapy                      |
++----------------------------------+--------+----------------------------------------------------------------------------+------------------------------------------------+
+| Genomically Stabale (GS)         | \~20%  | CDH1-RHOA mutations CLDN18-ARHGAP fusions                                  | Worst prognosis\                               |
+|                                  |        |                                                                            | Target for CLDN18-2 Tx                         |
++----------------------------------+--------+----------------------------------------------------------------------------+------------------------------------------------+
 
 ## Intestinal-type gastric carcinogenesis: Corea Cascade
 
@@ -176,18 +179,18 @@ Normal mucosa → Chronic gastritis (H. pylori) → Atrophic gastritis → Intes
 
 ## Gastric Cancer Treatment Categories
 
-+-------------------------------------+-------------+-------------+------------------------+
-| Category                            | AJCC        | Stage       | Treatment              |
-+=====================================+=============+:===========:+:=======================+
-| [Superficial Tumors](#superficial)  | I           | T1a         | Endoscopic Therapy     |
-+-------------------------------------+-------------+-------------+------------------------+
-| [Localized Tumors](#localized)      | IIB         | T1b T2      | Surgery                |
-+-------------------------------------+-------------+-------------+------------------------+
-| [Locally-advanced](#local_advanced) | III\        | T3 or N^+^  | Chemo → Surgery→ Chemo |
-|                                     | IIA         |             |                        |
-+-------------------------------------+-------------+-------------+------------------------+
-| [Metastatic](#metastatic)           | IVB         | M1          | Chemotherapy           |
-+-------------------------------------+-------------+-------------+------------------------+
++-------------------------------------+------+------------+------------------------+
+| Category                            | AJCC | Stage      | Treatment              |
++=====================================+======+:==========:+:=======================+
+| [Superficial Tumors](#superficial)  | I    | T1a        | Endoscopic Therapy     |
++-------------------------------------+------+------------+------------------------+
+| [Localized Tumors](#localized)      | IIB  | T1b T2     | Surgery                |
++-------------------------------------+------+------------+------------------------+
+| [Locally-advanced](#local_advanced) | III\ | T3 or N^+^ | Chemo → Surgery→ Chemo |
+|                                     | IIA  |            |                        |
++-------------------------------------+------+------------+------------------------+
+| [Metastatic](#metastatic)           | IVB  | M1         | Chemotherapy           |
++-------------------------------------+------+------------+------------------------+
 
 ## Superficial Gastric Cancer {#superficial}
 
