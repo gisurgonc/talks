@@ -1,0 +1,398 @@
+---
+title: "CDH1 Pathologic Variants"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    logo: "atriumlogo.jpg"
+    footer: "[GI Surgical Oncology Talks](https://gisurgonc.github.io/talks/)"
+    #css: ["theme/theme.css"]
+    theme: default
+      
+    echo: false
+editor: visual
+bibliography: zotero.bib
+---
+---
+title: "The More You Look, the More You Find"
+subtitle: "Ascertainment Bias in Clinical Research and Practice"
+author: "A teaching session for medical students"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    show-slide-number: all
+    footer: "Ascertainment Bias · Medical Student Teaching Session"
+    transition: fade
+    preview-links: auto
+    menu: true
+    width: 1280
+    height: 720
+---
+
+## Opening Question
+
+Two hospitals report postoperative blood clots (VTE):
+
+:::: {.columns}
+::: {.column width="50%"}
+### Hospital A
+**5** VTEs per 1,000 surgical patients
+:::
+::: {.column width="50%"}
+### Hospital B
+**13** VTEs per 1,000 surgical patients
+:::
+::::
+
+::: {.fragment}
+> **Which hospital is safer?**
+:::
+
+::: {.notes}
+Open with the provocative question and take a quick show of hands. Tell students they will be able to answer it by the end of the session. Most will choose Hospital A.
+:::
+
+## Learning Objectives
+
+By the end of this session, you should be able to:
+
+::: {.incremental}
+1. **Define** ascertainment bias and explain how it distorts disease frequency and exposure–outcome associations
+2. **Distinguish** it from related biases (detection, surveillance, verification, screening-related biases, observer bias)
+3. **Recognize** it in classic and contemporary examples from epidemiology, genetics, quality measurement, infectious disease, and trials
+4. **Predict** the direction of the bias (over- vs. underestimation)
+5. **Apply** design and analysis strategies that prevent or reduce it
+:::
+
+## Warm-Up Case
+
+In the 1970s, case-control studies reported that postmenopausal women taking estrogen had **~6 to 12 times** the odds of endometrial cancer.
+
+But estrogen causes **uterine bleeding**, and bleeding leads to **D&C or biopsy**.
+
+::: {.fragment}
+> **Question:** Were estrogen users really getting more cancer, or were doctors just *finding* more of the cancer that was already there?
+:::
+
+::: {.fragment}
+*Hold that thought; we come back to it in Example 1.*
+:::
+
+## What Is Ascertainment Bias? {.smaller}
+
+**Ascertainment** = the process by which study subjects, cases, or outcomes are *identified*.
+
+**Ascertainment bias** = a **systematic error** that arises when the way cases or outcomes are identified differs between groups, or when the identified sample does not represent the population of interest.
+
+Two main ways it shows up:
+
+| Mechanism | What goes wrong | Typical result |
+|---|---|---|
+| **Who gets sampled** | Study population is enriched for people more likely to have (or be diagnosed with) the disease | Inflated estimates of prevalence, penetrance, or severity |
+| **How outcomes are detected** | One group is examined, tested, or followed more intensively than another | Spurious or exaggerated associations |
+
+::: {.aside}
+Sources: Hamilton et al., *Nature Reviews Clinical Oncology* (2016), which describe ascertainment bias as a study population unrepresentative of the whole, usually at higher risk; the American Heart Association scientific statement on observational research (Mac Grory et al., 2026), which describes differential outcome detection driven by knowledge of exposure as a form of ascertainment bias.
+:::
+
+## A Note on Terminology {.smaller}
+
+Textbooks don't all use the same labels. **Ascertainment bias** often serves as an umbrella term, overlapping with:
+
+| Term | Core idea |
+|---|---|
+| **Detection bias** | Outcome detection differs between exposed and unexposed people |
+| **Surveillance bias** | Some groups are monitored more closely, so more outcomes are found |
+| **Diagnostic suspicion bias** | Knowing about an exposure prompts a more intensive search for disease |
+| **Verification (work-up) bias** | Only test-positive patients get the gold-standard test, which inflates sensitivity |
+| **Lead-time / length-time bias, overdiagnosis** | Screening finds disease earlier, and finds more slow-growing disease |
+| **Observer (assessor) bias** | Unblinded assessors judge outcomes differently by treatment arm |
+
+Some classify it as **selection bias** (sampling), others as **information bias** (measurement). The label matters less than **asking how the cases were found**.
+
+::: {.aside}
+Sources: Warden, "Definitions of Bias in Clinical Research," *Methods in Molecular Biology* (2021); Mac Grory et al., AHA Scientific Statement (2026); Hamilton et al. (2016).
+:::
+
+## The Core Mechanism
+
+:::: {.columns}
+::: {.column width="45%"}
+```{mermaid}
+%%| fig-width: 4.5
+flowchart TD
+  A["Exposure / group membership"] --> B["More visits, tests,<br/>imaging, biopsies, attention"]
+  B --> C["More (often subclinical)<br/>disease DETECTED"]
+  C --> D["Apparent ↑ disease frequency<br/>or ↑ association"]
+  D -.-> E["...even if TRUE disease<br/>occurrence is identical"]
+```
+:::
+::: {.column width="55%"}
+**Key insight:** For many conditions there is a large hidden "reservoir" of undiagnosed disease, such as:
+
+- small thyroid cancers
+- asymptomatic DVTs
+- mild infections
+- subclinical prostate cancer
+
+How hard you look decides how much of that reservoir you see.
+:::
+::::
+
+## Example 1: Estrogen and Endometrial Cancer {.smaller}
+
+*A classic debate*
+
+:::: {.columns}
+::: {.column width="50%"}
+### The bias hypothesis
+Horwitz & Feinstein (*NEJM*, 1978):
+
+- Conventional case-control sampling: **OR = 11.98**
+- Alternative controls, all of whom had *also* undergone D&C or hysterectomy for uterine bleeding (that is, equally "looked at"): **OR = 1.7**
+- Their conclusion: detection bias had greatly overestimated the association
+:::
+
+::: {.column width="50%"}
+### The rebuttal
+- Antunes et al. (*NEJM*, 1979; 451 cases): risk was ~**6-fold** overall and **15-fold** with >5 years of use, and the data contradicted the "swifter diagnosis" explanation
+- Spengler et al. (1981): the association persisted after accounting for medical surveillance and prior D&C
+- Prospective cohorts later confirmed a real effect, e.g., the Nurses' Health Study: **RR 7.67** with ≥5 years of unopposed estrogen
+:::
+::::
+
+::: {.fragment}
+**Teaching point:** Ascertainment bias was *plausible and partly real*, but it did not explain away a true causal effect. Trying to fix one bias can introduce another; Horwitz's restricted controls were themselves criticized.
+:::
+
+::: {.notes}
+Emphasize that this debate shaped modern epidemiology. Unopposed estrogen does cause endometrial cancer, which is why progestogens are added for women with a uterus.
+:::
+
+## Example 2: Is Your Hospital "Bad" or Just Vigilant? {.smaller}
+
+**Postoperative VTE as a quality measure.** Bilimoria et al., *JAMA* (2013), ~2,786 US hospitals:
+
+| Hospital imaging quartile | VTE imaging studies / 1,000 discharges | VTE diagnosed / 1,000 discharges |
+|---|---|---|
+| Lowest | 32 | **5.0** |
+| Highest | 167 | **13.5** |
+
+- Hospitals with *higher* structural quality scores had **better** prophylaxis adherence but **higher** risk-adjusted VTE rates (4.8 vs 6.4 per 1,000)
+- Prophylaxis adherence was *positively* correlated with VTE rates, the opposite of what was expected
+
+::: {.fragment}
+**Conclusion:** measured VTE rates reflected *how hard staff looked*, not quality of care.
+:::
+
+::: {.fragment}
+**Supporting data.** Veterans Affairs hospitals (Holcomb et al., *JAMA Surgery*, 2015): more inpatient imaging went with more inpatient VTE (R = 0.33), but **not** with fewer VTEs after discharge.
+
+**Real-world consequence:** vigilant hospitals may be **financially penalized** in pay-for-performance programs (Yang & Bilimoria, *JAMA*, 2016).
+:::
+
+<!-- Optional: insert Figure 3 from Bilimoria et al., JAMA 2013 (risk-adjusted VTE rates by imaging-use quartile) here, if your institution's licensing permits. -->
+
+## Example 3: South Korea's Thyroid Cancer "Epidemic" {.smaller}
+
+- In 1999, a national cancer screening program began. Thyroid ultrasound was **not** included, but hospitals offered it as a cheap add-on
+- By 2011, thyroid cancer diagnoses were **15× the 1993 rate**, making it the most common cancer in the country (Ahn, Kim & Welch, *NEJM*, 2014)
+- **Mortality stayed flat** at ~300–400 deaths/year, while >40,000 people were diagnosed in 2011
+- 1999–2008: incidence rose **6.4-fold**, and **94.4%** of the increase was tumors <20 mm, detected mainly by screening (Park et al., *BMJ*, 2016)
+- About **90%** of thyroid cancers in Korean women in 2008–2012 were attributed to overdiagnosis (Pizzato et al., *Lancet Diabetes & Endocrinology*, 2022)
+
+**Why:** autopsy studies show occult thyroid cancers in roughly 5–36% of people. Ultrasound simply reveals the reservoir.
+
+**Epilogue:** public education campaigns cut thyroid surgeries by ~**35%** and incidence by ~**30%** (Chen & Haymart, *Nature Reviews Endocrinology*, 2026).
+
+::: {.fragment}
+> **Rising incidence + stable mortality = the signature of ascertainment-driven overdiagnosis**
+:::
+
+## Example 4: How Risky Is a BRCA Mutation? {.smaller .scrollable}
+
+**Phenotype-first ascertainment.** Early penetrance estimates came from families recruited *because* they had many cancers.
+
+| Study approach | Breast cancer risk, BRCA1 | Breast cancer risk, BRCA2 |
+|---|---|---|
+| Retrospective family-based studies (to age 70) | 40–87% | 27–84% |
+| Ashkenazi incident cases vs. population controls, no family selection (to age 70) | 46% | 26% |
+| Meta-analysis adjusting for ascertainment (to age 70) | 57% | 49% |
+| Large prospective cohort (to age 80) | 72% | 69% |
+
+- Phenotype-first (clinic-referred) sampling **substantially overestimates** penetrance. Genotype-first (biobank) sampling can **underestimate** it because of recruitment biases (Wright et al., *Nature Genetics*, 2024)
+- Even population-based *case probands* inflate estimates if other risk factors cluster in families (Begg, *JNCI*, 2002)
+- The ACMG (2026) now frames inherited cancer risk as a **continuum** that depends on how the patient was ascertained
+
+**Clinical relevance:** a variant found incidentally on population sequencing probably carries **lower risk** than the same variant found in a woman with a strong family history.
+
+::: {.aside}
+Sources: Kuchenbaecker et al., *JAMA* (2017); Satagopan et al., *Cancer Epidemiology, Biomarkers & Prevention* (2001); Chen & Parmigiani, *Journal of Clinical Oncology* (2007).
+:::
+
+## Example 5: How Deadly Was COVID-19? {.smaller}
+
+**Case fatality rate (CFR) = deaths ÷ *confirmed* cases**
+
+- Early pandemic CFR: **17.3%** across China, and **>20%** at the Wuhan epicenter (Quiroz et al., 2023)
+- Testing capacity was limited, so surveillance **preferentially detected severe cases**, which **biased CFR upward** (Verity et al., *Lancet Infectious Diseases*, 2020)
+- In Osaka, seroprevalence data showed true infections exceeded confirmed cases by up to **8.7-fold** (ages 40–59) and **13.5-fold** (≥60) during wave 2. Under-ascertainment rose again with mild Omicron infections (Zhang & Nishiura, *Scientific Reports*, 2023)
+
+::: {.callout-note}
+## A competing bias
+Deaths lag behind diagnoses (right-censoring), which biases early CFR **downward**.
+:::
+
+**Lesson:** prefer the **infection fatality rate (IFR)**, estimated with serosurveys or modeling, over the naive CFR.
+
+## Example 6: Everyday Clinical Data {.smaller}
+
+**PSA and benign prostatic hyperplasia.** Men with lower urinary tract symptoms are more likely to have PSA checked, so more incidental prostate cancers are found, even though BPH has not been shown to cause cancer (Hamilton et al., 2016).
+
+**Anticoagulants and GI bleeding.** Anticoagulated patients may undergo more endoscopy, so more bleeding events are recorded than in non-anticoagulated comparators (AHA Scientific Statement, 2026).
+
+**Migraine and type 2 diabetes.** Patients with migraine have more visits and labs, so they have more chances to be diagnosed with diabetes, even with no true difference (Turner & Houle, *Headache*, 2019).
+
+**Drug safety monitoring.** Drugs with mandated lab or skin checks generate more detected adverse events than drugs without monitoring requirements.
+
+## Example 7: Ascertainment Bias and Health Equity
+
+- Healthcare data (claims, EHRs) are **not random samples** of the population; they over-represent people with access to care
+- Groups facing barriers such as access, language, cost, or discrimination may be **under-ascertained**. Their disease looks *less common* than it truly is, or is diagnosed later and more severely
+- Example: apparent racial and ethnic differences in **atrial fibrillation** incidence in real-world data may partly reflect differential ascertainment rather than biology (Hulstaert et al., *PLoS One*, 2023)
+
+::: {.callout-tip}
+## Takeaway
+Before concluding "Disease X is rarer in Group Y," ask whether Group Y is *tested* as often.
+:::
+
+## Screening: A Special Case {.smaller}
+
+When screen-detected patients are compared with clinically detected patients, three ascertainment-related biases make screening look better than it is:
+
+| Bias | What happens | Effect |
+|---|---|---|
+| **Lead-time bias** | Diagnosis is moved earlier; death date is unchanged | Survival from diagnosis looks longer |
+| **Length-time bias** | Periodic screening preferentially catches slow-growing tumors | Screen-detected cancers have a better prognosis |
+| **Overdiagnosis** | Detects cancers that would never have caused symptoms | Inflated incidence and "cure" rates |
+
+- About **50%** (range 20–72%) of the survival advantage of screen-detected breast cancers may come from lead-time and length bias alone (Shwartz, *Cancer*, 1980)
+- The proportion of localized cancers *always* rises with screening, whether or not screening works (Keen & Jørgensen, *Journal of Women's Health*, 2015)
+
+::: {.callout-important}
+## Rule
+Judge screening by **mortality reduction in RCTs**, not by survival from diagnosis (Frame, *JAMA*, 2000; Midthun & Jett, 2013).
+:::
+
+## Ascertainment Bias in Randomized Trials {.smaller}
+
+Randomization balances groups at baseline, but **outcome ascertainment** can still be biased when assessors know the treatment assignment.
+
+- Meta-epidemiological study of 66 trials: **non-blinded outcome assessors exaggerated odds ratios by 29% on average** (95% CI 8–45%) (Salazar et al., *Journal of Clinical Epidemiology*, 2025)
+- Systematic survey of 41 meta-epidemiological studies: lack of assessor blinding overestimates effects for **subjective outcomes** (ROR 0.69; high certainty) (Wang et al., 2024)
+- **Counterpoint:** the large MetaBLIND study found no clear average difference (Moustgaard et al., *BMJ*, 2020). The impact likely varies by outcome and context
+
+**Practical fix:** even when surgeons and patients can't be blinded, **outcome assessors usually can be**, for example by an external reviewer rating photographs of wounds (CONSORT 2025).
+
+**Hard outcomes** such as all-cause death are largely immune; **soft outcomes** such as pain, "improvement," and radiographic progression are vulnerable.
+
+## Which Way Does the Bias Push? {.smaller}
+
+| Scenario | Usual direction |
+|---|---|
+| Exposed group examined more intensively | **Overestimates** association (OR/RR biased away from 1) |
+| Unexposed group examined more intensively | **Underestimates** or can reverse the association |
+| Sample enriched for severe or familial cases | **Overestimates** severity, penetrance, CFR |
+| Sample drawn from people with poor access to testing | **Underestimates** prevalence |
+| Equal but imperfect detection in all groups (nondifferential) | Usually biases **toward the null** (with exceptions) |
+
+::: {.aside}
+Source: AHA Scientific Statement on Observational Research (Mac Grory et al., 2026).
+:::
+
+## How to Spot It When Reading a Paper {.smaller}
+
+::: {.incremental}
+1. **How were cases identified?** Clinic referrals? Registries? Screening? Biobank?
+2. **Were all groups examined with equal intensity** (same tests, same visit frequency, same follow-up duration)?
+3. **Did the exposure itself cause symptoms or contact with care** that would prompt testing (e.g., bleeding, side effects, monitoring requirements)?
+4. **Were outcome assessors blinded** to exposure or treatment?
+5. **Is the outcome subjective or prone to subclinical detection?**
+6. **Does incidence rise while mortality stays flat?**
+7. **Would the result change in a population-based, genotype-first, or serosurvey sample?**
+:::
+
+## Prevention and Mitigation {.smaller .scrollable}
+
+| Stage | Strategy | Example |
+|---|---|---|
+| **Design** | Population-based or random sampling | Population cohorts and biobanks for penetrance |
+| **Design** | Standardized, protocol-driven outcome ascertainment for everyone | Same imaging schedule in all arms |
+| **Design** | Blind outcome assessors | Central adjudication committees; photo-based wound assessment |
+| **Design** | Choose comparison groups with equal diagnostic scrutiny | Horwitz–Feinstein "equally examined" controls |
+| **Design** | Use hard or objective endpoints | All-cause mortality rather than survival from diagnosis |
+| **Analysis** | Adjust for healthcare use or follow-up intensity | Number of visits/tests as a covariate |
+| **Analysis** | Use outcomes robust to follow-up variability | Sustained disability rather than single-visit relapse |
+| **Analysis** | Estimate true denominators | Serosurveys for IFR; statistical correction for ascertainment |
+| **Analysis** | Sensitivity analyses / negative control outcomes | Check whether "unrelated" diagnoses are also inflated |
+
+::: {.aside}
+Sources: AHA Scientific Statement (2026); CONSORT 2025 Explanation and Elaboration (Hopewell et al.); Kalincik et al., *Brain* (2023); Wright et al., *Nature Genetics* (2024).
+:::
+
+## Practice Vignettes (1/2) {.smaller}
+
+**Vignette A.** A cohort study finds that patients starting a new immunosuppressant have 2× the rate of diagnosed skin cancer. The drug label requires dermatology exams every 3 months; comparators have no such requirement.
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+**Answer:** Detection/surveillance bias. The exposed group is examined far more often. Fixes: compare with an active comparator that has similar monitoring, restrict to invasive or advanced cancers, or adjust for dermatology visits.
+:::
+:::
+
+**Vignette B.** A cardiogenetics clinic reports 80% penetrance for a cardiomyopathy variant in referred families. A national biobank estimates 15%.
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+**Answer:** Phenotype-first ascertainment bias in the clinic estimate (families came because they were affected). The biobank estimate is likely closer to the truth for incidental carriers, though it may slightly underestimate because of healthy-volunteer recruitment.
+:::
+:::
+
+## Practice Vignettes (2/2) {.smaller}
+
+**Vignette C.** Five-year survival is 80% for screen-detected lung cancers versus 15% for symptom-detected cancers. A newspaper headline says "Screening saves lives!"
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+**Answer:** Lead-time bias, length-time bias, and overdiagnosis can all produce this survival gap even if screening doesn't work. Mortality reduction in a randomized trial is required.
+:::
+:::
+
+**Vignette D.** In an open-label surgical trial, the operating surgeons grade wound healing at 30 days. The new technique looks markedly better.
+
+::: {.fragment}
+::: {.callout-tip appearance="simple"}
+**Answer:** Observer/assessor ascertainment bias with a subjective outcome. Fix: blinded independent assessors, e.g., standardized wound photographs graded centrally.
+:::
+:::
+
+## Key Takeaways {.smaller}
+
+::: {.incremental}
+1. **Ascertainment bias = differences in how cases or outcomes are *found*, not in how often they truly *occur***
+2. "The more you look, the more you find," especially for diseases with a large subclinical reservoir
+3. It can **create, inflate, mask, or even reverse** associations
+4. Classic examples: estrogen–endometrial cancer, VTE quality metrics, Korean thyroid cancer, BRCA penetrance, early COVID-19 CFR
+5. Watch for **rising incidence with flat mortality**, **unequal testing intensity**, **referral-based samples**, and **unblinded soft outcomes**
+6. Best defenses: **population-based sampling, standardized ascertainment, blinded assessment, hard endpoints, and RCT mortality data for screening**
+:::
+
+::: {.fragment}
+> Always ask: **"How did these patients, or these outcomes, get counted?"**
+:::
+
+::: {.notes}
+Return to the opening question. The hospital reporting 13 VTEs per 1,000 may well be the safer, more vigilant one.
+:::

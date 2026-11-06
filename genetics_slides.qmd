@@ -1,5 +1,5 @@
 ---
-title: "Esophageal Cancer Cases"
+title: "Cancer Genetics"
 format: 
   revealjs:
     slide-number: c/t
