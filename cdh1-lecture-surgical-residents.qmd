@@ -15,16 +15,15 @@ editor: visual
 bibliography: zotero.bib
 ---
 
-
 ## Lecture at a glance
 
 A single-slide framing of the syndrome, the two cancers it causes, and the two management arms this lecture develops.
 
 ```         
 ┌───────────────────────────────────────────────────────────────────────────┐
-│         CDH1 GERMLINE PATHOGENIC/LIKELY PATHOGENIC VARIANT                   │
-│         (Hereditary Diffuse Gastric & Lobular Breast Cancer Syndrome)        │
-│         Encodes E-cadherin • ~1 in 5,000–8,000 • tumor suppressor           │
+│         CDH1 GERMLINE PATHOGENIC/LIKELY PATHOGENIC VARIANT                │
+│         (Hereditary Diffuse Gastric & Lobular Breast Cancer Syndrome)     │
+│         Encodes E-cadherin • ~1 in 5,000–8,000 • tumor suppressor         │
 └───────────────────────────────┬───────────────────────────────────────────┘
                                  │
               ┌──────────────────┴───────────────────┐
@@ -44,9 +43,14 @@ A single-slide framing of the syndrome, the two cancers it causes, and the two m
                   risk elimination)
 ```
 
-**Learning objectives** 1. Explain E-cadherin biology and how biallelic *CDH1* inactivation initiates diffuse gastric cancer (DGC) and invasive lobular breast cancer (ILC). 2. Quote the *contemporary* penetrance estimates and the critical distinction between ubiquitous indolent pT1a signet-ring foci and clinically significant advanced cancer. 3. Perform/interpret guideline-concordant endoscopic surveillance (modified Cambridge protocol) and understand its limits. 4. State the indications, timing, technique, pathology, and outcomes of prophylactic total gastrectomy (PTG). 5. **Risk-stratify which carriers should be steered toward surgery vs. surveillance.**
+## Learning Objectives
 
-------------------------------------------------------------------------
+1. Explain E-cadherin biology and how biallelic *CDH1* inactivation initiates diffuse gastric cancer (DGC) and invasive lobular breast cancer (ILC). 
+2. Quote the *contemporary* penetrance estimates and the critical distinction between ubiquitous indolent pT1a signet-ring foci and clinically significant advanced cancer. 
+3. Perform/interpret guideline-concordant endoscopic surveillance (modified Cambridge protocol) and understand its limits. 
+4. State the indications, timing, technique, pathology, and outcomes of prophylactic total gastrectomy (PTG). 
+5. **Risk-stratify which carriers should be steered toward surgery vs. surveillance.**
+
 
 ## 1. The gene and the protein
 
@@ -113,7 +117,7 @@ The signet-ring morphology is a direct read-out of adhesion loss: discohesive ce
 
 ## 4. Cancer risk — the numbers that drive management
 
-Historical kindred-based estimates (67–83% lifetime gastric cancer risk) were inflated by ascertainment bias\[32\]\[30\]. Contemporary, less-selected cohorts — culminating in [@ryan722] **Ryan et al., JAMA 2024** (883 carriers, 213 families) — separate ubiquitous pT1a foci from clinically meaningful disease[4]\[35\].
+Historical kindred-based estimates (67–83% lifetime gastric cancer risk) were inflated by ascertainment bias\[32\]\[30\]. Contemporary, less-selected cohorts — culminating in [@ryan722] **Ryan et al., JAMA 2024** (883 carriers, 213 families) — separate ubiquitous pT1a foci from clinically meaningful disease\[4\]\[35\].
 
 <mdtable> \| Cancer endpoint \| Cumulative risk to age 80 \| Mean age at onset \| References \| \|---\|---\|---\|---\| \| **Advanced gastric ca (≥ stage II), males** \| **\~10.3%** \| 47–49 y \| \[4\]\[35\]\[2\] \| \| **Advanced gastric ca (≥ stage II), females** \| **\~6.5–7%** \| 47–49 y \| \[4\]\[35\]\[2\] \| \| Gastric ca including occult pT1a, males \| 37–42% \| — \| \[2\]\[33\]\[34\] \| \| Gastric ca including occult pT1a, females \| 25–33% \| — \| \[2\]\[33\]\[34\] \| \| **Lobular breast cancer (females)** \| **37–55%** \| 51–54 y (some series \~42 y) \| \[1\]\[2\]\[3\]\[8\] \| </mdtable>
 
