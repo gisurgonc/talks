@@ -7781,7 +7781,7 @@
     "href": "rectal_adjuvant.htm#dutch-preop-short-course-trial-results",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Dutch Preop Short-course Trial Results",
-    "text": "Dutch Preop Short-course Trial Results"
+    "text": "Dutch Preop Short-course Trial Results\n\n\n\n\n\n\n\n\n\nParameter\nRadiotherapy\n+ Surgery (n=897)\nSurgery Alone\n(n=908)\nP-value\n\n\n\n\nLocal recurrence (%)\n2.4%\n8.2%\n0.001\n\n\nDistant metastases (%)\n14.8%\n16.8%\n0.87\n\n\nBoth Local and Distant Recurrence\n16.1%\n20.8%\n0.09\n\n\n2-year overall survival\n82%\n81.8%\n0.84"
   },
   {
     "objectID": "rectal_adjuvant.htm#german-trial-preop-vs-postop-chemort-aio-94",
@@ -7966,11 +7966,18 @@
     "text": "Dostarlimab for Rectal Cancer - MSKCC\n12 patients with MMR-deficient (MSI-high) rectal cancer\nTreatment with PD-L1 blockade with 6 months of dostarlimab for 12 months\n100% clinical response rate\nNo patients were subsequently treated with either chemoradiation or surgery as originally planned.\n\n\n(Cercek et al. 2022)"
   },
   {
+    "objectID": "rectal_adjuvant.htm#dostarlimab-for-rectal-cancer-azur-1",
+    "href": "rectal_adjuvant.htm#dostarlimab-for-rectal-cancer-azur-1",
+    "title": "Rectal Cancer Adjuvant Therapy",
+    "section": "Dostarlimab for Rectal Cancer AZUR-1",
+    "text": "Dostarlimab for Rectal Cancer AZUR-1\n154 Rectal cancer treated with dostarlimab every 3 weeks for 9 cycles\n88% patients completed all 9 cycles of therapy\nComplete clinical response at 12 mo in 68% of 144 evaluable patients\nSurgery in 15 patients: 12 (80%) had pCR\nCombined cCR12 + pCR = 76%"
+  },
+  {
     "objectID": "rectal_adjuvant.htm#swedish-rectal-cancer-trial",
     "href": "rectal_adjuvant.htm#swedish-rectal-cancer-trial",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Swedish Rectal Cancer Trial",
-    "text": "Swedish Rectal Cancer Trial"
+    "text": "Swedish Rectal Cancer Trial\n\n\n\n\n\n\n\n\n\nParameter\nRadiotherapy\n+ Surgery (n=553)\nSurgery Alone\n(n=557)\nP-value\n\n\n\n\nLocal recurrence n(%)\n63 (11)\n150 (27)\n0.001\n\n\nDistant metastases\n84 (19%)\n65(14%)\n-\n\n\nBoth Local and Distant Recurrence\n19(4%)\n47 (10%)\n-\n\n\n5-year overall survival\n58%\n48%\n0.004\n\n\n\nRadiotherapy shown to reduce local recurrence and improve 5-year survival"
   },
   {
     "objectID": "rectal_adjuvant.htm#stockholm-iii",
@@ -7984,7 +7991,7 @@
     "href": "rectal_adjuvant.htm#stockholm-iii-1",
     "title": "Rectal Cancer Adjuvant Therapy",
     "section": "Stockholm III",
-    "text": "Stockholm III"
+    "text": "Stockholm III\n\n\n\n\n\n\n\n\n\n\nParameter\nShort Course RT\nn=129\nShort Course RT\nDelay n=129\nLong Course RT\nDelay n=128\nP-value\n\n\n\n\nLocal recurrence\n3\n4\n7\n0.48\n\n\nDistant metastases\n30\n38\n35\n0.40\n\n\nSurvival (5 years)\n73%\n76%\n78%\n-\n\n\nComplications\n65 (50%)\n48 (38%)\n50 (39%)\n0.075"
   },
   {
     "objectID": "rectal_adjuvant.htm#references",
