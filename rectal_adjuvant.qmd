@@ -136,7 +136,18 @@ Preoperative = *neoadjvant* therapy
 
 ## Dutch Preop Short-course Trial Results
 
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g004.jpg)
++-----------------------------------+-------------------+-------------------+---------+
+| Parameter                         | Radiotherapy\     | Surgery Alone\    | P-value |
+|                                   | + Surgery (n=897) | (n=908)           |         |
++===================================+:=================:+:=================:+=========+
+| Local recurrence (%)              | 2.4%              | 8.2%              | 0.001   |
++-----------------------------------+-------------------+-------------------+---------+
+| Distant metastases (%)            | 14.8%             | 16.8%             | 0.87    |
++-----------------------------------+-------------------+-------------------+---------+
+| Both Local and Distant Recurrence | 16.1%             | 20.8%             | 0.09    |
++-----------------------------------+-------------------+-------------------+---------+
+| 2-year overall survival           | 82%               | 81.8%             | 0.84    |
++-----------------------------------+-------------------+-------------------+---------+
 
 ## German Trial Preop vs Postop ChemoRT (AIO-94)
 
@@ -460,7 +471,7 @@ See [CRC Genetics](crs_genetics_slides.qmd)
 
 Treatment with PD-L1 blockade with 6 months of dostarlimab for 12 months
 
-100% clinical response rate 
+100% clinical response rate
 
 No patients were subsequently treated with either chemoradiation or surgery as originally planned.
 
@@ -468,11 +479,34 @@ No patients were subsequently treated with either chemoradiation or surgery as o
 [@cercek2363]
 :::
 
+## Dostarlimab for Rectal Cancer AZUR-1
 
+154 Rectal cancer treated with dostarlimab every 3 weeks for 9 cycles
+
+88% patients completed all 9 cycles of therapy
+
+Complete clinical response at 12 mo in 68% of 144 evaluable patients
+
+Surgery in 15 patients: 12 (80%) had pCR
+
+Combined cCR12 + pCR = 76%
 
 ## Swedish Rectal Cancer Trial
 
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g003.jpg)
++-----------------------------------+-------------------+-------------------+---------+
+| Parameter                         | Radiotherapy\     | Surgery Alone\    | P-value |
+|                                   | + Surgery (n=553) | (n=557)           |         |
++===================================+===================+===================+=========+
+| Local recurrence n(%)             | 63 (11)           | 150 (27)          | 0.001   |
++-----------------------------------+-------------------+-------------------+---------+
+| Distant metastases                | 84 (19%)          | 65(14%)           | \-      |
++-----------------------------------+-------------------+-------------------+---------+
+| Both Local and Distant Recurrence | 19(4%)            | 47 (10%)          | \-      |
++-----------------------------------+-------------------+-------------------+---------+
+| 5-year overall survival           | 58%               | 48%               | 0.004   |
++-----------------------------------+-------------------+-------------------+---------+
+
+Radiotherapy shown to reduce local recurrence and improve 5-year survival
 
 ## Stockholm III
 
@@ -490,6 +524,17 @@ With short-course radiation, delayed surgery resulted in higher rates of pCR (11
 
 ## Stockholm III
 
-![](https://deidt7p41jzcy.cloudfront.net/AnnGastroenterol-35-226-g006.jpg)
++---------------------+------------------+------------------+-----------------+---------+
+| Parameter           | Short Course RT\ | Short Course RT\ | Long Course RT\ | P-value |
+|                     | n=129            | Delay n=129      | Delay n=128     |         |
++=====================+:================:+:================:+:===============:+=========+
+| Local recurrence    | 3                | 4                | 7               | 0.48    |
++---------------------+------------------+------------------+-----------------+---------+
+| Distant metastases  | 30               | 38               | 35              | 0.40    |
++---------------------+------------------+------------------+-----------------+---------+
+| Survival (5 years)  | 73%              | 76%              | 78%             | \-      |
++---------------------+------------------+------------------+-----------------+---------+
+| Complications       | 65 (50%)         | 48 (38%)         | 50 (39%)        | 0.075   |
++---------------------+------------------+------------------+-----------------+---------+
 
 ## References
